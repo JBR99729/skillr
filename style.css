@@ -87,3 +87,25 @@ main {
         padding: 14px;
     }
 }
+/* Breadcrumb navigation */
+.breadcrumb {
+    font-size: 0.85rem;
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #dddddd;
+    border-radius: 6px;
+}
+
+.breadcrumb a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb span {
+    font-weight: bold;
+}
