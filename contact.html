@@ -1,25 +1,72 @@
+```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Contact</title>
+    <meta charset="UTF-8">
+
+    <!-- EDIT: Page Title -->
+    <title>Contact Skillr Education</title>
+
+    <!-- EDIT: Meta Description -->
+    <meta name="description" content="Contact Skillr Education with questions, feedback or suggestions.">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h1>Contact</h1>
+<div class="container">
 
-<p>Email: your@email.com</p>
-<nav>
-    <a href="index.html">Home</a>
-    <a href="sitemap.html">Sitemap</a>
-    <a href="about.html">About</a>
-    <a href="contact.html">Contact</a>
-    <a href="usefulresources.html">Useful Resources</a>
-</nav>
+    <!-- Main Navigation -->
+    <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="sitemap.html">Sitemap</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="usefulresources.html">Useful Resources</a>
+    </nav>
 
-<nav aria-label="Breadcrumb" class="breadcrumb">
-  <a href="index.html">Home</a> &gt;
-  <span>Contact</span>
-</nav>
+    <!-- Breadcrumb -->
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+        <a href="index.html">Home</a> &gt;
+        <span>Contact</span>
+    </nav>
+
+    <!-- EDIT: Page Heading -->
+    <h1>Contact Skillr Education</h1>
+
+    <!-- EDIT: Introduction -->
+    <p>
+        We welcome feedback, suggestions and enquiries about our educational resources.
+    </p>
+
+    <!-- Contact Form -->
+    <form action="YOUR_GOOGLE_FORM_LINK" method="get" target="_blank">
+
+        <label for="email">Email Address</label><br>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <label for="message">Message</label><br>
+        <textarea id="message" name="message" rows="6" required></textarea>
+        <br><br>
+
+        <button type="submit">Send Message</button>
+
+    </form>
+
+    <footer>
+        <p>© 2026 Skillr Education. All rights reserved.</p>
+
+        <p>
+            Educational resources are provided for students, parents and teachers for learning purposes only.
+            Commercial use, redistribution or resale is strictly prohibited without written permission.
+        </p>
+    </footer>
+
+</div>
+
 </body>
 </html>
+```
