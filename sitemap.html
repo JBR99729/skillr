@@ -1,169 +1,95 @@
-```css
-/* =========================
-   Skillr Education Styles
-   ========================= */
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-    color: #222;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
+    <!-- EDIT: Page Title -->
+    <title>Sitemap | Skillr Education</title>
 
-/* Main Page Container */
-.container {
-    max-width: 1200px;
-    margin: auto;
-    background: #ffffff;
-    padding: 20px;
-}
+    <!-- EDIT: Meta Description -->
+    <meta name="description" content="Browse all sections of the Skillr Education website.">
 
-/* Headings */
-h1 {
-    font-size: 2rem;
-    margin-top: 0;
-}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-h2 {
-    font-size: 1.4rem;
-}
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-h3 {
-    font-size: 1.1rem;
-}
+<div class="container">
 
-/* =========================
-   Navigation
-   ========================= */
+    <!-- Main Navigation -->
+    <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="sitemap.html">Sitemap</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="usefulresources.html">Useful Resources</a>
+    </nav>
 
-.main-nav {
-    margin: 20px 0;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #dddddd;
-}
+    <!-- Breadcrumb -->
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+        <a href="index.html">Home</a> &gt;
+        <span>Sitemap</span>
+    </nav>
 
-.main-nav a {
-    text-decoration: none;
-    color: #222;
-    font-weight: bold;
-    margin-right: 15px;
-}
+    <!-- EDIT: Page Heading -->
+    <h1>Website Sitemap</h1>
 
-.main-nav a:hover {
-    text-decoration: underline;
-}
+    <!-- EDIT: Description -->
+    <p>
+        Browse all available sections of Skillr Education.
+    </p>
 
-/* =========================
-   Breadcrumb
-   ========================= */
+    <h2>Main Pages</h2>
 
-.breadcrumb {
-    margin: 15px 0;
-    font-size: 0.9rem;
-    color: #666;
-}
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="usefulresources.html">Useful Resources</a></li>
+    </ul>
 
-.breadcrumb a {
-    color: #444;
-    text-decoration: none;
-}
+    <h2>Learning Levels</h2>
 
-.breadcrumb a:hover {
-    text-decoration: underline;
-}
+    <ul>
+        <li>
+            <a href="foundation/index.html">Foundation</a>
 
-/* =========================
-   Grid Layout
-   ========================= */
+            <ul>
+                <li>
+                    <a href="foundation/maths/index.html">Maths</a>
 
-.worksheet-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-top: 20px;
-}
+                    <ul>
+                        <li>
+                            <a href="foundation/maths/counting-numbers/index.html">
+                                Counting Numbers
+                            </a>
+                        </li>
+                    </ul>
 
-/* Tiles */
+                </li>
 
-.worksheet-tile {
-    border: 1px solid #dddddd;
-    background: #ffffff;
-    padding: 15px;
-    border-radius: 6px;
-}
+                <li>
+                    <a href="foundation/science/index.html">Science</a>
+                </li>
 
-.worksheet-tile h3 {
-    margin-top: 0;
-}
+            </ul>
 
-.worksheet-tile a {
-    text-decoration: none;
-    font-weight: bold;
-}
+        </li>
+    </ul>
 
-/* =========================
-   Forms
-   ========================= */
+    <footer>
+        <p>© 2026 Skillr Education. All rights reserved.</p>
 
-input,
-textarea {
-    width: 100%;
-    max-width: 600px;
-    padding: 10px;
-    border: 1px solid #cccccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-}
+        <p>
+            Educational resources are provided for students, parents and teachers for learning purposes only.
+            Commercial use, redistribution or resale is strictly prohibited without written permission.
+        </p>
+    </footer>
 
-button {
-    padding: 10px 20px;
-    border: none;
-    background: #222;
-    color: white;
-    cursor: pointer;
-}
+</div>
 
-button:hover {
-    opacity: 0.9;
-}
-
-/* =========================
-   Footer
-   ========================= */
-
-footer {
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: 1px solid #dddddd;
-    font-size: 0.9rem;
-    color: #555;
-}
-
-/* =========================
-   Responsive Layout
-   ========================= */
-
-@media (max-width: 900px) {
-    .worksheet-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media (max-width: 600px) {
-
-    .worksheet-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .main-nav a {
-        display: block;
-        margin: 8px 0;
-    }
-
-    .container {
-        padding: 15px;
-    }
-}
+</body>
+</html>
 ```
