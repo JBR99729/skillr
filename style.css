@@ -153,3 +153,28 @@ footer {
         margin: 8px 0;
     }
 }
+.worksheet-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.worksheet-table th:nth-child(1),
+.worksheet-table td:nth-child(1) {
+    width: 6%;
+}
+
+.worksheet-table th:nth-child(2),
+.worksheet-table td:nth-child(2) {
+    width: 18%;
+}
+
+.worksheet-table th:nth-child(3),
+.worksheet-table td:nth-child(3) {
+    width: 41%;
+}
+
+.worksheet-table th:nth-child(4),
+.worksheet-table td:nth-child(4) {
+    width: 35%;
+}
