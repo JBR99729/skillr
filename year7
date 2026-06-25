@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Year 7 Worksheets | Skillr Education</title>
+
+    <meta name="description" content="Free printable Year 7 Maths and Science worksheets for teachers, parents and students.">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../style.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-8P22BET45N');
+    </script>
+</head>
+
+<body>
+
+<div class="container">
+
+    <nav class="main-nav">
+        <a href="../index.html">Home</a>
+        <a href="../sitemap.html">Sitemap</a>
+        <a href="../about.html">About</a>
+        <a href="../contact.html">Contact</a>
+        <a href="../usefulresources.html">Useful Resources</a>
+        <a href="../policy.html">Policy</a>
+    </nav>
+
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+        <a href="../index.html">Home</a> &gt;
+        <span>Year 7</span>
+    </nav>
+
+    <h1>Year 7 Worksheets</h1>
+
+    <p>
+        Explore our collection of free printable Year 7 worksheets designed to support learning at home and in the classroom. Our curriculum-aligned resources help teachers, parents and students build confidence through engaging activities and structured practice.
+    </p>
+
+    <p>
+        Browse the available topics below. If you cannot find the worksheet you need, please contact us at
+        <strong>skillrhublearning@gmail.com</strong> with the subject, topic and curriculum information. Skillr Education is maintained by a small team on a part-time basis, and while we cannot guarantee immediate turnaround, we will do our best to prioritise your request whenever possible.
+    </p>
+
+    <div class="worksheet-sections">
+
+        <!-- ================= Maths ================= -->
+
+        <div class="worksheet-column">
+
+            <h2>Maths</h2>
+
+            <p>Browse Year 7 Maths worksheets by topic.</p>
+
+            <table class="worksheet-table">
+
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Topic</th>
+                        <th>Description</th>
+                        <th>Download</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>1</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <!-- ================= Science ================= -->
+
+        <div class="worksheet-column">
+
+            <h2>Science</h2>
+
+            <p>Browse Year 7 Science worksheets by topic.</p>
+
+            <table class="worksheet-table">
+
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Topic</th>
+                        <th>Description</th>
+                        <th>Download</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>1</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <!--
+        ================= Other Subjects =================
+
+        Uncomment this section when additional subjects become available.
+
+        <div class="worksheet-column">
+
+            <h2>Other Subjects</h2>
+
+            <p>Browse Year 7 worksheets for other learning areas.</p>
+
+            <table class="worksheet-table">
+
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Topic</th>
+                        <th>Description</th>
+                        <th>Download</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>1</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+        -->
+
+    </div>
+
+    <footer>
+        <p>© 2026 Skillr Education. All rights reserved.</p>
+
+        <p>
+            Educational resources are provided for students, parents and teachers for learning purposes only.
+            Commercial use, redistribution or resale is strictly prohibited without written permission.
+        </p>
+    </footer>
+
+</div>
+
+</body>
+</html>
