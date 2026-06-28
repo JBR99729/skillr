@@ -82,6 +82,12 @@ h2 {
     margin-bottom: 16px;
 }
 
+.new-tag {
+    color: #d6363f;
+    font-weight: 700;
+    margin-left: 4px;
+}
+
 .worksheet-sections {
     display: flex;
     flex-direction: column;
