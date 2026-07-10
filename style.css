@@ -1,7 +1,6 @@
-```css
-/* =========================
-   GLOBAL STYLES
-========================= */
+/* ========================================
+   GENERAL PAGE STYLES
+======================================== */
 
 * {
     box-sizing: border-box;
@@ -20,13 +19,13 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background: #fff;
+    background: #ffffff;
 }
 
 
-/* =========================
+/* ========================================
    NAVIGATION
-========================= */
+======================================== */
 
 nav {
     margin: 20px 0;
@@ -44,9 +43,9 @@ nav a:hover {
 }
 
 
-/* =========================
+/* ========================================
    BREADCRUMB
-========================= */
+======================================== */
 
 .breadcrumb {
     color: #666;
@@ -69,9 +68,9 @@ nav a:hover {
 }
 
 
-/* =========================
+/* ========================================
    HEADINGS
-========================= */
+======================================== */
 
 h1 {
     margin-top: 0;
@@ -104,9 +103,9 @@ h2 {
 }
 
 
-/* =========================
+/* ========================================
    TAGS
-========================= */
+======================================== */
 
 .new-tag {
     margin-left: 4px;
@@ -115,9 +114,9 @@ h2 {
 }
 
 
-/* =========================
+/* ========================================
    WORKSHEET SECTIONS
-========================= */
+======================================== */
 
 .worksheet-sections {
     display: flex;
@@ -139,9 +138,9 @@ h2 {
 }
 
 
-/* =========================
+/* ========================================
    TABLE WRAPPER
-========================= */
+======================================== */
 
 .table-wrapper {
     width: 100%;
@@ -151,9 +150,9 @@ h2 {
 }
 
 
-/* =========================
-   WORKSHEET TABLES
-========================= */
+/* ========================================
+   ALL WORKSHEET TABLES
+======================================== */
 
 .worksheet-table {
     width: 100%;
@@ -169,6 +168,7 @@ h2 {
     text-align: left;
     vertical-align: top;
     overflow-wrap: break-word;
+    word-break: normal;
 }
 
 .worksheet-table th {
@@ -199,83 +199,105 @@ h2 {
 }
 
 
-/* =========================
-   FIVE-COLUMN MATHS TABLE
-========================= */
+/* ========================================
+   MATHS TABLE
+   5 columns:
+   Unit | Curriculum Code | Topic |
+   Description | Downloads
+======================================== */
 
-/*
-   Applies only to tables containing five columns:
-   Unit | Curriculum Code | Topic | Description | Downloads
-*/
-
-.worksheet-table:has(th:nth-child(5)) {
+.maths-table {
+    width: 100%;
     min-width: 950px;
 }
 
-/* Unit */
-.worksheet-table:has(th:nth-child(5)) th:nth-child(1),
-.worksheet-table:has(th:nth-child(5)) td:nth-child(1) {
-    width: 6%;
+.maths-table th:nth-child(1),
+.maths-table td:nth-child(1) {
+    width: 55px;
     text-align: center;
     white-space: nowrap;
 }
 
-/* Curriculum Code */
-.worksheet-table:has(th:nth-child(5)) th:nth-child(2),
-.worksheet-table:has(th:nth-child(5)) td:nth-child(2) {
-    width: 14%;
+.maths-table th:nth-child(2),
+.maths-table td:nth-child(2) {
+    width: 135px;
     white-space: nowrap;
 }
 
-/* Topic */
-.worksheet-table:has(th:nth-child(5)) th:nth-child(3),
-.worksheet-table:has(th:nth-child(5)) td:nth-child(3) {
-    width: 19%;
+.maths-table th:nth-child(3),
+.maths-table td:nth-child(3) {
+    width: 180px;
 }
 
-/* Description */
-.worksheet-table:has(th:nth-child(5)) th:nth-child(4),
-.worksheet-table:has(th:nth-child(5)) td:nth-child(4) {
-    width: 34%;
+.maths-table th:nth-child(4),
+.maths-table td:nth-child(4) {
+    min-width: 300px;
 }
 
-/* Downloads */
-.worksheet-table:has(th:nth-child(5)) th:nth-child(5),
-.worksheet-table:has(th:nth-child(5)) td:nth-child(5) {
-    width: 27%;
-    min-width: 230px;
+.maths-table th:nth-child(5),
+.maths-table td:nth-child(5) {
+    width: 260px;
+    min-width: 260px;
+}
+
+.maths-table td:nth-child(5) a {
+    display: block;
+    margin-bottom: 7px;
 }
 
 
-/* =========================
-   THREE-COLUMN SCIENCE TABLE
-========================= */
-
-/*
-   Applies only to tables containing three columns:
+/* ========================================
+   SCIENCE TABLE
+   3 columns:
    Skill | Description | Download
-*/
+======================================== */
 
-.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(1),
-.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(1) {
+.science-table {
+    width: 100%;
+    min-width: 760px;
+}
+
+.science-table th:nth-child(1),
+.science-table td:nth-child(1) {
     width: 24%;
 }
 
-.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(2),
-.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(2) {
+.science-table th:nth-child(2),
+.science-table td:nth-child(2) {
     width: 51%;
 }
 
-.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(3),
-.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(3) {
+.science-table th:nth-child(3),
+.science-table td:nth-child(3) {
     width: 25%;
-    min-width: 170px;
+    min-width: 180px;
 }
 
 
-/* =========================
+/* ========================================
+   FALLBACK FOR TABLES WITHOUT EXTRA CLASS
+======================================== */
+
+.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(1),
+.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(1) {
+    width: 24%;
+}
+
+.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(2),
+.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(2) {
+    width: 51%;
+}
+
+.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(3),
+.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(3) {
+    width: 25%;
+    min-width: 180px;
+}
+
+
+/* ========================================
    OPTIONAL CURRICULUM TABLES
-========================= */
+======================================== */
 
 .curriculum-overview-table {
     min-width: 760px;
@@ -297,9 +319,9 @@ h2 {
 }
 
 
-/* =========================
-   WORKSHEET GRID AND TILES
-========================= */
+/* ========================================
+   WORKSHEET GRID
+======================================== */
 
 .worksheet-grid {
     display: grid;
@@ -330,9 +352,9 @@ h2 {
 }
 
 
-/* =========================
+/* ========================================
    FOOTER
-========================= */
+======================================== */
 
 footer {
     margin-top: 40px;
@@ -343,24 +365,24 @@ footer {
 }
 
 
-/* =========================
+/* ========================================
    TABLET
-========================= */
+======================================== */
 
 @media (max-width: 900px) {
     .worksheet-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .worksheet-table:has(th:nth-child(5)) {
+    .maths-table {
         min-width: 900px;
     }
 }
 
 
-/* =========================
+/* ========================================
    SMALL TABLET
-========================= */
+======================================== */
 
 @media (max-width: 768px) {
     .container {
@@ -379,9 +401,9 @@ footer {
 }
 
 
-/* =========================
+/* ========================================
    MOBILE
-========================= */
+======================================== */
 
 @media (max-width: 600px) {
     .container {
@@ -407,8 +429,12 @@ footer {
         font-size: 12px;
     }
 
-    .worksheet-table:has(th:nth-child(5)) {
+    .maths-table {
         min-width: 850px;
+    }
+
+    .science-table {
+        min-width: 700px;
     }
 
     nav a {
@@ -416,4 +442,3 @@ footer {
         margin: 8px 0;
     }
 }
-```
