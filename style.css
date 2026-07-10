@@ -226,3 +226,36 @@ footer {
         margin: 8px 0;
     }
 }
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    margin-bottom: 30px;
+}
+
+.curriculum-overview-table {
+    min-width: 760px;
+}
+
+.term-plan-table {
+    min-width: 600px;
+}
+
+.curriculum-overview-table th:first-child,
+.curriculum-overview-table td:first-child {
+    width: 55px;
+    text-align: center;
+}
+
+.curriculum-overview-table th:nth-child(2),
+.curriculum-overview-table td:nth-child(2) {
+    white-space: nowrap;
+}
+
+.worksheet-table td {
+    vertical-align: top;
+}
+
+.worksheet-table td a {
+    display: inline-block;
+    margin-bottom: 6px;
+}
