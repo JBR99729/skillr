@@ -1,21 +1,32 @@
+```css
+/* =========================
+   GLOBAL STYLES
+========================= */
+
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    margin: 0;
     background: #f5f5f5;
     color: #222;
-    margin: 0;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
 }
 
 .container {
+    width: 100%;
     max-width: 1200px;
-    margin: auto;
-    background: #fff;
+    margin: 0 auto;
     padding: 20px;
+    background: #fff;
 }
+
+
+/* =========================
+   NAVIGATION
+========================= */
 
 nav {
     margin: 20px 0;
@@ -23,8 +34,8 @@ nav {
 
 nav a {
     margin-right: 12px;
-    font-weight: bold;
     color: #222;
+    font-weight: bold;
     text-decoration: none;
 }
 
@@ -32,29 +43,39 @@ nav a:hover {
     text-decoration: underline;
 }
 
+
+/* =========================
+   BREADCRUMB
+========================= */
+
 .breadcrumb {
-    font-size: 0.9rem;
     color: #666;
+    font-size: 0.9rem;
 }
 
 .breadcrumb ol {
-    list-style: none;
-    padding: 0;
     margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .breadcrumb li {
     display: inline;
 }
 
-.breadcrumb li + li:before {
+.breadcrumb li + li::before {
     content: " > ";
     color: #999;
 }
 
+
+/* =========================
+   HEADINGS
+========================= */
+
 h1 {
-    font-size: 2rem;
     margin-top: 0;
+    font-size: 2rem;
 }
 
 h2 {
@@ -64,29 +85,39 @@ h2 {
 .worksheet-column h2 {
     margin-top: 0;
     margin-bottom: 12px;
-    font-size: 1.3rem;
     color: #1a3a72;
+    font-size: 1.3rem;
 }
 
 .worksheet-column h2::after {
-    content: "";
     display: block;
     width: 40px;
     height: 3px;
     margin-top: 8px;
-    background: #1a3a72;
     border-radius: 2px;
+    background: #1a3a72;
+    content: "";
 }
 
 .worksheet-column p {
     margin-bottom: 16px;
 }
 
+
+/* =========================
+   TAGS
+========================= */
+
 .new-tag {
+    margin-left: 4px;
     color: #d6363f;
     font-weight: 700;
-    margin-left: 4px;
 }
+
+
+/* =========================
+   WORKSHEET SECTIONS
+========================= */
 
 .worksheet-sections {
     display: flex;
@@ -97,140 +128,154 @@ h2 {
 
 .worksheet-column {
     width: 100%;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 15px;
-    background: #fff;
     min-width: 0;
     margin-bottom: 20px;
+    padding: 15px;
     overflow-x: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
+
+/* =========================
+   TABLE WRAPPER
+========================= */
+
+.table-wrapper {
+    width: 100%;
+    margin-bottom: 30px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+/* =========================
+   WORKSHEET TABLES
+========================= */
+
 .worksheet-table {
     width: 100%;
-    min-width: 100%;
     border-collapse: collapse;
-    table-layout: fixed;
+    table-layout: auto;
     font-size: 13px;
 }
 
 .worksheet-table th,
 .worksheet-table td {
+    padding: 9px;
     border: 1px solid #ddd;
-    padding: 7px;
     text-align: left;
     vertical-align: top;
+    overflow-wrap: break-word;
 }
 
 .worksheet-table th {
     background: #f5f5f5;
+    color: #222;
+    font-weight: 700;
 }
 
-.worksheet-table th:nth-child(1),
-.worksheet-table td:nth-child(1) {
-    width: 6%;
+.worksheet-table tbody tr:nth-child(even) {
+    background: #fafafa;
 }
 
-.worksheet-table th:nth-child(2),
-.worksheet-table td:nth-child(2) {
-    width: 18%;
+.worksheet-table tbody tr:hover {
+    background: #f2f6fb;
 }
 
-.worksheet-table th:nth-child(3),
-.worksheet-table td:nth-child(3) {
-    width: 41%;
-}
-
-.worksheet-table th:nth-child(4),
-.worksheet-table td:nth-child(4) {
-    width: 35%;
-}
-
-.worksheet-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
-}
-
-.worksheet-tile {
-    border: 1px solid #ddd;
-    background: #fff;
-    padding: 15px;
-    border-radius: 6px;
-}
-
-.worksheet-tile h3 {
-    margin-top: 0;
-}
-
-.worksheet-tile a {
-    text-decoration: none;
-    font-weight: bold;
+.worksheet-table td a {
+    display: inline-block;
+    margin-bottom: 6px;
     color: #0056b3;
+    font-weight: 600;
+    line-height: 1.35;
+    text-decoration: none;
 }
 
-.worksheet-tile a:hover {
+.worksheet-table td a:hover {
     text-decoration: underline;
 }
 
-footer {
-    margin-top: 40px;
-    border-top: 1px solid #ddd;
-    padding-top: 20px;
-    font-size: 0.9rem;
-    color: #555;
+
+/* =========================
+   FIVE-COLUMN MATHS TABLE
+========================= */
+
+/*
+   Applies only to tables containing five columns:
+   Unit | Curriculum Code | Topic | Description | Downloads
+*/
+
+.worksheet-table:has(th:nth-child(5)) {
+    min-width: 950px;
 }
 
-@media (max-width: 900px) {
-    .worksheet-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
+/* Unit */
+.worksheet-table:has(th:nth-child(5)) th:nth-child(1),
+.worksheet-table:has(th:nth-child(5)) td:nth-child(1) {
+    width: 6%;
+    text-align: center;
+    white-space: nowrap;
 }
 
-@media (max-width: 768px) {
-    .worksheet-column {
-        padding: 12px;
-    }
-
-    .worksheet-table th,
-    .worksheet-table td {
-        padding: 8px;
-        font-size: 12px;
-    }
+/* Curriculum Code */
+.worksheet-table:has(th:nth-child(5)) th:nth-child(2),
+.worksheet-table:has(th:nth-child(5)) td:nth-child(2) {
+    width: 14%;
+    white-space: nowrap;
 }
 
-@media (max-width: 600px) {
-    .worksheet-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .worksheet-column {
-        padding: 12px;
-    }
-
-    .worksheet-column h2 {
-        font-size: 1.15rem;
-        line-height: 1.3;
-    }
-
-    .worksheet-table th,
-    .worksheet-table td {
-        padding: 10px;
-        font-size: 12px;
-    }
-
-    nav a {
-        display: block;
-        margin: 8px 0;
-    }
+/* Topic */
+.worksheet-table:has(th:nth-child(5)) th:nth-child(3),
+.worksheet-table:has(th:nth-child(5)) td:nth-child(3) {
+    width: 19%;
 }
-.table-wrapper {
-    width: 100%;
-    overflow-x: auto;
-    margin-bottom: 30px;
+
+/* Description */
+.worksheet-table:has(th:nth-child(5)) th:nth-child(4),
+.worksheet-table:has(th:nth-child(5)) td:nth-child(4) {
+    width: 34%;
 }
+
+/* Downloads */
+.worksheet-table:has(th:nth-child(5)) th:nth-child(5),
+.worksheet-table:has(th:nth-child(5)) td:nth-child(5) {
+    width: 27%;
+    min-width: 230px;
+}
+
+
+/* =========================
+   THREE-COLUMN SCIENCE TABLE
+========================= */
+
+/*
+   Applies only to tables containing three columns:
+   Skill | Description | Download
+*/
+
+.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(1),
+.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(1) {
+    width: 24%;
+}
+
+.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(2),
+.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(2) {
+    width: 51%;
+}
+
+.worksheet-table:not(:has(th:nth-child(4))) th:nth-child(3),
+.worksheet-table:not(:has(th:nth-child(4))) td:nth-child(3) {
+    width: 25%;
+    min-width: 170px;
+}
+
+
+/* =========================
+   OPTIONAL CURRICULUM TABLES
+========================= */
 
 .curriculum-overview-table {
     min-width: 760px;
@@ -251,11 +296,124 @@ footer {
     white-space: nowrap;
 }
 
-.worksheet-table td {
-    vertical-align: top;
+
+/* =========================
+   WORKSHEET GRID AND TILES
+========================= */
+
+.worksheet-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
 }
 
-.worksheet-table td a {
-    display: inline-block;
-    margin-bottom: 6px;
+.worksheet-tile {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #fff;
 }
+
+.worksheet-tile h3 {
+    margin-top: 0;
+}
+
+.worksheet-tile a {
+    color: #0056b3;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.worksheet-tile a:hover {
+    text-decoration: underline;
+}
+
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #555;
+    font-size: 0.9rem;
+}
+
+
+/* =========================
+   TABLET
+========================= */
+
+@media (max-width: 900px) {
+    .worksheet-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .worksheet-table:has(th:nth-child(5)) {
+        min-width: 900px;
+    }
+}
+
+
+/* =========================
+   SMALL TABLET
+========================= */
+
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+
+    .worksheet-column {
+        padding: 12px;
+    }
+
+    .worksheet-table th,
+    .worksheet-table td {
+        padding: 8px;
+        font-size: 12px;
+    }
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 600px) {
+    .container {
+        padding: 12px;
+    }
+
+    .worksheet-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .worksheet-column {
+        padding: 10px;
+    }
+
+    .worksheet-column h2 {
+        font-size: 1.15rem;
+        line-height: 1.3;
+    }
+
+    .worksheet-table th,
+    .worksheet-table td {
+        padding: 8px;
+        font-size: 12px;
+    }
+
+    .worksheet-table:has(th:nth-child(5)) {
+        min-width: 850px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px 0;
+    }
+}
+```
