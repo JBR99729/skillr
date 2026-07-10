@@ -1,5 +1,5 @@
 /* ========================================
-   GENERAL PAGE STYLES
+   GLOBAL
 ======================================== */
 
 * {
@@ -19,7 +19,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background: #ffffff;
+    background: #fff;
 }
 
 
@@ -151,7 +151,7 @@ h2 {
 
 
 /* ========================================
-   ALL WORKSHEET TABLES
+   ALL TABLES
 ======================================== */
 
 .worksheet-table {
@@ -201,102 +201,83 @@ h2 {
 
 /* ========================================
    MATHS TABLE
-   5 columns:
-   Unit | Curriculum Code | Topic |
-   Description | Downloads
+   Unit | Code | Topic | Description | Downloads
 ======================================== */
 
 .maths-table {
     width: 100%;
-    min-width: 950px;
+    min-width: 980px;
+    table-layout: fixed;
 }
 
+/* Unit */
 .maths-table th:nth-child(1),
 .maths-table td:nth-child(1) {
-    width: 55px;
+    width: 5%;
     text-align: center;
     white-space: nowrap;
 }
 
+/* Curriculum Code */
 .maths-table th:nth-child(2),
 .maths-table td:nth-child(2) {
-    width: 135px;
+    width: 11%;
     white-space: nowrap;
 }
 
+/* Topic */
 .maths-table th:nth-child(3),
 .maths-table td:nth-child(3) {
-    width: 180px;
+    width: 15%;
 }
 
+/* Description */
 .maths-table th:nth-child(4),
 .maths-table td:nth-child(4) {
-    min-width: 300px;
+    width: 36%;
 }
 
+/* Downloads */
 .maths-table th:nth-child(5),
 .maths-table td:nth-child(5) {
-    width: 260px;
-    min-width: 260px;
+    width: 33%;
 }
 
 .maths-table td:nth-child(5) a {
     display: block;
+    width: 100%;
     margin-bottom: 7px;
 }
 
 
 /* ========================================
    SCIENCE TABLE
-   3 columns:
-   Skill | Description | Download
 ======================================== */
 
 .science-table {
     width: 100%;
     min-width: 760px;
+    table-layout: fixed;
 }
 
 .science-table th:nth-child(1),
 .science-table td:nth-child(1) {
-    width: 24%;
+    width: 23%;
 }
 
 .science-table th:nth-child(2),
 .science-table td:nth-child(2) {
-    width: 51%;
+    width: 49%;
 }
 
 .science-table th:nth-child(3),
 .science-table td:nth-child(3) {
-    width: 25%;
-    min-width: 180px;
+    width: 28%;
 }
 
 
 /* ========================================
-   FALLBACK FOR TABLES WITHOUT EXTRA CLASS
-======================================== */
-
-.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(1),
-.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(1) {
-    width: 24%;
-}
-
-.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(2),
-.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(2) {
-    width: 51%;
-}
-
-.worksheet-table:not(.maths-table):not(.science-table) th:nth-child(3),
-.worksheet-table:not(.maths-table):not(.science-table) td:nth-child(3) {
-    width: 25%;
-    min-width: 180px;
-}
-
-
-/* ========================================
-   OPTIONAL CURRICULUM TABLES
+   OTHER TABLES
 ======================================== */
 
 .curriculum-overview-table {
@@ -370,12 +351,41 @@ footer {
 ======================================== */
 
 @media (max-width: 900px) {
+    .container {
+        padding: 16px;
+    }
+
     .worksheet-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 
     .maths-table {
         min-width: 900px;
+    }
+
+    .maths-table th:nth-child(1),
+    .maths-table td:nth-child(1) {
+        width: 5%;
+    }
+
+    .maths-table th:nth-child(2),
+    .maths-table td:nth-child(2) {
+        width: 12%;
+    }
+
+    .maths-table th:nth-child(3),
+    .maths-table td:nth-child(3) {
+        width: 16%;
+    }
+
+    .maths-table th:nth-child(4),
+    .maths-table td:nth-child(4) {
+        width: 34%;
+    }
+
+    .maths-table th:nth-child(5),
+    .maths-table td:nth-child(5) {
+        width: 33%;
     }
 }
 
@@ -386,7 +396,7 @@ footer {
 
 @media (max-width: 768px) {
     .container {
-        padding: 15px;
+        padding: 14px;
     }
 
     .worksheet-column {
@@ -397,6 +407,14 @@ footer {
     .worksheet-table td {
         padding: 8px;
         font-size: 12px;
+    }
+
+    .maths-table {
+        min-width: 860px;
+    }
+
+    .science-table {
+        min-width: 700px;
     }
 }
 
@@ -407,7 +425,12 @@ footer {
 
 @media (max-width: 600px) {
     .container {
-        padding: 12px;
+        padding: 10px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px 0;
     }
 
     .worksheet-grid {
@@ -415,7 +438,8 @@ footer {
     }
 
     .worksheet-column {
-        padding: 10px;
+        padding: 8px;
+        overflow-x: auto;
     }
 
     .worksheet-column h2 {
@@ -425,20 +449,70 @@ footer {
 
     .worksheet-table th,
     .worksheet-table td {
-        padding: 8px;
-        font-size: 12px;
+        padding: 7px;
+        font-size: 11.5px;
     }
 
     .maths-table {
-        min-width: 850px;
+        min-width: 820px;
+    }
+
+    .maths-table th:nth-child(1),
+    .maths-table td:nth-child(1) {
+        width: 5%;
+    }
+
+    .maths-table th:nth-child(2),
+    .maths-table td:nth-child(2) {
+        width: 12%;
+    }
+
+    .maths-table th:nth-child(3),
+    .maths-table td:nth-child(3) {
+        width: 15%;
+    }
+
+    .maths-table th:nth-child(4),
+    .maths-table td:nth-child(4) {
+        width: 34%;
+    }
+
+    .maths-table th:nth-child(5),
+    .maths-table td:nth-child(5) {
+        width: 34%;
     }
 
     .science-table {
-        min-width: 700px;
+        min-width: 680px;
     }
 
-    nav a {
-        display: block;
-        margin: 8px 0;
+    .worksheet-table td a {
+        margin-bottom: 5px;
+        line-height: 1.3;
+    }
+}
+
+
+/* ========================================
+   VERY SMALL MOBILE
+======================================== */
+
+@media (max-width: 420px) {
+    .container {
+        padding: 8px;
+    }
+
+    .worksheet-column {
+        padding: 7px;
+    }
+
+    .maths-table {
+        min-width: 780px;
+    }
+
+    .worksheet-table th,
+    .worksheet-table td {
+        padding: 6px;
+        font-size: 11px;
     }
 }
