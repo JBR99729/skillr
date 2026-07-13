@@ -1,50 +1,99 @@
+/* =========================================================
+   Skillr Education - Main Stylesheet
+   ========================================================= */
+
+
+/* -----------------------------
+   Global reset
+----------------------------- */
+
 * {
     box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
     margin: 0;
     background: #f5f5f5;
     color: #222;
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
     line-height: 1.6;
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #0056b3;
+}
+
+a:hover,
+a:focus {
+    color: #003f82;
+}
+
+
+/* -----------------------------
+   Main container
+----------------------------- */
 
 .container {
     width: 100%;
     max-width: 1200px;
+    min-height: 100vh;
     margin: 0 auto;
-    padding: 20px;
+    padding: 24px;
     background: #fff;
 }
 
 
-/* Navigation */
+/* -----------------------------
+   Navigation
+----------------------------- */
 
+.main-nav,
 nav {
     margin: 20px 0;
 }
 
+.main-nav a,
 nav a {
-    margin-right: 12px;
+    display: inline-block;
+    margin: 0 14px 8px 0;
     color: #222;
-    font-weight: bold;
+    font-weight: 700;
     text-decoration: none;
 }
 
-nav a:hover {
+.main-nav a:hover,
+.main-nav a:focus,
+nav a:hover,
+nav a:focus {
     text-decoration: underline;
 }
 
 
-/* Breadcrumb */
+/* -----------------------------
+   Breadcrumb
+----------------------------- */
 
 .breadcrumb {
+    margin: 14px 0 24px;
     color: #666;
     font-size: 0.9rem;
 }
 
 .breadcrumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -55,32 +104,309 @@ nav a:hover {
 }
 
 .breadcrumb li + li::before {
-    content: " > ";
+    margin-right: 4px;
     color: #999;
+    content: ">";
+}
+
+.breadcrumb a {
+    margin: 0;
+    color: #555;
+    font-weight: 600;
+}
+
+.breadcrumb [aria-current="page"] {
+    color: #777;
 }
 
 
-/* Headings */
+/* -----------------------------
+   Typography
+----------------------------- */
+
+h1,
+h2,
+h3,
+h4 {
+    color: #222;
+    line-height: 1.25;
+}
 
 h1 {
-    margin-top: 0;
-    font-size: 2rem;
+    margin: 0 0 16px;
+    font-size: clamp(2rem, 4vw, 2.8rem);
 }
 
 h2 {
-    font-size: 1.4rem;
+    margin: 32px 0 12px;
+    font-size: clamp(1.45rem, 3vw, 1.9rem);
+}
+
+h3 {
+    margin: 24px 0 10px;
+    font-size: 1.2rem;
+}
+
+p {
+    margin: 0 0 16px;
+}
+
+ul,
+ol {
+    margin-top: 0;
+}
+
+
+/* -----------------------------
+   Page header
+----------------------------- */
+
+.page-header {
+    margin: 10px 0 32px;
+    padding: 28px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.page-header h1 {
+    margin-bottom: 14px;
+}
+
+.page-header p {
+    max-width: 850px;
+    margin-bottom: 0;
+    color: #444;
+    font-size: 1.05rem;
+}
+
+
+/* -----------------------------
+   Foundation subject landing page
+----------------------------- */
+
+.subject-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+    margin: 30px 0;
+}
+
+.subject-card {
+    padding: 26px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.subject-card h2 {
+    margin: 6px 0 12px;
+    color: #1a3a72;
+}
+
+.card-label {
+    margin: 0;
+    color: #666;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+
+/* -----------------------------
+   Topic and blog cards
+----------------------------- */
+
+.topic-list {
+    display: grid;
+    gap: 24px;
+}
+
+.card,
+.topic-card {
+    padding: 26px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.card h2,
+.topic-card h2 {
+    margin: 8px 0 12px;
+    color: #1a3a72;
+}
+
+.card h3,
+.topic-card h3 {
+    margin-top: 22px;
+}
+
+.card > p:first-child,
+.topic-card > p:first-child {
+    margin-bottom: 4px;
+    color: #555;
+}
+
+.topic-card-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.topic-number {
+    color: #555;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.curriculum-code {
+    display: inline-block;
+    padding: 4px 10px;
+    border: 1px solid #bbb;
+    border-radius: 999px;
+    color: #333;
+    font-size: 0.88rem;
+    font-weight: 700;
+}
+
+
+/* -----------------------------
+   Buttons
+----------------------------- */
+
+.button,
+.button-link,
+.download-button {
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid #222;
+    border-radius: 6px;
+    background: #fff;
+    color: #222;
+    font-weight: 700;
+    line-height: 1.3;
+    text-align: center;
+    text-decoration: none;
+    transition:
+        background 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.button:hover,
+.button:focus,
+.button-link:hover,
+.button-link:focus,
+.download-button:hover,
+.download-button:focus {
+    border-color: #222;
+    background: #222;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* -----------------------------
+   Visible download links
+----------------------------- */
+
+.download-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.download-button {
+    margin: 0;
+}
+
+
+/* -----------------------------
+   Optional expandable downloads
+----------------------------- */
+
+.download-panel {
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px solid #ddd;
+}
+
+.download-panel summary {
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.download-panel ul {
+    margin: 12px 0 0;
+    padding-left: 20px;
+}
+
+.download-panel li {
+    margin-bottom: 8px;
+}
+
+
+/* -----------------------------
+   General content sections
+----------------------------- */
+
+.content-section {
+    margin: 36px 0;
+}
+
+.content-section > :first-child {
+    margin-top: 0;
+}
+
+.notice-box {
+    margin: 24px 0;
+    padding: 18px;
+    border-left: 4px solid #1a3a72;
+    background: #f5f8fc;
+}
+
+
+/* =========================================================
+   Legacy worksheet layouts
+   These styles keep older table pages working.
+   ========================================================= */
+
+
+/* -----------------------------
+   Worksheet sections
+----------------------------- */
+
+.worksheet-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 30px;
+}
+
+.worksheet-column {
+    width: 100%;
+    min-width: 0;
+    padding: 18px;
+    overflow-x: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 .worksheet-column h2 {
-    margin-top: 0;
-    margin-bottom: 12px;
+    margin: 0 0 12px;
     color: #1a3a72;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
 }
 
 .worksheet-column h2::after {
     display: block;
-    width: 40px;
+    width: 42px;
     height: 3px;
     margin-top: 8px;
     border-radius: 2px;
@@ -93,29 +419,9 @@ h2 {
 }
 
 
-/* Worksheet sections */
-
-.worksheet-sections {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    margin-top: 30px;
-}
-
-.worksheet-column {
-    width: 100%;
-    min-width: 0;
-    margin-bottom: 20px;
-    padding: 15px;
-    overflow-x: auto;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background: #fff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-}
-
-
-/* All worksheet tables */
+/* -----------------------------
+   Worksheet tables
+----------------------------- */
 
 .worksheet-table {
     width: 100%;
@@ -130,7 +436,6 @@ h2 {
     text-align: left;
     vertical-align: top;
     overflow-wrap: break-word;
-    word-break: normal;
 }
 
 .worksheet-table th {
@@ -155,108 +460,67 @@ h2 {
     text-decoration: none;
 }
 
-.worksheet-table td a:hover {
+.worksheet-table td a:hover,
+.worksheet-table td a:focus {
     text-decoration: underline;
 }
 
 
-/* Maths table: 5 columns */
+/* -----------------------------
+   Maths and Science tables
+----------------------------- */
 
-.maths-table {
-    width: 100%;
-    min-width: 1050px;
-    table-layout: fixed;
-}
-
-/* Unit */
-
-.maths-table th:nth-child(1),
-.maths-table td:nth-child(1) {
-    width: 5%;
-    text-align: center;
-}
-
-/* Curriculum code */
-
-.maths-table th:nth-child(2),
-.maths-table td:nth-child(2) {
-    width: 10%;
-    white-space: nowrap;
-}
-
-/* Topic */
-
-.maths-table th:nth-child(3),
-.maths-table td:nth-child(3) {
-    width: 14%;
-}
-
-/* Description */
-
-.maths-table th:nth-child(4),
-.maths-table td:nth-child(4) {
-    width: 31%;
-}
-
-/* Downloads */
-
-.maths-table th:nth-child(5),
-.maths-table td:nth-child(5) {
-    width: 40%;
-}
-
-.maths-table td:nth-child(5) a {
-    display: block;
-    width: 100%;
-    margin-bottom: 8px;
-}
-
-
-/* Science table: 5 columns */
-
+.maths-table,
 .science-table {
     width: 100%;
     min-width: 1050px;
     table-layout: fixed;
 }
 
-/* Unit */
-
+.maths-table th:nth-child(1),
+.maths-table td:nth-child(1),
 .science-table th:nth-child(1),
 .science-table td:nth-child(1) {
     width: 5%;
     text-align: center;
 }
 
-/* Curriculum code */
-
+.maths-table th:nth-child(2),
+.maths-table td:nth-child(2),
 .science-table th:nth-child(2),
 .science-table td:nth-child(2) {
     width: 10%;
     white-space: nowrap;
 }
 
-/* Topic */
+.maths-table th:nth-child(3),
+.maths-table td:nth-child(3) {
+    width: 14%;
+}
 
 .science-table th:nth-child(3),
 .science-table td:nth-child(3) {
     width: 19%;
 }
 
-/* Description */
-
+.maths-table th:nth-child(4),
+.maths-table td:nth-child(4),
 .science-table th:nth-child(4),
 .science-table td:nth-child(4) {
     width: 31%;
 }
 
-/* Downloads */
+.maths-table th:nth-child(5),
+.maths-table td:nth-child(5) {
+    width: 40%;
+}
 
 .science-table th:nth-child(5),
 .science-table td:nth-child(5) {
     width: 35%;
 }
 
+.maths-table td:nth-child(5) a,
 .science-table td:nth-child(5) a {
     display: block;
     width: 100%;
@@ -264,7 +528,9 @@ h2 {
 }
 
 
-/* Worksheet cards */
+/* -----------------------------
+   Legacy worksheet cards
+----------------------------- */
 
 .worksheet-grid {
     display: grid;
@@ -274,9 +540,9 @@ h2 {
 }
 
 .worksheet-tile {
-    padding: 15px;
+    padding: 18px;
     border: 1px solid #ddd;
-    border-radius: 6px;
+    border-radius: 8px;
     background: #fff;
 }
 
@@ -286,35 +552,53 @@ h2 {
 
 .worksheet-tile a {
     color: #0056b3;
-    font-weight: bold;
+    font-weight: 700;
     text-decoration: none;
 }
 
-.worksheet-tile a:hover {
+.worksheet-tile a:hover,
+.worksheet-tile a:focus {
     text-decoration: underline;
 }
 
 
-/* Footer */
+/* -----------------------------
+   Footer
+----------------------------- */
 
 footer {
-    margin-top: 40px;
-    padding-top: 20px;
+    margin-top: 48px;
+    padding-top: 22px;
     border-top: 1px solid #ddd;
     color: #555;
     font-size: 0.9rem;
 }
 
+footer p:last-child {
+    margin-bottom: 0;
+}
 
-/* Tablet */
+
+/* =========================================================
+   Responsive design
+   ========================================================= */
+
+
+/* -----------------------------
+   Tablet
+----------------------------- */
 
 @media (max-width: 900px) {
     .container {
-        padding: 16px;
+        padding: 18px;
+    }
+
+    .subject-grid {
+        grid-template-columns: 1fr;
     }
 
     .worksheet-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
     .maths-table,
@@ -324,11 +608,23 @@ footer {
 }
 
 
-/* Small tablet */
+/* -----------------------------
+   Small tablet
+----------------------------- */
 
 @media (max-width: 768px) {
     .container {
-        padding: 14px;
+        padding: 15px;
+    }
+
+    .page-header {
+        padding: 20px 0;
+    }
+
+    .card,
+    .topic-card,
+    .subject-card {
+        padding: 20px;
     }
 
     .worksheet-column {
@@ -345,64 +641,52 @@ footer {
     .science-table {
         min-width: 920px;
     }
-
-    .maths-table th:nth-child(1),
-    .maths-table td:nth-child(1),
-    .science-table th:nth-child(1),
-    .science-table td:nth-child(1) {
-        width: 5%;
-    }
-
-    .maths-table th:nth-child(2),
-    .maths-table td:nth-child(2),
-    .science-table th:nth-child(2),
-    .science-table td:nth-child(2) {
-        width: 11%;
-    }
-
-    .maths-table th:nth-child(3),
-    .maths-table td:nth-child(3) {
-        width: 15%;
-    }
-
-    .science-table th:nth-child(3),
-    .science-table td:nth-child(3) {
-        width: 19%;
-    }
-
-    .maths-table th:nth-child(4),
-    .maths-table td:nth-child(4),
-    .science-table th:nth-child(4),
-    .science-table td:nth-child(4) {
-        width: 31%;
-    }
-
-    .maths-table th:nth-child(5),
-    .maths-table td:nth-child(5) {
-        width: 38%;
-    }
-
-    .science-table th:nth-child(5),
-    .science-table td:nth-child(5) {
-        width: 34%;
-    }
 }
 
 
-/* Mobile */
+/* -----------------------------
+   Mobile
+----------------------------- */
 
 @media (max-width: 600px) {
-    .container {
-        padding: 10px;
+    body {
+        font-size: 15px;
     }
 
+    .container {
+        padding: 12px;
+    }
+
+    .main-nav a,
     nav a {
         display: block;
         margin: 8px 0;
     }
 
+    .breadcrumb a {
+        display: inline;
+        margin: 0;
+    }
+
+    .subject-grid,
     .worksheet-grid {
         grid-template-columns: 1fr;
+    }
+
+    .card,
+    .topic-card,
+    .subject-card {
+        padding: 18px;
+    }
+
+    .download-links {
+        flex-direction: column;
+    }
+
+    .button,
+    .button-link,
+    .download-button {
+        width: 100%;
     }
 
     .worksheet-column {
@@ -411,7 +695,7 @@ footer {
     }
 
     .worksheet-column h2 {
-        font-size: 1.15rem;
+        font-size: 1.2rem;
     }
 
     .worksheet-table th,
@@ -427,11 +711,20 @@ footer {
 }
 
 
-/* Very small mobile */
+/* -----------------------------
+   Very small mobile
+----------------------------- */
 
 @media (max-width: 420px) {
     .container {
-        padding: 8px;
+        padding: 10px;
+    }
+
+    .card,
+    .topic-card,
+    .subject-card {
+        padding: 16px;
+        border-radius: 8px;
     }
 
     .worksheet-column {
