@@ -198,16 +198,32 @@ h3 {
 }
 
 .amazon-resource-callout {
-    margin: 14px 0 0;
-    padding: 10px 12px;
-    border-left: 4px solid #1a3a72;
-    background: #f7fbff;
-    color: #1c2a3a;
-    font-size: 0.95rem;
+    margin: 16px 0 0;
+    padding: 14px 16px;
+    border: 1px solid #f4cf7a;
+    border-left: 6px solid #d99000;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #fff8e6 0%, #ffe7b8 100%);
+    color: #2f2100;
+    font-size: 0.98rem;
+    font-weight: 600;
+    box-shadow: 0 8px 18px rgba(144, 92, 0, 0.16);
 }
 
 .amazon-resource-callout a {
-    font-weight: 700;
+    display: inline-block;
+    margin-left: 6px;
+    padding: 6px 12px;
+    border: 1px solid #9e6400;
+    border-radius: 999px;
+    background: #ffb100;
+    color: #1f1700;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.amazon-resource-callout a:hover {
+    background: #e59f00;
 }
 
 /* Legacy worksheet sections */
