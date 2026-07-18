@@ -446,6 +446,7 @@ footer {
     }
 }
 
+.hero,
 .hero-section {
     text-align: center;
     background: #f8f9ff;
@@ -454,11 +455,13 @@ footer {
     margin-bottom: 40px;
 }
 
+.hero h1,
 .hero-section h1 {
     margin-top: 0;
     font-size: 2rem;
 }
 
+.hero p,
 .hero-section p {
     max-width: 700px;
     margin: 20px auto;
