@@ -124,8 +124,22 @@ h3 {
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card {
+    padding: 12px;
     border-width: 2px;
-    box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+    border-radius: 8px;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card h2 {
+    margin: 0 0 8px;
+    font-size: 1.15rem;
+    line-height: 1.25;
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card p {
+    margin: 0 0 10px;
+    font-size: 0.9rem;
+    line-height: 1.35;
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card:first-child,
@@ -150,7 +164,9 @@ h3 {
 
 .subject-grid[aria-label="Recommended resources"] .subject-card .button-link {
     background: #fff !important;
+    padding: 6px 10px;
     border-width: 2px;
+    font-size: 0.86rem;
 }
 
 /* Blog topic cards */
