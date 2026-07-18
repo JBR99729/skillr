@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://skillrhub.com/</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/about.html</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/contact.html</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/usefulresources.html</loc>
   </url>
-
   <url>
-    <loc>https://skillrhub.com/nursery/</loc>
+    <loc>https://skillrhub.com/policy.html</loc>
   </url>
-
   <url>
-    <loc>https://skillrhub.com/nursery/maths/</loc>
+    <loc>https://skillrhub.com/sitemap.html</loc>
   </url>
-
   <url>
-    <loc>https://skillrhub.com/nursery/science/</loc>
+    <loc>https://skillrhub.com/foundation/</loc>
   </url>
-
+  <url>
+    <loc>https://skillrhub.com/foundation/maths/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/foundation/science/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/year1/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/year1/maths/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/year1/science/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/year2/</loc>
+  </url>
   <url>
     <loc>https://skillrhub.com/year3/</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/year4/</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/year5/</loc>
   </url>
-
   <url>
     <loc>https://skillrhub.com/year6/</loc>
   </url>
-
 </urlset>
-<url>
-    <loc>https://skillrhub.com/math/foundation-numbers-to20-activities.html</loc>
-</url>
