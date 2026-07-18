@@ -197,6 +197,19 @@ h3 {
     color: #fff;
 }
 
+.amazon-resource-callout {
+    margin: 14px 0 0;
+    padding: 10px 12px;
+    border-left: 4px solid #1a3a72;
+    background: #f7fbff;
+    color: #1c2a3a;
+    font-size: 0.95rem;
+}
+
+.amazon-resource-callout a {
+    font-weight: 700;
+}
+
 /* Legacy worksheet sections */
 
 .worksheet-sections {

@@ -575,5 +575,19 @@
 
 </div>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".download-links").forEach(function (block) {
+        if (block.nextElementSibling && block.nextElementSibling.classList && block.nextElementSibling.classList.contains("amazon-resource-callout")) {
+            return;
+        }
+        var note = document.createElement("p");
+        note.className = "amazon-resource-callout";
+        note.innerHTML = 'Save time, get all of these resources printed and arranged, and have them delivered to your doorstep by Amazon. <a href="https://link.amazon/B0jhzARUV" target="_blank" rel="sponsored noopener">Explore the options</a>.';
+        block.insertAdjacentElement("afterend", note);
+    });
+});
+</script>
+
 </body>
 </html>
