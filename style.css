@@ -128,12 +128,16 @@ h3 {
     box-shadow: 0 10px 24px rgba(0,0,0,0.08);
 }
 
-.subject-grid[aria-label="Recommended resources"] .subject-card:first-child {
+.subject-grid[aria-label="Recommended resources"] .subject-card:first-child,
+.subject-grid[aria-label="Recommended resources"] .subject-card.promo-book-card,
+.subject-card.promo-book-card {
     border-color: #e4b55f;
     background: linear-gradient(135deg, #fff8e6 0%, #ffe2ad 100%);
 }
 
-.subject-grid[aria-label="Recommended resources"] .subject-card:last-child {
+.subject-grid[aria-label="Recommended resources"] .subject-card:last-child,
+.subject-grid[aria-label="Recommended resources"] .subject-card.promo-supplies-card,
+.subject-card.promo-supplies-card {
     border-color: #59a59e;
     background: linear-gradient(135deg, #e9fbf7 0%, #c7f1e7 100%);
 }
@@ -280,6 +284,41 @@ h3 {
     background: #e59f00;
 }
 
+.topic-heading-banner {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 16px;
+    align-items: start;
+    margin: 12px 0 8px;
+}
+
+.topic-inline-banner {
+    padding: 12px 14px;
+    border: 1px solid #f0be59;
+    border-left: 5px solid #d99000;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #fff8e6 0%, #ffe2ad 100%);
+    color: #352300;
+    box-shadow: 0 8px 16px rgba(120, 83, 10, 0.14);
+    font-size: 0.95rem;
+}
+
+.topic-inline-banner a {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    border: 1px solid #7f5400;
+    background: #ffb100;
+    color: #1f1700;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.topic-inline-banner a:hover {
+    background: #e59f00;
+}
+
 /* Legacy worksheet sections */
 
 .worksheet-sections {
@@ -381,6 +420,10 @@ footer {
     .topic-card,
     .worksheet-column {
         padding: 18px;
+    }
+
+    .topic-heading-banner {
+        grid-template-columns: 1fr;
     }
 }
 
