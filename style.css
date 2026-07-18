@@ -123,6 +123,29 @@ h3 {
     text-transform: uppercase;
 }
 
+.subject-grid[aria-label="Recommended resources"] .subject-card {
+    border-width: 2px;
+    box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card:first-child {
+    border-color: #e4b55f;
+    background: linear-gradient(135deg, #fff8e6 0%, #ffe2ad 100%);
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card:last-child {
+    border-color: #59a59e;
+    background: linear-gradient(135deg, #e9fbf7 0%, #c7f1e7 100%);
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card .card-label {
+    color: #4a4a4a;
+}
+
+.subject-grid[aria-label="Recommended resources"] .subject-card .button-link {
+    background: #fff;
+}
+
 /* Blog topic cards */
 
 .topic-list {
@@ -223,6 +246,37 @@ h3 {
 }
 
 .amazon-resource-callout a:hover {
+    background: #e59f00;
+}
+
+.activities-affiliate-banner {
+    margin: 14px 0 18px;
+    padding: 14px 16px;
+    border: 2px solid #f0be59;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #fff6df 0%, #ffe8bb 100%);
+    color: #352300;
+    box-shadow: 0 10px 20px rgba(120, 83, 10, 0.14);
+}
+
+.activities-affiliate-banner strong {
+    display: block;
+    margin-bottom: 4px;
+}
+
+.activities-affiliate-banner a {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 7px 12px;
+    border-radius: 999px;
+    border: 1px solid #7f5400;
+    background: #ffb100;
+    color: #1f1700;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.activities-affiliate-banner a:hover {
     background: #e59f00;
 }
 
