@@ -131,15 +131,17 @@ h3 {
 .subject-grid[aria-label="Recommended resources"] .subject-card:first-child,
 .subject-grid[aria-label="Recommended resources"] .subject-card.promo-book-card,
 .subject-card.promo-book-card {
-    border-color: #e4b55f;
-    background: linear-gradient(135deg, #fff8e6 0%, #ffe2ad 100%);
+    border-color: #b87400 !important;
+    background: linear-gradient(135deg, #ffd977 0%, #ffb300 100%) !important;
+    color: #1f1300 !important;
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card:last-child,
 .subject-grid[aria-label="Recommended resources"] .subject-card.promo-supplies-card,
 .subject-card.promo-supplies-card {
-    border-color: #59a59e;
-    background: linear-gradient(135deg, #e9fbf7 0%, #c7f1e7 100%);
+    border-color: #0f7f74 !important;
+    background: linear-gradient(135deg, #86f0d7 0%, #16c3a0 100%) !important;
+    color: #042620 !important;
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card .card-label {
@@ -147,7 +149,8 @@ h3 {
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card .button-link {
-    background: #fff;
+    background: #fff !important;
+    border-width: 2px;
 }
 
 /* Blog topic cards */
