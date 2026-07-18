@@ -169,6 +169,34 @@ h3 {
     font-size: 0.86rem;
 }
 
+/* Foundation subject tabs styled like recommended resource cards */
+
+.feature-tabs .subject-card {
+    padding: 12px;
+    border-width: 2px;
+    border-radius: 8px;
+    box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.feature-tabs .subject-card h2 {
+    margin: 0 0 8px;
+    font-size: 1.15rem;
+    line-height: 1.25;
+}
+
+.feature-tabs .subject-card p {
+    margin: 0 0 10px;
+    font-size: 0.9rem;
+    line-height: 1.35;
+}
+
+.feature-tabs .subject-card .button-link {
+    background: #fff !important;
+    padding: 6px 10px;
+    border-width: 2px;
+    font-size: 0.86rem;
+}
+
 /* Blog topic cards */
 
 .topic-list {
