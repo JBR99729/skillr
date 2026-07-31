@@ -1,4 +1,4 @@
-name: Check sitemap.xml
+name: Check sitemap files
 
 on:
   pull_request:
@@ -6,6 +6,7 @@ on:
       - "**/*.html"
       - "scripts/generate-sitemap.sh"
       - "sitemap.xml"
+      - "sitemap.html"
       - ".github/workflows/sitemap-check.yml"
   push:
     branches: ["main"]
@@ -13,6 +14,7 @@ on:
       - "**/*.html"
       - "scripts/generate-sitemap.sh"
       - "sitemap.xml"
+      - "sitemap.html"
       - ".github/workflows/sitemap-check.yml"
 
 jobs:
@@ -28,10 +30,10 @@ jobs:
           chmod +x scripts/generate-sitemap.sh
           ./scripts/generate-sitemap.sh
 
-      - name: Verify sitemap committed
+      - name: Verify sitemap files committed
         run: |
-          if ! git diff --quiet -- sitemap.xml; then
-            echo "::error::sitemap.xml is out of date. Run ./scripts/generate-sitemap.sh and commit the updated sitemap.xml."
-            git --no-pager diff -- sitemap.xml
+          if ! git diff --quiet -- sitemap.xml sitemap.html; then
+            echo "::error::Sitemap files are out of date. Run ./scripts/generate-sitemap.sh and commit updated sitemap.xml and sitemap.html."
+            git --no-pager diff -- sitemap.xml sitemap.html
             exit 1
           fi

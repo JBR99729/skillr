@@ -8,19 +8,43 @@ cd "$REPO_ROOT"
 
 mapfile -t html_files < <(git ls-files -- '*.html' | sort)
 
+to_path() {
+  local file="$1"
+  if [[ "$file" == "index.html" ]]; then
+    printf "/"
+  elif [[ "$file" == */index.html ]]; then
+    local dir="${file%/index.html}"
+    printf "/%s/" "$dir"
+  else
+    printf "/%s" "$file"
+  fi
+}
+
+to_title() {
+  local file="$1"
+  local base
+  base="${file##*/}"
+  if [[ "$base" == "index.html" ]]; then
+    local dir="${file%/index.html}"
+    if [[ -z "$dir" || "$dir" == "$file" ]]; then
+      printf "Home"
+    else
+      dir="${dir##*/}"
+      printf "%s" "${dir^}"
+    fi
+  else
+    base="${base%.html}"
+    base="${base//-/ }"
+    printf "%s" "${base^}"
+  fi
+}
+
 {
   echo '<?xml version="1.0" encoding="UTF-8"?>'
   echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 
   for file in "${html_files[@]}"; do
-    if [[ "$file" == "index.html" ]]; then
-      path="/"
-    elif [[ "$file" == */index.html ]]; then
-      dir="${file%/index.html}"
-      path="/${dir}/"
-    else
-      path="/${file}"
-    fi
+    path="$(to_path "$file")"
 
     echo '  <url>'
     echo "    <loc>${BASE_URL}${path}</loc>"
@@ -30,4 +54,70 @@ mapfile -t html_files < <(git ls-files -- '*.html' | sort)
   echo '</urlset>'
 } > sitemap.xml
 
-echo "Updated sitemap.xml with ${#html_files[@]} URLs."
+{
+  cat <<'HTML_HEADER'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sitemap | Skillr Education</title>
+    <meta name="description" content="Complete sitemap for Skillr Education pages.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://skillrhub.com/sitemap.html">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+
+    <nav class="main-nav">
+        <a href="./">Home</a>
+        <a href="sitemap.html">Sitemap</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="usefulresources.html">Useful Resources</a>
+        <a href="policy.html">Policy</a>
+    </nav>
+
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+        <ol>
+            <li><a href="./">Home</a></li>
+            <li aria-current="page">Sitemap</li>
+        </ol>
+    </nav>
+
+    <h1>Website Sitemap</h1>
+    <p>This page is automatically generated from tracked HTML files in the repository.</p>
+
+    <h2>All Pages</h2>
+    <ul>
+HTML_HEADER
+
+  for file in "${html_files[@]}"; do
+    path="$(to_path "$file")"
+    title="$(to_title "$file")"
+    href="${path#/}"
+    if [[ -z "$href" ]]; then
+      href="./"
+    fi
+    printf '        <li><a href="%s">%s</a></li>\n' "$href" "$title"
+  done
+
+  cat <<'HTML_FOOTER'
+    </ul>
+
+    <footer>
+        <p>© 2026 Skillr Education. All rights reserved.</p>
+        <p>
+            Educational resources are provided for students, parents and teachers for learning purposes only.
+            Commercial use, redistribution or resale is strictly prohibited without written permission.
+        </p>
+    </footer>
+
+</div>
+</body>
+</html>
+HTML_FOOTER
+} > sitemap.html
+
+echo "Updated sitemap.xml and sitemap.html with ${#html_files[@]} URLs."

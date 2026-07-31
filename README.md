@@ -15,7 +15,7 @@ Run:
 ./scripts/setup-git-hooks.sh
 ```
 
-After setup, every commit will regenerate `sitemap.xml` and stage it automatically.
+After setup, every commit will regenerate `sitemap.xml` and `sitemap.html` and stage them automatically.
 
 ### Manual regenerate
 

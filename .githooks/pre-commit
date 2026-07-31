@@ -4,4 +4,4 @@ set -euo pipefail
 repo_root="$(git rev-parse --show-toplevel)"
 "$repo_root/scripts/generate-sitemap.sh" >/dev/null
 
-git add sitemap.xml
+git add sitemap.xml sitemap.html
