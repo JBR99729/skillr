@@ -1,0 +1,37 @@
+name: Check sitemap.xml
+
+on:
+  pull_request:
+    paths:
+      - "**/*.html"
+      - "scripts/generate-sitemap.sh"
+      - "sitemap.xml"
+      - ".github/workflows/sitemap-check.yml"
+  push:
+    branches: ["main"]
+    paths:
+      - "**/*.html"
+      - "scripts/generate-sitemap.sh"
+      - "sitemap.xml"
+      - ".github/workflows/sitemap-check.yml"
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate sitemap
+        run: |
+          chmod +x scripts/generate-sitemap.sh
+          ./scripts/generate-sitemap.sh
+
+      - name: Verify sitemap committed
+        run: |
+          if ! git diff --quiet -- sitemap.xml; then
+            echo "::error::sitemap.xml is out of date. Run ./scripts/generate-sitemap.sh and commit the updated sitemap.xml."
+            git --no-pager diff -- sitemap.xml
+            exit 1
+          fi
