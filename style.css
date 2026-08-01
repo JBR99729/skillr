@@ -95,6 +95,107 @@ h3 {
     border-bottom: 1px solid #ddd;
 }
 
+.page-hero {
+    margin: 18px 0 24px;
+    padding: 16px 18px;
+    border-left: 4px solid #1a3a72;
+    border-radius: 8px;
+    background: #f7faff;
+}
+
+.page-hero-year2 {
+    border-left-color: #6b4dd8;
+    background: linear-gradient(135deg, #f9f7ff 0%, #f2ecff 100%);
+}
+
+.hero-badge {
+    display: inline-block;
+    margin-bottom: 8px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    background: #ece7ff;
+    color: #5a3ecf;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.page-hero h2 {
+    margin: 0 0 6px;
+    font-size: 1.08rem;
+    color: #1a3a72;
+}
+
+.page-hero p {
+    margin: 0;
+    color: #334;
+}
+
+.page-guide {
+    margin: 18px 0 22px;
+    padding: 14px 16px;
+    border: 1px solid #e3eaf2;
+    border-radius: 8px;
+    background: #fbfdff;
+}
+
+.page-guide h2 {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+    color: #1a3a72;
+}
+
+.page-guide ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #334;
+}
+
+.page-guide li + li {
+    margin-top: 6px;
+}
+
+.topic-progression {
+    margin: 18px 0 24px;
+    padding: 14px 16px;
+    border: 1px solid #e9eef5;
+    border-radius: 8px;
+    background: #fcfeff;
+}
+
+.topic-progression h2 {
+    margin: 0 0 8px;
+    font-size: 1.02rem;
+    color: #1a3a72;
+}
+
+.topic-progression p {
+    margin: 0 0 10px;
+    color: #334;
+}
+
+.topic-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.topic-links a {
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: #f2f7ff;
+    color: #1a3a72;
+    text-decoration: none;
+    font-size: 0.92rem;
+    font-weight: 600;
+}
+
+.topic-links a:hover {
+    text-decoration: underline;
+}
+
 /* Subject cards */
 
 .subject-grid {
