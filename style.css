@@ -242,6 +242,14 @@ h3 {
     font-weight: 600;
 }
 
+footer .site-notice {
+    margin-top: 14px;
+    padding: 12px 14px;
+    border-color: #c7d8eb;
+    background: #f5f9ff;
+    font-size: 0.95rem;
+}
+
 /* Subject cards */
 
 .subject-grid {
