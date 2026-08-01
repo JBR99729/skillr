@@ -76,7 +76,7 @@ to_title() {
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
         <a href="usefulresources.html">Useful Resources</a>
-        <a href="policy.html">Policy</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
     </nav>
 
     <nav aria-label="Breadcrumb" class="breadcrumb">
