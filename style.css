@@ -196,6 +196,52 @@ h3 {
     text-decoration: underline;
 }
 
+.page-ad-slot {
+    margin: 28px 0 8px;
+    padding: 12px 14px;
+    border: 1px dashed #c7d4e6;
+    border-radius: 8px;
+    background: #fafcff;
+    color: #556;
+}
+
+.page-ad-slot__label {
+    display: inline-block;
+    margin-bottom: 6px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: #eef4ff;
+    color: #355b99;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.page-ad-slot__body {
+    font-size: 0.92rem;
+    line-height: 1.45;
+}
+
+.site-notice {
+    margin: 24px 0 8px;
+    padding: 10px 12px;
+    border: 1px solid #dbe7f8;
+    border-radius: 8px;
+    background: #f7fbff;
+    color: #44566b;
+    font-size: 0.92rem;
+}
+
+.site-notice p {
+    margin: 0;
+}
+
+.site-notice a {
+    color: #1a3a72;
+    font-weight: 600;
+}
+
 /* Subject cards */
 
 .subject-grid {
