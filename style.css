@@ -250,6 +250,51 @@ footer .site-notice {
     font-size: 0.95rem;
 }
 
+/* Featured resource spotlight */
+
+.resource-spotlight {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 24px;
+    align-items: center;
+    margin: 28px 0 24px;
+    padding: 24px;
+    border: 1px solid #dfe8f3;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #f8fbff 0%, #f3f7ff 100%);
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+
+.resource-spotlight__content h2 {
+    margin: 6px 0 10px;
+    font-size: clamp(1.2rem, 2.2vw, 1.6rem);
+}
+
+.resource-spotlight__content p,
+.resource-spotlight__content li {
+    color: #334155;
+}
+
+.resource-spotlight__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.resource-spotlight__actions .button-link {
+    margin: 0;
+}
+
+.resource-spotlight__media img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #d7e2ef;
+    border-radius: 10px;
+    background: #fff;
+}
+
 /* Subject cards */
 
 .subject-grid {
@@ -627,6 +672,10 @@ footer {
     }
 
     .resource-quickstart {
+        grid-template-columns: 1fr;
+    }
+
+    .resource-spotlight {
         grid-template-columns: 1fr;
     }
 
