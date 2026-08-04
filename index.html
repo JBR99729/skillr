@@ -30,16 +30,7 @@
 
     <meta name="google-site-verification" content="T8C5AZpH9XB1dJjNq9VR9I4lxCZUW8VxTJEWIDkNECE" />
 
-    <!-- Google tag (gtag.js) -->
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-8P22BET45N');
-    </script>
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
-    <script defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
-<meta name="msvalidate.01" content="2249BD50F235D5E41EC18BDCB2C05646" />
+    <meta name="msvalidate.01" content="2249BD50F235D5E41EC18BDCB2C05646" />
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -196,32 +187,55 @@ We are continually expanding this collection. If you need a worksheet for a topi
 
 </div>
 <script>
-  function initPageAds() {
-    if (!window.adsbygoogle) {
-      window.adsbygoogle = [];
+  function loadPerformanceDeferredScripts() {
+    if (window.__skillrDeferredScriptsLoaded) {
+      return;
+    }
+    window.__skillrDeferredScriptsLoaded = true;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () {
+      window.dataLayer.push(arguments);
+    };
+    window.gtag('js', new Date());
+    window.gtag('config', 'G-8P22BET45N');
+
+    var gtagScript = document.createElement('script');
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N';
+    gtagScript.async = true;
+    document.head.appendChild(gtagScript);
+
+    function initPageAds() {
+      if (!window.adsbygoogle) {
+        window.adsbygoogle = [];
+      }
+
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: 'ca-pub-7734963540104771',
+        enable_page_level_ads: true
+      });
     }
 
-    if (window.requestIdleCallback) {
-      window.requestIdleCallback(function () {
-        (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7734963540104771",
-          enable_page_level_ads: true
-        });
-      }, { timeout: 2000 });
-    } else {
-      window.setTimeout(function () {
-        (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7734963540104771",
-          enable_page_level_ads: true
-        });
-      }, 1000);
-    }
+    var adsScript = document.createElement('script');
+    adsScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771';
+    adsScript.async = true;
+    adsScript.crossOrigin = 'anonymous';
+    adsScript.onload = function () {
+      if (window.requestIdleCallback) {
+        window.requestIdleCallback(initPageAds, { timeout: 2000 });
+      } else {
+        window.setTimeout(initPageAds, 1000);
+      }
+    };
+    document.head.appendChild(adsScript);
   }
 
   if (document.readyState === 'complete' || document.readyState === 'interactive') {
-    window.setTimeout(initPageAds, 300);
+    window.setTimeout(loadPerformanceDeferredScripts, 1200);
   } else {
-    window.addEventListener('load', initPageAds, { once: true });
+    window.addEventListener('load', function () {
+      window.setTimeout(loadPerformanceDeferredScripts, 1200);
+    }, { once: true });
   }
 </script>
 </body>
