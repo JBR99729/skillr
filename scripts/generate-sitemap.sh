@@ -6,7 +6,10 @@ REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 cd "$REPO_ROOT"
 
-mapfile -t html_files < <(git ls-files -- '*.html' | sort)
+html_files=()
+while IFS= read -r file; do
+  html_files+=("$file")
+done < <(git ls-files -- '*.html' | sort)
 
 to_path() {
   local file="$1"
@@ -20,6 +23,21 @@ to_path() {
   fi
 }
 
+capitalize_first() {
+  local value="$1"
+  if [[ -z "$value" ]]; then
+    printf ''
+    return
+  fi
+  python3 - "$value" <<'PY'
+import sys
+value = sys.argv[1]
+if not value:
+    sys.exit(0)
+print(value[0].upper() + value[1:])
+PY
+}
+
 to_title() {
   local file="$1"
   local base
@@ -30,12 +48,12 @@ to_title() {
       printf "Home"
     else
       dir="${dir##*/}"
-      printf "%s" "${dir^}"
+      printf "%s" "$(capitalize_first "$dir")"
     fi
   else
     base="${base%.html}"
     base="${base//-/ }"
-    printf "%s" "${base^}"
+    printf "%s" "$(capitalize_first "$base")"
   fi
 }
 
