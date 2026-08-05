@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
   button.target = '_blank';
   button.rel = 'noopener noreferrer';
   button.setAttribute('aria-label', 'Share this page on WhatsApp');
-  button.innerHTML = '<span aria-hidden="true">💬</span>';
+  button.innerHTML = '<span aria-hidden="true">�</span>';
 
   document.body.appendChild(button);
 });

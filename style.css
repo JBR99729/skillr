@@ -672,25 +672,26 @@ footer {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 56px;
-    height: 56px;
+    width: 62px;
+    height: 62px;
+    border: 3px solid #fff;
     border-radius: 50%;
-    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+    background: linear-gradient(135deg, #25d366 0%, #075e54 100%);
     color: #fff;
-    box-shadow: 0 10px 24px rgba(18, 140, 126, 0.28);
-    font-size: 28px;
+    box-shadow: 0 12px 28px rgba(7, 94, 84, 0.35);
+    font-size: 30px;
     line-height: 1;
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .skillr-share-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 14px 28px rgba(18, 140, 126, 0.34);
+    transform: translateY(-2px) scale(1.04);
+    box-shadow: 0 16px 32px rgba(7, 94, 84, 0.42);
 }
 
 .skillr-share-btn:focus-visible {
-    outline: 3px solid rgba(37, 211, 102, 0.35);
+    outline: 4px solid rgba(37, 211, 102, 0.4);
     outline-offset: 4px;
 }
 
