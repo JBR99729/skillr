@@ -698,10 +698,11 @@ footer {
     outline-offset: 4px;
 }
 
-.skillr-copy-btn {
+.skillr-copy-btn,
+.skillr-ig-btn,
+.skillr-fb-btn {
     position: fixed;
     right: 18px;
-    bottom: 86px;
     z-index: 9999;
     display: inline-flex;
     align-items: center;
@@ -719,8 +720,26 @@ footer {
     text-decoration: none;
 }
 
-.skillr-copy-btn:hover {
+.skillr-copy-btn:hover,
+.skillr-ig-btn:hover,
+.skillr-fb-btn:hover {
     transform: translateY(-1px);
+}
+
+.skillr-copy-btn {
+    bottom: 86px;
+}
+
+.skillr-ig-btn {
+    bottom: 136px;
+    border-color: #f2d2e2;
+    color: #e1306c;
+}
+
+.skillr-fb-btn {
+    bottom: 186px;
+    border-color: #d8e7ff;
+    color: #1877f2;
 }
 
 .skillr-share-menu {
