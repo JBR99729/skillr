@@ -698,6 +698,39 @@ footer {
     outline-offset: 4px;
 }
 
+.skillr-share-menu {
+    position: fixed;
+    right: 18px;
+    bottom: 92px;
+    z-index: 9998;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.skillr-share-menu a {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border: 1px solid #dce7f2;
+    border-radius: 999px;
+    background: #fff;
+    color: #1f2937;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.skillr-share-menu a:hover {
+    transform: translateY(-1px);
+}
+
+.skillr-share-menu .wa { color: #25d366; }
+.skillr-share-menu .ig { color: #e1306c; }
+.skillr-share-menu .fb { color: #1877f2; }
+
 /* Responsive */
 
 @media (max-width: 900px) {
