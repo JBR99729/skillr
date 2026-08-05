@@ -674,14 +674,14 @@ footer {
     justify-content: center;
     gap: 8px;
     min-width: 132px;
-    height: 62px;
+    height: 56px;
     padding: 0 16px;
     border: 3px solid #fff;
     border-radius: 999px;
     background: linear-gradient(135deg, #25d366 0%, #075e54 100%);
     color: #fff;
     box-shadow: 0 12px 28px rgba(7, 94, 84, 0.35);
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 700;
     line-height: 1;
     text-decoration: none;
@@ -696,6 +696,31 @@ footer {
 .skillr-share-btn:focus-visible {
     outline: 4px solid rgba(37, 211, 102, 0.4);
     outline-offset: 4px;
+}
+
+.skillr-copy-btn {
+    position: fixed;
+    right: 18px;
+    bottom: 86px;
+    z-index: 9999;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    height: 44px;
+    padding: 0 14px;
+    border: 2px solid #dce7f2;
+    border-radius: 999px;
+    background: #fff;
+    color: #1f2937;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.skillr-copy-btn:hover {
+    transform: translateY(-1px);
 }
 
 .skillr-share-menu {
