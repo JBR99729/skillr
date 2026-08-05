@@ -664,6 +664,36 @@ footer {
     font-size: 0.9rem;
 }
 
+.skillr-share-btn {
+    position: fixed;
+    right: 18px;
+    bottom: 22px;
+    z-index: 9999;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
+    color: #fff;
+    box-shadow: 0 10px 24px rgba(18, 140, 126, 0.28);
+    font-size: 28px;
+    line-height: 1;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.skillr-share-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 28px rgba(18, 140, 126, 0.34);
+}
+
+.skillr-share-btn:focus-visible {
+    outline: 3px solid rgba(37, 211, 102, 0.35);
+    outline-offset: 4px;
+}
+
 /* Responsive */
 
 @media (max-width: 900px) {
