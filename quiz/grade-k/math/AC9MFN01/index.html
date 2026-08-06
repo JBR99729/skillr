@@ -1,1 +1,87 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Counting to 20 Quiz | Grade K Maths</title>
+
+  <link
+     rel="stylesheet"
+  href="../../../assets/quiz-styles.css"
+  >
+</head>
+
+<body>
+
+  <header class="quiz-header">
+    <a href="../../index.html">← Back to Grade K</a>
+
+    <h1>Counting to 20 Quiz</h1>
+
+    <p>
+      Test your understanding of counting, recognising and ordering
+      numbers to 20.
+    </p>
+  </header>
+
+  <main class="quiz-container">
+
+    <section id="quiz-screen">
+      <div class="quiz-status">
+        <span id="question-number">Question 1</span>
+        <span id="score">Score: 0</span>
+      </div>
+
+      <div class="progress-track">
+        <div id="progress-bar"></div>
+      </div>
+
+      <h2 id="question-text"></h2>
+
+      <div id="answer-buttons"></div>
+
+      <div
+        id="feedback"
+        aria-live="polite"
+      ></div>
+
+      <button
+        id="next-button"
+        type="button"
+        hidden
+      >
+        Next Question
+      </button>
+    </section>
+
+    <section
+      id="result-screen"
+      hidden
+    >
+      <h2>Quiz Complete!</h2>
+
+      <p id="final-score"></p>
+      <p id="result-message"></p>
+
+      <button
+        id="restart-button"
+        type="button"
+      >
+        Try Again
+      </button>
+    </section>
+
+  </main>
+
+  <!-- Questions must load before the quiz engine -->
+ <script src="questions.js"></script>
+<script src="../../../assets/quiz-engine.js"></script>
+
+</body>
+</html>
