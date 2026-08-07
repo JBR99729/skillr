@@ -256,7 +256,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
     elements.questionNumber.textContent =
       `Question ${position}`;
+const previousVisual =
+  document.getElementById("questionVisual");
 
+previousVisual?.remove();
+
+if (question.visual) {
+  const visual =
+    document.createElement("div");
+
+  visual.id = "questionVisual";
+  visual.className = "question-visual";
+  visual.textContent = question.visual;
+
+  elements.questionText.insertAdjacentElement(
+    "afterend",
+    visual
+  );
+}
     elements.questionText.textContent =
       question.question;
 
