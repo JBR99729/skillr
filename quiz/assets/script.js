@@ -7,8 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const config = {
     shuffleQuestions: true,
-    storageKey: "skillrQuizBestScore",
+    shuffleAnswers: false,
     caseSensitiveText: false,
+    storageKey: "skillrQuizBestScore",
     ...(window.quizConfig || {})
   };
 
@@ -43,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
     reviewList: document.getElementById("reviewList")
   };
 
-  const requiredElements = [
+  const requiredIds = [
     "startScreen",
     "quizScreen",
     "resultScreen",
@@ -65,13 +66,13 @@ document.addEventListener("DOMContentLoaded", () => {
     "resultMessage"
   ];
 
-  const missingElements = requiredElements.filter(
-    (name) => !elements[name]
+  const missingIds = requiredIds.filter(
+    (id) => !elements[id]
   );
 
-  if (missingElements.length > 0) {
+  if (missingIds.length > 0) {
     console.error(
-      `Quiz could not start. Missing HTML IDs: ${missingElements.join(", ")}`
+      `Quiz cannot start. Missing HTML IDs: ${missingIds.join(", ")}`
     );
 
     return;
@@ -83,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
     elements.startButton.textContent = "Questions not loaded";
 
     console.error(
-      "Quiz could not start. window.quizQuestions is empty or questions.js did not load."
+      "questions.js must define window.quizQuestions."
     );
 
     return;
@@ -98,11 +99,16 @@ document.addEventListener("DOMContentLoaded", () => {
   let selectedSingleIndex = null;
   let selectedMultipleIndexes = new Set();
   let orderedItems = [];
+  let draggedItemIndex = null;
 
   function shuffleArray(items) {
     const copy = [...items];
 
-    for (let index = copy.length - 1; index > 0; index -= 1) {
+    for (
+      let index = copy.length - 1;
+      index > 0;
+      index -= 1
+    ) {
       const randomIndex = Math.floor(
         Math.random() * (index + 1)
       );
@@ -116,8 +122,8 @@ document.addEventListener("DOMContentLoaded", () => {
     return copy;
   }
 
-  function prepareQuestions() {
-    const prepared = questions.map((question) => ({
+  function cloneQuestion(question) {
+    return {
       ...question,
 
       answers: Array.isArray(question.answers)
@@ -132,14 +138,60 @@ document.addEventListener("DOMContentLoaded", () => {
         ? [...question.correct]
         : question.correct,
 
-      acceptedAnswers: Array.isArray(question.acceptedAnswers)
-        ? [...question.acceptedAnswers]
+      acceptedAnswers: Array.isArray(
+        question.acceptedAnswers
+      )
+        ? question.acceptedAnswers.map((answer) =>
+            Array.isArray(answer)
+              ? [...answer]
+              : answer
+          )
         : undefined
-    }));
+    };
+  }
 
-    return config.shuffleQuestions
-      ? shuffleArray(prepared)
-      : prepared;
+  function prepareSingleChoiceAnswers(question) {
+    const type = question.type || "single";
+
+    if (
+      !config.shuffleAnswers ||
+      (type !== "single" && type !== "true-false")
+    ) {
+      return question;
+    }
+
+    const answerObjects = question.answers.map(
+      (answer, index) => ({
+        answer,
+        isCorrect: index === question.correct
+      })
+    );
+
+    const shuffled = shuffleArray(answerObjects);
+
+    return {
+      ...question,
+
+      answers: shuffled.map(
+        (item) => item.answer
+      ),
+
+      correct: shuffled.findIndex(
+        (item) => item.isCorrect
+      )
+    };
+  }
+
+  function prepareQuestions() {
+    let prepared = questions
+      .map(cloneQuestion)
+      .map(prepareSingleChoiceAnswers);
+
+    if (config.shuffleQuestions) {
+      prepared = shuffleArray(prepared);
+    }
+
+    return prepared;
   }
 
   function showScreen(screenToShow) {
@@ -148,11 +200,22 @@ document.addEventListener("DOMContentLoaded", () => {
       elements.quizScreen,
       elements.resultScreen
     ].forEach((screen) => {
-      const active = screen === screenToShow;
+      const isActive = screen === screenToShow;
 
-      screen.hidden = !active;
-      screen.classList.toggle("is-active", active);
+      screen.hidden = !isActive;
+      screen.classList.toggle(
+        "is-active",
+        isActive
+      );
     });
+  }
+
+  function resetQuestionState() {
+    answerChecked = false;
+    selectedSingleIndex = null;
+    selectedMultipleIndexes = new Set();
+    orderedItems = [];
+    draggedItemIndex = null;
   }
 
   function startQuiz() {
@@ -160,17 +223,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     currentQuestionIndex = 0;
     score = 0;
-    answerChecked = false;
     quizHistory = [];
 
     elements.liveScore.textContent = "0";
 
     if (elements.reviewSection) {
-      elements.reviewSection.classList.add("is-hidden");
+      elements.reviewSection.classList.add(
+        "is-hidden"
+      );
     }
 
     if (elements.reviewButton) {
-      elements.reviewButton.textContent = "Review answers";
+      elements.reviewButton.textContent =
+        "Review answers";
     }
 
     showScreen(elements.quizScreen);
@@ -178,16 +243,16 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function renderQuestion() {
-    const question = activeQuestions[currentQuestionIndex];
-    const position = currentQuestionIndex + 1;
+    resetQuestionState();
 
-    const progressPercentage =
+    const question =
+      activeQuestions[currentQuestionIndex];
+
+    const position =
+      currentQuestionIndex + 1;
+
+    const progress =
       (position / activeQuestions.length) * 100;
-
-    answerChecked = false;
-    selectedSingleIndex = null;
-    selectedMultipleIndexes = new Set();
-    orderedItems = [];
 
     elements.questionNumber.textContent =
       `Question ${position}`;
@@ -199,17 +264,23 @@ document.addEventListener("DOMContentLoaded", () => {
       `Question ${position} of ${activeQuestions.length}`;
 
     elements.progressBar.style.width =
-      `${progressPercentage}%`;
+      `${progress}%`;
 
     elements.feedback.textContent = "";
     elements.feedback.className = "feedback";
 
     elements.submitButton.disabled = true;
     elements.submitButton.hidden = false;
-    elements.submitButton.classList.remove("is-hidden");
+
+    elements.submitButton.classList.remove(
+      "is-hidden"
+    );
 
     elements.nextButton.hidden = true;
-    elements.nextButton.classList.add("is-hidden");
+
+    elements.nextButton.classList.add(
+      "is-hidden"
+    );
 
     elements.nextButton.textContent =
       position === activeQuestions.length
@@ -219,7 +290,8 @@ document.addEventListener("DOMContentLoaded", () => {
     elements.answerList.replaceChildren();
 
     if (question.image) {
-      const image = document.createElement("img");
+      const image =
+        document.createElement("img");
 
       image.src = question.image;
       image.alt = question.imageAlt || "";
@@ -248,8 +320,16 @@ document.addEventListener("DOMContentLoaded", () => {
         renderNumberInput(question);
         break;
 
+      case "fill-blank":
+        renderFillBlank(question);
+        break;
+
       case "order":
         renderOrdering(question);
+        break;
+
+      case "drag-drop":
+        renderDragDrop(question);
         break;
 
       default:
@@ -257,22 +337,35 @@ document.addEventListener("DOMContentLoaded", () => {
           `Unsupported question type: ${type}`;
 
         console.error(
-          `Unknown question type: ${type}`
+          `Unsupported question type: ${type}`
         );
     }
   }
 
-  function createAnswerButton(answer, index) {
-    const button = document.createElement("button");
-    const letter = document.createElement("span");
-    const text = document.createElement("span");
+  function createAnswerButton(
+    answer,
+    index
+  ) {
+    const button =
+      document.createElement("button");
+
+    const letter =
+      document.createElement("span");
+
+    const text =
+      document.createElement("span");
 
     button.type = "button";
     button.className = "answer-option";
     button.dataset.index = String(index);
-    button.setAttribute("aria-pressed", "false");
+
+    button.setAttribute(
+      "aria-pressed",
+      "false"
+    );
 
     letter.className = "answer-letter";
+
     letter.textContent =
       String.fromCharCode(65 + index);
 
@@ -284,88 +377,127 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function renderSingleChoice(question) {
-    question.answers.forEach((answer, index) => {
-      const button =
-        createAnswerButton(answer, index);
+    question.answers.forEach(
+      (answer, index) => {
+        const button =
+          createAnswerButton(
+            answer,
+            index
+          );
 
-      button.addEventListener("click", () => {
-        if (answerChecked) {
-          return;
-        }
+        button.addEventListener(
+          "click",
+          () => {
+            if (answerChecked) {
+              return;
+            }
 
-        selectedSingleIndex = index;
-        elements.submitButton.disabled = false;
+            selectedSingleIndex = index;
 
-        elements.answerList
-          .querySelectorAll(".answer-option")
-          .forEach((item, itemIndex) => {
-            const selected =
-              itemIndex === index;
+            elements.submitButton.disabled =
+              false;
 
-            item.classList.toggle(
-              "is-selected",
-              selected
-            );
+            elements.answerList
+              .querySelectorAll(
+                ".answer-option"
+              )
+              .forEach(
+                (item, itemIndex) => {
+                  const selected =
+                    itemIndex === index;
 
-            item.setAttribute(
-              "aria-pressed",
-              String(selected)
-            );
-          });
-      });
+                  item.classList.toggle(
+                    "is-selected",
+                    selected
+                  );
 
-      elements.answerList.appendChild(button);
-    });
+                  item.setAttribute(
+                    "aria-pressed",
+                    String(selected)
+                  );
+                }
+              );
+          }
+        );
+
+        elements.answerList.appendChild(
+          button
+        );
+      }
+    );
   }
 
   function renderMultipleChoice(question) {
-    const hint = document.createElement("p");
+    const hint =
+      document.createElement("p");
 
     hint.className = "question-hint";
+
     hint.textContent =
       question.instruction ||
       "Select all correct answers.";
 
     elements.answerList.appendChild(hint);
 
-    question.answers.forEach((answer, index) => {
-      const button =
-        createAnswerButton(answer, index);
+    question.answers.forEach(
+      (answer, index) => {
+        const button =
+          createAnswerButton(
+            answer,
+            index
+          );
 
-      button.addEventListener("click", () => {
-        if (answerChecked) {
-          return;
-        }
+        button.addEventListener(
+          "click",
+          () => {
+            if (answerChecked) {
+              return;
+            }
 
-        if (selectedMultipleIndexes.has(index)) {
-          selectedMultipleIndexes.delete(index);
-        } else {
-          selectedMultipleIndexes.add(index);
-        }
+            if (
+              selectedMultipleIndexes.has(
+                index
+              )
+            ) {
+              selectedMultipleIndexes.delete(
+                index
+              );
+            } else {
+              selectedMultipleIndexes.add(
+                index
+              );
+            }
 
-        const selected =
-          selectedMultipleIndexes.has(index);
+            const selected =
+              selectedMultipleIndexes.has(
+                index
+              );
 
-        button.classList.toggle(
-          "is-selected",
-          selected
+            button.classList.toggle(
+              "is-selected",
+              selected
+            );
+
+            button.setAttribute(
+              "aria-pressed",
+              String(selected)
+            );
+
+            elements.submitButton.disabled =
+              selectedMultipleIndexes.size === 0;
+          }
         );
 
-        button.setAttribute(
-          "aria-pressed",
-          String(selected)
+        elements.answerList.appendChild(
+          button
         );
-
-        elements.submitButton.disabled =
-          selectedMultipleIndexes.size === 0;
-      });
-
-      elements.answerList.appendChild(button);
-    });
+      }
+    );
   }
 
   function renderTextInput(question) {
-    const input = document.createElement("input");
+    const input =
+      document.createElement("input");
 
     input.type = "text";
     input.id = "typedAnswer";
@@ -377,17 +509,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     input.autocomplete = "off";
 
-    input.addEventListener("input", () => {
-      elements.submitButton.disabled =
-        input.value.trim() === "";
-    });
+    input.addEventListener(
+      "input",
+      () => {
+        elements.submitButton.disabled =
+          input.value.trim() === "";
+      }
+    );
 
     elements.answerList.appendChild(input);
+
     input.focus();
   }
 
   function renderNumberInput(question) {
-    const input = document.createElement("input");
+    const input =
+      document.createElement("input");
 
     input.type = "number";
     input.id = "numberAnswer";
@@ -399,17 +536,100 @@ document.addEventListener("DOMContentLoaded", () => {
 
     input.step = question.step || "any";
 
-    input.addEventListener("input", () => {
-      elements.submitButton.disabled =
-        input.value.trim() === "";
-    });
+    input.addEventListener(
+      "input",
+      () => {
+        elements.submitButton.disabled =
+          input.value.trim() === "";
+      }
+    );
 
     elements.answerList.appendChild(input);
+
     input.focus();
   }
 
+  function renderFillBlank(question) {
+    const container =
+      document.createElement("div");
+
+    container.className =
+      "fill-blank-container";
+
+    const template =
+      question.template || "{{blank}}";
+
+    const parts =
+      template.split("{{blank}}");
+
+    parts.forEach((part, index) => {
+      container.appendChild(
+        document.createTextNode(part)
+      );
+
+      if (index < parts.length - 1) {
+        const input =
+          document.createElement("input");
+
+        input.type = "text";
+
+        input.className =
+          "fill-blank-input";
+
+        input.dataset.blankIndex =
+          String(index);
+
+        input.autocomplete = "off";
+
+        if (
+          Array.isArray(
+            question.placeholders
+          )
+        ) {
+          input.placeholder =
+            question.placeholders[index] ||
+            "";
+        } else {
+          input.placeholder =
+            question.placeholder || "";
+        }
+
+        input.addEventListener(
+          "input",
+          updateFillBlankSubmitState
+        );
+
+        container.appendChild(input);
+      }
+    });
+
+    elements.answerList.appendChild(
+      container
+    );
+
+    container
+      .querySelector(".fill-blank-input")
+      ?.focus();
+  }
+
+  function updateFillBlankSubmitState() {
+    const inputs = [
+      ...elements.answerList.querySelectorAll(
+        ".fill-blank-input"
+      )
+    ];
+
+    elements.submitButton.disabled =
+      inputs.length === 0 ||
+      inputs.some(
+        (input) =>
+          input.value.trim() === ""
+      );
+  }
+
   function renderOrdering(question) {
-    const hint = document.createElement("p");
+    const hint =
+      document.createElement("p");
 
     hint.className = "question-hint";
 
@@ -424,102 +644,397 @@ document.addEventListener("DOMContentLoaded", () => {
 
     elements.answerList.appendChild(hint);
 
-    renderOrderItems();
+    renderOrderList();
 
     elements.submitButton.disabled = false;
   }
 
-  function renderOrderItems() {
-    const existingList =
-      elements.answerList.querySelector(".order-list");
+  function renderOrderList() {
+    elements.answerList
+      .querySelector(".order-list")
+      ?.remove();
 
-    if (existingList) {
-      existingList.remove();
-    }
-
-    const list = document.createElement("ol");
+    const list =
+      document.createElement("ol");
 
     list.className = "order-list";
 
-    orderedItems.forEach((item, index) => {
-      const row = document.createElement("li");
-      const label = document.createElement("span");
-      const controls = document.createElement("span");
+    orderedItems.forEach(
+      (item, index) => {
+        const row =
+          document.createElement("li");
 
-      const upButton =
-        document.createElement("button");
+        const label =
+          document.createElement("span");
 
-      const downButton =
-        document.createElement("button");
+        const controls =
+          document.createElement("span");
 
-      row.className = "order-item";
-      label.textContent = item;
+        const upButton =
+          document.createElement("button");
 
-      controls.className = "order-controls";
+        const downButton =
+          document.createElement("button");
 
-      upButton.type = "button";
-      upButton.className = "order-button";
-      upButton.textContent = "↑";
+        row.className = "order-item";
 
-      upButton.setAttribute(
-        "aria-label",
-        `Move ${item} up`
-      );
+        label.textContent = item;
 
-      upButton.disabled =
-        index === 0 || answerChecked;
+        controls.className =
+          "order-controls";
 
-      downButton.type = "button";
-      downButton.className = "order-button";
-      downButton.textContent = "↓";
+        upButton.type = "button";
 
-      downButton.setAttribute(
-        "aria-label",
-        `Move ${item} down`
-      );
+        upButton.className =
+          "order-button";
 
-      downButton.disabled =
-        index === orderedItems.length - 1 ||
-        answerChecked;
+        upButton.textContent = "↑";
 
-      upButton.addEventListener("click", () => {
-        [
-          orderedItems[index - 1],
-          orderedItems[index]
-        ] = [
-          orderedItems[index],
-          orderedItems[index - 1]
-        ];
+        upButton.setAttribute(
+          "aria-label",
+          `Move ${item} up`
+        );
 
-        renderOrderItems();
-      });
+        upButton.disabled =
+          answerChecked ||
+          index === 0;
 
-      downButton.addEventListener("click", () => {
-        [
-          orderedItems[index],
-          orderedItems[index + 1]
-        ] = [
-          orderedItems[index + 1],
-          orderedItems[index]
-        ];
+        downButton.type = "button";
 
-        renderOrderItems();
-      });
+        downButton.className =
+          "order-button";
 
-      controls.append(
-        upButton,
-        downButton
-      );
+        downButton.textContent = "↓";
 
-      row.append(
-        label,
-        controls
-      );
+        downButton.setAttribute(
+          "aria-label",
+          `Move ${item} down`
+        );
 
-      list.appendChild(row);
-    });
+        downButton.disabled =
+          answerChecked ||
+          index ===
+            orderedItems.length - 1;
+
+        upButton.addEventListener(
+          "click",
+          () => {
+            moveOrderedItem(
+              index,
+              index - 1,
+              renderOrderList
+            );
+          }
+        );
+
+        downButton.addEventListener(
+          "click",
+          () => {
+            moveOrderedItem(
+              index,
+              index + 1,
+              renderOrderList
+            );
+          }
+        );
+
+        controls.append(
+          upButton,
+          downButton
+        );
+
+        row.append(
+          label,
+          controls
+        );
+
+        list.appendChild(row);
+      }
+    );
 
     elements.answerList.appendChild(list);
+  }
+
+  function renderDragDrop(question) {
+    const hint =
+      document.createElement("p");
+
+    hint.className = "question-hint";
+
+    hint.textContent =
+      question.instruction ||
+      "Drag the items into the correct order. Use the arrows on touchscreens.";
+
+    orderedItems =
+      question.shuffleItems === false
+        ? [...question.items]
+        : shuffleArray(question.items);
+
+    elements.answerList.appendChild(hint);
+
+    renderDragList();
+
+    elements.submitButton.disabled = false;
+  }
+
+  function renderDragList() {
+    elements.answerList
+      .querySelector(".drag-list")
+      ?.remove();
+
+    const list =
+      document.createElement("ol");
+
+    list.className = "drag-list";
+
+    orderedItems.forEach(
+      (item, index) => {
+        const row =
+          document.createElement("li");
+
+        const handle =
+          document.createElement("span");
+
+        const label =
+          document.createElement("span");
+
+        const controls =
+          document.createElement("span");
+
+        const upButton =
+          document.createElement("button");
+
+        const downButton =
+          document.createElement("button");
+
+        row.className = "drag-item";
+
+        row.dataset.index =
+          String(index);
+
+        row.draggable =
+          !answerChecked;
+
+        handle.className =
+          "drag-handle";
+
+        handle.textContent = "☰";
+
+        handle.setAttribute(
+          "aria-hidden",
+          "true"
+        );
+
+        label.className =
+          "drag-item-text";
+
+        label.textContent = item;
+
+        controls.className =
+          "drag-fallback-controls";
+
+        upButton.type = "button";
+
+        upButton.className =
+          "drag-move-button";
+
+        upButton.textContent = "↑";
+
+        upButton.setAttribute(
+          "aria-label",
+          `Move ${item} up`
+        );
+
+        upButton.disabled =
+          answerChecked ||
+          index === 0;
+
+        downButton.type = "button";
+
+        downButton.className =
+          "drag-move-button";
+
+        downButton.textContent = "↓";
+
+        downButton.setAttribute(
+          "aria-label",
+          `Move ${item} down`
+        );
+
+        downButton.disabled =
+          answerChecked ||
+          index ===
+            orderedItems.length - 1;
+
+        row.addEventListener(
+          "dragstart",
+          (event) => {
+            if (answerChecked) {
+              event.preventDefault();
+              return;
+            }
+
+            draggedItemIndex = index;
+
+            row.classList.add(
+              "is-dragging"
+            );
+
+            event.dataTransfer.effectAllowed =
+              "move";
+
+            event.dataTransfer.setData(
+              "text/plain",
+              String(index)
+            );
+          }
+        );
+
+        row.addEventListener(
+          "dragend",
+          () => {
+            draggedItemIndex = null;
+
+            row.classList.remove(
+              "is-dragging"
+            );
+          }
+        );
+
+        row.addEventListener(
+          "dragover",
+          (event) => {
+            if (answerChecked) {
+              return;
+            }
+
+            event.preventDefault();
+
+            event.dataTransfer.dropEffect =
+              "move";
+
+            row.classList.add(
+              "drag-over"
+            );
+          }
+        );
+
+        row.addEventListener(
+          "dragleave",
+          () => {
+            row.classList.remove(
+              "drag-over"
+            );
+          }
+        );
+
+        row.addEventListener(
+          "drop",
+          (event) => {
+            event.preventDefault();
+
+            row.classList.remove(
+              "drag-over"
+            );
+
+            const storedIndex =
+              Number(
+                event.dataTransfer.getData(
+                  "text/plain"
+                )
+              );
+
+            const sourceIndex =
+              draggedItemIndex ??
+              storedIndex;
+
+            if (
+              !Number.isInteger(
+                sourceIndex
+              )
+            ) {
+              return;
+            }
+
+            moveOrderedItem(
+              sourceIndex,
+              index,
+              renderDragList
+            );
+          }
+        );
+
+        upButton.addEventListener(
+          "click",
+          () => {
+            moveOrderedItem(
+              index,
+              index - 1,
+              renderDragList
+            );
+          }
+        );
+
+        downButton.addEventListener(
+          "click",
+          () => {
+            moveOrderedItem(
+              index,
+              index + 1,
+              renderDragList
+            );
+          }
+        );
+
+        controls.append(
+          upButton,
+          downButton
+        );
+
+        row.append(
+          handle,
+          label,
+          controls
+        );
+
+        list.appendChild(row);
+      }
+    );
+
+    elements.answerList.appendChild(list);
+  }
+
+  function moveOrderedItem(
+    fromIndex,
+    toIndex,
+    rerender
+  ) {
+    if (
+      answerChecked ||
+      fromIndex === toIndex ||
+      fromIndex < 0 ||
+      toIndex < 0 ||
+      fromIndex >= orderedItems.length ||
+      toIndex >= orderedItems.length
+    ) {
+      return;
+    }
+
+    const [movedItem] =
+      orderedItems.splice(
+        fromIndex,
+        1
+      );
+
+    orderedItems.splice(
+      toIndex,
+      0,
+      movedItem
+    );
+
+    draggedItemIndex = null;
+
+    rerender();
   }
 
   function normaliseText(value) {
@@ -532,7 +1047,10 @@ document.addEventListener("DOMContentLoaded", () => {
       : cleaned.toLowerCase();
   }
 
-  function arraysEqual(first, second) {
+  function arraysEqual(
+    first,
+    second
+  ) {
     return (
       first.length === second.length &&
       first.every(
@@ -542,7 +1060,10 @@ document.addEventListener("DOMContentLoaded", () => {
     );
   }
 
-  function setsEqual(first, second) {
+  function setsEqual(
+    first,
+    second
+  ) {
     if (first.size !== second.size) {
       return false;
     }
@@ -556,8 +1077,28 @@ document.addEventListener("DOMContentLoaded", () => {
     return true;
   }
 
+  function getAcceptedBlankAnswers(
+    question
+  ) {
+    const accepted =
+      question.acceptedAnswers || [];
+
+    if (accepted.length === 0) {
+      return [];
+    }
+
+    if (Array.isArray(accepted[0])) {
+      return accepted.map(
+        (answers) => [...answers]
+      );
+    }
+
+    return [accepted];
+  }
+
   function evaluateAnswer(question) {
-    const type = question.type || "single";
+    const type =
+      question.type || "single";
 
     if (
       type === "single" ||
@@ -565,7 +1106,8 @@ document.addEventListener("DOMContentLoaded", () => {
     ) {
       return {
         isCorrect:
-          selectedSingleIndex === question.correct,
+          selectedSingleIndex ===
+          question.correct,
 
         selectedAnswer:
           selectedSingleIndex === null
@@ -614,16 +1156,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (type === "text") {
       const input =
-        document.getElementById("typedAnswer");
+        document.getElementById(
+          "typedAnswer"
+        );
 
-      const userAnswer = input.value;
+      const userAnswer =
+        input?.value || "";
 
       const acceptedAnswers =
         question.acceptedAnswers ||
         [question.correct];
 
       const normalisedAccepted =
-        acceptedAnswers.map(normaliseText);
+        acceptedAnswers.map(
+          normaliseText
+        );
 
       return {
         isCorrect:
@@ -631,41 +1178,109 @@ document.addEventListener("DOMContentLoaded", () => {
             normaliseText(userAnswer)
           ),
 
-        selectedAnswer: userAnswer,
+        selectedAnswer:
+          userAnswer,
 
         correctAnswer:
-          String(acceptedAnswers[0])
+          String(
+            acceptedAnswers[0] ?? ""
+          )
       };
     }
 
     if (type === "number") {
       const input =
-        document.getElementById("numberAnswer");
+        document.getElementById(
+          "numberAnswer"
+        );
 
       const userNumber =
-        Number(input.value);
+        Number(input?.value);
 
       const correctNumber =
         Number(question.correct);
 
       const tolerance =
-        Number(question.tolerance || 0);
+        Number(
+          question.tolerance || 0
+        );
 
       return {
         isCorrect:
           Number.isFinite(userNumber) &&
           Math.abs(
-            userNumber - correctNumber
+            userNumber -
+              correctNumber
           ) <= tolerance,
 
-        selectedAnswer: input.value,
+        selectedAnswer:
+          input?.value || "",
 
         correctAnswer:
           String(question.correct)
       };
     }
 
-    if (type === "order") {
+    if (type === "fill-blank") {
+      const inputs = [
+        ...elements.answerList.querySelectorAll(
+          ".fill-blank-input"
+        )
+      ];
+
+      const acceptedByBlank =
+        getAcceptedBlankAnswers(
+          question
+        );
+
+      const userAnswers =
+        inputs.map(
+          (input) => input.value
+        );
+
+      const blankResults =
+        userAnswers.map(
+          (answer, index) => {
+            const acceptedAnswers =
+              acceptedByBlank[index] ||
+              [];
+
+            return acceptedAnswers
+              .map(normaliseText)
+              .includes(
+                normaliseText(answer)
+              );
+          }
+        );
+
+      return {
+        isCorrect:
+          userAnswers.length ===
+            acceptedByBlank.length &&
+          blankResults.every(Boolean),
+
+        selectedAnswer:
+          userAnswers.join(" | "),
+
+        correctAnswer:
+          acceptedByBlank
+            .map(
+              (acceptedAnswers) =>
+                String(
+                  acceptedAnswers[0] ??
+                    ""
+                )
+            )
+            .join(" | "),
+
+        blankResults
+      };
+    }
+
+    if (
+      type === "order" ||
+      type === "drag-drop"
+    ) {
       return {
         isCorrect:
           arraysEqual(
@@ -683,35 +1298,49 @@ document.addEventListener("DOMContentLoaded", () => {
 
     return {
       isCorrect: false,
-      selectedAnswer: "Unsupported",
-      correctAnswer: "Unsupported"
+      selectedAnswer:
+        "Unsupported question type",
+      correctAnswer:
+        "Unsupported question type"
     };
   }
 
-  function markAnswerVisuals(question) {
-    const type = question.type || "single";
+  function markAnswerVisuals(
+    question,
+    result
+  ) {
+    const type =
+      question.type || "single";
 
     if (
       type === "single" ||
       type === "true-false"
     ) {
       elements.answerList
-        .querySelectorAll(".answer-option")
-        .forEach((button, index) => {
-          button.disabled = true;
+        .querySelectorAll(
+          ".answer-option"
+        )
+        .forEach(
+          (button, index) => {
+            button.disabled = true;
 
-          if (index === question.correct) {
-            button.classList.add(
-              "is-correct"
-            );
-          } else if (
-            index === selectedSingleIndex
-          ) {
-            button.classList.add(
-              "is-wrong"
-            );
+            if (
+              index ===
+              question.correct
+            ) {
+              button.classList.add(
+                "is-correct"
+              );
+            } else if (
+              index ===
+              selectedSingleIndex
+            ) {
+              button.classList.add(
+                "is-wrong"
+              );
+            }
           }
-        });
+        );
     }
 
     if (type === "multiple") {
@@ -719,22 +1348,30 @@ document.addEventListener("DOMContentLoaded", () => {
         new Set(question.correct);
 
       elements.answerList
-        .querySelectorAll(".answer-option")
-        .forEach((button, index) => {
-          button.disabled = true;
+        .querySelectorAll(
+          ".answer-option"
+        )
+        .forEach(
+          (button, index) => {
+            button.disabled = true;
 
-          if (correctSet.has(index)) {
-            button.classList.add(
-              "is-correct"
-            );
-          } else if (
-            selectedMultipleIndexes.has(index)
-          ) {
-            button.classList.add(
-              "is-wrong"
-            );
+            if (
+              correctSet.has(index)
+            ) {
+              button.classList.add(
+                "is-correct"
+              );
+            } else if (
+              selectedMultipleIndexes.has(
+                index
+              )
+            ) {
+              button.classList.add(
+                "is-wrong"
+              );
+            }
           }
-        });
+        );
     }
 
     if (
@@ -742,15 +1379,63 @@ document.addEventListener("DOMContentLoaded", () => {
       type === "number"
     ) {
       const input =
-        elements.answerList.querySelector("input");
+        elements.answerList.querySelector(
+          "input"
+        );
 
       if (input) {
         input.disabled = true;
+
+        input.classList.add(
+          result.isCorrect
+            ? "is-correct-input"
+            : "is-wrong-input"
+        );
       }
     }
 
+    if (type === "fill-blank") {
+      elements.answerList
+        .querySelectorAll(
+          ".fill-blank-input"
+        )
+        .forEach(
+          (input, index) => {
+            input.disabled = true;
+
+            input.classList.add(
+              result.blankResults?.[
+                index
+              ]
+                ? "is-correct-input"
+                : "is-wrong-input"
+            );
+          }
+        );
+    }
+
     if (type === "order") {
-      renderOrderItems();
+      renderOrderList();
+
+      elements.answerList
+        .querySelector(".order-list")
+        ?.classList.add(
+          result.isCorrect
+            ? "is-correct-order"
+            : "is-wrong-order"
+        );
+    }
+
+    if (type === "drag-drop") {
+      renderDragList();
+
+      elements.answerList
+        .querySelector(".drag-list")
+        ?.classList.add(
+          result.isCorrect
+            ? "is-correct-order"
+            : "is-wrong-order"
+        );
     }
   }
 
@@ -789,7 +1474,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     const question =
-      activeQuestions[currentQuestionIndex];
+      activeQuestions[
+        currentQuestionIndex
+      ];
 
     const result =
       evaluateAnswer(question);
@@ -803,7 +1490,10 @@ document.addEventListener("DOMContentLoaded", () => {
         String(score);
     }
 
-    markAnswerVisuals(question);
+    markAnswerVisuals(
+      question,
+      result
+    );
 
     showFeedback(
       result.isCorrect,
@@ -811,13 +1501,18 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
     quizHistory.push({
-      question: question.question,
+      question:
+        question.question,
+
       selectedAnswer:
         result.selectedAnswer,
+
       correctAnswer:
         result.correctAnswer,
+
       explanation:
         question.explanation || "",
+
       isCorrect:
         result.isCorrect
     });
@@ -854,7 +1549,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  function getResultMessage(percentage) {
+  function getResultMessage(
+    percentage
+  ) {
     if (percentage === 100) {
       return "Excellent work — every answer was correct.";
     }
@@ -889,7 +1586,9 @@ document.addEventListener("DOMContentLoaded", () => {
       document.createTextNode(value)
     );
 
-    container.appendChild(paragraph);
+    container.appendChild(
+      paragraph
+    );
   }
 
   function buildReview() {
@@ -899,61 +1598,65 @@ document.addEventListener("DOMContentLoaded", () => {
 
     elements.reviewList.replaceChildren();
 
-    quizHistory.forEach((item, index) => {
-      const reviewItem =
-        document.createElement("article");
+    quizHistory.forEach(
+      (item, index) => {
+        const reviewItem =
+          document.createElement(
+            "article"
+          );
 
-      const title =
-        document.createElement("h4");
+        const title =
+          document.createElement("h4");
 
-      const status =
-        document.createElement("p");
+        const status =
+          document.createElement("p");
 
-      reviewItem.className =
-        `review-item ${
+        reviewItem.className =
+          `review-item ${
+            item.isCorrect
+              ? "correct"
+              : "incorrect"
+          }`;
+
+        title.textContent =
+          `${index + 1}. ${item.question}`;
+
+        status.className =
+          "review-status";
+
+        status.textContent =
           item.isCorrect
-            ? "correct"
-            : "incorrect"
-        }`;
+            ? "Correct"
+            : "Incorrect";
 
-      title.textContent =
-        `${index + 1}. ${item.question}`;
+        reviewItem.append(
+          title,
+          status
+        );
 
-      status.className =
-        "review-status";
+        addReviewLine(
+          reviewItem,
+          "Your answer",
+          item.selectedAnswer
+        );
 
-      status.textContent =
-        item.isCorrect
-          ? "Correct"
-          : "Incorrect";
+        addReviewLine(
+          reviewItem,
+          "Correct answer",
+          item.correctAnswer
+        );
 
-      reviewItem.append(
-        title,
-        status
-      );
+        addReviewLine(
+          reviewItem,
+          "Explanation",
+          item.explanation
+        );
 
-      addReviewLine(
-        reviewItem,
-        "Your answer",
-        item.selectedAnswer
-      );
-
-      addReviewLine(
-        reviewItem,
-        "Correct answer",
-        item.correctAnswer
-      );
-
-      addReviewLine(
-        reviewItem,
-        "Explanation",
-        item.explanation
-      );
-
-      elements.reviewList.appendChild(
-        reviewItem
-      );
-    });
+        elements.reviewList.appendChild(
+          reviewItem
+        );
+      }
+    );
   }
 
   function showResults() {
@@ -1001,7 +1704,10 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     buildReview();
-    showScreen(elements.resultScreen);
+
+    showScreen(
+      elements.resultScreen
+    );
   }
 
   function toggleReview() {
@@ -1012,13 +1718,13 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    const hidden =
+    const isHidden =
       elements.reviewSection.classList.toggle(
         "is-hidden"
       );
 
     elements.reviewButton.textContent =
-      hidden
+      isHidden
         ? "Review answers"
         : "Hide review";
   }
