@@ -442,15 +442,26 @@ footer .site-notice {
 
 .button--quiz,
 .button-link.button--quiz {
-    background: #0f4c81;
-    border-color: #0f4c81;
+    background: linear-gradient(135deg, #0f4c81 0%, #1e6bb3 100%);
+    border: 2px solid #0f4c81;
     color: #fff;
+    box-shadow: 0 8px 18px rgba(15, 76, 129, 0.24);
+    position: relative;
+    padding-right: 20px;
+}
+
+.button--quiz::after,
+.button-link.button--quiz::after {
+    content: "▶";
+    margin-left: 8px;
+    font-size: 0.95rem;
 }
 
 .button--quiz:hover,
 .button-link.button--quiz:hover {
-    background: #0b3a64;
+    background: linear-gradient(135deg, #0b3a64 0%, #12588f 100%);
     color: #fff;
+    transform: translateY(-1px);
 }
 
 /* Download buttons */
