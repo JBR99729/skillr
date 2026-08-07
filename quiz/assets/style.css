@@ -175,6 +175,12 @@ h3 {
   line-height: 1.7;
 }
 
+.intro-text--highlight {
+  margin-top: 8px;
+  color: var(--primary);
+  font-weight: 700;
+}
+
 
 /* =========================================================
    QUIZ SUMMARY
@@ -244,6 +250,13 @@ h3 {
 
 .button-primary:hover:not(:disabled) {
   background: var(--primary-hover);
+}
+
+.button-start {
+  min-width: 220px;
+  margin-top: 8px;
+  box-shadow: 0 12px 24px rgba(36, 87, 214, 0.2);
+  font-size: 1.02rem;
 }
 
 .button-secondary {
