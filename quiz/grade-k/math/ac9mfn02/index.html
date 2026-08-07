@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta
+    name="description"
+    content="Foundation Mathematics AC9MFN02 interactive subitising quiz."
+  >
+
+  <meta name="google-adsense-account" content="ca-pub-7734963540104771">
+
+  <title>AC9MFN02 Subitising Quiz | Foundation Mathematics</title>
+  <link rel="canonical" href="https://skillrhub.com/quiz/grade-k/math/AC9MFN02/index.html">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8P22BET45N');
+  </script>
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
+
+  <!-- Shared quiz stylesheet -->
+  <link rel="stylesheet" href="/quiz/assets/style.css?v=30">
+</head>
+<body>
+  <main class="quiz-app" id="quizApp">
+    <section class="screen start-screen is-active" id="startScreen" aria-labelledby="quizTitle">
+      <div class="card start-card">
+        <p class="eyebrow">Foundation Mathematics</p>
+        <h1 id="quizTitle">Subitising Quiz</h1>
+        <p class="intro-text">Practise recognising and naming the number of objects within a collection up to 5 at a glance.</p>
+        <p class="intro-text intro-text--highlight">Press the button below to begin and test your subitising skills.</p>
+
+        <div class="quiz-summary" aria-label="Quiz information">
+          <div>
+            <span class="summary-number" id="questionCount">0</span>
+            <span class="summary-label">Questions</span>
+          </div>
+          <div>
+            <span class="summary-number">1</span>
+            <span class="summary-label">Point each</span>
+          </div>
+          <div>
+            <span class="summary-number" id="bestScore">0</span>
+            <span class="summary-label">Best score</span>
+          </div>
+        </div>
+
+        <button class="button button-primary button-start" id="startButton" type="button">Start quiz</button>
+      </div>
+    </section>
+
+    <section class="screen quiz-screen" id="quizScreen" aria-labelledby="questionText">
+      <header class="quiz-header">
+        <div>
+          <p class="progress-label" id="progressText">Question 1 of 10</p>
+          <div class="progress-track" aria-hidden="true">
+            <div class="progress-bar" id="progressBar"></div>
+          </div>
+        </div>
+        <p class="score-display">Score: <strong id="liveScore">0</strong></p>
+      </header>
+
+      <article class="card question-card">
+        <p class="question-number" id="questionNumber">Question 1</p>
+        <h2 id="questionText">Question text</h2>
+        <div class="answer-list" id="answerList" role="radiogroup" aria-labelledby="questionText"></div>
+        <div class="feedback" id="feedback" aria-live="polite"></div>
+
+        <div class="actions">
+          <button class="button button-primary" id="submitButton" type="button" disabled>Check answer</button>
+          <button class="button button-primary is-hidden" id="nextButton" type="button">Next question</button>
+        </div>
+      </article>
+    </section>
+
+    <section class="screen result-screen" id="resultScreen" aria-labelledby="resultTitle">
+      <div class="card result-card">
+        <p class="eyebrow">Quiz complete</p>
+        <h2 id="resultTitle">Your result</h2>
+        <div class="result-circle" aria-label="Final percentage"><span id="percentageScore">0%</span></div>
+        <p class="result-score">You scored <strong id="finalScore">0</strong> out of <strong id="finalTotal">0</strong>.</p>
+        <p class="result-message" id="resultMessage"></p>
+
+        <div class="result-actions">
+          <button class="button button-primary" id="restartButton" type="button">Try again</button>
+          <button class="button button-secondary" id="reviewButton" type="button">Review answers</button>
+        </div>
+
+        <section class="review-section is-hidden" id="reviewSection" aria-labelledby="reviewTitle">
+          <h3 id="reviewTitle">Answer review</h3>
+          <div id="reviewList"></div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <script src="questions.js"></script>
+  <script src="/quiz/assets/script.js?v=40"></script>
+</body>
+</html>
