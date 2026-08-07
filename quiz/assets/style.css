@@ -100,6 +100,11 @@ a:focus-visible,
   display: block;
 }
 
+.quiz-screen,
+.result-screen {
+  width: 100%;
+}
+
 .screen[hidden] {
   display: none !important;
 }
