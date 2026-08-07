@@ -29,6 +29,9 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+
+/screenshots/skillrhub-desktop.png
+/screenshots/skillrhub-mobile.png
     }
   ]
 }
