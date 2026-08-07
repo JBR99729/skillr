@@ -138,6 +138,62 @@ a:focus-visible,
    HEADINGS AND TEXT
    ========================================================= */
 
+.quiz-nav {
+  margin-top: 32px;
+  padding: 24px;
+}
+
+.quiz-nav-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.quiz-nav-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #f8fafc;
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+.quiz-nav-card:hover {
+  border-color: var(--primary);
+  background: #eef4ff;
+  transform: translateY(-1px);
+}
+
+.quiz-nav-label {
+  color: var(--primary);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.quiz-nav-title {
+  font-size: 0.98rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+@media (max-width: 760px) {
+  .quiz-nav-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .quiz-nav-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .eyebrow,
 .question-number,
 .progress-label {
