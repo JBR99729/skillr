@@ -935,6 +935,15 @@ h3 {
   white-space: pre-line;
 }
 
+.question-visual {
+  margin: 14px 0 26px;
+  color: var(--text);
+  font-size: clamp(4.5rem, 14vw, 8rem);
+  line-height: 1.25;
+  text-align: center;
+  white-space: pre-line;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
