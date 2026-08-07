@@ -442,6 +442,7 @@ window.quizQuestions = [
 window.quizConfig = {
   shuffleQuestions: true,
   shuffleAnswers: false,
+   maxQuestions: 5,
   caseSensitiveText: false,
   storageKey: "AC9MFN02SubitisingBestScore"
 };
