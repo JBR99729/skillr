@@ -1635,97 +1635,9 @@ if (question.visual) {
     return "Keep practising. Read each explanation, then try the quiz again.";
   }
 
-  function addReviewLine(
-    container,
-    label,
-    value
-  ) {
-    const paragraph =
-      document.createElement("p");
-
-    const strong =
-      document.createElement("strong");
-
-    strong.textContent =
-      `${label}: `;
-
-    paragraph.append(
-      strong,
-      document.createTextNode(value)
-    );
-
-    container.appendChild(
-      paragraph
-    );
-  }
-
-  function buildReview() {
-    if (!elements.reviewList) {
-      return;
-    }
-
-    elements.reviewList.replaceChildren();
-
-    quizHistory.forEach(
-      (item, index) => {
-        const reviewItem =
-          document.createElement(
-            "article"
-          );
-
-        const title =
-          document.createElement("h4");
-
-        const status =
-          document.createElement("p");
-
-        reviewItem.className =
-          `review-item ${
-            item.isCorrect
-              ? "correct"
-              : "incorrect"
-          }`;
-
-        title.textContent =
-          `${index + 1}. ${item.question}`;
-
-        status.className =
-          "review-status";
-
-        status.textContent =
-          item.isCorrect
-            ? "Correct"
-            : "Incorrect";
-
-        reviewItem.append(
-          title,
-          status
-        );
-
-        addReviewLine(
-          reviewItem,
-          "Your answer",
-          item.selectedAnswer
-        );
-
-        addReviewLine(
-          reviewItem,
-          "Correct answer",
-          item.correctAnswer
-        );
-
-        addReviewLine(
-          reviewItem,
-          "Explanation",
-          item.explanation
-        );
-
-        elements.reviewList.appendChild(
-          reviewItem
-        );
-      }
-    );
-  }
+    /* =========================================================
+     RESULTS
+     ========================================================= */
 
   function showResults() {
     const total =
@@ -1771,79 +1683,185 @@ if (question.visual) {
         String(newBest);
     }
 
-    buildReview();
-
     showScreen(
       elements.resultScreen
     );
   }
 
-  function toggleReview() {
-    if (
-      !elements.reviewSection ||
-      !elements.reviewButton
-    ) {
-      return;
-    }
 
-    const isHidden =
-      elements.reviewSection.classList.toggle(
-        "is-hidden"
+  /* =========================================================
+     OPEN SHARED REVIEW PAGE
+     ========================================================= */
+
+  function openReviewPage() {
+
+    const quizTitle =
+      document.getElementById(
+        "quizTitle"
+      )?.textContent.trim() ||
+      document.title;
+
+
+    const quizLabel =
+      document.querySelector(
+        "#startScreen .eyebrow"
+      )?.textContent.trim() ||
+      "Quiz review";
+
+
+    const reviewData = {
+
+      quizTitle,
+
+      quizLabel,
+
+      score,
+
+      total:
+        activeQuestions.length,
+
+      quizUrl:
+        window.location.href,
+
+      answers:
+        quizHistory
+
+    };
+
+
+    try {
+
+      sessionStorage.setItem(
+        "skillrQuizReview",
+        JSON.stringify(
+          reviewData
+        )
       );
 
-    elements.reviewButton.textContent =
-      isHidden
-        ? "Review answers"
-        : "Hide review";
+
+      window.location.href =
+        "/quiz/review.html";
+
+
+    } catch (error) {
+
+      console.error(
+        "Could not save quiz review:",
+        error
+      );
+
+    }
+
   }
 
-  const displayedQuestionCount =
-  Number.isInteger(
-    Number(config.maxQuestions)
-  ) &&
-  Number(config.maxQuestions) > 0
-    ? Math.min(
-        Number(config.maxQuestions),
-        questions.length
-      )
-    : questions.length;
 
-elements.questionCount.textContent =
-  String(displayedQuestionCount);
+  /* =========================================================
+     QUESTION COUNT
+     ========================================================= */
+
+  const displayedQuestionCount =
+    Number.isInteger(
+      Number(config.maxQuestions)
+    ) &&
+    Number(config.maxQuestions) > 0
+      ? Math.min(
+          Number(config.maxQuestions),
+          questions.length
+        )
+      : questions.length;
+
+
+  elements.questionCount.textContent =
+    String(
+      displayedQuestionCount
+    );
+
+
+  /* =========================================================
+     BEST SCORE
+     ========================================================= */
 
   if (elements.bestScore) {
+
     elements.bestScore.textContent =
       localStorage.getItem(
         config.storageKey
       ) || "0";
+
   }
 
-  showScreen(elements.startScreen);
+
+  /* =========================================================
+     INITIAL SCREEN
+     ========================================================= */
+
+  showScreen(
+    elements.startScreen
+  );
+
+
+  /* =========================================================
+     START QUIZ
+     ========================================================= */
 
   elements.startButton.addEventListener(
     "click",
     startQuiz
   );
 
+
+  /* =========================================================
+     CHECK ANSWER
+     ========================================================= */
+
   elements.submitButton.addEventListener(
     "click",
     checkAnswer
   );
+
+
+  /* =========================================================
+     NEXT QUESTION
+     ========================================================= */
 
   elements.nextButton.addEventListener(
     "click",
     goToNextQuestion
   );
 
+
+  /* =========================================================
+     TRY AGAIN
+
+     Reloads the actual page.
+     This generates a fresh random quiz attempt.
+     ========================================================= */
+
   elements.restartButton.addEventListener(
     "click",
-    startQuiz
+    () => {
+
+      window.location.reload();
+
+    }
   );
 
+
+  /* =========================================================
+     REVIEW ANSWERS
+
+     Saves this attempt and opens the single shared
+     /quiz/review.html page.
+     ========================================================= */
+
   if (elements.reviewButton) {
+
     elements.reviewButton.addEventListener(
       "click",
-      toggleReview
+      openReviewPage
     );
+
   }
+
+
 });
