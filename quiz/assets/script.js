@@ -1,379 +1,1064 @@
 "use strict";
 
-/*
-  QUIZ QUESTION FORMAT
-  --------------------
-  {
-    question: "Your question",
-    answers: ["Option A", "Option B", "Option C", "Option D"],
-    correct: 1, // zero-based index: 0 = A, 1 = B, 2 = C, 3 = D
-    explanation: "Why the answer is correct."
-  }
-*/
+document.addEventListener("DOMContentLoaded", () => {
+  const questions = Array.isArray(window.quizQuestions)
+    ? window.quizQuestions
+    : [];
 
-const quizQuestions = [
-  {
-    question: "Which number is 100 more than 347?",
-    answers: ["357", "447", "437", "3470"],
-    correct: 1,
-    explanation: "Adding 100 increases the hundreds digit by 1, so 347 becomes 447."
-  },
-  {
-    question: "Which equation shows 4 equal groups of 3?",
-    answers: ["4 + 3", "4 × 3", "4 − 3", "4 ÷ 3"],
-    correct: 1,
-    explanation: "Four equal groups of three can be represented as 4 × 3 = 12."
-  },
-  {
-    question: "What is the missing number: 250, 260, 270, ___, 290?",
-    answers: ["271", "275", "280", "300"],
-    correct: 2,
-    explanation: "The pattern increases by 10 each time, so the missing number is 280."
-  },
-  {
-    question: "Which fraction represents one of four equal parts?",
-    answers: ["1/2", "1/3", "1/4", "4/1"],
-    correct: 2,
-    explanation: "One out of four equal parts is written as 1/4."
-  },
-  {
-    question: "Sam has 18 stickers and gives away 7. How many remain?",
-    answers: ["10", "11", "12", "25"],
-    correct: 1,
-    explanation: "18 − 7 = 11, so Sam has 11 stickers remaining."
-  }
-];
+  const config = {
+    shuffleQuestions: true,
+    storageKey: "skillrQuizBestScore",
+    caseSensitiveText: false,
+    ...(window.quizConfig || {})
+  };
 
-const quizConfig = {
-  shuffleQuestions: true,
-  shuffleAnswers: false,
-  storageKey: "skillrQuizBestScore"
-};
+  const elements = {
+    startScreen: document.getElementById("startScreen"),
+    quizScreen: document.getElementById("quizScreen"),
+    resultScreen: document.getElementById("resultScreen"),
 
-const elements = {
-  startScreen: document.getElementById("startScreen"),
-  quizScreen: document.getElementById("quizScreen"),
-  resultScreen: document.getElementById("resultScreen"),
-  startButton: document.getElementById("startButton"),
-  submitButton: document.getElementById("submitButton"),
-  nextButton: document.getElementById("nextButton"),
-  restartButton: document.getElementById("restartButton"),
-  reviewButton: document.getElementById("reviewButton"),
-  questionCount: document.getElementById("questionCount"),
-  bestScore: document.getElementById("bestScore"),
-  questionNumber: document.getElementById("questionNumber"),
-  questionText: document.getElementById("questionText"),
-  answerList: document.getElementById("answerList"),
-  feedback: document.getElementById("feedback"),
-  progressText: document.getElementById("progressText"),
-  progressBar: document.getElementById("progressBar"),
-  liveScore: document.getElementById("liveScore"),
-  percentageScore: document.getElementById("percentageScore"),
-  finalScore: document.getElementById("finalScore"),
-  finalTotal: document.getElementById("finalTotal"),
-  resultMessage: document.getElementById("resultMessage"),
-  reviewSection: document.getElementById("reviewSection"),
-  reviewList: document.getElementById("reviewList")
-};
+    startButton: document.getElementById("startButton"),
+    submitButton: document.getElementById("submitButton"),
+    nextButton: document.getElementById("nextButton"),
+    restartButton: document.getElementById("restartButton"),
+    reviewButton: document.getElementById("reviewButton"),
 
-let activeQuestions = [];
-let currentQuestionIndex = 0;
-let selectedAnswerIndex = null;
-let score = 0;
-let quizHistory = [];
-let answerHasBeenChecked = false;
+    questionCount: document.getElementById("questionCount"),
+    bestScore: document.getElementById("bestScore"),
+    questionNumber: document.getElementById("questionNumber"),
+    questionText: document.getElementById("questionText"),
+    answerList: document.getElementById("answerList"),
+    feedback: document.getElementById("feedback"),
 
-function shuffleArray(items) {
-  const copy = [...items];
+    progressText: document.getElementById("progressText"),
+    progressBar: document.getElementById("progressBar"),
+    liveScore: document.getElementById("liveScore"),
 
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const randomIndex = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[randomIndex]] = [copy[randomIndex], copy[index]];
+    percentageScore: document.getElementById("percentageScore"),
+    finalScore: document.getElementById("finalScore"),
+    finalTotal: document.getElementById("finalTotal"),
+    resultMessage: document.getElementById("resultMessage"),
+
+    reviewSection: document.getElementById("reviewSection"),
+    reviewList: document.getElementById("reviewList")
+  };
+
+  const requiredElements = [
+    "startScreen",
+    "quizScreen",
+    "resultScreen",
+    "startButton",
+    "submitButton",
+    "nextButton",
+    "restartButton",
+    "questionCount",
+    "questionNumber",
+    "questionText",
+    "answerList",
+    "feedback",
+    "progressText",
+    "progressBar",
+    "liveScore",
+    "percentageScore",
+    "finalScore",
+    "finalTotal",
+    "resultMessage"
+  ];
+
+  const missingElements = requiredElements.filter(
+    (name) => !elements[name]
+  );
+
+  if (missingElements.length > 0) {
+    console.error(
+      `Quiz could not start. Missing HTML IDs: ${missingElements.join(", ")}`
+    );
+
+    return;
   }
 
-  return copy;
-}
+  if (questions.length === 0) {
+    elements.questionCount.textContent = "0";
+    elements.startButton.disabled = true;
+    elements.startButton.textContent = "Questions not loaded";
 
-function prepareQuestions() {
-  const questions = quizConfig.shuffleQuestions
-    ? shuffleArray(quizQuestions)
-    : [...quizQuestions];
+    console.error(
+      "Quiz could not start. window.quizQuestions is empty or questions.js did not load."
+    );
 
-  return questions.map((question) => {
-    if (!quizConfig.shuffleAnswers) {
-      return { ...question, answers: [...question.answers] };
+    return;
+  }
+
+  let activeQuestions = [];
+  let currentQuestionIndex = 0;
+  let score = 0;
+  let answerChecked = false;
+  let quizHistory = [];
+
+  let selectedSingleIndex = null;
+  let selectedMultipleIndexes = new Set();
+  let orderedItems = [];
+
+  function shuffleArray(items) {
+    const copy = [...items];
+
+    for (let index = copy.length - 1; index > 0; index -= 1) {
+      const randomIndex = Math.floor(
+        Math.random() * (index + 1)
+      );
+
+      [copy[index], copy[randomIndex]] = [
+        copy[randomIndex],
+        copy[index]
+      ];
     }
 
-    const answerObjects = question.answers.map((answer, index) => ({
-      answer,
-      isCorrect: index === question.correct
+    return copy;
+  }
+
+  function prepareQuestions() {
+    const prepared = questions.map((question) => ({
+      ...question,
+
+      answers: Array.isArray(question.answers)
+        ? [...question.answers]
+        : undefined,
+
+      items: Array.isArray(question.items)
+        ? [...question.items]
+        : undefined,
+
+      correct: Array.isArray(question.correct)
+        ? [...question.correct]
+        : question.correct,
+
+      acceptedAnswers: Array.isArray(question.acceptedAnswers)
+        ? [...question.acceptedAnswers]
+        : undefined
     }));
 
-    const shuffledAnswers = shuffleArray(answerObjects);
+    return config.shuffleQuestions
+      ? shuffleArray(prepared)
+      : prepared;
+  }
+
+  function showScreen(screenToShow) {
+    [
+      elements.startScreen,
+      elements.quizScreen,
+      elements.resultScreen
+    ].forEach((screen) => {
+      const active = screen === screenToShow;
+
+      screen.hidden = !active;
+      screen.classList.toggle("is-active", active);
+    });
+  }
+
+  function startQuiz() {
+    activeQuestions = prepareQuestions();
+
+    currentQuestionIndex = 0;
+    score = 0;
+    answerChecked = false;
+    quizHistory = [];
+
+    elements.liveScore.textContent = "0";
+
+    if (elements.reviewSection) {
+      elements.reviewSection.classList.add("is-hidden");
+    }
+
+    if (elements.reviewButton) {
+      elements.reviewButton.textContent = "Review answers";
+    }
+
+    showScreen(elements.quizScreen);
+    renderQuestion();
+  }
+
+  function renderQuestion() {
+    const question = activeQuestions[currentQuestionIndex];
+    const position = currentQuestionIndex + 1;
+
+    const progressPercentage =
+      (position / activeQuestions.length) * 100;
+
+    answerChecked = false;
+    selectedSingleIndex = null;
+    selectedMultipleIndexes = new Set();
+    orderedItems = [];
+
+    elements.questionNumber.textContent =
+      `Question ${position}`;
+
+    elements.questionText.textContent =
+      question.question;
+
+    elements.progressText.textContent =
+      `Question ${position} of ${activeQuestions.length}`;
+
+    elements.progressBar.style.width =
+      `${progressPercentage}%`;
+
+    elements.feedback.textContent = "";
+    elements.feedback.className = "feedback";
+
+    elements.submitButton.disabled = true;
+    elements.submitButton.hidden = false;
+    elements.submitButton.classList.remove("is-hidden");
+
+    elements.nextButton.hidden = true;
+    elements.nextButton.classList.add("is-hidden");
+
+    elements.nextButton.textContent =
+      position === activeQuestions.length
+        ? "See results"
+        : "Next question";
+
+    elements.answerList.replaceChildren();
+
+    if (question.image) {
+      const image = document.createElement("img");
+
+      image.src = question.image;
+      image.alt = question.imageAlt || "";
+      image.className = "question-image";
+
+      elements.answerList.appendChild(image);
+    }
+
+    const type = question.type || "single";
+
+    switch (type) {
+      case "single":
+      case "true-false":
+        renderSingleChoice(question);
+        break;
+
+      case "multiple":
+        renderMultipleChoice(question);
+        break;
+
+      case "text":
+        renderTextInput(question);
+        break;
+
+      case "number":
+        renderNumberInput(question);
+        break;
+
+      case "order":
+        renderOrdering(question);
+        break;
+
+      default:
+        elements.feedback.textContent =
+          `Unsupported question type: ${type}`;
+
+        console.error(
+          `Unknown question type: ${type}`
+        );
+    }
+  }
+
+  function createAnswerButton(answer, index) {
+    const button = document.createElement("button");
+    const letter = document.createElement("span");
+    const text = document.createElement("span");
+
+    button.type = "button";
+    button.className = "answer-option";
+    button.dataset.index = String(index);
+    button.setAttribute("aria-pressed", "false");
+
+    letter.className = "answer-letter";
+    letter.textContent =
+      String.fromCharCode(65 + index);
+
+    text.textContent = answer;
+
+    button.append(letter, text);
+
+    return button;
+  }
+
+  function renderSingleChoice(question) {
+    question.answers.forEach((answer, index) => {
+      const button =
+        createAnswerButton(answer, index);
+
+      button.addEventListener("click", () => {
+        if (answerChecked) {
+          return;
+        }
+
+        selectedSingleIndex = index;
+        elements.submitButton.disabled = false;
+
+        elements.answerList
+          .querySelectorAll(".answer-option")
+          .forEach((item, itemIndex) => {
+            const selected =
+              itemIndex === index;
+
+            item.classList.toggle(
+              "is-selected",
+              selected
+            );
+
+            item.setAttribute(
+              "aria-pressed",
+              String(selected)
+            );
+          });
+      });
+
+      elements.answerList.appendChild(button);
+    });
+  }
+
+  function renderMultipleChoice(question) {
+    const hint = document.createElement("p");
+
+    hint.className = "question-hint";
+    hint.textContent =
+      question.instruction ||
+      "Select all correct answers.";
+
+    elements.answerList.appendChild(hint);
+
+    question.answers.forEach((answer, index) => {
+      const button =
+        createAnswerButton(answer, index);
+
+      button.addEventListener("click", () => {
+        if (answerChecked) {
+          return;
+        }
+
+        if (selectedMultipleIndexes.has(index)) {
+          selectedMultipleIndexes.delete(index);
+        } else {
+          selectedMultipleIndexes.add(index);
+        }
+
+        const selected =
+          selectedMultipleIndexes.has(index);
+
+        button.classList.toggle(
+          "is-selected",
+          selected
+        );
+
+        button.setAttribute(
+          "aria-pressed",
+          String(selected)
+        );
+
+        elements.submitButton.disabled =
+          selectedMultipleIndexes.size === 0;
+      });
+
+      elements.answerList.appendChild(button);
+    });
+  }
+
+  function renderTextInput(question) {
+    const input = document.createElement("input");
+
+    input.type = "text";
+    input.id = "typedAnswer";
+    input.className = "quiz-input";
+
+    input.placeholder =
+      question.placeholder ||
+      "Type your answer";
+
+    input.autocomplete = "off";
+
+    input.addEventListener("input", () => {
+      elements.submitButton.disabled =
+        input.value.trim() === "";
+    });
+
+    elements.answerList.appendChild(input);
+    input.focus();
+  }
+
+  function renderNumberInput(question) {
+    const input = document.createElement("input");
+
+    input.type = "number";
+    input.id = "numberAnswer";
+    input.className = "quiz-input";
+
+    input.placeholder =
+      question.placeholder ||
+      "Enter a number";
+
+    input.step = question.step || "any";
+
+    input.addEventListener("input", () => {
+      elements.submitButton.disabled =
+        input.value.trim() === "";
+    });
+
+    elements.answerList.appendChild(input);
+    input.focus();
+  }
+
+  function renderOrdering(question) {
+    const hint = document.createElement("p");
+
+    hint.className = "question-hint";
+
+    hint.textContent =
+      question.instruction ||
+      "Use the arrows to arrange the items in the correct order.";
+
+    orderedItems =
+      question.shuffleItems === false
+        ? [...question.items]
+        : shuffleArray(question.items);
+
+    elements.answerList.appendChild(hint);
+
+    renderOrderItems();
+
+    elements.submitButton.disabled = false;
+  }
+
+  function renderOrderItems() {
+    const existingList =
+      elements.answerList.querySelector(".order-list");
+
+    if (existingList) {
+      existingList.remove();
+    }
+
+    const list = document.createElement("ol");
+
+    list.className = "order-list";
+
+    orderedItems.forEach((item, index) => {
+      const row = document.createElement("li");
+      const label = document.createElement("span");
+      const controls = document.createElement("span");
+
+      const upButton =
+        document.createElement("button");
+
+      const downButton =
+        document.createElement("button");
+
+      row.className = "order-item";
+      label.textContent = item;
+
+      controls.className = "order-controls";
+
+      upButton.type = "button";
+      upButton.className = "order-button";
+      upButton.textContent = "↑";
+
+      upButton.setAttribute(
+        "aria-label",
+        `Move ${item} up`
+      );
+
+      upButton.disabled =
+        index === 0 || answerChecked;
+
+      downButton.type = "button";
+      downButton.className = "order-button";
+      downButton.textContent = "↓";
+
+      downButton.setAttribute(
+        "aria-label",
+        `Move ${item} down`
+      );
+
+      downButton.disabled =
+        index === orderedItems.length - 1 ||
+        answerChecked;
+
+      upButton.addEventListener("click", () => {
+        [
+          orderedItems[index - 1],
+          orderedItems[index]
+        ] = [
+          orderedItems[index],
+          orderedItems[index - 1]
+        ];
+
+        renderOrderItems();
+      });
+
+      downButton.addEventListener("click", () => {
+        [
+          orderedItems[index],
+          orderedItems[index + 1]
+        ] = [
+          orderedItems[index + 1],
+          orderedItems[index]
+        ];
+
+        renderOrderItems();
+      });
+
+      controls.append(
+        upButton,
+        downButton
+      );
+
+      row.append(
+        label,
+        controls
+      );
+
+      list.appendChild(row);
+    });
+
+    elements.answerList.appendChild(list);
+  }
+
+  function normaliseText(value) {
+    const cleaned = String(value)
+      .trim()
+      .replace(/\s+/g, " ");
+
+    return config.caseSensitiveText
+      ? cleaned
+      : cleaned.toLowerCase();
+  }
+
+  function arraysEqual(first, second) {
+    return (
+      first.length === second.length &&
+      first.every(
+        (value, index) =>
+          value === second[index]
+      )
+    );
+  }
+
+  function setsEqual(first, second) {
+    if (first.size !== second.size) {
+      return false;
+    }
+
+    for (const value of first) {
+      if (!second.has(value)) {
+        return false;
+      }
+    }
+
+    return true;
+  }
+
+  function evaluateAnswer(question) {
+    const type = question.type || "single";
+
+    if (
+      type === "single" ||
+      type === "true-false"
+    ) {
+      return {
+        isCorrect:
+          selectedSingleIndex === question.correct,
+
+        selectedAnswer:
+          selectedSingleIndex === null
+            ? "No answer"
+            : question.answers[
+                selectedSingleIndex
+              ],
+
+        correctAnswer:
+          question.answers[
+            question.correct
+          ]
+      };
+    }
+
+    if (type === "multiple") {
+      const correctSet =
+        new Set(question.correct);
+
+      return {
+        isCorrect:
+          setsEqual(
+            selectedMultipleIndexes,
+            correctSet
+          ),
+
+        selectedAnswer:
+          [...selectedMultipleIndexes]
+            .sort((a, b) => a - b)
+            .map(
+              (index) =>
+                question.answers[index]
+            )
+            .join(", "),
+
+        correctAnswer:
+          [...question.correct]
+            .sort((a, b) => a - b)
+            .map(
+              (index) =>
+                question.answers[index]
+            )
+            .join(", ")
+      };
+    }
+
+    if (type === "text") {
+      const input =
+        document.getElementById("typedAnswer");
+
+      const userAnswer = input.value;
+
+      const acceptedAnswers =
+        question.acceptedAnswers ||
+        [question.correct];
+
+      const normalisedAccepted =
+        acceptedAnswers.map(normaliseText);
+
+      return {
+        isCorrect:
+          normalisedAccepted.includes(
+            normaliseText(userAnswer)
+          ),
+
+        selectedAnswer: userAnswer,
+
+        correctAnswer:
+          String(acceptedAnswers[0])
+      };
+    }
+
+    if (type === "number") {
+      const input =
+        document.getElementById("numberAnswer");
+
+      const userNumber =
+        Number(input.value);
+
+      const correctNumber =
+        Number(question.correct);
+
+      const tolerance =
+        Number(question.tolerance || 0);
+
+      return {
+        isCorrect:
+          Number.isFinite(userNumber) &&
+          Math.abs(
+            userNumber - correctNumber
+          ) <= tolerance,
+
+        selectedAnswer: input.value,
+
+        correctAnswer:
+          String(question.correct)
+      };
+    }
+
+    if (type === "order") {
+      return {
+        isCorrect:
+          arraysEqual(
+            orderedItems,
+            question.correct
+          ),
+
+        selectedAnswer:
+          orderedItems.join(" → "),
+
+        correctAnswer:
+          question.correct.join(" → ")
+      };
+    }
 
     return {
-      ...question,
-      answers: shuffledAnswers.map((item) => item.answer),
-      correct: shuffledAnswers.findIndex((item) => item.isCorrect)
+      isCorrect: false,
+      selectedAnswer: "Unsupported",
+      correctAnswer: "Unsupported"
     };
-  });
-}
-
-function showScreen(screenToShow) {
-  [elements.startScreen, elements.quizScreen, elements.resultScreen].forEach((screen) => {
-    screen.classList.toggle("is-active", screen === screenToShow);
-  });
-}
-
-function startQuiz() {
-  activeQuestions = prepareQuestions();
-  currentQuestionIndex = 0;
-  selectedAnswerIndex = null;
-  score = 0;
-  quizHistory = [];
-  answerHasBeenChecked = false;
-
-  elements.liveScore.textContent = "0";
-  elements.reviewSection.classList.add("is-hidden");
-  elements.reviewButton.textContent = "Review answers";
-
-  showScreen(elements.quizScreen);
-  renderQuestion();
-}
-
-function renderQuestion() {
-  const question = activeQuestions[currentQuestionIndex];
-  const questionPosition = currentQuestionIndex + 1;
-  const progressPercentage = (questionPosition / activeQuestions.length) * 100;
-
-  selectedAnswerIndex = null;
-  answerHasBeenChecked = false;
-
-  elements.questionNumber.textContent = `Question ${questionPosition}`;
-  elements.questionText.textContent = question.question;
-  elements.progressText.textContent = `Question ${questionPosition} of ${activeQuestions.length}`;
-  elements.progressBar.style.width = `${progressPercentage}%`;
-  elements.feedback.textContent = "";
-  elements.feedback.className = "feedback";
-  elements.submitButton.disabled = true;
-  elements.submitButton.classList.remove("is-hidden");
-  elements.nextButton.classList.add("is-hidden");
-  elements.nextButton.textContent = questionPosition === activeQuestions.length
-    ? "See results"
-    : "Next question";
-
-  elements.answerList.replaceChildren();
-
-  question.answers.forEach((answer, index) => {
-    const answerButton = document.createElement("button");
-    const answerLetter = document.createElement("span");
-    const answerText = document.createElement("span");
-
-    answerButton.type = "button";
-    answerButton.className = "answer-option";
-    answerButton.setAttribute("role", "radio");
-    answerButton.setAttribute("aria-checked", "false");
-    answerButton.dataset.index = String(index);
-
-    answerLetter.className = "answer-letter";
-    answerLetter.textContent = String.fromCharCode(65 + index);
-
-    answerText.textContent = answer;
-
-    answerButton.append(answerLetter, answerText);
-    answerButton.addEventListener("click", () => selectAnswer(index));
-
-    elements.answerList.appendChild(answerButton);
-  });
-
-  const firstAnswer = elements.answerList.querySelector(".answer-option");
-  firstAnswer?.focus();
-}
-
-function selectAnswer(answerIndex) {
-  if (answerHasBeenChecked) {
-    return;
   }
 
-  selectedAnswerIndex = answerIndex;
-  elements.submitButton.disabled = false;
+  function markAnswerVisuals(question) {
+    const type = question.type || "single";
 
-  const answerButtons = elements.answerList.querySelectorAll(".answer-option");
-  answerButtons.forEach((button, index) => {
-    button.setAttribute("aria-checked", String(index === answerIndex));
-  });
-}
+    if (
+      type === "single" ||
+      type === "true-false"
+    ) {
+      elements.answerList
+        .querySelectorAll(".answer-option")
+        .forEach((button, index) => {
+          button.disabled = true;
 
-function checkAnswer() {
-  if (selectedAnswerIndex === null || answerHasBeenChecked) {
-    return;
-  }
-
-  answerHasBeenChecked = true;
-
-  const question = activeQuestions[currentQuestionIndex];
-  const isCorrect = selectedAnswerIndex === question.correct;
-  const answerButtons = elements.answerList.querySelectorAll(".answer-option");
-
-  if (isCorrect) {
-    score += 1;
-    elements.liveScore.textContent = String(score);
-    elements.feedback.className = "feedback correct";
-    elements.feedback.innerHTML = `<strong>Correct.</strong> ${question.explanation}`;
-  } else {
-    elements.feedback.className = "feedback incorrect";
-    elements.feedback.innerHTML = `<strong>Not quite.</strong> ${question.explanation}`;
-  }
-
-  answerButtons.forEach((button, index) => {
-    button.disabled = true;
-
-    if (index === question.correct) {
-      button.classList.add("is-correct");
-    } else if (index === selectedAnswerIndex) {
-      button.classList.add("is-wrong");
+          if (index === question.correct) {
+            button.classList.add(
+              "is-correct"
+            );
+          } else if (
+            index === selectedSingleIndex
+          ) {
+            button.classList.add(
+              "is-wrong"
+            );
+          }
+        });
     }
-  });
 
-  quizHistory.push({
-    question: question.question,
-    selectedAnswer: question.answers[selectedAnswerIndex],
-    correctAnswer: question.answers[question.correct],
-    explanation: question.explanation,
-    isCorrect
-  });
+    if (type === "multiple") {
+      const correctSet =
+        new Set(question.correct);
 
-  elements.submitButton.classList.add("is-hidden");
-  elements.nextButton.classList.remove("is-hidden");
-  elements.nextButton.focus();
-}
+      elements.answerList
+        .querySelectorAll(".answer-option")
+        .forEach((button, index) => {
+          button.disabled = true;
 
-function goToNextQuestion() {
-  if (!answerHasBeenChecked) {
-    return;
-  }
+          if (correctSet.has(index)) {
+            button.classList.add(
+              "is-correct"
+            );
+          } else if (
+            selectedMultipleIndexes.has(index)
+          ) {
+            button.classList.add(
+              "is-wrong"
+            );
+          }
+        });
+    }
 
-  currentQuestionIndex += 1;
+    if (
+      type === "text" ||
+      type === "number"
+    ) {
+      const input =
+        elements.answerList.querySelector("input");
 
-  if (currentQuestionIndex < activeQuestions.length) {
-    renderQuestion();
-  } else {
-    showResults();
-  }
-}
+      if (input) {
+        input.disabled = true;
+      }
+    }
 
-function showResults() {
-  const total = activeQuestions.length;
-  const percentage = Math.round((score / total) * 100);
-  const bestScore = Number(localStorage.getItem(quizConfig.storageKey) || 0);
-
-  if (score > bestScore) {
-    localStorage.setItem(quizConfig.storageKey, String(score));
-  }
-
-  elements.percentageScore.textContent = `${percentage}%`;
-  elements.finalScore.textContent = String(score);
-  elements.finalTotal.textContent = String(total);
-  elements.resultMessage.textContent = getResultMessage(percentage);
-  elements.bestScore.textContent = String(Math.max(score, bestScore));
-
-  buildReview();
-  showScreen(elements.resultScreen);
-  elements.restartButton.focus();
-}
-
-function getResultMessage(percentage) {
-  if (percentage === 100) {
-    return "Excellent work — every answer was correct.";
-  }
-
-  if (percentage >= 80) {
-    return "Great result. Review the missed question and try for full marks.";
-  }
-
-  if (percentage >= 60) {
-    return "Good effort. Use the answer review to strengthen the tricky parts.";
-  }
-
-  return "Keep practising. Read each explanation, then try the quiz again.";
-}
-
-function buildReview() {
-  elements.reviewList.replaceChildren();
-
-  quizHistory.forEach((item, index) => {
-    const reviewItem = document.createElement("article");
-    const title = document.createElement("h4");
-    const status = document.createElement("p");
-    const selected = document.createElement("p");
-    const correct = document.createElement("p");
-    const explanation = document.createElement("p");
-
-    reviewItem.className = `review-item ${item.isCorrect ? "correct" : "incorrect"}`;
-    title.textContent = `${index + 1}. ${item.question}`;
-
-    status.className = "review-status";
-    status.textContent = item.isCorrect ? "Correct" : "Incorrect";
-
-    selected.innerHTML = `<strong>Your answer:</strong> ${escapeHtml(item.selectedAnswer)}`;
-    correct.innerHTML = `<strong>Correct answer:</strong> ${escapeHtml(item.correctAnswer)}`;
-    explanation.innerHTML = `<strong>Explanation:</strong> ${escapeHtml(item.explanation)}`;
-
-    reviewItem.append(title, status, selected, correct, explanation);
-    elements.reviewList.appendChild(reviewItem);
-  });
-}
-
-function toggleReview() {
-  const isHidden = elements.reviewSection.classList.toggle("is-hidden");
-  elements.reviewButton.textContent = isHidden ? "Review answers" : "Hide review";
-
-  if (!isHidden) {
-    elements.reviewSection.scrollIntoView({ behavior: "smooth", block: "start" });
-  }
-}
-
-function escapeHtml(value) {
-  const temporary = document.createElement("div");
-  temporary.textContent = value;
-  return temporary.innerHTML;
-}
-
-function handleKeyboardShortcuts(event) {
-  if (!elements.quizScreen.classList.contains("is-active")) {
-    return;
-  }
-
-  const numericChoice = Number(event.key);
-
-  if (!answerHasBeenChecked && numericChoice >= 1 && numericChoice <= 9) {
-    const answerIndex = numericChoice - 1;
-
-    if (answerIndex < activeQuestions[currentQuestionIndex].answers.length) {
-      selectAnswer(answerIndex);
-      elements.answerList.querySelector(`[data-index="${answerIndex}"]`)?.focus();
+    if (type === "order") {
+      renderOrderItems();
     }
   }
 
-  if (event.key === "Enter" && !elements.submitButton.disabled && !answerHasBeenChecked) {
-    checkAnswer();
-  } else if (event.key === "Enter" && answerHasBeenChecked) {
-    goToNextQuestion();
+  function showFeedback(
+    isCorrect,
+    explanation
+  ) {
+    elements.feedback.replaceChildren();
+
+    const heading =
+      document.createElement("strong");
+
+    heading.textContent =
+      isCorrect
+        ? "Correct. "
+        : "Not quite. ";
+
+    elements.feedback.append(
+      heading,
+      document.createTextNode(
+        explanation || ""
+      )
+    );
+
+    elements.feedback.className =
+      `feedback ${
+        isCorrect
+          ? "correct"
+          : "incorrect"
+      }`;
   }
-}
 
-function initialiseQuiz() {
-  const bestScore = Number(localStorage.getItem(quizConfig.storageKey) || 0);
+  function checkAnswer() {
+    if (answerChecked) {
+      return;
+    }
 
-  elements.questionCount.textContent = String(quizQuestions.length);
-  elements.bestScore.textContent = String(bestScore);
+    const question =
+      activeQuestions[currentQuestionIndex];
 
-  elements.startButton.addEventListener("click", startQuiz);
-  elements.submitButton.addEventListener("click", checkAnswer);
-  elements.nextButton.addEventListener("click", goToNextQuestion);
-  elements.restartButton.addEventListener("click", startQuiz);
-  elements.reviewButton.addEventListener("click", toggleReview);
-  document.addEventListener("keydown", handleKeyboardShortcuts);
-}
+    const result =
+      evaluateAnswer(question);
 
-initialiseQuiz();
+    answerChecked = true;
+
+    if (result.isCorrect) {
+      score += 1;
+
+      elements.liveScore.textContent =
+        String(score);
+    }
+
+    markAnswerVisuals(question);
+
+    showFeedback(
+      result.isCorrect,
+      question.explanation
+    );
+
+    quizHistory.push({
+      question: question.question,
+      selectedAnswer:
+        result.selectedAnswer,
+      correctAnswer:
+        result.correctAnswer,
+      explanation:
+        question.explanation || "",
+      isCorrect:
+        result.isCorrect
+    });
+
+    elements.submitButton.hidden = true;
+
+    elements.submitButton.classList.add(
+      "is-hidden"
+    );
+
+    elements.nextButton.hidden = false;
+
+    elements.nextButton.classList.remove(
+      "is-hidden"
+    );
+
+    elements.nextButton.focus();
+  }
+
+  function goToNextQuestion() {
+    if (!answerChecked) {
+      return;
+    }
+
+    currentQuestionIndex += 1;
+
+    if (
+      currentQuestionIndex <
+      activeQuestions.length
+    ) {
+      renderQuestion();
+    } else {
+      showResults();
+    }
+  }
+
+  function getResultMessage(percentage) {
+    if (percentage === 100) {
+      return "Excellent work — every answer was correct.";
+    }
+
+    if (percentage >= 80) {
+      return "Great result. Review the missed questions and try for full marks.";
+    }
+
+    if (percentage >= 60) {
+      return "Good effort. Use the answer review to strengthen the tricky parts.";
+    }
+
+    return "Keep practising. Read each explanation, then try the quiz again.";
+  }
+
+  function addReviewLine(
+    container,
+    label,
+    value
+  ) {
+    const paragraph =
+      document.createElement("p");
+
+    const strong =
+      document.createElement("strong");
+
+    strong.textContent =
+      `${label}: `;
+
+    paragraph.append(
+      strong,
+      document.createTextNode(value)
+    );
+
+    container.appendChild(paragraph);
+  }
+
+  function buildReview() {
+    if (!elements.reviewList) {
+      return;
+    }
+
+    elements.reviewList.replaceChildren();
+
+    quizHistory.forEach((item, index) => {
+      const reviewItem =
+        document.createElement("article");
+
+      const title =
+        document.createElement("h4");
+
+      const status =
+        document.createElement("p");
+
+      reviewItem.className =
+        `review-item ${
+          item.isCorrect
+            ? "correct"
+            : "incorrect"
+        }`;
+
+      title.textContent =
+        `${index + 1}. ${item.question}`;
+
+      status.className =
+        "review-status";
+
+      status.textContent =
+        item.isCorrect
+          ? "Correct"
+          : "Incorrect";
+
+      reviewItem.append(
+        title,
+        status
+      );
+
+      addReviewLine(
+        reviewItem,
+        "Your answer",
+        item.selectedAnswer
+      );
+
+      addReviewLine(
+        reviewItem,
+        "Correct answer",
+        item.correctAnswer
+      );
+
+      addReviewLine(
+        reviewItem,
+        "Explanation",
+        item.explanation
+      );
+
+      elements.reviewList.appendChild(
+        reviewItem
+      );
+    });
+  }
+
+  function showResults() {
+    const total =
+      activeQuestions.length;
+
+    const percentage =
+      Math.round(
+        (score / total) * 100
+      );
+
+    const previousBest =
+      Number(
+        localStorage.getItem(
+          config.storageKey
+        ) || 0
+      );
+
+    const newBest =
+      Math.max(
+        score,
+        previousBest
+      );
+
+    localStorage.setItem(
+      config.storageKey,
+      String(newBest)
+    );
+
+    elements.percentageScore.textContent =
+      `${percentage}%`;
+
+    elements.finalScore.textContent =
+      String(score);
+
+    elements.finalTotal.textContent =
+      String(total);
+
+    elements.resultMessage.textContent =
+      getResultMessage(percentage);
+
+    if (elements.bestScore) {
+      elements.bestScore.textContent =
+        String(newBest);
+    }
+
+    buildReview();
+    showScreen(elements.resultScreen);
+  }
+
+  function toggleReview() {
+    if (
+      !elements.reviewSection ||
+      !elements.reviewButton
+    ) {
+      return;
+    }
+
+    const hidden =
+      elements.reviewSection.classList.toggle(
+        "is-hidden"
+      );
+
+    elements.reviewButton.textContent =
+      hidden
+        ? "Review answers"
+        : "Hide review";
+  }
+
+  elements.questionCount.textContent =
+    String(questions.length);
+
+  if (elements.bestScore) {
+    elements.bestScore.textContent =
+      localStorage.getItem(
+        config.storageKey
+      ) || "0";
+  }
+
+  showScreen(elements.startScreen);
+
+  elements.startButton.addEventListener(
+    "click",
+    startQuiz
+  );
+
+  elements.submitButton.addEventListener(
+    "click",
+    checkAnswer
+  );
+
+  elements.nextButton.addEventListener(
+    "click",
+    goToNextQuestion
+  );
+
+  elements.restartButton.addEventListener(
+    "click",
+    startQuiz
+  );
+
+  if (elements.reviewButton) {
+    elements.reviewButton.addEventListener(
+      "click",
+      toggleReview
+    );
+  }
+});
