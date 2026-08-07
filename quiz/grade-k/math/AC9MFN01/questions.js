@@ -1,6 +1,6 @@
 "use strict";
 
-const quizQuestions = [
+window.quizQuestions = [ 
   {
     question: "How many stars are shown? ★ ★ ★",
     answers: ["1", "2", "3", "4"],
@@ -82,7 +82,7 @@ const quizQuestions = [
   }
 ];
 
-const quizConfig = {
+window.quizConfig = {
   shuffleQuestions: true,
   shuffleAnswers: false,
   storageKey: "AC9MFN01BestScore"
