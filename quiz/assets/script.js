@@ -1,32 +1,38 @@
 "use strict";
+
 /* =========================================================
    QUIZ SOUNDS
    ========================================================= */
 
+const correctSound =
+  new Audio("/quiz/assets/sounds/correct.wav");
+
+const wrongSound =
+  new Audio("/quiz/assets/sounds/wrong.wav");
+
+correctSound.preload = "auto";
+wrongSound.preload = "auto";
+
+correctSound.volume = 0.7;
+wrongSound.volume = 0.7;
+
+
 function playQuizSound(isCorrect) {
 
-  try {
+  const sound =
+    isCorrect ? correctSound : wrongSound;
 
-    const soundPath = isCorrect
-      ? "/quiz/assets/sounds/correct.wav"
-      : "/quiz/assets/sounds/wrong.wav";
+  sound.pause();
+  sound.currentTime = 0;
 
-    const sound = new Audio(soundPath);
+  sound.play().catch((error) => {
 
-    sound.volume = 0.6;
-
-    sound.play().catch(() => {
-      // Ignore audio errors.
-    });
-
-  } catch (error) {
-
-    console.log(
-      "Quiz sound unavailable:",
+    console.error(
+      "Quiz sound failed:",
       error
     );
 
-  }
+  });
 }
 document.addEventListener("DOMContentLoaded", () => {
   const questions = Array.isArray(window.quizQuestions)
