@@ -2,196 +2,394 @@
 
 window.quizQuestions = [
   /* =====================================================
-     EASY (Subitising 1 to 3 Objects)
+     EASY: INSTANT SUBITISING 1–3
      ===================================================== */
 
   {
-    type: "single",
-    question: "Look quickly (1 second):\n⚫ ⚫\n\nHow many dots did you see?",
-    answers: ["1", "2", "3"],
-    correct: 1,
-    explanation: "There are 2 dots."
-  },
-  {
-    type: "single",
-    question: "Dice Face: Which number is shown on this die face?\n\n⚂",
-    answers: ["2", "3", "4"],
-    correct: 1,
-    explanation: "The die face showing ⚂ represents the number 3."
-  },
-  {
     type: "number",
-    question: "Counting vs. Knowing: Look at this group for just a moment:\n🍎\n\nName the number of apples immediately.",
-    placeholder: "Enter a number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "There is 1 apple."
-  },
-  {
-    type: "single",
-    question: "Card Matching:\nWhich card shows 3 dots?",
-    answers: [
-      "A) ⚫ ⚫",
-      "B) ⚫ ⚫ ⚫",
-      "C) ⚫ ⚫ ⚫ ⚫"
-    ],
-    correct: 1,
-    explanation: "Card B has 3 dots."
-  },
-  {
-    type: "number",
-    question: "Quick Name: How many stars are in a single line here?\n\n⭐️ ⭐️ ⭐️",
-    placeholder: "Enter a number",
-    correct: 3,
-    tolerance: 0,
-    explanation: "There are 3 stars in the line."
-  },
-  {
-    type: "number",
-    question: "Finger Patterns: If your teacher holds up 2 fingers, how many fingers are showing?",
-    placeholder: "Enter a number",
+
+    question:
+      "Look quickly: ⚫ ⚫\n\nHow many dots did you see?",
+
+    placeholder:
+      "Type the number",
+
     correct: 2,
+
     tolerance: 0,
-    explanation: "Holding up 2 fingers represents the number 2."
+
+    explanation:
+      "There are 2 dots. You can recognise the pair without counting each dot."
   },
+
   {
     type: "single",
-    question: "Instructive Card Game: In a \"Snap\" game, you turn over a card showing ⚫. What card do you need to flip to make a matching snap?",
+
+    question:
+      "Which number is shown on this die face?\n\n⚂",
+
+    answers: [
+      "2",
+      "3",
+      "4"
+    ],
+
+    correct: 1,
+
+    explanation:
+      "The die face ⚂ shows 3 dots."
+  },
+
+  {
+    type: "text",
+
+    question:
+      "Look at the apple for just a moment: 🍎\n\nName the number of apples immediately.",
+
+    placeholder:
+      "Type the number",
+
+    acceptedAnswers: [
+      "1",
+      "one"
+    ],
+
+    explanation:
+      "There is 1 apple."
+  },
+
+  {
+    type: "single",
+
+    question:
+      "Which card shows exactly 3 dots?",
+
+    answers: [
+      "⚫ ⚫",
+      "⚫ ⚫ ⚫",
+      "⚫ ⚫ ⚫ ⚫"
+    ],
+
+    correct: 1,
+
+    explanation:
+      "The second card shows exactly 3 dots."
+  },
+
+  {
+    type: "fill-blank",
+
+    question:
+      "Complete the sentence.",
+
+    template:
+      "I can see {{blank}} stars: ⭐️ ⭐️ ⭐️",
+
+    placeholder:
+      "number",
+
+    acceptedAnswers: [
+      ["3", "three"]
+    ],
+
+    explanation:
+      "There are 3 stars in the line."
+  },
+
+  {
+    type: "number",
+
+    question:
+      "Your teacher holds up 2 fingers. How many fingers are showing?",
+
+    placeholder:
+      "Type the number",
+
+    correct: 2,
+
+    tolerance: 0,
+
+    explanation:
+      "Two raised fingers show the number 2."
+  },
+
+  {
+    type: "single",
+
+    question:
+      "In a Snap game, you turn over a card showing ⚫. Which card makes a matching snap?",
+
     answers: [
       "A card with 1 dot",
       "A card with 2 dots",
       "A card with 3 dots"
     ],
+
     correct: 0,
-    explanation: "A card with 1 dot matches the single dot card (⚫)."
+
+    explanation:
+      "The first card has 1 dot, so it matches the card showing 1 dot."
   },
 
+
   /* =====================================================
-     MEDIUM (Subitising 4 to 6 Objects & Ten-Frame Card Games)
+     MEDIUM: SUBITISING 4–6
      ===================================================== */
 
   {
     type: "number",
-    question: "Standard Array:\n⚫ ⚫\n⚫ ⚫\n\nWithout counting one-by-one, how many dots are arranged in this square?",
-    placeholder: "Enter a number",
+
+    question:
+      "Look at this square arrangement:\n\n⚫ ⚫\n⚫ ⚫\n\nWithout counting one-by-one, how many dots are there?",
+
+    placeholder:
+      "Type the number",
+
     correct: 4,
+
     tolerance: 0,
-    explanation: "A 2x2 grid contains 4 dots."
-  },
-  {
-    type: "number",
-    question: "Ten-Frame Visual:\n[ 🖐️ | 🖐️ | 🖐️ | 🖐️ | 🖐️ ]\n[ ⚪ | ⚪ | ⚪ | ⚪ | ⚪ ]\n\nHow many counters are filled in the top row?",
-    placeholder: "Enter a number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "A full row of a ten-frame has 5 spaces filled."
-  },
-  {
-    type: "number",
-    question: "Card Game Challenge: You draw a playing card with 5 diamonds on it:\n♦️ ♦️\n♦️\n♦️ ♦️\n\nCan you name the number on the card before your partner counts them?",
-    placeholder: "Enter a number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The card shows 5 diamonds."
-  },
-  {
-    type: "number",
-    question: "Non-Standard Arrangement:\n🔴\n🔴 🔴\n🔴\n\nHow many dots are in this pile?",
-    placeholder: "Enter a number",
-    correct: 4,
-    tolerance: 0,
-    explanation: "1 + 2 + 1 = 4 dots in total."
-  },
-  {
-    type: "number",
-    question: "Dominoes:\n[ ⚁ | ⚁ ]\n\nWhat is the total number of dots on both sides of this domino combined?",
-    placeholder: "Enter a number",
-    correct: 4,
-    tolerance: 0,
-    explanation: "2 dots on the left and 2 dots on the right equal 4 dots."
-  },
-  {
-    type: "single",
-    question: "Card Compare:\nCard A: 🟦 🟦 🟦 🟦\nCard B: 🟦 🟦\n\nWhich card has more squares?",
-    answers: [
-      "Card A",
-      "Card B",
-      "They have the same"
-    ],
-    correct: 0,
-    explanation: "Card A has 4 squares, which is more than Card B's 2 squares."
-  },
-  {
-    type: "number",
-    question: "Quick Sight:\n🔴 🔴 🔴 🔴 🔴\n\nHow many counters are in this row?",
-    placeholder: "Enter a number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "There are 5 red counters in a row."
+
+    explanation:
+      "The square has 2 dots on the top and 2 on the bottom. Altogether there are 4."
   },
 
+  {
+    type: "fill-blank",
+
+    question:
+      "Look at the ten-frame.",
+
+    template:
+      "Top row: ● ● ● ● ●\nBottom row: ○ ○ ○ ○ ○\n\nThere are {{blank}} filled counters in the top row.",
+
+    placeholder:
+      "number",
+
+    acceptedAnswers: [
+      ["5", "five"]
+    ],
+
+    explanation:
+      "The whole top row is filled, so there are 5 filled counters."
+  },
+
+  {
+    type: "text",
+
+    question:
+      "Look quickly at this playing-card pattern:\n\n♦️ ♦️\n   ♦️\n♦️ ♦️\n\nWhat number is shown?",
+
+    placeholder:
+      "Type the number",
+
+    acceptedAnswers: [
+      "5",
+      "five"
+    ],
+
+    explanation:
+      "The card shows 5 diamonds."
+  },
+
+  {
+    type: "number",
+
+    question:
+      "How many red counters are in this non-standard arrangement?\n\n   🔴\n🔴 🔴\n   🔴",
+
+    placeholder:
+      "Type the number",
+
+    correct: 4,
+
+    tolerance: 0,
+
+    explanation:
+      "There is 1 counter at the top, 2 in the middle and 1 at the bottom. That makes 4."
+  },
+
+  {
+    type: "fill-blank",
+
+    question:
+      "Complete the domino total.",
+
+    template:
+      "The domino has ⚁ on one side and ⚁ on the other side. Altogether, it has {{blank}} dots.",
+
+    placeholder:
+      "total",
+
+    acceptedAnswers: [
+      ["4", "four"]
+    ],
+
+    explanation:
+      "Each side shows 2 dots. Two and two make 4."
+  },
+
+  {
+    type: "drag-drop",
+
+    question:
+      "Arrange the cards from fewer squares to more squares.",
+
+    instruction:
+      "Drag the cards into order. On a touchscreen, use the arrows.",
+
+    items: [
+      "Card A: 🟦 🟦 🟦 🟦",
+      "Card B: 🟦 🟦"
+    ],
+
+    correct: [
+      "Card B: 🟦 🟦",
+      "Card A: 🟦 🟦 🟦 🟦"
+    ],
+
+    shuffleItems: false,
+
+    explanation:
+      "Card B has 2 squares and Card A has 4 squares, so Card B comes first."
+  },
+
+  {
+    type: "number",
+
+    question:
+      "Look quickly: 🔴 🔴 🔴 🔴 🔴\n\nHow many counters are in the row?",
+
+    placeholder:
+      "Type the number",
+
+    correct: 5,
+
+    tolerance: 0,
+
+    explanation:
+      "There are 5 red counters."
+  },
+
+
   /* =====================================================
-     DIFFICULT (Conceptual Subitising: Part-Part-Whole & Speed Games)
+     DIFFICULT: PART-PART-WHOLE
      ===================================================== */
 
   {
-    type: "number",
-    question: "Part-Part-Whole Subitising:\nLook at these two groups together:\n(⚫ ⚫ ⚫) and (⚫ ⚫)\n\nHow many dots are there in total? (Hint: Think \"3 and 2 make ___\")",
-    placeholder: "Enter a number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "3 dots and 2 dots combine to make 5."
+    type: "fill-blank",
+
+    question:
+      "Look at the two groups together.",
+
+    template:
+      "(⚫ ⚫ ⚫) and (⚫ ⚫)\n\n3 and 2 make {{blank}}.",
+
+    placeholder:
+      "total",
+
+    acceptedAnswers: [
+      ["5", "five"]
+    ],
+
+    explanation:
+      "The first group has 3 dots and the second has 2. Three and two make 5."
   },
+
   {
     type: "single",
-    question: "Subitising Breakdowns:\nLook at this pattern:\n🟢 🟢\n🟢\n🟢 🟢\n\nHow did you see the group?",
+
+    question:
+      "Look at this pattern:\n\n🟢 🟢\n   🟢\n🟢 🟢\n\nHow could you see the group?",
+
     answers: [
-      "A) A group of 2 and a group of 3",
-      "B) A group of 4 and 1 in the middle",
-      "C) Both A and B work!"
+      "A group of 2 and a group of 3",
+      "A group of 4 and 1 in the middle",
+      "Both A and B work"
     ],
+
     correct: 2,
-    explanation: "Both visual breakdowns are valid ways to conceptually subitise the 5 dots."
+
+    explanation:
+      "Both ways describe the same collection of 5 counters."
   },
+
+  {
+    type: "fill-blank",
+
+    question:
+      "You have a card showing ⚫ ⚫ ⚫.",
+
+    template:
+      "You need a card showing {{blank}} more dots to make 5 altogether.",
+
+    placeholder:
+      "number",
+
+    acceptedAnswers: [
+      ["2", "two"]
+    ],
+
+    explanation:
+      "Three dots and two more dots make 5."
+  },
+
   {
     type: "number",
-    question: "Card Game \"Make 5\":\nYou hold a card with 3 dots (⚫ ⚫ ⚫). What card do you need to draw from the deck to make 5 altogether?",
-    placeholder: "Enter a number",
-    correct: 2,
-    tolerance: 0,
-    explanation: "You need a card with 2 dots because 3 + 2 = 5."
-  },
-  {
-    type: "number",
-    question: "Subitising Under Time:\nLook at this image for 1 second only, then cover it:\n⭐️ ⭐️ ⭐️\n⭐️ ⭐️ ⭐️\n\nHow many stars did you see?",
-    placeholder: "Enter a number",
+
+    question:
+      "Look quickly at the stars:\n\n⭐️ ⭐️ ⭐️\n⭐️ ⭐️ ⭐️\n\nHow many stars did you see?",
+
+    placeholder:
+      "Type the number",
+
     correct: 6,
+
     tolerance: 0,
-    explanation: "Two rows of 3 stars make 6 stars in total."
+
+    explanation:
+      "There are 3 stars in each row. Three and three make 6."
   },
+
   {
-    type: "single",
-    question: "Odd One Out:\nWhich card does NOT show a collection of 4?",
+    type: "multiple",
+
+    question:
+      "Select every card that shows a collection of exactly 4.",
+
+    instruction:
+      "More than one answer is correct.",
+
     answers: [
-      "A) 🟨 🟨 🟨 🟨",
-      "B) 🎲 (Die showing 4 dots)",
-      "C) 🔺 🔺 🔺"
+      "Card A: 🟨 🟨 🟨 🟨",
+      "Card B: ⚄? No — use a die showing four dots: ⚃",
+      "Card C: 🔺 🔺 🔺"
     ],
-    correct: 2,
-    explanation: "Option C shows 3 triangles instead of 4."
+
+    correct: [0, 1],
+
+    explanation:
+      "Card A shows 4 squares and Card B shows a die face with 4 dots. Card C shows only 3 triangles."
   },
+
   {
     type: "single",
-    question: "Card Game Rule Creation:\nYou are playing a game where you win if you flip a card with more than 3 dots.\n\nWhich of these cards wins the round?",
+
+    question:
+      "You win if you flip a card with more than 3 dots. Which card wins the round?",
+
     answers: [
       "Card 1: ⚫ ⚫",
       "Card 2: ⚫ ⚫ ⚫ ⚫ ⚫",
       "Card 3: ⚫"
     ],
+
     correct: 1,
-    explanation: "Card 2 has 5 dots, which is greater than 3."
+
+    explanation:
+      "Card 2 has 5 dots. Five is more than 3."
   }
 ];
+
 
 window.quizConfig = {
   shuffleQuestions: false,
