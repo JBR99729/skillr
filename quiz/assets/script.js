@@ -1527,72 +1527,72 @@ if (question.visual) {
   }
 
   function checkAnswer() {
-    if (answerChecked) {
-      return;
-    }
-
-    const question =
-      activeQuestions[
-        currentQuestionIndex
-      ];
-
-    const result =
-      evaluateAnswer(question);
-
-    answerChecked = true;
-     /* Play correct or incorrect sound */
-playQuizSound(result.isCorrect);
-
-if (result.isCorrect) {
-
-    if (result.isCorrect) {
-      score += 1;
-
-      elements.liveScore.textContent =
-        String(score);
-    }
-
-    markAnswerVisuals(
-      question,
-      result
-    );
-
-    showFeedback(
-      result.isCorrect,
-      question.explanation
-    );
-
-    quizHistory.push({
-      question:
-        question.question,
-
-      selectedAnswer:
-        result.selectedAnswer,
-
-      correctAnswer:
-        result.correctAnswer,
-
-      explanation:
-        question.explanation || "",
-
-      isCorrect:
-        result.isCorrect
-    });
-
-    elements.submitButton.hidden = true;
-
-    elements.submitButton.classList.add(
-      "is-hidden"
-    );
-
-    elements.nextButton.hidden = false;
-
-    elements.nextButton.classList.remove(
-      "is-hidden"
-    );
-
-    elements.nextButton.focus();
+  if (answerChecked) {
+    return;
   }
+
+  const question =
+    activeQuestions[
+      currentQuestionIndex
+    ];
+
+  const result =
+    evaluateAnswer(question);
+
+  answerChecked = true;
+
+  /* Play correct or incorrect sound */
+  playQuizSound(result.isCorrect);
+
+  if (result.isCorrect) {
+    score += 1;
+
+    elements.liveScore.textContent =
+      String(score);
+  }
+
+  markAnswerVisuals(
+    question,
+    result
+  );
+
+  showFeedback(
+    result.isCorrect,
+    question.explanation
+  );
+
+  quizHistory.push({
+    question:
+      question.question,
+
+    selectedAnswer:
+      result.selectedAnswer,
+
+    correctAnswer:
+      result.correctAnswer,
+
+    explanation:
+      question.explanation || "",
+
+    isCorrect:
+      result.isCorrect
+  });
+
+  elements.submitButton.hidden = true;
+
+  elements.submitButton.classList.add(
+    "is-hidden"
+  );
+
+  elements.nextButton.hidden = false;
+
+  elements.nextButton.classList.remove(
+    "is-hidden"
+  );
+
+  elements.nextButton.focus();
+}
+  
 
   function goToNextQuestion() {
     if (!answerChecked) {
