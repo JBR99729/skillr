@@ -944,9 +944,9 @@ h3 {
 }
 
 .question-visual {
-  margin: 10px 0 18px;
+  margin: 8px 0 14px;
   color: var(--text);
-  font-size: clamp(4.5rem, 14vw, 8rem);
+  font-size: clamp(1rem, 2.5vw, 1.75rem);
   line-height: 1.25;
   text-align: center;
   white-space: pre-line;
