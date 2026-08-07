@@ -3,23 +3,30 @@
    QUIZ SOUNDS
    ========================================================= */
 
-const correctSound =
-  new Audio("/quiz/assets/sounds/correct.wav");
-
-const wrongSound =
-  new Audio("/quiz/assets/sounds/wrong.wav");
-
-
 function playQuizSound(isCorrect) {
 
-  const sound =
-    isCorrect ? correctSound : wrongSound;
+  try {
 
-  sound.currentTime = 0;
+    const soundPath = isCorrect
+      ? "/quiz/assets/sounds/correct.wav"
+      : "/quiz/assets/sounds/wrong.wav";
 
-  sound.play().catch(() => {
-    // Quiz continues normally if audio cannot play.
-  });
+    const sound = new Audio(soundPath);
+
+    sound.volume = 0.6;
+
+    sound.play().catch(() => {
+      // Ignore audio errors.
+    });
+
+  } catch (error) {
+
+    console.log(
+      "Quiz sound unavailable:",
+      error
+    );
+
+  }
 }
 document.addEventListener("DOMContentLoaded", () => {
   const questions = Array.isArray(window.quizQuestions)
