@@ -1,5 +1,26 @@
 "use strict";
+/* =========================================================
+   QUIZ SOUNDS
+   ========================================================= */
 
+const correctSound =
+  new Audio("/quiz/assets/sounds/correct.wav");
+
+const wrongSound =
+  new Audio("/quiz/assets/sounds/wrong.wav");
+
+
+function playQuizSound(isCorrect) {
+
+  const sound =
+    isCorrect ? correctSound : wrongSound;
+
+  sound.currentTime = 0;
+
+  sound.play().catch(() => {
+    // Quiz continues normally if audio cannot play.
+  });
+}
 document.addEventListener("DOMContentLoaded", () => {
   const questions = Array.isArray(window.quizQuestions)
     ? window.quizQuestions
