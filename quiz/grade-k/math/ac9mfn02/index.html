@@ -1,111 +1,553 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
 
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0"
-  >
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- =====================================================
+       SEO
+       ===================================================== -->
+
+  <title>AC9MFN02 Subitising Quiz | Foundation Mathematics & Kindergarten</title>
 
   <meta
     name="description"
-    content="Foundation Mathematics AC9MFN02 interactive subitising quiz."
+    content="Foundation Mathematics AC9MFN02 subitising quiz. Practise recognising numbers up to 5 for Australian Curriculum, NSW, VIC, US Kindergarten, and UK EYFS."
   >
 
-  <meta name="google-adsense-account" content="ca-pub-7734963540104771">
+  <link
+    rel="canonical"
+    href="https://skillrhub.com/quiz/grade-k/math/AC9MFN02/index.html"
+  >
 
-  <title>AC9MFN02 Subitising Quiz | Foundation Mathematics</title>
-  <link rel="canonical" href="https://skillrhub.com/quiz/grade-k/math/AC9MFN02/index.html">
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-8P22BET45N');
+  <!-- =====================================================
+       GOOGLE ADSENSE
+       Keep this only once
+       ===================================================== -->
+
+  <meta
+    name="google-adsense-account"
+    content="ca-pub-7734963540104771"
+  >
+
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
+    crossorigin="anonymous">
   </script>
 
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
 
-  <!-- Shared quiz stylesheet -->
-  <link rel="stylesheet" href="/quiz/assets/style.css?v=30">
+  <!-- =====================================================
+       GOOGLE ANALYTICS
+       Keep this only once
+       ===================================================== -->
+
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N">
+  </script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag("js", new Date());
+    gtag("config", "G-8P22BET45N");
+  </script>
+
+
+  <!-- =====================================================
+       SHARED QUIZ STYLESHEET
+       ===================================================== -->
+
+  <link
+    rel="stylesheet"
+    href="/quiz/assets/style.css?v=101"
+  >
+
 </head>
-<body>
-  <main class="quiz-app" id="quizApp">
-    <section class="screen start-screen is-active" id="startScreen" aria-labelledby="quizTitle">
-      <div class="card start-card">
-        <p class="eyebrow">Foundation Mathematics</p>
-        <h1 id="quizTitle">Subitising Quiz</h1>
-        <p class="intro-text">Practise recognising and naming the number of objects within a collection up to 5 at a glance.</p>
-        <p class="intro-text intro-text--highlight">Press the button below to begin and test your subitising skills.</p>
 
-        <div class="quiz-summary" aria-label="Quiz information">
+
+<body>
+
+  <main class="quiz-app" id="quizApp">
+
+
+    <!-- ===================================================
+         START SCREEN
+         =================================================== -->
+
+    <section
+      class="screen start-screen is-active"
+      id="startScreen"
+      aria-labelledby="quizTitle"
+    >
+
+      <div class="card start-card">
+
+        <p class="eyebrow">
+          Foundation Mathematics
+        </p>
+
+        <h1 id="quizTitle">
+          Subitising Quiz
+        </h1>
+
+        <p class="intro-text">
+          Practise recognising and naming the number of objects
+          within a collection up to 5 at a glance.
+        </p>
+
+        <p class="intro-text intro-text--highlight">
+          Press the button below to begin and test your
+          subitising skills.
+        </p>
+
+
+        <div
+          class="quiz-summary"
+          aria-label="Quiz information"
+        >
+
           <div>
-            <span class="summary-number" id="questionCount">0</span>
-            <span class="summary-label">Questions</span>
+            <span
+              class="summary-number"
+              id="questionCount"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Questions
+            </span>
           </div>
+
+
           <div>
-            <span class="summary-number">1</span>
-            <span class="summary-label">Point each</span>
+            <span class="summary-number">
+              1
+            </span>
+
+            <span class="summary-label">
+              Point each
+            </span>
           </div>
+
+
           <div>
-            <span class="summary-number" id="bestScore">0</span>
-            <span class="summary-label">Best score</span>
+            <span
+              class="summary-number"
+              id="bestScore"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Best score
+            </span>
           </div>
+
         </div>
 
-        <button class="button button-primary button-start" id="startButton" type="button">Start quiz</button>
+
+        <button
+          class="button button-primary button-start"
+          id="startButton"
+          type="button"
+        >
+          Start quiz
+        </button>
+
       </div>
+
     </section>
 
-    <section class="screen quiz-screen" id="quizScreen" aria-labelledby="questionText">
+
+
+    <!-- ===================================================
+         QUIZ SCREEN
+         =================================================== -->
+
+    <section
+      class="screen quiz-screen"
+      id="quizScreen"
+      aria-labelledby="questionText"
+    >
+
       <header class="quiz-header">
+
         <div>
-          <p class="progress-label" id="progressText">Question 1 of 10</p>
-          <div class="progress-track" aria-hidden="true">
-            <div class="progress-bar" id="progressBar"></div>
+
+          <p
+            class="progress-label"
+            id="progressText"
+          >
+            Question 1 of 5
+          </p>
+
+          <div
+            class="progress-track"
+            aria-hidden="true"
+          >
+
+            <div
+              class="progress-bar"
+              id="progressBar"
+            ></div>
+
           </div>
+
         </div>
-        <p class="score-display">Score: <strong id="liveScore">0</strong></p>
+
+
+        <p class="score-display">
+          Score:
+          <strong id="liveScore">0</strong>
+        </p>
+
       </header>
 
+
       <article class="card question-card">
-        <p class="question-number" id="questionNumber">Question 1</p>
-        <h2 id="questionText">Question text</h2>
-        <div class="answer-list" id="answerList" role="radiogroup" aria-labelledby="questionText"></div>
-        <div class="feedback" id="feedback" aria-live="polite"></div>
+
+        <p
+          class="question-number"
+          id="questionNumber"
+        >
+          Question 1
+        </p>
+
+
+        <h2 id="questionText">
+          Question text
+        </h2>
+
+
+        <!--
+          JavaScript places:
+          MCQ
+          multiple select
+          text answers
+          fill blanks
+          numbers
+          drag/drop
+          ordering
+          visuals
+          here.
+        -->
+
+        <div
+          class="answer-list"
+          id="answerList"
+          aria-labelledby="questionText"
+        ></div>
+
+
+        <div
+          class="feedback"
+          id="feedback"
+          aria-live="polite"
+        ></div>
+
 
         <div class="actions">
-          <button class="button button-primary" id="submitButton" type="button" disabled>Check answer</button>
-          <button class="button button-primary is-hidden" id="nextButton" type="button">Next question</button>
+
+          <button
+            class="button button-primary"
+            id="submitButton"
+            type="button"
+            disabled
+          >
+            Check answer
+          </button>
+
+
+          <button
+            class="button button-primary is-hidden"
+            id="nextButton"
+            type="button"
+          >
+            Next question
+          </button>
+
         </div>
+
       </article>
+
     </section>
 
-    <section class="screen result-screen" id="resultScreen" aria-labelledby="resultTitle">
+
+
+    <!-- ===================================================
+         RESULTS SCREEN
+         =================================================== -->
+
+    <section
+      class="screen result-screen"
+      id="resultScreen"
+      aria-labelledby="resultTitle"
+    >
+
       <div class="card result-card">
-        <p class="eyebrow">Quiz complete</p>
-        <h2 id="resultTitle">Your result</h2>
-        <div class="result-circle" aria-label="Final percentage"><span id="percentageScore">0%</span></div>
-        <p class="result-score">You scored <strong id="finalScore">0</strong> out of <strong id="finalTotal">0</strong>.</p>
-        <p class="result-message" id="resultMessage"></p>
+
+        <p class="eyebrow">
+          Quiz complete
+        </p>
+
+
+        <h2 id="resultTitle">
+          Your result
+        </h2>
+
+
+        <div
+          class="result-circle"
+          aria-label="Final percentage"
+        >
+
+          <span id="percentageScore">
+            0%
+          </span>
+
+        </div>
+
+
+        <p class="result-score">
+
+          You scored
+
+          <strong id="finalScore">
+            0
+          </strong>
+
+          out of
+
+          <strong id="finalTotal">
+            0
+          </strong>.
+
+        </p>
+
+
+        <p
+          class="result-message"
+          id="resultMessage"
+        ></p>
+
 
         <div class="result-actions">
-          <button class="button button-primary" id="restartButton" type="button">Try again</button>
-          <button class="button button-secondary" id="reviewButton" type="button">Review answers</button>
+
+          <button
+            class="button button-primary"
+            id="restartButton"
+            type="button"
+          >
+            Try again
+          </button>
+
+
+          <button
+            class="button button-secondary"
+            id="reviewButton"
+            type="button"
+          >
+            Review answers
+          </button>
+
         </div>
 
-        <section class="review-section is-hidden" id="reviewSection" aria-labelledby="reviewTitle">
-          <h3 id="reviewTitle">Answer review</h3>
+
+        <!-- ===============================================
+             ANSWER REVIEW
+             =============================================== -->
+
+        <section
+          class="review-section is-hidden"
+          id="reviewSection"
+          aria-labelledby="reviewTitle"
+        >
+
+          <h3 id="reviewTitle">
+            Answer review
+          </h3>
+
           <div id="reviewList"></div>
+
         </section>
+
       </div>
+
     </section>
+
+
+
+    <!-- ===================================================
+         SEO / EDUCATIONAL CONTENT
+         =================================================== -->
+
+    <section
+      class="card seo-content"
+      style="
+        margin-top: 32px;
+        padding: 32px;
+        text-align: left;
+      "
+    >
+
+      <h2>
+        About This Foundation Subitising Quiz (AC9MFN02)
+      </h2>
+
+      <p>
+        Subitising is the ability to instantly recognise the
+        number of objects in a small group without counting
+        them one by one. This interactive quiz directly
+        addresses the
+        <strong>
+          Australian Curriculum (Version 9.0) Foundation
+          Mathematics content description AC9MFN02
+        </strong>.
+      </p>
+
+
+      <h3>
+        Australian Curriculum Alignments
+      </h3>
+
+      <ul>
+
+        <li>
+          <strong>Australian Curriculum (V9):</strong>
+          AC9MFN02 (Foundation Year)
+        </li>
+
+        <li>
+          <strong>NSW Syllabus:</strong>
+          MAE-RWN-01 (Representing Whole Numbers)
+        </li>
+
+        <li>
+          <strong>Victorian Curriculum 2.0:</strong>
+          VC2MFN02 (Subitising)
+        </li>
+
+      </ul>
+
+
+      <h3>
+        Global Equivalents
+      </h3>
+
+      <p
+        style="
+          font-size: 0.95rem;
+          color: #667085;
+        "
+      >
+        This quiz also supports related early-years number
+        learning goals in other curricula.
+      </p>
+
+
+      <ul>
+
+        <li>
+          <strong>United States:</strong>
+          Common Core CCSS.MATH.CONTENT.K.CC.B.4 and
+          K.CC.B.5 (Kindergarten)
+        </li>
+
+        <li>
+          <strong>United Kingdom:</strong>
+          EYFS / Key Stage 1 Number Milestones
+        </li>
+
+        <li>
+          <strong>New Zealand:</strong>
+          NZC Number &amp; Algebra Level 1
+        </li>
+
+      </ul>
+
+
+      <h3>
+        Skills Practised
+      </h3>
+
+      <ul>
+
+        <li>
+          <strong>Perceptual Subitising:</strong>
+          Instantly naming small quantities from 1 to 3
+          using dice faces, dots and finger patterns.
+        </li>
+
+        <li>
+          <strong>Visual Arrays:</strong>
+          Identifying quantities arranged in standard
+          configurations, ten-frames and card patterns.
+        </li>
+
+        <li>
+          <strong>Conceptual Subitising:</strong>
+          Combining smaller groups, such as seeing 3 and 2
+          and recognising 5 without sequential counting.
+        </li>
+
+      </ul>
+
+    </section>
+
   </main>
 
-<script src="./questions.js?v=101"></script>
-<script src="/quiz/assets/script.js?v=101"></script>
+
+
+  <!-- =====================================================
+       SITE NOTICE
+       Keep this
+       ===================================================== -->
+
+  <section
+    class="site-notice"
+    aria-label="Advertising and privacy notice"
+  >
+
+    <p>
+      This site may use analytics and advertising to support
+      free resources. Please review our
+      <a href="/privacy-policy.html">
+        privacy policy
+      </a>
+      for details on cookies, analytics and advertising.
+    </p>
+
+  </section>
+
+
+
+  <!-- =====================================================
+       SHARE BUTTON
+       ===================================================== -->
+
+<script src="/share-button.js"></script>
+
+
+
+  <!-- =====================================================
+       QUIZ FILES
+
+       IMPORTANT:
+       questions.js MUST load first.
+       Shared script.js MUST load second.
+       ===================================================== -->
+
+  <script src="./questions.js?v=101"></script>
+  <script src="/quiz/assets/script.js?v=101"></script>
+
 </body>
 </html>
