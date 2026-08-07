@@ -7,21 +7,21 @@ window.quizQuestions = [
 
   {
     type: "single",
-    question: "Look quickly (1 second):<br>⚫ ⚫<br><br>How many dots did you see?",
+    question: "Look quickly (1 second):\n⚫ ⚫\n\nHow many dots did you see?",
     answers: ["1", "2", "3"],
     correct: 1,
     explanation: "There are 2 dots."
   },
   {
     type: "single",
-    question: "Dice Face: Which number is shown on this die face?<br><br>⚂",
+    question: "Dice Face: Which number is shown on this die face?\n\n⚂",
     answers: ["2", "3", "4"],
     correct: 1,
     explanation: "The die face showing ⚂ represents the number 3."
   },
   {
     type: "number",
-    question: "Counting vs. Knowing: Look at this group for just a moment:<br>🍎<br><br>Name the number of apples immediately.",
+    question: "Counting vs. Knowing: Look at this group for just a moment:\n🍎\n\nName the number of apples immediately.",
     placeholder: "Enter a number",
     correct: 1,
     tolerance: 0,
@@ -29,7 +29,7 @@ window.quizQuestions = [
   },
   {
     type: "single",
-    question: "Card Matching:<br>Which card shows 3 dots?",
+    question: "Card Matching:\nWhich card shows 3 dots?",
     answers: [
       "A) ⚫ ⚫",
       "B) ⚫ ⚫ ⚫",
@@ -40,7 +40,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Quick Name: How many stars are in a single line here?<br><br>⭐️ ⭐️ ⭐️",
+    question: "Quick Name: How many stars are in a single line here?\n\n⭐️ ⭐️ ⭐️",
     placeholder: "Enter a number",
     correct: 3,
     tolerance: 0,
@@ -72,7 +72,7 @@ window.quizQuestions = [
 
   {
     type: "number",
-    question: "Standard Array:<br>⚫ ⚫<br>⚫ ⚫<br><br>Without counting one-by-one, how many dots are arranged in this square?",
+    question: "Standard Array:\n⚫ ⚫\n⚫ ⚫\n\nWithout counting one-by-one, how many dots are arranged in this square?",
     placeholder: "Enter a number",
     correct: 4,
     tolerance: 0,
@@ -80,7 +80,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Ten-Frame Visual:<br>[ 🖐️ | 🖐️ | 🖐️ | 🖐️ | 🖐️ ]<br>[ ⚪ | ⚪ | ⚪ | ⚪ | ⚪ ]<br><br>How many counters are filled in the top row?",
+    question: "Ten-Frame Visual:\n[ 🖐️ | 🖐️ | 🖐️ | 🖐️ | 🖐️ ]\n[ ⚪ | ⚪ | ⚪ | ⚪ | ⚪ ]\n\nHow many counters are filled in the top row?",
     placeholder: "Enter a number",
     correct: 5,
     tolerance: 0,
@@ -88,7 +88,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Card Game Challenge: You draw a playing card with 5 diamonds on it:<br>♦️ ♦️<br>♦️<br>♦️ ♦️<br><br>Can you name the number on the card before your partner counts them?",
+    question: "Card Game Challenge: You draw a playing card with 5 diamonds on it:\n♦️ ♦️\n♦️\n♦️ ♦️\n\nCan you name the number on the card before your partner counts them?",
     placeholder: "Enter a number",
     correct: 5,
     tolerance: 0,
@@ -96,7 +96,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Non-Standard Arrangement:<br>🔴<br>🔴 🔴<br>🔴<br><br>How many dots are in this pile?",
+    question: "Non-Standard Arrangement:\n🔴\n🔴 🔴\n🔴\n\nHow many dots are in this pile?",
     placeholder: "Enter a number",
     correct: 4,
     tolerance: 0,
@@ -104,7 +104,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Dominoes:<br>[ ⚁ | ⚁ ]<br><br>What is the total number of dots on both sides of this domino combined?",
+    question: "Dominoes:\n[ ⚁ | ⚁ ]\n\nWhat is the total number of dots on both sides of this domino combined?",
     placeholder: "Enter a number",
     correct: 4,
     tolerance: 0,
@@ -112,7 +112,7 @@ window.quizQuestions = [
   },
   {
     type: "single",
-    question: "Card Compare:<br>Card A: 🟦 🟦 🟦 🟦<br>Card B: 🟦 🟦<br><br>Which card has more squares?",
+    question: "Card Compare:\nCard A: 🟦 🟦 🟦 🟦\nCard B: 🟦 🟦\n\nWhich card has more squares?",
     answers: [
       "Card A",
       "Card B",
@@ -123,7 +123,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Quick Sight:<br>🔴 🔴 🔴 🔴 🔴<br><br>How many counters are in this row?",
+    question: "Quick Sight:\n🔴 🔴 🔴 🔴 🔴\n\nHow many counters are in this row?",
     placeholder: "Enter a number",
     correct: 5,
     tolerance: 0,
@@ -136,7 +136,7 @@ window.quizQuestions = [
 
   {
     type: "number",
-    question: "Part-Part-Whole Subitising:<br>Look at these two groups together:<br>(⚫ ⚫ ⚫) and (⚫ ⚫)<br><br>How many dots are there in total? (Hint: Think \"3 and 2 make ___\")",
+    question: "Part-Part-Whole Subitising:\nLook at these two groups together:\n(⚫ ⚫ ⚫) and (⚫ ⚫)\n\nHow many dots are there in total? (Hint: Think \"3 and 2 make ___\")",
     placeholder: "Enter a number",
     correct: 5,
     tolerance: 0,
@@ -144,7 +144,7 @@ window.quizQuestions = [
   },
   {
     type: "single",
-    question: "Subitising Breakdowns:<br>Look at this pattern:<br>🟢 🟢<br>🟢<br>🟢 🟢<br><br>How did you see the group?",
+    question: "Subitising Breakdowns:\nLook at this pattern:\n🟢 🟢\n🟢\n🟢 🟢\n\nHow did you see the group?",
     answers: [
       "A) A group of 2 and a group of 3",
       "B) A group of 4 and 1 in the middle",
@@ -155,7 +155,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Card Game \"Make 5\":<br>You hold a card with 3 dots (⚫ ⚫ ⚫). What card do you need to draw from the deck to make 5 altogether?",
+    question: "Card Game \"Make 5\":\nYou hold a card with 3 dots (⚫ ⚫ ⚫). What card do you need to draw from the deck to make 5 altogether?",
     placeholder: "Enter a number",
     correct: 2,
     tolerance: 0,
@@ -163,7 +163,7 @@ window.quizQuestions = [
   },
   {
     type: "number",
-    question: "Subitising Under Time:<br>Look at this image for 1 second only, then cover it:<br>⭐️ ⭐️ ⭐️<br>⭐️ ⭐️ ⭐️<br><br>How many stars did you see?",
+    question: "Subitising Under Time:\nLook at this image for 1 second only, then cover it:\n⭐️ ⭐️ ⭐️\n⭐️ ⭐️ ⭐️\n\nHow many stars did you see?",
     placeholder: "Enter a number",
     correct: 6,
     tolerance: 0,
@@ -171,7 +171,7 @@ window.quizQuestions = [
   },
   {
     type: "single",
-    question: "Odd One Out:<br>Which card does NOT show a collection of 4?",
+    question: "Odd One Out:\nWhich card does NOT show a collection of 4?",
     answers: [
       "A) 🟨 🟨 🟨 🟨",
       "B) 🎲 (Die showing 4 dots)",
@@ -182,7 +182,7 @@ window.quizQuestions = [
   },
   {
     type: "single",
-    question: "Card Game Rule Creation:<br>You are playing a game where you win if you flip a card with more than 3 dots.<br>Which of these cards wins the round?",
+    question: "Card Game Rule Creation:\nYou are playing a game where you win if you flip a card with more than 3 dots.\n\nWhich of these cards wins the round?",
     answers: [
       "Card 1: ⚫ ⚫",
       "Card 2: ⚫ ⚫ ⚫ ⚫ ⚫",
