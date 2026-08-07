@@ -29,9 +29,56 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+{
+  "id": "/",
+  "name": "SkillrHub Learning",
+  "short_name": "SkillrHub",
+  "description": "Interactive curriculum-aligned learning quizzes and educational resources from SkillrHub.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f7fb",
+  "theme_color": "#2457d6",
 
-/screenshots/skillrhub-desktop.png
-/screenshots/skillrhub-mobile.png
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/screenshots/skillrhub-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "SkillrHub learning resources and quizzes"
+    },
+    {
+      "src": "/screenshots/skillrhub-mobile.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "SkillrHub on mobile"
+    }
+  ]
+}
+
     }
   ]
 }
