@@ -183,16 +183,29 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function prepareQuestions() {
-    let prepared = questions
-      .map(cloneQuestion)
-      .map(prepareSingleChoiceAnswers);
+  let prepared = questions
+    .map(cloneQuestion)
+    .map(prepareSingleChoiceAnswers);
 
-    if (config.shuffleQuestions) {
-      prepared = shuffleArray(prepared);
-    }
-
-    return prepared;
+  if (config.shuffleQuestions) {
+    prepared = shuffleArray(prepared);
   }
+
+  const maximumQuestions =
+    Number(config.maxQuestions);
+
+  if (
+    Number.isInteger(maximumQuestions) &&
+    maximumQuestions > 0
+  ) {
+    prepared = prepared.slice(
+      0,
+      maximumQuestions
+    );
+  }
+
+  return prepared;
+}
 
   function showScreen(screenToShow) {
     [
