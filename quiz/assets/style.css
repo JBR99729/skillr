@@ -929,6 +929,12 @@ h3 {
    REDUCED MOTION
    ========================================================= */
 
+/* Add to bottom of style.css */
+#questionText,
+.answer-option {
+  white-space: pre-line;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
