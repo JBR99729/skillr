@@ -941,7 +941,7 @@ h3 {
 }
 
 .question-visual {
-  margin: 12px 0 20px;
+  margin: 10px 0 18px;
   color: var(--text);
   font-size: clamp(4.5rem, 14vw, 8rem);
   line-height: 1.25;
