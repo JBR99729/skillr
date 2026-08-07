@@ -1020,3 +1020,46 @@ h3 {
     transition: none !important;
   }
 }
+/* =========================================================
+   PWA INSTALL BUTTON
+   ========================================================= */
+
+.install-app-fab {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 9999;
+
+  border: 0;
+  border-radius: 999px;
+  padding: 12px 18px;
+
+  font-size: 15px;
+  font-weight: 700;
+
+  background: #2457d6;
+  color: #ffffff;
+
+  box-shadow:
+    0 10px 30px
+    rgba(23, 32, 51, 0.22);
+
+  cursor: pointer;
+}
+
+.install-app-fab:hover {
+  transform: translateY(-1px);
+}
+
+.install-app-fab:focus-visible {
+  outline: 3px solid #f5b700;
+  outline-offset: 3px;
+}
+
+@media (max-width: 600px) {
+  .install-app-fab {
+    right: 12px;
+    bottom: 12px;
+    padding: 11px 16px;
+  }
+}
