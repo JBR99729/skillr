@@ -431,11 +431,25 @@ footer .site-notice {
     color: #222;
     text-decoration: none;
     font-weight: bold;
+    margin: 6px 6px 6px 0;
 }
 
 .button:hover,
 .button-link:hover {
     background: #222;
+    color: #fff;
+}
+
+.button--quiz,
+.button-link.button--quiz {
+    background: #0f4c81;
+    border-color: #0f4c81;
+    color: #fff;
+}
+
+.button--quiz:hover,
+.button-link.button--quiz:hover {
+    background: #0b3a64;
     color: #fff;
 }
 
