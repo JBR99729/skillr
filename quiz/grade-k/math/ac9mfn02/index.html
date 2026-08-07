@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
 
   <!-- =====================================================
        SEO
        ===================================================== -->
 
-  <title>AC9MFN02 Subitising Quiz | Foundation Mathematics & Kindergarten</title>
+  <title>
+    AC9MFN02 Subitising Quiz | Foundation Mathematics & Kindergarten
+  </title>
 
   <meta
     name="description"
@@ -21,10 +29,49 @@
     href="https://skillrhub.com/quiz/grade-k/math/AC9MFN02/index.html"
   >
 
+  <meta
+    name="robots"
+    content="index, follow"
+  >
+
+
+  <!-- =====================================================
+       OPEN GRAPH
+       ===================================================== -->
+
+  <meta
+    property="og:title"
+    content="AC9MFN02 Subitising Quiz | Foundation Mathematics"
+  >
+
+  <meta
+    property="og:description"
+    content="Interactive Foundation Mathematics subitising quiz aligned with Australian Curriculum AC9MFN02."
+  >
+
+  <meta
+    property="og:type"
+    content="website"
+  >
+
+  <meta
+    property="og:url"
+    content="https://skillrhub.com/quiz/grade-k/math/AC9MFN02/index.html"
+  >
+
+  <meta
+    property="og:site_name"
+    content="Skillr Education"
+  >
+
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  >
+
 
   <!-- =====================================================
        GOOGLE ADSENSE
-       Keep this only once
        ===================================================== -->
 
   <meta
@@ -35,19 +82,18 @@
   <script
     async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
-    crossorigin="anonymous">
-  </script>
+    crossorigin="anonymous"
+  ></script>
 
 
   <!-- =====================================================
        GOOGLE ANALYTICS
-       Keep this only once
        ===================================================== -->
 
   <script
     async
-    src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N">
-  </script>
+    src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"
+  ></script>
 
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -57,13 +103,25 @@
     }
 
     gtag("js", new Date());
-    gtag("config", "G-8P22BET45N");
+
+    gtag(
+      "config",
+      "G-8P22BET45N"
+    );
   </script>
 
 
   <!-- =====================================================
-       SHARED QUIZ STYLESHEET
+       STYLESHEETS
+
+       Main SkillrHub CSS first.
+       Quiz CSS second.
        ===================================================== -->
+
+  <link
+    rel="stylesheet"
+    href="/style.css"
+  >
 
   <link
     rel="stylesheet"
@@ -75,7 +133,15 @@
 
 <body>
 
-  <main class="quiz-app" id="quizApp">
+
+  <!-- =====================================================
+       MAIN QUIZ
+       ===================================================== -->
+
+  <main
+    class="quiz-app"
+    id="quizApp"
+  >
 
 
     <!-- ===================================================
@@ -90,18 +156,22 @@
 
       <div class="card start-card">
 
+
         <p class="eyebrow">
           Foundation Mathematics
         </p>
+
 
         <h1 id="quizTitle">
           Subitising Quiz
         </h1>
 
+
         <p class="intro-text">
           Practise recognising and naming the number of objects
           within a collection up to 5 at a glance.
         </p>
+
 
         <p class="intro-text intro-text--highlight">
           Press the button below to begin and test your
@@ -114,7 +184,9 @@
           aria-label="Quiz information"
         >
 
+
           <div>
+
             <span
               class="summary-number"
               id="questionCount"
@@ -125,10 +197,12 @@
             <span class="summary-label">
               Questions
             </span>
+
           </div>
 
 
           <div>
+
             <span class="summary-number">
               1
             </span>
@@ -136,10 +210,12 @@
             <span class="summary-label">
               Point each
             </span>
+
           </div>
 
 
           <div>
+
             <span
               class="summary-number"
               id="bestScore"
@@ -150,7 +226,9 @@
             <span class="summary-label">
               Best score
             </span>
+
           </div>
+
 
         </div>
 
@@ -162,6 +240,7 @@
         >
           Start quiz
         </button>
+
 
       </div>
 
@@ -179,7 +258,9 @@
       aria-labelledby="questionText"
     >
 
+
       <header class="quiz-header">
+
 
         <div>
 
@@ -189,6 +270,7 @@
           >
             Question 1 of 5
           </p>
+
 
           <div
             class="progress-track"
@@ -207,13 +289,18 @@
 
         <p class="score-display">
           Score:
-          <strong id="liveScore">0</strong>
+          <strong id="liveScore">
+            0
+          </strong>
         </p>
+
 
       </header>
 
 
+
       <article class="card question-card">
+
 
         <p
           class="question-number"
@@ -229,17 +316,17 @@
 
 
         <!--
-          JavaScript places:
-          MCQ
-          multiple select
-          text answers
-          fill blanks
-          numbers
-          drag/drop
-          ordering
-          visuals
-          here.
+          JavaScript inserts:
+          - large visual
+          - MCQ
+          - multiple select
+          - typed answers
+          - number answers
+          - fill in the blank
+          - ordering
+          - drag and drop
         -->
+
 
         <div
           class="answer-list"
@@ -256,6 +343,7 @@
 
 
         <div class="actions">
+
 
           <button
             class="button button-primary"
@@ -275,9 +363,12 @@
             Next question
           </button>
 
+
         </div>
 
+
       </article>
+
 
     </section>
 
@@ -293,7 +384,9 @@
       aria-labelledby="resultTitle"
     >
 
+
       <div class="card result-card">
+
 
         <p class="eyebrow">
           Quiz complete
@@ -342,6 +435,7 @@
 
         <div class="result-actions">
 
+
           <button
             class="button button-primary"
             id="restartButton"
@@ -359,7 +453,9 @@
             Review answers
           </button>
 
+
         </div>
+
 
 
         <!-- ===============================================
@@ -372,15 +468,20 @@
           aria-labelledby="reviewTitle"
         >
 
+
           <h3 id="reviewTitle">
             Answer review
           </h3>
 
+
           <div id="reviewList"></div>
+
 
         </section>
 
+
       </div>
+
 
     </section>
 
@@ -399,149 +500,250 @@
       "
     >
 
+
       <h2>
         About This Foundation Subitising Quiz (AC9MFN02)
       </h2>
 
+
       <p>
         Subitising is the ability to instantly recognise the
         number of objects in a small group without counting
-        them one by one. This interactive quiz directly
-        addresses the
+        them one by one.
+
+        This interactive quiz supports the
+
         <strong>
-          Australian Curriculum (Version 9.0) Foundation
-          Mathematics content description AC9MFN02
-        </strong>.
+          Australian Curriculum Version 9.0 Foundation
+          Mathematics content description AC9MFN02.
+        </strong>
       </p>
+
 
 
       <h3>
         Australian Curriculum Alignments
       </h3>
 
+
       <ul>
 
         <li>
-          <strong>Australian Curriculum (V9):</strong>
-          AC9MFN02 (Foundation Year)
+          <strong>
+            Australian Curriculum Version 9.0:
+          </strong>
+
+          AC9MFN02 — Foundation Year
         </li>
 
-        <li>
-          <strong>NSW Syllabus:</strong>
-          MAE-RWN-01 (Representing Whole Numbers)
-        </li>
 
         <li>
-          <strong>Victorian Curriculum 2.0:</strong>
-          VC2MFN02 (Subitising)
+          <strong>
+            NSW Syllabus:
+          </strong>
+
+          MAE-RWN-01 — Representing Whole Numbers
+        </li>
+
+
+        <li>
+          <strong>
+            Victorian Curriculum 2.0:
+          </strong>
+
+          VC2MFN02 — Subitising
         </li>
 
       </ul>
 
 
+
       <h3>
-        Global Equivalents
+        Global Curriculum Connections
       </h3>
 
-      <p
-        style="
-          font-size: 0.95rem;
-          color: #667085;
-        "
-      >
-        This quiz also supports related early-years number
-        learning goals in other curricula.
+
+      <p>
+        This activity can also provide useful early-number
+        practice for Kindergarten and early-years learners
+        following other curricula.
       </p>
 
 
       <ul>
 
-        <li>
-          <strong>United States:</strong>
-          Common Core CCSS.MATH.CONTENT.K.CC.B.4 and
-          K.CC.B.5 (Kindergarten)
-        </li>
 
         <li>
-          <strong>United Kingdom:</strong>
-          EYFS / Key Stage 1 Number Milestones
+          <strong>
+            United States:
+          </strong>
+
+          Common Core Kindergarten counting and cardinality
+          skills.
         </li>
 
+
         <li>
-          <strong>New Zealand:</strong>
-          NZC Number &amp; Algebra Level 1
+          <strong>
+            United Kingdom:
+          </strong>
+
+          EYFS and early Key Stage 1 number skills.
         </li>
+
+
+        <li>
+          <strong>
+            New Zealand:
+          </strong>
+
+          Early Number and Algebra learning.
+        </li>
+
 
       </ul>
+
 
 
       <h3>
         Skills Practised
       </h3>
 
+
       <ul>
 
-        <li>
-          <strong>Perceptual Subitising:</strong>
-          Instantly naming small quantities from 1 to 3
-          using dice faces, dots and finger patterns.
-        </li>
 
         <li>
-          <strong>Visual Arrays:</strong>
-          Identifying quantities arranged in standard
-          configurations, ten-frames and card patterns.
+
+          <strong>
+            Perceptual Subitising:
+          </strong>
+
+          Instantly recognising small quantities using dots,
+          dice faces, counters, stars and familiar visual
+          patterns.
+
         </li>
 
+
         <li>
-          <strong>Conceptual Subitising:</strong>
-          Combining smaller groups, such as seeing 3 and 2
-          and recognising 5 without sequential counting.
+
+          <strong>
+            Visual Arrays:
+          </strong>
+
+          Recognising quantities arranged as rows, groups,
+          card patterns and simple frames.
+
         </li>
+
+
+        <li>
+
+          <strong>
+            Conceptual Subitising:
+          </strong>
+
+          Combining smaller groups, such as recognising
+          3 and 2 as a collection of 5.
+
+        </li>
+
+
+        <li>
+
+          <strong>
+            Comparing Quantities:
+          </strong>
+
+          Recognising which visual collection contains more,
+          fewer or the same number of objects.
+
+        </li>
+
 
       </ul>
 
+
+      <h3>
+        How to Use This Quiz
+      </h3>
+
+
+      <p>
+        Each attempt gives students a small random selection
+        from the larger question bank. This allows children
+        to repeat the quiz while seeing different questions
+        and visual arrangements.
+      </p>
+
+
+      <p>
+        Encourage students to look at each collection and
+        recognise the quantity before counting objects one
+        by one. Repeated practice can help build faster and
+        more confident number recognition.
+      </p>
+
+
     </section>
+
 
   </main>
 
 
 
   <!-- =====================================================
-       SITE NOTICE
-       Keep this
+       PRIVACY / ADVERTISING NOTICE
        ===================================================== -->
 
-  <section class="site-notice" aria-label="Advertising and privacy notice">
+  <section
+    class="site-notice"
+    aria-label="Advertising and privacy notice"
+  >
+
     <p>
-      This site may use analytics and advertising to support free resources.
+
+      This site may use analytics and advertising to support
+      free resources.
+
       Please review our
-      <a href="/privacy-policy.html">privacy policy</a>
+
+      <a href="/privacy-policy.html">
+        privacy policy
+      </a>
+
       for details on cookies, analytics and advertising.
+
     </p>
+
   </section>
 
 
 
   <!-- =====================================================
        SHARE BUTTON
+
+       share-button.js is stored at the website root.
        ===================================================== -->
 
- <script src="/share-button.js"></script>
+  <script src="/share-button.js"></script>
 
 
 
   <!-- =====================================================
-       QUIZ FILES
+       QUIZ SCRIPTS
 
        IMPORTANT:
-       questions.js MUST load first.
-       Shared script.js MUST load second.
+       questions.js loads FIRST.
+       shared script.js loads SECOND.
        ===================================================== -->
 
   <script src="./questions.js?v=101"></script>
+
   <script src="/quiz/assets/script.js?v=101"></script>
 
 
 </body>
+
 </html>
