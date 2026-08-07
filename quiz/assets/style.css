@@ -1,21 +1,28 @@
 /* =========================================================
    SKILLR QUIZ ENGINE
-   Complete shared stylesheet
-
-   Supports:
-   - Multiple choice
-   - True or false
-   - Multiple-select
-   - Typed answers
-   - Number answers
-   - Fill-in-the-blank
-   - Ordering
-   - Drag and drop
+   Original design + additional question types
    ========================================================= */
+
+:root {
+  --page-bg: #f3f7fb;
+  --card-bg: #ffffff;
+  --text: #172033;
+  --muted: #667085;
+  --primary: #2457d6;
+  --primary-hover: #1945b0;
+  --border: #d8e0ea;
+  --success: #137a45;
+  --success-bg: #eaf8f0;
+  --danger: #b42318;
+  --danger-bg: #fff0ee;
+  --focus: #f5b700;
+  --shadow: 0 18px 50px rgba(23, 32, 51, 0.1);
+  --radius: 20px;
+}
 
 
 /* =========================================================
-   1. RESET
+   RESET
    ========================================================= */
 
 *,
@@ -31,21 +38,15 @@ html {
 body {
   min-height: 100vh;
   margin: 0;
-  color: #172033;
+  color: var(--text);
   background:
-    linear-gradient(
-      135deg,
-      #f4f8ff 0%,
-      #eef8f6 100%
-    );
-  font-family:
-    Inter,
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    Roboto,
-    Arial,
-    sans-serif;
+    radial-gradient(
+      circle at top left,
+      rgba(36, 87, 214, 0.1),
+      transparent 34%
+    ),
+    var(--page-bg);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 button,
@@ -63,19 +64,32 @@ img {
 
 
 /* =========================================================
-   2. ACCESSIBILITY
+   ACCESSIBILITY
    ========================================================= */
 
 button:focus-visible,
 input:focus-visible,
-a:focus-visible {
-  outline: 3px solid rgba(37, 99, 235, 0.3);
+a:focus-visible,
+.answer-option:focus-visible {
+  outline: 4px solid
+    color-mix(in srgb, var(--focus) 70%, white);
   outline-offset: 3px;
 }
 
 
 /* =========================================================
-   3. SCREEN VISIBILITY
+   MAIN LAYOUT
+   ========================================================= */
+
+.quiz-app {
+  width: min(900px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+
+/* =========================================================
+   SCREEN VISIBILITY
    ========================================================= */
 
 .screen {
@@ -96,216 +110,254 @@ a:focus-visible {
 
 
 /* =========================================================
-   4. MAIN QUIZ LAYOUT
+   CARDS
    ========================================================= */
 
-.quiz-app {
-  width: min(100% - 32px, 820px);
-  margin: 0 auto;
-  padding: 48px 0 72px;
+.card {
+  border: 1px solid rgba(216, 224, 234, 0.9);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  box-shadow: var(--shadow);
 }
 
-.card {
-  padding: 34px;
-  border: 1px solid #dce5ef;
-  border-radius: 22px;
-  background: #ffffff;
-  box-shadow:
-    0 18px 45px rgba(28, 45, 78, 0.1);
+.start-card,
+.result-card {
+  max-width: 720px;
+  margin: 48px auto 0;
+  padding: clamp(28px, 5vw, 56px);
+  text-align: center;
 }
 
 
 /* =========================================================
-   5. START SCREEN
+   HEADINGS AND TEXT
    ========================================================= */
 
-.start-card {
-  max-width: 700px;
-  margin: 40px auto 0;
-  text-align: center;
-}
-
-.eyebrow {
-  margin: 0 0 10px;
-  color: #2563eb;
-  font-size: 0.86rem;
+.eyebrow,
+.question-number,
+.progress-label {
+  margin: 0;
+  color: var(--primary);
+  font-size: 0.83rem;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.start-card h1 {
-  margin: 0;
-  color: #13203a;
-  font-size: clamp(2rem, 5vw, 3.25rem);
-  line-height: 1.12;
+h1,
+h2,
+h3,
+h4,
+p {
+  overflow-wrap: anywhere;
 }
 
-.intro-text {
-  max-width: 590px;
-  margin: 18px auto 0;
-  color: #516078;
+h1 {
+  margin: 12px 0 16px;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  line-height: 1.08;
+}
+
+h2 {
+  margin: 10px 0 24px;
+  font-size: clamp(1.45rem, 3vw, 2.15rem);
+  line-height: 1.25;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.intro-text,
+.result-message {
+  color: var(--muted);
   font-size: 1.08rem;
   line-height: 1.7;
 }
 
+
+/* =========================================================
+   QUIZ SUMMARY
+   ========================================================= */
+
 .quiz-summary {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 14px;
+  gap: 12px;
   margin: 32px 0;
 }
 
 .quiz-summary > div {
-  padding: 18px 12px;
-  border: 1px solid #dfe7f1;
-  border-radius: 15px;
+  padding: 18px 10px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
   background: #f8fafc;
 }
 
-.summary-number {
+.summary-number,
+.summary-label {
   display: block;
-  color: #1d4ed8;
-  font-size: 1.75rem;
+}
+
+.summary-number {
+  font-size: 1.6rem;
   font-weight: 800;
 }
 
 .summary-label {
-  display: block;
-  margin-top: 4px;
-  color: #64748b;
-  font-size: 0.9rem;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 0.86rem;
 }
 
 
 /* =========================================================
-   6. QUIZ HEADER
+   GENERAL BUTTONS
+   ========================================================= */
+
+.button {
+  min-height: 48px;
+  padding: 12px 22px;
+  border: 0;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 800;
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    opacity 160ms ease;
+}
+
+.button:hover:not(:disabled) {
+  transform: translateY(-1px);
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.button-primary {
+  color: #ffffff;
+  background: var(--primary);
+}
+
+.button-primary:hover:not(:disabled) {
+  background: var(--primary-hover);
+}
+
+.button-secondary {
+  color: var(--text);
+  background: #edf2f7;
+}
+
+.button-secondary:hover:not(:disabled) {
+  background: #e2e8f0;
+}
+
+
+/* =========================================================
+   QUIZ HEADER AND PROGRESS
    ========================================================= */
 
 .quiz-header {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
   gap: 24px;
-  margin-bottom: 18px;
-}
-
-.quiz-header > div {
-  flex: 1;
-}
-
-.progress-label {
-  margin: 0 0 8px;
-  color: #475569;
-  font-size: 0.94rem;
-  font-weight: 700;
+  margin: 16px 0 20px;
 }
 
 .progress-track {
   width: 100%;
   height: 10px;
+  margin-top: 9px;
   overflow: hidden;
   border-radius: 999px;
-  background: #dbe5f1;
+  background: #dfe7f1;
 }
 
 .progress-bar {
   width: 0;
   height: 100%;
   border-radius: inherit;
-  background:
-    linear-gradient(
-      90deg,
-      #2563eb,
-      #14b8a6
-    );
-  transition: width 0.3s ease;
+  background: var(--primary);
+  transition: width 250ms ease;
 }
 
 .score-display {
-  flex-shrink: 0;
   margin: 0;
-  padding: 10px 14px;
-  border: 1px solid #dce6f2;
-  border-radius: 12px;
-  color: #334155;
-  background: #ffffff;
-  font-size: 0.98rem;
-}
-
-.score-display strong {
-  color: #1d4ed8;
+  color: var(--muted);
+  white-space: nowrap;
 }
 
 
 /* =========================================================
-   7. QUESTION CARD
+   QUESTION CARD
    ========================================================= */
 
 .question-card {
-  position: relative;
-}
-
-.question-number {
-  margin: 0 0 10px;
-  color: #2563eb;
-  font-size: 0.9rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.question-card h2 {
-  margin: 0;
-  color: #172033;
-  font-size: clamp(1.35rem, 3vw, 2rem);
-  line-height: 1.35;
+  padding: clamp(24px, 5vw, 48px);
 }
 
 .question-hint {
   margin: 0 0 14px;
-  color: #64748b;
-  font-size: 0.96rem;
-  line-height: 1.5;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
 }
 
 
 /* =========================================================
-   8. ANSWER LIST
+   ANSWER LIST
    ========================================================= */
 
 .answer-list {
   display: grid;
-  gap: 13px;
-  margin-top: 26px;
+  gap: 12px;
 }
 
 .answer-option {
-  display: flex;
-  width: 100%;
-  min-height: 60px;
+  display: grid;
+  grid-template-columns: 36px 1fr;
   align-items: center;
   gap: 14px;
-  padding: 13px 16px;
-  border: 2px solid #dce5ef;
+  width: 100%;
+  padding: 16px;
+  border: 2px solid var(--border);
   border-radius: 14px;
-  color: #24324a;
+  color: var(--text);
   background: #ffffff;
   cursor: pointer;
   text-align: left;
   transition:
-    border-color 0.16s ease,
-    background-color 0.16s ease,
-    transform 0.16s ease,
-    box-shadow 0.16s ease;
+    border-color 150ms ease,
+    background 150ms ease,
+    transform 150ms ease;
 }
 
 .answer-option:hover:not(:disabled) {
-  border-color: #93b4ed;
-  background: #f6f9ff;
-  box-shadow:
-    0 8px 18px rgba(37, 99, 235, 0.08);
+  border-color: var(--primary);
   transform: translateY(-1px);
+}
+
+/* Supports both the original and newer JavaScript */
+
+.answer-option[aria-checked="true"],
+.answer-option[aria-pressed="true"],
+.answer-option.is-selected {
+  border-color: var(--primary);
+  background: #eef4ff;
+}
+
+.answer-option.is-correct {
+  border-color: var(--success);
+  background: var(--success-bg);
+}
+
+.answer-option.is-wrong {
+  border-color: var(--danger);
+  background: var(--danger-bg);
 }
 
 .answer-option:disabled {
@@ -314,51 +366,35 @@ a:focus-visible {
 
 .answer-letter {
   display: grid;
-  flex: 0 0 38px;
-  width: 38px;
-  height: 38px;
+  width: 34px;
+  height: 34px;
   place-items: center;
-  border-radius: 10px;
-  color: #1d4ed8;
-  background: #eaf1ff;
+  border-radius: 50%;
+  color: var(--primary);
+  background: #edf3ff;
   font-weight: 800;
 }
 
-.answer-option.is-selected {
-  border-color: #2563eb;
-  background: #eff6ff;
-  box-shadow:
-    0 0 0 3px rgba(37, 99, 235, 0.1);
-}
-
+.answer-option[aria-checked="true"] .answer-letter,
+.answer-option[aria-pressed="true"] .answer-letter,
 .answer-option.is-selected .answer-letter {
   color: #ffffff;
-  background: #2563eb;
-}
-
-.answer-option.is-correct {
-  border-color: #16a34a;
-  background: #ecfdf3;
+  background: var(--primary);
 }
 
 .answer-option.is-correct .answer-letter {
   color: #ffffff;
-  background: #16a34a;
-}
-
-.answer-option.is-wrong {
-  border-color: #dc2626;
-  background: #fff1f2;
+  background: var(--success);
 }
 
 .answer-option.is-wrong .answer-letter {
   color: #ffffff;
-  background: #dc2626;
+  background: var(--danger);
 }
 
 
 /* =========================================================
-   9. TEXT AND NUMBER INPUTS
+   TEXT AND NUMBER ANSWERS
    ========================================================= */
 
 .quiz-input {
@@ -366,54 +402,53 @@ a:focus-visible {
   max-width: 520px;
   min-height: 54px;
   padding: 13px 16px;
-  border: 2px solid #cbd5e1;
+  border: 2px solid var(--border);
   border-radius: 12px;
-  color: #172033;
+  color: var(--text);
   background: #ffffff;
   font-size: 1.05rem;
   transition:
-    border-color 0.16s ease,
-    box-shadow 0.16s ease,
-    background-color 0.16s ease;
+    border-color 150ms ease,
+    background 150ms ease,
+    box-shadow 150ms ease;
 }
 
 .quiz-input::placeholder {
-  color: #94a3b8;
+  color: #98a2b3;
 }
 
 .quiz-input:focus {
-  border-color: #2563eb;
+  border-color: var(--primary);
   outline: none;
-  box-shadow:
-    0 0 0 4px rgba(37, 99, 235, 0.12);
+  box-shadow: 0 0 0 4px rgba(36, 87, 214, 0.12);
 }
 
 .quiz-input:disabled {
-  color: #475569;
-  background: #f1f5f9;
+  color: var(--text);
+  opacity: 1;
 }
 
 .quiz-input.is-correct-input,
 .is-correct-input {
-  border-color: #16a34a !important;
-  background: #ecfdf3 !important;
+  border-color: var(--success) !important;
+  background: var(--success-bg) !important;
 }
 
 .quiz-input.is-wrong-input,
 .is-wrong-input {
-  border-color: #dc2626 !important;
-  background: #fff1f2 !important;
+  border-color: var(--danger) !important;
+  background: var(--danger-bg) !important;
 }
 
 
 /* =========================================================
-   10. FILL-IN-THE-BLANK
+   FILL-IN-THE-BLANK
    ========================================================= */
 
 .fill-blank-container {
-  display: block;
-  color: #24324a;
-  font-size: 1.15rem;
+  padding: 14px 0;
+  color: var(--text);
+  font-size: 1.14rem;
   line-height: 2.7;
 }
 
@@ -423,36 +458,46 @@ a:focus-visible {
   margin: 0 8px;
   padding: 8px 10px;
   border: 0;
-  border-bottom: 3px solid #94a3b8;
+  border-bottom: 3px solid #98a2b3;
   border-radius: 6px 6px 0 0;
-  color: #172033;
+  color: var(--text);
   background: #f8fafc;
   font: inherit;
   text-align: center;
   transition:
-    border-color 0.16s ease,
-    background-color 0.16s ease;
+    border-color 150ms ease,
+    background 150ms ease;
 }
 
 .fill-blank-input::placeholder {
-  color: #94a3b8;
-  font-size: 0.9rem;
+  color: #98a2b3;
+  font-size: 0.88rem;
 }
 
 .fill-blank-input:focus {
-  border-bottom-color: #2563eb;
+  border-bottom-color: var(--primary);
   outline: none;
-  background: #eff6ff;
+  background: #eef4ff;
 }
 
 .fill-blank-input:disabled {
-  color: #334155;
+  color: var(--text);
   opacity: 1;
+}
+
+.fill-blank-input.is-correct-input {
+  border-bottom-color: var(--success) !important;
+  background: var(--success-bg) !important;
+}
+
+.fill-blank-input.is-wrong-input {
+  border-bottom-color: var(--danger) !important;
+  background: var(--danger-bg) !important;
 }
 
 
 /* =========================================================
-   11. QUESTION IMAGES
+   QUESTION IMAGES
    ========================================================= */
 
 .question-image {
@@ -461,21 +506,21 @@ a:focus-visible {
   max-width: 100%;
   max-height: 340px;
   margin: 0 auto 22px;
-  border: 1px solid #dce5ef;
+  border: 1px solid var(--border);
   border-radius: 14px;
   object-fit: contain;
 }
 
 
 /* =========================================================
-   12. ARROW ORDERING QUESTIONS
+   ORDERING WITH ARROWS
    ========================================================= */
 
 .order-list {
   display: grid;
-  gap: 11px;
-  margin: 4px 0 0;
-  padding-left: 28px;
+  gap: 12px;
+  margin: 0;
+  padding-left: 30px;
 }
 
 .order-item {
@@ -484,14 +529,17 @@ a:focus-visible {
   align-items: center;
   justify-content: space-between;
   gap: 14px;
-  padding: 11px 13px;
-  border: 2px solid #dce5ef;
-  border-radius: 12px;
+  padding: 13px 15px;
+  border: 2px solid var(--border);
+  border-radius: 14px;
   background: #ffffff;
+  transition:
+    border-color 150ms ease,
+    background 150ms ease;
 }
 
 .order-item::marker {
-  color: #2563eb;
+  color: var(--primary);
   font-weight: 800;
 }
 
@@ -506,70 +554,70 @@ a:focus-visible {
   width: 42px;
   height: 38px;
   place-items: center;
-  border: 1px solid #aebdce;
-  border-radius: 8px;
-  color: #1e3a5f;
-  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--primary);
+  background: #edf3ff;
   cursor: pointer;
   font-weight: 800;
   transition:
-    border-color 0.15s ease,
-    background-color 0.15s ease;
+    border-color 150ms ease,
+    background 150ms ease;
 }
 
 .order-button:hover:not(:disabled) {
-  border-color: #2563eb;
-  background: #eaf1ff;
+  border-color: var(--primary);
+  background: #dfe9ff;
 }
 
 .order-button:disabled {
   cursor: not-allowed;
-  opacity: 0.42;
+  opacity: 0.4;
 }
 
 .order-list.is-correct-order .order-item {
-  border-color: #16a34a;
-  background: #ecfdf3;
+  border-color: var(--success);
+  background: var(--success-bg);
 }
 
 .order-list.is-wrong-order .order-item {
-  border-color: #dc2626;
-  background: #fff1f2;
+  border-color: var(--danger);
+  background: var(--danger-bg);
 }
 
 
 /* =========================================================
-   13. DRAG-AND-DROP QUESTIONS
+   DRAG AND DROP
    ========================================================= */
 
 .drag-list {
   display: grid;
   gap: 12px;
-  margin: 4px 0 0;
+  margin: 0;
   padding: 0;
   list-style: none;
 }
 
 .drag-item {
   display: flex;
-  min-height: 58px;
+  min-height: 60px;
   align-items: center;
   gap: 14px;
-  padding: 12px 14px;
-  border: 2px solid #dce5ef;
-  border-radius: 12px;
+  padding: 14px 16px;
+  border: 2px solid var(--border);
+  border-radius: 14px;
   background: #ffffff;
   cursor: grab;
   user-select: none;
   transition:
-    border-color 0.15s ease,
-    background-color 0.15s ease,
-    opacity 0.15s ease,
-    transform 0.15s ease;
+    border-color 150ms ease,
+    background 150ms ease,
+    opacity 150ms ease,
+    transform 150ms ease;
 }
 
 .drag-item:hover {
-  border-color: #a9bee0;
+  border-color: var(--primary);
 }
 
 .drag-item:active {
@@ -582,48 +630,48 @@ a:focus-visible {
 }
 
 .drag-item.drag-over {
-  border-color: #2563eb;
-  background: #eff6ff;
+  border-color: var(--primary);
+  background: #eef4ff;
 }
 
 .drag-handle {
   flex-shrink: 0;
-  color: #64748b;
-  font-size: 1.25rem;
+  color: var(--primary);
+  font-size: 1.3rem;
   font-weight: 800;
 }
 
 .drag-item-text {
   flex: 1;
-  color: #24324a;
+  color: var(--text);
   font-weight: 600;
 }
 
 .drag-fallback-controls {
   display: flex;
   flex-shrink: 0;
-  gap: 7px;
+  gap: 8px;
 }
 
 .drag-move-button {
   display: grid;
-  width: 40px;
-  height: 36px;
+  width: 42px;
+  height: 38px;
   place-items: center;
-  border: 1px solid #aebdce;
-  border-radius: 8px;
-  color: #1e3a5f;
-  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--primary);
+  background: #edf3ff;
   cursor: pointer;
   font-weight: 800;
   transition:
-    border-color 0.15s ease,
-    background-color 0.15s ease;
+    border-color 150ms ease,
+    background 150ms ease;
 }
 
 .drag-move-button:hover:not(:disabled) {
-  border-color: #2563eb;
-  background: #eaf1ff;
+  border-color: var(--primary);
+  background: #dfe9ff;
 }
 
 .drag-move-button:disabled {
@@ -632,151 +680,55 @@ a:focus-visible {
 }
 
 .drag-list.is-correct-order .drag-item {
-  border-color: #16a34a;
-  background: #ecfdf3;
+  border-color: var(--success);
+  background: var(--success-bg);
 }
 
 .drag-list.is-wrong-order .drag-item {
-  border-color: #dc2626;
-  background: #fff1f2;
+  border-color: var(--danger);
+  background: var(--danger-bg);
 }
 
 
 /* =========================================================
-   14. FEEDBACK
+   FEEDBACK
    ========================================================= */
 
 .feedback {
   min-height: 0;
-  margin-top: 20px;
-  padding: 0;
+  margin-top: 0;
   border-radius: 12px;
   line-height: 1.55;
 }
 
 .feedback:not(:empty) {
-  padding: 14px 16px;
+  min-height: 58px;
+  margin-top: 20px;
+  padding: 15px 17px;
 }
 
 .feedback.correct {
-  border: 1px solid #86efac;
-  color: #166534;
-  background: #ecfdf3;
+  color: var(--success);
+  background: var(--success-bg);
 }
 
 .feedback.incorrect {
-  border: 1px solid #fda4af;
-  color: #9f1239;
-  background: #fff1f2;
+  color: var(--danger);
+  background: var(--danger-bg);
 }
 
 
 /* =========================================================
-   15. BUTTONS
+   ACTION BUTTONS
    ========================================================= */
 
 .actions,
 .result-actions {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-end;
   gap: 12px;
   margin-top: 24px;
-}
-
-.button {
-  display: inline-flex;
-  min-height: 48px;
-  align-items: center;
-  justify-content: center;
-  padding: 11px 22px;
-  border: 0;
-  border-radius: 11px;
-  cursor: pointer;
-  font-weight: 800;
-  text-decoration: none;
-  transition:
-    transform 0.15s ease,
-    box-shadow 0.15s ease,
-    background-color 0.15s ease;
-}
-
-.button:hover:not(:disabled) {
-  transform: translateY(-1px);
-}
-
-.button:disabled {
-  cursor: not-allowed;
-  opacity: 0.5;
-}
-
-.button-primary {
-  color: #ffffff;
-  background: #2563eb;
-  box-shadow:
-    0 8px 18px rgba(37, 99, 235, 0.2);
-}
-
-.button-primary:hover:not(:disabled) {
-  background: #1d4ed8;
-  box-shadow:
-    0 10px 22px rgba(37, 99, 235, 0.26);
-}
-
-.button-secondary {
-  border: 1px solid #c9d5e4;
-  color: #1e3a5f;
-  background: #f8fafc;
-}
-
-.button-secondary:hover:not(:disabled) {
-  background: #eef4fb;
-}
-
-
-/* =========================================================
-   16. RESULTS SCREEN
-   ========================================================= */
-
-.result-card {
-  max-width: 700px;
-  margin: 40px auto 0;
-  text-align: center;
-}
-
-.result-card h2 {
-  margin: 0;
-  color: #172033;
-  font-size: clamp(1.8rem, 4vw, 2.65rem);
-}
-
-.result-circle {
-  display: grid;
-  width: 150px;
-  height: 150px;
-  margin: 28px auto 20px;
-  place-items: center;
-  border: 10px solid #dbeafe;
-  border-radius: 50%;
-  color: #1d4ed8;
-  background: #f8fbff;
-}
-
-.result-circle span {
-  font-size: 2.2rem;
-  font-weight: 900;
-}
-
-.result-score {
-  margin: 14px 0 0;
-  color: #334155;
-  font-size: 1.14rem;
-}
-
-.result-message {
-  max-width: 560px;
-  margin: 14px auto 0;
-  color: #64748b;
-  line-height: 1.65;
 }
 
 .result-actions {
@@ -785,54 +737,63 @@ a:focus-visible {
 
 
 /* =========================================================
-   17. ANSWER REVIEW
+   RESULTS
+   ========================================================= */
+
+.result-circle {
+  display: grid;
+  width: 150px;
+  height: 150px;
+  margin: 28px auto 18px;
+  place-items: center;
+  border: 12px solid #dbe7ff;
+  border-radius: 50%;
+  color: var(--primary);
+  background: #f7faff;
+  font-size: 2.1rem;
+  font-weight: 900;
+}
+
+.result-score {
+  font-size: 1.15rem;
+}
+
+
+/* =========================================================
+   ANSWER REVIEW
    ========================================================= */
 
 .review-section {
-  margin-top: 34px;
-  padding-top: 28px;
-  border-top: 1px solid #dce5ef;
+  margin-top: 36px;
+  padding-top: 30px;
+  border-top: 1px solid var(--border);
   text-align: left;
 }
 
-.review-section h3 {
-  margin: 0 0 18px;
-  color: #172033;
-  font-size: 1.4rem;
-}
-
-#reviewList {
-  display: grid;
-  gap: 14px;
-}
-
 .review-item {
-  padding: 17px;
-  border: 1px solid #dce5ef;
-  border-left-width: 5px;
-  border-radius: 12px;
-  background: #ffffff;
+  margin-top: 16px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fbfcfe;
 }
 
 .review-item.correct {
-  border-left-color: #16a34a;
+  border-left: 5px solid var(--success);
 }
 
 .review-item.incorrect {
-  border-left-color: #dc2626;
+  border-left: 5px solid var(--danger);
 }
 
 .review-item h4 {
-  margin: 0 0 10px;
-  color: #1e293b;
-  font-size: 1rem;
-  line-height: 1.5;
+  margin: 0 0 8px;
 }
 
 .review-item p {
   margin: 7px 0 0;
-  color: #526176;
-  line-height: 1.55;
+  color: var(--muted);
+  line-height: 1.5;
 }
 
 .review-status {
@@ -840,22 +801,22 @@ a:focus-visible {
 }
 
 .review-item.correct .review-status {
-  color: #15803d;
+  color: var(--success);
 }
 
 .review-item.incorrect .review-status {
-  color: #be123c;
+  color: var(--danger);
 }
 
 
 /* =========================================================
-   18. BACK LINK
+   OPTIONAL BACK LINK
    ========================================================= */
 
 .quiz-back-link {
   display: inline-flex;
   margin-bottom: 18px;
-  color: #1d4ed8;
+  color: var(--primary);
   font-weight: 700;
   text-decoration: none;
 }
@@ -866,18 +827,13 @@ a:focus-visible {
 
 
 /* =========================================================
-   19. MOBILE
+   MOBILE
    ========================================================= */
 
-@media (max-width: 680px) {
+@media (max-width: 640px) {
   .quiz-app {
-    width: min(100% - 22px, 820px);
-    padding: 24px 0 44px;
-  }
-
-  .card {
-    padding: 22px 18px;
-    border-radius: 17px;
+    width: min(100% - 20px, 900px);
+    padding: 18px 0 30px;
   }
 
   .start-card,
@@ -887,57 +843,24 @@ a:focus-visible {
 
   .quiz-summary {
     grid-template-columns: 1fr;
-    gap: 9px;
-    margin: 24px 0;
-  }
-
-  .quiz-summary > div {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 13px 15px;
-  }
-
-  .summary-number {
-    font-size: 1.35rem;
   }
 
   .quiz-header {
-    align-items: stretch;
-    flex-direction: column;
-    gap: 12px;
+    grid-template-columns: 1fr;
+    gap: 10px;
   }
 
   .score-display {
-    align-self: flex-start;
+    text-align: right;
   }
 
-  .question-card h2 {
-    font-size: 1.35rem;
-  }
-
-  .answer-option {
-    min-height: 56px;
-    padding: 11px 12px;
-  }
-
-  .answer-letter {
-    flex-basis: 34px;
-    width: 34px;
-    height: 34px;
-  }
-
-  .actions,
-  .result-actions {
-    flex-direction: column;
-  }
-
-  .button {
+  .actions .button,
+  .result-actions .button {
     width: 100%;
   }
 
   .fill-blank-container {
-    font-size: 1.05rem;
+    font-size: 1.04rem;
     line-height: 3;
   }
 
@@ -948,8 +871,8 @@ a:focus-visible {
 
   .order-item,
   .drag-item {
-    align-items: center;
     gap: 10px;
+    padding: 12px;
   }
 
   .order-controls,
@@ -962,53 +885,35 @@ a:focus-visible {
     width: 38px;
     height: 36px;
   }
-
-  .result-circle {
-    width: 130px;
-    height: 130px;
-  }
 }
 
 
 /* =========================================================
-   20. VERY SMALL SCREENS
+   VERY SMALL SCREENS
    ========================================================= */
 
 @media (max-width: 420px) {
-  .quiz-app {
-    width: min(100% - 16px, 820px);
-  }
-
-  .card {
-    padding: 20px 14px;
-  }
-
-  .answer-option {
-    gap: 10px;
-  }
-
-  .fill-blank-input {
-    display: inline-block;
-    width: 100px;
-  }
-
   .drag-item {
     flex-wrap: wrap;
   }
 
   .drag-item-text {
-    min-width: calc(100% - 45px);
+    min-width: calc(100% - 48px);
   }
 
   .drag-fallback-controls {
     width: 100%;
     justify-content: flex-end;
   }
+
+  .fill-blank-input {
+    width: 100px;
+  }
 }
 
 
 /* =========================================================
-   21. REDUCED MOTION
+   REDUCED MOTION
    ========================================================= */
 
 @media (prefers-reduced-motion: reduce) {
@@ -1016,8 +921,6 @@ a:focus-visible {
   *::before,
   *::after {
     scroll-behavior: auto !important;
-    transition-duration: 0.01ms !important;
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
+    transition: none !important;
   }
 }
