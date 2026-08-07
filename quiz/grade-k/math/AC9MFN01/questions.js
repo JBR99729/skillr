@@ -1,267 +1,409 @@
 "use strict";
 
+/* =========================================================
+   AC9MFN01 — NUMBERS TO 20
+   FOUNDATION MATHEMATICS
+
+   Clean working question bank
+   30 questions
+   5 random questions per attempt
+   ========================================================= */
+
 window.quizQuestions = [
-  /* =====================================================
-     1. SINGLE-ANSWER MULTIPLE CHOICE
-     ===================================================== */
+
+  /* =======================================================
+     NUMBER RECOGNITION
+     ======================================================= */
 
   {
     type: "single",
-
-    question: "Which number comes after 4?",
-
+    question: "Which numeral is three?",
     answers: [
+      "2",
       "3",
-      "5",
-      "6",
-      "7"
+      "4"
     ],
-
     correct: 1,
+    explanation: "The numeral for three is 3."
+  },
 
-    explanation:
-      "The number immediately after 4 is 5."
+  {
+    type: "single",
+    question: "Which numeral is five?",
+    answers: [
+      "4",
+      "5",
+      "6"
+    ],
+    correct: 1,
+    explanation: "The numeral for five is 5."
+  },
+
+  {
+    type: "single",
+    question: "Which numeral is eight?",
+    answers: [
+      "6",
+      "8",
+      "9"
+    ],
+    correct: 1,
+    explanation: "The numeral for eight is 8."
+  },
+
+  {
+    type: "single",
+    question: "Which numeral is twelve?",
+    answers: [
+      "10",
+      "12",
+      "14"
+    ],
+    correct: 1,
+    explanation: "The numeral for twelve is 12."
+  },
+
+  {
+    type: "single",
+    question: "Which numeral is seventeen?",
+    answers: [
+      "16",
+      "17",
+      "18"
+    ],
+    correct: 1,
+    explanation: "The numeral for seventeen is 17."
   },
 
 
-  /* =====================================================
-     2. TRUE OR FALSE
-     ===================================================== */
+  /* =======================================================
+     ZERO
+     ======================================================= */
+
+  {
+    type: "single",
+    question: "Which numeral means zero objects?",
+    answers: [
+      "0",
+      "1",
+      "2"
+    ],
+    correct: 0,
+    explanation: "0 represents no objects."
+  },
 
   {
     type: "true-false",
-
-    question:
-      "True or false: 3 is greater than 5.",
-
+    question: "Zero can be written as 0.",
     answers: [
       "True",
       "False"
     ],
-
-    correct: 1,
-
-    explanation:
-      "3 is less than 5, so the statement is false."
+    correct: 0,
+    explanation: "True. The numeral for zero is 0."
   },
-
-
-  /* =====================================================
-     3. SELECT MORE THAN ONE ANSWER
-     ===================================================== */
-
-  {
-    type: "multiple",
-
-    question:
-      "Select all the groups that contain exactly 3 objects.",
-
-    instruction:
-      "More than one answer is correct.",
-
-    answers: [
-      "● ● ●",
-      "★ ★",
-      "▲ ▲ ▲",
-      "■ ■ ■ ■"
-    ],
-
-    correct: [0, 2],
-
-    explanation:
-      "The first and third groups each contain exactly 3 objects."
-  },
-
-
-  /* =====================================================
-     4. TYPE A WORD
-     ===================================================== */
-
-  {
-    type: "text",
-
-    question:
-      "Type the number word for 5.",
-
-    placeholder:
-      "Type your answer",
-
-    acceptedAnswers: [
-      "five",
-      "Five"
-    ],
-
-    explanation:
-      "The number word for 5 is five."
-  },
-
-
-  /* =====================================================
-     5. TYPE A NUMBER
-     ===================================================== */
 
   {
     type: "number",
-
-    question:
-      "How many stars are shown? ★ ★ ★ ★",
-
-    placeholder:
-      "Enter a number",
-
-    correct: 4,
-
+    question: "There are no stars in the box. How many stars are there?",
+    placeholder: "Type the number",
+    correct: 0,
     tolerance: 0,
-
-    explanation:
-      "There are 4 stars."
+    explanation: "There are 0 stars."
   },
 
 
-  /* =====================================================
-     6. FILL IN ONE BLANK
-     ===================================================== */
+  /* =======================================================
+     REPRESENTING NUMBERS
+     ======================================================= */
+
+  {
+    type: "number",
+    question: "How many circles are shown?",
+    visual: "🔵 🔵 🔵",
+    placeholder: "Type the number",
+    correct: 3,
+    tolerance: 0,
+    explanation: "There are 3 circles."
+  },
+
+  {
+    type: "number",
+    question: "How many stars are shown?",
+    visual: "⭐ ⭐ ⭐ ⭐ ⭐",
+    placeholder: "Type the number",
+    correct: 5,
+    tolerance: 0,
+    explanation: "There are 5 stars."
+  },
+
+  {
+    type: "number",
+    question: "How many apples are shown?",
+    visual: "🍎 🍎 🍎 🍎 🍎 🍎 🍎",
+    placeholder: "Type the number",
+    correct: 7,
+    tolerance: 0,
+    explanation: "There are 7 apples."
+  },
+
+  {
+    type: "single",
+    question: "Which group represents 4?",
+    answers: [
+      "⭐ ⭐ ⭐",
+      "⭐ ⭐ ⭐ ⭐",
+      "⭐ ⭐ ⭐ ⭐ ⭐"
+    ],
+    correct: 1,
+    explanation: "Four stars represent the number 4."
+  },
+
+  {
+    type: "single",
+    question: "Which group represents 6?",
+    answers: [
+      "● ● ● ● ●",
+      "● ● ● ● ● ●",
+      "● ● ● ● ● ● ●"
+    ],
+    correct: 1,
+    explanation: "Six dots represent the number 6."
+  },
+
+
+  /* =======================================================
+     BEFORE AND AFTER
+     ======================================================= */
+
+  {
+    type: "number",
+    question: "What number comes after 4?",
+    placeholder: "Type the number",
+    correct: 5,
+    tolerance: 0,
+    explanation: "5 comes after 4."
+  },
+
+  {
+    type: "number",
+    question: "What number comes after 9?",
+    placeholder: "Type the number",
+    correct: 10,
+    tolerance: 0,
+    explanation: "10 comes after 9."
+  },
+
+  {
+    type: "number",
+    question: "What number comes after 19?",
+    placeholder: "Type the number",
+    correct: 20,
+    tolerance: 0,
+    explanation: "20 comes after 19."
+  },
+
+  {
+    type: "number",
+    question: "What number comes before 6?",
+    placeholder: "Type the number",
+    correct: 5,
+    tolerance: 0,
+    explanation: "5 comes before 6."
+  },
+
+  {
+    type: "number",
+    question: "What number comes before 10?",
+    placeholder: "Type the number",
+    correct: 9,
+    tolerance: 0,
+    explanation: "9 comes before 10."
+  },
+
+  {
+    type: "number",
+    question: "What number comes before 20?",
+    placeholder: "Type the number",
+    correct: 19,
+    tolerance: 0,
+    explanation: "19 comes before 20."
+  },
+
+
+  /* =======================================================
+     MISSING NUMBERS
+     ======================================================= */
 
   {
     type: "fill-blank",
-
-    question:
-      "Complete the sentence.",
-
-    template:
-      "The number after 4 is {{blank}}.",
-
-    placeholder:
-      "answer",
-
+    question: "Find the missing number.",
+    template: "2, 3, {{blank}}, 5",
+    placeholder: "?",
     acceptedAnswers: [
-      ["5", "five"]
+      ["4", "four"]
     ],
-
-    explanation:
-      "The number immediately after 4 is 5."
+    explanation: "4 comes between 3 and 5."
   },
-
-
-  /* =====================================================
-     7. FILL IN TWO BLANKS
-     ===================================================== */
 
   {
     type: "fill-blank",
-
-    question:
-      "Complete the number sentence.",
-
-    template:
-      "{{blank}} + {{blank}} = 5",
-
-    placeholders: [
-      "first number",
-      "second number"
-    ],
-
+    question: "Find the missing number.",
+    template: "6, 7, {{blank}}, 9",
+    placeholder: "?",
     acceptedAnswers: [
-      ["2", "two"],
-      ["3", "three"]
+      ["8", "eight"]
     ],
-
-    explanation:
-      "2 + 3 = 5."
+    explanation: "8 comes between 7 and 9."
   },
-
-
-  /* =====================================================
-     8. ORDER USING ARROW BUTTONS
-     ===================================================== */
 
   {
-    type: "order",
-
-    question:
-      "Put the numbers in order from smallest to largest.",
-
-    instruction:
-      "Use the arrow buttons to move the numbers.",
-
-    items: [
-      "4",
-      "1",
-      "3",
-      "2"
+    type: "fill-blank",
+    question: "Find the missing number.",
+    template: "11, 12, {{blank}}, 14",
+    placeholder: "?",
+    acceptedAnswers: [
+      ["13", "thirteen"]
     ],
-
-    correct: [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-
-    explanation:
-      "The correct order is 1, 2, 3, 4."
+    explanation: "13 comes between 12 and 14."
   },
-
-
-  /* =====================================================
-     9. DRAG-AND-DROP ORDERING
-     ===================================================== */
 
   {
-    type: "drag-drop",
-
-    question:
-      "Arrange the numbers from largest to smallest.",
-
-    instruction:
-      "Drag the items into order. On a touchscreen, use the arrows.",
-
-    items: [
-      "2",
-      "5",
-      "1",
-      "4"
+    type: "fill-blank",
+    question: "Find the missing number.",
+    template: "17, {{blank}}, 19, 20",
+    placeholder: "?",
+    acceptedAnswers: [
+      ["18", "eighteen"]
     ],
-
-    correct: [
-      "5",
-      "4",
-      "2",
-      "1"
-    ],
-
-    explanation:
-      "From largest to smallest, the order is 5, 4, 2, 1."
+    explanation: "18 comes between 17 and 19."
   },
 
 
-  /* =====================================================
-     10. ANOTHER TYPED RESPONSE
-     ===================================================== */
+  /* =======================================================
+     NUMBER NAMES
+     ======================================================= */
 
   {
     type: "text",
-
-    question:
-      "What number is missing? 1, 2, ___, 4, 5",
-
-    placeholder:
-      "Type the missing number",
-
+    question: "Write the number name for 4.",
+    placeholder: "Type the number name",
     acceptedAnswers: [
-      "3",
-      "three"
+      "four",
+      "4"
     ],
+    explanation: "4 is called four."
+  },
 
-    explanation:
-      "The missing number between 2 and 4 is 3."
+  {
+    type: "text",
+    question: "Write the number name for 10.",
+    placeholder: "Type the number name",
+    acceptedAnswers: [
+      "ten",
+      "10"
+    ],
+    explanation: "10 is called ten."
+  },
+
+  {
+    type: "text",
+    question: "Write the number name for 15.",
+    placeholder: "Type the number name",
+    acceptedAnswers: [
+      "fifteen",
+      "15"
+    ],
+    explanation: "15 is called fifteen."
+  },
+
+
+  /* =======================================================
+     ORDERING NUMBERS
+     ======================================================= */
+
+  {
+    type: "order",
+    question: "Put these numbers in order from smallest to largest.",
+    items: [
+      "3",
+      "1",
+      "2"
+    ],
+    correct: [
+      "1",
+      "2",
+      "3"
+    ],
+    explanation: "The correct order is 1, 2, 3."
+  },
+
+  {
+    type: "order",
+    question: "Put these numbers in order from smallest to largest.",
+    items: [
+      "8",
+      "6",
+      "7"
+    ],
+    correct: [
+      "6",
+      "7",
+      "8"
+    ],
+    explanation: "The correct order is 6, 7, 8."
+  },
+
+  {
+    type: "order",
+    question: "Put these numbers in order from smallest to largest.",
+    items: [
+      "14",
+      "12",
+      "13"
+    ],
+    correct: [
+      "12",
+      "13",
+      "14"
+    ],
+    explanation: "The correct order is 12, 13, 14."
+  },
+
+  {
+    type: "order",
+    question: "Put these numbers in order from smallest to largest.",
+    items: [
+      "20",
+      "18",
+      "19"
+    ],
+    correct: [
+      "18",
+      "19",
+      "20"
+    ],
+    explanation: "The correct order is 18, 19, 20."
   }
+
 ];
 
 
+/* =========================================================
+   QUIZ SETTINGS
+   ========================================================= */
+
 window.quizConfig = {
-  shuffleQuestions: false,
+
+  shuffleQuestions: true,
+
   shuffleAnswers: false,
+
+  maxQuestions: 5,
+
   caseSensitiveText: false,
-  storageKey: "AC9MFN01VarietyBestScore"
+
+  storageKey:
+    "AC9MFN01NumbersBestScore"
+
 };
