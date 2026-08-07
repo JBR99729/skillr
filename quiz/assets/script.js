@@ -1533,6 +1533,10 @@ if (question.visual) {
       evaluateAnswer(question);
 
     answerChecked = true;
+     /* Play correct or incorrect sound */
+playQuizSound(result.isCorrect);
+
+if (result.isCorrect) {
 
     if (result.isCorrect) {
       score += 1;
