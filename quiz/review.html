@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <meta
+    name="description"
+    content="Review your SkillrHub Mathematics quiz answers and explanations."
+  >
+
+  <!--
+    Review pages contain temporary attempt data.
+    They should not be indexed by search engines.
+  -->
+  <meta
+    name="robots"
+    content="noindex, nofollow"
+  >
+
+  <title>Quiz Answer Review | SkillrHub</title>
+
+
+  <!-- MAIN WEBSITE CSS -->
+  <link
+    rel="stylesheet"
+    href="/style.css"
+  >
+
+
+  <!-- SHARED QUIZ CSS -->
+  <link
+    rel="stylesheet"
+    href="/quiz/assets/style.css?v=105"
+  >
+
+
+  <style>
+
+    /* ===================================================
+       REVIEW PAGE
+       =================================================== */
+
+    .review-page {
+      width: min(900px, calc(100% - 32px));
+      margin: 40px auto 80px;
+    }
+
+
+    .review-main-card {
+      padding: clamp(24px, 5vw, 44px);
+    }
+
+
+    .review-heading {
+      margin-bottom: 10px;
+    }
+
+
+    .review-intro {
+      color: var(--muted);
+      margin-bottom: 26px;
+    }
+
+
+    /* ===================================================
+       SCORE SUMMARY
+       =================================================== */
+
+    .review-summary {
+      display: grid;
+      grid-template-columns:
+        repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      margin: 24px 0 32px;
+    }
+
+
+    .review-summary-item {
+      padding: 18px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      text-align: center;
+      background: var(--card-bg);
+    }
+
+
+    .review-summary-number {
+      display: block;
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+
+    .review-summary-label {
+      display: block;
+      margin-top: 4px;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+
+    /* ===================================================
+       ANSWER CARDS
+       =================================================== */
+
+    .review-answer-list {
+      display: grid;
+      gap: 18px;
+      margin-top: 24px;
+    }
+
+
+    .review-answer {
+      padding: 22px;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: var(--card-bg);
+    }
+
+
+    .review-answer.correct {
+      border-left:
+        5px solid var(--success);
+    }
+
+
+    .review-answer.incorrect {
+      border-left:
+        5px solid var(--danger);
+    }
+
+
+    .review-question-number {
+      margin: 0 0 6px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+
+    .review-question {
+      margin: 0 0 16px;
+      font-size: 1.1rem;
+      line-height: 1.45;
+      color: var(--text);
+    }
+
+
+    .review-status {
+      display: inline-block;
+      margin-bottom: 16px;
+      font-weight: 700;
+    }
+
+
+    .review-answer.correct
+    .review-status {
+      color: var(--success);
+    }
+
+
+    .review-answer.incorrect
+    .review-status {
+      color: var(--danger);
+    }
+
+
+    .review-detail {
+      margin: 8px 0;
+      line-height: 1.55;
+    }
+
+
+    .review-detail strong {
+      color: var(--text);
+    }
+
+
+    .review-explanation {
+      margin-top: 16px;
+      padding: 14px 16px;
+      border-radius: 12px;
+      background: var(--page-bg);
+      line-height: 1.55;
+    }
+
+
+    /* ===================================================
+       BUTTONS
+       =================================================== */
+
+    .review-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 32px;
+    }
+
+
+    /* ===================================================
+       NO REVIEW DATA
+       =================================================== */
+
+    .empty-review {
+      padding: 24px;
+      margin-top: 24px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: var(--page-bg);
+    }
+
+
+    /* ===================================================
+       MOBILE
+       =================================================== */
+
+    @media (max-width: 640px) {
+
+      .review-page {
+        width:
+          min(100% - 20px, 900px);
+
+        margin-top: 20px;
+      }
+
+
+      .review-summary {
+        grid-template-columns: 1fr;
+      }
+
+
+      .review-actions {
+        flex-direction: column;
+      }
+
+
+      .review-actions .button {
+        width: 100%;
+      }
+
+    }
+
+  </style>
+
+</head>
+
+
+<body>
+
+
+  <main class="review-page">
+
+
+    <section class="card review-main-card">
+
+
+      <p
+        class="eyebrow"
+        id="quizLabel"
+      >
+        Quiz review
+      </p>
+
+
+      <h1
+        class="review-heading"
+        id="reviewTitle"
+      >
+        Answer Review
+      </h1>
+
+
+      <p class="review-intro">
+        Check your answers and read the explanations
+        before trying another set of questions.
+      </p>
+
+
+
+      <!-- ===============================================
+           SCORE
+           =============================================== -->
+
+      <div
+        class="review-summary"
+        id="reviewSummary"
+      >
+
+
+        <div class="review-summary-item">
+
+          <span
+            class="review-summary-number"
+            id="reviewScore"
+          >
+            0
+          </span>
+
+          <span class="review-summary-label">
+            Correct
+          </span>
+
+        </div>
+
+
+        <div class="review-summary-item">
+
+          <span
+            class="review-summary-number"
+            id="reviewTotal"
+          >
+            0
+          </span>
+
+          <span class="review-summary-label">
+            Questions
+          </span>
+
+        </div>
+
+
+        <div class="review-summary-item">
+
+          <span
+            class="review-summary-number"
+            id="reviewPercentage"
+          >
+            0%
+          </span>
+
+          <span class="review-summary-label">
+            Score
+          </span>
+
+        </div>
+
+
+      </div>
+
+
+
+      <!-- ===============================================
+           ANSWERS GENERATED BY JAVASCRIPT
+           =============================================== -->
+
+      <section
+        aria-labelledby="answersTitle"
+      >
+
+        <h2 id="answersTitle">
+          Your answers
+        </h2>
+
+
+        <div
+          class="review-answer-list"
+          id="reviewAnswerList"
+        ></div>
+
+
+      </section>
+
+
+
+      <!-- ===============================================
+           NO DATA MESSAGE
+           =============================================== -->
+
+      <div
+        class="empty-review"
+        id="emptyReview"
+        hidden
+      >
+
+        <h2>
+          No quiz review available
+        </h2>
+
+        <p>
+          Complete a quiz first, then choose
+          <strong>Review answers</strong>
+          from the result screen.
+        </p>
+
+      </div>
+
+
+
+      <!-- ===============================================
+           ACTIONS
+           =============================================== -->
+
+      <div
+        class="review-actions"
+        id="reviewActions"
+      >
+
+
+        <button
+          class="button button-primary"
+          id="tryAgainButton"
+          type="button"
+        >
+          Try this quiz again
+        </button>
+
+
+        <button
+          class="button button-secondary"
+          id="backButton"
+          type="button"
+        >
+          Back to quiz
+        </button>
+
+
+      </div>
+
+
+    </section>
+
+
+  </main>
+
+
+
+  <!-- ===================================================
+       REVIEW PAGE JAVASCRIPT
+       =================================================== -->
+
+  <script>
+
+    "use strict";
+
+
+    document.addEventListener(
+      "DOMContentLoaded",
+      () => {
+
+
+        const reviewTitle =
+          document.getElementById(
+            "reviewTitle"
+          );
+
+
+        const quizLabel =
+          document.getElementById(
+            "quizLabel"
+          );
+
+
+        const reviewScore =
+          document.getElementById(
+            "reviewScore"
+          );
+
+
+        const reviewTotal =
+          document.getElementById(
+            "reviewTotal"
+          );
+
+
+        const reviewPercentage =
+          document.getElementById(
+            "reviewPercentage"
+          );
+
+
+        const reviewAnswerList =
+          document.getElementById(
+            "reviewAnswerList"
+          );
+
+
+        const emptyReview =
+          document.getElementById(
+            "emptyReview"
+          );
+
+
+        const reviewSummary =
+          document.getElementById(
+            "reviewSummary"
+          );
+
+
+        const answersTitle =
+          document.getElementById(
+            "answersTitle"
+          );
+
+
+        const reviewActions =
+          document.getElementById(
+            "reviewActions"
+          );
+
+
+        const tryAgainButton =
+          document.getElementById(
+            "tryAgainButton"
+          );
+
+
+        const backButton =
+          document.getElementById(
+            "backButton"
+          );
+
+
+
+        /* =============================================
+           GET SAVED QUIZ REVIEW
+           ============================================= */
+
+        const storedReview =
+          sessionStorage.getItem(
+            "skillrQuizReview"
+          );
+
+
+        if (!storedReview) {
+
+          showNoReview();
+
+          return;
+
+        }
+
+
+
+        let reviewData;
+
+
+        try {
+
+          reviewData =
+            JSON.parse(storedReview);
+
+        } catch (error) {
+
+          console.error(
+            "Could not read quiz review:",
+            error
+          );
+
+          showNoReview();
+
+          return;
+
+        }
+
+
+
+        if (
+          !reviewData ||
+          !Array.isArray(
+            reviewData.answers
+          ) ||
+          reviewData.answers.length === 0
+        ) {
+
+          showNoReview();
+
+          return;
+
+        }
+
+
+
+        /* =============================================
+           PAGE TITLE
+           ============================================= */
+
+        if (reviewData.quizTitle) {
+
+          reviewTitle.textContent =
+            reviewData.quizTitle;
+
+          document.title =
+            `${reviewData.quizTitle} Answer Review | SkillrHub`;
+
+        }
+
+
+        if (reviewData.quizLabel) {
+
+          quizLabel.textContent =
+            reviewData.quizLabel;
+
+        }
+
+
+
+        /* =============================================
+           SCORE
+           ============================================= */
+
+        const score =
+          Number(reviewData.score) || 0;
+
+
+        const total =
+          Number(reviewData.total) ||
+          reviewData.answers.length;
+
+
+        const percentage =
+          total > 0
+            ? Math.round(
+                (score / total) * 100
+              )
+            : 0;
+
+
+        reviewScore.textContent =
+          String(score);
+
+
+        reviewTotal.textContent =
+          String(total);
+
+
+        reviewPercentage.textContent =
+          `${percentage}%`;
+
+
+
+        /* =============================================
+           BUILD EACH ANSWER CARD
+           ============================================= */
+
+        reviewData.answers.forEach(
+          (item, index) => {
+
+
+            const article =
+              document.createElement(
+                "article"
+              );
+
+
+            article.className =
+              `review-answer ${
+                item.isCorrect
+                  ? "correct"
+                  : "incorrect"
+              }`;
+
+
+
+            /* QUESTION NUMBER */
+
+            const questionNumber =
+              document.createElement(
+                "p"
+              );
+
+
+            questionNumber.className =
+              "review-question-number";
+
+
+            questionNumber.textContent =
+              `Question ${index + 1}`;
+
+
+
+            /* QUESTION */
+
+            const question =
+              document.createElement(
+                "h3"
+              );
+
+
+            question.className =
+              "review-question";
+
+
+            question.textContent =
+              item.question ||
+              "Question";
+
+
+
+            /* STATUS */
+
+            const status =
+              document.createElement(
+                "p"
+              );
+
+
+            status.className =
+              "review-status";
+
+
+            status.textContent =
+              item.isCorrect
+                ? "✓ Correct"
+                : "✗ Incorrect";
+
+
+
+            article.append(
+              questionNumber,
+              question,
+              status
+            );
+
+
+
+            /* YOUR ANSWER */
+
+            addReviewDetail(
+              article,
+              "Your answer",
+              item.selectedAnswer ||
+              "No answer"
+            );
+
+
+
+            /* CORRECT ANSWER */
+
+            addReviewDetail(
+              article,
+              "Correct answer",
+              item.correctAnswer ||
+              ""
+            );
+
+
+
+            /* EXPLANATION */
+
+            if (item.explanation) {
+
+              const explanation =
+                document.createElement(
+                  "div"
+                );
+
+
+              explanation.className =
+                "review-explanation";
+
+
+              const strong =
+                document.createElement(
+                  "strong"
+                );
+
+
+              strong.textContent =
+                "Explanation: ";
+
+
+              explanation.append(
+                strong,
+                document.createTextNode(
+                  item.explanation
+                )
+              );
+
+
+              article.appendChild(
+                explanation
+              );
+
+            }
+
+
+
+            reviewAnswerList.appendChild(
+              article
+            );
+
+          }
+        );
+
+
+
+        /* =============================================
+           TRY AGAIN
+           ============================================= */
+
+        tryAgainButton.addEventListener(
+          "click",
+          () => {
+
+            if (reviewData.quizUrl) {
+
+              window.location.href =
+                reviewData.quizUrl;
+
+            }
+
+          }
+        );
+
+
+
+        /* =============================================
+           BACK TO QUIZ
+           ============================================= */
+
+        backButton.addEventListener(
+          "click",
+          () => {
+
+            if (reviewData.quizUrl) {
+
+              window.location.href =
+                reviewData.quizUrl;
+
+              return;
+
+            }
+
+
+            window.history.back();
+
+          }
+        );
+
+
+
+        /* =============================================
+           ADD DETAIL ROW
+           ============================================= */
+
+        function addReviewDetail(
+          container,
+          label,
+          value
+        ) {
+
+          const paragraph =
+            document.createElement(
+              "p"
+            );
+
+
+          paragraph.className =
+            "review-detail";
+
+
+          const strong =
+            document.createElement(
+              "strong"
+            );
+
+
+          strong.textContent =
+            `${label}: `;
+
+
+          paragraph.append(
+            strong,
+            document.createTextNode(
+              String(value)
+            )
+          );
+
+
+          container.appendChild(
+            paragraph
+          );
+
+        }
+
+
+
+        /* =============================================
+           EMPTY STATE
+           ============================================= */
+
+        function showNoReview() {
+
+          reviewSummary.hidden = true;
+
+          answersTitle.hidden = true;
+
+          reviewAnswerList.hidden = true;
+
+          reviewActions.hidden = true;
+
+          emptyReview.hidden = false;
+
+        }
+
+
+      }
+    );
+
+  </script>
+
+
+</body>
+
+</html>
