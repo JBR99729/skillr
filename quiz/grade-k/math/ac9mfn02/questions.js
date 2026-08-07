@@ -2,14 +2,17 @@
 
 window.quizQuestions = [
   /* =====================================================
-     EASY: INSTANT SUBITISING 1–3
+     EASY — INSTANT SUBITISING 1 TO 3
      ===================================================== */
 
   {
     type: "number",
 
     question:
-      "Look quickly: ⚫ ⚫\n\nHow many dots did you see?",
+      "Look quickly. How many dots did you see?",
+
+    visual:
+      "⚫ ⚫",
 
     placeholder:
       "Type the number",
@@ -26,7 +29,10 @@ window.quizQuestions = [
     type: "single",
 
     question:
-      "Which number is shown on this die face?\n\n⚂",
+      "Which number is shown on this die face?",
+
+    visual:
+      "⚂",
 
     answers: [
       "2",
@@ -37,14 +43,17 @@ window.quizQuestions = [
     correct: 1,
 
     explanation:
-      "The die face ⚂ shows 3 dots."
+      "The die face shows 3 dots."
   },
 
   {
     type: "text",
 
     question:
-      "Look at the apple for just a moment: 🍎\n\nName the number of apples immediately.",
+      "Name the number of apples immediately.",
+
+    visual:
+      "🍎",
 
     placeholder:
       "Type the number",
@@ -82,8 +91,11 @@ window.quizQuestions = [
     question:
       "Complete the sentence.",
 
+    visual:
+      "⭐ ⭐ ⭐",
+
     template:
-      "I can see {{blank}} stars: ⭐️ ⭐️ ⭐️",
+      "I can see {{blank}} stars.",
 
     placeholder:
       "number",
@@ -93,7 +105,7 @@ window.quizQuestions = [
     ],
 
     explanation:
-      "There are 3 stars in the line."
+      "There are 3 stars."
   },
 
   {
@@ -101,6 +113,9 @@ window.quizQuestions = [
 
     question:
       "Your teacher holds up 2 fingers. How many fingers are showing?",
+
+    visual:
+      "✌️",
 
     placeholder:
       "Type the number",
@@ -117,7 +132,10 @@ window.quizQuestions = [
     type: "single",
 
     question:
-      "In a Snap game, you turn over a card showing ⚫. Which card makes a matching snap?",
+      "In a Snap game, you turn over this card. Which card makes a matching snap?",
+
+    visual:
+      "⚫",
 
     answers: [
       "A card with 1 dot",
@@ -128,19 +146,22 @@ window.quizQuestions = [
     correct: 0,
 
     explanation:
-      "The first card has 1 dot, so it matches the card showing 1 dot."
+      "The shown card has 1 dot, so it matches another card with 1 dot."
   },
 
 
   /* =====================================================
-     MEDIUM: SUBITISING 4–6
+     MEDIUM — SUBITISING 4 TO 6
      ===================================================== */
 
   {
     type: "number",
 
     question:
-      "Look at this square arrangement:\n\n⚫ ⚫\n⚫ ⚫\n\nWithout counting one-by-one, how many dots are there?",
+      "Without counting one-by-one, how many dots are arranged in this square?",
+
+    visual:
+      "⚫ ⚫\n⚫ ⚫",
 
     placeholder:
       "Type the number",
@@ -150,17 +171,20 @@ window.quizQuestions = [
     tolerance: 0,
 
     explanation:
-      "The square has 2 dots on the top and 2 on the bottom. Altogether there are 4."
+      "There are 2 dots on the top and 2 on the bottom. Two and two make 4."
   },
 
   {
     type: "fill-blank",
 
     question:
-      "Look at the ten-frame.",
+      "Look at the ten-frame pattern.",
+
+    visual:
+      "● ● ● ● ●\n○ ○ ○ ○ ○",
 
     template:
-      "Top row: ● ● ● ● ●\nBottom row: ○ ○ ○ ○ ○\n\nThere are {{blank}} filled counters in the top row.",
+      "There are {{blank}} filled counters in the top row.",
 
     placeholder:
       "number",
@@ -177,7 +201,10 @@ window.quizQuestions = [
     type: "text",
 
     question:
-      "Look quickly at this playing-card pattern:\n\n♦️ ♦️\n   ♦️\n♦️ ♦️\n\nWhat number is shown?",
+      "Name the number shown by the diamond pattern.",
+
+    visual:
+      "♦️ ♦️\n  ♦️\n♦️ ♦️",
 
     placeholder:
       "Type the number",
@@ -188,14 +215,17 @@ window.quizQuestions = [
     ],
 
     explanation:
-      "The card shows 5 diamonds."
+      "The pattern contains 5 diamonds."
   },
 
   {
     type: "number",
 
     question:
-      "How many red counters are in this non-standard arrangement?\n\n   🔴\n🔴 🔴\n   🔴",
+      "How many red counters are in this arrangement?",
+
+    visual:
+      "  🔴\n🔴 🔴\n  🔴",
 
     placeholder:
       "Type the number",
@@ -205,7 +235,7 @@ window.quizQuestions = [
     tolerance: 0,
 
     explanation:
-      "There is 1 counter at the top, 2 in the middle and 1 at the bottom. That makes 4."
+      "There is 1 counter at the top, 2 in the middle and 1 at the bottom. Altogether there are 4."
   },
 
   {
@@ -214,8 +244,11 @@ window.quizQuestions = [
     question:
       "Complete the domino total.",
 
+    visual:
+      "⚁  |  ⚁",
+
     template:
-      "The domino has ⚁ on one side and ⚁ on the other side. Altogether, it has {{blank}} dots.",
+      "Two dots and two dots make {{blank}} dots altogether.",
 
     placeholder:
       "total",
@@ -257,7 +290,10 @@ window.quizQuestions = [
     type: "number",
 
     question:
-      "Look quickly: 🔴 🔴 🔴 🔴 🔴\n\nHow many counters are in the row?",
+      "Look quickly. How many counters are in the row?",
+
+    visual:
+      "🔴 🔴 🔴 🔴 🔴",
 
     placeholder:
       "Type the number",
@@ -272,7 +308,7 @@ window.quizQuestions = [
 
 
   /* =====================================================
-     DIFFICULT: PART-PART-WHOLE
+     DIFFICULT — PART-PART-WHOLE
      ===================================================== */
 
   {
@@ -281,8 +317,11 @@ window.quizQuestions = [
     question:
       "Look at the two groups together.",
 
+    visual:
+      "⚫ ⚫ ⚫     ⚫ ⚫",
+
     template:
-      "(⚫ ⚫ ⚫) and (⚫ ⚫)\n\n3 and 2 make {{blank}}.",
+      "Three and two make {{blank}}.",
 
     placeholder:
       "total",
@@ -292,35 +331,41 @@ window.quizQuestions = [
     ],
 
     explanation:
-      "The first group has 3 dots and the second has 2. Three and two make 5."
+      "The first group has 3 dots and the second has 2 dots. Three and two make 5."
   },
 
   {
     type: "single",
 
     question:
-      "Look at this pattern:\n\n🟢 🟢\n   🟢\n🟢 🟢\n\nHow could you see the group?",
+      "How could you see this group?",
+
+    visual:
+      "🟢 🟢\n  🟢\n🟢 🟢",
 
     answers: [
       "A group of 2 and a group of 3",
       "A group of 4 and 1 in the middle",
-      "Both A and B work"
+      "Both ways work"
     ],
 
     correct: 2,
 
     explanation:
-      "Both ways describe the same collection of 5 counters."
+      "Both descriptions show different ways to recognise the same collection of 5 counters."
   },
 
   {
     type: "fill-blank",
 
     question:
-      "You have a card showing ⚫ ⚫ ⚫.",
+      "You have a card showing 3 dots.",
+
+    visual:
+      "⚫ ⚫ ⚫",
 
     template:
-      "You need a card showing {{blank}} more dots to make 5 altogether.",
+      "You need {{blank}} more dots to make 5 altogether.",
 
     placeholder:
       "number",
@@ -337,7 +382,10 @@ window.quizQuestions = [
     type: "number",
 
     question:
-      "Look quickly at the stars:\n\n⭐️ ⭐️ ⭐️\n⭐️ ⭐️ ⭐️\n\nHow many stars did you see?",
+      "Look quickly. How many stars did you see?",
+
+    visual:
+      "⭐ ⭐ ⭐\n⭐ ⭐ ⭐",
 
     placeholder:
       "Type the number",
@@ -354,21 +402,21 @@ window.quizQuestions = [
     type: "multiple",
 
     question:
-      "Select every card that shows a collection of exactly 4.",
+      "Select every card that shows exactly 4 objects.",
 
     instruction:
       "More than one answer is correct.",
 
     answers: [
       "Card A: 🟨 🟨 🟨 🟨",
-      "Card B: ⚄? No — use a die showing four dots: ⚃",
+      "Card B: ⚃",
       "Card C: 🔺 🔺 🔺"
     ],
 
     correct: [0, 1],
 
     explanation:
-      "Card A shows 4 squares and Card B shows a die face with 4 dots. Card C shows only 3 triangles."
+      "Card A shows 4 squares and Card B is a die face showing 4 dots. Card C shows only 3 triangles."
   },
 
   {
