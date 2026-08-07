@@ -1759,8 +1759,19 @@ if (question.visual) {
         : "Hide review";
   }
 
-  elements.questionCount.textContent =
-    String(questions.length);
+  const displayedQuestionCount =
+  Number.isInteger(
+    Number(config.maxQuestions)
+  ) &&
+  Number(config.maxQuestions) > 0
+    ? Math.min(
+        Number(config.maxQuestions),
+        questions.length
+      )
+    : questions.length;
+
+elements.questionCount.textContent =
+  String(displayedQuestionCount);
 
   if (elements.bestScore) {
     elements.bestScore.textContent =
