@@ -440,7 +440,7 @@ window.quizQuestions = [
 
 
 window.quizConfig = {
-  shuffleQuestions: false,
+  shuffleQuestions: true,
   shuffleAnswers: false,
   caseSensitiveText: false,
   storageKey: "AC9MFN02SubitisingBestScore"
