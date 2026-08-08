@@ -761,7 +761,8 @@ footer {
 
 .skillr-copy-btn,
 .skillr-ig-btn,
-.skillr-fb-btn {
+.skillr-fb-btn,
+.skillr-install-btn {
     position: fixed;
     right: 16px;
     z-index: 9999;
@@ -780,7 +781,8 @@ footer {
 
 .skillr-copy-btn:hover,
 .skillr-ig-btn:hover,
-.skillr-fb-btn:hover {
+.skillr-fb-btn:hover,
+.skillr-install-btn:hover {
     transform: translateY(-1px);
 }
 
@@ -788,16 +790,45 @@ footer {
     bottom: 92px;
 }
 
-.skillr-ig-btn {
+.skillr-install-btn {
     bottom: 146px;
+    border-color: #fde8c8;
+    background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+    color: #fff;
+}
+
+.skillr-ig-btn {
+    bottom: 200px;
     border-color: #f2d2e2;
     color: #e1306c;
 }
 
 .skillr-fb-btn {
-    bottom: 200px;
+    bottom: 254px;
     border-color: #d8e7ff;
     color: #1877f2;
+}
+
+.skillr-install-help {
+    position: fixed;
+    right: 74px;
+    bottom: 150px;
+    z-index: 9998;
+    display: block;
+    max-width: min(240px, calc(100vw - 92px));
+    padding: 10px 12px;
+    border-radius: 12px;
+    background: rgba(15, 23, 42, 0.95);
+    color: #fff;
+    box-shadow: 0 14px 32px rgba(15, 23, 42, 0.24);
+    font-size: 0.78rem;
+    line-height: 1.4;
+}
+
+.skillr-install-help strong {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 0.8rem;
 }
 
 .skillr-share-menu {
@@ -828,7 +859,8 @@ footer {
 
     .skillr-copy-btn,
     .skillr-ig-btn,
-    .skillr-fb-btn {
+    .skillr-fb-btn,
+    .skillr-install-btn {
         right: 14px;
         width: 46px;
         height: 46px;
@@ -838,12 +870,23 @@ footer {
         bottom: 86px;
     }
 
+    .skillr-install-btn {
+        bottom: 140px;
+    }
+
     .skillr-ig-btn {
-        bottom: 136px;
+        bottom: 194px;
     }
 
     .skillr-fb-btn {
-        bottom: 186px;
+        bottom: 248px;
+    }
+
+    .skillr-install-help {
+        right: 66px;
+        bottom: 144px;
+        max-width: min(220px, calc(100vw - 86px));
+        font-size: 0.75rem;
     }
 
     .resource-quickstart {

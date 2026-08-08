@@ -44,8 +44,27 @@ document.addEventListener('DOMContentLoaded', function () {
   facebookButton.setAttribute('aria-label', 'Share this page on Facebook');
   facebookButton.innerHTML = '<span aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M13.5 22v-8.5h2.9l.4-3.3H13.5V4.9c0-.95.3-1.6 1.6-1.6h1.7V.1c-.3-.1-1.3-.1-2.4-.1-2.4 0-4 1.4-4 4.2v2.4H7.1v3.3h2.8V22h3.6z"/></svg></span>';
 
+  var installButton = document.createElement('a');
+  installButton.className = 'skillr-install-btn';
+  installButton.href = '#';
+  installButton.setAttribute('aria-label', 'Add this page as a bookmark shortcut');
+  installButton.innerHTML = '<span aria-hidden="true"><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M6 3a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18l-6-4-6 4V3z"/></svg></span>';
+  installButton.addEventListener('click', function (event) {
+    event.preventDefault();
+    if (window.external && typeof window.external.AddFavorite === 'function') {
+      window.external.AddFavorite(window.location.href, document.title);
+    }
+  });
+
+  var installHelp = document.createElement('div');
+  installHelp.className = 'skillr-install-help';
+  installHelp.setAttribute('role', 'note');
+  installHelp.innerHTML = '<strong>Bookmark shortcut</strong><span>Safe on school and kids devices. It only adds a simple bookmark shortcut and does not collect data.</span>';
+
   document.body.appendChild(facebookButton);
   document.body.appendChild(instagramButton);
+  document.body.appendChild(installHelp);
+  document.body.appendChild(installButton);
   document.body.appendChild(copyButton);
   document.body.appendChild(button);
 });
