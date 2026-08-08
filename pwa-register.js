@@ -3,7 +3,6 @@
 
   let deferredInstallPrompt = null;
   let installButton = null;
-  let installBanner = null;
 
 
   /* =========================================================
@@ -50,22 +49,6 @@
     installButton.hidden = true;
   }
 
-  function showInstallBanner() {
-    if (!installBanner) {
-      return;
-    }
-
-    installBanner.hidden = false;
-  }
-
-  function hideInstallBanner() {
-    if (!installBanner) {
-      return;
-    }
-
-    installBanner.hidden = true;
-  }
-
   function shouldShowInstallButton() {
     if (window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true) {
       return false;
@@ -109,24 +92,7 @@
       }
     }
 
-    if (!installBanner) {
-      installBanner = document.getElementById("installAppBanner");
-
-      if (!installBanner) {
-        installBanner = document.createElement("div");
-        installBanner.id = "installAppBanner";
-        installBanner.className = "install-app-banner";
-        installBanner.hidden = true;
-        installBanner.innerHTML = `
-          <strong>Install this app</strong>
-          <span>Open your browser menu and choose Install app, Add to Home Screen, or Share → Add to Home Screen.</span>
-        `;
-        document.body.appendChild(installBanner);
-      }
-    }
-
     showInstallButton();
-    showInstallBanner();
 
     installButton.addEventListener("click", async () => {
       if (deferredInstallPrompt) {
@@ -137,15 +103,12 @@
 
           if (choice.outcome === "accepted") {
             hideInstallButton();
-            hideInstallBanner();
           } else {
             showInstallButton();
-            showInstallBanner();
           }
         } catch (error) {
           console.error("SkillrHub install prompt failed:", error);
           showInstallButton();
-          showInstallBanner();
         }
 
         deferredInstallPrompt = null;
@@ -156,8 +119,6 @@
         hideInstallButton();
         return;
       }
-
-      showInstallBanner();
     });
   }
 
@@ -177,7 +138,6 @@
 
     deferredInstallPrompt = event;
     showInstallButton();
-    showInstallBanner();
   });
 
 
@@ -188,6 +148,5 @@
   window.addEventListener("appinstalled", () => {
     deferredInstallPrompt = null;
     hideInstallButton();
-    hideInstallBanner();
   });
 })();
