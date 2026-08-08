@@ -1,23 +1,22 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - 8 QUESTIONS / ONE PRINT PAGE
+   SKILLRHUB WORKSHEET PDF - DIRECT jsPDF VERSION
    Save as: /quiz/assets/worksheet-pdf.js
 
-   Fixes:
-   - Prevents the extra blank first PDF page.
-   - Uses a slightly shorter-than-Letter HTML canvas to avoid
-     html2pdf rounding onto a second page.
-   - Larger, Foundation-friendly print font.
-   - Uses spare vertical space instead of leaving a large blank
-     area at the bottom.
-   - Gently scales down ONLY when an unusually tall set needs it.
-   - Uses the same 8 active questions as the online practice.
+   Why this version exists:
+   - Does NOT screenshot HTML with html2canvas.
+   - Draws directly onto a US Letter PDF with jsPDF.
+   - Exactly one page for the active 8-question practice.
+   - No phantom blank page, horizontal clipping or quarter-page capture.
+   - Uses readable print sizes and distributes all 8 questions
+     through the usable page height.
+   - Uses the SAME active questions as the online quiz.
    ========================================================= */
 
 (() => {
-  const PDF_LIB =
-    "https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js";
+  const JSPDF_URL =
+    "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
   const BRAND = "SkillrHub";
   const WEBSITE = "www.skillrhub.com";
@@ -25,24 +24,19 @@
 
   const $ = (selector, root = document) => root.querySelector(selector);
 
-  function esc(value) {
-    return String(value ?? "")
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/\"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
-
   function getTitle() {
-    return $("#quizTitle, main h1, h1")?.textContent?.trim() ||
+    return (
+      $("#quizTitle, main h1, h1")?.textContent?.trim() ||
       document.title ||
-      "Practice Worksheet";
+      "Practice Worksheet"
+    );
   }
 
   function getEyebrow() {
-    return $(".start-card .eyebrow, .eyebrow")?.textContent?.trim() ||
-      "Foundation Mathematics";
+    return (
+      $(".start-card .eyebrow, .eyebrow")?.textContent?.trim() ||
+      "Foundation Mathematics"
+    );
   }
 
   function getQuestions() {
@@ -60,529 +54,565 @@
     return bank.slice(0, QUESTION_LIMIT);
   }
 
-  function answerLine(width = "86%") {
-    return `
-      <div style="
-        width:${width};
-        height:15px;
-        border-bottom:1.2px solid #8a94a6;
-        margin-top:4px;
-      "></div>`;
-  }
-
-  function questionImage(question) {
-    if (!question.image) return "";
-
-    return `
-      <div style="text-align:center;margin:5px 0 6px">
-        <img
-          src="${esc(question.image)}"
-          alt="${esc(question.imageAlt || "")}"
-          style="
-            max-width:165px;
-            max-height:105px;
-            object-fit:contain;
-          "
-        >
-      </div>`;
-  }
-
-  function visual(question) {
-    if (!question.visual) return "";
-
-    return `
-      <div style="
-        margin:5px 0 7px;
-        text-align:center;
-        white-space:pre-line;
-        font-size:24px;
-        line-height:1.3;
-        font-weight:800;
-        letter-spacing:.035em;
-      ">${esc(question.visual)}</div>`;
-  }
-
-  function renderSingle(question) {
-    const options = (question.answers || [])
-      .map((answer, index) => `
-        <span style="
-          display:inline-block;
-          margin:3px 15px 3px 0;
-          white-space:nowrap;
-        ">
-          <strong>${String.fromCharCode(65 + index)}.</strong> ${esc(answer)}
-        </span>`)
-      .join("");
-
-    return `
-      ${questionImage(question)}
-      ${visual(question)}
-      <div style="margin-top:3px;font-size:12.2px;line-height:1.38">
-        ${options}
-      </div>`;
-  }
-
-  function renderMultiple(question) {
-    const options = (question.answers || [])
-      .map(answer => `
-        <span style="
-          display:inline-block;
-          margin:3px 14px 3px 0;
-          white-space:nowrap;
-        ">☐ ${esc(answer)}</span>`)
-      .join("");
-
-    return `
-      ${questionImage(question)}
-      ${visual(question)}
-      <div style="font-size:10.5px;color:#667085;font-weight:700;margin-top:3px">
-        Select all correct answers.
-      </div>
-      <div style="font-size:12px;line-height:1.38">${options}</div>`;
-  }
-
-  function renderText(question) {
-    return `${questionImage(question)}${visual(question)}${answerLine()}`;
-  }
-
-  function renderFillBlank(question) {
-    const template = esc(question.template || "{{blank}}")
-      .replace(/\{\{blank\}\}/g, "____________");
-
-    return `
-      ${questionImage(question)}
-      ${visual(question)}
-      <div style="margin-top:4px;font-size:12.2px;line-height:1.4">
-        ${template}
-      </div>`;
-  }
-
-  function renderOrder(question) {
-    const items = (question.items || [])
-      .map(item =>
-        typeof item === "string"
-          ? esc(item)
-          : esc(item?.label || item?.alt || item?.id || "")
-      )
-      .join("  •  ");
-
-    return `
-      ${questionImage(question)}
-      ${visual(question)}
-      <div style="
-        margin-top:4px;
-        padding:6px 8px;
-        border:1px solid #d8e0ea;
-        border-radius:6px;
-        text-align:center;
-        font-size:11.5px;
-        line-height:1.35;
-      ">${items}</div>
-      ${answerLine("100%")}`;
-  }
-
-  function renderDragImage(question) {
-    const groups = (question.categories || [])
-      .map(category => esc(category.label || category.id || ""))
-      .join(" / ");
-
-    const rows = (question.items || [])
-      .map(item => `
-        <span style="
-          display:inline-flex;
-          align-items:center;
-          gap:5px;
-          margin:4px 12px 4px 0;
-          vertical-align:middle;
-        ">
-          ${item.image ? `
-            <img
-              src="${esc(item.image)}"
-              alt="${esc(item.alt || "")}"
-              style="width:48px;height:48px;object-fit:contain"
-            >` : ""}
-          <span style="font-size:11px">
-            ${esc(item.label || item.alt || item.id || "")}: ______
-          </span>
-        </span>`)
-      .join("");
-
-    return `
-      <div style="margin-top:3px;font-size:10.5px;color:#667085;font-weight:700">
-        Groups: ${groups}
-      </div>
-      <div>${rows}</div>`;
-  }
-
-  function renderBody(question) {
-    const type = question.type || "single";
-
-    if (type === "single" || type === "true-false") return renderSingle(question);
-    if (type === "multiple") return renderMultiple(question);
-    if (type === "text" || type === "number") return renderText(question);
-    if (type === "fill-blank") return renderFillBlank(question);
-    if (type === "order" || type === "drag-drop") return renderOrder(question);
-    if (type === "drag-image") return renderDragImage(question);
-
-    return `${questionImage(question)}${visual(question)}${answerLine()}`;
-  }
-
-  function questionBlock(question, index) {
-    const section = document.createElement("section");
-    section.className = "skillr-pdf-question";
-    section.style.cssText = [
-      "padding:3mm 0",
-      "border-bottom:1px solid #edf0f5",
-      "break-inside:avoid",
-      "page-break-inside:avoid"
-    ].join(";");
-
-    section.innerHTML = `
-      <div style="display:flex;align-items:flex-start;gap:7px">
-        <strong style="min-width:21px;font-size:13.5px;line-height:1.35">
-          ${index + 1}.
-        </strong>
-        <div style="flex:1;min-width:0">
-          <div style="font-size:13.6px;font-weight:800;line-height:1.38">
-            ${esc(question.question)}
-          </div>
-          ${renderBody(question)}
-        </div>
-      </div>`;
-
-    return section;
-  }
-
-  function buildOnePage(items) {
-    const page = document.createElement("section");
-    page.id = "skillrWorksheetPdf";
-
-    // 276.5 mm rather than the exact 279.4 mm Letter height.
-    // This avoids html2pdf rounding the element onto a phantom first/second page.
-    page.style.cssText = [
-      "width:215.9mm",
-      "height:276.5mm",
-      "box-sizing:border-box",
-      "position:relative",
-      "display:flex",
-      "flex-direction:column",
-      "padding:7.5mm 9.5mm 6.5mm",
-      "background:#fff",
-      "color:#172033",
-      "font-family:Arial,Helvetica,sans-serif",
-      "overflow:hidden"
-    ].join(";");
-
-    const watermark = document.createElement("div");
-    watermark.textContent = "SkillrHub.com";
-    watermark.style.cssText = [
-      "position:absolute",
-      "left:50%",
-      "top:53%",
-      "transform:translate(-50%,-50%) rotate(-32deg)",
-      "font-size:58px",
-      "font-weight:900",
-      "color:#2457d6",
-      "opacity:.045",
-      "white-space:nowrap",
-      "z-index:0",
-      "pointer-events:none"
-    ].join(";");
-
-    const header = document.createElement("header");
-    header.style.cssText = [
-      "position:relative",
-      "z-index:2",
-      "flex:0 0 auto",
-      "border-bottom:2px solid #2457d6",
-      "padding-bottom:3mm"
-    ].join(";");
-
-    header.innerHTML = `
-      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8mm">
-        <div style="min-width:0;flex:1">
-          <div style="font-size:24px;line-height:1;font-weight:900;color:#2457d6">
-            ${BRAND}
-          </div>
-          <div style="margin-top:1.7mm;font-size:16px;line-height:1.18;font-weight:800">
-            ${esc(getTitle())}
-          </div>
-          <div style="margin-top:1mm;font-size:9.5px;color:#667085;font-weight:700;text-transform:uppercase">
-            ${esc(getEyebrow())}
-          </div>
-        </div>
-        <div style="text-align:right;flex:0 0 auto">
-          <div style="font-size:14.5px;font-weight:900;color:#2457d6">
-            ${WEBSITE}
-          </div>
-          <div style="margin-top:1.2mm;font-size:9px;color:#667085">
-            8-question practice
-          </div>
-        </div>
-      </div>`;
-
-    const meta = document.createElement("div");
-    meta.style.cssText = [
-      "position:relative",
-      "z-index:2",
-      "flex:0 0 auto",
-      "display:flex",
-      "justify-content:space-between",
-      "gap:8mm",
-      "margin-top:3mm",
-      "font-size:10.5px",
-      "font-weight:700"
-    ].join(";");
-
-    meta.innerHTML = `
-      <div style="flex:1">Name: ______________________________</div>
-      <div>Date: ________________</div>`;
-
-    const note = document.createElement("aside");
-    note.style.cssText = [
-      "position:relative",
-      "z-index:2",
-      "flex:0 0 auto",
-      "margin-top:2.5mm",
-      "padding:2.3mm 3mm",
-      "border:1px solid #cdd9f6",
-      "border-radius:6px",
-      "background:#f6f8ff",
-      "font-size:9.4px",
-      "line-height:1.35",
-      "color:#344054"
-    ].join(";");
-
-    note.innerHTML = `
-      <strong style="color:#2457d6">Mastery recommendation:</strong>
-      Repeat this skill across one week and aim to work through the full question bank over multiple attempts. Repeated practice provides different examples and question formats while strengthening the same skill.`;
-
-    const viewport = document.createElement("div");
-    viewport.style.cssText = [
-      "position:relative",
-      "z-index:2",
-      "flex:1 1 auto",
-      "min-height:0",
-      "overflow:hidden",
-      "margin-top:2mm"
-    ].join(";");
-
-    const content = document.createElement("div");
-    content.className = "skillr-pdf-content";
-    content.style.cssText = "transform-origin:top left;width:100%";
-
-    items.forEach((question, index) => {
-      content.appendChild(questionBlock(question, index));
-    });
-
-    const score = document.createElement("div");
-    score.style.cssText = "padding-top:2.5mm;font-size:12px;font-weight:800";
-    score.textContent = `Score: ______ / ${items.length}`;
-    content.appendChild(score);
-
-    viewport.appendChild(content);
-
-    const footer = document.createElement("footer");
-    footer.style.cssText = [
-      "position:relative",
-      "z-index:2",
-      "flex:0 0 auto",
-      "display:flex",
-      "justify-content:space-between",
-      "align-items:center",
-      "border-top:1px solid #d8e0ea",
-      "padding-top:2mm",
-      "margin-top:1.5mm",
-      "font-size:8.8px",
-      "color:#667085",
-      "font-weight:700"
-    ].join(";");
-
-    footer.innerHTML = `
-      <span>${BRAND} • Free learning resources</span>
-      <span style="font-size:11.5px;color:#2457d6;font-weight:900">${WEBSITE}</span>
-      <span>Page 1 of 1</span>`;
-
-    page.append(watermark, header, meta, note, viewport, footer);
-
-    return { page, viewport, content };
-  }
-
-  function useAvailableSpace(viewport, content) {
-    content.style.transform = "none";
-    content.style.width = "100%";
-
-    const questions = [...content.querySelectorAll(".skillr-pdf-question")];
-    questions.forEach(section => {
-      section.style.paddingTop = "3mm";
-      section.style.paddingBottom = "3mm";
-    });
-
-    const available = viewport.clientHeight;
-    let needed = content.scrollHeight;
-
-    if (!available || !needed) return;
-
-    // If there is spare room, distribute it through the questions instead
-    // of leaving a large empty block at the bottom of the page.
-    if (needed < available && questions.length) {
-      const spare = available - needed;
-      const extraPerQuestionPx = Math.min(12, spare / questions.length / 2);
-
-      questions.forEach(section => {
-        const currentTop = parseFloat(getComputedStyle(section).paddingTop) || 0;
-        const currentBottom = parseFloat(getComputedStyle(section).paddingBottom) || 0;
-        section.style.paddingTop = `${currentTop + extraPerQuestionPx}px`;
-        section.style.paddingBottom = `${currentBottom + extraPerQuestionPx}px`;
-      });
-
-      needed = content.scrollHeight;
-    }
-
-    // Only shrink when absolutely necessary. This keeps print readable.
-    if (needed > available) {
-      const scale = Math.max(0.84, Math.min(1, available / needed));
-      content.style.transform = `scale(${scale})`;
-      content.style.width = `${100 / scale}%`;
-    }
-  }
-
-  function collectImageUrls(items) {
-    const urls = new Set();
-
-    items.forEach(question => {
-      if (question.image) urls.add(question.image);
-
-      (question.items || []).forEach(item => {
-        if (item && typeof item === "object" && item.image) {
-          urls.add(item.image);
-        }
-      });
-    });
-
-    return [...urls];
-  }
-
-  function preloadImages(items) {
-    return Promise.all(
-      collectImageUrls(items).map(url =>
-        new Promise(resolve => {
-          const image = new Image();
-          image.onload = resolve;
-          image.onerror = resolve;
-          image.src = url;
-          if (image.complete) resolve();
-        })
-      )
-    );
-  }
-
-  function loadPdfLibrary() {
-    if (typeof window.html2pdf === "function") {
-      return Promise.resolve();
+  function loadJsPdf() {
+    if (window.jspdf?.jsPDF) {
+      return Promise.resolve(window.jspdf.jsPDF);
     }
 
     return new Promise((resolve, reject) => {
-      const existing = $("script[data-skillr-html2pdf='true']");
+      const existing = document.querySelector(
+        'script[data-skillr-jspdf="true"]'
+      );
+
+      const finish = () => {
+        if (window.jspdf?.jsPDF) {
+          resolve(window.jspdf.jsPDF);
+        } else {
+          reject(new Error("jsPDF loaded but was not available."));
+        }
+      };
 
       if (existing) {
-        existing.addEventListener("load", resolve, { once: true });
+        existing.addEventListener("load", finish, { once: true });
         existing.addEventListener("error", reject, { once: true });
         return;
       }
 
       const script = document.createElement("script");
-      script.src = PDF_LIB;
+      script.src = JSPDF_URL;
       script.async = true;
-      script.dataset.skillrHtml2pdf = "true";
-      script.onload = resolve;
-      script.onerror = reject;
+      script.dataset.skillrJspdf = "true";
+      script.addEventListener("load", finish, { once: true });
+      script.addEventListener("error", reject, { once: true });
       document.head.appendChild(script);
     });
   }
 
-  async function downloadWorksheet() {
-    const items = getQuestions();
+  function normaliseText(value) {
+    return String(value ?? "")
+      .replace(/\u2018|\u2019/g, "'")
+      .replace(/\u201C|\u201D/g, '"')
+      .replace(/\u2013|\u2014/g, "-")
+      .replace(/\u2026/g, "...")
+      .replace(/\u00A0/g, " ")
+      .trim();
+  }
 
-    if (!items.length) {
+  function safeVisual(value) {
+    return normaliseText(value)
+      .replace(/●/g, "•")
+      .replace(/◯/g, "O");
+  }
+
+  function optionText(answer) {
+    if (typeof answer === "string" || typeof answer === "number") {
+      return normaliseText(answer);
+    }
+    if (answer && typeof answer === "object") {
+      return normaliseText(answer.label || answer.alt || answer.id || "");
+    }
+    return "";
+  }
+
+  function getItemLabel(item) {
+    if (typeof item === "string" || typeof item === "number") {
+      return normaliseText(item);
+    }
+    if (item && typeof item === "object") {
+      return normaliseText(item.label || item.alt || item.id || "");
+    }
+    return "";
+  }
+
+  function hexToRgb(hex) {
+    const clean = hex.replace("#", "");
+    const value = parseInt(clean, 16);
+    return [
+      (value >> 16) & 255,
+      (value >> 8) & 255,
+      value & 255
+    ];
+  }
+
+  const BLUE = hexToRgb("#2457d6");
+  const TEXT = hexToRgb("#172033");
+  const MUTED = hexToRgb("#667085");
+  const LINE = hexToRgb("#d8e0ea");
+  const SOFT = hexToRgb("#f5f7fb");
+  const NOTE_BORDER = hexToRgb("#cdd9f6");
+  const NOTE_FILL = hexToRgb("#f6f8ff");
+
+  function setTextColor(doc, rgb = TEXT) {
+    doc.setTextColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function setDrawColor(doc, rgb = LINE) {
+    doc.setDrawColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function setFillColor(doc, rgb = SOFT) {
+    doc.setFillColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function split(doc, text, width) {
+    const cleaned = normaliseText(text);
+    if (!cleaned) return [];
+    const lines = doc.splitTextToSize(cleaned, width);
+    return Array.isArray(lines) ? lines : [String(lines)];
+  }
+
+  function drawWatermark(doc, pageW, pageH) {
+    doc.saveGraphicsState();
+    doc.setGState(new doc.GState({ opacity: 0.045 }));
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(38);
+    setTextColor(doc, BLUE);
+    doc.text("SkillrHub.com", pageW / 2, pageH / 2 + 10, {
+      align: "center",
+      angle: 32
+    });
+    doc.restoreGraphicsState();
+  }
+
+  function drawHeader(doc, pageW, margin) {
+    const right = pageW - margin;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(21);
+    setTextColor(doc, BLUE);
+    doc.text(BRAND, margin, 12);
+
+    doc.setFontSize(13.5);
+    setTextColor(doc, TEXT);
+    const titleLines = split(doc, getTitle(), 125);
+    doc.text(titleLines.slice(0, 2), margin, 19);
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.5);
+    setTextColor(doc, MUTED);
+    doc.text(normaliseText(getEyebrow()).toUpperCase(), margin, 28);
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(12.5);
+    setTextColor(doc, BLUE);
+    doc.text(WEBSITE, right, 12, { align: "right" });
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.5);
+    setTextColor(doc, MUTED);
+    doc.text("8-question practice", right, 19, { align: "right" });
+
+    setDrawColor(doc, BLUE);
+    doc.setLineWidth(0.55);
+    doc.line(margin, 31.5, right, 31.5);
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(9.5);
+    setTextColor(doc, TEXT);
+    doc.text("Name: ______________________________", margin, 38.5);
+    doc.text("Date: ______________", right, 38.5, { align: "right" });
+
+    const noteY = 42;
+    const noteH = 12;
+    setFillColor(doc, NOTE_FILL);
+    setDrawColor(doc, NOTE_BORDER);
+    doc.setLineWidth(0.3);
+    doc.roundedRect(margin, noteY, pageW - 2 * margin, noteH, 2, 2, "FD");
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.1);
+    setTextColor(doc, BLUE);
+    doc.text("Mastery recommendation:", margin + 3, noteY + 4.4);
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.1);
+    setTextColor(doc, TEXT);
+    const noteText =
+      "Repeat this skill across one week and aim to work through the full question bank over multiple attempts. Repeated practice gives different examples and question formats while strengthening the same skill.";
+    const noteLines = split(doc, noteText, pageW - 2 * margin - 36);
+    doc.text(noteLines.slice(0, 2), margin + 36, noteY + 4.4);
+
+    return 57;
+  }
+
+  function estimateQuestionHeight(doc, q, width) {
+    const type = q.type || "single";
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(10.8);
+    const qLines = split(doc, q.question || "", width - 9).length || 1;
+
+    let h = 4.7 * qLines + 5;
+
+    if (q.visual) {
+      const visualLines = safeVisual(q.visual).split(/\n+/).length;
+      h += Math.min(12, 4.7 * visualLines + 2);
+    }
+
+    if (q.image) h += 12;
+
+    if (type === "single" || type === "true-false" || type === "multiple") {
+      const joined = (q.answers || [])
+        .map(optionText)
+        .filter(Boolean)
+        .join("    ");
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(9.5);
+      h += Math.min(10, 4.2 * Math.max(1, split(doc, joined, width - 9).length));
+    } else if (type === "order" || type === "drag-drop") {
+      h += 9;
+    } else if (type === "drag-image") {
+      h += 10;
+    } else {
+      h += 6;
+    }
+
+    return Math.max(18, Math.min(31, h));
+  }
+
+  function drawVisual(doc, visualText, x, y, width, maxHeight) {
+    const text = safeVisual(visualText);
+    if (!text) return y;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(14.5);
+    setTextColor(doc, TEXT);
+
+    const rawLines = text.split(/\n+/).map(line => line.trim()).filter(Boolean);
+    const lineH = 5.3;
+    const maxLines = Math.max(1, Math.floor(maxHeight / lineH));
+    const lines = rawLines.slice(0, maxLines);
+
+    lines.forEach(line => {
+      doc.text(line, x + width / 2, y, { align: "center" });
+      y += lineH;
+    });
+
+    return y + 0.8;
+  }
+
+  function drawAnswerLine(doc, x, y, width) {
+    setDrawColor(doc, MUTED);
+    doc.setLineWidth(0.28);
+    doc.line(x, y, x + width, y);
+    return y + 2;
+  }
+
+  function drawOptions(doc, q, x, y, width, maxHeight) {
+    const type = q.type || "single";
+    const answers = (q.answers || []).map(optionText).filter(Boolean);
+    if (!answers.length) return y;
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(9.5);
+    setTextColor(doc, TEXT);
+
+    const labels = answers.map((answer, i) => {
+      if (type === "multiple") return `□ ${answer}`;
+      return `${String.fromCharCode(65 + i)}. ${answer}`;
+    });
+
+    const lineH = 4.2;
+    let currentLine = "";
+    const rows = [];
+
+    labels.forEach(label => {
+      const candidate = currentLine ? `${currentLine}     ${label}` : label;
+      if (doc.getTextWidth(candidate) <= width) {
+        currentLine = candidate;
+      } else {
+        if (currentLine) rows.push(currentLine);
+        currentLine = label;
+      }
+    });
+    if (currentLine) rows.push(currentLine);
+
+    const maxRows = Math.max(1, Math.floor(maxHeight / lineH));
+    rows.slice(0, maxRows).forEach(row => {
+      doc.text(row, x, y);
+      y += lineH;
+    });
+
+    return y;
+  }
+
+  function drawOrder(doc, q, x, y, width, maxHeight) {
+    const items = (q.items || []).map(getItemLabel).filter(Boolean);
+    const joined = items.join("  •  ");
+
+    setFillColor(doc, SOFT);
+    setDrawColor(doc, LINE);
+    doc.setLineWidth(0.25);
+    const boxH = Math.min(8.5, Math.max(6.5, maxHeight - 3));
+    doc.roundedRect(x, y, width, boxH, 1.5, 1.5, "FD");
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.8);
+    setTextColor(doc, TEXT);
+    const lines = split(doc, joined, width - 4).slice(0, 2);
+    doc.text(lines, x + 2, y + 3.5);
+    y += boxH + 2;
+
+    return drawAnswerLine(doc, x, y, width);
+  }
+
+  function drawDragImage(doc, q, x, y, width, maxHeight) {
+    const groups = (q.categories || [])
+      .map(cat => normaliseText(cat.label || cat.id || ""))
+      .filter(Boolean)
+      .join(" / ");
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.5);
+    setTextColor(doc, MUTED);
+    if (groups) {
+      doc.text(`Groups: ${groups}`, x, y);
+      y += 4;
+    }
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.8);
+    setTextColor(doc, TEXT);
+    const labels = (q.items || [])
+      .map(item => `${getItemLabel(item)}: ______`)
+      .filter(label => label !== ": ______");
+
+    const rows = split(doc, labels.join("     "), width).slice(
+      0,
+      Math.max(1, Math.floor((maxHeight - 4) / 4))
+    );
+    doc.text(rows, x, y);
+    return y + rows.length * 4;
+  }
+
+  function drawFillBlank(doc, q, x, y, width) {
+    let template = normaliseText(q.template || "{{blank}}");
+    template = template.replace(/\{\{blank\}\}/g, "____________");
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(9.8);
+    setTextColor(doc, TEXT);
+    const lines = split(doc, template, width).slice(0, 2);
+    doc.text(lines, x, y);
+    return y + lines.length * 4.2;
+  }
+
+  async function urlToDataUrl(url) {
+    if (!url) return null;
+    try {
+      const response = await fetch(url, { credentials: "same-origin" });
+      if (!response.ok) return null;
+      const blob = await response.blob();
+      return await new Promise(resolve => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = () => resolve(null);
+        reader.readAsDataURL(blob);
+      });
+    } catch {
+      return null;
+    }
+  }
+
+  async function prepareQuestionImages(questions) {
+    const result = new Map();
+    const unique = [...new Set(questions.map(q => q.image).filter(Boolean))];
+    await Promise.all(
+      unique.map(async url => {
+        result.set(url, await urlToDataUrl(url));
+      })
+    );
+    return result;
+  }
+
+  function drawQuestionImage(doc, dataUrl, x, y, width, maxHeight) {
+    if (!dataUrl || maxHeight < 7) return y;
+    try {
+      const props = doc.getImageProperties(dataUrl);
+      const maxW = Math.min(44, width * 0.42);
+      const maxH = Math.min(14, maxHeight);
+      const ratio = Math.min(maxW / props.width, maxH / props.height);
+      const w = props.width * ratio;
+      const h = props.height * ratio;
+      const format = String(props.fileType || "PNG").toUpperCase();
+      doc.addImage(dataUrl, format, x + (width - w) / 2, y, w, h, undefined, "FAST");
+      return y + h + 1;
+    } catch {
+      return y;
+    }
+  }
+
+  function drawQuestion(doc, q, index, x, top, width, blockH, imageMap) {
+    const innerX = x + 8;
+    const innerW = width - 8;
+    const bottom = top + blockH - 1;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(10.8);
+    setTextColor(doc, TEXT);
+    doc.text(`${index + 1}.`, x, top + 4);
+
+    const qLines = split(doc, q.question || "", innerW).slice(0, 2);
+    doc.text(qLines, innerX, top + 4);
+
+    let y = top + 4 + qLines.length * 4.5 + 0.8;
+    let remaining = Math.max(3, bottom - y);
+
+    if (q.image && imageMap.get(q.image)) {
+      y = drawQuestionImage(
+        doc,
+        imageMap.get(q.image),
+        innerX,
+        y,
+        innerW,
+        Math.min(remaining, 14)
+      );
+      remaining = Math.max(3, bottom - y);
+    }
+
+    if (q.visual && remaining > 4) {
+      y = drawVisual(doc, q.visual, innerX, y, innerW, Math.min(remaining, 11));
+      remaining = Math.max(3, bottom - y);
+    }
+
+    const type = q.type || "single";
+
+    if (type === "single" || type === "true-false" || type === "multiple") {
+      y = drawOptions(doc, q, innerX, y, innerW, remaining);
+    } else if (type === "order" || type === "drag-drop") {
+      y = drawOrder(doc, q, innerX, y, innerW, remaining);
+    } else if (type === "fill-blank") {
+      y = drawFillBlank(doc, q, innerX, y, innerW);
+    } else if (type === "drag-image") {
+      y = drawDragImage(doc, q, innerX, y, innerW, remaining);
+    } else {
+      y = drawAnswerLine(doc, innerX, Math.min(bottom - 2, y + 3), innerW * 0.75);
+    }
+
+    setDrawColor(doc, LINE);
+    doc.setLineWidth(0.22);
+    doc.line(x, top + blockH, x + width, top + blockH);
+  }
+
+  function allocateHeights(doc, questions, width, totalHeight) {
+    const estimates = questions.map(q => estimateQuestionHeight(doc, q, width));
+    const totalEstimate = estimates.reduce((a, b) => a + b, 0);
+
+    if (totalEstimate <= totalHeight) {
+      const spare = totalHeight - totalEstimate;
+      const add = spare / questions.length;
+      return estimates.map(h => h + add);
+    }
+
+    const minH = 20;
+    const flexible = estimates.map(h => Math.max(minH, h));
+    const flexibleTotal = flexible.reduce((a, b) => a + b, 0);
+
+    if (flexibleTotal <= totalHeight) {
+      const spare = totalHeight - flexibleTotal;
+      const add = spare / questions.length;
+      return flexible.map(h => h + add);
+    }
+
+    const equal = totalHeight / questions.length;
+    return questions.map(() => equal);
+  }
+
+  function drawFooter(doc, pageW, pageH, margin) {
+    const y = pageH - 8.5;
+    setDrawColor(doc, LINE);
+    doc.setLineWidth(0.25);
+    doc.line(margin, y - 5, pageW - margin, y - 5);
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.4);
+    setTextColor(doc, MUTED);
+    doc.text(`${BRAND} - Free learning resources`, margin, y);
+
+    doc.setFontSize(10.5);
+    setTextColor(doc, BLUE);
+    doc.text(WEBSITE, pageW / 2, y, { align: "center" });
+
+    doc.setFontSize(8.4);
+    setTextColor(doc, MUTED);
+    doc.text("Page 1 of 1", pageW - margin, y, { align: "right" });
+  }
+
+  async function buildPdf(questions) {
+    const JsPDF = await loadJsPdf();
+    const doc = new JsPDF({
+      orientation: "portrait",
+      unit: "mm",
+      format: "letter",
+      compress: true
+    });
+
+    const pageW = doc.internal.pageSize.getWidth();
+    const pageH = doc.internal.pageSize.getHeight();
+    const margin = 10;
+
+    drawWatermark(doc, pageW, pageH);
+    const contentTop = drawHeader(doc, pageW, margin);
+    const footerTop = pageH - 18;
+    const contentBottom = footerTop - 2;
+    const contentHeight = contentBottom - contentTop;
+    const contentWidth = pageW - 2 * margin;
+
+    const images = await prepareQuestionImages(questions);
+    const heights = allocateHeights(doc, questions, contentWidth, contentHeight - 8);
+
+    let y = contentTop;
+    heights.forEach((height, index) => {
+      drawQuestion(
+        doc,
+        questions[index],
+        index,
+        margin,
+        y,
+        contentWidth,
+        height,
+        images
+      );
+      y += height;
+    });
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(10.5);
+    setTextColor(doc, TEXT);
+    doc.text(`Score: ______ / ${questions.length}`, margin, contentBottom + 5);
+
+    drawFooter(doc, pageW, pageH, margin);
+
+    const safeName = getTitle()
+      .replace(/[^a-z0-9]+/gi, "-")
+      .replace(/^-+|-+$/g, "")
+      .toLowerCase() || "skillrhub-worksheet";
+
+    doc.save(`${safeName}-worksheet.pdf`);
+  }
+
+  async function downloadWorksheet() {
+    const questions = getQuestions();
+
+    if (!questions.length) {
       alert("Questions are not loaded yet.");
       return;
     }
 
     const button = $("#downloadPdfButton");
     const oldText = button?.textContent || "Download PDF worksheet";
-    let layer;
 
     if (button) {
       button.disabled = true;
-      button.textContent = "Preparing PDF…";
+      button.textContent = "Preparing PDF...";
     }
 
     try {
-      await loadPdfLibrary();
-      await preloadImages(items);
-
-      layer = document.createElement("div");
-      layer.style.cssText = [
-        "position:fixed",
-        "inset:0",
-        "z-index:2147483647",
-        "overflow:auto",
-        "background:#fff",
-        "pointer-events:none"
-      ].join(";");
-
-      document.body.appendChild(layer);
-
-      const { page, viewport, content } = buildOnePage(items);
-      layer.appendChild(page);
-
-      await new Promise(resolve =>
-        requestAnimationFrame(() => requestAnimationFrame(resolve))
-      );
-
-      useAvailableSpace(viewport, content);
-
-      await new Promise(resolve =>
-        requestAnimationFrame(() => requestAnimationFrame(resolve))
-      );
-
-      const safeName = getTitle()
-        .replace(/[^a-z0-9]+/gi, "-")
-        .replace(/^-+|-+$/g, "")
-        .toLowerCase() || "skillrhub-worksheet";
-
-      // IMPORTANT: no pagebreak/avoid-all setting here.
-      // avoid-all was the cause of the phantom blank first page.
-      await window.html2pdf()
-        .set({
-          margin: 0,
-          filename: `${safeName}-worksheet.pdf`,
-          image: { type: "jpeg", quality: 0.98 },
-          html2canvas: {
-            scale: 2,
-            useCORS: true,
-            backgroundColor: "#ffffff",
-            scrollX: 0,
-            scrollY: 0,
-            windowWidth: page.scrollWidth,
-            windowHeight: page.scrollHeight
-          },
-          jsPDF: {
-            unit: "mm",
-            format: "letter",
-            orientation: "portrait"
-          }
-        })
-        .from(page)
-        .save();
-
+      await buildPdf(questions);
     } catch (error) {
       console.error("Worksheet PDF failed:", error);
       alert("The PDF could not be created. Please refresh and try again.");
     } finally {
-      layer?.remove();
-
       if (button) {
         button.disabled = false;
         button.textContent = oldText;
