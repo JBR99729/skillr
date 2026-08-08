@@ -73,7 +73,7 @@
     const hasTouch = window.matchMedia("(pointer: coarse)").matches || window.navigator.maxTouchPoints > 0;
     const mobileUserAgent = /Android|iPhone|iPad|iPod|Mobile/i.test(window.navigator.userAgent);
 
-    return hasTouch && (mobileUserAgent || window.innerWidth <= 900);
+    return hasTouch || mobileUserAgent || window.innerWidth <= 900;
   }
 
   function showInstallButton() {
@@ -100,7 +100,15 @@
       installButton.id = "installAppButton";
       installButton.className = "install-app-fab";
       installButton.type = "button";
-      installButton.textContent = "📱 Install SkillrHub";
+      installButton.setAttribute("aria-label", "Install SkillrHub app");
+      installButton.innerHTML = `
+        <span class="install-app-fab__icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+            <path d="M12 3a1 1 0 0 1 1 1v8.586l2.293-2.293a1 1 0 1 1 1.414 1.414l-4 4a1 1 0 0 1-1.414 0l-4-4a1 1 0 1 1 1.414-1.414L11 12.586V4a1 1 0 0 1 1-1Zm-7 14a1 1 0 0 1 1 1v1h12v-1a1 1 0 1 1 2 0v1a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1a1 1 0 0 1 1-1Z"/>
+          </svg>
+        </span>
+        <span class="install-app-fab__label">Install</span>
+      `;
       installButton.hidden = true;
       document.body.appendChild(installButton);
     }
