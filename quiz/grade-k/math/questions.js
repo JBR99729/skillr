@@ -7,9 +7,9 @@
 
 window.allMathQuestions = [
   {
-    "id": "AC9MFN01-001",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E1",
+    "id": "ac9mfn01-001",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E1",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 0?",
@@ -23,9 +23,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 0 is 0."
   },
   {
-    "id": "AC9MFN01-002",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-002",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 1?",
@@ -39,9 +39,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 1 is 1."
   },
   {
-    "id": "AC9MFN01-003",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-003",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 2?",
@@ -55,9 +55,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 2 is 2."
   },
   {
-    "id": "AC9MFN01-004",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-004",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 3?",
@@ -71,9 +71,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 3 is 3."
   },
   {
-    "id": "AC9MFN01-005",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E5",
+    "id": "ac9mfn01-005",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E5",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 4?",
@@ -87,9 +87,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 4 is 4."
   },
   {
-    "id": "AC9MFN01-006",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E1",
+    "id": "ac9mfn01-006",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E1",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 5?",
@@ -103,9 +103,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 5 is 5."
   },
   {
-    "id": "AC9MFN01-007",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-007",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 6?",
@@ -119,9 +119,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 6 is 6."
   },
   {
-    "id": "AC9MFN01-008",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-008",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 7?",
@@ -135,9 +135,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 7 is 7."
   },
   {
-    "id": "AC9MFN01-009",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-009",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 8?",
@@ -151,9 +151,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 8 is 8."
   },
   {
-    "id": "AC9MFN01-010",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E5",
+    "id": "ac9mfn01-010",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E5",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 9?",
@@ -167,9 +167,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 9 is 9."
   },
   {
-    "id": "AC9MFN01-011",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E1",
+    "id": "ac9mfn01-011",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E1",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 10?",
@@ -183,9 +183,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 10 is 10."
   },
   {
-    "id": "AC9MFN01-012",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-012",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 11?",
@@ -199,9 +199,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 11 is 11."
   },
   {
-    "id": "AC9MFN01-013",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-013",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 12?",
@@ -215,9 +215,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 12 is 12."
   },
   {
-    "id": "AC9MFN01-014",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-014",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 13?",
@@ -231,9 +231,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 13 is 13."
   },
   {
-    "id": "AC9MFN01-015",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E5",
+    "id": "ac9mfn01-015",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E5",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 14?",
@@ -247,9 +247,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 14 is 14."
   },
   {
-    "id": "AC9MFN01-016",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E1",
+    "id": "ac9mfn01-016",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E1",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 15?",
@@ -263,9 +263,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 15 is 15."
   },
   {
-    "id": "AC9MFN01-017",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-017",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 16?",
@@ -279,9 +279,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 16 is 16."
   },
   {
-    "id": "AC9MFN01-018",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-018",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 17?",
@@ -295,9 +295,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 17 is 17."
   },
   {
-    "id": "AC9MFN01-019",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-019",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 18?",
@@ -311,9 +311,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 18 is 18."
   },
   {
-    "id": "AC9MFN01-020",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E5",
+    "id": "ac9mfn01-020",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E5",
     "difficulty": "easy",
     "type": "single",
     "question": "Which number is 19?",
@@ -327,9 +327,9 @@ window.allMathQuestions = [
     "explanation": "The numeral for 19 is 19."
   },
   {
-    "id": "AC9MFN01-021",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-021",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just after 1?",
@@ -343,9 +343,9 @@ window.allMathQuestions = [
     "explanation": "2 comes after 1."
   },
   {
-    "id": "AC9MFN01-022",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-022",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just before 2?",
@@ -359,9 +359,9 @@ window.allMathQuestions = [
     "explanation": "1 comes before 2."
   },
   {
-    "id": "AC9MFN01-023",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-023",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "medium",
     "type": "single",
     "question": "Which number is between 2 and 4?",
@@ -375,9 +375,9 @@ window.allMathQuestions = [
     "explanation": "3 is between 2 and 4."
   },
   {
-    "id": "AC9MFN01-024",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-024",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just after 4?",
@@ -391,9 +391,9 @@ window.allMathQuestions = [
     "explanation": "5 comes after 4."
   },
   {
-    "id": "AC9MFN01-025",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-025",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just before 5?",
@@ -407,9 +407,9 @@ window.allMathQuestions = [
     "explanation": "4 comes before 5."
   },
   {
-    "id": "AC9MFN01-026",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-026",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "medium",
     "type": "single",
     "question": "Which number is between 5 and 7?",
@@ -423,9 +423,9 @@ window.allMathQuestions = [
     "explanation": "6 is between 5 and 7."
   },
   {
-    "id": "AC9MFN01-027",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-027",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just after 7?",
@@ -439,9 +439,9 @@ window.allMathQuestions = [
     "explanation": "8 comes after 7."
   },
   {
-    "id": "AC9MFN01-028",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-028",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just before 8?",
@@ -455,9 +455,9 @@ window.allMathQuestions = [
     "explanation": "7 comes before 8."
   },
   {
-    "id": "AC9MFN01-029",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-029",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "medium",
     "type": "single",
     "question": "Which number is between 8 and 10?",
@@ -471,9 +471,9 @@ window.allMathQuestions = [
     "explanation": "9 is between 8 and 10."
   },
   {
-    "id": "AC9MFN01-030",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-030",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just after 10?",
@@ -487,9 +487,9 @@ window.allMathQuestions = [
     "explanation": "11 comes after 10."
   },
   {
-    "id": "AC9MFN01-031",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-031",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just before 11?",
@@ -503,9 +503,9 @@ window.allMathQuestions = [
     "explanation": "10 comes before 11."
   },
   {
-    "id": "AC9MFN01-032",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-032",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "medium",
     "type": "single",
     "question": "Which number is between 11 and 13?",
@@ -519,9 +519,9 @@ window.allMathQuestions = [
     "explanation": "12 is between 11 and 13."
   },
   {
-    "id": "AC9MFN01-033",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-033",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just after 13?",
@@ -535,9 +535,9 @@ window.allMathQuestions = [
     "explanation": "14 comes after 13."
   },
   {
-    "id": "AC9MFN01-034",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E2",
+    "id": "ac9mfn01-034",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E2",
     "difficulty": "easy",
     "type": "single",
     "question": "What number comes just before 14?",
@@ -551,9 +551,9 @@ window.allMathQuestions = [
     "explanation": "13 comes before 14."
   },
   {
-    "id": "AC9MFN01-035",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-035",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "medium",
     "type": "single",
     "question": "Which number is between 14 and 16?",
@@ -567,9 +567,9 @@ window.allMathQuestions = [
     "explanation": "15 is between 14 and 16."
   },
   {
-    "id": "AC9MFN01-036",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-036",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Five children are in a line. Which position word means number 1?",
@@ -583,9 +583,9 @@ window.allMathQuestions = [
     "explanation": "Position 1 is called first."
   },
   {
-    "id": "AC9MFN01-037",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-037",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Five children are in a line. Which position word means number 2?",
@@ -599,9 +599,9 @@ window.allMathQuestions = [
     "explanation": "Position 2 is called second."
   },
   {
-    "id": "AC9MFN01-038",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-038",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Five children are in a line. Which position word means number 3?",
@@ -615,9 +615,9 @@ window.allMathQuestions = [
     "explanation": "Position 3 is called third."
   },
   {
-    "id": "AC9MFN01-039",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-039",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Five children are in a line. Which position word means number 4?",
@@ -631,9 +631,9 @@ window.allMathQuestions = [
     "explanation": "Position 4 is called fourth."
   },
   {
-    "id": "AC9MFN01-040",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E3",
+    "id": "ac9mfn01-040",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E3",
     "difficulty": "easy",
     "type": "single",
     "question": "Five children are in a line. Which position word means number 5?",
@@ -647,9 +647,9 @@ window.allMathQuestions = [
     "explanation": "Position 5 is called fifth."
   },
   {
-    "id": "AC9MFN01-041",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-041",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 5. How many objects should be inside?",
@@ -663,9 +663,9 @@ window.allMathQuestions = [
     "explanation": "The label 5 tells us the box should have 5 objects."
   },
   {
-    "id": "AC9MFN01-042",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-042",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 6. How many objects should be inside?",
@@ -679,9 +679,9 @@ window.allMathQuestions = [
     "explanation": "The label 6 tells us the box should have 6 objects."
   },
   {
-    "id": "AC9MFN01-043",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-043",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 7. How many objects should be inside?",
@@ -695,9 +695,9 @@ window.allMathQuestions = [
     "explanation": "The label 7 tells us the box should have 7 objects."
   },
   {
-    "id": "AC9MFN01-044",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-044",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 8. How many objects should be inside?",
@@ -711,9 +711,9 @@ window.allMathQuestions = [
     "explanation": "The label 8 tells us the box should have 8 objects."
   },
   {
-    "id": "AC9MFN01-045",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-045",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 9. How many objects should be inside?",
@@ -727,9 +727,9 @@ window.allMathQuestions = [
     "explanation": "The label 9 tells us the box should have 9 objects."
   },
   {
-    "id": "AC9MFN01-046",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-046",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 10. How many objects should be inside?",
@@ -743,9 +743,9 @@ window.allMathQuestions = [
     "explanation": "The label 10 tells us the box should have 10 objects."
   },
   {
-    "id": "AC9MFN01-047",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-047",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 11. How many objects should be inside?",
@@ -759,9 +759,9 @@ window.allMathQuestions = [
     "explanation": "The label 11 tells us the box should have 11 objects."
   },
   {
-    "id": "AC9MFN01-048",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-048",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 12. How many objects should be inside?",
@@ -775,9 +775,9 @@ window.allMathQuestions = [
     "explanation": "The label 12 tells us the box should have 12 objects."
   },
   {
-    "id": "AC9MFN01-049",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-049",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 13. How many objects should be inside?",
@@ -791,9 +791,9 @@ window.allMathQuestions = [
     "explanation": "The label 13 tells us the box should have 13 objects."
   },
   {
-    "id": "AC9MFN01-050",
-    "code": "AC9MFN01",
-    "elaboration": "AC9MFN01_E4",
+    "id": "ac9mfn01-050",
+    "code": "ac9mfn01",
+    "elaboration": "ac9mfn01_E4",
     "difficulty": "easy",
     "type": "single",
     "question": "A box label says 14. How many objects should be inside?",
