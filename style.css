@@ -815,20 +815,30 @@ footer {
     bottom: 150px;
     z-index: 9998;
     display: block;
-    max-width: min(240px, calc(100vw - 92px));
-    padding: 10px 12px;
+    max-width: min(260px, calc(100vw - 92px));
+    padding: 11px 12px;
+    border: 1px solid rgba(251, 191, 36, 0.45);
     border-radius: 12px;
-    background: rgba(15, 23, 42, 0.95);
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.98) 0%, rgba(30, 41, 59, 0.98) 100%);
     color: #fff;
     box-shadow: 0 14px 32px rgba(15, 23, 42, 0.24);
-    font-size: 0.78rem;
-    line-height: 1.4;
+    font-size: 0.8rem;
+    line-height: 1.45;
 }
 
 .skillr-install-help strong {
     display: block;
     margin-bottom: 4px;
-    font-size: 0.8rem;
+    color: #fef3c7;
+    font-size: 0.84rem;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+.skillr-install-help span {
+    display: block;
+    font-weight: 700;
 }
 
 .skillr-share-menu {
@@ -885,8 +895,8 @@ footer {
     .skillr-install-help {
         right: 66px;
         bottom: 206px;
-        max-width: min(220px, calc(100vw - 86px));
-        font-size: 0.75rem;
+        max-width: min(230px, calc(100vw - 86px));
+        font-size: 0.76rem;
     }
 
     .resource-quickstart {
