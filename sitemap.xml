@@ -106,6 +106,9 @@
     <loc>https://skillrhub.com/</loc>
   </url>
   <url>
+    <loc>https://skillrhub.com/offline.html</loc>
+  </url>
+  <url>
     <loc>https://skillrhub.com/policy.html</loc>
   </url>
   <url>
@@ -113,6 +116,15 @@
   </url>
   <url>
     <loc>https://skillrhub.com/quiz/grade-k/math/AC9MFN01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfa01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfm01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfm02/</loc>
   </url>
   <url>
     <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfn02/</loc>
@@ -130,10 +142,64 @@
     <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfn06/</loc>
   </url>
   <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfsp01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfsp02/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/grade-k/math/ac9mfst01/</loc>
+  </url>
+  <url>
     <loc>https://skillrhub.com/quiz/grade-k/math/</loc>
   </url>
   <url>
     <loc>https://skillrhub.com/quiz/review.html</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1a01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1m01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1m02/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1m03/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n02/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n03/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n04/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n05/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1n06/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1sp01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1sp02/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1st01/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/ac9m1st02/</loc>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/quiz/year-1/math/</loc>
   </url>
   <url>
     <loc>https://skillrhub.com/sitemap.html</loc>
