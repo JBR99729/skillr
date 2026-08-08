@@ -539,44 +539,32 @@ textarea {
 /* Download buttons */
 
 .download-links {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-    gap: 12px;
-    margin-top: 16px;
+    display: block;
+    margin-top: 12px;
 }
 
 .download-button,
 .download-link {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 52px;
-    width: 100%;
-    padding: 10px 14px;
-    border: 1px solid #1a3a72;
-    border-radius: 6px;
-    background: #fff;
-    color: #1a3a72;
-    font-weight: 700;
-    text-align: center;
-    text-decoration: none;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    display: inline-block;
+    width: auto;
+    min-height: auto;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background: transparent;
+    color: #0d4a95;
+    font-weight: 400;
+    text-align: left;
+    text-decoration: underline;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
 }
 
 .download-link {
-    min-height: auto;
-    justify-content: flex-start;
-    border: none;
-    border-bottom: 1px solid #d9e2f0;
-    border-radius: 0;
-    background: transparent;
-    padding: 6px 0;
-    font-weight: 600;
-    color: #1a3a72;
-    text-align: left;
-    white-space: normal;
+    display: inline-block;
+    margin: 0 0 6px;
+    line-height: 1.6;
 }
 
 .amazon-resource-callout {
