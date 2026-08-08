@@ -61,12 +61,27 @@
     }
   }
 
+  function shouldShowInstallButton() {
+    if (isInstallDismissed()) {
+      return false;
+    }
+
+    if (window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true) {
+      return false;
+    }
+
+    const hasTouch = window.matchMedia("(pointer: coarse)").matches || window.navigator.maxTouchPoints > 0;
+    const mobileUserAgent = /Android|iPhone|iPad|iPod|Mobile/i.test(window.navigator.userAgent);
+
+    return hasTouch && (mobileUserAgent || window.innerWidth <= 900);
+  }
+
   function showInstallButton() {
     if (!installButton || isInstallDismissed()) {
       return;
     }
 
-    installButton.hidden = false;
+    installButton.hidden = !shouldShowInstallButton();
   }
 
   function attachInstallButton() {
@@ -94,6 +109,8 @@
       installButton.hidden = true;
       return;
     }
+
+    showInstallButton();
 
     installButton.addEventListener("click", async () => {
       if (!deferredInstallPrompt) {
