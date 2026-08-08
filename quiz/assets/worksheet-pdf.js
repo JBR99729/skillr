@@ -1,28 +1,52 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT jsPDF VERSION
-   Save as: /quiz/assets/worksheet-pdf.js
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v13
+   File path: /quiz/assets/worksheet-pdf.js
 
-   Why this version exists:
-   - Does NOT screenshot HTML with html2canvas.
-   - Draws directly onto a US Letter PDF with jsPDF.
-   - Exactly one page for the active 8-question practice.
-   - No phantom blank page, horizontal clipping or quarter-page capture.
-   - Uses readable print sizes and distributes all 8 questions
-     through the usable page height.
-   - Uses the SAME active questions as the online quiz.
+   IMPORTANT
+   - Direct jsPDF drawing only. No html2canvas/html2pdf capture.
+   - Exactly one US Letter page.
+   - Uses the same active 8 questions as the quiz.
+   - Replaces the PDF button node during setup so stale listeners
+     from older worksheet-pdf.js versions cannot also fire.
    ========================================================= */
 
 (() => {
+  const VERSION = "13";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
   const BRAND = "SkillrHub";
   const WEBSITE = "www.skillrhub.com";
-  const QUESTION_LIMIT = 8;
+  const ONLINE_QUESTION_LIMIT = 8;
+  const PRINTABLE_LIMIT = 6;
+  const PAPER_FRIENDLY_TYPES = new Set([
+    "single",
+    "true-false",
+    "text",
+    "number",
+    "fill-blank"
+  ]);
+
+  const BLUE = [36, 87, 214];
+  const TEXT = [23, 32, 51];
+  const MUTED = [102, 112, 133];
+  const LINE = [216, 224, 234];
+  const NOTE_FILL = [246, 248, 255];
+  const NOTE_BORDER = [205, 217, 246];
 
   const $ = (selector, root = document) => root.querySelector(selector);
+
+  function normaliseText(value) {
+    return String(value ?? "")
+      .replace(/[\u2018\u2019]/g, "'")
+      .replace(/[\u201C\u201D]/g, '"')
+      .replace(/[\u2013\u2014]/g, "-")
+      .replace(/\u2026/g, "...")
+      .replace(/\u00A0/g, " ")
+      .trim();
+  }
 
   function getTitle() {
     return (
@@ -39,371 +63,107 @@
     );
   }
 
-  function getQuestions() {
+  function getActiveQuestions() {
     if (
       Array.isArray(window.skillrActiveQuestions) &&
       window.skillrActiveQuestions.length
     ) {
-      return window.skillrActiveQuestions.slice(0, QUESTION_LIMIT);
+      return window.skillrActiveQuestions.slice(0, ONLINE_QUESTION_LIMIT);
     }
 
     const bank = Array.isArray(window.quizQuestions)
       ? window.quizQuestions
       : [];
 
-    return bank.slice(0, QUESTION_LIMIT);
+    return bank.slice(0, ONLINE_QUESTION_LIMIT);
+  }
+
+  function isPaperFriendly(question) {
+    const type = question?.type || "single";
+    return PAPER_FRIENDLY_TYPES.has(type);
+  }
+
+  function getPrintableQuestions() {
+    return getActiveQuestions()
+      .filter(isPaperFriendly)
+      .slice(0, PRINTABLE_LIMIT);
+  }
+
+  function setText(doc, rgb) {
+    doc.setTextColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function setDraw(doc, rgb) {
+    doc.setDrawColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function setFill(doc, rgb) {
+    doc.setFillColor(rgb[0], rgb[1], rgb[2]);
+  }
+
+  function wrap(doc, text, width) {
+    const value = normaliseText(text);
+    if (!value) return [];
+    const lines = doc.splitTextToSize(value, width);
+    return Array.isArray(lines) ? lines : [String(lines)];
+  }
+
+  function optionText(value) {
+    if (typeof value === "string" || typeof value === "number") {
+      return normaliseText(value);
+    }
+    if (value && typeof value === "object") {
+      return normaliseText(value.label || value.alt || value.id || "");
+    }
+    return "";
+  }
+
+  function itemText(value) {
+    return optionText(value);
   }
 
   function loadJsPdf() {
+    // jsPDF from html2pdf bundles is still capable of direct drawing.
     if (window.jspdf?.jsPDF) {
       return Promise.resolve(window.jspdf.jsPDF);
     }
 
     return new Promise((resolve, reject) => {
-      const existing = document.querySelector(
-        'script[data-skillr-jspdf="true"]'
+      const previous = document.querySelector(
+        'script[data-skillr-direct-jspdf="true"]'
       );
 
       const finish = () => {
         if (window.jspdf?.jsPDF) {
           resolve(window.jspdf.jsPDF);
         } else {
-          reject(new Error("jsPDF loaded but was not available."));
+          reject(new Error("jsPDF did not initialise."));
         }
       };
 
-      if (existing) {
-        existing.addEventListener("load", finish, { once: true });
-        existing.addEventListener("error", reject, { once: true });
+      if (previous) {
+        previous.addEventListener("load", finish, { once: true });
+        previous.addEventListener("error", reject, { once: true });
         return;
       }
 
       const script = document.createElement("script");
       script.src = JSPDF_URL;
       script.async = true;
-      script.dataset.skillrJspdf = "true";
+      script.dataset.skillrDirectJspdf = "true";
       script.addEventListener("load", finish, { once: true });
       script.addEventListener("error", reject, { once: true });
       document.head.appendChild(script);
     });
   }
 
-  function normaliseText(value) {
-    return String(value ?? "")
-      .replace(/\u2018|\u2019/g, "'")
-      .replace(/\u201C|\u201D/g, '"')
-      .replace(/\u2013|\u2014/g, "-")
-      .replace(/\u2026/g, "...")
-      .replace(/\u00A0/g, " ")
-      .trim();
-  }
-
-  function safeVisual(value) {
-    return normaliseText(value)
-      .replace(/●/g, "•")
-      .replace(/◯/g, "O");
-  }
-
-  function optionText(answer) {
-    if (typeof answer === "string" || typeof answer === "number") {
-      return normaliseText(answer);
-    }
-    if (answer && typeof answer === "object") {
-      return normaliseText(answer.label || answer.alt || answer.id || "");
-    }
-    return "";
-  }
-
-  function getItemLabel(item) {
-    if (typeof item === "string" || typeof item === "number") {
-      return normaliseText(item);
-    }
-    if (item && typeof item === "object") {
-      return normaliseText(item.label || item.alt || item.id || "");
-    }
-    return "";
-  }
-
-  function hexToRgb(hex) {
-    const clean = hex.replace("#", "");
-    const value = parseInt(clean, 16);
-    return [
-      (value >> 16) & 255,
-      (value >> 8) & 255,
-      value & 255
-    ];
-  }
-
-  const BLUE = hexToRgb("#2457d6");
-  const TEXT = hexToRgb("#172033");
-  const MUTED = hexToRgb("#667085");
-  const LINE = hexToRgb("#d8e0ea");
-  const SOFT = hexToRgb("#f5f7fb");
-  const NOTE_BORDER = hexToRgb("#cdd9f6");
-  const NOTE_FILL = hexToRgb("#f6f8ff");
-
-  function setTextColor(doc, rgb = TEXT) {
-    doc.setTextColor(rgb[0], rgb[1], rgb[2]);
-  }
-
-  function setDrawColor(doc, rgb = LINE) {
-    doc.setDrawColor(rgb[0], rgb[1], rgb[2]);
-  }
-
-  function setFillColor(doc, rgb = SOFT) {
-    doc.setFillColor(rgb[0], rgb[1], rgb[2]);
-  }
-
-  function split(doc, text, width) {
-    const cleaned = normaliseText(text);
-    if (!cleaned) return [];
-    const lines = doc.splitTextToSize(cleaned, width);
-    return Array.isArray(lines) ? lines : [String(lines)];
-  }
-
-  function drawWatermark(doc, pageW, pageH) {
-    doc.saveGraphicsState();
-    doc.setGState(new doc.GState({ opacity: 0.045 }));
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(38);
-    setTextColor(doc, BLUE);
-    doc.text("SkillrHub.com", pageW / 2, pageH / 2 + 10, {
-      align: "center",
-      angle: 32
-    });
-    doc.restoreGraphicsState();
-  }
-
-  function drawHeader(doc, pageW, margin) {
-    const right = pageW - margin;
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(21);
-    setTextColor(doc, BLUE);
-    doc.text(BRAND, margin, 12);
-
-    doc.setFontSize(13.5);
-    setTextColor(doc, TEXT);
-    const titleLines = split(doc, getTitle(), 125);
-    doc.text(titleLines.slice(0, 2), margin, 19);
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.5);
-    setTextColor(doc, MUTED);
-    doc.text(normaliseText(getEyebrow()).toUpperCase(), margin, 28);
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(12.5);
-    setTextColor(doc, BLUE);
-    doc.text(WEBSITE, right, 12, { align: "right" });
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.5);
-    setTextColor(doc, MUTED);
-    doc.text("8-question practice", right, 19, { align: "right" });
-
-    setDrawColor(doc, BLUE);
-    doc.setLineWidth(0.55);
-    doc.line(margin, 31.5, right, 31.5);
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(9.5);
-    setTextColor(doc, TEXT);
-    doc.text("Name: ______________________________", margin, 38.5);
-    doc.text("Date: ______________", right, 38.5, { align: "right" });
-
-    const noteY = 42;
-    const noteH = 12;
-    setFillColor(doc, NOTE_FILL);
-    setDrawColor(doc, NOTE_BORDER);
-    doc.setLineWidth(0.3);
-    doc.roundedRect(margin, noteY, pageW - 2 * margin, noteH, 2, 2, "FD");
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.1);
-    setTextColor(doc, BLUE);
-    doc.text("Mastery recommendation:", margin + 3, noteY + 4.4);
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.1);
-    setTextColor(doc, TEXT);
-    const noteText =
-      "Repeat this skill across one week and aim to work through the full question bank over multiple attempts. Repeated practice gives different examples and question formats while strengthening the same skill.";
-    const noteLines = split(doc, noteText, pageW - 2 * margin - 36);
-    doc.text(noteLines.slice(0, 2), margin + 36, noteY + 4.4);
-
-    return 57;
-  }
-
-  function estimateQuestionHeight(doc, q, width) {
-    const type = q.type || "single";
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(10.8);
-    const qLines = split(doc, q.question || "", width - 9).length || 1;
-
-    let h = 4.7 * qLines + 5;
-
-    if (q.visual) {
-      const visualLines = safeVisual(q.visual).split(/\n+/).length;
-      h += Math.min(12, 4.7 * visualLines + 2);
-    }
-
-    if (q.image) h += 12;
-
-    if (type === "single" || type === "true-false" || type === "multiple") {
-      const joined = (q.answers || [])
-        .map(optionText)
-        .filter(Boolean)
-        .join("    ");
-      doc.setFont("helvetica", "normal");
-      doc.setFontSize(9.5);
-      h += Math.min(10, 4.2 * Math.max(1, split(doc, joined, width - 9).length));
-    } else if (type === "order" || type === "drag-drop") {
-      h += 9;
-    } else if (type === "drag-image") {
-      h += 10;
-    } else {
-      h += 6;
-    }
-
-    return Math.max(18, Math.min(31, h));
-  }
-
-  function drawVisual(doc, visualText, x, y, width, maxHeight) {
-    const text = safeVisual(visualText);
-    if (!text) return y;
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(14.5);
-    setTextColor(doc, TEXT);
-
-    const rawLines = text.split(/\n+/).map(line => line.trim()).filter(Boolean);
-    const lineH = 5.3;
-    const maxLines = Math.max(1, Math.floor(maxHeight / lineH));
-    const lines = rawLines.slice(0, maxLines);
-
-    lines.forEach(line => {
-      doc.text(line, x + width / 2, y, { align: "center" });
-      y += lineH;
-    });
-
-    return y + 0.8;
-  }
-
-  function drawAnswerLine(doc, x, y, width) {
-    setDrawColor(doc, MUTED);
-    doc.setLineWidth(0.28);
-    doc.line(x, y, x + width, y);
-    return y + 2;
-  }
-
-  function drawOptions(doc, q, x, y, width, maxHeight) {
-    const type = q.type || "single";
-    const answers = (q.answers || []).map(optionText).filter(Boolean);
-    if (!answers.length) return y;
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(9.5);
-    setTextColor(doc, TEXT);
-
-    const labels = answers.map((answer, i) => {
-      if (type === "multiple") return `□ ${answer}`;
-      return `${String.fromCharCode(65 + i)}. ${answer}`;
-    });
-
-    const lineH = 4.2;
-    let currentLine = "";
-    const rows = [];
-
-    labels.forEach(label => {
-      const candidate = currentLine ? `${currentLine}     ${label}` : label;
-      if (doc.getTextWidth(candidate) <= width) {
-        currentLine = candidate;
-      } else {
-        if (currentLine) rows.push(currentLine);
-        currentLine = label;
-      }
-    });
-    if (currentLine) rows.push(currentLine);
-
-    const maxRows = Math.max(1, Math.floor(maxHeight / lineH));
-    rows.slice(0, maxRows).forEach(row => {
-      doc.text(row, x, y);
-      y += lineH;
-    });
-
-    return y;
-  }
-
-  function drawOrder(doc, q, x, y, width, maxHeight) {
-    const items = (q.items || []).map(getItemLabel).filter(Boolean);
-    const joined = items.join("  •  ");
-
-    setFillColor(doc, SOFT);
-    setDrawColor(doc, LINE);
-    doc.setLineWidth(0.25);
-    const boxH = Math.min(8.5, Math.max(6.5, maxHeight - 3));
-    doc.roundedRect(x, y, width, boxH, 1.5, 1.5, "FD");
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.8);
-    setTextColor(doc, TEXT);
-    const lines = split(doc, joined, width - 4).slice(0, 2);
-    doc.text(lines, x + 2, y + 3.5);
-    y += boxH + 2;
-
-    return drawAnswerLine(doc, x, y, width);
-  }
-
-  function drawDragImage(doc, q, x, y, width, maxHeight) {
-    const groups = (q.categories || [])
-      .map(cat => normaliseText(cat.label || cat.id || ""))
-      .filter(Boolean)
-      .join(" / ");
-
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.5);
-    setTextColor(doc, MUTED);
-    if (groups) {
-      doc.text(`Groups: ${groups}`, x, y);
-      y += 4;
-    }
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.8);
-    setTextColor(doc, TEXT);
-    const labels = (q.items || [])
-      .map(item => `${getItemLabel(item)}: ______`)
-      .filter(label => label !== ": ______");
-
-    const rows = split(doc, labels.join("     "), width).slice(
-      0,
-      Math.max(1, Math.floor((maxHeight - 4) / 4))
-    );
-    doc.text(rows, x, y);
-    return y + rows.length * 4;
-  }
-
-  function drawFillBlank(doc, q, x, y, width) {
-    let template = normaliseText(q.template || "{{blank}}");
-    template = template.replace(/\{\{blank\}\}/g, "____________");
-
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(9.8);
-    setTextColor(doc, TEXT);
-    const lines = split(doc, template, width).slice(0, 2);
-    doc.text(lines, x, y);
-    return y + lines.length * 4.2;
-  }
-
-  async function urlToDataUrl(url) {
+  async function imageToDataUrl(url) {
     if (!url) return null;
     try {
       const response = await fetch(url, { credentials: "same-origin" });
       if (!response.ok) return null;
       const blob = await response.blob();
-      return await new Promise(resolve => {
+      return await new Promise((resolve) => {
         const reader = new FileReader();
         reader.onload = () => resolve(reader.result);
         reader.onerror = () => resolve(null);
@@ -414,172 +174,432 @@
     }
   }
 
-  async function prepareQuestionImages(questions) {
-    const result = new Map();
-    const unique = [...new Set(questions.map(q => q.image).filter(Boolean))];
+  async function preloadImages(questions) {
+    const urls = [...new Set(questions.map((q) => q.image).filter(Boolean))];
+    const map = new Map();
     await Promise.all(
-      unique.map(async url => {
-        result.set(url, await urlToDataUrl(url));
+      urls.map(async (url) => {
+        map.set(url, await imageToDataUrl(url));
       })
     );
-    return result;
+    return map;
   }
 
-  function drawQuestionImage(doc, dataUrl, x, y, width, maxHeight) {
-    if (!dataUrl || maxHeight < 7) return y;
+  function drawWatermark(doc, pageW, pageH) {
+    try {
+      doc.saveGraphicsState();
+      if (doc.GState && doc.setGState) {
+        doc.setGState(new doc.GState({ opacity: 0.045 }));
+      }
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(44);
+      setText(doc, BLUE);
+      doc.text("SkillrHub.com", pageW / 2, pageH / 2 + 8, {
+        align: "center",
+        angle: 32
+      });
+      doc.restoreGraphicsState();
+    } catch {
+      // Watermark is decorative; never allow it to break the worksheet.
+    }
+  }
+
+  function drawHeader(doc, pageW, margin, printableCount) {
+    const right = pageW - margin;
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(20);
+    setText(doc, BLUE);
+    doc.text(BRAND, margin, 11.5);
+
+    doc.setFontSize(12.5);
+    setText(doc, TEXT);
+    const titleLines = wrap(doc, getTitle(), 120).slice(0, 2);
+    doc.text(titleLines, margin, 18.5);
+
+    doc.setFontSize(8.3);
+    setText(doc, MUTED);
+    doc.text(normaliseText(getEyebrow()).toUpperCase(), margin, 27.2);
+
+    doc.setFontSize(11.5);
+    setText(doc, BLUE);
+    doc.text(WEBSITE, right, 11.5, { align: "right" });
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.2);
+    setText(doc, MUTED);
+    doc.text(`${printableCount}-question printable worksheet`, right, 18.3, {
+      align: "right"
+    });
+
+    setDraw(doc, BLUE);
+    doc.setLineWidth(0.5);
+    doc.line(margin, 30.2, right, 30.2);
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(9.2);
+    setText(doc, TEXT);
+    doc.text("Name: __________________________", margin, 36.7);
+    doc.text("Date: ______________", right, 36.7, { align: "right" });
+
+    const noteY = 40.2;
+    const noteH = 18.2;
+    setFill(doc, NOTE_FILL);
+    setDraw(doc, NOTE_BORDER);
+    doc.setLineWidth(0.25);
+    doc.roundedRect(margin, noteY, pageW - 2 * margin, noteH, 1.7, 1.7, "FD");
+
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.6);
+    setText(doc, BLUE);
+    doc.text("For mastery", margin + 2.8, noteY + 4.4);
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.4);
+    setText(doc, TEXT);
+    const note =
+      "Repeat this skill online across one week and aim to work through the full question bank over multiple attempts. This worksheet contains only paper-friendly questions from the current set. Complete arranging, drag-and-drop and select-all activities online.";
+    const noteLines = wrap(doc, note, pageW - 2 * margin - 5.6).slice(0, 3);
+    doc.text(noteLines, margin + 2.8, noteY + 8.8);
+
+    return noteY + noteH + 4.0;
+  }
+
+  function drawQuestionImage(doc, dataUrl, x, y, width, availableH) {
+    if (!dataUrl || availableH < 7) return y;
+
     try {
       const props = doc.getImageProperties(dataUrl);
-      const maxW = Math.min(44, width * 0.42);
-      const maxH = Math.min(14, maxHeight);
-      const ratio = Math.min(maxW / props.width, maxH / props.height);
-      const w = props.width * ratio;
-      const h = props.height * ratio;
+      const maxW = Math.min(width * 0.38, 42);
+      const maxH = Math.min(availableH, 16);
+      const scale = Math.min(maxW / props.width, maxH / props.height);
+      const w = props.width * scale;
+      const h = props.height * scale;
       const format = String(props.fileType || "PNG").toUpperCase();
-      doc.addImage(dataUrl, format, x + (width - w) / 2, y, w, h, undefined, "FAST");
-      return y + h + 1;
+      doc.addImage(
+        dataUrl,
+        format,
+        x + (width - w) / 2,
+        y,
+        w,
+        h,
+        undefined,
+        "FAST"
+      );
+      return y + h + 0.8;
     } catch {
       return y;
     }
   }
 
-  function drawQuestion(doc, q, index, x, top, width, blockH, imageMap) {
-    const innerX = x + 8;
-    const innerW = width - 8;
-    const bottom = top + blockH - 1;
+  function drawVisual(doc, visual, x, y, width, availableH) {
+    if (!visual || availableH < 4) return y;
+
+    const lines = String(visual)
+      .split(/\n+/)
+      .map((line) => line.trim())
+      .filter(Boolean)
+      .slice(0, 3);
+
+    const lineH = 6.0;
+    const maxLines = Math.max(1, Math.floor(availableH / lineH));
+
+    lines.slice(0, maxLines).forEach((rawLine) => {
+      const dotMatches = rawLine.match(/[●•]/g);
+
+      if (dotMatches?.length) {
+        const label = normaliseText(rawLine.replace(/[●•]/g, "").replace(/\s+/g, " "));
+        doc.setFont("helvetica", "bold");
+        doc.setFontSize(11);
+        setText(doc, TEXT);
+
+        const labelW = label ? doc.getTextWidth(label) : 0;
+        const dotDiameter = 4.2;
+        const dotGap = 2.2;
+        const dotsW = dotMatches.length * dotDiameter +
+          Math.max(0, dotMatches.length - 1) * dotGap;
+        const gapAfterLabel = label ? 4 : 0;
+        const totalW = labelW + gapAfterLabel + dotsW;
+        let cursorX = x + (width - totalW) / 2;
+
+        if (label) {
+          doc.text(label, cursorX, y);
+          cursorX += labelW + gapAfterLabel;
+        }
+
+        setFill(doc, TEXT);
+        for (let i = 0; i < dotMatches.length; i += 1) {
+          doc.circle(cursorX + dotDiameter / 2, y - 1.3, dotDiameter / 2, "F");
+          cursorX += dotDiameter + dotGap;
+        }
+      } else {
+        doc.setFont("helvetica", "bold");
+        doc.setFontSize(16.5);
+        setText(doc, TEXT);
+        doc.text(normaliseText(rawLine), x + width / 2, y, { align: "center" });
+      }
+
+      y += lineH;
+    });
+
+    return y + 0.5;
+  }
+
+  function drawOptions(doc, question, x, y, width, availableH) {
+    const type = question.type || "single";
+    const answers = (question.answers || []).map(optionText).filter(Boolean);
+    if (!answers.length) return y;
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(10.8);
+    setText(doc, TEXT);
+
+    const labels = answers.map((answer, i) =>
+      `${String.fromCharCode(65 + i)}. ${answer}`
+    );
+
+    // Pack options across rows, but never shrink the font to make them fit.
+    const rows = [];
+    let current = "";
+    labels.forEach((label) => {
+      const test = current ? `${current}     ${label}` : label;
+      if (!current || doc.getTextWidth(test) <= width) {
+        current = test;
+      } else {
+        rows.push(current);
+        current = label;
+      }
+    });
+    if (current) rows.push(current);
+
+    const lineH = 4.4;
+    const maxRows = Math.max(1, Math.floor(availableH / lineH));
+    rows.slice(0, maxRows).forEach((row) => {
+      doc.text(row, x, y);
+      y += lineH;
+    });
+
+    return y;
+  }
+
+  function drawAnswerLine(doc, x, y, width) {
+    setDraw(doc, MUTED);
+    doc.setLineWidth(0.28);
+    doc.line(x, y, x + width, y);
+    return y + 1.5;
+  }
+
+  function drawOrder(doc, question, x, y, width, availableH) {
+    const items = (question.items || []).map(itemText).filter(Boolean);
+    const text = items.join("  -  ");
+    const boxH = Math.min(8.5, Math.max(6.8, availableH - 3));
+
+    setFill(doc, [248, 250, 253]);
+    setDraw(doc, LINE);
+    doc.setLineWidth(0.25);
+    doc.roundedRect(x, y, width, boxH, 1.4, 1.4, "FD");
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(9.4);
+    setText(doc, TEXT);
+    const lines = wrap(doc, text, width - 4).slice(0, 2);
+    doc.text(lines, x + 2, y + 3.5);
+
+    return drawAnswerLine(doc, x, y + boxH + 1.5, width);
+  }
+
+  function drawFillBlank(doc, question, x, y, width) {
+    const template = normaliseText(question.template || "{{blank}}")
+      .replace(/\{\{blank\}\}/g, "____________");
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(10.2);
+    setText(doc, TEXT);
+    const lines = wrap(doc, template, width).slice(0, 2);
+    doc.text(lines, x, y);
+    return y + Math.max(1, lines.length) * 4.4;
+  }
+
+  function drawDragImage(doc, question, x, y, width, availableH) {
+    const categories = (question.categories || [])
+      .map((c) => normaliseText(c.label || c.id || ""))
+      .filter(Boolean)
+      .join(" / ");
+
+    if (categories) {
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(9);
+      setText(doc, MUTED);
+      doc.text(`Groups: ${categories}`, x, y);
+      y += 4.2;
+    }
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(9.5);
+    setText(doc, TEXT);
+    const labels = (question.items || [])
+      .map((item) => itemText(item))
+      .filter(Boolean)
+      .map((label) => `${label}: ______`)
+      .join("     ");
+
+    const lines = wrap(doc, labels, width).slice(
+      0,
+      Math.max(1, Math.floor(Math.max(4, availableH - 4) / 4.2))
+    );
+    doc.text(lines, x, y);
+    return y + lines.length * 4.2;
+  }
+
+  function drawQuestion(doc, question, index, x, top, width, blockH, imageMap) {
+    const numberW = 7.5;
+    const bodyX = x + numberW;
+    const bodyW = width - numberW;
+    const bottom = top + blockH - 1.2;
 
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(10.8);
-    setTextColor(doc, TEXT);
-    doc.text(`${index + 1}.`, x, top + 4);
+    doc.setFontSize(12.2);
+    setText(doc, TEXT);
+    doc.text(`${index + 1}.`, x, top + 4.4);
 
-    const qLines = split(doc, q.question || "", innerW).slice(0, 2);
-    doc.text(qLines, innerX, top + 4);
+    const qLines = wrap(doc, question.question || "", bodyW).slice(0, 2);
+    doc.text(qLines, bodyX, top + 4.4);
 
-    let y = top + 4 + qLines.length * 4.5 + 0.8;
+    let y = top + 4.4 + Math.max(1, qLines.length) * 4.8 + 0.6;
     let remaining = Math.max(3, bottom - y);
 
-    if (q.image && imageMap.get(q.image)) {
+    if (question.image && imageMap.get(question.image) && remaining > 7) {
       y = drawQuestionImage(
         doc,
-        imageMap.get(q.image),
-        innerX,
+        imageMap.get(question.image),
+        bodyX,
         y,
-        innerW,
-        Math.min(remaining, 14)
+        bodyW,
+        Math.min(remaining, 16)
       );
       remaining = Math.max(3, bottom - y);
     }
 
-    if (q.visual && remaining > 4) {
-      y = drawVisual(doc, q.visual, innerX, y, innerW, Math.min(remaining, 11));
+    if (question.visual && remaining > 4) {
+      y = drawVisual(
+        doc,
+        question.visual,
+        bodyX,
+        y,
+        bodyW,
+        Math.min(remaining, 12)
+      );
       remaining = Math.max(3, bottom - y);
     }
 
-    const type = q.type || "single";
+    const type = question.type || "single";
 
-    if (type === "single" || type === "true-false" || type === "multiple") {
-      y = drawOptions(doc, q, innerX, y, innerW, remaining);
-    } else if (type === "order" || type === "drag-drop") {
-      y = drawOrder(doc, q, innerX, y, innerW, remaining);
+    if (type === "single" || type === "true-false") {
+      drawOptions(doc, question, bodyX, y, bodyW, remaining);
     } else if (type === "fill-blank") {
-      y = drawFillBlank(doc, q, innerX, y, innerW);
-    } else if (type === "drag-image") {
-      y = drawDragImage(doc, q, innerX, y, innerW, remaining);
+      drawFillBlank(doc, question, bodyX, y, bodyW);
     } else {
-      y = drawAnswerLine(doc, innerX, Math.min(bottom - 2, y + 3), innerW * 0.75);
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(10.5);
+      setText(doc, TEXT);
+      doc.text("Answer:", bodyX, y + 1.5);
+      drawAnswerLine(
+        doc,
+        bodyX + 15,
+        Math.min(bottom - 1.5, y + 1.5),
+        Math.max(35, bodyW * 0.6)
+      );
     }
 
-    setDrawColor(doc, LINE);
-    doc.setLineWidth(0.22);
+    setDraw(doc, LINE);
+    doc.setLineWidth(0.2);
     doc.line(x, top + blockH, x + width, top + blockH);
   }
 
-  function allocateHeights(doc, questions, width, totalHeight) {
-    const estimates = questions.map(q => estimateQuestionHeight(doc, q, width));
-    const totalEstimate = estimates.reduce((a, b) => a + b, 0);
-
-    if (totalEstimate <= totalHeight) {
-      const spare = totalHeight - totalEstimate;
-      const add = spare / questions.length;
-      return estimates.map(h => h + add);
-    }
-
-    const minH = 20;
-    const flexible = estimates.map(h => Math.max(minH, h));
-    const flexibleTotal = flexible.reduce((a, b) => a + b, 0);
-
-    if (flexibleTotal <= totalHeight) {
-      const spare = totalHeight - flexibleTotal;
-      const add = spare / questions.length;
-      return flexible.map(h => h + add);
-    }
-
-    const equal = totalHeight / questions.length;
-    return questions.map(() => equal);
-  }
-
   function drawFooter(doc, pageW, pageH, margin) {
-    const y = pageH - 8.5;
-    setDrawColor(doc, LINE);
+    const y = pageH - 8;
+    setDraw(doc, LINE);
     doc.setLineWidth(0.25);
     doc.line(margin, y - 5, pageW - margin, y - 5);
 
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.4);
-    setTextColor(doc, MUTED);
+    doc.setFontSize(8.2);
+    setText(doc, MUTED);
     doc.text(`${BRAND} - Free learning resources`, margin, y);
 
-    doc.setFontSize(10.5);
-    setTextColor(doc, BLUE);
+    doc.setFontSize(10.2);
+    setText(doc, BLUE);
     doc.text(WEBSITE, pageW / 2, y, { align: "center" });
 
-    doc.setFontSize(8.4);
-    setTextColor(doc, MUTED);
+    doc.setFontSize(8.2);
+    setText(doc, MUTED);
     doc.text("Page 1 of 1", pageW - margin, y, { align: "right" });
   }
 
-  async function buildPdf(questions) {
+  async function createPdf(questions) {
     const JsPDF = await loadJsPdf();
     const doc = new JsPDF({
       orientation: "portrait",
       unit: "mm",
       format: "letter",
-      compress: true
+      compress: true,
+      putOnlyUsedFonts: true
     });
+
+    // Metadata makes it easy to confirm that the direct generator is active.
+    try {
+      doc.setProperties({
+        title: `${getTitle()} - Worksheet`,
+        subject: `SkillrHub direct worksheet PDF v${VERSION}`,
+        author: BRAND,
+        creator: `SkillrHub worksheet-pdf.js v${VERSION}`
+      });
+    } catch {}
 
     const pageW = doc.internal.pageSize.getWidth();
     const pageH = doc.internal.pageSize.getHeight();
     const margin = 10;
 
     drawWatermark(doc, pageW, pageH);
-    const contentTop = drawHeader(doc, pageW, margin);
-    const footerTop = pageH - 18;
-    const contentBottom = footerTop - 2;
-    const contentHeight = contentBottom - contentTop;
+
+    const contentTop = drawHeader(doc, pageW, margin, questions.length);
+    const scoreY = pageH - 22.5;
+    const contentBottom = scoreY - 5;
     const contentWidth = pageW - 2 * margin;
+    const available = contentBottom - contentTop;
 
-    const images = await prepareQuestionImages(questions);
-    const heights = allocateHeights(doc, questions, contentWidth, contentHeight - 8);
+    // Equal-height rows use the entire printable area. This prevents the
+    // "small text with a quarter page empty" problem.
+    const blockH = available / questions.length;
 
-    let y = contentTop;
-    heights.forEach((height, index) => {
+    const imageMap = await preloadImages(questions);
+
+    questions.forEach((question, index) => {
       drawQuestion(
         doc,
-        questions[index],
+        question,
         index,
         margin,
-        y,
+        contentTop + index * blockH,
         contentWidth,
-        height,
-        images
+        blockH,
+        imageMap
       );
-      y += height;
     });
 
     doc.setFont("helvetica", "bold");
     doc.setFontSize(10.5);
-    setTextColor(doc, TEXT);
-    doc.text(`Score: ______ / ${questions.length}`, margin, contentBottom + 5);
+    setText(doc, TEXT);
+    doc.text(`Score: ______ / ${questions.length}`, margin, scoreY);
+
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.2);
+    setText(doc, MUTED);
+    doc.text(
+      "Interactive questions from this set are completed online at www.skillrhub.com.",
+      margin,
+      scoreY + 5.2
+    );
 
     drawFooter(doc, pageW, pageH, margin);
 
@@ -592,15 +612,15 @@
   }
 
   async function downloadWorksheet() {
-    const questions = getQuestions();
+    const questions = getPrintableQuestions();
 
     if (!questions.length) {
-      alert("Questions are not loaded yet.");
+      alert("No paper-friendly questions are available in this set. Please complete this practice online.");
       return;
     }
 
     const button = $("#downloadPdfButton");
-    const oldText = button?.textContent || "Download PDF worksheet";
+    const original = button?.textContent || "Download PDF Worksheet";
 
     if (button) {
       button.disabled = true;
@@ -608,39 +628,46 @@
     }
 
     try {
-      await buildPdf(questions);
+      await createPdf(questions);
     } catch (error) {
-      console.error("Worksheet PDF failed:", error);
-      alert("The PDF could not be created. Please refresh and try again.");
+      console.error("SkillrHub direct PDF v13 failed:", error);
+      alert("The PDF could not be created. Please refresh the page and try again.");
     } finally {
       if (button) {
         button.disabled = false;
-        button.textContent = oldText;
+        button.textContent = original;
       }
     }
   }
 
-  function setupButton() {
+  function setup() {
     let button = $("#downloadPdfButton");
 
     if (!button) {
-      const start = $("#startButton");
-      if (!start) return;
+      const startButton = $("#startButton");
+      if (!startButton) return;
 
       button = document.createElement("button");
       button.id = "downloadPdfButton";
       button.type = "button";
       button.className = "button button-secondary";
-      button.textContent = "Download PDF worksheet";
-      start.insertAdjacentElement("afterend", button);
+      button.textContent = "Download PDF Worksheet";
+      startButton.insertAdjacentElement("afterend", button);
     }
 
-    button.addEventListener("click", downloadWorksheet);
+    // Critical: cloning removes event listeners attached by any old cached
+    // worksheet-pdf.js. This prevents two generators firing from one click.
+    const fresh = button.cloneNode(true);
+    fresh.dataset.pdfGenerator = `direct-v${VERSION}`;
+    button.replaceWith(fresh);
+    fresh.addEventListener("click", downloadWorksheet);
+
+    window.skillrWorksheetPdfVersion = VERSION;
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", setupButton, { once: true });
+    document.addEventListener("DOMContentLoaded", setup, { once: true });
   } else {
-    setupButton();
+    setup();
   }
 })();
