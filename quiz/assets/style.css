@@ -1156,3 +1156,103 @@ h3 {
     padding: 11px 16px;
   }
 }
+/* =========================================================
+   IMAGE DRAG AND DROP
+   ========================================================= */
+
+.image-drag-bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  margin: 24px 0;
+  min-height: 100px;
+}
+
+
+.image-drag-card {
+  width: 110px;
+  padding: 10px;
+  border: 2px solid #d8e0ea;
+  border-radius: 14px;
+  background: #fff;
+  cursor: grab;
+  text-align: center;
+}
+
+
+.image-drag-card:active {
+  cursor: grabbing;
+}
+
+
+.image-drag-card.is-dragging {
+  opacity: 0.5;
+}
+
+
+.image-drag-picture {
+  display: block;
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  margin: 0 auto 8px;
+}
+
+
+.image-drag-label {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+
+.image-drop-categories {
+  display: grid;
+  grid-template-columns:
+    repeat(
+      auto-fit,
+      minmax(180px, 1fr)
+    );
+  gap: 18px;
+  margin-top: 20px;
+}
+
+
+.image-drop-zone {
+  min-height: 170px;
+  padding: 16px;
+  border: 2px dashed #b8c2d1;
+  border-radius: 16px;
+  background: #f8fafc;
+}
+
+
+.image-drop-zone.is-drag-over {
+  border-style: solid;
+}
+
+
+.image-drop-title {
+  margin: 0 0 14px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+
+.image-drop-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+
+.image-drag-card.is-correct-image {
+  border-color: #2e8540;
+}
+
+
+.image-drag-card.is-wrong-image {
+  border-color: #c62828;
+}
