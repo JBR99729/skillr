@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    Foundation Number Line Quiz 0–20 | Daily Maths Practice | SkillrHub
+  </title>
+
+  <meta
+    name="description"
+    content="Free Foundation number line quiz for daily maths practice. Children practise numbers 0 to 20, missing numbers, before and after, ordering and counting forwards and backwards."
+  >
+
+  <link
+    rel="canonical"
+    href="https://skillrhub.com/quiz/grade-k/math/number-line/"
+  >
+
+
+  <!-- ===================================================
+       OPEN GRAPH
+       =================================================== -->
+
+  <meta
+    property="og:title"
+    content="Foundation Number Line Quiz 0–20 | SkillrHub"
+  >
+
+  <meta
+    property="og:description"
+    content="Short daily number line practice for Foundation students working with numbers from 0 to 20."
+  >
+
+  <meta
+    property="og:type"
+    content="website"
+  >
+
+  <meta
+    property="og:url"
+    content="https://skillrhub.com/quiz/grade-k/math/number-line/"
+  >
+
+
+  <!-- ===================================================
+       GOOGLE ANALYTICS
+       =================================================== -->
+
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"
+  ></script>
+
+  <script>
+    window.dataLayer =
+      window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag(
+      "js",
+      new Date()
+    );
+
+    gtag(
+      "config",
+      "G-8P22BET45N"
+    );
+  </script>
+
+
+  <!-- ===================================================
+       GOOGLE ADSENSE
+       =================================================== -->
+
+  <meta
+    name="google-adsense-account"
+    content="ca-pub-7734963540104771"
+  >
+
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
+    crossorigin="anonymous"
+  ></script>
+
+
+  <!-- ===================================================
+       STYLES
+       =================================================== -->
+
+  <link
+    rel="stylesheet"
+    href="/style.css"
+  >
+
+  <link
+    rel="stylesheet"
+    href="/quiz/assets/style.css?v=103"
+  >
+
+
+  <!-- ===================================================
+       STRUCTURED DATA
+       =================================================== -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Foundation Number Line Quiz 0–20",
+    "description": "Interactive number line practice for Foundation students working with numbers from zero to twenty.",
+    "url": "https://skillrhub.com/quiz/grade-k/math/number-line/",
+    "educationalLevel": "Foundation",
+    "learningResourceType": "Quiz",
+    "isAccessibleForFree": true,
+    "inLanguage": "en-AU",
+    "educationalUse": [
+      "Practice",
+      "Revision",
+      "Daily review"
+    ],
+    "about": [
+      "Number lines",
+      "Numbers to 20",
+      "Counting",
+      "Number order",
+      "Missing numbers"
+    ]
+  }
+  </script>
+
+</head>
+
+
+<body>
+
+
+  <!-- ===================================================
+       BREADCRUMBS
+       =================================================== -->
+
+  <nav
+    class="breadcrumbs"
+    aria-label="Breadcrumb"
+  >
+
+    <a href="/">
+      Home
+    </a>
+
+    <span aria-hidden="true">
+      ›
+    </span>
+
+    <a href="/quiz/">
+      Quizzes
+    </a>
+
+    <span aria-hidden="true">
+      ›
+    </span>
+
+    <span>
+      Foundation Number Line
+    </span>
+
+  </nav>
+
+
+
+  <!-- ===================================================
+       QUIZ
+       =================================================== -->
+
+  <main
+    class="quiz-app"
+    id="quizApp"
+  >
+
+
+    <!-- =================================================
+         START SCREEN
+         ================================================= -->
+
+    <section
+      class="screen start-screen is-active"
+      id="startScreen"
+      aria-labelledby="quizTitle"
+    >
+
+      <div class="card start-card">
+
+
+        <p class="eyebrow">
+          Foundation Maths • Daily Practice
+        </p>
+
+
+        <h1 id="quizTitle">
+          Number Line Quiz 0–20
+        </h1>
+
+
+        <p class="intro-text">
+          Build number confidence with a short
+          number line challenge.
+          Practise counting, missing numbers,
+          before and after, and number order.
+        </p>
+
+
+        <div
+          class="quiz-summary"
+          aria-label="Quiz information"
+        >
+
+
+          <div>
+
+            <span
+              class="summary-number"
+              id="questionCount"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Questions
+            </span>
+
+          </div>
+
+
+          <div>
+
+            <span class="summary-number">
+              1
+            </span>
+
+            <span class="summary-label">
+              Point each
+            </span>
+
+          </div>
+
+
+          <div>
+
+            <span
+              class="summary-number"
+              id="bestScore"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Best score
+            </span>
+
+          </div>
+
+
+        </div>
+
+
+        <p class="intro-text">
+          Try a new set each day.
+          The questions change each time you play.
+        </p>
+
+
+        <button
+          class="button button-primary button-start"
+          id="startButton"
+          type="button"
+        >
+          Start number line quiz
+        </button>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =================================================
+         QUIZ SCREEN
+         ================================================= -->
+
+    <section
+      class="screen quiz-screen"
+      id="quizScreen"
+      aria-labelledby="questionText"
+    >
+
+
+      <header class="quiz-header">
+
+
+        <div>
+
+          <p
+            class="progress-label"
+            id="progressText"
+          >
+            Question 1 of 5
+          </p>
+
+
+          <div
+            class="progress-track"
+            aria-hidden="true"
+          >
+
+            <div
+              class="progress-bar"
+              id="progressBar"
+            ></div>
+
+          </div>
+
+        </div>
+
+
+        <p class="score-display">
+
+          Score:
+
+          <strong id="liveScore">
+            0
+          </strong>
+
+        </p>
+
+
+      </header>
+
+
+
+      <article class="card question-card">
+
+
+        <p
+          class="question-number"
+          id="questionNumber"
+        >
+          Question 1
+        </p>
+
+
+        <h2 id="questionText">
+          Question text
+        </h2>
+
+
+        <!--
+          Number line visuals from questions.js
+          are inserted automatically underneath
+          the question heading.
+        -->
+
+
+        <div
+          class="answer-list"
+          id="answerList"
+          aria-labelledby="questionText"
+        ></div>
+
+
+        <div
+          class="feedback"
+          id="feedback"
+          aria-live="polite"
+        ></div>
+
+
+        <div class="actions">
+
+
+          <button
+            class="button button-primary"
+            id="submitButton"
+            type="button"
+            disabled
+          >
+            Check answer
+          </button>
+
+
+          <button
+            class="button button-primary is-hidden"
+            id="nextButton"
+            type="button"
+          >
+            Next question
+          </button>
+
+
+        </div>
+
+
+      </article>
+
+
+    </section>
+
+
+
+    <!-- =================================================
+         RESULT SCREEN
+         ================================================= -->
+
+    <section
+      class="screen result-screen"
+      id="resultScreen"
+      aria-labelledby="resultTitle"
+    >
+
+
+      <div class="card result-card">
+
+
+        <p class="eyebrow">
+          Daily practice complete
+        </p>
+
+
+        <h2 id="resultTitle">
+          Your result
+        </h2>
+
+
+        <div
+          class="result-circle"
+          aria-label="Final percentage"
+        >
+
+          <span id="percentageScore">
+            0%
+          </span>
+
+        </div>
+
+
+        <p class="result-score">
+
+          You scored
+
+          <strong id="finalScore">
+            0
+          </strong>
+
+          out of
+
+          <strong id="finalTotal">
+            0
+          </strong>.
+
+        </p>
+
+
+        <p
+          class="result-message"
+          id="resultMessage"
+        ></p>
+
+
+        <div class="result-actions">
+
+
+          <button
+            class="button button-primary"
+            id="restartButton"
+            type="button"
+          >
+            Try another set
+          </button>
+
+
+          <button
+            class="button button-secondary"
+            id="reviewButton"
+            type="button"
+          >
+            Review answers
+          </button>
+
+
+        </div>
+
+
+        <!--
+          No reviewSection here.
+
+          Review Answers opens:
+          /quiz/review.html
+        -->
+
+
+      </div>
+
+
+    </section>
+
+
+  </main>
+
+
+
+  <!-- ===================================================
+       SUPPORTING CONTENT
+       =================================================== -->
+
+  <section
+    class="card seo-content"
+    style="
+      max-width: 900px;
+      margin: 32px auto;
+      padding: 32px;
+      text-align: left;
+    "
+  >
+
+
+    <h2>
+      Foundation Number Line Practice
+    </h2>
+
+
+    <p>
+      This short number line quiz is designed for
+      regular Foundation maths practice.
+      Children work with numbers from
+      <strong>0 to 20</strong>
+      and build confidence with number position,
+      counting and order.
+    </p>
+
+
+    <p>
+      Each attempt uses a small selection of
+      questions so children can practise regularly
+      without completing a long worksheet or test.
+    </p>
+
+
+
+    <!-- =================================================
+         SKILLS
+         ================================================= -->
+
+    <h3>
+      Number Line Skills Practised
+    </h3>
+
+
+    <ul>
+
+      <li>
+        Recognising numbers from 0 to 20.
+      </li>
+
+      <li>
+        Reading numbers on a number line.
+      </li>
+
+      <li>
+        Finding missing numbers.
+      </li>
+
+      <li>
+        Identifying the number before a given number.
+      </li>
+
+      <li>
+        Identifying the number after a given number.
+      </li>
+
+      <li>
+        Counting forwards along a number line.
+      </li>
+
+      <li>
+        Counting backwards along a number line.
+      </li>
+
+      <li>
+        Finding numbers between two other numbers.
+      </li>
+
+      <li>
+        Ordering numbers from smallest to largest.
+      </li>
+
+      <li>
+        Understanding that numbers increase
+        as we move to the right.
+      </li>
+
+      <li>
+        Understanding that numbers decrease
+        as we move to the left.
+      </li>
+
+    </ul>
+
+
+
+    <!-- =================================================
+         CURRICULUM
+         ================================================= -->
+
+    <h3>
+      Curriculum Alignment
+    </h3>
+
+
+    <p>
+      Number line practice supports the number
+      recognition, representation and ordering
+      skills developed in
+      <strong>
+        Australian Curriculum Foundation Mathematics
+        AC9MFN01
+      </strong>.
+    </p>
+
+
+    <div style="overflow-x: auto;">
+
+
+      <table
+        style="
+          width: 100%;
+          border-collapse: collapse;
+          margin: 20px 0;
+        "
+      >
+
+
+        <thead>
+
+          <tr>
+
+            <th
+              style="
+                padding: 12px;
+                text-align: left;
+                border-bottom: 2px solid #d8e0ea;
+              "
+            >
+              Curriculum
+            </th>
+
+            <th
+              style="
+                padding: 12px;
+                text-align: left;
+                border-bottom: 2px solid #d8e0ea;
+              "
+            >
+              Reference
+            </th>
+
+            <th
+              style="
+                padding: 12px;
+                text-align: left;
+                border-bottom: 2px solid #d8e0ea;
+              "
+            >
+              Related Number Skills
+            </th>
+
+          </tr>
+
+        </thead>
+
+
+        <tbody>
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                Australian Curriculum
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              AC9MFN01
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Name, represent and order numbers
+              including zero to at least 20.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                NSW
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              MAE-RWN-01<br>
+              MAE-RWN-02
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Whole-number quantity, numeral
+              recognition and representing numbers.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                Victoria
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              VC2MFN01
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Name, represent and order numbers
+              including zero to at least 20.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                United States
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              K.CC.A.1–3<br>
+              K.CC.B.4–5
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Counting sequence, numeral recognition,
+              writing numerals and connecting numbers
+              with quantities.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                England
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              EYFS Number<br>
+              EYFS Numerical Patterns
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Number recognition, counting,
+              number relationships and numerical
+              patterns.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                Canada — Ontario
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              B1 Number
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Reading, representing, comparing
+              and ordering whole numbers.
+            </td>
+
+          </tr>
+
+
+
+          <tr>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              <strong>
+                New Zealand
+              </strong>
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Phase 1 Number
+            </td>
+
+            <td
+              style="
+                padding: 12px;
+                border-bottom: 1px solid #d8e0ea;
+              "
+            >
+              Number sequence, number structure,
+              counting and ordering.
+            </td>
+
+          </tr>
+
+
+        </tbody>
+
+
+      </table>
+
+
+    </div>
+
+
+
+    <p
+      style="
+        font-size: 0.92rem;
+        color: #667085;
+      "
+    >
+      <strong>Curriculum note:</strong>
+      Curriculum structures differ between
+      jurisdictions. International references
+      indicate closely related learning rather than
+      claiming exact one-to-one equivalence.
+    </p>
+
+
+
+    <!-- =================================================
+         DAILY PRACTICE
+         ================================================= -->
+
+    <h3>
+      How to Use This Quiz for Daily Practice
+    </h3>
+
+
+    <p>
+      A short number line activity can be completed
+      at the beginning of a maths lesson, during
+      numeracy rotations, for home practice or as
+      a quick revision activity.
+    </p>
+
+
+    <p>
+      Students can complete one attempt each day,
+      review any mistakes and try another random
+      set when they are ready.
+    </p>
+
+
+
+    <h3>
+      Useful Number Line Ideas for Foundation
+    </h3>
+
+
+    <p>
+      Encourage children to say the numbers aloud
+      while moving along a number line. Ask them
+      what number comes before, what comes after,
+      and whether moving left or right makes the
+      number smaller or larger.
+    </p>
+
+
+  </section>
+
+
+
+  <!-- ===================================================
+       PRIVACY NOTICE
+       =================================================== -->
+
+  <section
+    class="site-notice"
+    aria-label="Advertising and privacy notice"
+  >
+
+    <p>
+      This site may use analytics and advertising
+      to support free resources.
+      Please review our
+      <a href="/privacy-policy.html">
+        privacy policy
+      </a>
+      for information about cookies, analytics
+      and advertising.
+    </p>
+
+  </section>
+
+
+
+  <!-- ===================================================
+       JAVASCRIPT
+
+       IMPORTANT:
+       questions.js MUST load before script.js.
+       =================================================== -->
+
+  <script src="/share-button.js"></script>
+
+  <script
+    src="./questions.js?v=103"
+  ></script>
+
+  <script
+    src="/quiz/assets/script.js?v=107"
+  ></script>
+
+
+</body>
+
+</html>
