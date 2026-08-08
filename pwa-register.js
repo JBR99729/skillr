@@ -64,10 +64,13 @@
       return false;
     }
 
-    const hasTouch = window.matchMedia("(pointer: coarse)").matches || window.navigator.maxTouchPoints > 0;
-    const mobileUserAgent = /Android|iPhone|iPad|iPod|Mobile/i.test(window.navigator.userAgent);
+    const isSecureContext = window.location.protocol === "https:" || window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
-    return hasTouch || mobileUserAgent || window.innerWidth <= 900;
+    if (!isSecureContext) {
+      return false;
+    }
+
+    return true;
   }
 
   function markInstallAsSeen() {
