@@ -852,7 +852,7 @@ footer {
 
     .skillr-share-btn {
         right: 14px;
-        bottom: 18px;
+        bottom: 88px;
         width: 56px;
         height: 56px;
     }
@@ -867,24 +867,24 @@ footer {
     }
 
     .skillr-copy-btn {
-        bottom: 86px;
+        bottom: 146px;
     }
 
     .skillr-install-btn {
-        bottom: 140px;
+        bottom: 202px;
     }
 
     .skillr-ig-btn {
-        bottom: 194px;
+        bottom: 258px;
     }
 
     .skillr-fb-btn {
-        bottom: 248px;
+        bottom: 314px;
     }
 
     .skillr-install-help {
         right: 66px;
-        bottom: 144px;
+        bottom: 206px;
         max-width: min(220px, calc(100vw - 86px));
         font-size: 0.75rem;
     }
