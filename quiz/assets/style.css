@@ -105,7 +105,7 @@ a:focus-visible,
 }
 
 .quiz-breadcrumb {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
   padding: 0;
 }
 
@@ -188,7 +188,7 @@ a:focus-visible,
 .start-card,
 .result-card {
   max-width: 720px;
-  margin: 48px auto 0;
+  margin: 20px auto 0;
   padding: clamp(28px, 5vw, 56px);
   text-align: center;
 }
@@ -199,7 +199,7 @@ a:focus-visible,
    ========================================================= */
 
 .quiz-nav {
-  margin-top: 32px;
+  margin-top: 12px;
   padding: 24px;
 }
 
