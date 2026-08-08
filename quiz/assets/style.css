@@ -87,6 +87,49 @@ a:focus-visible,
   padding: 48px 0;
 }
 
+.quiz-breadcrumb {
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+.quiz-breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.quiz-breadcrumb li {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.quiz-breadcrumb li + li::before {
+  color: var(--muted);
+  content: "›";
+  font-size: 1rem;
+}
+
+.quiz-breadcrumb a {
+  color: var(--primary);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.quiz-breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.quiz-breadcrumb [aria-current="page"] {
+  color: var(--text);
+  font-weight: 700;
+}
+
 
 /* =========================================================
    SCREEN VISIBILITY

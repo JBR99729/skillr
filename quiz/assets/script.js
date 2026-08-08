@@ -35,6 +35,84 @@ function playQuizSound(isCorrect) {
   });
 }
 document.addEventListener("DOMContentLoaded", () => {
+  const existingBreadcrumb = document.querySelector(
+    "nav.breadcrumb, nav.breadcrumbs, .quiz-breadcrumb"
+  );
+
+  if (!existingBreadcrumb) {
+    const main = document.querySelector("main");
+
+    if (main) {
+      const path = window.location.pathname;
+      const segments = path.split("/").filter(Boolean);
+      const isQuizPage = segments[0] === "quiz";
+
+      if (isQuizPage) {
+        const currentTitle =
+          document.querySelector("main h1, .review-heading")?.textContent?.trim() ||
+          document.title;
+
+        const quizHubLabel =
+          segments.includes("grade-k")
+            ? "Foundation Maths"
+            : segments.includes("year-1")
+              ? "Year 1 Maths"
+              : segments.includes("year-2")
+                ? "Year 2 Maths"
+                : segments.includes("year-3")
+                  ? "Year 3 Maths"
+                  : segments.includes("year-4")
+                    ? "Year 4 Maths"
+                    : segments.includes("year-5")
+                      ? "Year 5 Maths"
+                      : segments.includes("year-6")
+                        ? "Year 6 Maths"
+                        : "Quiz";
+
+        const quizHubHref =
+          segments.includes("grade-k")
+            ? "/quiz/grade-k/math/"
+            : segments.includes("year-1")
+              ? "/quiz/year-1/math/"
+              : "/quiz/";
+
+        const breadcrumb = document.createElement("nav");
+        breadcrumb.className = "quiz-breadcrumb";
+        breadcrumb.setAttribute("aria-label", "Breadcrumb");
+
+        const breadcrumbList = document.createElement("ol");
+
+        const homeItem = document.createElement("li");
+        const homeLink = document.createElement("a");
+        homeLink.href = "/";
+        homeLink.textContent = "Home";
+        homeItem.appendChild(homeLink);
+        breadcrumbList.appendChild(homeItem);
+
+        const quizHubItem = document.createElement("li");
+
+        if (quizHubHref) {
+          const quizHubLink = document.createElement("a");
+          quizHubLink.href = quizHubHref;
+          quizHubLink.textContent = quizHubLabel;
+          quizHubItem.appendChild(quizHubLink);
+        } else {
+          quizHubItem.textContent = quizHubLabel;
+        }
+
+        breadcrumbList.appendChild(quizHubItem);
+
+        const currentItem = document.createElement("li");
+        currentItem.setAttribute("aria-current", "page");
+        currentItem.textContent = currentTitle;
+        breadcrumbList.appendChild(currentItem);
+
+        breadcrumb.appendChild(breadcrumbList);
+        main.parentNode.insertBefore(breadcrumb, main);
+      }
+    }
+  }
+
   const questions = Array.isArray(window.quizQuestions)
     ? window.quizQuestions
     : [];

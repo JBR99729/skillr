@@ -2,6 +2,8 @@
   "use strict";
 
   let deferredInstallPrompt = null;
+  let installButton = null;
+  const installStateKey = "skillrInstallFabDismissed";
 
 
   /* =========================================================
@@ -37,62 +39,63 @@
     return;
   }
 
-
-  /* =========================================================
-     CREATE FLOATING INSTALL BUTTON
-     ========================================================= */
-
-  const installButton =
-    document.createElement("button");
-
-  installButton.id =
-    "installAppButton";
-
-  installButton.className =
-    "install-app-fab";
-
-  installButton.type =
-    "button";
-
-  installButton.textContent =
-    "📱 Install SkillrHub";
-
-  installButton.hidden =
-    true;
-
-  document.body.appendChild(
-    installButton
-  );
-
-
-  /* =========================================================
-     BROWSER SAYS PWA CAN BE INSTALLED
-     ========================================================= */
-
-  window.addEventListener(
-    "beforeinstallprompt",
-    (event) => {
-
-      event.preventDefault();
-
-      deferredInstallPrompt =
-        event;
-
-      installButton.hidden =
-        false;
-
+  function isInstallDismissed() {
+    try {
+      return window.localStorage.getItem(installStateKey) === "true";
+    } catch (error) {
+      return false;
     }
-  );
+  }
 
+  function hideInstallButton() {
+    if (!installButton) {
+      return;
+    }
 
-  /* =========================================================
-     INSTALL BUTTON CLICK
-     ========================================================= */
+    installButton.hidden = true;
 
-  installButton.addEventListener(
-    "click",
-    async () => {
+    try {
+      window.localStorage.setItem(installStateKey, "true");
+    } catch (error) {
+      console.warn("Unable to save install button state", error);
+    }
+  }
 
+  function showInstallButton() {
+    if (!installButton || isInstallDismissed()) {
+      return;
+    }
+
+    installButton.hidden = false;
+  }
+
+  function attachInstallButton() {
+    if (!document.body) {
+      return;
+    }
+
+    if (installButton) {
+      return;
+    }
+
+    installButton = document.getElementById("installAppButton");
+
+    if (!installButton) {
+      installButton = document.createElement("button");
+      installButton.id = "installAppButton";
+      installButton.className = "install-app-fab";
+      installButton.type = "button";
+      installButton.textContent = "📱 Install SkillrHub";
+      installButton.hidden = true;
+      document.body.appendChild(installButton);
+    }
+
+    if (isInstallDismissed()) {
+      installButton.hidden = true;
+      return;
+    }
+
+    installButton.addEventListener("click", async () => {
       if (!deferredInstallPrompt) {
         return;
       }
@@ -100,39 +103,47 @@
       deferredInstallPrompt.prompt();
 
       try {
-        await deferredInstallPrompt.userChoice;
+        const choice = await deferredInstallPrompt.userChoice;
+
+        if (choice.outcome === "accepted") {
+          hideInstallButton();
+        } else {
+          hideInstallButton();
+        }
       } catch (error) {
-        console.error(
-          "SkillrHub install prompt failed:",
-          error
-        );
+        console.error("SkillrHub install prompt failed:", error);
+        hideInstallButton();
       }
 
-      deferredInstallPrompt =
-        null;
+      deferredInstallPrompt = null;
+    });
+  }
 
-      installButton.hidden =
-        true;
+  if (document.body) {
+    attachInstallButton();
+  } else {
+    window.addEventListener("DOMContentLoaded", attachInstallButton, { once: true });
+  }
 
-    }
-  );
+
+  /* =========================================================
+     BROWSER SAYS PWA CAN BE INSTALLED
+     ========================================================= */
+
+  window.addEventListener("beforeinstallprompt", (event) => {
+    event.preventDefault();
+
+    deferredInstallPrompt = event;
+    showInstallButton();
+  });
 
 
   /* =========================================================
      APP INSTALLED
      ========================================================= */
 
-  window.addEventListener(
-    "appinstalled",
-    () => {
-
-      deferredInstallPrompt =
-        null;
-
-      installButton.hidden =
-        true;
-
-    }
-  );
-
+  window.addEventListener("appinstalled", () => {
+    deferredInstallPrompt = null;
+    hideInstallButton();
+  });
 })();
