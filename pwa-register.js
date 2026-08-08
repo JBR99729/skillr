@@ -3,17 +3,7 @@
 
   let deferredInstallPrompt = null;
   let installButton = null;
-  const installStateKey = "skillrInstallFabDismissed";
-
-  function clearLegacyInstallDismissState() {
-    try {
-      window.localStorage.removeItem(installStateKey);
-    } catch (error) {
-      // Ignore storage access issues.
-    }
-  }
-
-  clearLegacyInstallDismissState();
+  let installBanner = null;
 
 
   /* =========================================================
@@ -52,14 +42,6 @@
     return;
   }
 
-  function isInstallDismissed() {
-    try {
-      return window.sessionStorage.getItem(installStateKey) === "true";
-    } catch (error) {
-      return false;
-    }
-  }
-
   function hideInstallButton() {
     if (!installButton) {
       return;
@@ -68,36 +50,33 @@
     installButton.hidden = true;
   }
 
-  function shouldShowInstallButton() {
-    if (isInstallDismissed()) {
-      return false;
+  function showInstallBanner() {
+    if (!installBanner) {
+      return;
     }
 
+    installBanner.hidden = false;
+  }
+
+  function hideInstallBanner() {
+    if (!installBanner) {
+      return;
+    }
+
+    installBanner.hidden = true;
+  }
+
+  function shouldShowInstallButton() {
     if (window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true) {
       return false;
     }
 
-    return true;
-  }
-
-  function markInstallAsSeen() {
-    try {
-      window.sessionStorage.setItem(installStateKey, "true");
-    } catch (error) {
-      console.warn("Unable to save install button state", error);
-    }
-  }
-
-  function resetInstallDismissState() {
-    try {
-      window.sessionStorage.removeItem(installStateKey);
-    } catch (error) {
-      // Ignore storage access issues.
-    }
+    const isQuizAttemptPage = window.location.pathname.includes("/quiz/") || window.location.pathname.includes("/quiz") || document.body?.dataset?.quizPage === "true";
+    return isQuizAttemptPage;
   }
 
   function showInstallButton() {
-    if (!installButton || isInstallDismissed()) {
+    if (!installButton) {
       return;
     }
 
@@ -109,38 +88,45 @@
       return;
     }
 
-    if (installButton) {
-      return;
-    }
-
-    installButton = document.getElementById("installAppButton");
-
     if (!installButton) {
-      installButton = document.createElement("button");
-      installButton.id = "installAppButton";
-      installButton.className = "install-app-fab";
-      installButton.type = "button";
-      installButton.setAttribute("aria-label", "Install SkillrHub app");
-      installButton.innerHTML = `
-        <span class="install-app-fab__icon" aria-hidden="true">
-          <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
-            <path d="M12 3a1 1 0 0 1 1 1v8.586l2.293-2.293a1 1 0 1 1 1.414 1.414l-4 4a1 1 0 0 1-1.414 0l-4-4a1 1 0 1 1 1.414-1.414L11 12.586V4a1 1 0 0 1 1-1Zm-7 14a1 1 0 0 1 1 1v1h12v-1a1 1 0 1 1 2 0v1a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1a1 1 0 0 1 1-1Z"/>
-          </svg>
-        </span>
-        <span class="install-app-fab__label">Install</span>
-      `;
-      installButton.hidden = true;
-      document.body.appendChild(installButton);
+      installButton = document.getElementById("installAppButton");
+
+      if (!installButton) {
+        installButton = document.createElement("button");
+        installButton.id = "installAppButton";
+        installButton.className = "install-app-fab";
+        installButton.type = "button";
+        installButton.setAttribute("aria-label", "Install SkillrHub app");
+        installButton.innerHTML = `
+          <span class="install-app-fab__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+              <path d="M12 4a1 1 0 0 1 1 1v10.586l3.293-3.293a1 1 0 1 1 1.414 1.414l-5 5a1 1 0 0 1-1.414 0l-5-5a1 1 0 0 1 1.414-1.414L11 15.586V5a1 1 0 0 1 1-1Zm-8 14a1 1 0 0 1 1 1v1h14v-1a1 1 0 1 1 2 0v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1a1 1 0 0 1 1-1Z"/>
+            </svg>
+          </span>
+        `;
+        installButton.hidden = true;
+        document.body.appendChild(installButton);
+      }
     }
 
-    installButton.hidden = false;
+    if (!installBanner) {
+      installBanner = document.getElementById("installAppBanner");
 
-    if (isInstallDismissed()) {
-      installButton.hidden = true;
-      return;
+      if (!installBanner) {
+        installBanner = document.createElement("div");
+        installBanner.id = "installAppBanner";
+        installBanner.className = "install-app-banner";
+        installBanner.hidden = true;
+        installBanner.innerHTML = `
+          <strong>Install this app</strong>
+          <span>Open your browser menu and choose Install app, Add to Home Screen, or Share → Add to Home Screen.</span>
+        `;
+        document.body.appendChild(installBanner);
+      }
     }
 
     showInstallButton();
+    showInstallBanner();
 
     installButton.addEventListener("click", async () => {
       if (deferredInstallPrompt) {
@@ -150,16 +136,16 @@
           const choice = await deferredInstallPrompt.userChoice;
 
           if (choice.outcome === "accepted") {
-            markInstallAsSeen();
             hideInstallButton();
+            hideInstallBanner();
           } else {
-            markInstallAsSeen();
-            hideInstallButton();
+            showInstallButton();
+            showInstallBanner();
           }
         } catch (error) {
           console.error("SkillrHub install prompt failed:", error);
-          markInstallAsSeen();
-          hideInstallButton();
+          showInstallButton();
+          showInstallBanner();
         }
 
         deferredInstallPrompt = null;
@@ -171,9 +157,7 @@
         return;
       }
 
-      if (typeof window.alert === "function") {
-        window.alert("Install is not available right now. Please use your browser menu and choose Install app, Add to Home Screen, or Share → Add to Home Screen.");
-      }
+      showInstallBanner();
     });
   }
 
@@ -191,9 +175,9 @@
   window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
 
-    resetInstallDismissState();
     deferredInstallPrompt = event;
     showInstallButton();
+    showInstallBanner();
   });
 
 
@@ -203,7 +187,7 @@
 
   window.addEventListener("appinstalled", () => {
     deferredInstallPrompt = null;
-    markInstallAsSeen();
     hideInstallButton();
+    hideInstallBanner();
   });
 })();
