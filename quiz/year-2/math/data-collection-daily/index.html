@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Collect, sort and organise data | Year 2 Maths Practice | SkillrHub</title>
+<meta name="description" content="Free Year 2 maths practice for collect, sort and organise data. 8 mixed questions with choosing, typing, fill-in and arranging tasks plus a printable worksheet.">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="canonical" href="https://skillrhub.com/quiz/year-2/math/data-collection-daily/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SkillrHub">
+<meta property="og:title" content="Collect, sort and organise data | Year 2 Maths Practice">
+<meta property="og:description" content="Practise collecting categorical data through surveys, observations and experiments, sorting it into categories, organising tables and comparing frequencies.">
+<meta property="og:url" content="https://skillrhub.com/quiz/year-2/math/data-collection-daily/">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
+<script>
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+gtag("js",new Date());
+gtag("config","G-8P22BET45N");
+</script>
+
+<meta name="google-adsense-account" content="ca-pub-7734963540104771">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/quiz/assets/style.css?v=105">
+
+<style>
+.practice-meta{max-width:760px;margin:18px auto 0;padding:16px 18px;border:1px solid var(--border);border-radius:14px;background:#f8fafc;text-align:left}
+.practice-meta p{margin:7px 0;color:var(--muted);line-height:1.55}
+.practice-meta strong{color:var(--text)}
+.practice-topics{margin:10px 0 0;padding-left:22px;color:var(--muted);line-height:1.65}
+.start-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:18px}
+@media(max-width:640px){.start-actions{display:grid;grid-template-columns:1fr}.start-actions .button{width:100%}}
+</style>
+</head>
+
+<body>
+<main class="quiz-app">
+
+<nav class="quiz-breadcrumb" aria-label="Breadcrumb">
+<ol>
+<li><a href="/">Home</a></li>
+<li><a href="/quiz/">Practice</a></li>
+<li><a href="/quiz/year-2/math/">Year 2 Maths</a></li>
+<li aria-current="page">Collect, sort and organise data</li>
+</ol>
+</nav>
+
+<section id="startScreen" class="screen is-active">
+<article class="card start-card">
+
+<p class="eyebrow">Year 2 Mathematics • Statistics</p>
+<h1 id="quizTitle">Collect, sort and organise data</h1>
+
+<p class="intro-text">Practise collecting categorical data through surveys, observations and experiments, sorting it into categories, organising tables and comparing frequencies.</p>
+<p class="intro-text intro-text--highlight">
+Each attempt contains 8 mixed questions: choosing, typing, fill-in-the-blank and arranging.
+</p>
+
+<div class="quiz-summary">
+<div><span class="summary-number" id="questionCount">8</span><span class="summary-label">Questions</span></div>
+<div><span class="summary-number">48</span><span class="summary-label">Question bank</span></div>
+<div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div>
+</div>
+
+<div class="start-actions">
+<button class="button button-primary button-start" id="startButton" type="button">Start practice</button>
+<button class="button button-secondary" id="downloadPdfButton" type="button">Download PDF worksheet</button>
+</div>
+
+<div class="practice-meta">
+<p><strong>Curriculum focus:</strong> Australian Curriculum v9 • AC9M2ST01–AC9M2ST02</p>
+<p><strong>For mastery:</strong> repeat this skill across one week. On the same browser, the 48-question bank rotates across 6 attempts before starting a new cycle.</p>
+<p><strong>Online practice:</strong> arranging and select-all tasks are completed online. The PDF automatically prints only question formats that work well on paper.</p>
+<ul class="practice-topics">
+<li>surveys, observations and experiments</li><li>relevant categories</li><li>lists and tables</li><li>frequency comparisons</li><li>reading and interpreting categorical data</li>
+</ul>
+</div>
+
+</article>
+</section>
+
+<section id="quizScreen" class="screen quiz-screen" hidden>
+<div class="quiz-header">
+<div>
+<p class="progress-label" id="progressText">Question 1 of 8</p>
+<div class="progress-track" aria-hidden="true"><div class="progress-bar" id="progressBar"></div></div>
+</div>
+<p class="score-display">Score: <strong id="liveScore">0</strong></p>
+</div>
+
+<article class="card question-card">
+<p class="question-number" id="questionNumber">Question 1</p>
+<h2 id="questionText">Question</h2>
+<div class="answer-list" id="answerList"></div>
+<div class="feedback" id="feedback" aria-live="polite"></div>
+<div class="actions">
+<button class="button button-primary" id="submitButton" type="button" disabled>Check answer</button>
+<button class="button button-primary is-hidden" id="nextButton" type="button" hidden>Next question</button>
+</div>
+</article>
+</section>
+
+<section id="resultScreen" class="screen result-screen" hidden>
+<article class="card result-card">
+<p class="eyebrow">Practice complete</p>
+<h2>Great work!</h2>
+<div class="result-circle"><span id="percentageScore">0%</span></div>
+<p class="result-score">You scored <strong id="finalScore">0</strong> out of <strong id="finalTotal">8</strong>.</p>
+<p class="result-message" id="resultMessage"></p>
+<div class="result-actions">
+<button class="button button-primary" id="restartButton" type="button">Try another 8 questions</button>
+<button class="button button-secondary" id="reviewButton" type="button">Review answers</button>
+</div>
+</article>
+</section>
+
+</main>
+
+<script src="questions.js?v=1"></script>
+<script src="/quiz/assets/script.js?v=108"></script>
+<script src="/quiz/assets/worksheet-pdf.js?v=13"></script>
+<script src="/share-button.js"></script>
+</body>
+</html>
