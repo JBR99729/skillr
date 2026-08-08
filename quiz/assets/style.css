@@ -50,12 +50,29 @@ body {
 }
 
 button,
-input {
+input,
+select,
+textarea,
+a {
   font: inherit;
+  -webkit-tap-highlight-color: transparent;
 }
 
-button {
+button,
+a,
+input,
+select,
+textarea {
   touch-action: manipulation;
+}
+
+button,
+.answer-option,
+.order-button,
+.drag-move-button,
+.quiz-nav-card {
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 img {
@@ -338,8 +355,47 @@ h3 {
     opacity 160ms ease;
 }
 
-.button:hover:not(:disabled) {
-  transform: translateY(-1px);
+.button:active:not(:disabled),
+.answer-option:active:not(:disabled),
+.order-button:active:not(:disabled),
+.drag-move-button:active:not(:disabled),
+.quiz-nav-card:active {
+  transform: scale(0.98);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .button:hover:not(:disabled) {
+    transform: translateY(-1px);
+  }
+
+  .button-primary:hover:not(:disabled) {
+    background: var(--primary-hover);
+  }
+
+  .button-secondary:hover:not(:disabled) {
+    background: #e2e8f0;
+  }
+
+  .answer-option:hover:not(:disabled) {
+    border-color: var(--primary);
+    transform: translateY(-1px);
+  }
+
+  .order-button:hover:not(:disabled) {
+    border-color: var(--primary);
+    background: #dfe9ff;
+  }
+
+  .drag-move-button:hover:not(:disabled) {
+    border-color: var(--primary);
+    background: #dfe9ff;
+  }
+
+  .quiz-nav-card:hover {
+    border-color: var(--primary);
+    background: #eef4ff;
+    transform: translateY(-1px);
+  }
 }
 
 .button:disabled {
@@ -352,10 +408,6 @@ h3 {
   background: var(--primary);
 }
 
-.button-primary:hover:not(:disabled) {
-  background: var(--primary-hover);
-}
-
 .button-start {
   min-width: 220px;
   margin-top: 8px;
@@ -366,10 +418,6 @@ h3 {
 .button-secondary {
   color: var(--text);
   background: #edf2f7;
-}
-
-.button-secondary:hover:not(:disabled) {
-  background: #e2e8f0;
 }
 
 
@@ -454,11 +502,6 @@ h3 {
     border-color 150ms ease,
     background 150ms ease,
     transform 150ms ease;
-}
-
-.answer-option:hover:not(:disabled) {
-  border-color: var(--primary);
-  transform: translateY(-1px);
 }
 
 /* Supports both the original and newer JavaScript */
@@ -977,6 +1020,13 @@ h3 {
   .actions .button,
   .result-actions .button {
     width: 100%;
+  }
+
+  .answer-option {
+    grid-template-columns: 32px 1fr;
+    gap: 12px;
+    min-height: 52px;
+    padding: 14px 14px;
   }
 
   .fill-blank-container {

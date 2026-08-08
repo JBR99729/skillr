@@ -399,6 +399,28 @@ footer .site-notice {
 
 /* Blog topic cards */
 
+a,
+button,
+input,
+select,
+textarea {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+}
+
+.button,
+.button-link,
+.download-button,
+.install-app-fab,
+.skillr-share-btn,
+.skillr-copy-btn,
+.skillr-ig-btn,
+.skillr-fb-btn,
+.skillr-install-btn {
+    -webkit-user-select: none;
+    user-select: none;
+}
+
 .topic-list {
     display: grid;
     gap: 24px;
@@ -434,10 +456,60 @@ footer .site-notice {
     margin: 6px 6px 6px 0;
 }
 
-.button:hover,
-.button-link:hover {
-    background: #222;
-    color: #fff;
+.button:active,
+.button-link:active,
+.download-button:active,
+.install-app-fab:active,
+.skillr-share-btn:active,
+.skillr-copy-btn:active,
+.skillr-ig-btn:active,
+.skillr-fb-btn:active,
+.skillr-install-btn:active {
+    transform: scale(0.98);
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .button:hover,
+    .button-link:hover {
+        background: #222;
+        color: #fff;
+    }
+
+    .button--quiz:hover,
+    .button-link.button--quiz:hover {
+        background: linear-gradient(135deg, #0b3a64 0%, #12588f 100%);
+        color: #fff;
+        transform: translateY(-1px);
+    }
+
+    .download-button:hover {
+        background: #1a3a72;
+        color: #fff;
+    }
+
+    .amazon-resource-callout a:hover {
+        background: #e59f00;
+    }
+
+    .activities-affiliate-banner a:hover {
+        background: #e59f00;
+    }
+
+    .install-app-fab:hover {
+        transform: translateY(-1px);
+    }
+
+    .skillr-share-btn:hover {
+        transform: translateY(-2px) scale(1.04);
+        box-shadow: 0 16px 32px rgba(7, 94, 84, 0.42);
+    }
+
+    .skillr-copy-btn:hover,
+    .skillr-ig-btn:hover,
+    .skillr-fb-btn:hover,
+    .skillr-install-btn:hover {
+        transform: translateY(-1px);
+    }
 }
 
 .button--quiz,
@@ -455,13 +527,6 @@ footer .site-notice {
     content: "▶";
     margin-left: 8px;
     font-size: 0.95rem;
-}
-
-.button--quiz:hover,
-.button-link.button--quiz:hover {
-    background: linear-gradient(135deg, #0b3a64 0%, #12588f 100%);
-    color: #fff;
-    transform: translateY(-1px);
 }
 
 /* Download buttons */
@@ -492,11 +557,6 @@ footer .site-notice {
     text-overflow: ellipsis;
 }
 
-.download-button:hover {
-    background: #1a3a72;
-    color: #fff;
-}
-
 .amazon-resource-callout {
     margin: 16px 0 0;
     padding: 14px 16px;
@@ -520,10 +580,6 @@ footer .site-notice {
     color: #1f1700;
     font-weight: 800;
     text-decoration: none;
-}
-
-.amazon-resource-callout a:hover {
-    background: #e59f00;
 }
 
 .activities-affiliate-banner {
@@ -551,10 +607,6 @@ footer .site-notice {
     color: #1f1700;
     font-weight: 800;
     text-decoration: none;
-}
-
-.activities-affiliate-banner a:hover {
-    background: #e59f00;
 }
 
 .topic-heading-banner {
@@ -721,10 +773,6 @@ footer {
     line-height: 1;
 }
 
-.install-app-fab:hover {
-    transform: translateY(-1px);
-}
-
 .install-app-fab:focus-visible {
     outline: 3px solid #f5b700;
     outline-offset: 3px;
@@ -747,11 +795,6 @@ footer {
     box-shadow: 0 14px 30px rgba(7, 94, 84, 0.38);
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.skillr-share-btn:hover {
-    transform: translateY(-2px) scale(1.04);
-    box-shadow: 0 16px 32px rgba(7, 94, 84, 0.42);
 }
 
 .skillr-share-btn:focus-visible {
@@ -777,13 +820,6 @@ footer {
     color: #1f2937;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
     text-decoration: none;
-}
-
-.skillr-copy-btn:hover,
-.skillr-ig-btn:hover,
-.skillr-fb-btn:hover,
-.skillr-install-btn:hover {
-    transform: translateY(-1px);
 }
 
 .skillr-copy-btn {
@@ -858,16 +894,16 @@ footer {
     }
 
     .install-app-fab {
-        right: 78px;
-        bottom: 14px;
+        right: calc(78px + env(safe-area-inset-right));
+        bottom: calc(14px + env(safe-area-inset-bottom));
         padding: 11px 14px;
         min-height: 46px;
         font-size: 14px;
     }
 
     .skillr-share-btn {
-        right: 14px;
-        bottom: 88px;
+        right: calc(14px + env(safe-area-inset-right));
+        bottom: calc(88px + env(safe-area-inset-bottom));
         width: 56px;
         height: 56px;
     }
@@ -876,30 +912,30 @@ footer {
     .skillr-ig-btn,
     .skillr-fb-btn,
     .skillr-install-btn {
-        right: 14px;
+        right: calc(14px + env(safe-area-inset-right));
         width: 46px;
         height: 46px;
     }
 
     .skillr-copy-btn {
-        bottom: 146px;
+        bottom: calc(146px + env(safe-area-inset-bottom));
     }
 
     .skillr-install-btn {
-        bottom: 202px;
+        bottom: calc(202px + env(safe-area-inset-bottom));
     }
 
     .skillr-ig-btn {
-        bottom: 258px;
+        bottom: calc(258px + env(safe-area-inset-bottom));
     }
 
     .skillr-fb-btn {
-        bottom: 314px;
+        bottom: calc(314px + env(safe-area-inset-bottom));
     }
 
     .skillr-install-help {
-        right: 66px;
-        bottom: 206px;
+        right: calc(66px + env(safe-area-inset-right));
+        bottom: calc(206px + env(safe-area-inset-bottom));
         max-width: min(230px, calc(100vw - 86px));
         font-size: 0.76rem;
     }
