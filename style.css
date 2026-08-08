@@ -542,6 +542,13 @@ textarea {
     padding-right: 20px;
 }
 
+.button--worksheet {
+    background: linear-gradient(135deg, #d98a00 0%, #f0a600 100%);
+    border: 2px solid #d98a00;
+    color: #fff;
+    box-shadow: 0 8px 18px rgba(217, 138, 0, 0.24);
+}
+
 .button--quiz::after,
 .button-link.button--quiz::after {
     content: "▶";
@@ -555,12 +562,6 @@ textarea {
     background: #f4f7fb;
     border-color: #0f4c81;
     color: #0f4c81;
-}
-
-.button--worksheet {
-    background: #fff7e6;
-    border-color: #d99000;
-    color: #8a4b00;
 }
 
 .download-links {
