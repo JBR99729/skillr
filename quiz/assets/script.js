@@ -244,7 +244,17 @@ document.addEventListener("DOMContentLoaded", () => {
         : undefined,
 
       items: Array.isArray(question.items)
-        ? [...question.items]
+        ? question.items.map((item) =>
+            item && typeof item === "object"
+              ? { ...item }
+              : item
+          )
+        : undefined,
+
+      categories: Array.isArray(question.categories)
+        ? question.categories.map((category) => ({
+            ...category
+          }))
         : undefined,
 
       correct: Array.isArray(question.correct)
@@ -1446,6 +1456,61 @@ default:
       };
     }
 
+    if (type === "drag-image") {
+
+      const isCorrect =
+        question.items.every(
+          (item) =>
+            imageDragAnswers[item.id] ===
+            item.target
+        );
+
+      const selectedAnswer =
+        question.items
+          .map((item) => {
+
+            const categoryId =
+              imageDragAnswers[item.id];
+
+            const category =
+              question.categories.find(
+                (entry) =>
+                  entry.id === categoryId
+              );
+
+            return (
+              `${item.label || item.alt || item.id} → ` +
+              `${category?.label || "Not placed"}`
+            );
+
+          })
+          .join(", ");
+
+      const correctAnswer =
+        question.items
+          .map((item) => {
+
+            const category =
+              question.categories.find(
+                (entry) =>
+                  entry.id === item.target
+              );
+
+            return (
+              `${item.label || item.alt || item.id} → ` +
+              `${category?.label || item.target}`
+            );
+
+          })
+          .join(", ");
+
+      return {
+        isCorrect,
+        selectedAnswer,
+        correctAnswer
+      };
+    }
+
     return {
       isCorrect: false,
       selectedAnswer:
@@ -1586,6 +1651,36 @@ default:
             ? "is-correct-order"
             : "is-wrong-order"
         );
+    }
+
+    if (type === "drag-image") {
+
+      question.items.forEach(
+        (item) => {
+
+          const card =
+            elements.answerList.querySelector(
+              `.image-drag-card[data-item-id="${item.id}"]`
+            );
+
+          if (!card) {
+            return;
+          }
+
+          card.draggable = false;
+
+          const itemIsCorrect =
+            imageDragAnswers[item.id] ===
+            item.target;
+
+          card.classList.add(
+            itemIsCorrect
+              ? "is-correct-image"
+              : "is-wrong-image"
+          );
+
+        }
+      );
     }
   }
 /* =========================================================
