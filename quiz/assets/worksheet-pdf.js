@@ -1,178 +1,113 @@
 "use strict";
 
 /* =========================================================
-   SKILLR WORKSHEET PDF
-   Shared file: /quiz/assets/worksheet-pdf.js
-
-   PURPOSE
-   - Uses the SAME 5 questions selected for the quiz attempt
-     when window.skillrActiveQuestions is available.
-   - Creates a simple A4 worksheet.
-   - Downloads it as a PDF.
-   - Includes www.skillrhub.com branding.
-   - Supports:
-       single
-       true-false
-       multiple
-       text
-       number
-       fill-blank
-       order
-       drag-drop
-       drag-image
-
-   IMPORTANT
-   Add ONE line to shared script.js immediately after:
-       activeQuestions = prepareQuestions();
-
-   Add:
-       window.skillrActiveQuestions = activeQuestions;
-
-   Load this file AFTER questions.js and AFTER script.js:
-       <script src="/quiz/assets/worksheet-pdf.js?v=1"></script>
-
-   If html2pdf is not already loaded, this script loads it
-   automatically from cdnjs.
+   SKILLRHUB WORKSHEET PDF
+   Save as: /quiz/assets/worksheet-pdf.js
+   US Letter • repeated headers • watermark • page numbers
    ========================================================= */
 
 (() => {
-
-  const PDF_LIBRARY_URL =
+  const PDF_LIB =
     "https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js";
+  const BRAND = "SkillrHub";
+  const WEBSITE = "www.skillrhub.com";
 
-  const WEBSITE =
-    "www.skillrhub.com";
+  const $ = (selector, root = document) =>
+    root.querySelector(selector);
 
-
-  /* =======================================================
-     HELPERS
-     ======================================================= */
-
-  function escapeHtml(value) {
-
+  function esc(value) {
     return String(value ?? "")
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
+      .replace(/\"/g, "&quot;")
       .replace(/'/g, "&#039;");
-
   }
 
-
-  function getPageTitle() {
-
-    const heading =
-      document.querySelector(
-        "#quizTitle, main h1, h1"
-      );
-
+  function title() {
     return (
-      heading?.textContent?.trim() ||
+      $("#quizTitle, main h1, h1")
+        ?.textContent
+        ?.trim() ||
       document.title ||
       "Practice Worksheet"
     );
-
   }
 
-
-  function getEyebrow() {
-
-    const eyebrow =
-      document.querySelector(
-        ".start-card .eyebrow, .eyebrow"
-      );
-
+  function eyebrow() {
     return (
-      eyebrow?.textContent?.trim() ||
-      "SkillrHub Practice"
+      $(".start-card .eyebrow, .eyebrow")
+        ?.textContent
+        ?.trim() ||
+      "Foundation Mathematics"
     );
-
   }
 
-
-  function getWorksheetQuestions() {
-
+  function questions() {
     if (
-      Array.isArray(
-        window.skillrActiveQuestions
-      ) &&
-      window.skillrActiveQuestions.length > 0
+      Array.isArray(window.skillrActiveQuestions) &&
+      window.skillrActiveQuestions.length
     ) {
       return window.skillrActiveQuestions;
     }
-
-
-    /*
-      Fallback:
-      This is only used if the tiny script.js integration
-      line has not been added yet.
-    */
 
     const bank =
       Array.isArray(window.quizQuestions)
         ? window.quizQuestions
         : [];
 
-    const maximum =
+    const max =
       Number(
         window.quizConfig?.maxQuestions || 5
       );
 
     return bank.slice(
       0,
-      Number.isInteger(maximum) &&
-      maximum > 0
-        ? maximum
+      Number.isInteger(max) && max > 0
+        ? max
         : 5
     );
-
   }
 
-
-  function blankLine(
-    width = "100%"
-  ) {
-
+  function line(width = "100%") {
     return `
       <div
         style="
           width:${width};
-          min-height:28px;
-          margin-top:10px;
+          height:22px;
           border-bottom:1px solid #667085;
+          margin-top:7px;
         "
       ></div>
     `;
-
   }
 
-
-  function renderQuestionImage(question) {
-
+  function questionImage(question) {
     if (!question.image) {
       return "";
     }
 
     return `
-      <div style="text-align:center; margin:12px 0 14px;">
+      <div
+        style="
+          text-align:center;
+          margin:8px 0 10px;
+        "
+      >
         <img
-          src="${escapeHtml(question.image)}"
-          alt="${escapeHtml(question.imageAlt || "")}"
+          src="${esc(question.image)}"
+          alt="${esc(question.imageAlt || "")}"
           style="
-            max-width:240px;
-            max-height:180px;
+            max-width:220px;
+            max-height:145px;
             object-fit:contain;
           "
         >
       </div>
     `;
-
   }
 
-
-  function renderVisual(question) {
-
+  function visual(question) {
     if (!question.visual) {
       return "";
     }
@@ -180,107 +115,91 @@
     return `
       <div
         style="
-          margin:10px 0 14px;
-          padding:10px;
+          margin:8px 0 10px;
           text-align:center;
           white-space:pre-line;
-          font-size:18px;
-          line-height:1.5;
+          font-size:17px;
+          line-height:1.4;
         "
       >
-        ${escapeHtml(question.visual)}
+        ${esc(question.visual)}
       </div>
     `;
-
   }
 
-
-  /* =======================================================
-     QUESTION TYPE → PAPER FORMAT
-     ======================================================= */
-
-  function renderSingle(
-    question
-  ) {
-
+  function single(question) {
     const options =
       (question.answers || [])
         .map(
-          (answer, index) => `
-            <div style="margin:6px 0;">
-              <span style="display:inline-block; width:22px;">
-                ${String.fromCharCode(65 + index)}.
+          (answer, i) => `
+            <div
+              style="
+                margin:5px 0;
+                line-height:1.35;
+              "
+            >
+              <span
+                style="
+                  display:inline-block;
+                  width:24px;
+                  font-weight:700;
+                "
+              >
+                ${String.fromCharCode(65 + i)}.
               </span>
-              ${escapeHtml(answer)}
+
+              ${esc(answer)}
             </div>
           `
         )
         .join("");
 
     return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
-      <div style="margin-top:8px;">
+      ${questionImage(question)}
+      ${visual(question)}
+
+      <div style="margin-top:6px;">
         ${options}
       </div>
     `;
-
   }
 
-
-  function renderMultiple(
-    question
-  ) {
-
+  function multiple(question) {
     const options =
       (question.answers || [])
         .map(
-          (answer) => `
-            <div style="margin:7px 0;">
-              ☐ ${escapeHtml(answer)}
+          answer => `
+            <div style="margin:6px 0;">
+              ☐ ${esc(answer)}
             </div>
           `
         )
         .join("");
 
     return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
+      ${questionImage(question)}
+      ${visual(question)}
+
       <div
         style="
-          margin:8px 0 6px;
+          margin-top:6px;
           color:#667085;
-          font-size:12px;
+          font-size:11px;
+          font-weight:700;
         "
       >
         Select all correct answers.
       </div>
+
       ${options}
     `;
-
   }
 
-
-  function renderTextOrNumber(
-    question
-  ) {
-
-    return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
-      ${blankLine("70%")}
-    `;
-
-  }
-
-
-  function renderFillBlank(
-    question
-  ) {
-
+  function fillBlank(question) {
     const template =
-      escapeHtml(
-        question.template || "______"
+      esc(
+        question.template ||
+        "{{blank}}"
       )
         .replace(
           /\{\{blank\}\}/g,
@@ -288,384 +207,734 @@
         );
 
     return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
+      ${questionImage(question)}
+      ${visual(question)}
+
       <div
         style="
-          margin-top:12px;
-          font-size:16px;
-          line-height:1.8;
+          margin-top:9px;
+          font-size:15px;
+          line-height:1.7;
         "
       >
         ${template}
       </div>
     `;
-
   }
 
-
-  function renderOrder(
-    question
-  ) {
-
+  function order(question) {
     const items =
       (question.items || [])
-        .map(escapeHtml)
-        .join("&nbsp;&nbsp;&nbsp;&nbsp;");
+        .map(esc)
+        .join("   •   ");
 
     return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
+      ${questionImage(question)}
+      ${visual(question)}
 
       <div
         style="
-          margin-top:10px;
-          padding:10px;
+          margin-top:8px;
+          padding:8px;
           border:1px solid #d8e0ea;
-          border-radius:8px;
+          border-radius:7px;
           text-align:center;
         "
       >
         ${items}
       </div>
 
-      ${blankLine()}
+      ${line()}
     `;
-
   }
 
-
-  function renderDragImage(
-    question
-  ) {
-
-    const categoryLabels =
+  function dragImage(question) {
+    const groups =
       (question.categories || [])
         .map(
-          (category) =>
-            escapeHtml(category.label)
+          category =>
+            esc(category.label)
         )
         .join(" / ");
 
-
-    const itemRows =
+    const rows =
       (question.items || [])
         .map(
-          (item) => {
+          item => `
+            <div
+              style="
+                display:flex;
+                align-items:center;
+                gap:10px;
+                margin:8px 0;
+                break-inside:avoid;
+                page-break-inside:avoid;
+              "
+            >
 
-            const label =
-              escapeHtml(
-                item.label ||
-                item.alt ||
-                item.id
-              );
-
-            return `
-              <div
+              <img
+                src="${esc(item.image)}"
+                alt="${esc(item.alt || "")}"
                 style="
-                  display:flex;
-                  align-items:center;
-                  gap:12px;
-                  margin:10px 0;
-                  page-break-inside:avoid;
+                  width:54px;
+                  height:54px;
+                  object-fit:contain;
                 "
               >
 
-                <img
-                  src="${escapeHtml(item.image)}"
-                  alt="${escapeHtml(item.alt || "")}"
+              <div
+                style="
+                  flex:1;
+                  min-width:0;
+                "
+              >
+                <strong>
+                  ${esc(
+                    item.label ||
+                    item.alt ||
+                    item.id
+                  )}
+                </strong>
+
+                <div
                   style="
-                    width:62px;
-                    height:62px;
-                    object-fit:contain;
+                    margin-top:2px;
+                    color:#667085;
+                    font-size:10px;
                   "
                 >
-
-                <div style="flex:1;">
-                  <strong>${label}</strong>
-                  <div
-                    style="
-                      margin-top:5px;
-                      color:#667085;
-                      font-size:12px;
-                    "
-                  >
-                    Group: ${categoryLabels}
-                  </div>
-                  ${blankLine("85%")}
+                  Choose: ${groups}
                 </div>
 
+                ${line("82%")}
               </div>
-            `;
 
-          }
+            </div>
+          `
         )
         .join("");
 
     return `
       <div
         style="
-          margin-top:8px;
+          margin-top:6px;
           color:#667085;
-          font-size:12px;
+          font-size:11px;
+          font-weight:700;
         "
       >
         Write the correct group for each picture.
       </div>
 
-      ${itemRows}
+      ${rows}
     `;
-
   }
 
-
-  function renderQuestionBody(
-    question
-  ) {
-
+  function body(question) {
     const type =
       question.type || "single";
-
 
     if (
       type === "single" ||
       type === "true-false"
     ) {
-      return renderSingle(question);
+      return single(question);
     }
-
 
     if (type === "multiple") {
-      return renderMultiple(question);
+      return multiple(question);
     }
-
-
-    if (
-      type === "text" ||
-      type === "number"
-    ) {
-      return renderTextOrNumber(
-        question
-      );
-    }
-
 
     if (type === "fill-blank") {
-      return renderFillBlank(
-        question
-      );
+      return fillBlank(question);
     }
-
 
     if (
       type === "order" ||
       type === "drag-drop"
     ) {
-      return renderOrder(question);
+      return order(question);
     }
-
 
     if (type === "drag-image") {
-      return renderDragImage(
-        question
-      );
+      return dragImage(question);
     }
 
+    if (
+      type === "text" ||
+      type === "number"
+    ) {
+      return `
+        ${questionImage(question)}
+        ${visual(question)}
+        ${line("72%")}
+      `;
+    }
 
     return `
-      ${renderQuestionImage(question)}
-      ${renderVisual(question)}
-      ${blankLine()}
+      ${questionImage(question)}
+      ${visual(question)}
+      ${line()}
     `;
-
   }
 
-
-  /* =======================================================
-     BUILD WORKSHEET
-     ======================================================= */
-
-  function buildWorksheet(
-    questions
+  function questionBlock(
+    question,
+    index
   ) {
+    const section =
+      document.createElement(
+        "section"
+      );
 
-    const wrapper =
-      document.createElement("div");
+    section.className =
+      "skillr-pdf-question";
 
-    wrapper.id =
-      "skillrWorksheetPdf";
+    section.style.cssText = [
+      "padding:3.5mm 0",
+      "border-bottom:1px solid #e7ebf1",
+      "break-inside:avoid",
+      "page-break-inside:avoid"
+    ].join(";");
 
-    wrapper.style.cssText = `
-      width: 190mm;
-      padding: 12mm 13mm 14mm;
-      background: #ffffff;
-      color: #172033;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 14px;
-      line-height: 1.45;
-    `;
-
-
-    const questionsHtml =
-      questions
-        .map(
-          (question, index) => `
-            <section
-              style="
-                margin-top:22px;
-                padding-top:6px;
-                page-break-inside:avoid;
-              "
-            >
-
-              <div
-                style="
-                  display:flex;
-                  align-items:flex-start;
-                  gap:9px;
-                "
-              >
-
-                <strong
-                  style="
-                    min-width:22px;
-                    font-size:15px;
-                  "
-                >
-                  ${index + 1}.
-                </strong>
-
-                <div style="flex:1;">
-
-                  <div
-                    style="
-                      font-size:15px;
-                      font-weight:700;
-                    "
-                  >
-                    ${escapeHtml(question.question)}
-                  </div>
-
-                  ${renderQuestionBody(question)}
-
-                </div>
-
-              </div>
-
-            </section>
-          `
-        )
-        .join("");
-
-
-    wrapper.innerHTML = `
-
-      <header
+    section.innerHTML = `
+      <div
         style="
-          padding-bottom:12px;
-          border-bottom:2px solid #2457d6;
+          display:flex;
+          align-items:flex-start;
+          gap:8px;
         "
       >
 
-        <div
+        <strong
           style="
-            font-size:12px;
-            font-weight:700;
-            color:#2457d6;
-            text-transform:uppercase;
-            letter-spacing:0.06em;
+            min-width:24px;
+            font-size:15px;
+            line-height:1.4;
           "
         >
-          ${escapeHtml(getEyebrow())}
-        </div>
-
-        <h1
-          style="
-            margin:5px 0 4px;
-            font-size:24px;
-            line-height:1.2;
-          "
-        >
-          ${escapeHtml(getPageTitle())}
-        </h1>
+          ${index + 1}.
+        </strong>
 
         <div
           style="
-            color:#667085;
-            font-size:12px;
+            flex:1;
+            min-width:0;
           "
         >
-          ${WEBSITE}
+
+          <div
+            style="
+              font-size:15px;
+              font-weight:700;
+              line-height:1.4;
+            "
+          >
+            ${esc(question.question)}
+          </div>
+
+          ${body(question)}
+
         </div>
 
-      </header>
+      </div>
+    `;
 
+    return section;
+  }
 
+  function makeHeader() {
+    const header =
+      document.createElement(
+        "header"
+      );
+
+    header.style.cssText = [
+      "position:relative",
+      "z-index:2",
+      "flex:0 0 auto",
+      "padding-bottom:4mm",
+      "border-bottom:2px solid #2457d6",
+      "break-inside:avoid",
+      "page-break-inside:avoid"
+    ].join(";");
+
+    header.innerHTML = `
       <div
         style="
           display:flex;
           justify-content:space-between;
-          gap:24px;
-          margin-top:16px;
+          align-items:flex-start;
+          gap:10mm;
         "
       >
 
-        <div style="flex:1;">
-          Name:
-          <span>
-            __________________________________
-          </span>
+        <div
+          style="
+            flex:1;
+            min-width:0;
+          "
+        >
+
+          <div
+            style="
+              color:#2457d6;
+              font-size:28px;
+              line-height:1;
+              font-weight:900;
+              letter-spacing:-.03em;
+            "
+          >
+            ${BRAND}
+          </div>
+
+          <div
+            style="
+              margin-top:2.5mm;
+              color:#172033;
+              font-size:18px;
+              line-height:1.2;
+              font-weight:800;
+            "
+          >
+            ${esc(title())}
+          </div>
+
+          <div
+            style="
+              margin-top:1.5mm;
+              color:#667085;
+              font-size:10.5px;
+              line-height:1.3;
+              font-weight:700;
+              text-transform:uppercase;
+              letter-spacing:.04em;
+            "
+          >
+            ${esc(eyebrow())}
+          </div>
+
         </div>
 
-        <div>
-          Date:
-          <span>
-            __________________
-          </span>
+        <div
+          style="
+            flex:0 0 auto;
+            text-align:right;
+          "
+        >
+
+          <div
+            style="
+              color:#2457d6;
+              font-size:18px;
+              line-height:1.15;
+              font-weight:900;
+            "
+          >
+            ${WEBSITE}
+          </div>
+
+          <div
+            style="
+              margin-top:2mm;
+              color:#667085;
+              font-size:10px;
+              font-weight:700;
+            "
+          >
+            Free printable practice
+          </div>
+
         </div>
 
       </div>
+    `;
 
+    return header;
+  }
 
-      ${questionsHtml}
+  function studentRow() {
+    const row =
+      document.createElement(
+        "div"
+      );
 
+    row.style.cssText = [
+      "position:relative",
+      "z-index:2",
+      "flex:0 0 auto",
+      "display:flex",
+      "justify-content:space-between",
+      "gap:10mm",
+      "margin-top:4mm",
+      "font-size:12px",
+      "font-weight:700"
+    ].join(";");
+
+    row.innerHTML = `
+      <div style="flex:1;">
+        Name:
+        <span style="font-weight:400;">
+          __________________________________
+        </span>
+      </div>
+
+      <div>
+        Date:
+        <span style="font-weight:400;">
+          __________________
+        </span>
+      </div>
+    `;
+
+    return row;
+  }
+
+  function makeFooter() {
+    const footer =
+      document.createElement(
+        "footer"
+      );
+
+    footer.style.cssText = [
+      "position:relative",
+      "z-index:2",
+      "flex:0 0 auto",
+      "display:flex",
+      "justify-content:space-between",
+      "align-items:center",
+      "gap:8mm",
+      "padding-top:3mm",
+      "border-top:1px solid #d8e0ea",
+      "color:#667085",
+      "font-size:10.5px",
+      "font-weight:700"
+    ].join(";");
+
+    footer.innerHTML = `
+      <div>
+        ${BRAND} • Free learning resources
+      </div>
 
       <div
         style="
-          margin-top:30px;
-          font-weight:700;
+          color:#2457d6;
+          font-size:14px;
+          font-weight:900;
         "
       >
-        Score: ______ / ${questions.length}
+        ${WEBSITE}
       </div>
 
-
-      <footer
-        style="
-          margin-top:28px;
-          padding-top:10px;
-          border-top:1px solid #d8e0ea;
-          color:#667085;
-          font-size:10px;
-          text-align:center;
-        "
-      >
-        Free learning resources • ${WEBSITE}
-      </footer>
+      <div class="skillr-page-number">
+        Page
+      </div>
     `;
 
-
-    return wrapper;
-
+    return footer;
   }
 
+  function watermark() {
+    const mark =
+      document.createElement(
+        "div"
+      );
 
-  /* =======================================================
-     PDF LIBRARY
-     ======================================================= */
+    mark.textContent =
+      "SkillrHub.com";
+
+    mark.setAttribute(
+      "aria-hidden",
+      "true"
+    );
+
+    mark.style.cssText = [
+      "position:absolute",
+      "left:50%",
+      "top:53%",
+      "z-index:0",
+      "transform:translate(-50%,-50%) rotate(-32deg)",
+      "color:#2457d6",
+      "font-size:58px",
+      "font-weight:900",
+      "letter-spacing:.02em",
+      "opacity:.05",
+      "white-space:nowrap",
+      "pointer-events:none",
+      "user-select:none"
+    ].join(";");
+
+    return mark;
+  }
+
+  function newPage(
+    firstPage = false
+  ) {
+    const page =
+      document.createElement(
+        "section"
+      );
+
+    page.className =
+      "skillr-pdf-page";
+
+    page.style.cssText = [
+      "width:215.9mm",
+      "height:279.4mm",
+      "box-sizing:border-box",
+      "position:relative",
+      "display:flex",
+      "flex-direction:column",
+      "padding:9mm 12mm 8mm",
+      "background:#fff",
+      "color:#172033",
+      "font-family:Arial,Helvetica,sans-serif",
+      "font-size:14px",
+      "line-height:1.4",
+      "overflow:hidden",
+      "break-after:page",
+      "page-break-after:always"
+    ].join(";");
+
+    const header =
+      makeHeader();
+
+    const content =
+      document.createElement(
+        "div"
+      );
+
+    content.className =
+      "skillr-pdf-content";
+
+    content.style.cssText = [
+      "position:relative",
+      "z-index:2",
+      "flex:1 1 auto",
+      "min-height:0",
+      "overflow:hidden",
+      "padding-top:2mm"
+    ].join(";");
+
+    const footer =
+      makeFooter();
+
+    page.append(
+      watermark(),
+      header
+    );
+
+    if (firstPage) {
+      page.append(
+        studentRow()
+      );
+    }
+
+    page.append(
+      content,
+      footer
+    );
+
+    return {
+      page,
+      content,
+      footer
+    };
+  }
+
+  function collectImageUrls(items) {
+    const urls =
+      new Set();
+
+    items.forEach(
+      question => {
+
+        if (question.image) {
+          urls.add(
+            question.image
+          );
+        }
+
+        (question.items || [])
+          .forEach(
+            item => {
+
+              if (
+                item &&
+                typeof item === "object" &&
+                item.image
+              ) {
+                urls.add(
+                  item.image
+                );
+              }
+
+            }
+          );
+
+      }
+    );
+
+    return [...urls];
+  }
+
+  function preloadImages(items) {
+    const urls =
+      collectImageUrls(items);
+
+    return Promise.all(
+      urls.map(
+        url =>
+          new Promise(
+            resolve => {
+
+              const img =
+                new Image();
+
+              img.onload =
+                resolve;
+
+              img.onerror =
+                resolve;
+
+              img.src =
+                url;
+
+              if (img.complete) {
+                resolve();
+              }
+
+            }
+          )
+      )
+    );
+  }
+
+  function buildPagedWorksheet(
+    items
+  ) {
+    const wrapper =
+      document.createElement(
+        "div"
+      );
+
+    wrapper.id =
+      "skillrWorksheetPdf";
+
+    wrapper.style.cssText =
+      "width:215.9mm;margin:0;padding:0;background:#fff";
+
+    const pages = [];
+
+    function addPage(
+      first = false
+    ) {
+      const data =
+        newPage(first);
+
+      wrapper.appendChild(
+        data.page
+      );
+
+      pages.push(data);
+
+      return data;
+    }
+
+    let current =
+      addPage(true);
+
+    items.forEach(
+      (question, index) => {
+
+        const block =
+          questionBlock(
+            question,
+            index
+          );
+
+        current.content.appendChild(
+          block
+        );
+
+        if (
+          current.content.scrollHeight >
+          current.content.clientHeight + 1
+        ) {
+          block.remove();
+
+          current =
+            addPage(false);
+
+          current.content.appendChild(
+            block
+          );
+        }
+
+      }
+    );
+
+    const score =
+      document.createElement(
+        "div"
+      );
+
+    score.style.cssText =
+      "padding:5mm 0 2mm;font-size:14px;font-weight:800;break-inside:avoid;page-break-inside:avoid";
+
+    score.textContent =
+      `Score: ______ / ${items.length}`;
+
+    current.content.appendChild(
+      score
+    );
+
+    if (
+      current.content.scrollHeight >
+      current.content.clientHeight + 1
+    ) {
+      score.remove();
+
+      current =
+        addPage(false);
+
+      current.content.appendChild(
+        score
+      );
+    }
+
+    pages.forEach(
+      (data, index) => {
+
+        const number =
+          $(
+            ".skillr-page-number",
+            data.footer
+          );
+
+        if (number) {
+          number.textContent =
+            `Page ${index + 1} of ${pages.length}`;
+        }
+
+        if (
+          index ===
+          pages.length - 1
+        ) {
+          data.page.style.breakAfter =
+            "auto";
+
+          data.page.style.pageBreakAfter =
+            "auto";
+        }
+
+      }
+    );
+
+    return wrapper;
+  }
 
   function loadPdfLibrary() {
-
     if (
       typeof window.html2pdf ===
       "function"
@@ -673,37 +942,33 @@
       return Promise.resolve();
     }
 
-
     return new Promise(
       (resolve, reject) => {
 
         const existing =
-          document.querySelector(
-            'script[data-skillr-html2pdf="true"]'
+          $(
+            "script[data-skillr-html2pdf='true']"
           );
 
-
         if (existing) {
-
           existing.addEventListener(
             "load",
-            () => resolve(),
-            { once: true }
+            resolve,
+            {
+              once: true
+            }
           );
 
           existing.addEventListener(
             "error",
-            () => reject(
-              new Error(
-                "PDF library failed to load."
-              )
-            ),
-            { once: true }
+            reject,
+            {
+              once: true
+            }
           );
 
           return;
         }
-
 
         const script =
           document.createElement(
@@ -711,7 +976,7 @@
           );
 
         script.src =
-          PDF_LIBRARY_URL;
+          PDF_LIB;
 
         script.async =
           true;
@@ -719,24 +984,11 @@
         script.dataset.skillrHtml2pdf =
           "true";
 
+        script.onload =
+          resolve;
 
-        script.addEventListener(
-          "load",
-          () => resolve(),
-          { once: true }
-        );
-
-
-        script.addEventListener(
-          "error",
-          () => reject(
-            new Error(
-              "PDF library failed to load."
-            )
-          ),
-          { once: true }
-        );
-
+        script.onerror =
+          reject;
 
         document.head.appendChild(
           script
@@ -744,22 +996,13 @@
 
       }
     );
-
   }
 
+  async function downloadWorksheet() {
+    const items =
+      questions();
 
-  /* =======================================================
-     DOWNLOAD
-     ======================================================= */
-
-  async function downloadWorksheetPdf() {
-
-    const questions =
-      getWorksheetQuestions();
-
-
-    if (questions.length === 0) {
-
+    if (!items.length) {
       alert(
         "Questions are not loaded yet."
       );
@@ -767,122 +1010,72 @@
       return;
     }
 
-
     const button =
-      document.getElementById(
-        "downloadPdfButton"
-      );
+      $("#downloadPdfButton");
 
-
-    const originalText =
-      button?.textContent || "";
-
+    const oldText =
+      button?.textContent ||
+      "Download PDF worksheet";
 
     if (button) {
-
-      button.disabled = true;
+      button.disabled =
+        true;
 
       button.textContent =
         "Preparing PDF…";
-
     }
 
+    let layer;
 
     try {
-
       await loadPdfLibrary();
 
+      await preloadImages(
+        items
+      );
 
-      const worksheet =
-        buildWorksheet(
-          questions
+      layer =
+        document.createElement(
+          "div"
         );
 
-
-      /*
-        IMPORTANT:
-        Do not place the worksheet far off-screen.
-        html2canvas can return a blank canvas for an element
-        positioned thousands of pixels outside the viewport.
-
-        Instead, render it temporarily in a real on-screen layer
-        after the PDF library has loaded. The layer is removed
-        immediately after the PDF is created.
-      */
-
-      const renderLayer =
-        document.createElement("div");
-
-      renderLayer.id =
+      layer.id =
         "skillrWorksheetRenderLayer";
 
-      renderLayer.style.cssText = `
-        position: fixed;
-        inset: 0;
-        z-index: 2147483647;
-        overflow: auto;
-        background: #ffffff;
-        pointer-events: none;
-      `;
+      layer.style.cssText = [
+        "position:fixed",
+        "inset:0",
+        "z-index:2147483647",
+        "overflow:auto",
+        "background:#fff",
+        "pointer-events:none"
+      ].join(";");
 
-      worksheet.style.margin =
-        "0 auto";
+      document.body.appendChild(
+        layer
+      );
 
-      renderLayer.appendChild(
+      const worksheet =
+        buildPagedWorksheet(
+          items
+        );
+
+      layer.appendChild(
         worksheet
       );
 
-      document.body.appendChild(
-        renderLayer
-      );
-
-
-      /*
-        Wait briefly so browser-loaded SVG/PNG images
-        have a chance to render before capture.
-      */
-
-      const images =
-        [
-          ...worksheet.querySelectorAll(
-            "img"
+      await new Promise(
+        resolve =>
+          requestAnimationFrame(
+            () =>
+              requestAnimationFrame(
+                resolve
+              )
           )
-        ];
-
-
-      await Promise.all(
-        images.map(
-          (image) => {
-
-            if (image.complete) {
-              return Promise.resolve();
-            }
-
-            return new Promise(
-              (resolve) => {
-
-                image.addEventListener(
-                  "load",
-                  resolve,
-                  { once: true }
-                );
-
-                image.addEventListener(
-                  "error",
-                  resolve,
-                  { once: true }
-                );
-
-              }
-            );
-
-          }
-        )
       );
 
-
-      const safeTitle =
-        getPageTitle()
+      const safeName =
+        title()
           .replace(
             /[^a-z0-9]+/gi,
             "-"
@@ -892,15 +1085,15 @@
             ""
           )
           .toLowerCase() ||
-        "skillr-worksheet";
-
+        "skillrhub-worksheet";
 
       await window
         .html2pdf()
         .set({
           margin: 0,
+
           filename:
-            `${safeTitle}-worksheet.pdf`,
+            `${safeName}-worksheet.pdf`,
 
           image: {
             type: "jpeg",
@@ -910,7 +1103,10 @@
           html2canvas: {
             scale: 2,
             useCORS: true,
-            backgroundColor: "#ffffff"
+            backgroundColor:
+              "#ffffff",
+            scrollX: 0,
+            scrollY: 0
           },
 
           jsPDF: {
@@ -921,74 +1117,54 @@
 
           pagebreak: {
             mode: [
-              "css",
-              "legacy"
+              "css"
+            ],
+            avoid: [
+              ".skillr-pdf-question",
+              ".skillr-pdf-page header",
+              ".skillr-pdf-page footer"
             ]
           }
         })
-        .from(worksheet)
+        .from(
+          worksheet
+        )
         .save();
 
-
-      renderLayer.remove();
-
     } catch (error) {
-
       console.error(
         "Worksheet PDF failed:",
         error
       );
 
       alert(
-        "The PDF could not be created. Please refresh the page and try again."
+        "The PDF could not be created. Please refresh and try again."
       );
 
     } finally {
+      layer?.remove();
 
       if (button) {
-
-        button.disabled = false;
+        button.disabled =
+          false;
 
         button.textContent =
-          originalText ||
-          "Download PDF Worksheet";
-
+          oldText;
       }
-
     }
-
   }
 
-
-  /* =======================================================
-     BUTTON SETUP
-     ======================================================= */
-
-  function setupWorksheetButton() {
-
+  function setupButton() {
     let button =
-      document.getElementById(
-        "downloadPdfButton"
-      );
-
-
-    /*
-      If index.html does not already contain the button,
-      create it beside Start Quiz automatically.
-    */
+      $("#downloadPdfButton");
 
     if (!button) {
+      const start =
+        $("#startButton");
 
-      const startButton =
-        document.getElementById(
-          "startButton"
-        );
-
-
-      if (!startButton) {
+      if (!start) {
         return;
       }
-
 
       button =
         document.createElement(
@@ -1005,40 +1181,32 @@
         "button button-secondary";
 
       button.textContent =
-        "Download PDF Worksheet";
+        "Download PDF worksheet";
 
-
-      startButton.insertAdjacentElement(
+      start.insertAdjacentElement(
         "afterend",
         button
       );
-
     }
-
 
     button.addEventListener(
       "click",
-      downloadWorksheetPdf
+      downloadWorksheet
     );
-
   }
-
 
   if (
     document.readyState ===
     "loading"
   ) {
-
     document.addEventListener(
       "DOMContentLoaded",
-      setupWorksheetButton,
-      { once: true }
+      setupButton,
+      {
+        once: true
+      }
     );
-
   } else {
-
-    setupWorksheetButton();
-
+    setupButton();
   }
-
 })();
