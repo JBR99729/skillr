@@ -44,7 +44,7 @@
     <section class="screen quiz-screen" id="quizScreen" aria-labelledby="questionText">
       <header class="quiz-header">
         <div>
-          <p class="progress-label" id="progressText">Question 1 of 150</p>
+          <p class="progress-label" id="progressText">Question 1 of 5</p>
           <div class="progress-track" aria-hidden="true"><div class="progress-bar" id="progressBar"></div></div>
         </div>
         <p class="score-display">Score: <strong id="liveScore">0</strong></p>
@@ -53,10 +53,10 @@
         <p class="question-number" id="questionNumber">Question 1</p>
         <h2 id="questionText">Question text</h2>
         <div class="answer-list" id="answerList" aria-labelledby="questionText"></div>
-        <p class="feedback" id="feedback" aria-live="polite"></p>
-        <div class="quiz-actions">
-          <button class="button button-primary" id="submitButton" type="button">Check answer</button>
-          <button class="button" id="nextButton" type="button" hidden>Next question</button>
+        <div class="feedback" id="feedback" aria-live="polite"></div>
+        <div class="actions">
+          <button class="button button-primary" id="submitButton" type="button" disabled>Check answer</button>
+          <button class="button button-secondary" id="nextButton" type="button" hidden>Next question</button>
         </div>
       </article>
     </section>
@@ -64,20 +64,31 @@
     <section class="screen result-screen" id="resultScreen" aria-labelledby="resultTitle">
       <div class="card result-card">
         <p class="eyebrow">Quiz complete</p>
-        <h2 id="resultTitle">Your results</h2>
-        <p class="result-message" id="resultMessage">You finished the quiz.</p>
-        <div class="quiz-summary" aria-label="Quiz results">
-          <div><span class="summary-number" id="percentageScore">0%</span><span class="summary-label">Score</span></div>
-          <div><span class="summary-number" id="finalScore">0</span><span class="summary-label">Correct</span></div>
-          <div><span class="summary-number" id="finalTotal">0</span><span class="summary-label">Questions</span></div>
+        <h2 id="resultTitle">Your result</h2>
+        <div class="result-circle" aria-label="Final percentage">
+          <span id="percentageScore">0%</span>
         </div>
-        <div class="quiz-actions">
+        <p class="result-score">
+          You scored
+          <strong id="finalScore">0</strong>
+          out of
+          <strong id="finalTotal">0</strong>.
+        </p>
+        <p class="result-message" id="resultMessage"></p>
+        <div class="result-actions">
           <button class="button button-primary" id="restartButton" type="button">Try again</button>
-          <button class="button" id="reviewButton" type="button">Review answers</button>
+          <button class="button button-secondary" id="reviewButton" type="button">Review answers</button>
         </div>
+        <section class="review-section is-hidden" id="reviewSection" aria-labelledby="reviewTitle">
+          <h3 id="reviewTitle">Answer review</h3>
+          <div id="reviewList"></div>
+        </section>
       </div>
     </section>
   </main>
+  <script>
+    window.quizConfig = { maxQuestions: 5, shuffleQuestions: true, shuffleAnswers: false };
+  </script>
   <script src="/share-button.js"></script>
   <script src="./questions.js?v=1"></script>
   <script src="/quiz/assets/script.js?v=107"></script>
