@@ -212,7 +212,8 @@ document.addEventListener("DOMContentLoaded", () => {
   let selectedMultipleIndexes = new Set();
   let orderedItems = [];
   let draggedItemIndex = null;
-
+  let imageDragAnswers = {};
+  let draggedImageId = null;
   function shuffleArray(items) {
     const copy = [...items];
 
@@ -341,6 +342,9 @@ document.addEventListener("DOMContentLoaded", () => {
     selectedMultipleIndexes = new Set();
     orderedItems = [];
     draggedItemIndex = null;
+     
+    imageDragAnswers = {};
+    draggedImageId = null;
   }
 
   function startQuiz() {
@@ -467,20 +471,24 @@ if (question.visual) {
         break;
 
       case "order":
-        renderOrdering(question);
-        break;
+  renderOrdering(question);
+  break;
 
-      case "drag-drop":
-        renderDragDrop(question);
-        break;
+case "drag-drop":
+  renderDragDrop(question);
+  break;
 
-      default:
-        elements.feedback.textContent =
-          `Unsupported question type: ${type}`;
+case "drag-image":
+  renderImageDragDrop(question);
+  break;
 
-        console.error(
-          `Unsupported question type: ${type}`
-        );
+default:
+  elements.feedback.textContent =
+    `Unsupported question type: ${type}`;
+
+  console.error(
+    `Unsupported question type: ${type}`
+  );
     }
   }
 
@@ -1580,7 +1588,431 @@ if (question.visual) {
         );
     }
   }
+/* =========================================================
+   IMAGE DRAG AND DROP
+   ========================================================= */
 
+function renderImageDragDrop(question) {
+
+  const hint =
+    document.createElement("p");
+
+  hint.className =
+    "question-hint";
+
+  hint.textContent =
+    question.instruction ||
+    "Drag each picture into the correct group.";
+
+  elements.answerList.appendChild(
+    hint
+  );
+
+
+  /* -----------------------------------------
+     IMAGE BANK
+     ----------------------------------------- */
+
+  const imageBank =
+    document.createElement("div");
+
+  imageBank.className =
+    "image-drag-bank";
+
+
+  question.items.forEach(
+    (item) => {
+
+      const card =
+        createImageDragCard(
+          item
+        );
+
+      imageBank.appendChild(
+        card
+      );
+
+    }
+  );
+
+
+  elements.answerList.appendChild(
+    imageBank
+  );
+
+
+  /* -----------------------------------------
+     CATEGORY DROP ZONES
+     ----------------------------------------- */
+
+  const categoryContainer =
+    document.createElement("div");
+
+  categoryContainer.className =
+    "image-drop-categories";
+
+
+  question.categories.forEach(
+    (category) => {
+
+      const zone =
+        document.createElement("div");
+
+      zone.className =
+        "image-drop-zone";
+
+      zone.dataset.target =
+        category.id;
+
+
+      const heading =
+        document.createElement("h3");
+
+      heading.className =
+        "image-drop-title";
+
+      heading.textContent =
+        category.label;
+
+
+      const itemsArea =
+        document.createElement("div");
+
+      itemsArea.className =
+        "image-drop-items";
+
+
+      zone.append(
+        heading,
+        itemsArea
+      );
+
+
+      /* Allow images to be dragged over */
+
+      zone.addEventListener(
+        "dragover",
+        (event) => {
+
+          if (answerChecked) {
+            return;
+          }
+
+          event.preventDefault();
+
+          zone.classList.add(
+            "is-drag-over"
+          );
+
+        }
+      );
+
+
+      zone.addEventListener(
+        "dragleave",
+        () => {
+
+          zone.classList.remove(
+            "is-drag-over"
+          );
+
+        }
+      );
+
+
+      zone.addEventListener(
+        "drop",
+        (event) => {
+
+          if (answerChecked) {
+            return;
+          }
+
+          event.preventDefault();
+
+          zone.classList.remove(
+            "is-drag-over"
+          );
+
+
+          const itemId =
+            event.dataTransfer.getData(
+              "text/plain"
+            ) ||
+            draggedImageId;
+
+
+          if (!itemId) {
+            return;
+          }
+
+
+          moveImageToCategory(
+            itemId,
+            category.id,
+            question
+          );
+
+        }
+      );
+
+
+      categoryContainer.appendChild(
+        zone
+      );
+
+    }
+  );
+
+
+  elements.answerList.appendChild(
+    categoryContainer
+  );
+
+
+  elements.submitButton.disabled =
+    true;
+}
+
+
+/* =========================================================
+   CREATE DRAGGABLE IMAGE CARD
+   ========================================================= */
+
+function createImageDragCard(item) {
+
+  const card =
+    document.createElement("button");
+
+  card.type =
+    "button";
+
+  card.className =
+    "image-drag-card";
+
+  card.dataset.itemId =
+    item.id;
+
+  card.draggable =
+    !answerChecked;
+
+
+  const image =
+    document.createElement("img");
+
+  image.src =
+    item.image;
+
+  image.alt =
+    item.alt || "";
+
+  image.className =
+    "image-drag-picture";
+
+  image.draggable =
+    false;
+
+
+  const label =
+    document.createElement("span");
+
+  label.className =
+    "image-drag-label";
+
+  label.textContent =
+    item.label ||
+    item.alt ||
+    "";
+
+
+  card.append(
+    image,
+    label
+  );
+
+
+  card.addEventListener(
+    "dragstart",
+    (event) => {
+
+      if (answerChecked) {
+
+        event.preventDefault();
+
+        return;
+      }
+
+
+      draggedImageId =
+        item.id;
+
+
+      card.classList.add(
+        "is-dragging"
+      );
+
+
+      event.dataTransfer.effectAllowed =
+        "move";
+
+
+      event.dataTransfer.setData(
+        "text/plain",
+        item.id
+      );
+
+    }
+  );
+
+
+  card.addEventListener(
+    "dragend",
+    () => {
+
+      draggedImageId =
+        null;
+
+
+      card.classList.remove(
+        "is-dragging"
+      );
+
+    }
+  );
+
+
+  return card;
+}
+
+
+/* =========================================================
+   MOVE IMAGE TO CATEGORY
+   ========================================================= */
+
+function moveImageToCategory(
+  itemId,
+  categoryId,
+  question
+) {
+
+  imageDragAnswers[
+    itemId
+  ] =
+    categoryId;
+
+
+  renderImageDragState(
+    question
+  );
+
+
+  const allPlaced =
+    question.items.every(
+      (item) =>
+        Boolean(
+          imageDragAnswers[
+            item.id
+          ]
+        )
+    );
+
+
+  elements.submitButton.disabled =
+    !allPlaced;
+}
+
+
+/* =========================================================
+   REDRAW IMAGE DRAG STATE
+   ========================================================= */
+
+function renderImageDragState(
+  question
+) {
+
+  const bank =
+    elements.answerList.querySelector(
+      ".image-drag-bank"
+    );
+
+
+  const zones =
+    elements.answerList.querySelectorAll(
+      ".image-drop-zone"
+    );
+
+
+  if (!bank) {
+    return;
+  }
+
+
+  bank.replaceChildren();
+
+
+  zones.forEach(
+    (zone) => {
+
+      const itemsArea =
+        zone.querySelector(
+          ".image-drop-items"
+        );
+
+      itemsArea?.replaceChildren();
+
+    }
+  );
+
+
+  question.items.forEach(
+    (item) => {
+
+      const card =
+        createImageDragCard(
+          item
+        );
+
+
+      const categoryId =
+        imageDragAnswers[
+          item.id
+        ];
+
+
+      if (!categoryId) {
+
+        bank.appendChild(
+          card
+        );
+
+        return;
+      }
+
+
+      const target =
+        elements.answerList.querySelector(
+          `.image-drop-zone[data-target="${categoryId}"] .image-drop-items`
+        );
+
+
+      if (target) {
+
+        target.appendChild(
+          card
+        );
+
+      } else {
+
+        bank.appendChild(
+          card
+        );
+
+      }
+
+    }
+  );
+
+}
   function showFeedback(
     isCorrect,
     explanation
