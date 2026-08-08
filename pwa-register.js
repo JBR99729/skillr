@@ -154,13 +154,8 @@
         return;
       }
 
-      if (typeof window.navigator.standalone === "boolean") {
-        window.alert("This browser is not offering an install prompt right now. Please use your browser’s Share or Add to Home Screen option instead.");
-        return;
-      }
-
       if (typeof window.alert === "function") {
-        window.alert("Install is not available on this browser right now. Please use your browser’s Share or Add to Home Screen option instead.");
+        window.alert("This browser is not offering an install prompt right now. Please use your browser’s Share or Add to Home Screen option instead.");
       }
     });
   }
