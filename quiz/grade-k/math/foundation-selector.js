@@ -10,6 +10,9 @@
    - Technical formats are varied where the bank supports them:
      MCQ, true/false, multi-select, typed text/number,
      fill-blank, order and drag.
+   - Exact duplicate-looking questions are blocked within each set.
+   - The same question pattern is limited to 1 per set when possible so students
+     do not receive repeated near-identical prompts in one attempt.
    --------------------------------------------------------- */
 
 (() => {
@@ -99,6 +102,52 @@
       "5"
     ]
   },
+  {
+    "id": "AC9MFN02-SUP-003",
+    "code": "AC9MFN02",
+    "elaboration": "AC9MFN02_E1",
+    "difficulty": "easy",
+    "type": "text",
+    "question": "Type how many dots you see at a quick look.",
+    "visual": "● ● ● ●",
+    "acceptedAnswers": ["4", "four"],
+    "explanation": "There are 4 dots."
+  },
+  {
+    "id": "AC9MFN02-SUP-004",
+    "code": "AC9MFN02",
+    "elaboration": "AC9MFN02_E2",
+    "difficulty": "easy",
+    "type": "true-false",
+    "question": "Do these two groups show the same number?",
+    "visual": "First:  ● ● ●\nSecond: ● ● ●",
+    "answers": ["True", "False"],
+    "correct": 0,
+    "explanation": "Both groups show 3 dots."
+  },
+
+  {
+    "id": "AC9MFN02-SUP-005",
+    "code": "AC9MFN02",
+    "elaboration": "AC9MFN02_E2",
+    "difficulty": "easy",
+    "type": "multiple",
+    "question": "Select the number names that can match a quick-look collection up to 5.",
+    "answers": ["two", "four", "seven", "nine"],
+    "correct": [0, 1],
+    "explanation": "Two and four are within the subitising range up to 5."
+  },
+  {
+    "id": "AC9MFN02-SUP-006",
+    "code": "AC9MFN02",
+    "elaboration": "AC9MFN02_E1",
+    "difficulty": "easy",
+    "type": "number",
+    "question": "A dot card flashes five dots. Enter the number you saw.",
+    "correct": 5,
+    "explanation": "Five dots represent the number 5."
+  },
+
   {
     "id": "AC9MFN03-SUP-001",
     "code": "AC9MFN03",
@@ -296,6 +345,18 @@
     ]
   },
   {
+    "id": "AC9MFA01-SUP-007",
+    "code": "AC9MFA01",
+    "elaboration": "AC9MFA01_E1",
+    "difficulty": "easy",
+    "type": "single",
+    "question": "Which movement pair could repeat as an AB pattern?",
+    "answers": ["clap, tap", "clap, clap, tap", "jump, clap, spin"],
+    "correct": 0,
+    "explanation": "An AB pattern repeats two parts, such as clap, tap."
+  },
+
+  {
     "id": "AC9MFM01-SUP-001",
     "code": "AC9MFM01",
     "elaboration": "AC9MFM01_E2",
@@ -416,6 +477,28 @@
     ]
   },
   {
+    "id": "AC9MFSP01-SUP-003",
+    "code": "AC9MFSP01",
+    "elaboration": "AC9MFSP01_E4",
+    "difficulty": "easy",
+    "type": "single",
+    "question": "Which familiar shape has 3 straight sides?",
+    "answers": ["triangle", "circle", "square"],
+    "correct": 0,
+    "explanation": "A triangle has 3 straight sides."
+  },
+  {
+    "id": "AC9MFSP01-SUP-004",
+    "code": "AC9MFSP01",
+    "elaboration": "AC9MFSP01_E4",
+    "difficulty": "easy",
+    "type": "text",
+    "question": "Type the name of a familiar shape with no straight sides.",
+    "acceptedAnswers": ["circle"],
+    "explanation": "A circle has no straight sides."
+  },
+
+  {
     "id": "AC9MFSP02-SUP-001",
     "code": "AC9MFSP02",
     "elaboration": "AC9MFSP02_E2",
@@ -453,6 +536,17 @@
       "Stops next to the box"
     ]
   },
+  {
+    "id": "AC9MFSP02-SUP-003",
+    "code": "AC9MFSP02",
+    "elaboration": "AC9MFSP02_E1",
+    "difficulty": "easy",
+    "type": "text",
+    "question": "Type the position word that means next to something.",
+    "acceptedAnswers": ["beside", "next to"],
+    "explanation": "Beside means next to."
+  },
+
   {
     "id": "AC9MFST01-SUP-001",
     "code": "AC9MFST01",
@@ -1264,6 +1358,49 @@
     "acceptedAnswers": [
       "data"
     ]
+  },
+  {
+    "id": "AC9MFA01-SUP-003",
+    "code": "AC9MFA01",
+    "elaboration": "AC9MFA01_E1",
+    "difficulty": "easy",
+    "type": "single",
+    "question": "Which row shows an AB repeating pattern?",
+    "answers": ["red, blue, red, blue", "red, red, blue, green", "red, blue, green, yellow"],
+    "correct": 0,
+    "explanation": "An AB pattern repeats the same two parts: red, blue, red, blue."
+  },
+  {
+    "id": "AC9MFA01-SUP-004",
+    "code": "AC9MFA01",
+    "elaboration": "AC9MFA01_E1",
+    "difficulty": "easy",
+    "type": "text",
+    "question": "Type the missing colour: red, blue, red, ___.",
+    "acceptedAnswers": ["blue"],
+    "explanation": "The pattern repeats red, blue."
+  },
+  {
+    "id": "AC9MFA01-SUP-005",
+    "code": "AC9MFA01",
+    "elaboration": "AC9MFA01_E1",
+    "difficulty": "easy",
+    "type": "fill-blank",
+    "question": "Complete the repeating action pattern.",
+    "template": "clap, tap, clap, {{blank}}",
+    "acceptedAnswers": ["tap"],
+    "explanation": "The actions repeat clap, tap."
+  },
+  {
+    "id": "AC9MFA01-SUP-006",
+    "code": "AC9MFA01",
+    "elaboration": "AC9MFA01_E3",
+    "difficulty": "easy",
+    "type": "true-false",
+    "question": "Does circle, square, circle, square make a repeating pattern?",
+    "answers": ["True", "False"],
+    "correct": 0,
+    "explanation": "Yes. Circle, square repeats in the same order."
   }
 ];
 
@@ -1285,6 +1422,67 @@
       return "typing";
     }
     return "choice";
+  };
+
+  // Build a stable fingerprint for what the learner actually sees.
+  // This prevents duplicate-looking questions with different IDs
+  // from appearing in the same 8-question practice set.
+  const questionFingerprint = (question) => {
+    const cleanText = (value) =>
+      String(value ?? "")
+        .replace(/\s+/g, " ")
+        .trim()
+        .toLowerCase();
+
+    const itemText = Array.isArray(question.items)
+      ? question.items
+          .map((item) =>
+            typeof item === "string"
+              ? cleanText(item)
+              : cleanText(
+                  item?.label ||
+                  item?.alt ||
+                  item?.id ||
+                  item?.image ||
+                  ""
+                )
+          )
+          .join("|")
+      : "";
+
+    const categoryText = Array.isArray(question.categories)
+      ? question.categories
+          .map((category) =>
+            cleanText(
+              category?.label ||
+              category?.id ||
+              ""
+            )
+          )
+          .join("|")
+      : "";
+
+    return [
+      cleanText(question.question),
+      cleanText(question.visual),
+      cleanText(question.image),
+      cleanText(question.template),
+      itemText,
+      categoryText
+    ].join("||");
+  };
+
+  // Group very similar question prompts together so a learner does not
+  // receive the same task pattern three or more times in one set.
+  // Numbers and common symbol quantities are ignored for this check.
+  const questionStemFingerprint = (question) => {
+    return String(question?.question ?? "")
+      .split("\n")[0]
+      .toLowerCase()
+      .replace(/[0-9]+(?:\.[0-9]+)?/g, "#")
+      .replace(/[★●▲■◆♦︎◼︎◻︎⬤⚫⚪]+/g, "*")
+      .replace(/\s+/g, " ")
+      .trim();
   };
 
   const normaliseVisual = (question) => {
@@ -1560,6 +1758,8 @@
     slotIndex,
     selected,
     usedSources,
+    usedFingerprints,
+    stemCounts,
     coveredElabs,
     usedTypes
   ) => {
@@ -1603,7 +1803,11 @@
           (q) =>
             !usedSources.has(
               q.sourceId || q.id
-            )
+            ) &&
+            !usedFingerprints.has(
+              questionFingerprint(q)
+            ) &&
+            (stemCounts.get(questionStemFingerprint(q)) || 0) < 1
         )
         .sort((a, b) => {
           const aMissing =
@@ -1653,7 +1857,18 @@
       const source =
         q.sourceId || q.id;
 
+      const fingerprint =
+        questionFingerprint(q);
+
+      const stem =
+        questionStemFingerprint(q);
+
       usedSources.add(source);
+      usedFingerprints.add(fingerprint);
+      stemCounts.set(
+        stem,
+        (stemCounts.get(stem) || 0) + 1
+      );
       selected.push(q);
 
       const wasCovered =
@@ -1672,6 +1887,8 @@
         slotIndex + 1,
         selected,
         usedSources,
+        usedFingerprints,
+        stemCounts,
         coveredElabs,
         usedTypes
       );
@@ -1682,6 +1899,15 @@
 
       selected.pop();
       usedSources.delete(source);
+      usedFingerprints.delete(fingerprint);
+
+      const nextStemCount =
+        (stemCounts.get(stem) || 1) - 1;
+      if (nextStemCount <= 0) {
+        stemCounts.delete(stem);
+      } else {
+        stemCounts.set(stem, nextStemCount);
+      }
 
       if (!typeWasUsed) {
         const typeStillUsed =
@@ -1720,6 +1946,8 @@
     [],
     new Set(),
     new Set(),
+    new Map(),
+    new Set(),
     new Set()
   );
 
@@ -1728,6 +1956,8 @@
   if (!best) {
     const selected = [];
     const used = new Set();
+    const usedFingerprints = new Set();
+    const stemCounts = new Map();
 
     requiredElabs.forEach((elab) => {
       const candidate =
@@ -1736,7 +1966,11 @@
             q.elaboration === elab &&
             !used.has(
               q.sourceId || q.id
-            )
+            ) &&
+            !usedFingerprints.has(
+              questionFingerprint(q)
+            ) &&
+            (stemCounts.get(questionStemFingerprint(q)) || 0) < 1
         );
 
       if (candidate) {
@@ -1745,6 +1979,11 @@
           candidate.sourceId ||
           candidate.id
         );
+        usedFingerprints.add(
+          questionFingerprint(candidate)
+        );
+        const stem = questionStemFingerprint(candidate);
+        stemCounts.set(stem, (stemCounts.get(stem) || 0) + 1);
       }
     });
 
@@ -1756,12 +1995,26 @@
       const source =
         q.sourceId || q.id;
 
-      if (!used.has(source)) {
+      const fingerprint =
+        questionFingerprint(q);
+
+      const stem = questionStemFingerprint(q);
+
+      if (
+        !used.has(source) &&
+        !usedFingerprints.has(fingerprint) &&
+        (stemCounts.get(stem) || 0) < 1
+      ) {
         selected.push(q);
         used.add(source);
+        usedFingerprints.add(fingerprint);
+        stemCounts.set(stem, (stemCounts.get(stem) || 0) + 1);
       }
     });
 
+    // If a very small bank still cannot reach TARGET under the
+    // two-per-pattern rule, fill only with genuinely different
+    // visible questions. This avoids exact duplicates.
     best = selected.slice(0, TARGET);
   }
 
