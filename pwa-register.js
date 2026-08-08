@@ -53,12 +53,6 @@
     }
 
     installButton.hidden = true;
-
-    try {
-      window.localStorage.setItem(installStateKey, "true");
-    } catch (error) {
-      console.warn("Unable to save install button state", error);
-    }
   }
 
   function shouldShowInstallButton() {
