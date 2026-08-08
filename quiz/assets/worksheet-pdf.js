@@ -799,18 +799,41 @@
         );
 
 
-      worksheet.style.position =
-        "fixed";
+      /*
+        IMPORTANT:
+        Do not place the worksheet far off-screen.
+        html2canvas can return a blank canvas for an element
+        positioned thousands of pixels outside the viewport.
 
-      worksheet.style.left =
-        "-10000px";
+        Instead, render it temporarily in a real on-screen layer
+        after the PDF library has loaded. The layer is removed
+        immediately after the PDF is created.
+      */
 
-      worksheet.style.top =
-        "0";
+      const renderLayer =
+        document.createElement("div");
 
+      renderLayer.id =
+        "skillrWorksheetRenderLayer";
+
+      renderLayer.style.cssText = `
+        position: fixed;
+        inset: 0;
+        z-index: 2147483647;
+        overflow: auto;
+        background: #ffffff;
+        pointer-events: none;
+      `;
+
+      worksheet.style.margin =
+        "0 auto";
+
+      renderLayer.appendChild(
+        worksheet
+      );
 
       document.body.appendChild(
-        worksheet
+        renderLayer
       );
 
 
@@ -907,7 +930,7 @@
         .save();
 
 
-      worksheet.remove();
+      renderLayer.remove();
 
     } catch (error) {
 
