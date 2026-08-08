@@ -411,6 +411,7 @@ textarea {
 .button,
 .button-link,
 .download-button,
+.download-link,
 .install-app-fab,
 .skillr-share-btn,
 .skillr-copy-btn,
@@ -459,6 +460,7 @@ textarea {
 .button:active,
 .button-link:active,
 .download-button:active,
+.download-link:active,
 .install-app-fab:active,
 .skillr-share-btn:active,
 .skillr-copy-btn:active,
@@ -485,6 +487,11 @@ textarea {
     .download-button:hover {
         background: #1a3a72;
         color: #fff;
+    }
+
+    .download-link:hover {
+        color: #0d4a95;
+        text-decoration: underline;
     }
 
     .amazon-resource-callout a:hover {
@@ -538,7 +545,8 @@ textarea {
     margin-top: 16px;
 }
 
-.download-button {
+.download-button,
+.download-link {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -555,6 +563,20 @@ textarea {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.download-link {
+    min-height: auto;
+    justify-content: flex-start;
+    border: none;
+    border-bottom: 1px solid #d9e2f0;
+    border-radius: 0;
+    background: transparent;
+    padding: 6px 0;
+    font-weight: 600;
+    color: #1a3a72;
+    text-align: left;
+    white-space: normal;
 }
 
 .amazon-resource-callout {
