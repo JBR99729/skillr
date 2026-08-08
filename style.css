@@ -797,6 +797,11 @@ footer {
     color: #fff;
 }
 
+.skillr-install-btn--active {
+    transform: scale(0.96);
+    box-shadow: 0 8px 18px rgba(245, 158, 11, 0.34);
+}
+
 .skillr-ig-btn {
     bottom: 200px;
     border-color: #f2d2e2;

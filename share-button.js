@@ -54,9 +54,13 @@ document.addEventListener('DOMContentLoaded', function () {
     if (window.external && typeof window.external.AddFavorite === 'function') {
       window.external.AddFavorite(window.location.href, document.title);
     }
+    installButton.classList.add('skillr-install-btn--active');
     installHelp.style.opacity = '0';
     installHelp.style.transform = 'translateY(6px)';
     installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+    setTimeout(function () {
+      installButton.classList.remove('skillr-install-btn--active');
+    }, 300);
   });
 
   var installHelp = document.createElement('div');
