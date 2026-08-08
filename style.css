@@ -743,8 +743,8 @@ footer {
 
 .install-app-fab {
     position: fixed;
-    right: 90px;
-    bottom: 18px;
+    right: 82px;
+    bottom: 86px;
     z-index: 9999;
     display: inline-flex;
     align-items: center;
