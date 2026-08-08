@@ -5,6 +5,16 @@
   let installButton = null;
   const installStateKey = "skillrInstallFabDismissed";
 
+  function clearLegacyInstallDismissState() {
+    try {
+      window.localStorage.removeItem(installStateKey);
+    } catch (error) {
+      // Ignore storage access issues.
+    }
+  }
+
+  clearLegacyInstallDismissState();
+
 
   /* =========================================================
      REGISTER SERVICE WORKER
@@ -16,6 +26,9 @@
         .register("/service-worker.js", {
           scope: "/",
           updateViaCache: "none"
+        })
+        .then((registration) => {
+          registration.update();
         })
         .catch((error) => {
           console.error(
@@ -41,7 +54,7 @@
 
   function isInstallDismissed() {
     try {
-      return window.localStorage.getItem(installStateKey) === "true";
+      return window.sessionStorage.getItem(installStateKey) === "true";
     } catch (error) {
       return false;
     }
@@ -64,20 +77,22 @@
       return false;
     }
 
-    const isSecureContext = window.location.protocol === "https:" || window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
-
-    if (!isSecureContext) {
-      return false;
-    }
-
     return true;
   }
 
   function markInstallAsSeen() {
     try {
-      window.localStorage.setItem(installStateKey, "true");
+      window.sessionStorage.setItem(installStateKey, "true");
     } catch (error) {
       console.warn("Unable to save install button state", error);
+    }
+  }
+
+  function resetInstallDismissState() {
+    try {
+      window.sessionStorage.removeItem(installStateKey);
+    } catch (error) {
+      // Ignore storage access issues.
     }
   }
 
@@ -118,6 +133,8 @@
       document.body.appendChild(installButton);
     }
 
+    installButton.hidden = false;
+
     if (isInstallDismissed()) {
       installButton.hidden = true;
       return;
@@ -155,7 +172,7 @@
       }
 
       if (typeof window.alert === "function") {
-        window.alert("This browser is not offering an install prompt right now. Please use your browser’s Share or Add to Home Screen option instead.");
+        window.alert("Install is not available right now. Please use your browser menu and choose Install app, Add to Home Screen, or Share → Add to Home Screen.");
       }
     });
   }
@@ -174,6 +191,7 @@
   window.addEventListener("beforeinstallprompt", (event) => {
     event.preventDefault();
 
+    resetInstallDismissState();
     deferredInstallPrompt = event;
     showInstallButton();
   });
