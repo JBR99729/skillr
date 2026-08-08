@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    Foundation Times Tables Quiz | Daily Multiplication Practice | SkillrHub
+  </title>
+
+  <meta
+    name="description"
+    content="Free Foundation times tables practice quiz with short daily multiplication activities. Practise selected multiplication facts from times 1 to times 12."
+  >
+
+  <link
+    rel="canonical"
+    href="https://skillrhub.com/quiz/grade-k/math/times-tables/"
+  >
+
+
+  <!-- ===================================================
+       OPEN GRAPH
+       =================================================== -->
+
+  <meta
+    property="og:title"
+    content="Foundation Times Tables Quiz | SkillrHub"
+  >
+
+  <meta
+    property="og:description"
+    content="Short daily multiplication and times tables practice for young learners."
+  >
+
+  <meta
+    property="og:type"
+    content="website"
+  >
+
+  <meta
+    property="og:url"
+    content="https://skillrhub.com/quiz/grade-k/math/times-tables/"
+  >
+
+
+  <!-- ===================================================
+       GOOGLE ANALYTICS
+       =================================================== -->
+
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"
+  ></script>
+
+  <script>
+
+    window.dataLayer =
+      window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag(
+      "js",
+      new Date()
+    );
+
+    gtag(
+      "config",
+      "G-8P22BET45N"
+    );
+
+  </script>
+
+
+  <!-- ===================================================
+       GOOGLE ADSENSE
+       =================================================== -->
+
+  <meta
+    name="google-adsense-account"
+    content="ca-pub-7734963540104771"
+  >
+
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771"
+    crossorigin="anonymous"
+  ></script>
+
+
+  <!-- ===================================================
+       STYLES
+       =================================================== -->
+
+  <link
+    rel="stylesheet"
+    href="/style.css"
+  >
+
+  <link
+    rel="stylesheet"
+    href="/quiz/assets/style.css?v=103"
+  >
+
+
+  <!-- ===================================================
+       STRUCTURED DATA
+       =================================================== -->
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Foundation Times Tables Quiz",
+    "description": "Short interactive multiplication and times tables practice for young learners.",
+    "url": "https://skillrhub.com/quiz/grade-k/math/times-tables/",
+    "educationalLevel": "Foundation",
+    "learningResourceType": "Quiz",
+    "isAccessibleForFree": true,
+    "inLanguage": "en-AU",
+    "educationalUse": [
+      "Practice",
+      "Revision",
+      "Daily fluency"
+    ],
+    "about": [
+      "Multiplication",
+      "Times tables",
+      "Equal groups",
+      "Skip counting",
+      "Number patterns"
+    ]
+  }
+  </script>
+
+
+
+  <!-- ===================================================
+       TIMES TABLE CONFIGURATION
+
+       IMPORTANT:
+       This is the part you reuse for each year.
+
+       Every active table will include:
+       ×1 through ×12
+
+       To activate another table:
+       REMOVE // from that line.
+
+       To deactivate a table:
+       ADD // before that number.
+
+       The question bank can contain ALL tables
+       from 1 to 20 permanently.
+
+       You do NOT need separate questions.js files
+       for every year.
+       =================================================== -->
+
+  <script>
+
+    window.timesTablesQuiz = {
+
+      /*
+        Each multiplication table runs
+        from ×1 through ×12.
+      */
+
+      minMultiplier: 1,
+
+      maxMultiplier: 12,
+
+
+      /*
+        =================================================
+        ACTIVE TABLES — FOUNDATION VERSION
+        =================================================
+
+        Foundation note:
+
+        Formal times-table memorisation is not
+        required at Foundation level.
+
+        These selected tables can be used as
+        optional early number-pattern and
+        multiplication-fluency practice.
+
+        Remove // to activate more tables for
+        later year levels.
+      */
+
+      activeTables: [
+
+        1,
+
+        2,
+
+        // 3,
+
+        // 4,
+
+        5,
+
+        // 6,
+
+        // 7,
+
+        // 8,
+
+        // 9,
+
+        10,
+
+        // 11,
+
+        // 12,
+
+        // 13,
+
+        // 14,
+
+        // 15,
+
+        // 16,
+
+        // 17,
+
+        // 18,
+
+        // 19,
+
+        // 20
+
+      ]
+
+    };
+
+  </script>
+
+
+</head>
+
+
+<body>
+
+
+  <!-- ===================================================
+       BREADCRUMBS
+       =================================================== -->
+
+  <nav
+    class="breadcrumbs"
+    aria-label="Breadcrumb"
+  >
+
+    <a href="/">
+      Home
+    </a>
+
+    <span aria-hidden="true">
+      ›
+    </span>
+
+    <a href="/quiz/">
+      Quizzes
+    </a>
+
+    <span aria-hidden="true">
+      ›
+    </span>
+
+    <span>
+      Foundation Times Tables
+    </span>
+
+  </nav>
+
+
+
+  <!-- ===================================================
+       QUIZ APP
+       =================================================== -->
+
+  <main
+    class="quiz-app"
+    id="quizApp"
+  >
+
+
+    <!-- =================================================
+         START SCREEN
+         ================================================= -->
+
+    <section
+      class="screen start-screen is-active"
+      id="startScreen"
+      aria-labelledby="quizTitle"
+    >
+
+      <div class="card start-card">
+
+
+        <p class="eyebrow">
+          Foundation Maths • Daily Practice
+        </p>
+
+
+        <h1 id="quizTitle">
+          Times Tables Quiz
+        </h1>
+
+
+        <p class="intro-text">
+          Build multiplication confidence with
+          a short daily times tables challenge.
+        </p>
+
+
+        <!-- =============================================
+             ACTIVE TABLES
+
+             Filled automatically from
+             window.timesTablesQuiz.activeTables
+             ============================================= -->
+
+        <p class="intro-text">
+
+          <strong>
+            Tables in this quiz:
+          </strong>
+
+          <span id="activeTablesText">
+            Loading…
+          </span>
+
+        </p>
+
+
+        <p class="intro-text">
+
+          Questions may use facts from
+
+          <strong>
+            ×1 to ×12
+          </strong>.
+
+        </p>
+
+
+
+        <div
+          class="quiz-summary"
+          aria-label="Quiz information"
+        >
+
+
+          <div>
+
+            <span
+              class="summary-number"
+              id="questionCount"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Questions
+            </span>
+
+          </div>
+
+
+          <div>
+
+            <span class="summary-number">
+              1
+            </span>
+
+            <span class="summary-label">
+              Point each
+            </span>
+
+          </div>
+
+
+          <div>
+
+            <span
+              class="summary-number"
+              id="bestScore"
+            >
+              0
+            </span>
+
+            <span class="summary-label">
+              Best score
+            </span>
+
+          </div>
+
+
+        </div>
+
+
+        <p class="intro-text">
+          Complete one short set each day.
+          A different mix of questions is selected
+          each time.
+        </p>
+
+
+        <button
+          class="button button-primary button-start"
+          id="startButton"
+          type="button"
+        >
+          Start times tables quiz
+        </button>
+
+
+      </div>
+
+    </section>
+
+
+
+    <!-- =================================================
+         QUIZ SCREEN
+         ================================================= -->
+
+    <section
+      class="screen quiz-screen"
+      id="quizScreen"
+      aria-labelledby="questionText"
+    >
+
+
+      <header class="quiz-header">
+
+
+        <div>
+
+
+          <p
+            class="progress-label"
+            id="progressText"
+          >
+            Question 1 of 5
+          </p>
+
+
+          <div
+            class="progress-track"
+            aria-hidden="true"
+          >
+
+            <div
+              class="progress-bar"
+              id="progressBar"
+            ></div>
+
+          </div>
+
+
+        </div>
+
+
+        <p class="score-display">
+
+          Score:
+
+          <strong id="liveScore">
+            0
+          </strong>
+
+        </p>
+
+
+      </header>
+
+
+
+      <article class="card question-card">
+
+
+        <p
+          class="question-number"
+          id="questionNumber"
+        >
+          Question 1
+        </p>
+
+
+        <h2 id="questionText">
+          Question text
+        </h2>
+
+
+        <!--
+          Optional arrays / groups / visuals from
+          questions.js will appear automatically
+          underneath the question.
+        -->
+
+
+        <div
+          class="answer-list"
+          id="answerList"
+          aria-labelledby="questionText"
+        ></div>
+
+
+        <div
+          class="feedback"
+          id="feedback"
+          aria-live="polite"
+        ></div>
+
+
+        <div class="actions">
+
+
+          <button
+            class="button button-primary"
+            id="submitButton"
+            type="button"
+            disabled
+          >
+            Check answer
+          </button>
+
+
+          <button
+            class="button button-primary is-hidden"
+            id="nextButton"
+            type="button"
+          >
+            Next question
+          </button>
+
+
+        </div>
+
+
+      </article>
+
+
+    </section>
+
+
+
+    <!-- =================================================
+         RESULT SCREEN
+         ================================================= -->
+
+    <section
+      class="screen result-screen"
+      id="resultScreen"
+      aria-labelledby="resultTitle"
+    >
+
+
+      <div class="card result-card">
+
+
+        <p class="eyebrow">
+          Daily practice complete
+        </p>
+
+
+        <h2 id="resultTitle">
+          Your result
+        </h2>
+
+
+        <div
+          class="result-circle"
+          aria-label="Final percentage"
+        >
+
+          <span id="percentageScore">
+            0%
+          </span>
+
+        </div>
+
+
+        <p class="result-score">
+
+          You scored
+
+          <strong id="finalScore">
+            0
+          </strong>
+
+          out of
+
+          <strong id="finalTotal">
+            0
+          </strong>.
+
+        </p>
+
+
+        <p
+          class="result-message"
+          id="resultMessage"
+        ></p>
+
+
+        <div class="result-actions">
+
+
+          <button
+            class="button button-primary"
+            id="restartButton"
+            type="button"
+          >
+            Try another set
+          </button>
+
+
+          <button
+            class="button button-secondary"
+            id="reviewButton"
+            type="button"
+          >
+            Review answers
+          </button>
+
+
+        </div>
+
+
+        <!--
+          Answer review is now handled by:
+
+          /quiz/review.html
+        -->
+
+
+      </div>
+
+
+    </section>
+
+
+  </main>
+
+
+
+  <!-- ===================================================
+       SUPPORTING CONTENT
+       =================================================== -->
+
+  <section
+    class="card seo-content"
+    style="
+      max-width: 900px;
+      margin: 32px auto;
+      padding: 32px;
+      text-align: left;
+    "
+  >
+
+
+    <h2>
+      Daily Times Tables Practice
+    </h2>
+
+
+    <p>
+      Short and regular multiplication practice
+      can help children recognise number patterns,
+      understand equal groups and gradually build
+      multiplication fluency.
+    </p>
+
+
+    <p>
+      Each quiz contains only
+      <strong>5 questions</strong>,
+      making it suitable for a quick maths warm-up,
+      numeracy rotation or home-practice activity.
+    </p>
+
+
+
+    <!-- =================================================
+         ACTIVE TABLES
+         ================================================= -->
+
+    <h3>
+      Tables Currently Included
+    </h3>
+
+
+    <p>
+      This version currently practises:
+    </p>
+
+
+    <p>
+      <strong id="activeTablesContent">
+        Loading…
+      </strong>
+    </p>
+
+
+    <p>
+      Each active table can contain multiplication
+      facts from
+      <strong>×1 through ×12</strong>.
+    </p>
+
+
+
+    <!-- =================================================
+         SKILLS
+         ================================================= -->
+
+    <h3>
+      Skills Practised
+    </h3>
+
+
+    <ul>
+
+      <li>
+        Reading multiplication number sentences.
+      </li>
+
+      <li>
+        Connecting equal groups with multiplication.
+      </li>
+
+      <li>
+        Recognising repeated addition.
+      </li>
+
+      <li>
+        Using skip-counting patterns.
+      </li>
+
+      <li>
+        Recalling multiplication facts.
+      </li>
+
+      <li>
+        Finding missing factors.
+      </li>
+
+      <li>
+        Finding missing products.
+      </li>
+
+      <li>
+        Matching multiplication facts with answers.
+      </li>
+
+      <li>
+        Comparing multiplication products.
+      </li>
+
+      <li>
+        Ordering multiplication facts by value.
+      </li>
+
+    </ul>
+
+
+
+    <!-- =================================================
+         REUSABLE TABLE LIST
+         ================================================= -->
+
+    <h3>
+      Available Times Tables
+    </h3>
+
+
+    <p>
+      The reusable quiz system can support all
+      multiplication tables from
+      <strong>1× through 20×</strong>.
+    </p>
+
+
+    <div
+      id="timesTableList"
+      style="
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 20px 0;
+      "
+    ></div>
+
+
+
+    <!-- =================================================
+         FOUNDATION NOTE
+         ================================================= -->
+
+    <h3>
+      Foundation Practice Note
+    </h3>
+
+
+    <p>
+      Formal memorisation of multiplication tables
+      is not expected as a Foundation Mathematics
+      outcome.
+    </p>
+
+
+    <p>
+      For younger learners, these activities are
+      best used as optional exposure to equal
+      groups, repeated patterns, skip counting and
+      simple multiplication language.
+    </p>
+
+
+    <p>
+      The same quiz template can then be reused
+      for later year levels by activating additional
+      multiplication tables in the configuration
+      near the top of this file.
+    </p>
+
+
+
+    <!-- =================================================
+         TEACHER / PARENT USE
+         ================================================= -->
+
+    <h3>
+      How to Use the Quiz
+    </h3>
+
+
+    <p>
+      Ask students to complete one short set regularly
+      rather than a large number of facts at once.
+    </p>
+
+
+    <p>
+      Encourage children to explain how they know
+      an answer. They may use skip counting,
+      equal groups, repeated addition, known facts
+      or patterns.
+    </p>
+
+
+    <p>
+      Students can use
+      <strong>Review answers</strong>
+      after each attempt to revisit mistakes before
+      trying another random set.
+    </p>
+
+
+  </section>
+
+
+
+  <!-- ===================================================
+       PRIVACY NOTICE
+       =================================================== -->
+
+  <section
+    class="site-notice"
+    aria-label="Advertising and privacy notice"
+  >
+
+    <p>
+      This site may use analytics and advertising
+      to support free resources.
+      Please review our
+      <a href="/privacy-policy.html">
+        privacy policy
+      </a>
+      for information about cookies, analytics
+      and advertising.
+    </p>
+
+  </section>
+
+
+
+  <!-- ===================================================
+       DISPLAY ACTIVE TABLES
+
+       This DOES NOT generate quiz questions.
+
+       It only reads the configuration above and
+       displays the active tables to the visitor.
+
+       questions.js will use the same configuration.
+       =================================================== -->
+
+  <script>
+
+    (() => {
+
+      const settings =
+        window.timesTablesQuiz || {};
+
+
+      const activeTables =
+        Array.isArray(settings.activeTables)
+          ? settings.activeTables
+          : [];
+
+
+      const activeText =
+        activeTables
+          .map(
+            (table) =>
+              `${table}×`
+          )
+          .join(", ");
+
+
+      const activeTablesText =
+        document.getElementById(
+          "activeTablesText"
+        );
+
+
+      const activeTablesContent =
+        document.getElementById(
+          "activeTablesContent"
+        );
+
+
+      if (activeTablesText) {
+
+        activeTablesText.textContent =
+          activeText;
+
+      }
+
+
+      if (activeTablesContent) {
+
+        activeTablesContent.textContent =
+          activeText;
+
+      }
+
+
+
+      /* ===============================================
+         SHOW ALL TABLES 1–20
+
+         Active tables are labelled "Active".
+         Others are labelled "Available".
+         =============================================== */
+
+      const tableList =
+        document.getElementById(
+          "timesTableList"
+        );
+
+
+      if (tableList) {
+
+        for (
+          let table = 1;
+          table <= 20;
+          table += 1
+        ) {
+
+          const item =
+            document.createElement(
+              "span"
+            );
+
+
+          const isActive =
+            activeTables.includes(
+              table
+            );
+
+
+          item.textContent =
+            isActive
+              ? `${table}× Active`
+              : `${table}× Available`;
+
+
+          item.style.padding =
+            "8px 12px";
+
+
+          item.style.border =
+            "1px solid #d8e0ea";
+
+
+          item.style.borderRadius =
+            "999px";
+
+
+          item.style.fontSize =
+            "0.92rem";
+
+
+          item.style.fontWeight =
+            isActive
+              ? "700"
+              : "400";
+
+
+          tableList.appendChild(
+            item
+          );
+
+        }
+
+      }
+
+    })();
+
+  </script>
+
+
+
+  <!-- ===================================================
+       JAVASCRIPT
+
+       IMPORTANT:
+       timesTablesQuiz configuration is declared
+       BEFORE questions.js.
+
+       questions.js MUST load before shared script.js.
+       =================================================== -->
+
+  <script src="/share-button.js"></script>
+
+
+  <script
+    src="./questions.js?v=103"
+  ></script>
+
+
+  <script
+    src="/quiz/assets/script.js?v=107"
+  ></script>
+
+
+</body>
+
+</html>
