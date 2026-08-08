@@ -60,6 +60,11 @@ document.addEventListener('DOMContentLoaded', function () {
   installHelp.className = 'skillr-install-help';
   installHelp.setAttribute('role', 'note');
   installHelp.innerHTML = '<strong>Bookmark shortcut</strong><span>Safe on school and kids devices. It only adds a simple bookmark shortcut and does not collect data.</span>';
+  setTimeout(function () {
+    installHelp.style.opacity = '0';
+    installHelp.style.transform = 'translateY(6px)';
+    installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+  }, 30000);
 
   document.body.appendChild(facebookButton);
   document.body.appendChild(instagramButton);
