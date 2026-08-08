@@ -123,29 +123,37 @@
     showInstallButton();
 
     installButton.addEventListener("click", async () => {
-      if (!deferredInstallPrompt) {
-        return;
-      }
+      if (deferredInstallPrompt) {
+        deferredInstallPrompt.prompt();
 
-      deferredInstallPrompt.prompt();
+        try {
+          const choice = await deferredInstallPrompt.userChoice;
 
-      try {
-        const choice = await deferredInstallPrompt.userChoice;
-
-        if (choice.outcome === "accepted") {
-          markInstallAsSeen();
-          hideInstallButton();
-        } else {
+          if (choice.outcome === "accepted") {
+            markInstallAsSeen();
+            hideInstallButton();
+          } else {
+            markInstallAsSeen();
+            hideInstallButton();
+          }
+        } catch (error) {
+          console.error("SkillrHub install prompt failed:", error);
           markInstallAsSeen();
           hideInstallButton();
         }
-      } catch (error) {
-        console.error("SkillrHub install prompt failed:", error);
-        markInstallAsSeen();
-        hideInstallButton();
+
+        deferredInstallPrompt = null;
+        return;
       }
 
-      deferredInstallPrompt = null;
+      if (window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true) {
+        hideInstallButton();
+        return;
+      }
+
+      if (typeof window.alert === "function") {
+        window.alert("Install is not available yet on this browser. Please use your browser’s Share or Add to Home Screen option instead.");
+      }
     });
   }
 
