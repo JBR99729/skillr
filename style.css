@@ -520,6 +520,19 @@ textarea {
 }
 
 .button--quiz,
+.button-link.button--quiz,
+.button--guide,
+.button--worksheet {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 10px 18px;
+    line-height: 1.25;
+    font-size: 0.98rem;
+}
+
+.button--quiz,
 .button-link.button--quiz {
     background: linear-gradient(135deg, #0f4c81 0%, #1e6bb3 100%);
     border: 2px solid #0f4c81;
