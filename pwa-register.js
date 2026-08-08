@@ -70,6 +70,14 @@
     return hasTouch || mobileUserAgent || window.innerWidth <= 900;
   }
 
+  function markInstallAsSeen() {
+    try {
+      window.localStorage.setItem(installStateKey, "true");
+    } catch (error) {
+      console.warn("Unable to save install button state", error);
+    }
+  }
+
   function showInstallButton() {
     if (!installButton || isInstallDismissed()) {
       return;
@@ -125,12 +133,15 @@
         const choice = await deferredInstallPrompt.userChoice;
 
         if (choice.outcome === "accepted") {
+          markInstallAsSeen();
           hideInstallButton();
         } else {
+          markInstallAsSeen();
           hideInstallButton();
         }
       } catch (error) {
         console.error("SkillrHub install prompt failed:", error);
+        markInstallAsSeen();
         hideInstallButton();
       }
 
@@ -163,6 +174,7 @@
 
   window.addEventListener("appinstalled", () => {
     deferredInstallPrompt = null;
+    markInstallAsSeen();
     hideInstallButton();
   });
 })();
