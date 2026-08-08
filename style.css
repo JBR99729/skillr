@@ -538,6 +538,18 @@ textarea {
 
 /* Download buttons */
 
+.button--guide {
+    background: #f4f7fb;
+    border-color: #0f4c81;
+    color: #0f4c81;
+}
+
+.button--worksheet {
+    background: #fff7e6;
+    border-color: #d99000;
+    color: #8a4b00;
+}
+
 .download-links {
     display: block;
     margin-top: 12px;
