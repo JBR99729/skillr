@@ -34,6 +34,96 @@ function playQuizSound(isCorrect) {
 
   });
 }
+function getYearLabel(yearSegment) {
+  const labels = {
+    "grade-k": "Foundation",
+    "year-1": "Year 1",
+    "year-2": "Year 2",
+    "year-3": "Year 3",
+    "year-4": "Year 4",
+    "year-5": "Year 5",
+    "year-6": "Year 6",
+    "year-7": "Year 7",
+    "year-8": "Year 8",
+    "year-9": "Year 9",
+    "year-10": "Year 10"
+  };
+
+  return labels[yearSegment] || "Quiz";
+}
+
+function capitaliseSegment(segment) {
+  if (!segment) {
+    return "";
+  }
+
+  return segment
+    .split("-")
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+function getQuizHubInfo(pathname) {
+  const segments = pathname.split("/").filter(Boolean);
+  const isQuizPage = segments[0] === "quiz";
+
+  if (!isQuizPage) {
+    return null;
+  }
+
+  const yearSegment = segments.find((segment) => segment.startsWith("year-"));
+  const gradeSegment = segments.includes("grade-k") ? "grade-k" : null;
+  const isDailyDrills = segments.includes("daily-drills");
+  const subjectSegment = segments.find((segment) => ["english", "math", "maths", "science"].includes(segment));
+
+  if (gradeSegment) {
+    return {
+      label: isDailyDrills ? "Foundation Daily Drills" : "Foundation Maths",
+      href: isDailyDrills ? "/quiz/grade-k/daily-drills/" : "/quiz/grade-k/math/"
+    };
+  }
+
+  if (yearSegment) {
+    const yearLabel = getYearLabel(yearSegment);
+
+    if (isDailyDrills) {
+      const subjectHref = subjectSegment ? `/quiz/${yearSegment}/daily-drills/${subjectSegment}/` : null;
+      const label = subjectSegment
+        ? `${yearLabel} ${capitaliseSegment(subjectSegment)} Drills`
+        : `${yearLabel} Daily Drills`;
+
+      return {
+        label,
+        href: subjectHref || `/quiz/${yearSegment}/daily-drills/`
+      };
+    }
+
+    if (subjectSegment && (subjectSegment === "math" || subjectSegment === "maths")) {
+      return {
+        label: `${yearLabel} Maths`,
+        href: `/quiz/${yearSegment}/math/`
+      };
+    }
+
+    if (subjectSegment === "science") {
+      return {
+        label: `${yearLabel} Science`,
+        href: `/quiz/${yearSegment}/science/`
+      };
+    }
+
+    return {
+      label: `${yearLabel} Quizzes`,
+      href: `/quiz/${yearSegment}/`
+    };
+  }
+
+  return {
+    label: "Quiz",
+    href: "/quiz/"
+  };
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const existingBreadcrumb = document.querySelector(
     "nav.breadcrumb, nav.breadcrumbs, .quiz-breadcrumb"
@@ -44,37 +134,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (main) {
       const path = window.location.pathname;
-      const segments = path.split("/").filter(Boolean);
-      const isQuizPage = segments[0] === "quiz";
+      const isQuizPage = path.split("/").filter(Boolean)[0] === "quiz";
 
       if (isQuizPage) {
         const currentTitle =
           document.querySelector("main h1, .review-heading")?.textContent?.trim() ||
           document.title;
-
-        const quizHubLabel =
-          segments.includes("grade-k")
-            ? "Foundation Maths"
-            : segments.includes("year-1")
-              ? "Year 1 Maths"
-              : segments.includes("year-2")
-                ? "Year 2 Maths"
-                : segments.includes("year-3")
-                  ? "Year 3 Maths"
-                  : segments.includes("year-4")
-                    ? "Year 4 Maths"
-                    : segments.includes("year-5")
-                      ? "Year 5 Maths"
-                      : segments.includes("year-6")
-                        ? "Year 6 Maths"
-                        : "Quiz";
-
-        const quizHubHref =
-          segments.includes("grade-k")
-            ? "/quiz/grade-k/math/"
-            : segments.includes("year-1")
-              ? "/quiz/year-1/math/"
-              : "/quiz/";
+        const quizHub = getQuizHubInfo(path);
+        const quizHubLabel = quizHub?.label || "Quiz";
+        const quizHubHref = quizHub?.href || "/quiz/";
 
         const breadcrumb = document.createElement("nav");
         breadcrumb.className = "quiz-breadcrumb";

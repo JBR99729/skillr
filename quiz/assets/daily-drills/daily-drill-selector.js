@@ -83,6 +83,48 @@
     }
   }
 
+  function addRelatedYearLinks(){
+    const container=document.querySelector(".daily-topic-links");
+    if(!container) return;
+
+    const related=[];
+    Object.entries(window.SkillrDailyCatalog?.years || {}).forEach(([yearKey, yearData]) => {
+      if(yearKey===year) return;
+      const list=yearData?.[subject];
+      if(!Array.isArray(list)) return;
+      const match=list.find(item => item.slug===skill || item.id===skill);
+      if(!match) return;
+
+      related.push({
+        label: yearData.label,
+        title: match.title,
+        url: `/quiz/${yearData.path}/daily-drills/${subject}/${match.slug}/`
+      });
+    });
+
+    if(!related.length) return;
+
+    const section=document.createElement("div");
+    section.className="daily-topic-links daily-topic-links--related";
+
+    const heading=document.createElement("h3");
+    heading.textContent="Related practice across year levels";
+    heading.className="daily-quick-subtitle";
+    section.appendChild(heading);
+
+    const links=document.createElement("div");
+    links.className="daily-topic-links";
+    related.slice(0,4).forEach(item => {
+      const link=document.createElement("a");
+      link.href=item.url;
+      link.textContent=`${item.label} · ${item.title}`;
+      links.appendChild(link);
+    });
+
+    section.appendChild(links);
+    container.parentNode?.insertBefore(section, container.nextSibling);
+  }
+
   document.addEventListener("DOMContentLoaded",()=>{
     const start=document.getElementById("startButton");
     if(start){
@@ -98,5 +140,6 @@
     if(bc) bc.textContent=String(expected);
     const cycle=document.getElementById("cycleInfo");
     if(cycle) cycle.textContent=`8 questions • ${expected}-question rotating bank • ${sets} different sets before a full cycle repeats`;
+    addRelatedYearLinks();
   });
 })();

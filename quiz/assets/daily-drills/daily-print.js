@@ -86,6 +86,7 @@
         ${supportBlock}
         ${passageBlock}
         <section class="print-questions">${questions.map(questionHtml).join("")}</section>
+        <p class="quiz-print-tip"><strong>Teacher Tip:</strong> <em>Printouts auto-fit to 1 page so students can use the blank back side as working paper. Project the Quick Review above on your board for explicit teaching!</em> This is most true for maths and other short tasks, with rare exceptions in English where comprehension passages can be longer.</p>
         <footer class="print-footer"><span>SkillrHub • ${esc(meta.yearLabel || "")} Daily Practice</span><span>Score: ____ / ${questions.length}</span></footer>
       </div>`;
 
@@ -137,6 +138,7 @@
         .line { height:17px; border-bottom:1px solid #aaa; margin-top:3px; }
         .answer { padding:4px 8px; }
         .print-footer { display:flex; justify-content:space-between; gap:12px; margin-top:10px; padding-top:6px; border-top:1px solid #bbb; font-size:8.5pt; color:#555; }
+        .quiz-print-tip { margin:8px 0 0; font-size:0.95rem; line-height:1.5; color:#475467; }
       }
     `;
     document.head.appendChild(style);
