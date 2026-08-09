@@ -13,9 +13,9 @@ html {
 
 body {
     margin: 0;
-    background: #f5f5f5;
+    background: linear-gradient(180deg, #f4f7fb 0%, #eef4fb 100%);
     color: #222;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
 
@@ -25,7 +25,10 @@ body {
     min-height: 100vh;
     margin: 0 auto;
     padding: 24px 24px 36px;
-    background: #fff;
+    border: 1px solid #e5ecf6;
+    border-radius: 22px;
+    background: #fcfdff;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.05);
 }
 
 /* Navigation */
@@ -36,20 +39,27 @@ nav {
     flex-wrap: wrap;
     gap: 6px 12px;
     margin: 20px 0;
+    padding: 6px 0;
 }
 
 .main-nav a,
 nav a {
     display: inline-block;
     margin: 0;
-    color: #222;
+    padding: 7px 10px;
+    border-radius: 999px;
+    color: #223a5e;
     font-weight: 700;
     text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
 .main-nav a:hover,
 nav a:hover {
-    text-decoration: underline;
+    background: #eef4ff;
+    color: #2457d6;
+    text-decoration: none;
+    transform: translateY(-1px);
 }
 
 /* Breadcrumb */
@@ -826,16 +836,90 @@ textarea {
     background: #eef5ff;
 }
 
+.brand-panel {
+    display: grid;
+    grid-template-columns: 1.4fr 0.8fr;
+    gap: 16px;
+    align-items: center;
+    margin: 12px 0 16px;
+    padding: 20px 22px;
+    border: 1px solid #dce7f5;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #f8fbff 0%, #f1f6ff 100%);
+    box-shadow: 0 12px 28px rgba(26, 58, 114, 0.06);
+}
+
+.brand-panel__copy h2 {
+    margin: 0 0 8px;
+    color: #1a3a72;
+    font-size: clamp(1.2rem, 2.3vw, 1.55rem);
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+}
+
+.brand-panel__copy p {
+    margin: 0 0 8px;
+    color: #334155;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.brand-panel__eyebrow {
+    display: inline-block;
+    margin: 0 0 8px;
+    padding: 4px 9px;
+    border-radius: 999px;
+    background: #eaf2ff;
+    color: #2457d6;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.brand-panel__cta {
+    margin-top: 10px;
+}
+
+.brand-panel__new-badge {
+    display: inline-block;
+    margin-left: 4px;
+    padding: 2px 6px;
+    border-radius: 999px;
+    background: #eaf0ff;
+    color: #2457d6;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.brand-panel__highlights {
+    display: grid;
+    gap: 8px;
+}
+
+.brand-panel__highlights div {
+    padding: 10px 12px;
+    border: 1px solid #dfe9f7;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.82);
+    color: #223a5e;
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-align: center;
+}
+
 .resource-quickstart {
     display: flex;
     flex-direction: column;
     gap: 8px;
     margin: 12px 0;
-    padding: 10px 12px;
+    padding: 12px 14px;
     border: 1px solid #dce7f5;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #f8fbff 0%, #eef6ff 100%);
-    box-shadow: 0 4px 10px rgba(26, 58, 114, 0.06);
+    border-radius: 14px;
+    background: linear-gradient(135deg, #f9fbff 0%, #f2f7ff 100%);
+    box-shadow: 0 10px 24px rgba(26, 58, 114, 0.05);
 }
 
 .resource-quickstart__intro {
@@ -988,10 +1072,11 @@ textarea {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    padding: 8px;
+    padding: 10px;
     border: 1px solid #dce7f5;
-    border-radius: 8px;
-    background: rgba(255, 255, 255, 0.82);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 6px 16px rgba(15, 23, 42, 0.04);
 }
 
 .worksheet-column h3 {
@@ -1024,9 +1109,9 @@ textarea {
     width: 86%;
     min-width: 0;
     margin: 0 auto;
-    padding: 4px 8px;
+    padding: 5px 8px;
     border: 1px solid #cfe0f7;
-    border-radius: 6px;
+    border-radius: 8px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
     font-size: 0.72rem;
@@ -1034,7 +1119,8 @@ textarea {
     line-height: 1.25;
     text-align: center;
     text-decoration: none;
-    box-shadow: 0 1px 3px rgba(29, 78, 216, 0.12);
+    box-shadow: 0 3px 8px rgba(29, 78, 216, 0.12);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .worksheet-column a:hover,
@@ -1206,19 +1292,19 @@ footer {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 58px;
-    height: 58px;
-    border: 3px solid #fff;
+    width: 60px;
+    height: 60px;
+    border: 3px solid rgba(255, 255, 255, 0.95);
     border-radius: 50%;
-    background: linear-gradient(135deg, #25d366 0%, #075e54 100%);
+    background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
     color: #fff;
-    box-shadow: 0 14px 30px rgba(7, 94, 84, 0.38);
+    box-shadow: 0 14px 30px rgba(18, 140, 126, 0.35);
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .skillr-share-btn:focus-visible {
-    outline: 4px solid rgba(37, 211, 102, 0.4);
+    outline: 4px solid rgba(37, 211, 102, 0.28);
     outline-offset: 4px;
 }
 
