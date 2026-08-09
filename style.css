@@ -684,11 +684,11 @@ textarea {
 
 .resource-quickstart {
     display: grid;
-    grid-template-columns: minmax(260px, 0.95fr) minmax(0, 1.35fr);
-    gap: 24px;
+    grid-template-columns: minmax(220px, 0.85fr) minmax(0, 1.15fr);
+    gap: 18px;
     align-items: start;
-    margin: 30px 0;
-    padding: 24px;
+    margin: 26px 0;
+    padding: 18px;
     border: 1px solid #dce7f5;
     border-radius: 14px;
     background: linear-gradient(135deg, #f8fbff 0%, #eef6ff 100%);
@@ -731,6 +731,20 @@ textarea {
     box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
 }
 
+.resource-quickstart__banner-tag {
+    display: inline-block;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    border-radius: 999px;
+    border: 1px solid #7c3aed;
+    background: #f5f3ff;
+    color: #6d28d9;
+    font-size: 0.76rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 .resource-quickstart__banner p {
     margin: 0;
     color: #334155;
@@ -744,29 +758,29 @@ textarea {
 
 .worksheet-sections {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
     margin-top: 0;
 }
 
 .worksheet-column {
     min-height: 100%;
-    padding: 12px 12px 10px;
+    padding: 10px 10px 9px;
     border: 1px solid #dce7f5;
     border-radius: 10px;
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.78);
 }
 
 .worksheet-column h3 {
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     color: #1a3a72;
-    font-size: 1rem;
+    font-size: 0.95rem;
 }
 
 .worksheet-column ul {
     display: grid;
-    gap: 8px;
+    gap: 6px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -779,22 +793,23 @@ textarea {
 .worksheet-column a {
     display: inline-block;
     width: 100%;
-    padding: 8px 10px;
+    padding: 7px 9px;
     border: 1px solid #cfe0f7;
-    border-radius: 8px;
-    background: linear-gradient(135deg, #ffffff 0%, #f2f7ff 100%);
-    color: #1d4ed8;
-    font-size: 0.92rem;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: #fff;
+    font-size: 0.88rem;
     font-weight: 700;
+    text-align: center;
     text-decoration: none;
-    box-shadow: 0 2px 6px rgba(26, 58, 114, 0.06);
+    box-shadow: 0 2px 6px rgba(29, 78, 216, 0.16);
 }
 
 .worksheet-column a:hover,
 .worksheet-column a:focus-visible {
     border-color: #1d4ed8;
-    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
-    color: #1e3a8a;
+    background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+    color: #fff;
 }
 
 .worksheet-column h2 {
