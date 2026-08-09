@@ -1,88 +1,670 @@
 <!DOCTYPE html>
-<html lang="en-AU">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>How to use Skillr | Skillr Education</title>
-  <meta
-    name="description"
-    content="A simple guide to using Skillr Education, including how to choose a year level, browse maths and science resources and find printable worksheets and topic guides."
-  >
-  <meta name="robots" content="index, follow">
+
+  <title>How to Use Skillr | Free Maths & Science Learning FAQ</title>
+  <meta name="description" content="Learn how to use Skillr for free maths and science practice, printable worksheets, online quizzes, homework, classroom revision and home learning.">
+  <meta name="author" content="Skillr Education">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
   <link rel="canonical" href="https://skillrhub.com/how-to-use-skillr.html">
   <link rel="stylesheet" href="/style.css">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Skillr Education">
+  <meta property="og:title" content="How to Use Skillr | Free Maths & Science Learning FAQ">
+  <meta property="og:description" content="A practical guide for teachers, parents, students and tutors using Skillr for free online practice, printable worksheets and curriculum-focused learning.">
+  <meta property="og:url" content="https://skillrhub.com/how-to-use-skillr.html">
+
+  <!-- Google AdSense -->
+  <meta name="google-adsense-account" content="ca-pub-7734963540104771">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
+
+  <!-- Google Analytics (GA4) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8P22BET45N');
+  </script>
+
+  <!-- General structured data. Google no longer shows FAQ rich results, so this page uses WebPage/Organization/Breadcrumb schema instead. -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://skillrhub.com/#organization",
+        "name": "Skillr Education",
+        "url": "https://skillrhub.com/",
+        "description": "Free printable Maths and Science learning resources for teachers, parents and students."
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://skillrhub.com/how-to-use-skillr.html#webpage",
+        "url": "https://skillrhub.com/how-to-use-skillr.html",
+        "name": "How to Use Skillr | Free Maths & Science Learning FAQ",
+        "description": "How teachers, parents, students and tutors can use Skillr for free maths and science practice, printable worksheets, revision and home learning.",
+        "isPartOf": {
+          "@id": "https://skillrhub.com/#website"
+        },
+        "about": {
+          "@id": "https://skillrhub.com/#organization"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://skillrhub.com/#website",
+        "url": "https://skillrhub.com/",
+        "name": "Skillr Education",
+        "publisher": {
+          "@id": "https://skillrhub.com/#organization"
+        },
+        "inLanguage": "en"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://skillrhub.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How to Use Skillr",
+            "item": "https://skillrhub.com/how-to-use-skillr.html"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    .faq-page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 20px 48px;
+    }
+
+    .faq-page .breadcrumb {
+      margin: 18px 0;
+      font-size: 0.95rem;
+    }
+
+    .faq-page .breadcrumb ol {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .faq-page .breadcrumb li:not(:last-child)::after {
+      content: "›";
+      margin-left: 8px;
+      opacity: 0.65;
+    }
+
+    .faq-page .hero {
+      padding: 38px 0 24px;
+    }
+
+    .faq-page .eyebrow {
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.82rem;
+      margin-bottom: 8px;
+    }
+
+    .faq-page .hero h1 {
+      max-width: 900px;
+      margin-bottom: 16px;
+    }
+
+    .faq-page .lead {
+      max-width: 900px;
+      font-size: 1.1rem;
+      line-height: 1.7;
+    }
+
+    .faq-page .quick-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
+
+    .faq-page .quick-links a,
+    .faq-page .cta-link {
+      display: inline-block;
+      padding: 10px 14px;
+      border: 1px solid currentColor;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    .faq-page section {
+      margin-top: 42px;
+    }
+
+    .faq-page .intro-grid,
+    .faq-page .audience-grid,
+    .faq-page .start-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 18px;
+      margin-top: 20px;
+    }
+
+    .faq-page .card,
+    .faq-page .step-card {
+      border: 1px solid rgba(0,0,0,0.12);
+      border-radius: 12px;
+      padding: 20px;
+      background: rgba(255,255,255,0.65);
+    }
+
+    .faq-page .step-number {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      border: 1px solid currentColor;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+
+    .faq-page .callout {
+      border-left: 4px solid currentColor;
+      padding: 16px 18px;
+      margin: 24px 0;
+      background: rgba(0,0,0,0.035);
+    }
+
+    .faq-page .faq-group {
+      margin-top: 34px;
+    }
+
+    .faq-page .faq-list {
+      display: grid;
+      gap: 12px;
+      margin-top: 16px;
+    }
+
+    .faq-page details {
+      border: 1px solid rgba(0,0,0,0.13);
+      border-radius: 10px;
+      padding: 0;
+      background: rgba(255,255,255,0.7);
+    }
+
+    .faq-page summary {
+      cursor: pointer;
+      font-weight: 750;
+      padding: 16px 18px;
+      line-height: 1.4;
+    }
+
+    .faq-page details > div {
+      padding: 0 18px 18px;
+      line-height: 1.7;
+    }
+
+    .faq-page details p:last-child {
+      margin-bottom: 0;
+    }
+
+    .faq-page .keyword-note {
+      font-size: 0.96rem;
+      line-height: 1.7;
+    }
+
+    .faq-page .final-cta {
+      margin-top: 44px;
+      padding: 26px;
+      border: 1px solid rgba(0,0,0,0.14);
+      border-radius: 14px;
+    }
+
+    .faq-page footer {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(0,0,0,0.12);
+      font-size: 0.94rem;
+    }
+
+    .faq-page footer nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    @media (max-width: 820px) {
+      .faq-page .intro-grid,
+      .faq-page .audience-grid,
+      .faq-page .start-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
-  <div class="container">
-    <nav class="main-nav" aria-label="Main navigation">
-      <a href="/">Home</a>
-      <a href="/sitemap.html">Sitemap</a>
-      <a href="/about.html">About</a>
-      <a href="/contact.html">Contact</a>
-      <a href="/usefulresources.html">Useful Resources</a>
-      <a href="/privacy-policy.html">Privacy Policy</a>
-      <a href="/how-to-use-skillr.html" aria-current="page">How to use Skillr</a>
-    </nav>
+  <div class="container faq-page">
+    <header>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/sitemap.html">Sitemap</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/usefulresources.html">Useful Resources</a>
+        <a href="/privacy-policy.html">Privacy Policy</a>
+      </nav>
 
-    <nav aria-label="Breadcrumb" class="breadcrumb">
-      <ol>
-        <li><a href="/">Home</a></li>
-        <li aria-current="page">How to use Skillr</li>
-      </ol>
-    </nav>
-
-    <header class="page-hero">
-      <p class="eyebrow">Quick guide</p>
-      <h1>How to use Skillr</h1>
-      <p>
-        Skillr is designed to help teachers, parents and students find printable maths and science resources quickly.
-        The site is organised by year level, learning area and topic so you can start with the part that matches your learner.
-      </p>
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="/">Home</a></li>
+          <li aria-current="page">How to Use Skillr</li>
+        </ol>
+      </nav>
     </header>
 
-    <section class="content-section" aria-labelledby="starting-point-heading">
-      <h2 id="starting-point-heading">Choose a starting point</h2>
-      <p>Different visitors use Skillr in different ways. These are the easiest paths to follow:</p>
-      <ul>
-        <li><strong>Teachers:</strong> choose a year level, open a topic page and use the worksheet or guide in class.</li>
-        <li><strong>Parents and carers:</strong> browse by your child’s year level and pick a topic that needs extra practice.</li>
-        <li><strong>Home educators:</strong> use the topic guides, worksheets and practice pages together as a simple lesson plan.</li>
-        <li><strong>Students:</strong> start with a topic you are learning and work through the practice pages at your own pace.</li>
-      </ul>
-    </section>
+    <main>
+      <section class="hero">
+        <p class="eyebrow">Skillr Education Help & FAQ</p>
+        <h1>How to Use Skillr for Free Maths and Science Practice</h1>
+        <p class="lead">
+          Skillr Education is designed to make school and home learning easier for teachers, parents, students and tutors. Use Skillr to find free Maths and Science learning resources, curriculum-focused topic pages, short online practice, printable worksheets, revision activities and simple explanations that help learners practise important skills without unnecessary setup.
+        </p>
+        <p class="lead">
+          Whether you are looking for free maths worksheets in Australia, free math worksheets for home learning internationally, classroom revision activities, homework support or printable primary school resources, this guide explains how to get the most from Skillr.
+        </p>
 
-    <section class="content-section" aria-labelledby="what-youll-find-heading">
-      <h2 id="what-youll-find-heading">What you will usually find on each page</h2>
-      <ul>
-        <li><strong>Topic guides</strong> explain the idea and give teaching support.</li>
-        <li><strong>Worksheets</strong> offer printable practice that can be used at school or at home.</li>
-        <li><strong>Practice and quiz pages</strong> help with revision and quick checks.</li>
-      </ul>
-    </section>
+        <div class="quick-links" aria-label="Quick links">
+          <a href="#getting-started">How to get started</a>
+          <a href="#teachers">For teachers</a>
+          <a href="#parents">For parents</a>
+          <a href="#students">For students</a>
+          <a href="#international">International use</a>
+          <a href="#faq">Frequently asked questions</a>
+        </div>
+      </section>
 
-    <section class="content-section" aria-labelledby="quick-start-heading">
-      <h2 id="quick-start-heading">A simple three-step start</h2>
-      <ol>
-        <li>Choose the year level that matches your learner.</li>
-        <li>Select the maths or science area you want to explore.</li>
-        <li>Open the topic page and begin with the worksheet, guide or practice activity that looks most useful.</li>
-      </ol>
-    </section>
+      <section aria-labelledby="what-is-skillr">
+        <h2 id="what-is-skillr">What is Skillr Education?</h2>
+        <p>
+          Skillr is a free learning resource designed to complement classroom teaching and home learning. Students can practise curriculum skills online, receive marking and explanations, or use clean printable worksheets. Teachers and parents can choose a year level, subject or skill and quickly find focused practice without requiring students to create an account for the core learning experience.
+        </p>
 
-    <section class="content-section" aria-labelledby="browse-heading">
-      <h2 id="browse-heading">Begin browsing</h2>
-      <p>Use these links to jump to the main starting points on the site:</p>
-      <div class="download-links" style="max-width: 480px; gap: 12px;">
-        <a class="download-button" href="/foundation/">Foundation</a>
-        <a class="download-button" href="/year1/">Year 1</a>
-        <a class="download-button" href="/year2/">Year 2</a>
-      </div>
-    </section>
+        <div class="intro-grid">
+          <article class="card">
+            <h3>Free printable worksheets</h3>
+            <p>Use print-friendly Maths and Science worksheets for classroom practice, homework, tutoring, intervention, revision or extra learning at home.</p>
+          </article>
+          <article class="card">
+            <h3>Short online practice</h3>
+            <p>Students can complete manageable practice sets, review answers and explanations, then repeat a skill to encounter more question types.</p>
+          </article>
+          <article class="card">
+            <h3>Curriculum-focused learning</h3>
+            <p>Topic pages and learning intentions help teachers and families identify the skill being practised and judge whether it suits the learner.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="getting-started" aria-labelledby="getting-started-title">
+        <h2 id="getting-started-title">How to use Skillr: a simple 5-step learning routine</h2>
+        <p>
+          Skillr works best as a practical learning assistant alongside normal teaching, explanation and discussion. The aim is to make it easy to move from finding a skill to practising it, reviewing mistakes and reinforcing it again later.
+        </p>
+
+        <div class="start-grid">
+          <article class="step-card">
+            <span class="step-number">1</span>
+            <h3>Choose the learner's level</h3>
+            <p>Start from the homepage or year-level pages and choose the most suitable year, grade or early-years level.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">2</span>
+            <h3>Choose Maths or Science</h3>
+            <p>Open the subject and find the current topic, curriculum skill or learning intention you want the student to practise.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">3</span>
+            <h3>Practise online or print</h3>
+            <p>Use an online practice activity when available, or download a printable worksheet for screen-free learning, written working and classroom use.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">4</span>
+            <h3>Review answers</h3>
+            <p>After online practice, review the result, the student's answer, the correct answer and the explanation so mistakes become useful learning opportunities.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">5</span>
+            <h3>Repeat and reinforce</h3>
+            <p>Repeat the same skill across the week when useful. Different attempts can expose students to more examples and question types rather than relying on a single worksheet or quiz.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="teachers" aria-labelledby="teachers-title">
+        <h2 id="teachers-title">How teachers can use Skillr in the classroom</h2>
+        <p>
+          Skillr can act as a practical classroom assistant for teachers who need quick, focused practice resources. It is intended to support teaching rather than replace teacher instruction, questioning, demonstrations or feedback.
+        </p>
+        <div class="audience-grid">
+          <article class="card">
+            <h3>Warm-ups and Daily Routine</h3>
+            <p>Use short, grade-appropriate mixed practice to keep essential number knowledge, operations, vocabulary and other core skills active.</p>
+          </article>
+          <article class="card">
+            <h3>Current-topic practice</h3>
+            <p>Direct students to the curriculum skill they are currently learning for independent practice, consolidation, revision or targeted support.</p>
+          </article>
+          <article class="card">
+            <h3>Printable class worksheets</h3>
+            <p>Print clean, compact resources for classwork, small groups, intervention, homework, early finishers or screen-free practice.</p>
+          </article>
+          <article class="card">
+            <h3>Relief and substitute lessons</h3>
+            <p>A familiar practice routine can reduce setup time and give students structured independent work when a relief or substitute teacher is taking the class.</p>
+          </article>
+          <article class="card">
+            <h3>Revision and retrieval practice</h3>
+            <p>Return to previously learned skills to check retention and provide repeated opportunities to strengthen key concepts.</p>
+          </article>
+          <article class="card">
+            <h3>Tutoring and learning support</h3>
+            <p>Tutors and learning-support staff can use topic-specific practice to identify gaps, reinforce foundations and structure short learning sessions.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="parents" aria-labelledby="parents-title">
+        <h2 id="parents-title">How parents can use Skillr for learning at home</h2>
+        <p>
+          Parents and carers do not need to recreate a school lesson. Choose the child's year level and a relevant skill, read the learning intention, then use the online practice or printable worksheet to reinforce what the child is learning at school. Short practice can also be used for homework support, holiday revision, extra numeracy practice and confidence building.
+        </p>
+        <div class="callout">
+          <strong>Simple home-learning routine:</strong> choose one skill, complete one short practice set or worksheet, review mistakes together, and return to the skill later in the week if more practice is useful.
+        </div>
+      </section>
+
+      <section id="students" aria-labelledby="students-title">
+        <h2 id="students-title">How students can use Skillr for independent revision</h2>
+        <p>
+          Students can use Skillr to revisit a topic, practise before a test, review a difficult concept, strengthen foundational Maths and Science skills, or complete a short daily learning routine. Online practice is designed to be manageable: complete a small set, check the result, learn from the explanation and try again when needed.
+        </p>
+      </section>
+
+      <section id="international" aria-labelledby="international-title">
+        <h2 id="international-title">Using Skillr internationally</h2>
+        <p>
+          Skillr is designed to be useful to educators and families beyond one school system. School year names, curriculum sequences and terminology vary internationally, so the most important guide is the learning intention and the actual questions on the page. Where curriculum references are provided, they are intended to help educators identify matching or closely related learning rather than suggest that different curricula are identical.
+        </p>
+        <p>
+          This makes Skillr useful for teachers, parents, tutors and students in Australia and for families using comparable primary or elementary learning expectations in countries such as the United States, United Kingdom, Canada, New Zealand and India. Early-years labels can also differ; for example, a similar age group may be described as Foundation, Prep, Reception, Kindergarten or another local equivalent.
+        </p>
+        <div class="callout">
+          <strong>For international users:</strong> check the topic title, learning intention and question difficulty first. Use curriculum codes as a reference point, not as a claim that every national, state or provincial curriculum follows the same sequence or depth.
+        </div>
+      </section>
+
+      <section aria-labelledby="browse-title">
+        <h2 id="browse-title">Popular places to start</h2>
+        <p>Browse the current Skillr resource library by year level or use the sitemap to locate a specific topic.</p>
+        <div class="quick-links">
+          <a href="/foundation/">Foundation Maths & Science</a>
+          <a href="/year1/">Year 1 Maths & Science</a>
+          <a href="/year2/">Year 2 Maths & Science</a>
+          <a href="/sitemap.html">Browse the full sitemap</a>
+        </div>
+      </section>
+
+      <section id="faq" aria-labelledby="faq-title">
+        <h2 id="faq-title">Skillr Frequently Asked Questions</h2>
+        <p>
+          These FAQs explain online practice, printable worksheets, repeated learning, classroom use, home learning, curriculum alignment and access to Skillr resources.
+        </p>
+
+        <div class="faq-group">
+          <h3>Getting started and access</h3>
+          <div class="faq-list">
+            <details>
+              <summary>What is Skillr?</summary>
+              <div><p>Skillr is a free learning resource designed to complement classroom and home learning. Students can practise curriculum skills online, receive immediate marking and explanations, or use printable worksheets.</p></div>
+            </details>
+
+            <details>
+              <summary>Is Skillr free to use?</summary>
+              <div><p>Yes. The core learning resources are designed to be freely accessible. Teachers, parents and students can open a resource and begin using it without a paid subscription for the core experience.</p></div>
+            </details>
+
+            <details>
+              <summary>Do students need an account or login?</summary>
+              <div><p>No. The core Skillr experience is designed to work without a login so students can move quickly from finding a resource to practising or printing it.</p></div>
+            </details>
+
+            <details>
+              <summary>Who can use Skillr?</summary>
+              <div><p>Skillr is designed for students, teachers, parents, carers and tutors. It can be used for classroom practice, revision, warm-ups, relief-teacher activities, homework support, tutoring and independent learning.</p></div>
+            </details>
+
+            <details>
+              <summary>Does Skillr replace classroom teaching or a teacher?</summary>
+              <div><p>No. Skillr is designed to complement teaching. Teachers provide instruction, discussion, demonstrations, professional judgement and support; Skillr provides focused opportunities for practice and review.</p></div>
+            </details>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Online quizzes, practice and revision</h3>
+          <div class="faq-list">
+            <details>
+              <summary>Why does an online practice set use a small number of questions?</summary>
+              <div><p>Short sets keep practice manageable. Students can complete a set, review their answers and then try another set when appropriate instead of facing one long assessment. Where a Skillr activity uses eight questions, the goal is focused practice rather than exhaustive testing.</p></div>
+            </details>
+
+            <details>
+              <summary>Will students get the same questions every time?</summary>
+              <div><p>Not necessarily. Practice is designed to provide different questions and question types across attempts where the question bank supports variation. Repeating a skill can therefore give broader exposure to the underlying learning intention.</p></div>
+            </details>
+
+            <details>
+              <summary>Why should a student repeat the same skill during the week?</summary>
+              <div><p>One attempt cannot show every possible question type. Repeating a skill across the week gives students more opportunities to encounter, practise and reinforce different aspects of the same concept.</p></div>
+            </details>
+
+            <details>
+              <summary>What happens after a student finishes an online quiz?</summary>
+              <div><p>The quiz can be marked at the end so the student can review the result, compare their answer with the correct answer and read a short explanation that helps them understand mistakes.</p></div>
+            </details>
+
+            <details>
+              <summary>Why does Skillr use short practice followed by review?</summary>
+              <div><p>The aim is not simply to produce a score. Students practise a small set of questions, review mistakes and explanations, and then have the opportunity to practise again. This creates a cycle of practice, feedback and reinforcement.</p></div>
+            </details>
+
+            <details>
+              <summary>What is the Skillr Daily Routine?</summary>
+              <div><p>The Daily Routine is short, grade-appropriate practice intended to keep essential knowledge active. In Maths, this can include addition, subtraction, multiplication facts, division, number knowledge, mathematical vocabulary and other fundamentals appropriate to the learner's level.</p></div>
+            </details>
+
+            <details>
+              <summary>How is Daily Routine different from curriculum practice?</summary>
+              <div><p>Daily Routine maintains essential skills through regular mixed practice. Curriculum practice focuses on the specific skill or learning intention a student is currently studying. The two forms of practice are designed to complement each other.</p></div>
+            </details>
+
+            <details>
+              <summary>Why does Skillr include mathematical vocabulary?</summary>
+              <div><p>Understanding the language of Maths helps students interpret questions and explain reasoning. Regular vocabulary practice helps learners become familiar with grade-appropriate mathematical terms as well as calculations.</p></div>
+            </details>
+
+            <details>
+              <summary>How much Skillr practice should a student do?</summary>
+              <div><p>Skillr is designed for flexible use. A student might complete one short set, repeat a current skill several times during a week, or use Daily Routine regularly. Teachers and parents can choose an amount appropriate to the learner and available time.</p></div>
+            </details>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Printable Maths and Science worksheets</h3>
+          <div class="faq-list">
+            <details>
+              <summary>Can I print Skillr questions and worksheets?</summary>
+              <div><p>Yes. Printable worksheets are a core part of Skillr and are intended for classroom, tutoring and home use. They are designed to be clear, practical and easy to print.</p></div>
+            </details>
+
+            <details>
+              <summary>Why are many Skillr worksheets kept to one page?</summary>
+              <div><p>A one-page format keeps printing simple and economical. Students can complete the structured questions on the front and use the reverse side for extra working when needed.</p></div>
+            </details>
+
+            <details>
+              <summary>Does a printable worksheet always contain every online question?</summary>
+              <div><p>No. Some online activities, such as interactive arranging or drag-and-drop tasks, do not translate well to paper. Printable versions prioritise paper-friendly questions and a clean layout.</p></div>
+            </details>
+
+            <details>
+              <summary>Are printable worksheets different each time?</summary>
+              <div><p>Where the question bank supports variation, a new practice or printable set can present different questions. This helps teachers and parents provide repeated practice without relying on one fixed worksheet.</p></div>
+            </details>
+
+            <details>
+              <summary>Can Skillr worksheets be used for homework or tutoring?</summary>
+              <div><p>Yes. Printable resources can be used for homework support, tutoring sessions, revision, intervention, independent work and additional practice at home or school.</p></div>
+            </details>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Teachers, parents and school use</h3>
+          <div class="faq-list">
+            <details>
+              <summary>Can teachers use Skillr with a whole class?</summary>
+              <div><p>Yes. A teacher can direct students to online practice or print a worksheet for the class. A consistent routine can help students become familiar with the workflow and work independently when appropriate.</p></div>
+            </details>
+
+            <details>
+              <summary>Can Skillr be used by a relief or substitute teacher?</summary>
+              <div><p>Yes. Familiar Daily Routine and curriculum practice can provide ready-to-use independent learning when a relief or substitute teacher is taking a class, helping reduce setup and explanation time.</p></div>
+            </details>
+
+            <details>
+              <summary>Can parents use Skillr at home?</summary>
+              <div><p>Yes. Parents can choose the child's year level and a relevant skill, then use online practice or a printable worksheet. The learning intention helps parents understand what the activity is practising.</p></div>
+            </details>
+
+            <details>
+              <summary>Can tutors and learning centres use Skillr?</summary>
+              <div><p>Skillr can support one-to-one tutoring, small-group practice and targeted revision. Tutors can choose a specific topic or foundational skill and use the resource to structure focused practice.</p></div>
+            </details>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Curriculum alignment and international use</h3>
+          <div class="faq-list">
+            <details>
+              <summary>How is Skillr aligned with different curricula?</summary>
+              <div><p>Skillr teaches underlying Maths and Science skills and can display matching or closely related curriculum references from different education systems. These references help teachers identify where a resource may fit their local curriculum.</p></div>
+            </details>
+
+            <details>
+              <summary>Does a curriculum reference mean different curricula are identical?</summary>
+              <div><p>No. Curriculum sequence, terminology, depth and expectations can differ between education systems. Teachers and parents should use the learning intention and actual questions to decide whether a resource is suitable for the student.</p></div>
+            </details>
+
+            <details>
+              <summary>Can Skillr be used outside Australia?</summary>
+              <div><p>Yes. The underlying Maths and Science skills can be useful internationally, although local year-level names, curriculum order and terminology can differ. International users should match the learning intention and difficulty to their own school system.</p></div>
+            </details>
+
+            <details>
+              <summary>What if my country uses “math” instead of “maths”?</summary>
+              <div><p>Skillr uses Australian and British-style “Maths” wording on many pages, but the learning resources are also intended to be understandable to users who search for “math worksheets”, “math practice” or “elementary math” in other countries.</p></div>
+            </details>
+
+            <details>
+              <summary>What if my school uses Kindergarten, Reception, Prep or Grade instead of Foundation or Year levels?</summary>
+              <div><p>Year-level names vary by country and education system. Use the topic title, learning intention and question difficulty to identify the best match rather than relying only on the label used for the school year.</p></div>
+            </details>
+          </div>
+        </div>
+
+        <div class="faq-group">
+          <h3>Purpose and learning approach</h3>
+          <div class="faq-list">
+            <details>
+              <summary>What is Skillr trying to achieve?</summary>
+              <div><p>Skillr aims to make high-quality practice of essential Maths and Science skills easy to access. The focus is on helping students build strong foundations through manageable, repeated practice that can be used at school or at home.</p></div>
+            </details>
+
+            <details>
+              <summary>Is Skillr suitable for revision before a test?</summary>
+              <div><p>Skillr can be used to revisit taught concepts, strengthen foundational knowledge and practise common question types. It should be used alongside the student's class notes, teacher guidance and the exact content required for the assessment.</p></div>
+            </details>
+
+            <details>
+              <summary>Can I request a new worksheet or topic?</summary>
+              <div><p>Yes. If you need a worksheet for a topic that is not yet available, use the Skillr contact page to send the year level, subject, topic and relevant curriculum information.</p></div>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <section aria-labelledby="search-help-title">
+        <h2 id="search-help-title">What can Skillr help you find?</h2>
+        <p class="keyword-note">
+          Skillr's growing resource library is designed around the kinds of learning support teachers and families commonly need: free maths worksheets, free math worksheets, free science worksheets, printable worksheets, online maths practice, online math practice, primary school worksheets, elementary learning activities, classroom resources, homework help, home-learning resources, tutoring worksheets, numeracy practice, science practice, curriculum-aligned resources, revision activities, Daily Routine practice and no-login learning resources.
+        </p>
+        <p>
+          These terms are included naturally because they describe how people actually use the site. The best way to find a suitable resource is still to begin with the learner's year level, subject and current skill.
+        </p>
+      </section>
+
+      <section class="final-cta" aria-labelledby="start-now-title">
+        <h2 id="start-now-title">Start using Skillr</h2>
+        <p>
+          Choose a year level, select Maths or Science, open the topic you need and begin with either online practice or a printable worksheet. For a complete view of available resources, use the Skillr sitemap.
+        </p>
+        <div class="quick-links">
+          <a class="cta-link" href="/">Go to Skillr Home</a>
+          <a class="cta-link" href="/sitemap.html">Browse All Skillr Pages</a>
+          <a class="cta-link" href="/contact.html">Request a Resource</a>
+        </div>
+      </section>
+    </main>
 
     <footer>
+      <nav aria-label="Footer navigation">
+        <a href="/">Home</a>
+        <a href="/sitemap.html">Sitemap</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/usefulresources.html">Useful Resources</a>
+        <a href="/privacy-policy.html">Privacy Policy</a>
+      </nav>
       <p>© 2026 Skillr Education. All rights reserved.</p>
-      <p>Educational resources are provided for students, parents and teachers for learning purposes only.</p>
+      <p>Educational resources are provided for students, parents and teachers for learning purposes only. Commercial use, redistribution or resale is strictly prohibited without written permission.</p>
     </footer>
   </div>
+
+  <script src="/share-button.js" defer></script>
 </body>
 </html>
