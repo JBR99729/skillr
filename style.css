@@ -683,10 +683,9 @@ textarea {
 /* Quick browse section */
 
 .resource-quickstart {
-    display: grid;
-    grid-template-columns: minmax(220px, 0.85fr) minmax(0, 1.15fr);
-    gap: 18px;
-    align-items: start;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
     margin: 26px 0;
     padding: 18px;
     border: 1px solid #dce7f5;
@@ -695,20 +694,26 @@ textarea {
     box-shadow: 0 8px 20px rgba(26, 58, 114, 0.08);
 }
 
-.resource-quickstart__text h2 {
-    margin-top: 0;
+.resource-quickstart__intro {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.resource-quickstart__intro h2 {
+    margin: 0;
     color: #1a3a72;
 }
 
-.resource-quickstart__text p {
-    margin-bottom: 0;
+.resource-quickstart__intro p {
+    margin: 0;
     font-size: 1rem;
     line-height: 1.6;
+    color: #334155;
 }
 
 .resource-quickstart__banner {
-    grid-column: 1 / -1;
-    margin-top: 14px;
+    margin-top: 2px;
     padding: 14px 16px;
     border-left: 4px solid #dc2626;
     border-radius: 10px;
@@ -794,11 +799,11 @@ textarea {
     color: #92400e;
 }
 
-.worksheet-sections {
+.resource-quickstart__sections {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 12px;
-    margin-top: 8px;
+    margin-top: 4px;
 }
 
 .worksheet-column {
@@ -831,16 +836,16 @@ textarea {
 .worksheet-column a {
     display: inline-block;
     width: 100%;
-    padding: 6px 8px;
+    padding: 5px 7px;
     border: 1px solid #cfe0f7;
-    border-radius: 8px;
+    border-radius: 6px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
-    font-size: 0.82rem;
+    font-size: 0.78rem;
     font-weight: 700;
     text-align: center;
     text-decoration: none;
-    box-shadow: 0 2px 6px rgba(29, 78, 216, 0.16);
+    box-shadow: 0 1px 4px rgba(29, 78, 216, 0.14);
 }
 
 .worksheet-column a:hover,
