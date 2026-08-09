@@ -24,7 +24,7 @@ body {
     max-width: 1200px;
     min-height: 100vh;
     margin: 0 auto;
-    padding: 20px 20px 36px;
+    padding: 24px 24px 36px;
     background: #fff;
 }
 
@@ -829,18 +829,13 @@ textarea {
 .resource-quickstart {
     display: flex;
     flex-direction: column;
-    gap: 6px;
-    margin: 10px 0;
-    padding: 8px;
+    gap: 8px;
+    margin: 12px 0;
+    padding: 10px 12px;
     border: 1px solid #dce7f5;
-    border-radius: 10px;
+    border-radius: 12px;
     background: linear-gradient(135deg, #f8fbff 0%, #eef6ff 100%);
     box-shadow: 0 4px 10px rgba(26, 58, 114, 0.06);
-}
-
-.resource-quickstart:first-of-type {
-    max-width: 1120px;
-    margin: 10px auto;
 }
 
 .resource-quickstart__intro {
@@ -863,9 +858,9 @@ textarea {
 
 .resource-quickstart__banner {
     margin-top: 0;
-    padding: 8px 10px;
+    padding: 10px 12px;
     border-left: 4px solid #dc2626;
-    border-radius: 8px;
+    border-radius: 10px;
     background: #fff7f7;
     box-shadow: 0 3px 8px rgba(220, 38, 38, 0.05);
 }
@@ -906,10 +901,31 @@ textarea {
 }
 
 .resource-quickstart__banner-intro {
-    margin: 0 0 8px;
+    margin: 0 0 6px;
     color: #334155;
     font-size: 0.9rem;
     line-height: 1.5;
+}
+
+.resource-quickstart__teacher-tip {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    margin: 0 0 8px;
+    padding: 8px 10px;
+    border-left: 3px solid #dc2626;
+    border-radius: 8px;
+    background: #fff7f7;
+    color: #7c2d12;
+    font-size: 0.84rem;
+    line-height: 1.45;
+}
+
+.teacher-tip__pin {
+    margin-top: 1px;
+    color: #dc2626;
+    font-size: 0.95rem;
+    line-height: 1;
 }
 
 .resource-quickstart__banner-grid {
@@ -921,8 +937,8 @@ textarea {
 .resource-quickstart__banner p {
     margin: 0;
     color: #334155;
-    font-size: 0.84rem;
-    line-height: 1.35;
+    font-size: 0.9rem;
+    line-height: 1.4;
 }
 
 .resource-quickstart__banner-note {
@@ -951,18 +967,30 @@ textarea {
 .resource-quickstart__sections {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 6px;
+    gap: 8px;
     margin-top: 0;
     align-items: stretch;
+}
+
+.resource-quickstart + .resource-quickstart .resource-quickstart__text {
+    margin-bottom: 6px;
+}
+
+.resource-quickstart + .resource-quickstart .worksheet-column {
+    justify-content: flex-start;
+}
+
+.resource-quickstart + .resource-quickstart .worksheet-table {
+    margin-top: 4px;
 }
 
 .worksheet-column {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    padding: 6px;
+    padding: 8px;
     border: 1px solid #dce7f5;
-    border-radius: 7px;
+    border-radius: 8px;
     background: rgba(255, 255, 255, 0.82);
 }
 
@@ -970,7 +998,7 @@ textarea {
     margin-top: 0;
     margin-bottom: 4px;
     color: #1a3a72;
-    font-size: 0.78rem;
+    font-size: 0.84rem;
     line-height: 1.25;
 }
 
@@ -993,15 +1021,15 @@ textarea {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 86%;
     min-width: 0;
     margin: 0 auto;
-    padding: 5px 6px;
+    padding: 4px 8px;
     border: 1px solid #cfe0f7;
     border-radius: 6px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
-    font-size: 0.64rem;
+    font-size: 0.72rem;
     font-weight: 700;
     line-height: 1.25;
     text-align: center;
@@ -1020,7 +1048,7 @@ textarea {
     margin-top: 0;
     margin-bottom: 5px;
     color: #1a3a72;
-    font-size: 0.88rem;
+    font-size: 0.92rem;
     line-height: 1.25;
 }
 
