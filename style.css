@@ -829,9 +829,9 @@ textarea {
 .resource-quickstart {
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    margin: 16px 0;
-    padding: 12px;
+    gap: 8px;
+    margin: 12px 0;
+    padding: 10px;
     border: 1px solid #dce7f5;
     border-radius: 12px;
     background: linear-gradient(135deg, #f8fbff 0%, #eef6ff 100%);
@@ -945,26 +945,26 @@ textarea {
 
 .resource-quickstart__sections {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 8px;
-    margin-top: 2px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 6px;
+    margin-top: 0;
 }
 
 .worksheet-column {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    padding: 8px;
+    padding: 7px;
     border: 1px solid #dce7f5;
-    border-radius: 10px;
-    background: rgba(255, 255, 255, 0.78);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.82);
 }
 
 .worksheet-column h3 {
     margin-top: 0;
-    margin-bottom: 6px;
+    margin-bottom: 5px;
     color: #1a3a72;
-    font-size: 0.9rem;
+    font-size: 0.82rem;
 }
 
 .worksheet-column ul {
@@ -972,7 +972,7 @@ textarea {
     flex: 1;
     flex-direction: column;
     justify-content: space-between;
-    gap: 5px;
+    gap: 4px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -987,14 +987,14 @@ textarea {
     justify-content: center;
     align-items: center;
     width: fit-content;
-    min-width: 120px;
+    min-width: 88px;
     margin: 0 auto;
-    padding: 4px 6px;
+    padding: 3px 6px;
     border: 1px solid #cfe0f7;
     border-radius: 6px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
-    font-size: 0.74rem;
+    font-size: 0.68rem;
     font-weight: 700;
     text-align: center;
     text-decoration: none;
@@ -1010,7 +1010,9 @@ textarea {
 
 .worksheet-column h2 {
     margin-top: 0;
+    margin-bottom: 6px;
     color: #1a3a72;
+    font-size: 0.95rem;
 }
 
 .worksheet-column h2::after {
