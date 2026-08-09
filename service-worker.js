@@ -1,4 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v2";
+const CACHE_NAME = "skillrhub-pwa-v3";
+const STATIC_CACHE_NAME = "skillrhub-static-v1";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -11,7 +12,17 @@ const OFFLINE_FILES = [
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(OFFLINE_FILES))
+    caches.open(CACHE_NAME).then(async (cache) => {
+      await Promise.all(
+        OFFLINE_FILES.map(async (file) => {
+          try {
+            await cache.add(file);
+          } catch (error) {
+            // Do not fail install if a non-critical file is unavailable.
+          }
+        })
+      );
+    })
   );
 
   self.skipWaiting();
@@ -22,7 +33,7 @@ self.addEventListener("activate", (event) => {
     caches.keys().then((cacheNames) => {
       return Promise.all(
         cacheNames
-          .filter((name) => name !== CACHE_NAME)
+          .filter((name) => name !== CACHE_NAME && name !== STATIC_CACHE_NAME)
           .map((name) => caches.delete(name))
       );
     })
@@ -49,6 +60,29 @@ self.addEventListener("fetch", (event) => {
           return response;
         })
         .catch(() => caches.match(request).then((cached) => cached || caches.match("/manifest.webmanifest")))
+    );
+    return;
+  }
+
+  // Stale-while-revalidate for same-origin static assets to improve repeat-load UX.
+  if (
+    url.origin === self.location.origin &&
+    ["style", "script", "image", "font"].includes(request.destination)
+  ) {
+    event.respondWith(
+      caches.open(STATIC_CACHE_NAME).then(async (cache) => {
+        const cached = await cache.match(request);
+        const networkFetch = fetch(request)
+          .then((response) => {
+            if (response && response.ok) {
+              cache.put(request, response.clone());
+            }
+            return response;
+          })
+          .catch(() => cached);
+
+        return cached || networkFetch;
+      })
     );
     return;
   }

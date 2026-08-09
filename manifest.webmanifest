@@ -1,5 +1,6 @@
 {
   "id": "/?source=pwa",
+  "lang": "en-AU",
   "name": "Skillr Education",
   "short_name": "Skillr",
   "description": "Interactive curriculum-aligned learning quizzes and educational resources from Skillr Education.",
@@ -37,14 +38,14 @@
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "SkillrHub learning resources and quizzes"
+      "label": "Skillr Education learning resources and quizzes"
     },
     {
       "src": "/screenshots/skillrhub-mobile.png",
       "sizes": "720x1280",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "SkillrHub on mobile"
+      "label": "Skillr Education on mobile"
     }
   ]
 }

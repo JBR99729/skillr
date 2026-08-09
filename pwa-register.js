@@ -5,6 +5,7 @@
   let installModal = null;
   let pendingDownloadUrl = null;
   let pendingDownloadTarget = null;
+  const ENABLE_INSTALL_DOWNLOAD_INTERCEPT = false;
 
 
   /* =========================================================
@@ -23,7 +24,7 @@
         })
         .catch((error) => {
           console.error(
-            "SkillrHub service worker registration failed:",
+            "Skillr Education service worker registration failed:",
             error
           );
         });
@@ -96,10 +97,10 @@
     installModal.className = "install-confirmation-modal";
     installModal.setAttribute("role", "dialog");
     installModal.setAttribute("aria-modal", "true");
-    installModal.setAttribute("aria-label", "Install SkillrHub");
+    installModal.setAttribute("aria-label", "Install Skillr Education");
     installModal.innerHTML = `
       <div class="install-confirmation-modal__dialog">
-        <h3>Install SkillrHub?</h3>
+        <h3>Install Skillr Education?</h3>
         <p>Would you like to install this app for quicker access? You can still continue to the download if you prefer not to install it.</p>
         <div class="install-confirmation-modal__actions">
           <button type="button" class="install-confirmation-modal__button install-confirmation-modal__button--secondary" data-action="cancel">No</button>
@@ -139,7 +140,7 @@
           deferredInstallPrompt.prompt();
           await deferredInstallPrompt.userChoice;
         } catch (error) {
-          console.error("SkillrHub install prompt failed:", error);
+          console.error("Skillr Education install prompt failed:", error);
         }
 
         deferredInstallPrompt = null;
@@ -180,7 +181,9 @@
   }
 
   function initializePwaUi() {
-    attachDownloadIntercept();
+    if (ENABLE_INSTALL_DOWNLOAD_INTERCEPT) {
+      attachDownloadIntercept();
+    }
   }
 
   if (document.body) {

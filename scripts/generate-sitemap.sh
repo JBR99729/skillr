@@ -8,8 +8,39 @@ cd "$REPO_ROOT"
 
 html_files=()
 while IFS= read -r file; do
-  html_files+=("$file")
-done < <(git ls-files -- '*.html' | sort)
+  html_files+=("${file#./}")
+done < <(find . -type f -name '*.html' ! -path './.git/*' | sort)
+
+should_skip_file() {
+  local file="$1"
+  case "$file" in
+    "year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activities-and-worksheets-ac9m2m02.html"|\
+    "quiz/grade-k/math/vocabulary/voabulary/index.html"|\
+    "quiz/year-2/math/addition-substraction-daily/index.html"|\
+    "year2/maths/addition-substraction-daily/index.html")
+      return 0
+      ;;
+    *)
+      return 1
+      ;;
+  esac
+}
+
+lastmod_for_file() {
+  local file="$1"
+  python3 - "$file" <<'PY'
+import os, sys
+from datetime import datetime, timezone
+path = sys.argv[1]
+try:
+    stat = os.stat(path)
+except FileNotFoundError:
+    print("")
+    sys.exit(0)
+dt = datetime.fromtimestamp(stat.st_mtime, tz=timezone.utc)
+print(dt.strftime("%Y-%m-%d"))
+PY
+}
 
 to_path() {
   local file="$1"
@@ -62,10 +93,18 @@ to_title() {
   echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 
   for file in "${html_files[@]}"; do
+    if should_skip_file "$file"; then
+      continue
+    fi
+
     path="$(to_path "$file")"
+    lastmod="$(lastmod_for_file "$file")"
 
     echo '  <url>'
     echo "    <loc>${BASE_URL}${path}</loc>"
+    if [[ -n "$lastmod" ]]; then
+      echo "    <lastmod>${lastmod}</lastmod>"
+    fi
     echo '  </url>'
   done
 
@@ -129,6 +168,10 @@ to_title() {
 HTML_HEADER
 
   for file in "${html_files[@]}"; do
+    if should_skip_file "$file"; then
+      continue
+    fi
+
     path="$(to_path "$file")"
     title="$(to_title "$file")"
     href="${path#/}"

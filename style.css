@@ -3,6 +3,8 @@
    Supports both table pages and blog-style topic pages.
    ========================================================= */
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700;800&family=Zilla+Slab:wght@600;700&display=swap");
+
 * {
     box-sizing: border-box;
 }
@@ -13,19 +15,21 @@ html {
 
 body {
     margin: 0;
-    background: #f5f5f5;
-    color: #222;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
+    background: #f2f6fb;
+    color: #1f2937;
+    font-family: "Source Sans 3", "Trebuchet MS", Verdana, sans-serif;
+    line-height: 1.7;
 }
 
 .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1100px;
     min-height: 100vh;
     margin: 0 auto;
     padding: 24px 24px 36px;
     background: #fff;
+    border: 1px solid #e4ebf3;
+    border-radius: 16px;
 }
 
 /* Navigation */
@@ -34,7 +38,7 @@ body {
 nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px 12px;
+    gap: 8px 12px;
     margin: 20px 0;
 }
 
@@ -42,14 +46,17 @@ nav {
 nav a {
     display: inline-block;
     margin: 0;
-    color: #222;
+    color: #1f2937;
     font-weight: 700;
     text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 999px;
 }
 
 .main-nav a:hover,
 nav a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    background: #eef4fb;
 }
 
 /* Breadcrumb */
@@ -100,10 +107,23 @@ h3 {
 
 .page-hero {
     margin: 18px 0 24px;
-    padding: 16px 18px;
+    padding: 20px 22px;
     border-left: 4px solid #1a3a72;
-    border-radius: 8px;
-    background: #f7faff;
+    border-radius: 12px;
+    background: #f7fbff;
+}
+
+.page-hero .eyebrow {
+    margin: 0 0 10px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #45658a;
+}
+
+.page-hero h1 {
+    margin-bottom: 10px;
 }
 
 .page-hero-year2 {
@@ -133,6 +153,82 @@ h3 {
 .page-hero p {
     margin: 0;
     color: #334;
+}
+
+.page-hero p + p {
+    margin-top: 10px;
+}
+
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.hero-note {
+    margin-top: 10px;
+    font-size: 0.95rem;
+    color: #4b5563;
+}
+
+.content-section {
+    margin: 18px 0;
+    padding: 18px 20px;
+    border: 1px solid #e0e8f2;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.content-section h2 {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.content-section p {
+    margin: 0;
+}
+
+.content-section p + p {
+    margin-top: 10px;
+}
+
+.content-section ul {
+    margin: 12px 0 0;
+    padding-left: 18px;
+}
+
+.content-section li + li {
+    margin-top: 6px;
+}
+
+.quick-links-inline {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 14px;
+    margin-top: 14px;
+    list-style: none;
+    padding: 0;
+}
+
+.quick-links-inline li {
+    margin: 0;
+}
+
+.quick-links-inline a {
+    display: block;
+    padding: 10px 12px;
+    border: 1px solid #d9e5f1;
+    border-radius: 10px;
+    background: #f8fbff;
+    color: #1f3f66;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.quick-links-inline a:hover,
+.quick-links-inline a:focus-visible {
+    background: #eef5ff;
 }
 
 .page-guide {
@@ -251,6 +347,224 @@ footer .site-notice {
     border-color: #c7d8eb;
     background: #f5f9ff;
     font-size: 0.95rem;
+}
+
+/* Homepage visual refresh */
+
+body.homepage {
+    background:
+        radial-gradient(circle at 10% -10%, rgba(33, 117, 188, 0.16), transparent 35%),
+        radial-gradient(circle at 90% 0%, rgba(19, 89, 153, 0.1), transparent 40%),
+        #eef3f8;
+    font-family: "Source Sans 3", "Trebuchet MS", Verdana, sans-serif;
+    color: #1a2a3a;
+}
+
+body.homepage .container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #dbe4ef;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #ffffff 0%, #f8fbff 100%);
+    box-shadow: 0 18px 48px rgba(16, 32, 55, 0.08);
+}
+
+body.homepage h1,
+body.homepage h2,
+body.homepage h3 {
+    font-family: "Zilla Slab", Georgia, serif;
+    color: #10263f;
+}
+
+body.homepage .main-nav {
+    margin-top: 4px;
+    margin-bottom: 18px;
+    padding: 10px;
+    border: 1px solid #d7e3f0;
+    border-radius: 12px;
+    background: #f7fbff;
+}
+
+body.homepage .main-nav a {
+    padding: 6px 10px;
+    border-radius: 999px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+body.homepage .main-nav a:hover {
+    background: #e6f0fb;
+    color: #0f3a63;
+    text-decoration: none;
+}
+
+.home-hero {
+    margin: 18px 0 30px;
+    padding: 30px;
+    border: 1px solid #d4e0ec;
+    border-radius: 18px;
+    background:
+        linear-gradient(125deg, rgba(16, 66, 110, 0.96), rgba(22, 96, 140, 0.95)),
+        linear-gradient(0deg, #194870, #194870);
+    color: #e9f4ff;
+    box-shadow: 0 16px 34px rgba(14, 44, 72, 0.22);
+}
+
+.home-hero h1 {
+    margin: 8px 0 14px;
+    color: #ffffff;
+    font-size: clamp(2rem, 4.2vw, 3rem);
+    line-height: 1.12;
+}
+
+.home-hero__eyebrow {
+    display: inline-block;
+    margin: 0;
+    padding: 5px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.42);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    color: #d9ebff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.home-hero__lead {
+    margin: 0;
+    max-width: 760px;
+    color: #eaf4ff;
+    font-size: 1.1rem;
+}
+
+.home-hero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.home-hero__button {
+    display: inline-block;
+    padding: 10px 16px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    color: #f0f8ff;
+    text-decoration: none;
+    font-weight: 700;
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.home-hero__button:hover {
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.18);
+}
+
+.home-hero__button--primary {
+    border-color: #ffd58b;
+    color: #2e1d00;
+    background: linear-gradient(135deg, #ffdc9f, #ffc86f);
+}
+
+.home-hero__button--primary:hover {
+    background: linear-gradient(135deg, #ffe3b2, #ffd480);
+}
+
+.home-hero__meta {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 18px;
+}
+
+.home-hero__meta p {
+    margin: 0;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #e8f3ff;
+    font-size: 0.95rem;
+}
+
+.home-trust {
+    margin: -6px 0 26px;
+    padding: 16px 18px;
+    border: 1px solid #d5e2ee;
+    border-radius: 12px;
+    background: #f7fbff;
+}
+
+.home-trust p {
+    margin: 0;
+}
+
+.home-trust p + p {
+    margin-top: 10px;
+}
+
+.ad-opportunity {
+    display: none;
+    margin: 30px auto;
+    padding: 12px 12px 10px;
+    max-width: 980px;
+    border: 1px solid #e4ebf3;
+    border-radius: 12px;
+    background: #fbfdff;
+}
+
+.ad-opportunity:has(ins.adsbygoogle[data-ad-status="filled"]) {
+    display: block;
+}
+
+.ads-preview .ad-opportunity {
+    display: block;
+}
+
+.ad-opportunity__label {
+    display: inline-block;
+    margin: 0 0 7px;
+    padding: 2px 7px;
+    border-radius: 999px;
+    background: #f2f6fb;
+    color: #5a6d82;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.ad-opportunity ins.adsbygoogle {
+    display: block;
+    min-height: 140px;
+    width: 100%;
+}
+
+body.homepage .resource-quickstart {
+    border: 1px solid #d8e4f0;
+    border-radius: 14px;
+    background: #ffffff;
+    box-shadow: 0 8px 24px rgba(17, 36, 59, 0.06);
+}
+
+body.homepage .worksheet-column {
+    border: 1px solid #dde8f3;
+    border-radius: 12px;
+    background: #fbfdff;
+}
+
+@media (max-width: 900px) {
+    .home-hero {
+        padding: 22px;
+    }
+
+    .home-hero__meta {
+        grid-template-columns: 1fr;
+    }
+
+    .ad-opportunity {
+        margin: 20px 0;
+    }
 }
 
 /* Featured resource spotlight */
@@ -380,10 +694,10 @@ footer .site-notice {
 .worksheet-column,
 .worksheet-tile {
     padding: 24px;
-    border: 1px solid #ddd;
+    border: 1px solid #dde6f0;
     border-radius: 10px;
     background: #fff;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    box-shadow: 0 2px 10px rgba(13, 28, 45, 0.05);
 }
 
 .card-label {
@@ -415,17 +729,17 @@ footer .site-notice {
 .subject-grid[aria-label="Recommended resources"] .subject-card:first-child,
 .subject-grid[aria-label="Recommended resources"] .subject-card.promo-book-card,
 .subject-card.promo-book-card {
-    border-color: #b87400 !important;
-    background: linear-gradient(135deg, #ffd977 0%, #ffb300 100%) !important;
-    color: #1f1300 !important;
+    border-color: #e5d0a6 !important;
+    background: linear-gradient(135deg, #fffaf0 0%, #fff3de 100%) !important;
+    color: #2a2a2a !important;
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card:last-child,
 .subject-grid[aria-label="Recommended resources"] .subject-card.promo-supplies-card,
 .subject-card.promo-supplies-card {
-    border-color: #0f7f74 !important;
-    background: linear-gradient(135deg, #86f0d7 0%, #16c3a0 100%) !important;
-    color: #042620 !important;
+    border-color: #b8ddd8 !important;
+    background: linear-gradient(135deg, #f2fbf9 0%, #e9f8f4 100%) !important;
+    color: #1f2937 !important;
 }
 
 .subject-grid[aria-label="Recommended resources"] .subject-card .card-label {
@@ -518,10 +832,10 @@ textarea {
 .button-link {
     display: inline-block;
     padding: 10px 16px;
-    border: 1px solid #222;
+    border: 1px solid #334155;
     border-radius: 6px;
     background: #fff;
-    color: #222;
+    color: #1f2937;
     text-decoration: none;
     font-weight: bold;
     margin: 6px 6px 6px 0;
@@ -543,7 +857,7 @@ textarea {
 @media (hover: hover) and (pointer: fine) {
     .button:hover,
     .button-link:hover {
-        background: #222;
+        background: #1f2937;
         color: #fff;
     }
 
@@ -1405,6 +1719,14 @@ footer {
 
     .resource-quickstart {
         padding: 12px;
+    }
+
+    .content-section {
+        padding: 14px;
+    }
+
+    .quick-links-inline {
+        grid-template-columns: 1fr;
     }
 
     .resource-quickstart__sections {
