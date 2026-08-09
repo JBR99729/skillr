@@ -829,19 +829,19 @@ textarea {
 .resource-quickstart {
     display: flex;
     flex-direction: column;
-    gap: 8px;
-    margin: 12px 0;
-    padding: 10px;
+    gap: 6px;
+    margin: 10px 0;
+    padding: 8px;
     border: 1px solid #dce7f5;
-    border-radius: 12px;
+    border-radius: 10px;
     background: linear-gradient(135deg, #f8fbff 0%, #eef6ff 100%);
-    box-shadow: 0 5px 12px rgba(26, 58, 114, 0.07);
+    box-shadow: 0 4px 10px rgba(26, 58, 114, 0.06);
 }
 
 .resource-quickstart__intro {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
 }
 
 .resource-quickstart__intro h2 {
@@ -857,12 +857,12 @@ textarea {
 }
 
 .resource-quickstart__banner {
-    margin-top: 2px;
-    padding: 10px 12px;
+    margin-top: 0;
+    padding: 8px 10px;
     border-left: 4px solid #dc2626;
-    border-radius: 10px;
+    border-radius: 8px;
     background: #fff7f7;
-    box-shadow: 0 4px 10px rgba(220, 38, 38, 0.06);
+    box-shadow: 0 3px 8px rgba(220, 38, 38, 0.05);
 }
 
 .resource-quickstart__banner-top {
@@ -910,33 +910,33 @@ textarea {
 .resource-quickstart__banner-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 8px;
+    gap: 6px;
 }
 
 .resource-quickstart__banner p {
     margin: 0;
     color: #334155;
-    font-size: 0.9rem;
-    line-height: 1.4;
+    font-size: 0.84rem;
+    line-height: 1.35;
 }
 
 .resource-quickstart__banner-note {
-    padding: 8px 10px;
+    padding: 6px 8px;
     border: 1px solid #e8eef8;
-    border-radius: 10px;
+    border-radius: 8px;
     background: #fff;
 }
 
 .resource-quickstart__banner-highlight {
-    padding: 8px 10px;
-    border-radius: 10px;
+    padding: 6px 8px;
+    border-radius: 8px;
     background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
     border: 1px solid #f59e0b;
     color: #92400e;
-    font-size: 0.92rem;
+    font-size: 0.84rem;
     font-weight: 800;
     letter-spacing: 0.01em;
-    box-shadow: 0 3px 8px rgba(245, 158, 11, 0.14);
+    box-shadow: 0 2px 6px rgba(245, 158, 11, 0.12);
 }
 
 .resource-quickstart__banner-highlight strong {
@@ -948,23 +948,25 @@ textarea {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 6px;
     margin-top: 0;
+    align-items: stretch;
 }
 
 .worksheet-column {
     display: flex;
     flex-direction: column;
     min-height: 100%;
-    padding: 7px;
+    padding: 6px;
     border: 1px solid #dce7f5;
-    border-radius: 8px;
+    border-radius: 7px;
     background: rgba(255, 255, 255, 0.82);
 }
 
 .worksheet-column h3 {
     margin-top: 0;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
     color: #1a3a72;
-    font-size: 0.82rem;
+    font-size: 0.78rem;
+    line-height: 1.25;
 }
 
 .worksheet-column ul {
@@ -972,7 +974,7 @@ textarea {
     flex: 1;
     flex-direction: column;
     justify-content: space-between;
-    gap: 4px;
+    gap: 3px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -986,16 +988,17 @@ textarea {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: fit-content;
-    min-width: 88px;
+    width: 100%;
+    min-width: 0;
     margin: 0 auto;
     padding: 3px 6px;
     border: 1px solid #cfe0f7;
     border-radius: 6px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
-    font-size: 0.68rem;
+    font-size: 0.64rem;
     font-weight: 700;
+    line-height: 1.2;
     text-align: center;
     text-decoration: none;
     box-shadow: 0 1px 3px rgba(29, 78, 216, 0.12);
@@ -1010,9 +1013,10 @@ textarea {
 
 .worksheet-column h2 {
     margin-top: 0;
-    margin-bottom: 6px;
+    margin-bottom: 5px;
     color: #1a3a72;
-    font-size: 0.95rem;
+    font-size: 0.88rem;
+    line-height: 1.25;
 }
 
 .worksheet-column h2::after {
