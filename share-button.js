@@ -9,12 +9,26 @@
       if (enableShare) {
         window.localStorage.setItem(storageKey, '1');
       } else if (disableShare) {
-        window.localStorage.removeItem(storageKey);
+        window.localStorage.setItem(storageKey, '0');
       }
 
-      return window.localStorage.getItem(storageKey) === '1';
+      var storedMode = window.localStorage.getItem(storageKey);
+
+      if (storedMode === '0') {
+        return false;
+      }
+
+      if (storedMode === '1') {
+        return true;
+      }
+
+      return true;
     } catch (error) {
-      return enableShare && !disableShare;
+      if (disableShare) {
+        return false;
+      }
+
+      return true;
     }
   }
 
