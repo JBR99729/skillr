@@ -807,6 +807,8 @@ textarea {
 }
 
 .worksheet-column {
+    display: flex;
+    flex-direction: column;
     min-height: 100%;
     padding: 10px;
     border: 1px solid #dce7f5;
@@ -822,7 +824,10 @@ textarea {
 }
 
 .worksheet-column ul {
-    display: grid;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: space-between;
     gap: 6px;
     margin: 0;
     padding: 0;
@@ -834,8 +839,12 @@ textarea {
 }
 
 .worksheet-column a {
-    display: inline-block;
-    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    min-width: 140px;
+    margin: 0 auto;
     padding: 5px 7px;
     border: 1px solid #cfe0f7;
     border-radius: 6px;
