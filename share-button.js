@@ -41,6 +41,39 @@
       return;
     }
 
+    function getInstallDismissed() {
+      try {
+        return localStorage.getItem('skillr-install-dismissed') === 'true';
+      } catch (error) {
+        return false;
+      }
+    }
+
+    function setInstallDismissed() {
+      try {
+        localStorage.setItem('skillr-install-dismissed', 'true');
+      } catch (error) {
+        // Ignore storage failures.
+      }
+    }
+
+    function shouldShowInstallPrompt() {
+      if (getInstallDismissed() || isInstalledApp()) {
+        return false;
+      }
+
+      var referrer = document.referrer || '';
+      if (!referrer) {
+        return false;
+      }
+
+      try {
+        return new URL(referrer).origin !== window.location.origin;
+      } catch (error) {
+        return Boolean(referrer);
+      }
+    }
+
     injectFallbackStyles();
 
     var text = encodeURIComponent('Check this out: ' + window.location.href);
@@ -86,44 +119,56 @@
     facebookButton.setAttribute('aria-label', 'Share this page on Facebook');
     facebookButton.innerHTML = '<span aria-hidden="true"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M13.5 22v-8.5h2.9l.4-3.3H13.5V4.9c0-.95.3-1.6 1.6-1.6h1.7V.1c-.3-.1-1.3-.1-2.4-.1-2.4 0-4 1.4-4 4.2v2.4H7.1v3.3h2.8V22h3.6z"/></svg></span>';
 
-    var installButton = document.createElement('a');
-    installButton.className = 'skillr-install-btn';
-    installButton.href = '#';
-    installButton.setAttribute('aria-label', 'Add this page as a bookmark shortcut');
-    installButton.innerHTML = '<span aria-hidden="true"><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M6 3a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18l-6-4-6 4V3z"/></svg></span>';
-    installButton.addEventListener('click', function (event) {
-      event.preventDefault();
-      if (window.external && typeof window.external.AddFavorite === 'function') {
-        window.external.AddFavorite(window.location.href, document.title);
+    if (shouldShowInstallPrompt()) {
+      var installButton = document.createElement('a');
+      installButton.className = 'skillr-install-btn';
+      installButton.href = '#';
+      installButton.setAttribute('aria-label', 'Download or install this page');
+      installButton.innerHTML = '<span aria-hidden="true"><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M12 3v10.2l3-3 1.4 1.4L12 16 7.6 11.6 9 10.2l3 3V3h2Zm-7 16h14v2H5z"/></svg></span>';
+      installButton.addEventListener('click', function (event) {
+        event.preventDefault();
+        setInstallDismissed();
+        if (window.external && typeof window.external.AddFavorite === 'function') {
+          window.external.AddFavorite(window.location.href, document.title);
+        }
+        installButton.classList.add('skillr-install-btn--active');
+        if (installHelp && installHelp.parentNode) {
+          installHelp.style.opacity = '0';
+          installHelp.style.transform = 'translateY(6px)';
+          installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+        }
+        setTimeout(function () {
+          installButton.classList.remove('skillr-install-btn--active');
+          if (installButton.parentNode) {
+            installButton.parentNode.removeChild(installButton);
+          }
+          if (installHelp && installHelp.parentNode) {
+            installHelp.parentNode.removeChild(installHelp);
+          }
+        }, 220);
+      });
+
+      var installHelp = document.createElement('div');
+      installHelp.className = 'skillr-install-help';
+      installHelp.setAttribute('role', 'note');
+      installHelp.innerHTML = '<strong>Download / install</strong><span>Tap once to save this page as a quick shortcut for later.</span>';
+
+      if (isInstalledApp()) {
+        installHelp.style.display = 'none';
+      } else {
+        setTimeout(function () {
+          installHelp.style.opacity = '0';
+          installHelp.style.transform = 'translateY(6px)';
+          installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+        }, 30000);
       }
-      installButton.classList.add('skillr-install-btn--active');
-      installHelp.style.opacity = '0';
-      installHelp.style.transform = 'translateY(6px)';
-      installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-      setTimeout(function () {
-        installButton.classList.remove('skillr-install-btn--active');
-      }, 300);
-    });
 
-    var installHelp = document.createElement('div');
-    installHelp.className = 'skillr-install-help';
-    installHelp.setAttribute('role', 'note');
-    installHelp.innerHTML = '<strong>Bookmark shortcut</strong><span>Safe on school and kids devices. It only adds a simple bookmark shortcut and does not collect data.</span>';
-
-    if (isInstalledApp()) {
-      installHelp.style.display = 'none';
-    } else {
-      setTimeout(function () {
-        installHelp.style.opacity = '0';
-        installHelp.style.transform = 'translateY(6px)';
-        installHelp.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-      }, 30000);
+      document.body.appendChild(installHelp);
+      document.body.appendChild(installButton);
     }
 
     document.body.appendChild(facebookButton);
     document.body.appendChild(instagramButton);
-    document.body.appendChild(installHelp);
-    document.body.appendChild(installButton);
     document.body.appendChild(copyButton);
     document.body.appendChild(button);
 
