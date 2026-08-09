@@ -59,6 +59,45 @@ nav a:hover {
     background: #eef4fb;
 }
 
+.skillr-brand-anchor {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-right: 4px;
+    padding: 6px 12px;
+    border: 1px solid #c9dbee;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #f8fbff 0%, #eaf3ff 100%);
+    color: #0f3862;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+}
+
+.skillr-brand-anchor:hover,
+.skillr-brand-anchor:focus-visible {
+    background: linear-gradient(135deg, #eef6ff 0%, #deecff 100%);
+    color: #0b2c4d;
+}
+
+.skillr-brand-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #2457d6 0%, #1b3e99 100%);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.skillr-brand-text {
+    line-height: 1;
+}
+
 /* Breadcrumb */
 
 .breadcrumb {
@@ -1002,6 +1041,16 @@ textarea {
     text-decoration: none;
 }
 
+.skillr-share-btn svg,
+.skillr-copy-btn svg,
+.skillr-ig-btn svg,
+.skillr-fb-btn svg,
+.skillr-install-btn svg {
+    display: block;
+    vector-effect: non-scaling-stroke;
+    shape-rendering: geometricPrecision;
+}
+
 .activities-affiliate-banner {
     margin: 14px 0 18px;
     padding: 14px 16px;
@@ -1731,6 +1780,10 @@ footer {
         gap: 6px 10px;
     }
 
+    .skillr-brand-anchor {
+        margin-right: 0;
+    }
+
     .download-links {
         grid-template-columns: 1fr;
     }
@@ -1805,9 +1858,24 @@ footer {
         padding: 12px;
     }
 
-    .main-nav a,
-    nav a {
-        width: 100%;
+    .main-nav {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: thin;
+        padding-bottom: 2px;
+    }
+
+    .main-nav a {
+        flex: 0 0 auto;
+        width: auto;
+    }
+
+    .skillr-brand-anchor {
+        position: sticky;
+        left: 0;
+        z-index: 2;
+        box-shadow: 8px 0 14px rgba(234, 243, 255, 0.9);
     }
 
     .resource-quickstart__banner {
