@@ -1472,6 +1472,11 @@ footer {
         padding: 14px;
     }
 
+    .brand-panel {
+        grid-template-columns: 1fr;
+        padding: 16px;
+    }
+
     h1 {
         font-size: clamp(1.7rem, 6.5vw, 2.25rem);
     }
@@ -1549,6 +1554,15 @@ footer {
 @media (max-width: 480px) {
     .container {
         padding: 12px;
+    }
+
+    .skillr-copy-btn,
+    .skillr-ig-btn,
+    .skillr-fb-btn,
+    .skillr-install-btn,
+    .skillr-install-help,
+    .skillr-share-btn {
+        display: none !important;
     }
 
     .main-nav a,
