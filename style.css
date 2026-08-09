@@ -706,6 +706,42 @@ textarea {
     line-height: 1.6;
 }
 
+.resource-quickstart__banner {
+    grid-column: 1 / -1;
+    margin-top: 14px;
+    padding: 14px 16px;
+    border-left: 4px solid #dc2626;
+    border-radius: 10px;
+    background: #fff7f7;
+    box-shadow: 0 6px 16px rgba(220, 38, 38, 0.08);
+}
+
+.resource-quickstart__banner-badge {
+    display: inline-block;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    border-radius: 999px;
+    background: #dc2626;
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+}
+
+.resource-quickstart__banner p {
+    margin: 0;
+    color: #334155;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.resource-quickstart__banner-note {
+    margin-top: 8px !important;
+}
+
 .worksheet-sections {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -715,6 +751,50 @@ textarea {
 
 .worksheet-column {
     min-height: 100%;
+    padding: 12px 12px 10px;
+    border: 1px solid #dce7f5;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.75);
+}
+
+.worksheet-column h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    color: #1a3a72;
+    font-size: 1rem;
+}
+
+.worksheet-column ul {
+    display: grid;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.worksheet-column li {
+    margin: 0;
+}
+
+.worksheet-column a {
+    display: inline-block;
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #cfe0f7;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #ffffff 0%, #f2f7ff 100%);
+    color: #1d4ed8;
+    font-size: 0.92rem;
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 0 2px 6px rgba(26, 58, 114, 0.06);
+}
+
+.worksheet-column a:hover,
+.worksheet-column a:focus-visible {
+    border-color: #1d4ed8;
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+    color: #1e3a8a;
 }
 
 .worksheet-column h2 {
