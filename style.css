@@ -716,10 +716,16 @@ textarea {
     box-shadow: 0 6px 16px rgba(220, 38, 38, 0.08);
 }
 
+.resource-quickstart__banner-top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
 .resource-quickstart__banner-badge {
     display: inline-block;
-    margin-right: 8px;
-    margin-bottom: 8px;
+    margin: 0;
     padding: 5px 10px;
     border-radius: 999px;
     background: #dc2626;
@@ -733,7 +739,7 @@ textarea {
 
 .resource-quickstart__banner-tag {
     display: inline-block;
-    margin-bottom: 8px;
+    margin: 0;
     padding: 5px 10px;
     border-radius: 999px;
     border: 1px solid #7c3aed;
@@ -745,27 +751,59 @@ textarea {
     text-transform: uppercase;
 }
 
-.resource-quickstart__banner p {
-    margin: 0;
+.resource-quickstart__banner-intro {
+    margin: 0 0 10px;
     color: #334155;
     font-size: 0.95rem;
     line-height: 1.6;
 }
 
+.resource-quickstart__banner-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+}
+
+.resource-quickstart__banner p {
+    margin: 0;
+    color: #334155;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
 .resource-quickstart__banner-note {
-    margin-top: 8px !important;
+    padding: 10px 12px;
+    border: 1px solid #e8eef8;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.resource-quickstart__banner-highlight {
+    padding: 10px 12px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 1px solid #f59e0b;
+    color: #92400e;
+    font-size: 1rem;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    box-shadow: 0 4px 12px rgba(245, 158, 11, 0.18);
+}
+
+.resource-quickstart__banner-highlight strong {
+    color: #92400e;
 }
 
 .worksheet-sections {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 10px;
-    margin-top: 0;
+    gap: 12px;
+    margin-top: 8px;
 }
 
 .worksheet-column {
     min-height: 100%;
-    padding: 10px 10px 9px;
+    padding: 10px;
     border: 1px solid #dce7f5;
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.78);
@@ -773,7 +811,7 @@ textarea {
 
 .worksheet-column h3 {
     margin-top: 0;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     color: #1a3a72;
     font-size: 0.95rem;
 }
@@ -793,12 +831,12 @@ textarea {
 .worksheet-column a {
     display: inline-block;
     width: 100%;
-    padding: 7px 9px;
+    padding: 6px 8px;
     border: 1px solid #cfe0f7;
-    border-radius: 999px;
+    border-radius: 8px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
-    font-size: 0.88rem;
+    font-size: 0.82rem;
     font-weight: 700;
     text-align: center;
     text-decoration: none;
