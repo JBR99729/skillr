@@ -1,0 +1,12 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><title>Daily Drill Redirect</title></head><body><p>Opening the updated daily drill…</p>
+<script>window.SKILLR_DAILY_YEAR="7";</script>
+<script src="/quiz/assets/daily-drills/catalog.js?v=3"></script>
+<script>
+(()=>{const p=new URLSearchParams(location.search),subject=p.get("subject"),skill=p.get("skill"),year=String(window.SKILLR_DAILY_YEAR||"");
+const data=window.SkillrDailyCatalog?.years?.[year];const list=subject==="math"?data?.math:subject==="english"?data?.english:subject==="science"?data?.science:null;
+const exact=Array.isArray(list)&&list.some(t=>t.slug===skill||t.id===skill);
+if((subject==="math"||subject==="english"||subject==="science")&&exact){location.replace(`./${subject}/${encodeURIComponent(skill)}/`)}
+else if(subject==="math"||subject==="english"||subject==="science"){location.replace(`./${subject}/`)}
+else{location.replace("./")}
+})();
+</script></body></html>
