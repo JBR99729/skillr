@@ -838,6 +838,11 @@ textarea {
     box-shadow: 0 4px 10px rgba(26, 58, 114, 0.06);
 }
 
+.resource-quickstart:first-of-type {
+    max-width: 1120px;
+    margin: 10px auto;
+}
+
 .resource-quickstart__intro {
     display: flex;
     flex-direction: column;
@@ -988,17 +993,17 @@ textarea {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 50%;
     min-width: 0;
     margin: 0 auto;
-    padding: 3px 6px;
+    padding: 5px 6px;
     border: 1px solid #cfe0f7;
     border-radius: 6px;
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: #fff;
     font-size: 0.64rem;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.25;
     text-align: center;
     text-decoration: none;
     box-shadow: 0 1px 3px rgba(29, 78, 216, 0.12);
