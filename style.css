@@ -400,18 +400,18 @@ body.homepage .main-nav a:hover {
 .home-hero {
     margin: 18px 0 30px;
     padding: 30px;
-    border: 1px solid #d4e0ec;
+    border: 1px solid #d8e4f0;
     border-radius: 18px;
     background:
-        linear-gradient(125deg, rgba(16, 66, 110, 0.96), rgba(22, 96, 140, 0.95)),
-        linear-gradient(0deg, #194870, #194870);
-    color: #e9f4ff;
-    box-shadow: 0 16px 34px rgba(14, 44, 72, 0.22);
+        radial-gradient(circle at 85% 12%, rgba(132, 186, 231, 0.25), transparent 35%),
+        linear-gradient(135deg, #f7fbff 0%, #edf5ff 100%);
+    color: #16344f;
+    box-shadow: 0 10px 26px rgba(28, 61, 98, 0.1);
 }
 
 .home-hero h1 {
     margin: 8px 0 14px;
-    color: #ffffff;
+    color: #123250;
     font-size: clamp(2rem, 4.2vw, 3rem);
     line-height: 1.12;
 }
@@ -420,10 +420,10 @@ body.homepage .main-nav a:hover {
     display: inline-block;
     margin: 0;
     padding: 5px 10px;
-    border: 1px solid rgba(255, 255, 255, 0.42);
+    border: 1px solid #c9dbee;
     border-radius: 999px;
-    background: rgba(255, 255, 255, 0.12);
-    color: #d9ebff;
+    background: #f0f6fd;
+    color: #35597d;
     font-size: 0.8rem;
     font-weight: 700;
     letter-spacing: 0.05em;
@@ -433,7 +433,7 @@ body.homepage .main-nav a:hover {
 .home-hero__lead {
     margin: 0;
     max-width: 760px;
-    color: #eaf4ff;
+    color: #2f4e6b;
     font-size: 1.1rem;
 }
 
@@ -447,27 +447,27 @@ body.homepage .main-nav a:hover {
 .home-hero__button {
     display: inline-block;
     padding: 10px 16px;
-    border: 1px solid rgba(255, 255, 255, 0.6);
+    border: 1px solid #9ab3cc;
     border-radius: 10px;
-    color: #f0f8ff;
+    color: #173e64;
     text-decoration: none;
     font-weight: 700;
-    background: rgba(255, 255, 255, 0.06);
+    background: #ffffff;
 }
 
 .home-hero__button:hover {
     text-decoration: none;
-    background: rgba(255, 255, 255, 0.18);
+    background: #f3f8ff;
 }
 
 .home-hero__button--primary {
-    border-color: #ffd58b;
-    color: #2e1d00;
-    background: linear-gradient(135deg, #ffdc9f, #ffc86f);
+    border-color: #2e6aa1;
+    color: #ffffff;
+    background: linear-gradient(135deg, #2f76b8, #235f95);
 }
 
 .home-hero__button--primary:hover {
-    background: linear-gradient(135deg, #ffe3b2, #ffd480);
+    background: linear-gradient(135deg, #3a83c8, #2a679f);
 }
 
 .home-hero__meta {
@@ -481,9 +481,9 @@ body.homepage .main-nav a:hover {
     margin: 0;
     padding: 10px 12px;
     border-radius: 10px;
-    background: rgba(255, 255, 255, 0.12);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    color: #e8f3ff;
+    background: #ffffff;
+    border: 1px solid #d4e2f0;
+    color: #365370;
     font-size: 0.95rem;
 }
 
