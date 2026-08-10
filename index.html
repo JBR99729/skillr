@@ -79,7 +79,7 @@
   
 
   <!-- Site stylesheet -->
-  <link rel="stylesheet" href="/style.css?v=20260809-5">
+  <link rel="stylesheet" href="/style.css?v=20260810-1">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -121,9 +121,10 @@
         <p>
           Choose a year, subject and topic to start practising immediately.
         </p>
-        <p class="brand-panel__cta">
-          <a href="#sample-practice-heading">🚀 Launch a Quick Drill</a> | <a href="#sample-practice-heading">🖨️ Print a Worksheet</a> | <a href="#sample-practice-heading">📚 Browse K-10 Topics</a>
-        </p>
+        <div class="brand-panel__cta" aria-label="Choose a learning path">
+          <a class="brand-panel__action brand-panel__action--primary" href="#choose-year">Browse curriculum by year</a>
+          <a class="brand-panel__action brand-panel__action--secondary" href="#choose-year">Choose a daily drill</a>
+        </div>
       </div>
       <div class="brand-panel__highlights" aria-label="Highlights">
         <div>Free to use</div>
@@ -134,12 +135,13 @@
 
     <section
       class="resource-quickstart"
-      aria-labelledby="sample-practice-heading"
+      id="choose-year"
+      aria-labelledby="choose-year-heading"
     >
       <div class="resource-quickstart__intro">
-        <h2 id="sample-practice-heading">Choose how you want to learn</h2>
+        <h2 id="choose-year-heading">Choose your year and learning path</h2>
         <p>
-          Students can read a simple 60-second concept guide, then answer 8 focused questions. Teachers can print a classroom-ready worksheet and use the matching drill for revision, homework or extra practice. Parents and carers can choose a year level and begin immediately without creating an account.
+          Browse structured Maths, Science and English curriculum units, or start a quick mixed Daily Drill for regular revision. Teachers can open printable worksheets from the curriculum pages, while students and families can begin practising without creating an account.
         </p>
         <div class="resource-quickstart__banner">
           <div class="resource-quickstart__banner-top">
@@ -147,7 +149,7 @@
             <span class="resource-quickstart__banner-tag">Read. Practise. Repeat.</span>
           </div>
           <p class="resource-quickstart__banner-intro">
-            <strong>How SkillrHub works:</strong> choose a topic, learn in 60 seconds, complete 8 questions and keep improving with another set or a printable worksheet.
+            <strong>Choose what you need:</strong> use Curriculum Units for topic guides, worksheets, focused practice and tests, or use Daily Drill for a short mixed revision session.
           </p>
           <p class="resource-quickstart__teacher-tip">
             <span class="teacher-tip__pin" aria-hidden="true">📌</span>
@@ -155,59 +157,120 @@
           </p>
           <div class="resource-quickstart__banner-grid">
             <p class="resource-quickstart__banner-note">
-              <strong>No account</strong><br>
-              Begin a drill immediately.
+              <strong>Curriculum units</strong><br>
+              Read, print, practise and test.
             </p>
             <p class="resource-quickstart__banner-highlight">
               <strong>45,000 questions across Maths, Science and English</strong>
             </p>
             <p class="resource-quickstart__banner-note">
-              <strong>8 questions per drill</strong><br>
-              Quick, manageable practice.
+              <strong>Daily Drill</strong><br>
+              8 quick mixed questions.
             </p>
           </div>
         </div>
       </div>
 
-      <div class="resource-quickstart__sections">
-        <div class="worksheet-column">
-          <h3>Year F-2</h3>
-          <ul>
-            <li><a href="/quiz/grade-k/daily-drills/">Foundation daily drills</a></li>
-            <li><a href="/quiz/year-1/daily-drills/">Year 1 daily drills</a></li>
-            <li><a href="/quiz/year-2/daily-drills/">Year 2 daily drills</a></li>
-          </ul>
-        </div>
+      <div class="year-learning-grid" aria-label="Foundation to Year 10 learning options">
+        <article class="year-learning-card" aria-labelledby="foundation-learning-card">
+          <h3 id="foundation-learning-card">Foundation</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/grade-k/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
 
-        <div class="worksheet-column">
-          <h3>Years 3-6</h3>
-          <ul>
-            <li><a href="/quiz/year-3/daily-drills/">Year 3 daily drills</a></li>
-            <li><a href="/quiz/year-4/daily-drills/">Year 4 daily drills</a></li>
-            <li><a href="/quiz/year-5/daily-drills/">Year 5 daily drills</a></li>
-            <li><a href="/quiz/year-6/daily-drills/">Year 6 daily drills</a></li>
-          </ul>
-        </div>
+        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-1-learning-card">
+          <span class="year-learning-card__badge">Curriculum available</span>
+          <h3 id="year-1-learning-card">Year 1</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <a class="year-learning-card__button year-learning-card__button--primary" href="/year1/curriculum/">Browse Curriculum Units</a>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-1/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
 
-        <div class="worksheet-column">
-          <h3>English practice</h3>
-          <ul>
-            <li><a href="/quiz/grade-k/daily-drills/english/">Foundation English</a></li>
-            <li><a href="/quiz/year-1/daily-drills/english/">Year 1 English</a></li>
-            <li><a href="/quiz/year-2/daily-drills/english/">Year 2 English</a></li>
-            <li><a href="/quiz/year-3/daily-drills/english/">Year 3 English</a></li>
-          </ul>
-        </div>
+        <article class="year-learning-card" aria-labelledby="year-2-learning-card">
+          <h3 id="year-2-learning-card">Year 2</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-2/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
 
-        <div class="worksheet-column">
-          <h3>Years 7-10</h3>
-          <ul>
-            <li><a href="/quiz/year-7/daily-drills/">Year 7 daily drills</a></li>
-            <li><a href="/quiz/year-8/daily-drills/">Year 8 daily drills</a></li>
-            <li><a href="/quiz/year-9/daily-drills/">Year 9 daily drills</a></li>
-            <li><a href="/quiz/year-10/daily-drills/">Year 10 daily drills</a></li>
-          </ul>
-        </div>
+        <article class="year-learning-card" aria-labelledby="year-3-learning-card">
+          <h3 id="year-3-learning-card">Year 3</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-3/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-4-learning-card">
+          <h3 id="year-4-learning-card">Year 4</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-4/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-5-learning-card">
+          <h3 id="year-5-learning-card">Year 5</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-5/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-6-learning-card">
+          <h3 id="year-6-learning-card">Year 6</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-6/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-7-learning-card">
+          <h3 id="year-7-learning-card">Year 7</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-7/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-8-learning-card">
+          <h3 id="year-8-learning-card">Year 8</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-8/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-9-learning-card">
+          <h3 id="year-9-learning-card">Year 9</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-9/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
+
+        <article class="year-learning-card" aria-labelledby="year-10-learning-card">
+          <h3 id="year-10-learning-card">Year 10</h3>
+          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+          <div class="year-learning-card__actions">
+            <span class="year-learning-card__button year-learning-card__button--disabled" aria-disabled="true">Browse Curriculum Units <small>Coming soon</small></span>
+            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-10/daily-drills/">Start Daily Drill</a>
+          </div>
+        </article>
       </div>
     </section>
 
@@ -573,4 +636,3 @@ If you need a worksheet for a topic that is not yet listed, please contact us at
 <script src="/pwa-register.js?v=1"></script>
 </body>
 </html>
-
