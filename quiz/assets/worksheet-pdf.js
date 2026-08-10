@@ -1,32 +1,36 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT PDF v15
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v16
    File path: /quiz/assets/worksheet-pdf.js
 
    IMPORTANT
    - Direct jsPDF drawing only. No html2canvas/html2pdf capture.
    - Exactly one US Letter page.
-   - Uses the same active 8 questions as the quiz.
+   - Creates a fresh 10-question worksheet from printable questions.
+   - Future practice/exam pages can provide a dedicated worksheet bank.
    - Replaces the PDF button node during setup so stale listeners
      from older worksheet-pdf.js versions cannot also fire.
    ========================================================= */
 
 (() => {
-  const VERSION = "15";
+  const VERSION = "16";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
   const BRAND = "SkillrHub";
   const WEBSITE = "www.skillrhub.com";
-  const ONLINE_QUESTION_LIMIT = 8;
-  const PRINTABLE_LIMIT = 6;
+  const WORKSHEET_LIMIT = 10;
   const PAPER_FRIENDLY_TYPES = new Set([
     "single",
     "true-false",
+    "multiple",
     "text",
     "number",
-    "fill-blank"
+    "fill-blank",
+    "order",
+    "drag-drop",
+    "drag-image"
   ]);
 
   const BLUE = [36, 87, 214];
@@ -69,30 +73,158 @@
     );
   }
 
-  function getActiveQuestions() {
-    if (
-      Array.isArray(window.skillrActiveQuestions) &&
-      window.skillrActiveQuestions.length
-    ) {
-      return window.skillrActiveQuestions.slice(0, ONLINE_QUESTION_LIMIT);
+  function getSkillCode() {
+    const config = window.quizConfig || {};
+    const configuredCode =
+      config.skillCode ||
+      config.curriculumCode ||
+      config.code;
+
+    if (configuredCode) {
+      return normaliseText(configuredCode).toUpperCase();
     }
 
-    const bank = Array.isArray(window.quizQuestions)
-      ? window.quizQuestions
-      : [];
+    const firstQuestion = getWorksheetQuestionBank()[0] || {};
+    const questionCode =
+      firstQuestion.curriculumCode ||
+      firstQuestion.skillCode ||
+      firstQuestion.code;
 
-    return bank.slice(0, ONLINE_QUESTION_LIMIT);
+    if (questionCode) {
+      return normaliseText(questionCode).toUpperCase();
+    }
+
+    const pageText = `${getEyebrow()} ${getTitle()}`;
+    const curriculumMatch = pageText.match(/\bAC9[A-Z0-9]+\b/i);
+
+    if (curriculumMatch) {
+      return curriculumMatch[0].toUpperCase();
+    }
+
+    const dailyYear = window.SKILLR_DAILY_YEAR;
+    const dailySubject = window.SKILLR_DAILY_SUBJECT;
+    const dailySkill = window.SKILLR_DAILY_SKILL;
+
+    if (dailyYear && dailySubject && dailySkill) {
+      return normaliseText(
+        `Y${dailyYear}-${dailySubject}-${dailySkill}`
+      ).toUpperCase();
+    }
+
+    return "";
+  }
+
+  function getGlobalQuestionArray(name) {
+    return Array.isArray(window[name]) ? window[name] : [];
+  }
+
+  function getWorksheetQuestionBank() {
+    const explicitWorksheetBank = [
+      ...getGlobalQuestionArray("skillrWorksheetQuestions"),
+      ...getGlobalQuestionArray("quizWorksheetQuestions")
+    ];
+
+    if (explicitWorksheetBank.length) {
+      return explicitWorksheetBank;
+    }
+
+    const practiceExamBanks = [
+      ...getGlobalQuestionArray("skillrPracticeQuestions"),
+      ...getGlobalQuestionArray("skillrExamQuestions"),
+      ...getGlobalQuestionArray("quizPracticeQuestions"),
+      ...getGlobalQuestionArray("quizExamQuestions")
+    ];
+
+    if (practiceExamBanks.length) {
+      return practiceExamBanks;
+    }
+
+    const fullQuizBank = getGlobalQuestionArray("quizQuestions");
+
+    if (fullQuizBank.length) {
+      return fullQuizBank;
+    }
+
+    return getGlobalQuestionArray("skillrActiveQuestions");
+  }
+
+  function questionKey(question) {
+    return normaliseText(
+      question?.id ||
+        `${question?.curriculumCode || ""}|${question?.question || ""}`
+    );
+  }
+
+  function uniqueQuestions(questions) {
+    const seen = new Set();
+
+    return questions.filter((question) => {
+      const key = questionKey(question);
+
+      if (!key || seen.has(key)) {
+        return false;
+      }
+
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function shuffleArray(items) {
+    const copy = [...items];
+
+    for (let index = copy.length - 1; index > 0; index -= 1) {
+      const randomIndex = Math.floor(Math.random() * (index + 1));
+
+      [copy[index], copy[randomIndex]] = [copy[randomIndex], copy[index]];
+    }
+
+    return copy;
   }
 
   function isPaperFriendly(question) {
+    if (
+      !question ||
+      question.printable === false ||
+      question.worksheet === false ||
+      question.excludeFromWorksheet === true
+    ) {
+      return false;
+    }
+
     const type = question?.type || "single";
-    return PAPER_FRIENDLY_TYPES.has(type);
+
+    if (!PAPER_FRIENDLY_TYPES.has(type)) {
+      return false;
+    }
+
+    if (type === "single" || type === "true-false" || type === "multiple") {
+      return (question.answers || []).map(optionText).filter(Boolean).length >= 2;
+    }
+
+    if (type === "fill-blank") {
+      return Boolean(question.template || question.question);
+    }
+
+    if (type === "order" || type === "drag-drop") {
+      return (question.items || []).map(itemText).filter(Boolean).length >= 2;
+    }
+
+    if (type === "drag-image") {
+      return (
+        (question.items || []).length > 0 &&
+        (question.categories || []).length > 0
+      );
+    }
+
+    return true;
   }
 
   function getPrintableQuestions() {
-    return getActiveQuestions()
-      .filter(isPaperFriendly)
-      .slice(0, PRINTABLE_LIMIT);
+    const printablePool = uniqueQuestions(getWorksheetQuestionBank())
+      .filter(isPaperFriendly);
+
+    return shuffleArray(printablePool).slice(0, WORKSHEET_LIMIT);
   }
 
   function setText(doc, rgb) {
@@ -238,6 +370,14 @@
       align: "right"
     });
 
+    const skillCode = getSkillCode();
+
+    if (skillCode) {
+      doc.text(`Skill code: ${skillCode}`, right, 23.5, {
+        align: "right"
+      });
+    }
+
     setDraw(doc, BLUE);
     doc.setLineWidth(0.5);
     doc.line(margin, 30.2, right, 30.2);
@@ -264,7 +404,7 @@
     doc.setFontSize(8.4);
     setText(doc, TEXT);
     const note =
-      "Repeat this skill online across one week and aim to work through the full question bank over multiple attempts. This worksheet contains only paper-friendly questions from the current set. Complete arranging, drag-and-drop and select-all activities online.";
+      "Use this printable sheet for independent classroom or home practice. It contains 10 paper-friendly questions selected from the current SkillrHub question bank. Complete interactive-only activities online.";
     const noteLines = wrap(doc, note, pageW - 2 * margin - 5.6).slice(0, 3);
     doc.text(noteLines, margin + 2.8, noteY + 8.8);
 
@@ -500,10 +640,22 @@
 
     const type = question.type || "single";
 
-    if (type === "single" || type === "true-false") {
+    if (type === "single" || type === "true-false" || type === "multiple") {
+      if (type === "multiple") {
+        doc.setFont("helvetica", "bold");
+        doc.setFontSize(8.8);
+        setText(doc, MUTED);
+        doc.text("Select all correct answers.", bodyX, y);
+        y += 3.8;
+      }
+
       drawOptions(doc, question, bodyX, y, bodyW, remaining);
     } else if (type === "fill-blank") {
       drawFillBlank(doc, question, bodyX, y, bodyW);
+    } else if (type === "order" || type === "drag-drop") {
+      drawOrder(doc, question, bodyX, y, bodyW, remaining);
+    } else if (type === "drag-image") {
+      drawDragImage(doc, question, bodyX, y, bodyW, remaining);
     } else {
       doc.setFont("helvetica", "normal");
       doc.setFontSize(10.5);
@@ -620,13 +772,13 @@
   async function downloadWorksheet() {
     const questions = getPrintableQuestions();
 
-    if (!questions.length) {
-      alert("No paper-friendly questions are available in this set. Please complete this practice online.");
+    if (questions.length < WORKSHEET_LIMIT) {
+      alert(`This worksheet needs ${WORKSHEET_LIMIT} unique printable questions. Please add more paper-friendly questions to this set.`);
       return;
     }
 
     const button = $("#downloadPdfButton");
-    const original = button?.textContent || "Download PDF Worksheet";
+    const original = button?.textContent || "Worksheet";
 
     if (button) {
       button.disabled = true;
@@ -657,13 +809,16 @@
       button.id = "downloadPdfButton";
       button.type = "button";
       button.className = "button button-secondary";
-      button.textContent = "Download PDF Worksheet";
+      button.textContent = "Worksheet";
       startButton.insertAdjacentElement("afterend", button);
     }
 
     // Critical: cloning removes event listeners attached by any old cached
     // worksheet-pdf.js. This prevents two generators firing from one click.
     const fresh = button.cloneNode(true);
+    if (/download\s+pdf\s+worksheet/i.test(fresh.textContent || "")) {
+      fresh.textContent = "Worksheet";
+    }
     fresh.dataset.pdfGenerator = `direct-v${VERSION}`;
     button.replaceWith(fresh);
     fresh.addEventListener("click", downloadWorksheet);

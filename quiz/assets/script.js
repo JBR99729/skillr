@@ -189,6 +189,12 @@ document.addEventListener("DOMContentLoaded", () => {
     shuffleQuestions: true,
     shuffleAnswers: false,
     caseSensitiveText: false,
+    passingPercent: 75,
+    questionCycle: false,
+    avoidSameCorrectPosition: false,
+    preReadSeconds: 0,
+    requireStudentName: false,
+    certificateOnPass: false,
     storageKey: "skillrQuizBestScore",
     ...(window.quizConfig || {})
   };
@@ -275,6 +281,13 @@ document.addEventListener("DOMContentLoaded", () => {
   let score = 0;
   let answerChecked = false;
   let quizHistory = [];
+  let studentNameInput = null;
+  let preReadPanel = null;
+  let preReadComplete = false;
+  let preReadTimerId = null;
+  let cycleProgressElement = null;
+  let currentCycleKey = null;
+  let currentCycleTotalSets = null;
 
   let selectedSingleIndex = null;
   let selectedMultipleIndexes = new Set();
@@ -341,6 +354,56 @@ document.addEventListener("DOMContentLoaded", () => {
     };
   }
 
+  function getQuestionIdentity(question) {
+    return String(
+      question.id ||
+        question.questionId ||
+        [
+          question.curriculumCode,
+          question.elaboration,
+          question.question
+        ]
+          .filter(Boolean)
+          .join("|") ||
+        question.question
+    );
+  }
+
+  function storageGetJson(key, fallback) {
+    try {
+      const value = localStorage.getItem(key);
+
+      if (!value) {
+        return fallback;
+      }
+
+      return JSON.parse(value);
+    } catch (error) {
+      return fallback;
+    }
+  }
+
+  function storageSetJson(key, value) {
+    try {
+      localStorage.setItem(
+        key,
+        JSON.stringify(value)
+      );
+    } catch (error) {
+      console.warn(
+        "Could not save quiz state:",
+        error
+      );
+    }
+  }
+
+  function getAnswerPositionKey() {
+    return `${
+      config.answerPositionStorageKey ||
+      config.storageKey
+    }:answerPositions`;
+  }
+
   function prepareSingleChoiceAnswers(question) {
     const type = question.type || "single";
 
@@ -358,7 +421,62 @@ document.addEventListener("DOMContentLoaded", () => {
       })
     );
 
-    const shuffled = shuffleArray(answerObjects);
+    const previousPositions = storageGetJson(
+      getAnswerPositionKey(),
+      {}
+    );
+
+    const questionKey = getQuestionIdentity(
+      question
+    );
+
+    let shuffled = shuffleArray(answerObjects);
+    let correctIndex = shuffled.findIndex(
+      (item) => item.isCorrect
+    );
+
+    if (
+      config.avoidSameCorrectPosition &&
+      question.answers.length > 1 &&
+      previousPositions[questionKey] !== undefined
+    ) {
+      const previousIndex =
+        previousPositions[questionKey];
+
+      for (
+        let attempt = 0;
+        attempt < 12 && correctIndex === previousIndex;
+        attempt += 1
+      ) {
+        shuffled = shuffleArray(answerObjects);
+        correctIndex = shuffled.findIndex(
+          (item) => item.isCorrect
+        );
+      }
+
+      if (correctIndex === previousIndex) {
+        const swapIndex =
+          previousIndex === 0 ? 1 : 0;
+
+        [
+          shuffled[previousIndex],
+          shuffled[swapIndex]
+        ] = [
+          shuffled[swapIndex],
+          shuffled[previousIndex]
+        ];
+
+        correctIndex = swapIndex;
+      }
+    }
+
+    if (config.avoidSameCorrectPosition) {
+      previousPositions[questionKey] = correctIndex;
+      storageSetJson(
+        getAnswerPositionKey(),
+        previousPositions
+      );
+    }
 
     return {
       ...question,
@@ -373,14 +491,186 @@ document.addEventListener("DOMContentLoaded", () => {
     };
   }
 
+  function getQuestionCycleKey() {
+    return `${
+      config.questionCycleStorageKey ||
+      config.storageKey
+    }:questionCycle`;
+  }
+
+  function renderCycleProgress() {
+    if (!config.questionCycle) {
+      return;
+    }
+
+    if (!cycleProgressElement) {
+      cycleProgressElement =
+        document.getElementById(
+          "practiceSetProgress"
+        );
+    }
+
+    if (!cycleProgressElement) {
+      cycleProgressElement =
+        document.createElement("p");
+      cycleProgressElement.id =
+        "practiceSetProgress";
+      cycleProgressElement.className =
+        "practice-set-progress";
+
+      const startCard =
+        elements.startScreen.querySelector(
+          ".start-card, .card"
+        );
+
+      const summary =
+        elements.startScreen.querySelector(
+          ".quiz-summary"
+        );
+
+      if (summary?.parentNode) {
+        summary.insertAdjacentElement(
+          "afterend",
+          cycleProgressElement
+        );
+      } else if (startCard) {
+        startCard.appendChild(
+          cycleProgressElement
+        );
+      }
+    }
+
+    const state = storageGetJson(
+      getQuestionCycleKey(),
+      {}
+    );
+
+    const totalSets =
+      currentCycleTotalSets ||
+      state.totalSets ||
+      Math.max(
+        1,
+        Math.ceil(
+          questions.length /
+            Math.max(
+              1,
+              Number(config.maxQuestions) || 1
+            )
+        )
+      );
+
+    const completedSets = Math.min(
+      Number(state.completedSets) || 0,
+      totalSets
+    );
+
+    cycleProgressElement.textContent =
+      `${completedSets}/${totalSets} sets completed`;
+  }
+
+  function selectQuestionCycle(
+    prepared,
+    maximumQuestions
+  ) {
+    const allIds = prepared.map(
+      getQuestionIdentity
+    );
+
+    const signature =
+      allIds.join("||");
+
+    const totalSets = Math.max(
+      1,
+      Math.ceil(
+        allIds.length / maximumQuestions
+      )
+    );
+
+    const key = getQuestionCycleKey();
+    let state = storageGetJson(key, {});
+
+    const shouldReset =
+      state.signature !== signature ||
+      !Array.isArray(state.remainingIds) ||
+      (
+        state.remainingIds.length === 0 &&
+        Number(state.completedSets) >= totalSets
+      );
+
+    if (shouldReset) {
+      state = {
+        signature,
+        remainingIds: shuffleArray(allIds),
+        completedSets: 0,
+        totalSets
+      };
+    }
+
+    const selectedIds = [];
+
+    while (
+      selectedIds.length < maximumQuestions &&
+      state.remainingIds.length > 0
+    ) {
+      selectedIds.push(
+        state.remainingIds.shift()
+      );
+    }
+
+    currentCycleKey = key;
+    currentCycleTotalSets = totalSets;
+
+    state.totalSets = totalSets;
+    storageSetJson(key, state);
+
+    const questionById = new Map(
+      prepared.map((question) => [
+        getQuestionIdentity(question),
+        question
+      ])
+    );
+
+    return selectedIds
+      .map((id) => questionById.get(id))
+      .filter(Boolean);
+  }
+
+  function markCurrentCycleSetComplete() {
+    if (
+      !config.questionCycle ||
+      !currentCycleKey
+    ) {
+      return;
+    }
+
+    const state = storageGetJson(
+      currentCycleKey,
+      {}
+    );
+
+    const totalSets =
+      currentCycleTotalSets ||
+      state.totalSets ||
+      1;
+
+    state.completedSets = Math.min(
+      totalSets,
+      (Number(state.completedSets) || 0) + 1
+    );
+    state.totalSets = totalSets;
+
+    storageSetJson(
+      currentCycleKey,
+      state
+    );
+
+    renderCycleProgress();
+  }
+
   function prepareQuestions() {
   let prepared = questions
-    .map(cloneQuestion)
-    .map(prepareSingleChoiceAnswers);
+    .map(cloneQuestion);
 
-  if (config.shuffleQuestions) {
-    prepared = shuffleArray(prepared);
-  }
 
   const maximumQuestions =
     Number(config.maxQuestions);
@@ -389,13 +679,31 @@ document.addEventListener("DOMContentLoaded", () => {
     Number.isInteger(maximumQuestions) &&
     maximumQuestions > 0
   ) {
-    prepared = prepared.slice(
-      0,
-      maximumQuestions
-    );
+    if (
+      config.questionCycle &&
+      prepared.length > maximumQuestions
+    ) {
+      prepared = selectQuestionCycle(
+        prepared,
+        maximumQuestions
+      );
+    } else {
+      if (config.shuffleQuestions) {
+        prepared = shuffleArray(prepared);
+      }
+
+      prepared = prepared.slice(
+        0,
+        maximumQuestions
+      );
+    }
+  } else if (config.shuffleQuestions) {
+    prepared = shuffleArray(prepared);
   }
 
-  return prepared;
+  return prepared.map(
+    prepareSingleChoiceAnswers
+  );
 }
 
   function showScreen(screenToShow) {
@@ -425,8 +733,217 @@ document.addEventListener("DOMContentLoaded", () => {
     draggedImageId = null;
   }
 
+  function ensureStudentNameInput() {
+    if (!config.requireStudentName) {
+      return null;
+    }
+
+    if (studentNameInput) {
+      return studentNameInput;
+    }
+
+    studentNameInput =
+      document.getElementById(
+        "studentName"
+      );
+
+    if (studentNameInput) {
+      return studentNameInput;
+    }
+
+    const label =
+      document.createElement("label");
+    label.className =
+      "student-name-field";
+    label.textContent =
+      "Student name";
+
+    studentNameInput =
+      document.createElement("input");
+    studentNameInput.id =
+      "studentName";
+    studentNameInput.type =
+      "text";
+    studentNameInput.autocomplete =
+      "name";
+    studentNameInput.placeholder =
+      "Enter student name";
+    studentNameInput.required =
+      true;
+
+    label.appendChild(studentNameInput);
+
+    elements.startButton.insertAdjacentElement(
+      "beforebegin",
+      label
+    );
+
+    return studentNameInput;
+  }
+
+  function getStudentName() {
+    return (
+      ensureStudentNameInput()?.value.trim() ||
+      ""
+    );
+  }
+
+  function showStartMessage(message) {
+    let messageElement =
+      document.getElementById(
+        "startScreenMessage"
+      );
+
+    if (!messageElement) {
+      messageElement =
+        document.createElement("p");
+      messageElement.id =
+        "startScreenMessage";
+      messageElement.className =
+        "feedback incorrect";
+
+      elements.startButton.insertAdjacentElement(
+        "beforebegin",
+        messageElement
+      );
+    }
+
+    messageElement.textContent = message;
+  }
+
+  function ensurePreReadPanel() {
+    if (preReadPanel) {
+      return preReadPanel;
+    }
+
+    preReadPanel =
+      document.getElementById(
+        "preReadPanel"
+      );
+
+    if (preReadPanel) {
+      return preReadPanel;
+    }
+
+    preReadPanel =
+      document.createElement("div");
+    preReadPanel.id =
+      "preReadPanel";
+    preReadPanel.className =
+      "pre-read-panel";
+
+    elements.startButton.insertAdjacentElement(
+      "beforebegin",
+      preReadPanel
+    );
+
+    return preReadPanel;
+  }
+
+  function startPreReadCountdown() {
+    const seconds =
+      Number(config.preReadSeconds);
+
+    if (
+      !Number.isFinite(seconds) ||
+      seconds <= 0 ||
+      preReadComplete
+    ) {
+      beginQuiz();
+      return;
+    }
+
+    const panel =
+      ensurePreReadPanel();
+
+    let remaining =
+      Math.ceil(seconds);
+
+    elements.startButton.disabled = true;
+
+    const intro =
+      config.preReadText ||
+      "Read the topic guide carefully before attempting the practice questions.";
+
+    const updatePanel = () => {
+      const heading =
+        document.createElement("strong");
+      heading.textContent =
+        "Pre-read time: ";
+
+      const introText =
+        document.createTextNode(
+          `${intro} `
+        );
+
+      const timer =
+        document.createElement("span");
+      timer.textContent =
+        `${remaining} seconds remaining.`;
+
+      panel.replaceChildren(
+        heading,
+        introText,
+        timer
+      );
+    };
+
+    updatePanel();
+
+    window.clearInterval(
+      preReadTimerId
+    );
+
+    preReadTimerId = window.setInterval(
+      () => {
+        remaining -= 1;
+
+        if (remaining <= 0) {
+          window.clearInterval(
+            preReadTimerId
+          );
+
+          preReadComplete = true;
+          elements.startButton.disabled =
+            false;
+          beginQuiz();
+          return;
+        }
+
+        updatePanel();
+      },
+      1000
+    );
+  }
+
   function startQuiz() {
+    if (
+      config.requireStudentName &&
+      !getStudentName()
+    ) {
+      showStartMessage(
+        "Please enter the student name before starting."
+      );
+      ensureStudentNameInput()?.focus();
+      return;
+    }
+
+    if (
+      Number(config.preReadSeconds) > 0 &&
+      !preReadComplete
+    ) {
+      startPreReadCountdown();
+      return;
+    }
+
+    beginQuiz();
+  }
+
+  function beginQuiz() {
     activeQuestions = prepareQuestions();
+    window.skillrActiveQuestions = activeQuestions.map(
+      cloneQuestion
+    );
 
     currentQuestionIndex = 0;
     score = 0;
@@ -447,6 +964,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
     showScreen(elements.quizScreen);
     renderQuestion();
+  }
+
+  function focusFirstQuestionControl() {
+    const firstControl =
+      elements.answerList.querySelector(
+        [
+          "input:not([disabled])",
+          ".answer-option:not([disabled])",
+          ".order-button:not([disabled])",
+          ".drag-move-button:not([disabled])",
+          ".image-drag-card:not([disabled])"
+        ].join(", ")
+      );
+
+    firstControl?.focus();
   }
 
   function renderQuestion() {
@@ -568,6 +1100,8 @@ default:
     `Unsupported question type: ${type}`
   );
     }
+
+    focusFirstQuestionControl();
   }
 
   function createAnswerButton(
@@ -2293,19 +2827,155 @@ function renderImageDragState(
   function getResultMessage(
     percentage
   ) {
+    const passingPercent =
+      Number(config.passingPercent) || 75;
+
     if (percentage === 100) {
       return "Excellent work — every answer was correct.";
     }
 
-    if (percentage >= 80) {
-      return "Great result. Review the missed questions and try for full marks.";
+    if (percentage >= passingPercent) {
+      return `Passed. You reached the ${passingPercent}% pass mark. Review any missed questions and try for full marks.`;
     }
 
-    if (percentage >= 60) {
-      return "Good effort. Use the answer review to strengthen the tricky parts.";
+    return `Not passed yet. The pass mark is ${passingPercent}%, so review the explanations and practise the tricky parts again.`;
+  }
+
+  function getQuizTitle() {
+    return (
+      document.getElementById("quizTitle")
+        ?.textContent.trim() ||
+      document.title
+    );
+  }
+
+  function printCertificate(percentage) {
+    const studentName =
+      getStudentName() || "Student";
+
+    const escapeCertificateText = (value) =>
+      String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+
+    const certificateWindow =
+      window.open("", "_blank");
+
+    if (!certificateWindow) {
+      alert(
+        "Please allow pop-ups to print the certificate."
+      );
+      return;
     }
 
-    return "Keep practising. Read each explanation, then try the quiz again.";
+    certificateWindow.document.write(
+      `<!DOCTYPE html>
+      <html lang="en-AU">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SkillrHub Completion Certificate</title>
+        <style>
+          body {
+            margin: 0;
+            padding: 40px;
+            font-family: Arial, sans-serif;
+            color: #1f2937;
+            background: #f4f7fb;
+          }
+          .certificate {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 56px;
+            border: 10px solid #1a3a72;
+            background: #fff;
+            text-align: center;
+          }
+          .brand {
+            color: #1a3a72;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+          }
+          h1 {
+            margin: 20px 0;
+            font-size: 42px;
+          }
+          .student {
+            margin: 28px 0;
+            font-size: 34px;
+            font-weight: 800;
+          }
+          .score {
+            font-size: 22px;
+          }
+          @media print {
+            body { background: #fff; }
+            .certificate { box-shadow: none; }
+          }
+        </style>
+      </head>
+      <body>
+        <section class="certificate">
+          <p class="brand">SkillrHub Learning</p>
+          <h1>Completion Certificate</h1>
+          <p>This certifies that</p>
+          <p class="student">${escapeCertificateText(studentName)}</p>
+          <p>successfully completed</p>
+          <h2>${escapeCertificateText(getQuizTitle())}</h2>
+          <p class="score">Score: ${percentage}%</p>
+          <p>skillrhub.com</p>
+        </section>
+      </body>
+      </html>`
+    );
+
+    certificateWindow.document.close();
+    certificateWindow.focus();
+    certificateWindow.print();
+  }
+
+  function updateCertificateAction(percentage) {
+    const existing =
+      document.getElementById(
+        "certificateButton"
+      );
+
+    existing?.remove();
+
+    const passingPercent =
+      Number(config.passingPercent) || 75;
+
+    if (
+      !config.certificateOnPass ||
+      percentage < passingPercent
+    ) {
+      return;
+    }
+
+    const button =
+      document.createElement("button");
+    button.id =
+      "certificateButton";
+    button.type =
+      "button";
+    button.className =
+      "button button-secondary";
+    button.textContent =
+      "Print certificate";
+
+    button.addEventListener(
+      "click",
+      () => printCertificate(percentage)
+    );
+
+    const actions =
+      elements.resultScreen.querySelector(
+        ".result-actions"
+      );
+
+    actions?.appendChild(button);
   }
 
     /* =========================================================
@@ -2350,6 +3020,9 @@ function renderImageDragState(
 
     elements.resultMessage.textContent =
       getResultMessage(percentage);
+
+    markCurrentCycleSetComplete();
+    updateCertificateAction(percentage);
 
     if (elements.bestScore) {
       elements.bestScore.textContent =
@@ -2468,6 +3141,9 @@ function renderImageDragState(
      INITIAL SCREEN
      ========================================================= */
 
+  ensureStudentNameInput();
+  renderCycleProgress();
+
   showScreen(
     elements.startScreen
   );
@@ -2490,6 +3166,154 @@ function renderImageDragState(
   elements.submitButton.addEventListener(
     "click",
     checkAnswer
+  );
+
+
+  /* =========================================================
+     KEYBOARD SUPPORT
+
+     Enter should work for students who are not using a mouse
+     or touchscreen. Answer buttons still keep their normal
+     keyboard behaviour, so students can change/select options
+     before submitting.
+     ========================================================= */
+
+  function isCurrentScreen(screen) {
+    return Boolean(
+      screen &&
+        !screen.hidden &&
+        screen.classList.contains(
+          "is-active"
+        )
+    );
+  }
+
+  function isAnswerOption(element) {
+    return Boolean(
+      element?.closest?.(
+        ".answer-option"
+      )
+    );
+  }
+
+  function shouldLetAnswerButtonHandleEnter(
+    event
+  ) {
+    if (answerChecked) {
+      return false;
+    }
+
+    const button =
+      event.target?.closest?.(
+        ".answer-option"
+      );
+
+    if (!button) {
+      return false;
+    }
+
+    const question =
+      activeQuestions[
+        currentQuestionIndex
+      ];
+
+    const type =
+      question?.type || "single";
+
+    if (type === "multiple") {
+      return true;
+    }
+
+    if (
+      type === "single" ||
+      type === "true-false"
+    ) {
+      return !button.classList.contains(
+        "is-selected"
+      );
+    }
+
+    return true;
+  }
+
+  function shouldLetMoveButtonHandleEnter(
+    event
+  ) {
+    return Boolean(
+      event.target?.closest?.(
+        ".order-button, .drag-move-button"
+      )
+    );
+  }
+
+  function handleQuizKeyboard(event) {
+    if (
+      event.key !== "Enter" ||
+      event.isComposing
+    ) {
+      return;
+    }
+
+    if (
+      isCurrentScreen(
+        elements.startScreen
+      ) &&
+      !elements.startButton.disabled &&
+      !event.target?.closest?.(
+        "a, button, input, textarea, select"
+      )
+    ) {
+      event.preventDefault();
+      startQuiz();
+      return;
+    }
+
+    if (
+      !isCurrentScreen(
+        elements.quizScreen
+      )
+    ) {
+      return;
+    }
+
+    if (!answerChecked) {
+      if (
+        isAnswerOption(event.target) &&
+        shouldLetAnswerButtonHandleEnter(
+          event
+        )
+      ) {
+        return;
+      }
+
+      if (
+        shouldLetMoveButtonHandleEnter(
+          event
+        )
+      ) {
+        return;
+      }
+
+      if (
+        !elements.submitButton.hidden &&
+        !elements.submitButton.disabled
+      ) {
+        event.preventDefault();
+        checkAnswer();
+      }
+
+      return;
+    }
+
+    if (!elements.nextButton.hidden) {
+      event.preventDefault();
+      goToNextQuestion();
+    }
+  }
+
+  document.addEventListener(
+    "keydown",
+    handleQuizKeyboard
   );
 
 

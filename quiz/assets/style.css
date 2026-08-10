@@ -1327,6 +1327,53 @@ h3 {
   color: var(--text);
 }
 
+.student-name-field,
+.pre-read-panel,
+.practice-set-progress {
+  display: block;
+  max-width: 620px;
+  margin: 16px auto 0;
+  text-align: left;
+}
+
+.student-name-field {
+  color: var(--text);
+  font-weight: 800;
+}
+
+.student-name-field input {
+  display: block;
+  width: 100%;
+  margin-top: 6px;
+  padding: 12px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 12px;
+  font: inherit;
+}
+
+.pre-read-panel {
+  padding: 14px 16px;
+  border: 1px solid #f0d28a;
+  border-radius: 14px;
+  background: #fff9e8;
+  color: #4f3a00;
+}
+
+.pre-read-panel span {
+  display: inline-block;
+  margin-left: 4px;
+  font-weight: 800;
+}
+
+.practice-set-progress {
+  padding: 10px 12px;
+  border-radius: 999px;
+  background: #eef4ff;
+  color: var(--primary);
+  font-weight: 800;
+  text-align: center;
+}
+
 @media (max-width: 640px) {
   .question-image {
     width: min(100%, 480px);
@@ -1342,4 +1389,3 @@ h3 {
     padding: 16px;
   }
 }
-

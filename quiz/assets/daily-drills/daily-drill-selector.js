@@ -28,6 +28,7 @@
   const sets=subject==="math"?30:25;
   const expected=subject==="math"?240:200;
   const bank=generator?.generate?.(year,skill)||[];
+  window.skillrWorksheetQuestions=bank;
 
   if(bank.length!==expected){
     console.warn(`Expected ${expected} questions; generated ${bank.length}.`);
