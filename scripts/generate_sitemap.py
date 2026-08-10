@@ -9,7 +9,7 @@ import subprocess
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://skillrhub.com"
@@ -62,21 +62,71 @@ def is_indexable(source: str) -> bool:
     return not robots or "noindex" not in robots.group(1).lower()
 
 
-def last_modified(path: Path) -> str:
+def canonical_path(source: str) -> str | None:
+    patterns = (
+        r'<link[^>]+rel=["\'][^"\']*canonical[^"\']*["\'][^>]+href=["\']([^"\']+)',
+        r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\'][^"\']*canonical',
+    )
+    for pattern in patterns:
+        match = re.search(pattern, source, re.I)
+        if match:
+            return unquote(urlparse(html.unescape(match.group(1))).path)
+    return None
+
+
+def normalise_route(value: str) -> str:
+    value = "/" + value.lstrip("/")
+    if value.endswith("/index.html"):
+        value = value[: -len("index.html")]
+    return value or "/"
+
+
+def is_canonical_route(source: str, url_path: str) -> bool:
+    target = canonical_path(source)
+    return target is None or normalise_route(target) == normalise_route(url_path)
+
+
+def git_last_modified() -> tuple[dict[str, str], set[str]]:
+    """Read repository dates in one pass so sitemap builds stay fast."""
+    dates: dict[str, str] = {}
+    dirty: set[str] = set()
     try:
-        value = subprocess.check_output(
-            ["git", "log", "-1", "--format=%cs", "--", path.as_posix()],
+        history = subprocess.check_output(
+            ["git", "log", "--format=@@%cs", "--name-only", "--diff-filter=ACMR"],
             cwd=ROOT,
             text=True,
-        ).strip()
-        return value or date.today().isoformat()
+        )
+        current_date = date.today().isoformat()
+        for line in history.splitlines():
+            if line.startswith("@@"):
+                current_date = line[2:]
+            elif line and line not in dates:
+                dates[line] = current_date
+
+        commands = (
+            ["git", "diff", "--name-only"],
+            ["git", "diff", "--cached", "--name-only"],
+            ["git", "ls-files", "--others", "--exclude-standard"],
+        )
+        for command in commands:
+            output = subprocess.check_output(command, cwd=ROOT, text=True)
+            dirty.update(line for line in output.splitlines() if line)
     except (subprocess.CalledProcessError, FileNotFoundError):
+        pass
+    return dates, dirty
+
+
+def last_modified(path: Path, dates: dict[str, str], dirty: set[str]) -> str:
+    value = path.as_posix()
+    if value in dirty:
         return date.today().isoformat()
+    return dates.get(value, date.today().isoformat())
 
 
 def main() -> None:
     pages = []
     seen = set()
+    dates, dirty = git_last_modified()
     for absolute in sorted(ROOT.rglob("*.html")):
         if ".git" in absolute.parts:
             continue
@@ -87,10 +137,12 @@ def main() -> None:
         if not is_indexable(source):
             continue
         url_path = route(relative)
+        if not is_canonical_route(source, url_path):
+            continue
         if url_path in seen:
             raise ValueError(f"Duplicate sitemap route: {url_path}")
         seen.add(url_path)
-        pages.append((url_path, page_title(source, relative), last_modified(relative)))
+        pages.append((url_path, page_title(source, relative), last_modified(relative, dates, dirty)))
 
     xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for url_path, _, modified in pages:
