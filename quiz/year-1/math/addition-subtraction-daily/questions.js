@@ -707,6 +707,8 @@
     return finalSet;
   }
 
+  window.skillrWorksheetQuestions = bank;
+
   const selected = selectEight();
 
   window.quizQuestions = selected;
