@@ -1124,14 +1124,39 @@ textarea {
 }
 
 .year-learning-card--available {
-    border: 2px solid #2457d6;
-    background: linear-gradient(145deg, #fff 0%, #f3f7ff 100%);
-    box-shadow: 0 10px 24px rgba(36, 87, 214, 0.13);
+    --year-card-accent: #2457d6;
+    --year-card-hover: #1d4ed8;
+    --year-card-start: #ffffff;
+    --year-card-end: #eef4ff;
+    border: 2px solid var(--year-card-accent);
+    background: linear-gradient(145deg, var(--year-card-start) 0%, var(--year-card-end) 100%);
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.1);
+}
+
+.year-learning-card--available:nth-child(4n + 2) {
+    --year-card-accent: #0f766e;
+    --year-card-hover: #115e59;
+    --year-card-start: #f8fffd;
+    --year-card-end: #dff8f3;
+}
+
+.year-learning-card--available:nth-child(4n + 3) {
+    --year-card-accent: #7c3aed;
+    --year-card-hover: #6d28d9;
+    --year-card-start: #fdfbff;
+    --year-card-end: #eee7ff;
+}
+
+.year-learning-card--available:nth-child(4n + 4) {
+    --year-card-accent: #c2410c;
+    --year-card-hover: #9a3412;
+    --year-card-start: #fffdf9;
+    --year-card-end: #ffedd5;
 }
 
 .year-learning-card h3 {
     margin: 0 0 5px;
-    color: #173766;
+    color: var(--year-card-accent, #173766);
     font-size: 1.08rem;
     line-height: 1.25;
 }
@@ -1177,7 +1202,7 @@ textarea {
     min-width: 0;
     min-height: 48px;
     padding: 8px 9px;
-    border: 1px solid #2457d6;
+    border: 1px solid var(--year-card-accent, #2457d6);
     border-radius: 10px;
     font-size: 0.75rem;
     font-weight: 800;
@@ -1187,26 +1212,26 @@ textarea {
 }
 
 .year-learning-card__button--primary {
-    background: #2457d6;
+    background: var(--year-card-accent, #2457d6);
     color: #fff;
     box-shadow: 0 5px 12px rgba(36, 87, 214, 0.18);
 }
 
 .year-learning-card__button--primary:hover,
 .year-learning-card__button--primary:focus-visible {
-    background: #1d4ed8;
+    background: var(--year-card-hover, #1d4ed8);
     color: #fff;
 }
 
 .year-learning-card__button--secondary {
     background: #fff;
-    color: #1a3a72;
+    color: var(--year-card-accent, #1a3a72);
 }
 
 .year-learning-card__button--secondary:hover,
 .year-learning-card__button--secondary:focus-visible {
-    background: #eef5ff;
-    color: #1a3a72;
+    background: var(--year-card-end, #eef5ff);
+    color: var(--year-card-hover, #1a3a72);
 }
 
 .year-learning-card__button--disabled {

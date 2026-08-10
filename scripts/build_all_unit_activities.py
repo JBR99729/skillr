@@ -28,8 +28,21 @@ def disk_path(url: str) -> Path:
     return ROOT / urlparse(url).path.strip("/")
 
 
-def head(title: str, description: str, path: str) -> str:
-    return f'''<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-adsense-account" content="{ADSENSE}"><meta name="theme-color" content="#2457d6"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="robots" content="index, follow"><link rel="canonical" href="{SITE}{esc(path)}"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/quiz/assets/style.css?v=112"><script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script></head>'''
+def head(
+    title: str,
+    description: str,
+    path: str,
+    *,
+    robots: str = "index, follow",
+    ads: bool = True,
+) -> str:
+    adsense_meta = f'<meta name="google-adsense-account" content="{ADSENSE}">' if ads else ""
+    adsense_script = (
+        f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>'
+        if ads
+        else ""
+    )
+    return f'''<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">{adsense_meta}<meta name="theme-color" content="#2457d6"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="robots" content="{esc(robots)}"><link rel="canonical" href="{SITE}{esc(path)}"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/quiz/assets/style.css?v=112"><script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>{adsense_script}</head>'''
 
 
 def breadcrumb(unit: dict) -> str:
@@ -120,13 +133,13 @@ def secondary_page(unit: dict, mode: str, kind: str) -> str:
     key = f"skillr{unit['code']}{label}Result"
     if kind == "result":
         certificate = '<button class="button button-secondary" id="certificateButton" onclick="window.print()">Print certificate</button>' if mode == "test" else ""
-        body = f'''<body data-result-key="{key}">{breadcrumb(unit)}<main class="quiz-app"><section class="card result-card"><h1>{label} result</h1><div id="savedResult" class="is-hidden"><p id="studentResultName"></p><div class="result-circle"><span id="resultPercent"></span></div><p>You scored <strong id="resultScore"></strong>.</p><p id="resultStatus"></p><div class="result-actions"><a class="button button-secondary" id="resultReviewLink" href="../review/">Review answers</a><a class="button button-primary" id="resultRetakeLink" href="../retake/">Retake</a>{certificate}</div></div><div id="emptyResult" class="is-hidden"><p>Complete the {label.lower()} first.</p><a class="button button-primary" href="../">Start {label.lower()}</a></div></section></main><script src="/quiz/assets/separate-result.js?v=1"></script></body>'''
+        body = f'''<body data-result-key="{key}">{breadcrumb(unit)}<main class="quiz-app"><section class="card result-card"><p class="eyebrow">{esc(unit['code'])} • {label}</p><h1>{label} result</h1><p>Use the result to choose your next step: review each answer, revisit the unit focus or begin a fresh attempt.</p><section class="pre-read-notes"><h2>Unit focus</h2><ul>{quick_notes(unit)}</ul></section><div id="savedResult" class="is-hidden"><p id="studentResultName"></p><div class="result-circle"><span id="resultPercent"></span></div><p>You scored <strong id="resultScore"></strong>.</p><p id="resultStatus"></p><div class="result-actions"><a class="button button-secondary" id="resultReviewLink" href="../review/">Review answers</a><a class="button button-primary" id="resultRetakeLink" href="../retake/">Retake</a>{certificate}</div></div><div id="emptyResult" class="is-hidden"><p>Complete the {label.lower()} first to record a score and unlock the answer review.</p><a class="button button-primary" href="../">Start {label.lower()}</a></div></section></main><script src="/quiz/assets/separate-result.js?v=1"></script></body>'''
     elif kind == "review":
-        body = f'''<body data-result-key="{key}">{breadcrumb(unit)}<main class="quiz-app"><h1>Review {label.lower()} answers</h1><div id="answerReviewList"></div><section id="emptyReview" class="card is-hidden"><p>No completed attempt was found.</p><a class="button button-primary" href="../">Start {label.lower()}</a></section><a class="button button-primary" href="../retake/">Retake {label.lower()}</a></main><script src="/quiz/assets/separate-review.js?v=1"></script></body>'''
+        body = f'''<body data-result-key="{key}">{breadcrumb(unit)}<main class="quiz-app"><p class="eyebrow">{esc(unit['code'])} • {label}</p><h1>Review {label.lower()} answers</h1><p>Compare each response with the correct answer and explanation, then revisit the topic guide or try the eight questions again.</p><section class="pre-read-notes"><h2>Unit focus</h2><ul>{quick_notes(unit)}</ul></section><div id="answerReviewList"></div><section id="emptyReview" class="card is-hidden"><p>No completed attempt was found. Complete the {label.lower()} to see every response, correct answer and explanation here.</p><a class="button button-primary" href="../">Start {label.lower()}</a></section><a class="button button-primary" href="../retake/">Retake {label.lower()}</a></main><script src="/quiz/assets/separate-review.js?v=2"></script></body>'''
     else:
-        body = f'''<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">Fresh attempt</p><h1>Retake {label.lower()}</h1><p>Try the same eight curriculum questions again in a newly shuffled answer order.</p><a class="button button-primary" href="../">Start {label.lower()}</a><a class="button button-secondary" href="{esc(unit['url'])}">Topic guide</a></section></main></body>'''
+        body = f'''<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">Fresh attempt • {esc(unit['code'])}</p><h1>Retake {label.lower()}: {esc(unit['title'])}</h1><p>Try the same eight curriculum questions again in a newly shuffled answer order. Use the focus points below to prepare before you restart.</p><section class="pre-read-notes"><h2>Before you restart</h2><ul>{quick_notes(unit)}</ul></section><a class="button button-primary" href="../">Start fresh {label.lower()}</a><a class="button button-secondary" href="{esc(unit['url'])}">Topic guide</a></section></main></body>'''
     body = body.replace("</body>", '<script src="/pwa-register.js"></script></body>')
-    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {label} {kind.title()}", f"{kind.title()} the {unit['code']} {label.lower()} activity.", path)}{body}</html>'''
+    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {label} {kind.title()}", f"{kind.title()} the {unit['code']} {label.lower()} activity.", path, robots="noindex, follow", ads=True)}{body}</html>'''
 
 
 def worksheet(unit: dict, bank_url: str) -> str:
@@ -136,7 +149,7 @@ def worksheet(unit: dict, bank_url: str) -> str:
 
 def activity_hub(unit: dict, path: str) -> str:
     subject = "Maths" if unit["learningArea"] == "Mathematics" else unit["learningArea"]
-    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {unit['title']} Activities", f"Open the topic guide, teacher slide, worksheet, Practice and Test for {unit['code']}.", path)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • {esc(unit['levelLabel'])} {esc(subject)}</p><h1>{esc(unit['title'])}</h1><p>Choose a learning activity. Worksheet, Practice and Test use the same eight-question unit bank.</p><div class="result-actions"><a class="button button-primary" href="{esc(unit['url'])}">Topic guide</a><a class="button button-secondary" href="{esc(unit['teacherSlideUrl'])}">Teacher slide</a><a class="button button-secondary" href="{esc(unit['worksheetUrl'])}">Worksheet</a><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Practice</a><a class="button button-secondary" href="{esc(unit['testUrl'])}">Test</a></div></section></main><script src="/pwa-register.js"></script></body></html>'''
+    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {unit['title']} Activities", f"Open the topic guide and access the teacher slide, worksheet, Practice and Test for {unit['code']}.", path, robots="noindex, follow", ads=True)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • {esc(unit['levelLabel'])} {esc(subject)}</p><h1>{esc(unit['title'])}</h1><p>{esc(unit['description'])}</p><p>Choose a learning activity. Worksheet, Practice and Test use the same eight-question unit bank.</p><section class="pre-read-notes"><h2>Unit focus</h2><ul>{quick_notes(unit)}</ul></section><div class="result-actions"><a class="button button-primary" href="{esc(unit['url'])}">Topic guide</a><a class="button button-secondary" href="{esc(unit['url'])}#teacher-slide">Teacher slide</a><a class="button button-secondary" href="{esc(unit['worksheetUrl'])}">Worksheet</a><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Practice</a><a class="button button-secondary" href="{esc(unit['testUrl'])}">Test</a></div></section></main><script src="/pwa-register.js"></script></body></html>'''
 
 
 def write_page(url: str, content: str) -> None:

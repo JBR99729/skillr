@@ -441,6 +441,7 @@ def unit_card(unit: dict[str, Any]) -> str:
   </div>
   <div class="unit-action-row">
     <a class="primary" href="{h(unit['url'])}">Read topic guide</a>
+    <a href="{h(unit['url'])}#teacher-slide">Teacher slide</a>
     <a href="{h(unit['url'])}#worksheet">Worksheets</a>
     <a href="{h(unit['url'])}#practice">Practice</a>
     <a href="{h(unit['url'])}#test">Test</a>
@@ -661,7 +662,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
     )
     action_links = [
         '<a class="primary" href="#topic-guide">Topic guide</a>',
-        f'<a href="{h(unit["teacherSlideUrl"])}">Teacher slide</a>',
+        '<a href="#teacher-slide">Teacher slide</a>',
     ]
     action_links.extend([
         f'<a href="{h(unit["worksheetUrl"])}">Worksheet</a>',
@@ -728,6 +729,13 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
         <p>Read the topic guide, use the teacher slide for instruction, then complete the Worksheet, Practice and Test. These three activities use the same eight-question unit bank.</p>
       </section>
 
+      <section class="curriculum-topic-section teacher-resource" id="teacher-slide">
+        <p class="curriculum-eyebrow">Teacher resource</p>
+        <h2>{h(unit['code'])} teacher slide</h2>
+        <p>Use this one-page PDF to introduce the key idea, vocabulary and teaching sequence before students begin the activities.</p>
+        <a class="curriculum-button primary" href="{h(unit['teacherSlideUrl'])}" target="_blank" rel="noopener">Open teacher slide (PDF)</a>
+      </section>
+
       <section class="curriculum-topic-section">
         <h2>Common mistakes to watch for</h2>
         <ul>{mistakes}</ul>
@@ -760,7 +768,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
         <h2>Quick links</h2>
         <div class="curriculum-link-row">
           <a class="curriculum-button primary" href="#topic-guide">Topic guide</a>
-          <a class="curriculum-button" href="{h(unit['teacherSlideUrl'])}">Teacher slide</a>
+          <a class="curriculum-button" href="#teacher-slide">Teacher slide</a>
           <a class="curriculum-button" href="/{h(unit['yearFolder'])}/curriculum/">All {h(label)} units</a>
         </div>
       </section>
