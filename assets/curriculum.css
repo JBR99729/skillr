@@ -162,7 +162,8 @@
 }
 
 .subject-tile {
-  display: block;
+  display: flex;
+  flex-direction: column;
   min-height: 180px;
   padding: 20px;
   border: 1px solid var(--skillr-line);
@@ -170,6 +171,11 @@
   background: linear-gradient(135deg, #ffffff 0%, #f4f8ff 100%);
   color: var(--skillr-ink);
   text-decoration: none;
+}
+
+.subject-tile .curriculum-button {
+  margin-top: auto;
+  align-self: flex-start;
 }
 
 .subject-tile:hover {
@@ -271,14 +277,7 @@
 }
 
 .curriculum-ad-slot {
-  min-height: 112px;
-  margin: 22px 0;
-  padding: 12px;
-  border: 1px dashed #bccce2;
-  border-radius: 18px;
-  background: #f9fbff;
-  color: var(--skillr-muted);
-  text-align: center;
+  display: none;
 }
 
 .curriculum-ad-slot.inline {
@@ -299,13 +298,21 @@
 }
 
 .floating-learning-links {
-  position: fixed;
-  right: 16px;
-  bottom: 16px;
-  z-index: 20;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
+  display: none;
+}
+
+.curriculum-live-badge {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: #e7f8f0;
+  color: var(--skillr-green);
+  font-size: 0.74rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .floating-learning-links a,

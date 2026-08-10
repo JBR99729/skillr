@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec python3 "$SCRIPT_DIR/generate_sitemap.py"
+
+: <<'LEGACY_GENERATOR'
+
 BASE_URL="${1:-https://skillrhub.com}"
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
@@ -199,3 +204,4 @@ HTML_FOOTER
 } > sitemap.html
 
 echo "Updated sitemap.xml and sitemap.html with ${#html_files[@]} URLs."
+LEGACY_GENERATOR

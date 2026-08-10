@@ -3024,6 +3024,31 @@ function renderImageDragState(
     markCurrentCycleSetComplete();
     updateCertificateAction(percentage);
 
+    if (config.resultUrl) {
+      const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
+      const resultData = {
+        quizTitle,
+        quizLabel: document.querySelector("#startScreen .eyebrow")?.textContent.trim() || "Quiz result",
+        studentName: getStudentName(),
+        score,
+        total,
+        percentage,
+        passed: percentage >= (Number(config.passingPercent) || 75),
+        answers: quizHistory,
+        attemptUrl: window.location.href,
+        reviewUrl: config.reviewUrl || "review/",
+        retakeUrl: config.retakeUrl || "retake/"
+      };
+
+      try {
+        sessionStorage.setItem(config.resultStorageKey || "skillrQuizResult", JSON.stringify(resultData));
+        window.location.href = config.resultUrl;
+        return;
+      } catch (error) {
+        console.error("Could not open the separate result page:", error);
+      }
+    }
+
     if (elements.bestScore) {
       elements.bestScore.textContent =
         String(newBest);
