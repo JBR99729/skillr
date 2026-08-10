@@ -7,14 +7,14 @@
    IMPORTANT
    - Direct jsPDF drawing only. No html2canvas/html2pdf capture.
    - Exactly one US Letter page.
-   - Creates a fresh 10-question worksheet from printable questions.
+   - Creates a worksheet using the page's configured question count.
    - Future practice/exam pages can provide a dedicated worksheet bank.
    - Replaces the PDF button node during setup so stale listeners
      from older worksheet-pdf.js versions cannot also fire.
    ========================================================= */
 
 (() => {
-  const VERSION = "16";
+  const VERSION = "17";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
@@ -407,7 +407,7 @@
     doc.setFontSize(8.4);
     setText(doc, TEXT);
     const note =
-      "Use this printable sheet for independent classroom or home practice. It contains 10 paper-friendly questions selected from the current SkillrHub question bank. Complete interactive-only activities online.";
+      `Use this printable sheet for independent classroom or home practice. It contains ${printableCount} paper-friendly questions from the same unit bank used in Practice and Test.`;
     const noteLines = wrap(doc, note, pageW - 2 * margin - 5.6).slice(0, 3);
     doc.text(noteLines, margin + 2.8, noteY + 8.8);
 
@@ -819,9 +819,6 @@
     // Critical: cloning removes event listeners attached by any old cached
     // worksheet-pdf.js. This prevents two generators firing from one click.
     const fresh = button.cloneNode(true);
-    if (/download\s+pdf\s+worksheet/i.test(fresh.textContent || "")) {
-      fresh.textContent = "Worksheet";
-    }
     fresh.dataset.pdfGenerator = `direct-v${VERSION}`;
     button.replaceWith(fresh);
     fresh.addEventListener("click", downloadWorksheet);

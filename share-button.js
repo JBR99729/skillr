@@ -59,20 +59,9 @@
     }
 
     function shouldShowInstallPrompt() {
-      if (getInstallDismissed() || isInstalledApp()) {
-        return false;
-      }
-
-      var referrer = document.referrer || '';
-      if (!referrer) {
-        return false;
-      }
-
-      try {
-        return new URL(referrer).origin !== window.location.origin;
-      } catch (error) {
-        return Boolean(referrer);
-      }
+      // pwa-register.js owns the single state-aware install/bookmark prompt.
+      // The share widget must never create a competing install control.
+      return false;
     }
 
     injectFallbackStyles();

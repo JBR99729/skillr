@@ -642,7 +642,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
 
     keyword_items = "".join(f"<li>{h(keyword)}</li>" for keyword in topic_keywords(unit))
     coverage_items = "".join(
-        f"<li><strong>{h(item.get('number') or item.get('label') or item.get('code'))}:</strong> {h(item['text'])}{'' if item.get('questionEligible') else ' <em>(not used for generated questions)</em>'}</li>"
+        f"<li><strong>{h(item.get('number') or item.get('label') or item.get('code'))}:</strong> {h(item['text'])}{'' if item.get('questionEligible') else ' <em>(teaching context)</em>'}</li>"
         for item in unit["questionCoverage"]
     )
     steps = "".join(f"<li>{h(step)}</li>" for step in learning_steps(unit))
@@ -663,12 +663,11 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
         '<a class="primary" href="#topic-guide">Topic guide</a>',
         f'<a href="{h(unit["teacherSlideUrl"])}">Teacher slide</a>',
     ]
-    if unit["code"] == "AC9M1N01":
-        action_links.extend([
-            f'<a href="{h(unit["worksheetUrl"])}">Worksheet</a>',
-            f'<a href="{h(unit["practiceUrl"])}">Practice</a>',
-            f'<a href="{h(unit["testUrl"])}">Test</a>',
-        ])
+    action_links.extend([
+        f'<a href="{h(unit["worksheetUrl"])}">Worksheet</a>',
+        f'<a href="{h(unit["practiceUrl"])}">Practice</a>',
+        f'<a href="{h(unit["testUrl"])}">Test</a>',
+    ])
     topic_actions = "".join(action_links)
 
     vertical_links = []
@@ -720,13 +719,13 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
 
       <section class="curriculum-topic-section">
         <h2>Curriculum coverage and elaborations</h2>
-        <p>Question banks for this unit should draw from the content description and the eligible elaborations below. First Nations-specific notes are kept out of generated question coverage unless they are part of the core concept.</p>
+        <p>The content description and elaborations below show the curriculum ideas taught in this unit. Items marked as teaching context support lesson planning but may not appear in the initial eight-question activity.</p>
         <ul>{coverage_items}</ul>
       </section>
 
       <section class="curriculum-topic-section">
         <h2>How to use this unit</h2>
-        <p>Read the topic guide, download the teacher slide for instruction, complete the printable worksheet, then use Practice and Test when the unit's checked 8-question bank is available.</p>
+        <p>Read the topic guide, use the teacher slide for instruction, then complete the Worksheet, Practice and Test. These three activities use the same eight-question unit bank.</p>
       </section>
 
       <section class="curriculum-topic-section">
@@ -803,7 +802,9 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
 
 def build_pages(ctx: BuildContext, level: str) -> None:
     year_units = [unit for unit in ctx.units if unit["level"] == level]
-    generate_landing_page(ctx, level)
+    # Year gateways and subject hubs are generated site-wide by
+    # scripts/build_year_curriculum_hubs.py so this per-year build cannot
+    # accidentally restore the retired long pilot landing page.
     for unit in year_units:
         generate_topic_page(ctx, unit, year_units)
 

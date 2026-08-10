@@ -229,6 +229,7 @@
 }
 
 .unit-action-row a {
+  flex: 1 1 110px;
   min-height: 34px;
   padding: 7px 10px;
   font-size: 0.9rem;
