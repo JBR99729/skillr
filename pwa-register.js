@@ -202,7 +202,9 @@
 
   async function runPrimaryAction(action) {
     if (action !== "install") {
-      setDismissed();
+      // "Done" / "I added it" means the save step is complete.
+      // Keep the prompt permanently quiet on this browser.
+      setAccepted();
       return;
     }
 
@@ -234,11 +236,6 @@
     }
 
     if (shouldRespectCooldown()) {
-      openIntentTarget(intentUrl, intentTarget);
-      return;
-    }
-
-    if (!deferredInstallPrompt && !isIosSafari() && getVisitCount() < 2) {
       openIntentTarget(intentUrl, intentTarget);
       return;
     }

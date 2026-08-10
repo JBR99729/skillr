@@ -959,6 +959,35 @@ h3 {
   line-height: 1.5;
 }
 
+#answerReviewList .review-item h2 {
+  margin: 0 0 8px;
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  line-height: 1.35;
+}
+
+#answerReviewList .review-item p {
+  font-size: 0.96rem;
+}
+
+.pre-read-notes {
+  margin: 20px 0;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #f7faff;
+  text-align: left;
+}
+
+.pre-read-notes h2 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+.pre-read-notes ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
 .review-status {
   font-weight: 800;
 }

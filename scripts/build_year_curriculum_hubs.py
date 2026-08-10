@@ -44,7 +44,7 @@ def action_links(unit: dict) -> str:
     topic = unit["url"]
     if live:
         teacher = "/worksheets/year1/maths/year-1-numbers-to-120/ac9m1n01-teacher-slide.pdf"
-        worksheet = "/worksheets/year1/maths/year-1-numbers-to-120/year-1-numbers-to-120-worksheets-ac9m1n01.pdf"
+        worksheet = "/quiz/year-1/math/ac9m1n01/worksheet/"
         practice = "/quiz/year-1/math/ac9m1n01/practice/"
         test = "/quiz/year-1/math/ac9m1n01/test/"
         return f'''<div class="unit-action-row"><a class="primary" href="{topic}">Topic guide</a><a href="{teacher}">Teacher slide</a><a href="{worksheet}">Worksheet</a><a href="{practice}">Practice</a><a href="{test}">Test</a></div>'''

@@ -1471,6 +1471,28 @@ footer {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.home-page .skillr-share-btn {
+    right: 20px;
+    bottom: 20px;
+    width: auto;
+    height: 46px;
+    padding: 0 17px;
+    gap: 8px;
+    border: 1px solid #b9cdf8;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #1a3a72 0%, #2457d6 100%);
+    box-shadow: 0 10px 24px rgba(26, 58, 114, 0.22);
+    font-weight: 800;
+}
+
+.home-page .skillr-copy-btn,
+.home-page .skillr-ig-btn,
+.home-page .skillr-fb-btn,
+.home-page .skillr-install-btn,
+.home-page .skillr-install-help {
+    display: none !important;
+}
+
 .skillr-share-btn:focus-visible {
     outline: 4px solid rgba(37, 211, 102, 0.28);
     outline-offset: 4px;

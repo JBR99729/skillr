@@ -20,7 +20,10 @@
 
   const BRAND = "SkillrHub";
   const WEBSITE = "www.skillrhub.com";
-  const WORKSHEET_LIMIT = 10;
+  const WORKSHEET_LIMIT = Math.max(
+    1,
+    Number(window.quizConfig?.worksheetQuestionLimit) || 10
+  );
   const PAPER_FRIENDLY_TYPES = new Set([
     "single",
     "true-false",

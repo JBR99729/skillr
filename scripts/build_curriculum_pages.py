@@ -219,7 +219,11 @@ def quiz_url(unit: dict[str, Any], mode: str) -> str:
 
 
 def worksheet_url(unit: dict[str, Any]) -> str:
-    return f"/worksheets/{unit['yearFolder']}/{unit['subjectSlug']}/{unit['code'].lower()}-worksheet.pdf"
+    return f"/quiz/{unit['quizYearSegment']}/{unit['quizSubjectSlug']}/{unit['code'].lower()}/worksheet/"
+
+
+def teacher_slide_url(unit: dict[str, Any]) -> str:
+    return f"/worksheets/{unit['yearFolder']}/{unit['subjectSlug']}/teacher-slides/{unit['code'].lower()}-teacher-slide.pdf"
 
 
 def build_manifest(workbook: Path, repo_root: Path) -> list[dict[str, Any]]:
@@ -319,6 +323,7 @@ def build_manifest(workbook: Path, repo_root: Path) -> list[dict[str, Any]]:
         unit["practiceUrl"] = quiz_url(unit, "practice")
         unit["testUrl"] = quiz_url(unit, "test")
         unit["worksheetUrl"] = worksheet_url(unit)
+        unit["teacherSlideUrl"] = teacher_slide_url(unit)
         unit["questionCoverage"] = [
             {"code": unit["code"], "label": "Content description", "text": unit["description"], "questionEligible": unit["questionEligible"]},
             *unit["elaborations"],
@@ -363,7 +368,7 @@ def page_head(title: str, description: str, canonical_path: str, schema: dict[st
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/assets/curriculum.css?v=1">
+  <link rel="stylesheet" href="/assets/curriculum.css?v=2">
   <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -654,6 +659,17 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
         f"<li><a href='{h(item['url'])}'>{h(item['code'])}: {h(item['title'])}</a></li>"
         for item in related_same_subject[:8]
     )
+    action_links = [
+        '<a class="primary" href="#topic-guide">Topic guide</a>',
+        f'<a href="{h(unit["teacherSlideUrl"])}">Teacher slide</a>',
+    ]
+    if unit["code"] == "AC9M1N01":
+        action_links.extend([
+            f'<a href="{h(unit["worksheetUrl"])}">Worksheet</a>',
+            f'<a href="{h(unit["practiceUrl"])}">Practice</a>',
+            f'<a href="{h(unit["testUrl"])}">Test</a>',
+        ])
+    topic_actions = "".join(action_links)
 
     vertical_links = []
     if unit["yearNumber"] > 0:
@@ -689,16 +705,14 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
     <h1>{h(unit['title'])}: {h(label)} {h(subject_label)} topic guide</h1>
     <p class="curriculum-hero__lead">{h(unit['description'])}</p>
     <div class="topic-action-row">
-      <a class="primary" href="#practice">Practice</a>
-      <a href="#test">Test</a>
-      <a href="#worksheet">Worksheets</a>
-      <button class="report-issue-button" type="button" data-report-issue>Report issue</button>
+      {topic_actions}
     </div>
+    <button class="report-issue-button" type="button" data-report-issue>Report issue</button>
   </header>
 
   <main class="curriculum-layout">
     <div>
-      <section class="curriculum-topic-section">
+      <section class="curriculum-topic-section" id="topic-guide">
         <h2>What students learn in {h(unit['code'])}</h2>
         <p>This unit helps students build a clear, usable understanding of <strong>{h(unit['title'])}</strong>. The goal is not to memorise one answer pattern. Students should be able to explain the idea, recognise it in a new example and apply it in a short practice or worksheet task.</p>
         <ul class="curriculum-check-list">{steps}</ul>
@@ -710,33 +724,14 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
         <ul>{coverage_items}</ul>
       </section>
 
-      <section class="curriculum-topic-section" id="practice">
-        <h2>How to practise this topic</h2>
-        <p>Use the topic guide first, then the worksheet, then practice, and finally the test. Practice sets are planned as 56 unique questions split into 7 sets of 8. Tests are planned as 24 unique questions, with 8 pulled per sitting. A 75% result is the intended pass mark.</p>
-        <p>Complex multi-step work can be provided as downloadable notes or printable PDF tasks so students can solve with pen and paper instead of using complicated browser controls.</p>
+      <section class="curriculum-topic-section">
+        <h2>How to use this unit</h2>
+        <p>Read the topic guide, download the teacher slide for instruction, complete the printable worksheet, then use Practice and Test when the unit's checked 8-question bank is available.</p>
       </section>
-
-      <section class="curriculum-topic-section" id="worksheet">
-        <h2>Worksheet plan</h2>
-        <p>The worksheet for {h(unit['code'])} should contain 10 clean printable questions, show the skill code, and keep the same SkillrHub branding, website address and watermark standard as the existing worksheet PDF output.</p>
-      </section>
-
-      <section class="curriculum-topic-section" id="test">
-        <h2>Test plan and certificate rule</h2>
-        <p>The test version should ask for the student name before starting, draw 8 questions from a 24-question test bank, shuffle answer options, avoid repeats until the set is complete and use a 75% pass mark. A completion certificate should only be offered when the score is 75% or above.</p>
-      </section>
-
-      {ad_slot("inline")}
 
       <section class="curriculum-topic-section">
         <h2>Common mistakes to watch for</h2>
         <ul>{mistakes}</ul>
-      </section>
-
-      <section class="curriculum-topic-section">
-        <h2>SEO keywords and search phrases</h2>
-        <p>These phrases describe what this page covers for families, teachers and search engines.</p>
-        <ul class="curriculum-keyword-list">{keyword_items}</ul>
       </section>
 
       <section class="curriculum-topic-section">
@@ -765,13 +760,11 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
       <section class="curriculum-panel">
         <h2>Quick links</h2>
         <div class="curriculum-link-row">
-          <a class="curriculum-button primary" href="#practice">Practice</a>
-          <a class="curriculum-button" href="#test">Test</a>
-          <a class="curriculum-button" href="#worksheet">Worksheet</a>
+          <a class="curriculum-button primary" href="#topic-guide">Topic guide</a>
+          <a class="curriculum-button" href="{h(unit['teacherSlideUrl'])}">Teacher slide</a>
           <a class="curriculum-button" href="/{h(unit['yearFolder'])}/curriculum/">All {h(label)} units</a>
         </div>
       </section>
-      {ad_slot("sidebar")}
       <section class="curriculum-panel">
         <h2>Learning path</h2>
         <div class="curriculum-link-row">{''.join(vertical_links)}</div>
@@ -779,13 +772,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
     </aside>
   </main>
 
-  <div class="floating-learning-links">
-    <a href="#practice">Practice</a>
-    <a href="#worksheet">Worksheet</a>
-    <button class="report-issue-button" type="button" data-report-issue>Report issue</button>
-  </div>
-
-  <p class="curriculum-footer-meta">Last reviewed: 10 August 2026. Feedback: <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a>.</p>
+  <p class="curriculum-footer-meta">Feedback: <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a>.</p>
 </div>
 <script>
   window.skillrPageMeta = {{
@@ -843,12 +830,14 @@ def main() -> None:
             "siteOrigin": SITE_ORIGIN,
             "analytics": {"googleAnalyticsId": GA_ID, "adsenseClient": ADSENSE_CLIENT},
             "questionBankStandard": {
-                "practiceQuestionsPerUnit": 56,
-                "testQuestionsPerUnit": 24,
+                "practiceQuestionsPerUnit": 8,
+                "testQuestionsPerUnit": 8,
                 "questionsPerAttempt": 8,
-                "worksheetQuestions": 10,
+                "worksheetQuestions": 8,
                 "passingPercent": 75,
-                "preReadSeconds": 60,
+                "preReadSeconds": 0,
+                "preReadRequired": True,
+                "preReadElements": ["learning summary", "key vocabulary", "common trap"],
                 "complexTasks": "Prefer printable PDF/worksheet tasks for multi-step or hard-to-model interactions.",
             },
             "units": units,
