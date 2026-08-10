@@ -1,7 +1,7 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT PDF v14
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v15
    File path: /quiz/assets/worksheet-pdf.js
 
    IMPORTANT
@@ -13,7 +13,7 @@
    ========================================================= */
 
 (() => {
-  const VERSION = "14";
+  const VERSION = "15";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
@@ -36,16 +36,19 @@
   const NOTE_FILL = [246, 248, 255];
   const NOTE_BORDER = [205, 217, 246];
 
+  // Keep every minus/dash passed to jsPDF inside Helvetica's safe ASCII set.
+  // The first two patterns also repair common UTF-8 mojibake forms of U+2212.
+  const MOJIBAKE_MINUS = /\u00E2(?:\u02C6\u2019|\u0088\u0092)/g;
+  const MINUS_OR_DASH = /[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]/g;
+
   const $ = (selector, root = document) => root.querySelector(selector);
 
   function normaliseText(value) {
     return String(value ?? "")
+      .replace(MOJIBAKE_MINUS, "-")
+      .replace(MINUS_OR_DASH, "-")
       .replace(/[\u2018\u2019]/g, "'")
       .replace(/[\u201C\u201D]/g, '"')
-      // jsPDF's built-in Helvetica font does not reliably render
-      // the Unicode mathematical minus sign (U+2212). Convert all
-      // common dash/minus variants to the ASCII hyphen-minus.
-      .replace(/[\u2010\u2011\u2012\u2013\u2014\u2212\uFE63\uFF0D]/g, "-")
       .replace(/\u2026/g, "...")
       .replace(/\u00A0/g, " ")
       .trim();
@@ -633,7 +636,7 @@
     try {
       await createPdf(questions);
     } catch (error) {
-      console.error("SkillrHub direct PDF v13 failed:", error);
+      console.error(`SkillrHub direct PDF v${VERSION} failed:`, error);
       alert("The PDF could not be created. Please refresh the page and try again.");
     } finally {
       if (button) {
