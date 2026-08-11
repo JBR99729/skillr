@@ -2278,3 +2278,226 @@ footer {
         margin-top: 32px;
     }
 }
+
+
+/* Stage-based daily practice curriculum matrix */
+
+.curriculum-stage-list {
+    display: grid;
+    gap: 24px;
+    margin-top: 8px;
+}
+
+.curriculum-stage {
+    overflow: hidden;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    background: #f8fafc;
+}
+
+.curriculum-stage__header {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    padding: 16px 24px;
+    background: #0f172a;
+    color: #f8fafc;
+}
+
+.curriculum-stage__header h3,
+.curriculum-stage__header p {
+    margin: 0;
+}
+
+.curriculum-stage__header h3 {
+    color: inherit;
+    font-size: 1.1rem;
+}
+
+.curriculum-stage__header p {
+    color: #cbd5e1;
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+
+.curriculum-year-row {
+    display: grid;
+    grid-template-columns: minmax(136px, 0.55fr) minmax(0, 3fr);
+    gap: 16px;
+    align-items: center;
+    padding: 16px 24px;
+    border-top: 1px solid #e2e8f0;
+    background: #fff;
+}
+
+.curriculum-year-row__year {
+    display: grid;
+    gap: 8px;
+    align-content: center;
+}
+
+.curriculum-year-row__title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #0f172a;
+    text-decoration: none;
+}
+
+.curriculum-year-row__mark {
+    display: grid;
+    width: 40px;
+    height: 40px;
+    flex: 0 0 40px;
+    place-items: center;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #0f172a;
+    font-weight: 900;
+}
+
+.curriculum-year-row__drill {
+    width: fit-content;
+    margin-left: 48px;
+    color: #475569;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.curriculum-year-row__subjects {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+}
+
+.curriculum-subject-card {
+    display: flex;
+    min-width: 0;
+    min-height: 72px;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    border: 1px solid #cbd5e1;
+    border-left-width: 4px;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #0f172a;
+    text-decoration: none;
+}
+
+.curriculum-subject-card--mathematics {
+    border-left-color: #2563eb;
+}
+
+.curriculum-subject-card--science {
+    border-left-color: #059669;
+}
+
+.curriculum-subject-card--english {
+    border-left-color: #7c3aed;
+}
+
+.curriculum-subject-card__icon {
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.curriculum-subject-card strong,
+.curriculum-subject-card small {
+    display: block;
+}
+
+.curriculum-subject-card strong {
+    font-size: 0.875rem;
+    line-height: 1.3;
+}
+
+.curriculum-subject-card small {
+    margin-top: 4px;
+    color: #475569;
+    font-size: 0.75rem;
+    line-height: 1.2;
+}
+
+.curriculum-subject-card.is-unavailable,
+.curriculum-year-row.is-unavailable {
+    color: #64748b;
+}
+
+.curriculum-subject-card.is-unavailable {
+    border-left-color: #94a3b8;
+    background: #f1f5f9;
+}
+
+.curriculum-year-row__status {
+    margin-left: 48px;
+    color: #64748b;
+    font-size: 0.75rem;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    a.curriculum-subject-card:hover,
+    a.curriculum-subject-card:focus-visible {
+        border-color: currentColor;
+        background: #fff;
+        box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+        transform: none;
+    }
+
+    .curriculum-year-row__title:hover,
+    .curriculum-year-row__drill:hover {
+        color: #2563eb;
+        text-decoration: underline;
+        transform: none;
+    }
+}
+
+@media (max-width: 760px) {
+    .curriculum-stage__header,
+    .curriculum-year-row {
+        padding: 16px;
+    }
+
+    .curriculum-year-row {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .curriculum-year-row__year {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+    }
+
+    .curriculum-year-row__drill,
+    .curriculum-year-row__status {
+        margin-left: 0;
+    }
+
+    .curriculum-year-row__subjects {
+        gap: 8px;
+    }
+
+    .curriculum-subject-card {
+        min-height: 88px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+        padding: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .curriculum-year-row__subjects {
+        grid-template-columns: 1fr;
+    }
+
+    .curriculum-subject-card {
+        min-height: 64px;
+        flex-direction: row;
+        align-items: center;
+    }
+}
