@@ -1090,29 +1090,35 @@ textarea {
     align-items: stretch;
 }
 
-.learning-stage-list {
+.home-feature-strip {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 7px 14px;
+    align-items: center;
     margin: 8px 0 12px;
+    padding: 10px 12px;
+    border: 1px solid #dbe5f2;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #334155;
+    font-size: 0.78rem;
+    line-height: 1.3;
 }
 
-.learning-stage-list__item {
-    display: inline-flex;
-    align-items: baseline;
-    padding: 0 0 3px;
-    border-bottom: 2px solid #d6e2f3;
-    color: #24446f;
+.home-feature-strip strong {
+    color: #102a56;
     font-size: 0.82rem;
-    font-weight: 800;
-    line-height: 1.2;
-    white-space: nowrap;
+}
+
+.home-feature-strip span {
+    color: #475569;
+    font-weight: 700;
 }
 
 .year-learning-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 7px;
+    gap: 8px;
     margin-top: 2px;
 }
 
@@ -1121,73 +1127,53 @@ textarea {
     display: flex;
     flex-direction: column;
     min-width: 0;
-    padding: 8px 9px;
+    padding: 9px;
     border: 1px solid #dbe5f2;
-    border-radius: 8px;
-    background: rgba(255, 255, 255, 0.94);
-    box-shadow: 0 3px 10px rgba(15, 23, 42, 0.04);
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: none;
 }
 
 .year-learning-card--available {
     --year-card-accent: #2457d6;
     --year-card-hover: #1d4ed8;
-    --year-card-start: #ffffff;
-    --year-card-end: #eef4ff;
-    border-left: 3px solid var(--year-card-accent);
-    background: linear-gradient(145deg, var(--year-card-start) 0%, var(--year-card-end) 100%);
-    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.06);
+    border-top: 2px solid var(--year-card-accent);
 }
 
 .year-learning-card--available:nth-child(3n + 2) {
     --year-card-accent: #0f766e;
     --year-card-hover: #115e59;
-    --year-card-start: #f8fffd;
-    --year-card-end: #dff8f3;
 }
 
 .year-learning-card--available:nth-child(3n + 3) {
     --year-card-accent: #7c3aed;
     --year-card-hover: #6d28d9;
-    --year-card-start: #fdfbff;
-    --year-card-end: #eee7ff;
 }
 
 .year-learning-card--available:nth-child(3n + 1) {
-    --year-card-accent: #c2410c;
-    --year-card-hover: #9a3412;
-    --year-card-start: #fffdf9;
-    --year-card-end: #ffedd5;
-}
-
-.year-learning-card--why {
-    --year-card-accent: #102a56;
-    --year-card-hover: #102a56;
-    border-left: 3px solid #102a56;
-    background: #f8fafc;
-}
-
-.year-learning-card--why .year-learning-card__mark {
-    background: #102a56;
+    --year-card-accent: #2457d6;
+    --year-card-hover: #1d4ed8;
 }
 
 .year-learning-card__title-link {
     display: grid;
     grid-template-columns: auto minmax(0, 1fr);
-    gap: 7px;
-    align-items: start;
+    gap: 8px;
+    align-items: center;
     color: #173766;
     text-decoration: none;
 }
 
 .year-learning-card__mark {
     display: inline-grid;
-    width: 30px;
-    height: 30px;
+    width: 34px;
+    height: 34px;
     place-items: center;
-    border-radius: 7px;
-    background: var(--year-card-accent, #2457d6);
-    color: #fff;
-    font-size: 0.95rem;
+    border: 1px solid #d7e2f0;
+    border-radius: 6px;
+    background: #f8fafc;
+    color: var(--year-card-accent, #2457d6);
+    font-size: 1rem;
     font-weight: 900;
     line-height: 1;
 }
@@ -1195,25 +1181,20 @@ textarea {
 .year-learning-card__title-link strong {
     display: block;
     color: #102a56;
-    font-size: 0.92rem;
+    font-size: 0.95rem;
     line-height: 1.15;
 }
 
 .year-learning-card__title-link small {
-    display: block;
-    margin-top: 2px;
-    color: #586a82;
-    font-size: 0.69rem;
-    font-weight: 600;
-    line-height: 1.25;
+    display: none;
 }
 
 .year-learning-card__subjects {
     display: flex;
     flex-wrap: wrap;
-    gap: 3px 7px;
-    margin: 7px 0 0;
-    font-size: 0.72rem;
+    gap: 3px 9px;
+    margin: 8px 0 0 42px;
+    font-size: 0.73rem;
     font-weight: 800;
     line-height: 1.2;
 }
@@ -1234,38 +1215,11 @@ textarea {
 .year-learning-card__drill {
     display: inline-flex;
     align-self: flex-start;
-    margin-top: 5px;
+    margin: 5px 0 0 42px;
     color: #334155;
     font-size: 0.72rem;
     font-weight: 800;
     text-decoration: none;
-}
-
-.year-learning-card__points {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 3px 7px;
-    margin: 7px 0 0;
-    padding: 0;
-    list-style: none;
-    color: #334155;
-    font-size: 0.69rem;
-    font-weight: 800;
-    line-height: 1.2;
-}
-
-.year-learning-card__points li {
-    min-width: 0;
-}
-
-.year-learning-card__points li::before {
-    content: "";
-    display: inline-block;
-    width: 4px;
-    height: 4px;
-    margin: 0 5px 2px 0;
-    border-radius: 50%;
-    background: #102a56;
 }
 
 .resource-quickstart + .resource-quickstart .resource-quickstart__text {
