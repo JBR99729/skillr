@@ -1530,8 +1530,8 @@ footer {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     border: 2px solid #dce7f2;
     border-radius: 50%;
     background: #fff;
@@ -2051,17 +2051,18 @@ footer {
 .home-hero {
     display: grid;
     grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr);
-    gap: 48px;
-    min-height: 392px;
-    padding: 56px;
+    gap: 24px;
+    min-height: 196px;
+    padding: 28px;
     align-items: center;
+    border: 1px solid #c7d2fe;
     border-radius: 16px;
-    background: var(--slate-950);
+    background: #eef2ff;
 }
 
 .home-hero__eyebrow {
-    margin: 0 0 16px;
-    color: #93c5fd;
+    margin: 0 0 8px;
+    color: #4338ca;
     font-size: 0.75rem;
     font-weight: 800;
     line-height: 1.5;
@@ -2072,25 +2073,25 @@ footer {
 .home-hero h1 {
     max-width: 680px;
     margin: 0;
-    color: #fff;
-    font-size: clamp(2.25rem, 5vw, 4rem);
+    color: var(--slate-950);
+    font-size: clamp(1.75rem, 3.2vw, 2.75rem);
     line-height: 1.08;
     letter-spacing: -0.035em;
 }
 
 .home-hero__description {
     max-width: 640px;
-    margin: 24px 0 0;
-    color: #cbd5e1;
-    font-size: 1.0625rem;
-    line-height: 1.7;
+    margin: 12px 0 0;
+    color: var(--slate-700);
+    font-size: 0.9375rem;
+    line-height: 1.55;
 }
 
 .home-hero__action {
     display: inline-flex;
-    min-height: 48px;
-    margin-top: 32px;
-    padding: 12px 20px;
+    min-height: 40px;
+    margin-top: 16px;
+    padding: 9px 16px;
     align-items: center;
     justify-content: center;
     border-radius: 8px;
@@ -2107,22 +2108,22 @@ footer {
 
 .home-subjects {
     display: grid;
-    gap: 16px;
+    gap: 8px;
 }
 
 .home-subject-card {
     --subject-color: var(--maths);
     display: grid;
-    grid-template-columns: 48px minmax(0, 1fr);
-    gap: 16px;
-    min-height: 96px;
-    padding: 16px;
+    grid-template-columns: 40px minmax(0, 1fr);
+    gap: 12px;
+    min-height: 64px;
+    padding: 10px 12px;
     align-items: center;
-    border: 1px solid #334155;
+    border: 1px solid #cbd5e1;
     border-left: 4px solid var(--subject-color);
     border-radius: 8px;
-    background: #1e293b;
-    color: #fff;
+    background: #fff;
+    color: var(--slate-950);
     text-decoration: none;
 }
 
@@ -2135,15 +2136,15 @@ footer {
 }
 
 .home-subject-card:hover {
-    border-color: #64748b;
+    border-color: #94a3b8;
     border-left-color: var(--subject-color);
-    background: #273449;
+    background: #f8fafc;
 }
 
 .home-subject-card__mark {
     display: grid;
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     place-items: center;
     border-radius: 8px;
     background: var(--subject-color);
@@ -2164,8 +2165,8 @@ footer {
 
 .home-subject-card small {
     margin-top: 4px;
-    color: #cbd5e1;
-    font-size: 0.8125rem;
+    color: var(--slate-600);
+    font-size: 0.75rem;
     line-height: 1.45;
 }
 
@@ -2200,9 +2201,9 @@ footer {
 
     .home-hero {
         grid-template-columns: 1fr;
-        gap: 32px;
+        gap: 20px;
         min-height: 0;
-        padding: 40px 32px;
+        padding: 24px;
     }
 
     .home-subjects {
@@ -2211,7 +2212,7 @@ footer {
 
     .home-subject-card {
         grid-template-columns: 1fr;
-        min-height: 168px;
+        min-height: 120px;
         align-content: start;
     }
 }
@@ -2248,13 +2249,13 @@ footer {
     }
 
     .home-hero {
-        gap: 32px;
-        padding: 32px 24px;
+        gap: 16px;
+        padding: 20px;
         border-radius: 12px;
     }
 
     .home-hero h1 {
-        font-size: clamp(2rem, 10vw, 2.75rem);
+        font-size: clamp(1.625rem, 8vw, 2.125rem);
     }
 
     .home-hero__description {
@@ -2270,8 +2271,8 @@ footer {
     }
 
     .home-subject-card {
-        grid-template-columns: 48px minmax(0, 1fr);
-        min-height: 96px;
+        grid-template-columns: 40px minmax(0, 1fr);
+        min-height: 64px;
     }
 
     .home-page .resource-quickstart {
