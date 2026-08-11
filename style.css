@@ -2369,7 +2369,7 @@ footer {
 .curriculum-year-row__subjects {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
+    gap: 8px;
 }
 
 .curriculum-subject-card {
@@ -2457,19 +2457,19 @@ footer {
 @media (max-width: 760px) {
     .curriculum-stage__header,
     .curriculum-year-row {
-        padding: 16px;
+        padding: 8px 12px;
     }
 
     .curriculum-year-row {
         grid-template-columns: 1fr;
-        gap: 12px;
+        gap: 8px;
     }
 
     .curriculum-year-row__year {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 16px;
+        gap: 8px;
     }
 
     .curriculum-year-row__drill,
@@ -2482,11 +2482,9 @@ footer {
     }
 
     .curriculum-subject-card {
-        min-height: 88px;
-        flex-direction: column;
-        align-items: flex-start;
+        min-height: 48px;
         gap: 8px;
-        padding: 12px;
+        padding: 8px;
     }
 }
 
