@@ -3115,6 +3115,21 @@ function renderImageDragState(
         completedAt: new Date().toISOString()
     };
 
+    try {
+      document.dispatchEvent(
+        new CustomEvent("skillr:quiz-complete", {
+          detail: {
+            questionIds: activeQuestions.map(getQuestionIdentity),
+            score,
+            total,
+            percentage
+          }
+        })
+      );
+    } catch (error) {
+      console.error("Could not record the completed question round:", error);
+    }
+
     const dailyMeta = window.skillrDailyDrillMeta;
     const isDailyDrill = Boolean(dailyMeta) || window.location.pathname.includes("/daily-drills/");
     const progressAttempt = {
