@@ -22,7 +22,10 @@ endobj
 /Resources <<
 /ExtGState <<
 /gRLs0 <<
-/ca 0.05
+/ca 0.18
+>>
+/gRLs1 <<
+/ca 1
 >>
 >>
 /Font 5 0 R
@@ -37,45 +40,46 @@ endobj
 4 0 obj
 <<
 /Filter [ /ASCII85Decode /ASCII85Decode /FlateDecode ]
-/Length 3619
+/Length 3672
 >>
 stream
-7q$L>2*!QSCe,ou.W[ae3B:hT,]I?_85_]A;aG,7@k1M+D/+2[:M`<t?;;hO<['t;?<V>?=@FT!,;;8/1K>Vf5?MGS96!=44sEg0
-4#9K979=#6;dD:A?V>2]D,,"O4)IYsCf"_:4)o+F4_$rU7ji"@:M4]J904eB7klbhE'l*#4&f9]/S]Da-Tu#h5U.jc79WYYCM$@Y
-1F4tLBH^Me@5DmL-?;^K5Yc?A5\DMs85F7NB/`[i,X4jb054B`,]Z!qF)"BY@8JRI2JZ57C*bu^1FtJ!0/n#H/kSiFE&9UC-W+#c
-F!X[0<A#XD=$UA)C2J'6.VMOkEH?1E>UD$GAl:KZ:+U3o4&n7&<GP)O756Z1Dd>A!BNQcS0f(:`0i^Iu5:98a3?fbj=sl!\,'>su
-:bsIr@T5j*FY@Mt91M/r@U3GT@8]<j/7(Xd4C*"XEFW3fD(@VZ85:lu?WJjI>>Zh?@qm/A0J%6Z<\RiOAPR)W92miK0i^7l4ut;^
-E`u+X@n]$V0Ks),4XF390l'We?u&A.@SJpA;b'#?5#b!_E@NJ'2d9m2Ea1Rn12LlM5%.`.4@!J!3E0WYCd9^=B5^g9@oajW<*=<*
-8Qo1F95dg15uKd2>@'WX>?"%*F"&Rq-"fPb<)Gk5:c;B.0MHOm8i\kM80_S^:*D;F?ZS%J:1PYg7jCkT,U[AK1-%X/.W/L%,:6Vh
-+t$<+A63#45&a.b2etrq/kdd.D`gfeFAPP)/gEe4+Z<4T2Hja9<(UU^>;pR^69@=`;(YIN,&:^;ECjAG;CkC/73X9K1c\*!<B"A6
-3b:!+-spsm.qU=k,&VNl-Sf9eCa)&V6>IcME^aRo8Rau!-ULiiCb%Im1IX]ICc*M05@SM-7nYd=:HE;DBkMB/.46976XW/p,qrXh
-,pZ#><$Q?_:c2]b<+\U97jp#e=_Ks!E*lU6?pQ2>3DN!g5?Cg#9jg8$03D($D^[)>@<G78@Os3(E*Hg=@q%Pq8k_u`8iLBE7o(mP
-=X%-#7o;<8D,j;:9KsaS0Lp(/=tq]k-7;,F<Br,f/8n`;2afMI2-Ed1,[W]U,sj(,.oJA_1/'Z!-pfI20J.)e,?@2u0dUie;G_75
-01&9;,ZJ)a=BI:N=\Ncn0O$mi-V5[@>q.<bB.%IU,tK7V4#^hI<c03R5%J25FCHOM3BD:b='fl*05Ng+:E_5a.<QkW,ree:/iYaK
-2E=96/mp(n+]KsO@R*gK>@]U63G)>_0.q3)6nD83=B%13?XReL94pIN,Z%hpD)rhR/grP$-8\D97Nj<b<b+Zn+uCuQ4)85)F>If(
-C2csW:Gm,\3`ILXBg-N:-XJ6=0LdQuANXX2<[U4U3d!)Y?W8CTECa#/4![C(.PGgZ3+lJT>9RH%>'3kHE^1pWF`D@eBk11`AN<mC
-0kX0/9f6rGANF<N=<g-s>>dLd2`rc[D)H5h.:P>S.lq0!DGNK/5U9&T+]2K*<FI[E9Plj>1hpT96!u3@<$`r2F"]1:7m([/B/1fR
-Bgt`u?u@bY+Z)nf,'@m9E`H4=;H.0c:dm'*67Z#"?S?7m->6=]=(rmD0g0Dd-Vl-u4@j$J2Bj_J8jbs>,UP>u/2V*2FB^IDAg18-
-;'fU23,V8R,;1r+73tMM:F]FI5VkD`Ca:fT1F=JK4@s0B@RMVSAN)kY81Gl[3BJN64XDgiE+3Hs1N5fK:b$KC/L=#1+_t(4Da.`L
--t+AYD+RMO,>01/=@?LF92I;i2bd%9:K]/1<FJra8MOI4+]h9:=]@"-FBg.k2EXcE-#%1*5uC]a:G"ai6WIN'89HY/;)*/P>Ym[\
-EDoA7:d%ia,:R(c86mi>DeC:e4DQ?`@nA.g8g\L?.P*Y^@r+&:4'cS[Ait)g<+f*9:g.7H.k=@VEGINr68VsqAiN7a9NG:d,:k`M
->VfhXDK&o7<a0?=>VIXJ;b1\&2GI.-/j)EH?n<X@:Ms#]E%#!E:NBPl6:jQu,]-XC7RpZf=>3u_BOt+`2Dum,.Rn801,j50CHcTD
-9hfX^F[fV25]Ud&@4H"Q-$(VO@8TQN@6n6n6!6/o1ehR*>:i0K.U4N'05Y&S822o#C,7S\,=cZD5"%\F5XAe"/R0SN,U>':-Uq2f
-/9<m\,Z\k-7;-Qn8LAI0F>?'C/m_[dFZ*lR?!T!<E[+mr7s/o(3_E^E@8A.&BhqSN2(hF5.U5n^B/hnD@ki'Z0L@TV<@'LQ-q\P+
--#QmW2b@4iBeraa9j:b,2ag&;B/_\);-uk0.T/YX8kU<UE-3HuAPP3b01Ake/llmY>@D2(68^MsB44;I9gE)?7WV'a9QE:,2c:nU
-84#1K76j+O>\t]X<)G#8<A[,k=A`a1;JL>I4u$Mf;GJBB.!.?t.oSr&>?5#_AkuHDF"ntO6$#1p,Y<&E:K9bIEc=QWF"9UJ9l40*
-5$1NS0g'2#F>ka<,VDA,<&eQ+>X`El=D_hV><+]Q@3S0>FAjkh1+c?p8g@;G<CKY>/Q"l7CaMPh@4!7.2bc)$.4@Z&4`iYT:aJ%V
-93#Oj6Xj)%9I3na?SZaQE@X@m4=4QP=_&[i@prD&0dC@>ALo`I2esa$4`WG::3A!A4(;H";+k+nD)!^m/2L[DF]'S>Dbk.$+^lls
-3@&BOE@E[l-:h0FD+Hrj9kIC=Bfp9Q?t<VD-S7Y;,]Y+n/iYX]3[8Pr3+$VU6=t(G3`/m688:I7.Rl?p.lhWS6Tdt<F\Gk@822Pm
-5@l?$2.C',.o\K3:a\S99fPFR<$lH?>=qdM,[X(j9g^4>;air;<,#W2FBNO'9KYFE9IED4?s7\qA4:,XEaEct,ZHcY=#3<R5>tZR
-3Cl\/<^\hi=?Ilo;DE#W=s7]42-D7c3[n?L>:N8u7mTd!9efFF0/"eh6!lE>:cU1,6qh,a<ARN379r;_5\sh0>]<%W;+,D)3$]e+
-:-1^XAi:etDbsdm4u>33.;:7p;`dQC>V&#k-s.cm.nNKE6"rGq3,pi`A3W@N<`a<T3*0oM.<8-.Bd@//;+jYrE(W5a@7EjP1Ia<5
-;`Q%.<`MXe=Yh@,@UV8eDehj'0/+qAC*G'#@9Y]D7o!&D4!\-/6q^Ed@4YYd/NHdC:0^n55[?oV5#46g>AZ`5@QAEQB2*J(,!dP\
-6pb];5]SA!="INH<'4D?@l$tTECN#97m\k$7O2nXE,SfrAOL8oA40[+3a6Q*1-@'R<`Cn-;(#jh/Q>MD@P)/!CG.tB2E*HO4B>'0
-CMH1D7O2b>0JcHJ2b7h)1g"Ho<'r'54%`7$4',B:AS5mtF>[Ja<,43f>tJ:$/QkUt81@7s8onDb;cY_KBiSq+;Fr&t7o1]i8g5H+
-?SOB>04Aj&EZnG#.:-^I=CYAp4]c9;3,V5X>$!1`.s#0<?>!\P2/H2hFZh9#<CBW#@W4P0=#2E`6VhMYCF<@hEFs!*76Og%C,[P"
-AjJmC2E3641H[=(.k>-a;)^LW5segl6s48>?;+WX84GQt7m0!q>?t<O5!2;*AlE\kD/O,Z:gI3q0-aV6DJ(4d>U)[38OYX82/5-Z
-CM\'0,WnIpFC.@BAm[o35Vu\M-r)lr,V)qQ<]b:P;.<[4-t?s9@r!Df:.nPq,ZdZ-Ai;_d<'4eU6VUX24o~>
+7q$L>2J?\o;DKP$+ZrIkEb%^6=(QAo9K7!45%[2_<EChA:K&W28O$Q783J[V-ql3;7U&N(<%0^U-r=_G4)@u783](0>Xgh+7WUjn
+8hX[b;fHPA-7*:o>&brn9PQge78Y^)0Lfb2?o9KH9NQ?b93YR_-p]gQ?>MSHFB2%)7!0kE12&mB@:qPD8M;;[-V,V"5AWJ;5Vt,R
+4A7LfF'1YA060Zq=!LsN2,@^7?tD]21eCOg5\sFJ:IQlZ81u0*Bi%'2.8hud<DQ%u=sk^mB5g.-1aGpCE,[*T7W<E.2JulA4sq[j
+D.n&9Cg&JN1i#ZH1Ic2%3(.7b;,]/=:MXWE,\fqg>YZVc2eu>K.lT+@;fQA35]8#8BNdPM/k8b^-rFqjCh"c"9/K(+?Qpe2.nEZD
+>U*QT>%^QK=<]O\4te*6<)Z[r01IsB/73$IEB[N*2DeMh3AkYTBkhd!D,Oqe5Z1HG4Zt3,/gDW?1G_BB->RBI05arQ-ob(0<H2k(
+67-5(2)RZh,Y)6..O&M4FC?sXAm[E/-ZE'EA56>fBlRc_,"=8+7:.EGE%WGGF`A]a?u.PZ1,1Ck=E%207R9jj-;J,l3[[H_D`oFQ
+-m;u23%n#RB3-cg0/H<_<$PFA5ttBZ1HoAf9O'e63@[g=F\#>*5>*VHC,R^l/nRp5:d8W07:g$mAj.hS<GY8`CH!^p6Rm1g2-`j6
+@k^D4<+Ki+/OD3K='nj=+uOC6Da-]A7oiG>=#sqD+]hZ@5#PTB;I2%T<BrEDFDl2ABO*Ms.R[B,6!cc@>;dij/6,(bAlVrJ6#&JA
+6XM!:B-Bod11tGXE-,GA:d6`]>?Y8WDD<h;0P<Oi,W$]%1L!@&:MqFW/idrg.6g0J8m,7j84R\Q?#:a'?sZ)Q84Xn,0i;LL74<7r
+3AsB#A2uSM<[^d52ChiqEBYa]DJ+#c,\T"o<$>RD4?k,a5%nCa/nIjQF_G29:dAbc2C(F/89A`EDe2.J;^57IF\t#0Al1HOC0P1`
+2^(4::*X=H6<,mT.;MpR=uJZO+YP_t>ZW4+;c,P%@rQ4#,AC.s,&/_[8M"'h2dTQ1?>s4j79!,@8O6$d?q=O@=\C;)D.Pq*7l3S%
+,!8J=3@6jp;(sP)/Qbhg+^?[$,$8VYF\=>Q<GQ%n5?r/&;a4;X77Uf`:,$='.3UfO.VhR&A3D5$.ns>QF$WqS,qW%J3`.A"7W`H/
+/87:+2).la=!B4C4'lbP4Z?M7,X+;"D(BHN5<_L\.UlU[9Ns"m,q^B=E'ZX'A2@X]4sM@-9Hu)R8NT10>@2#&=?f,#6"3\e,B>_*
+@SegR=>t,#1N4[7Ag^b?@;p*68hk%&7rD(=4`NS9B/F3K3E7C^:JGLs3D![=ASNGu6Uk`c5=-_I2JZ\T75SO',\g"P3+FHu>X_%_
+E,el6FAGVJ5%AA0.RH:=1gXZE.UR-W8h2\R@U1?C-Tc6A,?uEs>"CAD3-$fgD`^C.@PCD#C,@D75r:Jo@lRFUEa;j93E93U<\A#u
+5VtH?1.aSXF[JVk96276D,O81-q@NOD,jY8;HHIX@jX<2;JU,=-tPn@A1CAQ/Ql(@=!KM2E`Z%3,Y`&cEAK@A:2VR=3achPDD"Fq
+-8\b9.jA4ND)j190/c-M6"2ZT0N(GX/M&>],Yqu"F_ER1?pJ[Q<F@J$=CGZ'>B<)Q?r'ZTF!i_[,VsL,5r`C?FAuU+4*".C7rfas
+4_e:g@O+<<4?>'5>XN=24>B]?3HIZ&EH!Qi<)Hq(>A,uP7ncr\?7[OJ>Wbe*0O@X75>X(J=YO52AkcK>8Sp@s5<qt14$RUr/R1#-
+8LAF(3bUQ);*laA@;SAF6ZP:>D*2iV8jQuW4``kBAL1ej4)cW?D(/=.4A7gu<%C+5E]@DR0lgqm9diS27q=>gB3/\=-pfpY9-HkY
+.OJ)&@q]FQ:.?C5BL$3*+u`>&0Hs^Y/5/0*E)B)>0m%GDF_"$\EH<Wd==e$#,%=;5-p9"T.mI0T+[9U#.OJ8)A0jcGA9)cA1/)aI
+?8!fp+_<iQ?8Pb90KpaA5$)5>4%!7@DcT;.2dSI?:g$CABP&K+9M.Zb8l.'#;GK5Y<E!`]F?!E$,[tS,-Rq\tDFciW0.0ap@ou9C
+EHH.b8SV<c,Xs@PE][B;9i*lH8Od?#/R30I8i8e0Ak4:JDD,<u-V\PE-?:n(?s%8R-;#RnAMZ:u>#fH*DH9"W8l[f=+`23^FDj$2
+4?,*)1bret4$,&f0Jbg@.Q;)o1b:sq<G"-B4%WCn7QadGF];m\BeXKi:GaM7AMnER<%1d`-t@:#93,UiF(RgEBJ1uM4's^[0IK(2
+>AZ]7<^nc08h4"R6>LCA@5qk&;c#_]?=e4mB5CUCE%iGJ7r;O,:HVNt?pu_J4$"j2Bk(U';fY,`C.(ZgAnNW%,=5aKAnjFZ5:0SY
+@6e"'<+SL'1NbfC;-Z(<2+1G%EbB8Q0HrJ],BZ[,-R1BT@4>)?,t;NG>UV6[8NT=3=!:%LEcWEq,tL9r2Btjd-#4iFCdBOWEc<Zk
+0O&HV9kmj;6=+"M2D7'9-sC4S/88$q,?d9?6=MuGB5feD?8P\,9JfXYCK3_l@9HNAF@L"-7WMjQCa_AIC0t@H,ZHolBgPZO=B\]r
+=<^C,,A0Y&<C0_W9i45J-"9#G6oI=[1,2=6,[F/O?YEnO+X(/LCFCkb0.K:N2-FBt02H%/E,oZ0,WeRU-R3,(4@M50/gX7=:F[PP
+=]T?X->5\3E`Hg)?=PfqDCT^*E$]0NF)5M_-SB.0?taON=YNo4DbP7J1aa[u927W#9-R.h>;C&6-"/,j8oeojE`6df>t@:R5Vu&=
+BPKg`2+']=F*/[I?#:fr:*UoC8NLiCD`2$,1.Ph&E@Y!G?r']T:,>?h.P"#(;`/,M>r,kG@P_(?6nDG65;"6T+\X428p)d6-t-I=
+Ag0W9>!GYe9JADI6Xj:M-S%JQ4""B#-t.7@>&,rUAnEkV.O\hB?TpM98L7PB/0R;s=u9A702j6@9KcEm5U&?A>'4Ii>&@h&?X?`H
+=_:023+aX>67=*`<&ei-.4nXq?rKrQA7mtg-Rp]e=].Xf-=S6+9k\$+@4jJj3+sm8.rQt=;C#%51N-eW0J+n*;COq&F]q+9,>^!k
+<a00D<CTDa1HSH:Df@$l:c9pt1aGgn,">^=,#_uV:IIQ$;-H"P-mpfa=?]k4/3@B"=$\;c.OJ7r-=eN49f#L%C02W;8STnPF^HM:
+-;.,q<,lnsF@Aq]?X%YP2*<l`1MorAD)uMq01n`>@9-ksEB7u@.l)3e5@%26+]Tsd0.nqe3HJU]-:i/D;bAksCF)hp75e:OBfdt^
+7qZg(88:[V@W=sb0kt!%>#eF8=*-GZ0.K#*0e"nZ>tImF0N)F`EA^6L77](J9e'+A-Up@A3$i<K:g?^PChHdN>rk\i@88$m5$1fK
+2^'Ll?u/+Z/O**99Lif45WCN6/O)!B1MJ+5BJMJ'4"=HPC-lG]2*F64?"dA@?Uo*W?U&R=3HJe9?=PWUEb8lb2*EU$;ccRt>#9>c
+5[ucJDBhn_F@0)J1fnEZ=%-"c67OE:,#i,0DDX7!-s^OW0dp$P?tVuE5$he_/MB.s7WVBZ2fh6%7;>kC.qp\):,l394]j[V-8.W#
+,'@!r2'FPV:NK;d<%DN56ngQ3:i%^-:OYJ~>
 endstream
 endobj
 5 0 obj
@@ -666,10 +670,10 @@ endobj
 15 0 obj
 <<
 /Author (SkillrHub)
-/CreationDate (D\07220260811093233\05307\04700\047)
+/CreationDate (D\07220260811134533\05307\04700\047)
 /Creator (anonymous)
 /Keywords ()
-/ModDate (D\07220260811093233\05307\04700\047)
+/ModDate (D\07220260811134533\05307\04700\047)
 /Producer (ReportLab PDF Library \055 \050opensource\051)
 /Subject (unspecified)
 /Title (AC9E1LY11 Use short vowels\054 common long vowels\054 consonant blends and digraphs to write words\054 and blend these to read one\055 and two\055syllable words \055 Teacher Slide)
@@ -682,25 +686,25 @@ xref
 0000000015 00000 n 
 0000000083 00000 n 
 0000000142 00000 n 
-0000000380 00000 n 
-0000004106 00000 n 
-0000004162 00000 n 
-0000004269 00000 n 
-0000005582 00000 n 
-0000005847 00000 n 
-0000028903 00000 n 
-0000029852 00000 n 
-0000031152 00000 n 
-0000031408 00000 n 
-0000055006 00000 n 
-0000055946 00000 n 
+0000000399 00000 n 
+0000004178 00000 n 
+0000004234 00000 n 
+0000004341 00000 n 
+0000005654 00000 n 
+0000005919 00000 n 
+0000028975 00000 n 
+0000029924 00000 n 
+0000031224 00000 n 
+0000031480 00000 n 
+0000055078 00000 n 
+0000056018 00000 n 
 trailer
 <<
 /Size 16
 /Root 1 0 R
 /Info 15 0 R
-/ID [ (\274\264\336\016\037\174Sx\043en\137L9\240\377) (\274\264\336\016\037\174Sx\043en\137L9\240\377) ]
+/ID [ <7c5ccb70ef4f048b1a00a858f1eeca04> <7c5ccb70ef4f048b1a00a858f1eeca04> ]
 >>
 startxref
-56407
+56479
 %%EOF

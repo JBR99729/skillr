@@ -137,6 +137,23 @@ def wrapped(c, text, x, y, width, size=9.2, leading=11.5, colour=INK, bold=False
     return y
 
 
+def bullet_layout(bullets, width, available_height):
+    """Fit a bullet group as one balanced block without clipping or ellipses."""
+    values = [
+        slide_summary(bullet, 42 if len(bullets) == 1 else 32)
+        for bullet in bullets[:3]
+        if tidy(bullet)
+    ]
+    gap = 4.5
+    for size in (9.2, 9.0, 8.8, 8.6, 8.4, 8.2, 8.0, 7.8, 7.6, 7.4, 7.2):
+        leading = size * 1.24
+        groups = [wrap_lines(value, FONT, size, width) for value in values]
+        needed = sum(len(group) * leading for group in groups) + gap * max(0, len(groups) - 1)
+        if needed <= available_height:
+            return size, leading, groups, gap
+    raise ValueError(f"Teacher-slide bullet group does not fit: {values!r}")
+
+
 def box(c, x, y, w, h, title, bullets):
     c.setFillColor(colors.white)
     c.setStrokeColor(colors.HexColor("#CAD9EE"))
@@ -145,12 +162,17 @@ def box(c, x, y, w, h, title, bullets):
     c.setFont(FONT_BOLD, 12)
     c.drawString(x + 13, y + h - 22, title)
     cursor = y + h - 44
-    visible_bullets = [slide_summary(bullet, 42 if len(bullets) == 1 else 32) for bullet in bullets[:3]]
-    max_lines = max(4, int((h - 58) / max(1, len(visible_bullets)) / 10.5))
-    for bullet in visible_bullets:
+    bottom = y + 14
+    size, leading, groups, gap = bullet_layout(bullets, w - 39, cursor - bottom)
+    c.setFont(FONT, size)
+    for group in groups:
         c.setFillColor(GREEN)
-        c.circle(x + 17, cursor - 3, 2.2, fill=1, stroke=0)
-        cursor = wrapped(c, bullet, x + 26, cursor, w - 39, max_lines=max_lines) - 5
+        c.circle(x + 17, cursor + size * 0.34, 2.2, fill=1, stroke=0)
+        c.setFillColor(INK)
+        for line in group:
+            c.drawString(x + 26, cursor, line)
+            cursor -= leading
+        cursor -= gap
 
 
 def build_slide(unit):
@@ -162,13 +184,6 @@ def build_slide(unit):
     c.setAuthor("SkillrHub")
     c.setFillColor(LIGHT)
     c.rect(0, 0, width, height, fill=1, stroke=0)
-    c.saveState()
-    c.setFillColor(colors.Color(0.09, 0.23, 0.44, alpha=0.05))
-    c.setFont(FONT_BOLD, 60)
-    c.translate(width / 2, height / 2)
-    c.rotate(28)
-    c.drawCentredString(0, 0, "SKILLRHUB")
-    c.restoreState()
 
     c.setFillColor(BLUE)
     c.rect(0, height - 132, width, 132, fill=1, stroke=0)
@@ -206,6 +221,16 @@ def build_slide(unit):
         "Model one clear example, then solve a second example together.",
         "Finish with an independent check and a short student explanation."
     ])
+
+    # Keep the ownership mark in the open band between the two card rows so it
+    # remains clear in print without competing with lesson content.
+    c.saveState()
+    if hasattr(c, "setFillAlpha"):
+        c.setFillAlpha(0.18)
+    c.setFillColor(BLUE)
+    c.setFont(FONT_BOLD, 24)
+    c.drawCentredString(width / 2, 232, "SKILLRHUB.COM")
+    c.restoreState()
 
     c.setFillColor(MUTED)
     c.setFont(FONT, 9)
