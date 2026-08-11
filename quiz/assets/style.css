@@ -1086,6 +1086,22 @@ h3 {
   }
 }
 
+@media print {
+  @page { size: A5 portrait; margin: 8mm; }
+  body { min-height: 0; background: #fff; }
+  body > :not(.quiz-app) { display: none !important; }
+  .quiz-app { width: 100%; margin: 0; padding: 0; }
+  .result-card {
+    max-width: none;
+    margin: 0;
+    padding: 10mm;
+    border: 1px solid #d8e0ea;
+    border-radius: 12px;
+    box-shadow: none;
+  }
+  .result-actions { display: none !important; }
+}
+
 
 /* =========================================================
    VERY SMALL SCREENS

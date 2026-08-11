@@ -279,6 +279,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let activeQuestions = [];
   let currentQuestionIndex = 0;
   let score = 0;
+  let quizStartedAt = 0;
   let answerChecked = false;
   let quizHistory = [];
   let studentNameInput = null;
@@ -940,6 +941,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function beginQuiz() {
+    quizStartedAt = Date.now();
     activeQuestions = prepareQuestions();
     window.skillrActiveQuestions = activeQuestions.map(
       cloneQuestion
@@ -3024,9 +3026,8 @@ function renderImageDragState(
     markCurrentCycleSetComplete();
     updateCertificateAction(percentage);
 
-    if (config.resultUrl) {
-      const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
-      const resultData = {
+    const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
+    const resultData = {
         quizTitle,
         quizLabel: document.querySelector("#startScreen .eyebrow")?.textContent.trim() || "Quiz result",
         studentName: getStudentName(),
@@ -3037,9 +3038,36 @@ function renderImageDragState(
         answers: quizHistory,
         attemptUrl: window.location.href,
         reviewUrl: config.reviewUrl || "review/",
-        retakeUrl: config.retakeUrl || "retake/"
-      };
+        retakeUrl: config.retakeUrl || "retake/",
+        completedAt: new Date().toISOString()
+    };
 
+    const dailyMeta = window.skillrDailyDrillMeta;
+    const isDailyDrill = Boolean(dailyMeta) || window.location.pathname.includes("/daily-drills/");
+    const progressAttempt = {
+      ...resultData,
+      curriculumCode: String(
+        config.skillCode ||
+        (dailyMeta ? `DRILL:${dailyMeta.year}:${dailyMeta.subject}:${dailyMeta.skill}` : "")
+      ).toUpperCase(),
+      mode: isDailyDrill ? "daily-drill" : (/test/i.test(resultData.quizLabel) ? "test" : "practice"),
+      durationSeconds: quizStartedAt ? Math.max(0, Math.round((Date.now() - quizStartedAt) / 1000)) : 0
+    };
+
+    if (window.SkillrProgress) {
+      window.SkillrProgress.recordAttempt(progressAttempt);
+    } else {
+      let progressScript = document.querySelector('script[data-skillr-progress]');
+      if (!progressScript) {
+        progressScript = document.createElement("script");
+        progressScript.src = "/assets/progress-store.js?v=2";
+        progressScript.dataset.skillrProgress = "true";
+        document.head.appendChild(progressScript);
+      }
+      progressScript.addEventListener("load", () => window.SkillrProgress?.recordAttempt(progressAttempt), { once: true });
+    }
+
+    if (config.resultUrl) {
       try {
         sessionStorage.setItem(config.resultStorageKey || "skillrQuizResult", JSON.stringify(resultData));
         window.location.href = config.resultUrl;
