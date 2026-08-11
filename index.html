@@ -103,7 +103,7 @@
     <!-- Navigation -->
     <nav class="main-nav" aria-label="Main navigation">
       <a href="/">Home</a>
-      <a href="/dashboard/">My Progress</a>
+      <a href="/dashboard/">Dashboard</a>
       <a href="/how-to-use-skillr.html#students">Students</a>
       <a href="/how-to-use-skillr.html#parents">Parents</a>
       <a href="/how-to-use-skillr.html#teachers">Teachers</a>
@@ -173,116 +173,140 @@
         </div>
       </div>
 
-      <div class="year-learning-grid" aria-label="Foundation to Year 10 learning options">
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="foundation-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="foundation-learning-card">Foundation</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/foundation/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/grade-k/daily-drills/">Start Daily Drill</a>
+      <div class="year-learning-stage-list" aria-label="Foundation to Year 10 learning options">
+        <section class="year-learning-stage year-learning-stage--early" aria-labelledby="year-learning-stage--early-heading">
+          <div class="year-learning-stage__header">
+            <span>K-2</span>
+            <h3 id="year-learning-stage--early-heading">Early Years</h3>
           </div>
-        </article>
+          <div class="year-learning-grid">
+          <article class="year-learning-card year-learning-card--available year-learning-stage--early" aria-labelledby="foundation-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="foundation-learning-card">Foundation</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/foundation/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/grade-k/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-1-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-1-learning-card">Year 1</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year1/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-1/daily-drills/">Start Daily Drill</a>
-          </div>
-        </article>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--early" aria-labelledby="year-1-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-1-learning-card">Year 1</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year1/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-1/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-2-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-2-learning-card">Year 2</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year2/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-2/daily-drills/">Start Daily Drill</a>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--early" aria-labelledby="year-2-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-2-learning-card">Year 2</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year2/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-2/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
           </div>
-        </article>
+        </section>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-3-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-3-learning-card">Year 3</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year3/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-3/daily-drills/">Start Daily Drill</a>
+        <section class="year-learning-stage year-learning-stage--primary" aria-labelledby="year-learning-stage--primary-heading">
+          <div class="year-learning-stage__header">
+            <span>3-6</span>
+            <h3 id="year-learning-stage--primary-heading">Primary Years</h3>
           </div>
-        </article>
+          <div class="year-learning-grid">
+          <article class="year-learning-card year-learning-card--available year-learning-stage--primary" aria-labelledby="year-3-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-3-learning-card">Year 3</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year3/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-3/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-4-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-4-learning-card">Year 4</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year4/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-4/daily-drills/">Start Daily Drill</a>
-          </div>
-        </article>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--primary" aria-labelledby="year-4-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-4-learning-card">Year 4</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year4/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-4/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-5-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-5-learning-card">Year 5</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year5/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-5/daily-drills/">Start Daily Drill</a>
-          </div>
-        </article>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--primary" aria-labelledby="year-5-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-5-learning-card">Year 5</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year5/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-5/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-6-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-6-learning-card">Year 6</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year6/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-6/daily-drills/">Start Daily Drill</a>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--primary" aria-labelledby="year-6-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-6-learning-card">Year 6</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year6/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-6/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
           </div>
-        </article>
+        </section>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-7-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-7-learning-card">Year 7</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year7/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-7/daily-drills/">Start Daily Drill</a>
+        <section class="year-learning-stage year-learning-stage--secondary" aria-labelledby="year-learning-stage--secondary-heading">
+          <div class="year-learning-stage__header">
+            <span>7-10</span>
+            <h3 id="year-learning-stage--secondary-heading">Secondary Years</h3>
           </div>
-        </article>
+          <div class="year-learning-grid">
+          <article class="year-learning-card year-learning-card--available year-learning-stage--secondary" aria-labelledby="year-7-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-7-learning-card">Year 7</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year7/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-7/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-8-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-8-learning-card">Year 8</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year8/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-8/daily-drills/">Start Daily Drill</a>
-          </div>
-        </article>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--secondary" aria-labelledby="year-8-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-8-learning-card">Year 8</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year8/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-8/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-9-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-9-learning-card">Year 9</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year9/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-9/daily-drills/">Start Daily Drill</a>
-          </div>
-        </article>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--secondary" aria-labelledby="year-9-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-9-learning-card">Year 9</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year9/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-9/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
 
-        <article class="year-learning-card year-learning-card--available" aria-labelledby="year-10-learning-card">
-          <span class="year-learning-card__badge">Curriculum available</span>
-          <h3 id="year-10-learning-card">Year 10</h3>
-          <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
-          <div class="year-learning-card__actions">
-            <a class="year-learning-card__button year-learning-card__button--primary" href="/year10/curriculum/">Browse Curriculum Units</a>
-            <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-10/daily-drills/">Start Daily Drill</a>
+          <article class="year-learning-card year-learning-card--available year-learning-stage--secondary" aria-labelledby="year-10-learning-card">
+            <span class="year-learning-card__badge">Curriculum available</span>
+            <h3 id="year-10-learning-card">Year 10</h3>
+            <p class="year-learning-card__subjects">Maths <span aria-hidden="true">•</span> Science <span aria-hidden="true">•</span> English</p>
+            <div class="year-learning-card__actions">
+              <a class="year-learning-card__button year-learning-card__button--primary" href="/year10/curriculum/">Browse Curriculum Units</a>
+              <a class="year-learning-card__button year-learning-card__button--secondary" href="/quiz/year-10/daily-drills/">Start Daily Drill</a>
+            </div>
+          </article>
           </div>
-        </article>
+        </section>
       </div>
     </section>
 
