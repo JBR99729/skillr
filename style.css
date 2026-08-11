@@ -2571,3 +2571,25 @@ footer {
         content: "−";
     }
 }
+
+
+/* Compact footer utility navigation */
+.footer-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 24px;
+    margin-bottom: 16px;
+}
+
+.footer-nav a {
+    color: #f8fafc;
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-underline-offset: 4px;
+}
+
+.footer-nav a:hover,
+.footer-nav a:focus-visible {
+    color: #bfdbfe;
+}
