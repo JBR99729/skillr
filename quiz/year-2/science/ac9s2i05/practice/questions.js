@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s2i05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare observations with predictions and others’ observations, consider if…",
-      "describe how people use science in their daily lives, including using…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s2i05-p01",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S2I05, write one testable question about observations with predictions and others' observations, consider if investigations are.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s2i05-02",
+    "id": "ac9s2i05-p02",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S2I05, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "make and record observations, including informal measurements, using digital…",
-      "comparing their observations of changing shadow length across the day with…",
-      "sort and order data and information and represent patterns, including with…",
-      "write and create texts to communicate observations, findings and ideas, using…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "correct": 0
   },
   {
-    "id": "ac9s2i05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying celestial objects that can be observed in space such as the sun,…",
-      "viewing images or video of Earth from space, describing the shape of Earth…",
-      "comparing observations of sounds with those of others and considering if we…",
-      "exploring representations of the solar system and identifying Earth and other…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s2i05-p03",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S2I05, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s2i05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing that some phenomena in the sky are only visible during the day and…",
-      "investigating how shadow length changes with the changing position of the…",
-      "creating a class moon diary across a month, identifying patterns in the…",
-      "proposing ways to ensure that the same sound is produced in an investigation…"
+    "id": "ac9s2i05-p04",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S2I05, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s2i05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare observations with predictions and others’ observations, consider if…",
-      "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
-      "observing and describing short-term and longer-term patterns of events that…",
-      "distinguishing between regular events that occur in the sky, such as the…"
+    "id": "ac9s2i05-p05",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S2I05, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s2i05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building vocabulary for describing sound, such as loudness and pitch, and…",
-      "comparing findings from investigations about physically changing a material,…",
-      "exploring different ways to produce sound using familiar objects and actions…",
-      "exploring how voices have a unique sound by playing games such as guess the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s2i05-p06",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S2I05, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s2i05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "observing vibrations produced by a twanged ruler held on a desk and…",
-      "investigating how sound energy makes things vibrate such as when speaking,…",
-      "comparing findings from investigations about physically changing a material,…",
-      "investigating which materials best muffle sound"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s2i05-p07",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2I05, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s2i05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "designing and making instruments that produce different sounds, such as…",
-      "discussing situations in which they have heard echoes and exploring how…",
-      "exploring how materials can be physically changed to suit a particular…",
-      "compare observations with predictions and others’ observations, consider if…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S2I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s2i05-p08",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2I05, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

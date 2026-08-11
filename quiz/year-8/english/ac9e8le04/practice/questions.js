@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e8le04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify intertextual references in literary texts and explain how the…",
-      "understand how cohesion in texts is improved by strengthening the internal…",
-      "examine a variety of clause structures including embedded clauses that add…",
-      "understand the effect of nominalisation in texts"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p01",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E8LE04, read: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.' What trait or feeling can you infer?",
+    "explanation": "A valid inference supported by word or image evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid inference supported by word or image evidence.",
+    "correct": "A valid inference supported by word or image evidence."
   },
   {
-    "id": "ac9e8le04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how visual texts use intertextual references to enhance and layer…",
-      "identifying intertextual references through allusion or quotation in written…",
-      "identify and use vocabulary typical of academic texts",
-      "understand and use punctuation conventions including semicolons and dashes to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p02",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E8LE04, which is strongest evidence: a quoted word/phrase, a vague feeling, or an unrelated personal memory?",
+    "explanation": "A quoted word or phrase from the text.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A quoted word or phrase from the text.",
+    "correct": "A quoted word or phrase from the text."
   },
   {
-    "id": "ac9e8le04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explain the ways that ideas and points of view may represent the values of…",
-      "share opinions about the language features, literary devices and text…",
-      "identifying intertextual references through allusion or quotation in written…",
-      "explain how language and/or images in texts position readers to respond and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p03",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E8LE04, match character, setting, event and theme to person, place/time, happening and big idea.",
+    "explanation": "Character -> person; setting -> place/time; event -> happening; theme -> big idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Character -> person; setting -> place/time; event -> happening; theme -> big idea.",
+    "correct": "Character -> person; setting -> place/time; event -> happening; theme -> big idea."
   },
   {
-    "id": "ac9e8le04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "analyse how language features such as sentence patterns create tone, and…",
-      "create and edit literary texts that experiment with language features and…",
-      "identify how texts reflect contexts",
-      "identifying intertextual references through allusion or quotation in written…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p04",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E8LE04, improve: 'I liked it.' Add evidence from a text.",
+    "explanation": "A response with a reason and evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A response with a reason and evidence.",
+    "correct": "A response with a reason and evidence."
   },
   {
-    "id": "ac9e8le04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify intertextual references in literary texts and explain how the…",
-      "use interaction skills for identified purposes and situations, including when…",
-      "analyse and evaluate the ways that language features vary according to the…",
-      "analyse how authors organise ideas to develop and shape meaning"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p05",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E8LE04, write one example of imagery, sound, dialogue or figurative language suitable for this topic.",
+    "explanation": "A valid literary example.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid literary example.",
+    "correct": "A valid literary example."
   },
   {
-    "id": "ac9e8le04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "identifying intertextual references through allusion or quotation in written…",
-      "plan, create, edit and publish written and multimodal texts, organising and…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p06",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E8LE04, sort these into setting or event: moonlit beach, door slams, old library, secret note appears.",
+    "explanation": "Settings: moonlit beach, old library. Events: door slams, secret note appears.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Settings: moonlit beach, old library. Events: door slams, secret note appears.",
+    "correct": "Settings: moonlit beach, old library. Events: door slams, secret note appears."
   },
   {
-    "id": "ac9e8le04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "apply learnt knowledge to spell accurately and to learn new words",
-      "understanding that group identities are formed through language that reflects…",
-      "identifying intertextual references through allusion or quotation in written…",
-      "identifying how authors use rhetorical devices that reveal the dark or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p07",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E8LE04, explain how a writer's language choice can shape the reader's response to a character.",
+    "explanation": "Specific words can make a character seem brave, suspicious, lonely, funny or powerful.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Specific words can make a character seem brave, suspicious, lonely, funny or powerful.",
+    "correct": "Specific words can make a character seem brave, suspicious, lonely, funny or powerful."
   },
   {
-    "id": "ac9e8le04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "recognising how texts such as critical responses to texts, expositions, text…",
-      "discussing how the placement of images and written text in a linear or…",
-      "explaining the structure and language features of texts such as narratives,…",
-      "identify intertextual references in literary texts and explain how the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E8LE04: identify intertextual references in literary texts and explain how the…."
+    "id": "ac9e8le04-p08",
+    "curriculumCode": "AC9E8LE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E8LE04, create a short literary moment using one device from the topic, then explain the choice.",
+    "explanation": "A valid moment plus explanation of the device/effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid moment plus explanation of the device/effect.",
+    "correct": "A valid moment plus explanation of the device/effect."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

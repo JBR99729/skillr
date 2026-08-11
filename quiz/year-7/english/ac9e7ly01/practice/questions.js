@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e7ly01-01",
+    "id": "ac9e7ly01-p01",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E7LY01, which feature best suits a text for younger students: simple steps, dense technical paragraphs or hidden navigation?",
+    "explanation": "Simple steps.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explain the effect of current technology on reading, creating and responding…",
-      "understand that the cohesion of texts relies on devices that signal structure…",
-      "understand how complex and compound-complex sentences can be used to…",
-      "understand how consistency of tense through verbs and verb groups achieves…"
+      "simple steps",
+      "dense technical paragraphs",
+      "hidden navigation"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "correct": 0
   },
   {
-    "id": "ac9e7ly01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "analyse how techniques such as vectors, angle and/or social distance in…",
-      "investigating the influence of communicative technologies such as SMS, email…",
-      "investigate the role of vocabulary in building specialist and technical…",
-      "understand the use of punctuation including colons and brackets to support…"
+    "id": "ac9e7ly01-p02",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LY01, read: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.' State one literal fact.",
+    "explanation": "A fact directly stated in the snippet.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A fact directly stated in the snippet"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "correct": "A fact directly stated in the snippet"
   },
   {
-    "id": "ac9e7ly01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify and explore ideas, points of view, characters, events and/or issues…",
-      "form an opinion about characters, settings and events in texts, identifying…",
-      "analysing the impact of interactive elements of digital texts on texts such…",
-      "explain the ways that literary devices and language features such as…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "id": "ac9e7ly01-p03",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LY01, state one inference and the evidence that supports it.",
+    "explanation": "A valid inference linked to wording or visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid inference linked to wording or visual evidence.",
+    "correct": "A valid inference linked to wording or visual evidence."
   },
   {
-    "id": "ac9e7ly01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss the aesthetic and social value of literary texts using relevant and…",
-      "identify and explain the ways that characters, settings and events combine to…",
-      "identify and explain how literary devices create layers of meaning in texts…",
-      "identifying changes in topics considered to be newsworthy as a result of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "id": "ac9e7ly01-p04",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E7LY01, match imaginative, informative, persuasive and procedural to entertain, inform, convince and instruct.",
+    "explanation": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "correct": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct."
   },
   {
-    "id": "ac9e7ly01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explain the effect of current technology on reading, creating and responding…",
-      "create and edit literary texts that experiment with language features and…",
-      "use interaction skills when discussing and presenting ideas and information…",
-      "analyse the ways in which language features shape meaning and vary according…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "id": "ac9e7ly01-p05",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E7LY01, revise a weak opening sentence so it better suits its audience and purpose.",
+    "explanation": "A clearer sentence with audience/purpose fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A clearer sentence with audience/purpose fit.",
+    "correct": "A clearer sentence with audience/purpose fit."
   },
   {
-    "id": "ac9e7ly01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "explain the structure of ideas such as the use of taxonomies, cause and…",
-      "identifying changes in topics considered to be newsworthy as a result of…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal texts, selecting…"
+    "id": "ac9e7ly01-p06",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9E7LY01, order the planning steps: choose audience, gather ideas, draft, revise.",
+    "explanation": "Choose audience; gather ideas; draft; revise.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "correct": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
+    ]
   },
   {
-    "id": "ac9e7ly01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver presentations for purposes and audiences…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "identifying changes in topics considered to be newsworthy as a result of…",
-      "understanding local idioms and discussing their connection with personal and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "id": "ac9e7ly01-p07",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E7LY01, explain how skimming, scanning, predicting or questioning helps comprehension.",
+    "explanation": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "correct": "The strategy helps locate information, monitor meaning or prepare for what comes next."
   },
   {
-    "id": "ac9e7ly01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "building knowledge about words of evaluation, including words to express…",
-      "analysing how evaluative language can be used to assess the qualities of a…",
-      "explain the effect of current technology on reading, creating and responding…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LY01: explain the effect of current technology on reading, creating and responding…."
+    "id": "ac9e7ly01-p08",
+    "curriculumCode": "AC9E7LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E7LY01, create a short text or presentation plan that fits this topic and name two choices you made.",
+    "explanation": "A valid plan with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with two choices linked to purpose and audience.",
+    "correct": "A valid plan with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

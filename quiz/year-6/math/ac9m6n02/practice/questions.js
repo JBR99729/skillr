@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify and describe the properties of prime, composite and square numbers…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…",
-      "solve problems that require finding a familiar fraction, decimal or…"
+    "id": "ac9m6n02-p01",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N02, for AC9M6N02 describe the properties of prime, composite and square numbers and, calculate 41 + 19.",
+    "explanation": "60",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "60"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "correct": "60"
   },
   {
-    "id": "ac9m6n02-02",
+    "id": "ac9m6n02-p02",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N02, which estimate is most reasonable for 41 x 19: about 60, about 770, or about 7790?",
+    "explanation": "About 770.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "using the definition of a prime number to explain why one is not a prime…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "about 60",
+      "about 770",
+      "or about 7790"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "correct": 1
   },
   {
-    "id": "ac9m6n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "testing numbers by using division to distinguish between prime and composite…",
-      "convert between common metric units of length, mass and capacity; choose and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "id": "ac9m6n02-p03",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6N02, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m6n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "representing composite numbers as a product of their factors, including prime…"
+    "id": "ac9m6n02-p04",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N02, find the missing value: ___ + 41 = 60.",
+    "explanation": "19",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "19"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "correct": "19"
   },
   {
-    "id": "ac9m6n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify and describe the properties of prime, composite and square numbers…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6n02-p05",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6N02, a table shows 41, 19 and 60. What is the total of all three values?",
+    "explanation": "120",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "120"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "correct": "120"
   },
   {
-    "id": "ac9m6n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "identifying and describing the product of a number with itself as square; for…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n02-p06",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6N02, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m6n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "using spreadsheets to list all the numbers that have up to 3 factors, using…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "id": "ac9m6n02-p07",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N02, explain one efficient strategy for solving a describe the properties of prime, composite and square numbers and problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m6n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "identify and describe the properties of prime, composite and square numbers…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N02: identify and describe the properties of prime, composite and square numbers…."
+    "id": "ac9m6n02-p08",
+    "curriculumCode": "AC9M6N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N02, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

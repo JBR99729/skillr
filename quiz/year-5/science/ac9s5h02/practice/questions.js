@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s5h02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "investigate how scientific knowledge is used by individuals and communities…",
-      "explain observable properties of solids, liquids and gases by modelling the…",
-      "examine why advances in science are often the result of collaboration or…",
-      "pose investigable questions to identify patterns and test relationships and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p01",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S5H02, inspect the diagram and identify one feature, part or process linked to how scientific knowledge is used.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to how scientific knowledge is used, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to how scientific knowledge is used, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s5h02-02",
+    "id": "ac9s5h02-p02",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S5H02, which explanation best matches how scientific knowledge is used: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "plan and conduct repeatable investigations to answer questions, including, as…",
-      "considering how decisions are made to farm particular crops or animals…",
-      "use equipment to observe, measure and record data with reasonable precision,…",
-      "construct and use appropriate representations, including tables, graphs and…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "correct": 0
   },
   {
-    "id": "ac9s5h02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "write and create texts to communicate ideas and findings for specific…",
-      "examining how communities use knowledge of erosion processes to design…",
-      "identify physical and behavioural characteristics that enable a plant or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p03",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S5H02, sort the example cards into 'matches how scientific knowledge is used' and 'does not match how scientific knowledge is used'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s5h02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "exploring features of plants and animals that enable them to survive in…",
-      "investigating how camouflage is used by animals to hide from predators and to…",
-      "using physical or digital simulations to explore how the shape of animals’…",
-      "researching the impacts of light pollution and exploring how communities have…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p04",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S5H02, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s5h02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "investigate how scientific knowledge is used by individuals and communities…",
-      "identifying types of weathering caused by mechanical means such as by wind…",
-      "exploring how erosion can be caused by moving air or moving water and how…",
-      "analysing the difference between weathering and erosion and comparing the…"
+    "id": "ac9s5h02-p05",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S5H02, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s5h02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "modelling the effects of erosion on a simulated landscape and exploring…",
-      "investigating how and why people used properties of light to design signal…",
-      "investigating how humans have changed local landscapes and predicting the…",
-      "considering the effects of significant rainfall, such as a monsoon, on the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p06",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S5H02, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s5h02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "distinguishing between natural (such as glow worms, the sun and stars) and…",
-      "investigating the shadows that are formed when light is completely or…",
-      "investigating how and why people used properties of light to design signal…",
-      "drawing ray diagrams to show how the path of light from a source reflects off…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p07",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S5H02, explain how evidence helps show what is happening in how scientific knowledge is used.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s5h02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing refraction of light using prisms or water droplets and examining…",
-      "exploring how 'holograph' videos use the refractive properties of light to…",
-      "exploring the use of reflection of light by mirrors such as in periscopes and…",
-      "investigate how scientific knowledge is used by individuals and communities…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S5H02: investigate how scientific knowledge is used by individuals and communities…."
+    "id": "ac9s5h02-p08",
+    "curriculumCode": "AC9S5H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S5H02, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

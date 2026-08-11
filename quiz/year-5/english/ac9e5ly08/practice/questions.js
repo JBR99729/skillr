@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e5ly08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use phonic, morphemic and vocabulary knowledge to read and spell words that…",
-      "understand how texts can be made cohesive by using the starting point of a…",
-      "understand that the structure of a complex sentence includes a main clause…",
-      "understand how noun groups can be expanded in a variety of ways to provide a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p01",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E5LY08, sort these words by the focus pattern in phonic, morphemic and vocabulary knowledge to read and spell words: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e5ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explain how the sequence of images in print, digital and film texts has an…",
-      "recognising and writing less familiar words that share common letter patterns…",
-      "understand how vocabulary is used to express greater precision of meaning,…",
-      "use commas to indicate prepositional phrases, and apostrophes where there is…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p02",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LY08, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e5ly08-03",
+    "id": "ac9e5ly08-p03",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E5LY08, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "identify aspects of literary texts that represent details or information…",
-      "present an opinion on a literary text using specific terms about literary…",
-      "recognising and writing less familiar words that share common letter patterns…",
-      "recognise that the point of view in a literary text influences how readers…"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "correct": 0
   },
   {
-    "id": "ac9e5ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "examine the effects of imagery, including simile, metaphor and…",
-      "create and edit literary texts, experimenting with figurative language,…",
-      "describe the ways in which a text reflects the time and place in which it was…",
-      "recognising and writing less familiar words that share common letter patterns…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p04",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E5LY08, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e5ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use phonic, morphemic and vocabulary knowledge to read and spell words that…",
-      "use appropriate interaction skills including paraphrasing and questioning to…",
-      "explain characteristic features used in imaginative, informative and…",
-      "navigate and read texts for specific purposes, monitoring meaning using…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p05",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E5LY08, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e5ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "recognising and writing less familiar words that share common letter patterns…",
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations that…"
+    "id": "ac9e5ly08-p06",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LY08, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e5ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "build and spell new words from knowledge of known words, base words, prefixes…",
-      "explore less common plurals, and understand how a suffix changes the meaning…",
-      "recognising and writing less familiar words that share common letter patterns…",
-      "using language that signals the roles of chairperson and the different…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p07",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E5LY08, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e5ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying ways in which cultures differ in making and responding to common…",
-      "recognising that a bare assertion (for example, “It's the best film this…",
-      "becoming familiar with the typical stages and language features of types of…",
-      "use phonic, morphemic and vocabulary knowledge to read and spell words that…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LY08: use phonic, morphemic and vocabulary knowledge to read and spell words that…."
+    "id": "ac9e5ly08-p08",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LY08, write one new word that fits the AC9E5LY08 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

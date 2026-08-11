@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e7ly08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "understand that the cohesion of texts relies on devices that signal structure…",
-      "understand how complex and compound-complex sentences can be used to…",
-      "understand how consistency of tense through verbs and verb groups achieves…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p01",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E7LY08, sort these words by the focus pattern in to use spelling rules and word origins: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e7ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "analyse how techniques such as vectors, angle and/or social distance in…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "investigate the role of vocabulary in building specialist and technical…",
-      "understand the use of punctuation including colons and brackets to support…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p02",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LY08, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e7ly08-03",
+    "id": "ac9e7ly08-p03",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E7LY08, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "identify and explore ideas, points of view, characters, events and/or issues…",
-      "form an opinion about characters, settings and events in texts, identifying…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "explain the ways that literary devices and language features such as…"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "correct": 0
   },
   {
-    "id": "ac9e7ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss the aesthetic and social value of literary texts using relevant and…",
-      "identify and explain the ways that characters, settings and events combine to…",
-      "identify and explain how literary devices create layers of meaning in texts…",
-      "understand how to use spelling rules and word origins; for example, Greek and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p04",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E7LY08, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e7ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "create and edit literary texts that experiment with language features and…",
-      "explain the effect of current technology on reading, creating and responding…",
-      "use interaction skills when discussing and presenting ideas and information…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p05",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E7LY08, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e7ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "analyse the ways in which language features shape meaning and vary according…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "explain the structure of ideas such as the use of taxonomies, cause and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
+    "id": "ac9e7ly08-p06",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LY08, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e7ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts, selecting…",
-      "plan, create, rehearse and deliver presentations for purposes and audiences…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "understanding local idioms and discussing their connection with personal and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p07",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E7LY08, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e7ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "building knowledge about words of evaluation, including words to express…",
-      "analysing how evaluative language can be used to assess the qualities of a…",
-      "understand how to use spelling rules and word origins; for example, Greek and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LY08: understand how to use spelling rules and word origins; for example, Greek and…."
+    "id": "ac9e7ly08-p08",
+    "curriculumCode": "AC9E7LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LY08, write one new word that fits the AC9E7LY08 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

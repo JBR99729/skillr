@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8a01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "create, expand, factorise, rearrange and simplify linear expressions,…",
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "graph linear relations on the Cartesian plane using digital tools where…"
+    "id": "ac9m8a01-p01",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8A01, if n = 10, find 4n + 2.",
+    "explanation": "42",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "42"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "correct": "42"
   },
   {
-    "id": "ac9m8a01-02",
+    "id": "ac9m8a01-p02",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8A01, which expression represents 'three more than twice x': 2x + 3, 3x + 2 or 2 + x + 3?",
+    "explanation": "2x + 3.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use mathematical modelling to solve applied problems involving linear…",
-      "rearranging and simplifying linear expressions involving variables with…",
-      "experiment with linear functions and relations using digital tools, making…",
-      "solve problems involving the area and perimeter of irregular and composite…"
+      "2x + 3",
+      "3x + 2",
+      "2 + x + 3"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "correct": 0
   },
   {
-    "id": "ac9m8a01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the volume and capacity of right prisms using…",
-      "solve problems involving the circumference and area of a circle using…",
-      "demonstrating the relationship between factorising and expanding linear…",
-      "solve problems involving duration, including using 12- and 24-hour time…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "id": "ac9m8a01-p03",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8A01, match variable, coefficient, expression and equation to their meanings.",
+    "explanation": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "correct": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality."
   },
   {
-    "id": "ac9m8a01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "using the distributive, associative, commutative, identity and inverse…"
+    "id": "ac9m8a01-p04",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8A01, solve x + 10 = 22.",
+    "explanation": "x = 12.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 12"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "correct": "x = 12"
   },
   {
-    "id": "ac9m8a01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create, expand, factorise, rearrange and simplify linear expressions,…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…",
-      "describe the position and location of objects in 3 dimensions in different…"
+    "id": "ac9m8a01-p05",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8A01, a table has x values 1, 2, 3 and y values 11, 12, 13. What is the rule?",
+    "explanation": "y = x + 10.",
+    "printable": true,
+    "visual": "Two-column input-output table.",
+    "instruction": "Visual brief: Two-column input-output table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = x + 10"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "correct": "y = x + 10"
   },
   {
-    "id": "ac9m8a01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "using the distributive, associative, commutative, identity and inverse…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8a01-p06",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M8A01, order the steps: check by substitution, isolate the variable, simplify, read the equation.",
+    "explanation": "Read the equation; simplify; isolate the variable; check by substitution.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check by substitution",
+      "isolate the variable",
+      "simplify",
+      "read the equation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "correct": [
+      "read the equation",
+      "simplify",
+      "isolate the variable",
+      "check by substitution"
+    ]
   },
   {
-    "id": "ac9m8a01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "using the distributive, associative, commutative, identity and inverse…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "id": "ac9m8a01-p07",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8A01, explain why doing the same operation to both sides keeps an equation balanced.",
+    "explanation": "Both sides remain equal because their values change in the same way.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both sides remain equal because their values change in the same way.",
+    "correct": "Both sides remain equal because their values change in the same way."
   },
   {
-    "id": "ac9m8a01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8A01: create, expand, factorise, rearrange and simplify linear expressions,…."
+    "id": "ac9m8a01-p08",
+    "curriculumCode": "AC9M8A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8A01, a student expands 3(x + 4) as 3x + 4. Explain and correct the error.",
+    "explanation": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "correct": "The 3 multiplies both terms; correct expansion is 3x + 12."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

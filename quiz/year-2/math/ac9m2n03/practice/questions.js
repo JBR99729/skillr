@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m2n03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and describe one-half as one of 2 equal parts of a whole and…",
-      "multiply and divide by one-digit numbers using repeated addition, equal…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "recognise, describe and create additive patterns that increase or decrease by…"
+    "id": "ac9m2n03-p01",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9M2N03, look at the AC9M2N03 describe one-half as one of 2 equal parts of a picture. How many objects are shown altogether?",
+    "explanation": "13 objects.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "text",
+    "acceptedAnswers": [
+      "13 objects"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "correct": "13 objects"
   },
   {
-    "id": "ac9m2n03-02",
+    "id": "ac9m2n03-p02",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M2N03, which numeral matches the collection: 13, 15 or 12?",
+    "explanation": "13.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recall and demonstrate proficiency with addition facts to 20; extend and…",
-      "creating halves of a range of collections sets by sharing collections into 2…",
-      "recall and demonstrate proficiency with multiplication facts for twos; extend…",
-      "measure and compare objects based on length, capacity and mass using…"
+      "13",
+      "15",
+      "12"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "correct": 0
   },
   {
-    "id": "ac9m2n03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify common uses and represent halves, quarters and eighths in relation…",
-      "identify the date and determine the number of days between events using…",
-      "creating halves using measurement attributes; for example, explaining that “a…",
-      "recognise and read the time represented on an analog clock to the hour,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "id": "ac9m2n03-p03",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M2N03, sort the cards into 'shows describe one-half as one of 2 equal parts of a' and 'does not show describe one-half as one of 2 equal parts of a'.",
+    "explanation": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "correct": "Cards that match the stated number, pattern, shape or comparison belong in the first group."
   },
   {
-    "id": "ac9m2n03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify, describe and demonstrate quarter, half, three-quarter and full…",
-      "recognise, compare and classify shapes, referencing the number of sides and…",
-      "locate positions in two-dimensional representations of a familiar space; move…",
-      "using repeated halving to subdivide shapes and objects in different ways to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "id": "ac9m2n03-p04",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2N03, how can you check that each object has been counted once?",
+    "explanation": "Touch, move, tick or point to each object once while saying one number word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Touch, move, tick or point to each object once while saying one number word.",
+    "correct": "Touch, move, tick or point to each object once while saying one number word."
   },
   {
-    "id": "ac9m2n03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and describe one-half as one of 2 equal parts of a whole and…",
-      "acquire data for categorical variables through surveys, observation,…",
-      "create different graphical representations of data using software where…",
-      "recognising missing numbers on different number lines; for example, a number…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "id": "ac9m2n03-p05",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M2N03, draw or build a model that shows 6 and 7 more.",
+    "explanation": "The model shows 6, then 7 more, making 13.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "self-check",
+    "modelAnswer": "The model shows 6, then 7 more, making 13.",
+    "correct": "The model shows 6, then 7 more, making 13."
   },
   {
-    "id": "ac9m2n03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising and locating the position of pieces within hundreds chart puzzles…",
-      "dividing a shape into equal parts and relating the number of parts to the…",
-      "reading and writing numerals, and saying and ordering two-, three- and…",
-      "collecting large quantities of materials for recycling; for example, ring…"
+    "id": "ac9m2n03-p06",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M2N03, order the steps: check the answer, look at the picture, count or compare, choose the numeral.",
+    "explanation": "Look at the picture; count or compare; choose the numeral; check the answer.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check the answer",
+      "look at the picture",
+      "count or compare",
+      "choose the numeral"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "correct": [
+      "look at the picture",
+      "count or compare",
+      "choose the numeral",
+      "check the answer"
+    ]
   },
   {
-    "id": "ac9m2n03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the digits of a number with materials grouped into hundreds, tens…",
-      "renaming numbers in different ways using knowledge of place value; for…",
-      "dividing a shape into equal parts and relating the number of parts to the…",
-      "using the associative property of addition to assist with mental calculation…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "id": "ac9m2n03-p07",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M2N03, two students give different answers for the AC9M2N03 task. What should they check?",
+    "explanation": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "correct": "They should check the picture, count each object once, compare equal parts or read the labels."
   },
   {
-    "id": "ac9m2n03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using strategies such as doubles, near doubles, part-part-whole knowledge to…",
-      "representing addition and subtraction problems using a bar model and writing…",
-      "using mental strategies and informal written jottings to help keep track of…",
-      "recognise and describe one-half as one of 2 equal parts of a whole and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2N03: recognise and describe one-half as one of 2 equal parts of a whole and…."
+    "id": "ac9m2n03-p08",
+    "curriculumCode": "AC9M2N03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2N03, make a new classroom example that shows describe one-half as one of 2 equal parts of a.",
+    "explanation": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "correct": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

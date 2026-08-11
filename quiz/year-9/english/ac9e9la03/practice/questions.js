@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e9la03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "examine how authors adapt and subvert text structures and language features…",
-      "identify how authors vary sentence structures creatively for effects, such as…",
-      "understand how abstract nouns and nominalisation can be used to summarise…",
-      "analyse how symbols in still and moving images augment meaning"
+    "id": "ac9e9la03-p01",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E9LA03, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e9la03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "analyse how vocabulary choices contribute to style, mood and tone",
-      "comparing the use of linear and non-linear narratives in a range of short…",
-      "understand punctuation conventions for referencing and citing others for…",
-      "analyse the representations of people and places in literary texts, drawn…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p02",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E9LA03, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e9la03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "present a personal response to a literary text comparing initial impressions…",
-      "analyse how features of literary texts influence readers’ preference for texts",
-      "comparing the opening paragraphs of different public texts such as feature…",
-      "analyse texts and evaluate the aesthetic qualities and appeal of an author’s…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p03",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LA03, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e9la03-04",
+    "id": "ac9e9la03-p04",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E9LA03, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "analyse the effect of text structures, language features and literary devices…",
-      "create and edit literary texts, that may be a hybrid, that experiment with…",
-      "analyse how representations of people, places, events and concepts reflect…",
-      "comparing the opening paragraphs of different public texts such as feature…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "correct": 0
   },
   {
-    "id": "ac9e9la03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "examine how authors adapt and subvert text structures and language features…",
-      "listen to spoken texts that have different purposes and audiences, analysing…",
-      "analyse and evaluate how language features are used to represent a…",
-      "analyse the organisation of ideas in paragraphs and extended texts, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p05",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E9LA03, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e9la03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "comparing the opening paragraphs of different public texts such as feature…",
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p06",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LA03, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e9la03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "understand how spelling is used in texts for particular effects; for example,…",
-      "identifying the various communities to which students belong and how language…",
-      "comparing the opening paragraphs of different public texts such as feature…",
-      "comparing texts that use evaluative language in different ways; for example,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p07",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LA03, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e9la03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "sequencing and developing an argument using language structures that suggest…",
-      "identifying the effects of using an interrupting clause inside another…",
-      "exploring sections of academic and technical texts, and analysing the use of…",
-      "examine how authors adapt and subvert text structures and language features…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LA03: examine how authors adapt and subvert text structures and language features…."
+    "id": "ac9e9la03-p08",
+    "curriculumCode": "AC9E9LA03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LA03, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

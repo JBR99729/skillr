@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e7la02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise language used to evaluate texts including visual and multimodal…",
-      "understand how complex and compound-complex sentences can be used to…",
-      "understand how consistency of tense through verbs and verb groups achieves…",
-      "analyse how techniques such as vectors, angle and/or social distance in…"
+    "id": "ac9e7la02-p01",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E7LA02, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e7la02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate the role of vocabulary in building specialist and technical…",
-      "building knowledge about words of evaluation, including words to express…",
-      "understand the use of punctuation including colons and brackets to support…",
-      "identify and explore ideas, points of view, characters, events and/or issues…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p02",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E7LA02, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e7la02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "form an opinion about characters, settings and events in texts, identifying…",
-      "explain the ways that literary devices and language features such as…",
-      "analysing how evaluative language can be used to assess the qualities of a…",
-      "discuss the aesthetic and social value of literary texts using relevant and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p03",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LA02, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e7la02-04",
+    "id": "ac9e7la02-p04",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E7LA02, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "identify and explain the ways that characters, settings and events combine to…",
-      "identify and explain how literary devices create layers of meaning in texts…",
-      "create and edit literary texts that experiment with language features and…",
-      "recognising how evaluative language is used to critically assess the validity…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "correct": 0
   },
   {
-    "id": "ac9e7la02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise language used to evaluate texts including visual and multimodal…",
-      "explain the effect of current technology on reading, creating and responding…",
-      "use interaction skills when discussing and presenting ideas and information…",
-      "analyse the ways in which language features shape meaning and vary according…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p05",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E7LA02, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e7la02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "explain the structure of ideas such as the use of taxonomies, cause and…",
-      "recognising how evaluative language is used to critically assess the validity…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal texts, selecting…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p06",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E7LA02, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e7la02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver presentations for purposes and audiences…",
-      "understand how to use spelling rules and word origins; for example, Greek and…",
-      "recognising how evaluative language is used to critically assess the validity…",
-      "understanding local idioms and discussing their connection with personal and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p07",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E7LA02, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e7la02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "developing dialogue that reveals character in comics, cartoons and animations",
-      "examining the structures of book or film reviews and how they might move from…",
-      "recognising the social purpose of a persuasive text and how the purpose is…",
-      "recognise language used to evaluate texts including visual and multimodal…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E7LA02: recognise language used to evaluate texts including visual and multimodal…."
+    "id": "ac9e7la02-p08",
+    "curriculumCode": "AC9E7LA02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E7LA02, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

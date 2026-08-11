@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8st02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "analyse and report on the distribution of data from primary and secondary…",
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…"
+    "id": "ac9m8st02-p01",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8ST02, a table shows values [14, 17, 17, 20, 22]. What is the range?",
+    "explanation": "8",
+    "printable": true,
+    "visual": "Simple table with five labelled values.",
+    "instruction": "Visual brief: Simple table with five labelled values.",
+    "type": "text",
+    "acceptedAnswers": [
+      "8"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "correct": "8"
   },
   {
-    "id": "ac9m8st02-02",
+    "id": "ac9m8st02-p02",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8ST02, which display best compares categories: column graph, paragraph only, or random picture?",
+    "explanation": "Column graph.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "graph linear relations on the Cartesian plane using digital tools where…",
-      "investigating different methods of sampling used to collect data, considering…",
-      "use mathematical modelling to solve applied problems involving linear…",
-      "experiment with linear functions and relations using digital tools, making…"
+      "column graph",
+      "paragraph only",
+      "or random picture"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "correct": 0
   },
   {
-    "id": "ac9m8st02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the area and perimeter of irregular and composite…",
-      "solve problems involving the volume and capacity of right prisms using…",
-      "comparing the sampling methods of simple random, systematic, stratified,…",
-      "solve problems involving the circumference and area of a circle using…"
+    "id": "ac9m8st02-p03",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8ST02, what is the median of [14, 17, 17, 20, 22]?",
+    "explanation": "17",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "17"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "correct": "17"
   },
   {
-    "id": "ac9m8st02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve problems involving duration, including using 12- and 24-hour time…",
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "defining and distinguishing between probabilistic terms such as random,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "id": "ac9m8st02-p04",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M8ST02, sort height, favourite sport, temperature and shoe colour as numerical or categorical.",
+    "explanation": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "correct": "Numerical: height, temperature. Categorical: favourite sport, shoe colour."
   },
   {
-    "id": "ac9m8st02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "analyse and report on the distribution of data from primary and secondary…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…"
+    "id": "ac9m8st02-p05",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8ST02, a graph shows 24 students choose bus, 16 choose walk and 10 choose bike. How many students were surveyed?",
+    "explanation": "50 students.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 students"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "correct": "50 students"
   },
   {
-    "id": "ac9m8st02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "describe the position and location of objects in 3 dimensions in different…",
-      "defining and distinguishing between probabilistic terms such as random,…",
-      "design, create and test algorithms involving a sequence of steps and…",
-      "investigate techniques for data collection including census, sampling,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "id": "ac9m8st02-p06",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8ST02, write a survey question that would collect categorical data.",
+    "explanation": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "correct": "A question with categories, such as 'Which lunch option do you prefer?'"
   },
   {
-    "id": "ac9m8st02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "defining and distinguishing between probabilistic terms such as random,…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "id": "ac9m8st02-p07",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8ST02, explain why 'Do you agree that our amazing canteen is perfect?' is a biased question.",
+    "explanation": "It pushes a positive opinion instead of asking neutrally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It pushes a positive opinion instead of asking neutrally.",
+    "correct": "It pushes a positive opinion instead of asking neutrally."
   },
   {
-    "id": "ac9m8st02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "analyse and report on the distribution of data from primary and secondary…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8ST02: analyse and report on the distribution of data from primary and secondary…."
+    "id": "ac9m8st02-p08",
+    "curriculumCode": "AC9M8ST02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8ST02, use the bus/walk/bike data to write one supported conclusion.",
+    "explanation": "For example, bus was the most common travel option because 24 students chose it.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, bus was the most common travel option because 24 students chose it.",
+    "correct": "For example, bus was the most common travel option because 24 students chose it."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

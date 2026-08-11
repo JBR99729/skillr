@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "solve problems involving addition and subtraction of fractions using…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "multiply and divide decimals by multiples of powers of 10 without a…",
-      "solve problems that require finding a familiar fraction, decimal or…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "id": "ac9m6n05-p01",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "In AC9M6N05, a strip is divided into 9 equal parts and 4 parts are shaded. What fraction is shaded?",
+    "explanation": "4/9.",
+    "printable": true,
+    "visual": "Fraction strip divided into 9 equal parts with 4 shaded.",
+    "instruction": "Visual brief: Fraction strip divided into 9 equal parts with 4 shaded.",
+    "type": "self-check",
+    "modelAnswer": "4/9.",
+    "correct": "4/9."
   },
   {
-    "id": "ac9m6n05-02",
+    "id": "ac9m6n05-p02",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N05, which model correctly shows problems involving addition and subtraction of fractions: equal parts of the same whole, unequal pieces, or parts from different-sized wholes?",
+    "explanation": "Equal parts of the same whole.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "representing addition and subtraction of fractions, using an understanding of…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "equal parts of the same whole",
+      "unequal pieces",
+      "or parts from different-sized wholes"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "correct": 0
   },
   {
-    "id": "ac9m6n05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "determining the lowest common denominator using an understanding of prime and…",
-      "convert between common metric units of length, mass and capacity; choose and…"
+    "id": "ac9m6n05-p03",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N05, complete the equivalent fraction: 4/9 = 8/___.",
+    "explanation": "18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "18"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "correct": "18"
   },
   {
-    "id": "ac9m6n05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "calculating the addition or subtraction of fractions in the context of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "id": "ac9m6n05-p04",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M6N05, sort these as less than, equal to or greater than one whole: 4/9, 9/9, 10/9.",
+    "explanation": "4/9 is less than 1; 9/9 equals 1; 10/9 is greater than 1.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "4/9 is less than 1; 9/9 equals 1; 10/9 is greater than 1.",
+    "correct": "4/9 is less than 1; 9/9 equals 1; 10/9 is greater than 1."
   },
   {
-    "id": "ac9m6n05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "solve problems involving addition and subtraction of fractions using…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6n05-p05",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6N05, on a number line from 0 to 1 split into 9 equal steps, where is 4/9?",
+    "explanation": "At the 4th tick after 0.",
+    "printable": true,
+    "visual": "Number line from 0 to 1 with 9 equal intervals.",
+    "instruction": "Visual brief: Number line from 0 to 1 with 9 equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "At the 4th tick after 0"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "correct": "At the 4th tick after 0"
   },
   {
-    "id": "ac9m6n05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "understanding the processes for adding and subtracting fractions with related…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n05-p06",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N05, calculate 4/9 + 1/9.",
+    "explanation": "5/9.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "5/9"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "correct": "5/9"
   },
   {
-    "id": "ac9m6n05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "understanding the processes for adding and subtracting fractions with related…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "id": "ac9m6n05-p07",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N05, why must fractions being compared refer to the same-sized whole?",
+    "explanation": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "correct": "The size of each part depends on the whole, so different wholes make the comparison unfair."
   },
   {
-    "id": "ac9m6n05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "solve problems involving addition and subtraction of fractions using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N05: solve problems involving addition and subtraction of fractions using…."
+    "id": "ac9m6n05-p08",
+    "curriculumCode": "AC9M6N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N05, a student says 4/9 is larger when the pieces are unequal. Explain the problem.",
+    "explanation": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "correct": "Fractions require equal parts; unequal pieces do not correctly represent the denominator."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

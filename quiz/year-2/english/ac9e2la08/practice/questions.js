@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e2la08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that images add to or multiply the meanings of a text",
-      "understand how texts are made cohesive by using personal and possessive…",
-      "navigate print and screen texts using chapters, tables of contents, indexes,…",
-      "understand that connections can be made between ideas by using a compound…"
+    "id": "ac9e2la08-p01",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E2LA08, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e2la08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that in sentences nouns may be extended into noun groups using…",
-      "identifying images and graphics in a text that add ideas or information not…",
-      "experiment with and begin to make conscious choices of vocabulary to suit the…",
-      "recognise that capital letters are used in titles and commas are used to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p02",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E2LA08, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e2la08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how characters and settings are connected in literature created by…",
-      "identify features of literary texts, such as characters and settings, and…",
-      "identifying visual representations of characters’ actions, reactions, speech…",
-      "discuss the characters and settings of a range of texts and identify how…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p03",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LA08, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e2la08-04",
+    "id": "ac9e2la08-p04",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E2LA08, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "identify, reproduce and experiment with rhythmic sound and word patterns in…",
-      "create and edit literary texts by adapting structures and language features…",
-      "identify how similar topics and information are presented in different types…",
-      "identifying visual representations of characters’ actions, reactions, speech…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "correct": 0
   },
   {
-    "id": "ac9e2la08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that images add to or multiply the meanings of a text",
-      "use interaction skills when engaging with topics, actively listening to…",
-      "identify the purpose and audience of imaginative, informative and persuasive…",
-      "read texts with phrasing and fluency, using phonic and word knowledge, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p05",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E2LA08, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e2la08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "identifying visual representations of characters’ actions, reactions, speech…",
-      "create and edit short imaginative, informative and persuasive written and/or…",
-      "create, rehearse and deliver short oral and/or multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p06",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LA08, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e2la08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words legibly and with growing fluency using unjoined upper-case and…",
-      "manipulate more complex sounds in spoken words and use knowledge of blending,…",
-      "identifying visual representations of characters’ actions, reactions, speech…",
-      "use phoneme-grapheme (sound-letter/s) matches, including vowel digraphs, less…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p07",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E2LA08, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e2la08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use knowledge of spelling patterns and morphemes to read and write words…",
-      "build morphemic word families using knowledge of prefixes and suffixes",
-      "exploring culturally specific greetings and expressions of politeness",
-      "understand that images add to or multiply the meanings of a text"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LA08: understand that images add to or multiply the meanings of a text."
+    "id": "ac9e2la08-p08",
+    "curriculumCode": "AC9E2LA08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E2LA08, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

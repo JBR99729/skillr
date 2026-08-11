@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
+    "id": "ac9m6n08-p01",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N08, for AC9M6N08 approximate numerical solutions to problems involving rational numbers and percentages, calculate 65 + 25.",
+    "explanation": "90",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "90"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "correct": "90"
   },
   {
-    "id": "ac9m6n08-02",
+    "id": "ac9m6n08-p02",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N08, which estimate is most reasonable for 65 x 25: about 90, about 1620, or about 16250?",
+    "explanation": "About 1620.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "using familiar fractions, decimals and percentages to approximate…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "about 90",
+      "about 1620",
+      "or about 16250"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "correct": 1
   },
   {
-    "id": "ac9m6n08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "choosing appropriate estimation strategies including rounding to the nearest…",
-      "convert between common metric units of length, mass and capacity; choose and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "id": "ac9m6n08-p03",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6N08, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m6n08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "recognising the effect of rounding on calculations involving fractions or…"
+    "id": "ac9m6n08-p04",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N08, find the missing value: ___ + 65 = 90.",
+    "explanation": "25",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "25"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "correct": "25"
   },
   {
-    "id": "ac9m6n08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6n08-p05",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6N08, a table shows 65, 25 and 90. What is the total of all three values?",
+    "explanation": "180",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "180"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "correct": "180"
   },
   {
-    "id": "ac9m6n08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "recognising the usefulness of estimation to check calculations for contexts…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n08-p06",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6N08, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m6n08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "verifying solutions by estimating percentages in suitable contexts such as…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "id": "ac9m6n08-p07",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N08, explain one efficient strategy for solving a approximate numerical solutions to problems involving rational numbers and percentages problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m6n08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "approximate numerical solutions to problems involving rational numbers and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N08: approximate numerical solutions to problems involving rational numbers and…."
+    "id": "ac9m6n08-p08",
+    "curriculumCode": "AC9M6N08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N08, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

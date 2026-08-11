@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s2u02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "explore different actions to make sounds and how to make a variety of sounds,…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…",
-      "make and record observations, including informal measurements, using digital…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p01",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S2U02, inspect the diagram and identify one feature, part or process linked to different actions to make sounds and how to make a.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to different actions to make sounds and how to make a, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to different actions to make sounds and how to make a, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s2u02-02",
+    "id": "ac9s2u02-p02",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S2U02, which explanation best matches different actions to make sounds and how to make a: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "sort and order data and information and represent patterns, including with…",
-      "building vocabulary for describing sound, such as loudness and pitch, and…",
-      "compare observations with predictions and others’ observations, consider if…",
-      "write and create texts to communicate observations, findings and ideas, using…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "correct": 0
   },
   {
-    "id": "ac9s2u02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying celestial objects that can be observed in space such as the sun,…",
-      "viewing images or video of Earth from space, describing the shape of Earth…",
-      "exploring different ways to produce sound using familiar objects and actions…",
-      "exploring representations of the solar system and identifying Earth and other…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p03",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S2U02, sort the example cards into 'matches different actions to make sounds and how to make a' and 'does not match different actions to make sounds and how to make a'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s2u02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing that some phenomena in the sky are only visible during the day and…",
-      "investigating how shadow length changes with the changing position of the…",
-      "creating a class moon diary across a month, identifying patterns in the…",
-      "exploring how voices have a unique sound by playing games such as guess the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p04",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S2U02, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s2u02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore different actions to make sounds and how to make a variety of sounds,…",
-      "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
-      "observing and describing short-term and longer-term patterns of events that…",
-      "distinguishing between regular events that occur in the sky, such as the…"
+    "id": "ac9s2u02-p05",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S2U02, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s2u02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring how materials can be physically changed to suit a particular…",
-      "observing vibrations produced by a twanged ruler held on a desk and…",
-      "manipulating materials such as paper or fabric, and determining ways they can…",
-      "crushing a stick of chalk into a powder, comparing the properties of the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p06",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S2U02, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s2u02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "creating an ‘odd one out’ game by providing samples of the same material that…",
-      "recognising that astronomers use patterns of movement of celestial bodies in…",
-      "investigating how sound energy makes things vibrate such as when speaking,…",
-      "listening to music and learning from musicians about how music can be…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p07",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2U02, explain how evidence helps show what is happening in different actions to make sounds and how to make a.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s2u02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "discussing how we manage sound at home to ensure that we do not disturb each…",
-      "investigating toys and digital tools that are voice activated, and engaging…",
-      "exploring how sound-activated and voice-activated tools help people manage…",
-      "explore different actions to make sounds and how to make a variety of sounds,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S2U02: explore different actions to make sounds and how to make a variety of sounds,…."
+    "id": "ac9s2u02-p08",
+    "curriculumCode": "AC9S2U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2U02, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

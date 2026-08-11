@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e2le01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "discuss how characters and settings are connected in literature created by…",
-      "understand how texts are made cohesive by using personal and possessive…",
-      "navigate print and screen texts using chapters, tables of contents, indexes,…",
-      "understand that connections can be made between ideas by using a compound…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "id": "ac9e2le01-p01",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E2LE01, look at the cards. Which card best shows discuss how characters and settings are connected in literature created?",
+    "explanation": "The chosen card matches the language, text feature, story feature or purpose in the focus.",
+    "printable": true,
+    "visual": "Four simple cards: home talk, classroom talk, story page and information page, each with a picture and one short sentence.",
+    "instruction": "Visual brief: Four simple cards: home talk, classroom talk, story page and information page, each with a picture and one short sentence.",
+    "type": "self-check",
+    "modelAnswer": "The chosen card matches the language, text feature, story feature or purpose in the focus.",
+    "correct": "The chosen card matches the language, text feature, story feature or purpose in the focus."
   },
   {
-    "id": "ac9e2le01-02",
+    "id": "ac9e2le01-p02",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E2LE01, which words suit talking to a teacher: 'Please may I...', 'gimme that', or 'nah'?",
+    "explanation": "Please may I...",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "understand that in sentences nouns may be extended into noun groups using…",
-      "discussing the depiction of characters in particular settings in well-known…",
-      "understand that images add to or multiply the meanings of a text",
-      "experiment with and begin to make conscious choices of vocabulary to suit the…"
+      "'Please may I...'",
+      "'gimme that'",
+      "or 'nah'"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "correct": 0
   },
   {
-    "id": "ac9e2le01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise that capital letters are used in titles and commas are used to…",
-      "identify features of literary texts, such as characters and settings, and…",
-      "exploring the way wide-ranging Australian authors and illustrators depict the…",
-      "discuss the characters and settings of a range of texts and identify how…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "id": "ac9e2le01-p03",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E2LE01, match story, information, question and instruction to tells events, gives facts, asks and tells what to do.",
+    "explanation": "Story -> tells events; information -> gives facts; question -> asks; instruction -> tells what to do.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Story -> tells events; information -> gives facts; question -> asks; instruction -> tells what to do.",
+    "correct": "Story -> tells events; information -> gives facts; question -> asks; instruction -> tells what to do."
   },
   {
-    "id": "ac9e2le01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify, reproduce and experiment with rhythmic sound and word patterns in…",
-      "create and edit literary texts by adapting structures and language features…",
-      "identify how similar topics and information are presented in different types…",
-      "exploring the way wide-ranging Australian authors and illustrators depict the…"
+    "id": "ac9e2le01-p04",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LE01, read: 'The dog hid under the bed.' What word tells where the dog went?",
+    "explanation": "under.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "under"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "correct": "under"
   },
   {
-    "id": "ac9e2le01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss how characters and settings are connected in literature created by…",
-      "use interaction skills when engaging with topics, actively listening to…",
-      "identify the purpose and audience of imaginative, informative and persuasive…",
-      "read texts with phrasing and fluency, using phonic and word knowledge, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "id": "ac9e2le01-p05",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E2LE01, sort: polite classroom sentence, home chat sentence, story sentence, fact sentence.",
+    "explanation": "Each sentence is sorted by audience or text purpose.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each sentence is sorted by audience or text purpose.",
+    "correct": "Each sentence is sorted by audience or text purpose."
   },
   {
-    "id": "ac9e2le01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "exploring the way wide-ranging Australian authors and illustrators depict the…",
-      "create and edit short imaginative, informative and persuasive written and/or…",
-      "create, rehearse and deliver short oral and/or multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "id": "ac9e2le01-p06",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E2LE01, make this sentence clearer: 'dog run'.",
+    "explanation": "A simple complete sentence such as 'The dog runs.'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A simple complete sentence such as 'The dog runs.'",
+    "correct": "A simple complete sentence such as 'The dog runs.'"
   },
   {
-    "id": "ac9e2le01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words legibly and with growing fluency using unjoined upper-case and…",
-      "manipulate more complex sounds in spoken words and use knowledge of blending,…",
-      "exploring the way wide-ranging Australian authors and illustrators depict the…",
-      "use phoneme-grapheme (sound-letter/s) matches, including vowel digraphs, less…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "id": "ac9e2le01-p07",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E2LE01, explain why one card fits the task better than another.",
+    "explanation": "The explanation points to a word, picture, audience, purpose or text feature.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The explanation points to a word, picture, audience, purpose or text feature.",
+    "correct": "The explanation points to a word, picture, audience, purpose or text feature."
   },
   {
-    "id": "ac9e2le01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use knowledge of spelling patterns and morphemes to read and write words…",
-      "build morphemic word families using knowledge of prefixes and suffixes",
-      "exploring culturally specific greetings and expressions of politeness",
-      "discuss how characters and settings are connected in literature created by…"
+    "id": "ac9e2le01-p08",
+    "curriculumCode": "AC9E2LE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LE01, write or say one short example that fits this English focus.",
+    "explanation": "A suitable short sentence, response or text feature.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A suitable short sentence, response or text feature"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LE01: discuss how characters and settings are connected in literature created by…."
+    "correct": "A suitable short sentence, response or text feature"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

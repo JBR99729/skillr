@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e5ly03-01",
+    "id": "ac9e5ly03-p01",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E5LY03, which feature best suits a text for younger students: simple steps, dense technical paragraphs or hidden navigation?",
+    "explanation": "Simple steps.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explain characteristic features used in imaginative, informative and…",
-      "understand how texts can be made cohesive by using the starting point of a…",
-      "understand that the structure of a complex sentence includes a main clause…",
-      "understand how noun groups can be expanded in a variety of ways to provide a…"
+      "simple steps",
+      "dense technical paragraphs",
+      "hidden navigation"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "correct": 0
   },
   {
-    "id": "ac9e5ly03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explain how the sequence of images in print, digital and film texts has an…",
-      "explaining how the features of a text advocating community action; for…",
-      "understand how vocabulary is used to express greater precision of meaning,…",
-      "use commas to indicate prepositional phrases, and apostrophes where there is…"
+    "id": "ac9e5ly03-p02",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LY03, read: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.' State one literal fact.",
+    "explanation": "A fact directly stated in the snippet.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A fact directly stated in the snippet"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "correct": "A fact directly stated in the snippet"
   },
   {
-    "id": "ac9e5ly03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify aspects of literary texts that represent details or information…",
-      "present an opinion on a literary text using specific terms about literary…",
-      "explaining how characters are used to deliver the message in persuasive…",
-      "recognise that the point of view in a literary text influences how readers…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "id": "ac9e5ly03-p03",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LY03, state one inference and the evidence that supports it.",
+    "explanation": "A valid inference linked to wording or visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid inference linked to wording or visual evidence.",
+    "correct": "A valid inference linked to wording or visual evidence."
   },
   {
-    "id": "ac9e5ly03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "examine the effects of imagery, including simile, metaphor and…",
-      "create and edit literary texts, experimenting with figurative language,…",
-      "describe the ways in which a text reflects the time and place in which it was…",
-      "explaining how characters are used to deliver the message in persuasive…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "id": "ac9e5ly03-p04",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E5LY03, match imaginative, informative, persuasive and procedural to entertain, inform, convince and instruct.",
+    "explanation": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "correct": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct."
   },
   {
-    "id": "ac9e5ly03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explain characteristic features used in imaginative, informative and…",
-      "use appropriate interaction skills including paraphrasing and questioning to…",
-      "navigate and read texts for specific purposes, monitoring meaning using…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "id": "ac9e5ly03-p05",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E5LY03, revise a weak opening sentence so it better suits its audience and purpose.",
+    "explanation": "A clearer sentence with audience/purpose fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A clearer sentence with audience/purpose fit.",
+    "correct": "A clearer sentence with audience/purpose fit."
   },
   {
-    "id": "ac9e5ly03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "explaining how characters are used to deliver the message in persuasive…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations that…",
-      "use phonic, morphemic and vocabulary knowledge to read and spell words that…"
+    "id": "ac9e5ly03-p06",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9E5LY03, order the planning steps: choose audience, gather ideas, draft, revise.",
+    "explanation": "Choose audience; gather ideas; draft; revise.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "correct": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
+    ]
   },
   {
-    "id": "ac9e5ly03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "build and spell new words from knowledge of known words, base words, prefixes…",
-      "explore less common plurals, and understand how a suffix changes the meaning…",
-      "explaining how characters are used to deliver the message in persuasive…",
-      "using language that signals the roles of chairperson and the different…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "id": "ac9e5ly03-p07",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E5LY03, explain how skimming, scanning, predicting or questioning helps comprehension.",
+    "explanation": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "correct": "The strategy helps locate information, monitor meaning or prepare for what comes next."
   },
   {
-    "id": "ac9e5ly03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying ways in which cultures differ in making and responding to common…",
-      "recognising that a bare assertion (for example, “It's the best film this…",
-      "becoming familiar with the typical stages and language features of types of…",
-      "explain characteristic features used in imaginative, informative and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LY03: explain characteristic features used in imaginative, informative and…."
+    "id": "ac9e5ly03-p08",
+    "curriculumCode": "AC9E5LY03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E5LY03, create a short text or presentation plan that fits this topic and name two choices you made.",
+    "explanation": "A valid plan with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with two choices linked to purpose and audience.",
+    "correct": "A valid plan with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

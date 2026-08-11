@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e4ly07-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "plan, create, rehearse and deliver structured oral and/or multimodal…",
-      "identify how text connectives including temporal and conditional words, and…",
-      "identify text navigation features of online texts that enhance readability…",
-      "understand that complex sentences contain one independent clause and at least…"
+    "id": "ac9e4ly07-p01",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E4LY07, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e4ly07-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how quoted (direct) and reported (indirect) speech are used",
-      "reporting on a topic in an organised manner, providing relevant facts and…",
-      "understand how adverb groups/phrases and prepositional phrases work in…",
-      "understand past, present and future tenses and their impact on meaning in a…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p02",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E4LY07, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e4ly07-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "expand vocabulary by exploring a range of synonyms and antonyms, and using…",
-      "exploring the effects of changing tone, volume, pitch and pace in formal and…",
-      "understand that punctuation signals dialogue through quotation marks and that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p03",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY07, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e4ly07-04",
+    "id": "ac9e4ly07-p04",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E4LY07, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "recognise similar storylines, ideas and relationships in different contexts…",
-      "describe the effects of text structures and language features in literary…",
-      "discuss how authors and illustrators make stories engaging by the way they…",
-      "choosing a variety of appropriate words and phrases, including descriptive…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "correct": 0
   },
   {
-    "id": "ac9e4ly07-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "plan, create, rehearse and deliver structured oral and/or multimodal…",
-      "examine the use of literary devices and deliberate word play in literary…",
-      "create and edit literary texts by developing storylines, characters and…",
-      "compare texts from different times with similar purposes and audiences to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p05",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LY07, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e4ly07-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "listen for key points and information to carry out tasks and contribute to…",
-      "rehearsing a presentation with a peer and sharing feedback about tone, pace,…",
-      "identify the characteristic features used in imaginative, informative and…",
-      "read different types of texts, integrating phonic, semantic and grammatical…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p06",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY07, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e4ly07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal imaginative,…",
-      "rehearsing a presentation with a peer and sharing feedback about tone, pace,…",
-      "write words using clearly formed joined letters, with developing fluency and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p07",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LY07, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e4ly07-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to use and apply phonological and morphological knowledge to…",
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "read and write high-frequency words including homophones and know how to use…",
-      "plan, create, rehearse and deliver structured oral and/or multimodal…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY07: plan, create, rehearse and deliver structured oral and/or multimodal…."
+    "id": "ac9e4ly07-p08",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LY07, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

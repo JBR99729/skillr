@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly11-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and name all upper- and lower-case letters (graphs) and know the…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p01",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Name each letter, regardless of case.",
+    "explanation": "a/A, d/D, b/B, c/C, a/A, c/C, d/D, b/B. Award 1 mark per correct name; 8 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "a/A, d/D, b/B, c/C, a/A, c/C, d/D, b/B. Award 1 mark per correct name; 8 marks total.",
+    "correct": "a/A, d/D, b/B, c/C, a/A, c/C, d/D, b/B. Award 1 mark per correct name; 8 marks total."
   },
   {
-    "id": "ac9efly11-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "recognising letters in own name",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p02",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each upper-case letter to its lower-case partner.",
+    "explanation": "E–e, F–f, G–g, H–h. Award 1 mark each; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "E–e, F–f, G–g, H–h. Award 1 mark each; 4 marks total.",
+    "correct": "E–e, F–f, G–g, H–h. Award 1 mark each; 4 marks total."
   },
   {
-    "id": "ac9efly11-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "matching upper- and lower-case letters",
-      "recognise different types of literary texts and identify features including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p03",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Name each letter and say its most common sound in insect, jam, kite, leg.",
+    "explanation": "i /i/, j /j/, k /k/, l /l/. Award 1 mark for each name and 1 mark for each sound; 8 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "i /i/, j /j/, k /k/, l /l/. Award 1 mark for each name and 1 mark for each sound; 8 marks total.",
+    "correct": "i /i/, j /j/, k /k/, l /l/. Award 1 mark for each name and 1 mark for each sound; 8 marks total."
   },
   {
-    "id": "ac9efly11-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "identifying sounds for upper- and lower-case letters"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p04",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each letter to the word beginning with its common sound, then say the sound.",
+    "explanation": "M–moon /m/; n–nest /n/; O–octopus /o/; p–pig /p/. Award 1 mark per correct match and 1 per sound; 8 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "M–moon /m/; n–nest /n/; O–octopus /o/; p–pig /p/. Award 1 mark per correct match and 1 per sound; 8 marks total.",
+    "correct": "M–moon /m/; n–nest /n/; O–octopus /o/; p–pig /p/. Award 1 mark per correct match and 1 per sound; 8 marks total."
   },
   {
-    "id": "ac9efly11-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and name all upper- and lower-case letters (graphs) and know the…",
-      "interact in informal and structured situations by listening while others…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p05",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match, name each letter and give its sound at the start of the word.",
+    "explanation": "q–queen /kw/ in the common qu spelling, R–rabbit /r/, s–sun /s/, T–tent /t/. Award 1 mark per match/name pair and 1 per sound; 8 marks total. Explain that q commonly works with u.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "q–queen /kw/ in the common qu spelling, R–rabbit /r/, s–sun /s/, T–tent /t/. Award 1 mark per match/name pair and 1 per sound; 8 marks total. Explain that q commonly works with u.",
+    "correct": "q–queen /kw/ in the common qu spelling, R–rabbit /r/, s–sun /s/, T–tent /t/. Award 1 mark per match/name pair and 1 per sound; 8 marks total. Explain that q commonly works with u."
   },
   {
-    "id": "ac9efly11-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "identifying sounds for upper- and lower-case letters",
-      "create and participate in shared editing of short written texts to record and…",
-      "create and deliver short spoken texts to report ideas and events to peers,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p06",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Name each pair and give a word that demonstrates its common sound. For x, use a word where /ks/ is heard clearly.",
+    "explanation": "1 mark each for names u, v, w, x; 1 mark each for valid sound examples such as umbrella /u/, van /v/, web /w/, box /ks/; 8 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark each for names u, v, w, x; 1 mark each for valid sound examples such as umbrella /u/, van /v/, web /w/, box /ks/; 8 marks total.",
+    "correct": "1 mark each for names u, v, w, x; 1 mark each for valid sound examples such as umbrella /u/, van /v/, web /w/, box /ks/; 8 marks total."
   },
   {
-    "id": "ac9efly11-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "form most lower-case and upper-case letters using learnt letter formations",
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "identifying sounds for upper- and lower-case letters",
-      "segment sentences into individual words; orally blend and segment…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p07",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Sort the words by beginning sound, name both letters in each case and explain how you knew.",
+    "explanation": "Y/y: yellow, yes, /y/ (3 marks); Z/z: zip, zoo, /z/ (3 marks); 1 mark for explaining comparison of first phoneme with letter; 7 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Y/y: yellow, yes, /y/ (3 marks); Z/z: zip, zoo, /z/ (3 marks); 1 mark for explaining comparison of first phoneme with letter; 7 marks total.",
+    "correct": "Y/y: yellow, yes, /y/ (3 marks); Z/z: zip, zoo, /z/ (3 marks); 1 mark for explaining comparison of first phoneme with letter; 7 marks total."
   },
   {
-    "id": "ac9efly11-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY11: recognise and name all upper- and lower-case letters (graphs) and know the…."
+    "id": "ac9efly11-p08",
+    "curriculumCode": "AC9EFLY11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For each chosen letter, name it, write or point to its upper-case partner and give its common sound in a word.",
+    "explanation": "For each of six letters: 1 mark for name, 1 for correct case partner and 1 for a valid common-sound example; 18 marks total. Record unselected letters for later diagnostic checking rather than assuming mastery.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For each of six letters: 1 mark for name, 1 for correct case partner and 1 for a valid common-sound example; 18 marks total. Record unselected letters for later diagnostic checking rather than assuming mastery.",
+    "correct": "For each of six letters: 1 mark for name, 1 for correct case partner and 1 for a valid common-sound example; 18 marks total. Record unselected letters for later diagnostic checking rather than assuming mastery."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

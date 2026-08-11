@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s9h02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "investigate how advances in technologies enable advances in science, and how…",
-      "use wave and particle models to describe energy transfer through different…",
-      "apply the law of conservation of energy to analyse system efficiency in terms…",
-      "explain how the model of the atom changed following the discovery of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p01",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S9H02, inspect the diagram and identify one feature, part or process linked to how advances in technologies enable advances in science, and how.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to how advances in technologies enable advances in science, and how, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to how advances in technologies enable advances in science, and how, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s9h02-02",
+    "id": "ac9s9h02-p02",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S9H02, which explanation best matches how advances in technologies enable advances in science, and how: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "model the rearrangement of atoms in chemical reactions using a range of…",
-      "analysing how the development of imaging technologies has improved our…",
-      "explain how scientific knowledge is validated and refined, including the role…",
-      "analyse the key factors that contribute to science knowledge and practices…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "correct": 0
   },
   {
-    "id": "ac9s9h02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "examine how the values and needs of society influence the focus of scientific…",
-      "develop investigable questions, reasoned predictions and hypotheses to test…",
-      "considering the impact of technological advances developed in Australia such…",
-      "plan and conduct valid, reproducible investigations to answer questions and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p03",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S9H02, sort the example cards into 'matches how advances in technologies enable advances in science, and how' and 'does not match how advances in technologies enable advances in science, and how'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s9h02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and use equipment to generate and record data with precision to obtain…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse and connect a variety of data and information to identify and explain…",
-      "researching how technological advances in monitoring greenhouse gas emissions…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p04",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S9H02, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s9h02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "investigate how advances in technologies enable advances in science, and how…",
-      "assess the validity and reproducibility of methods and evaluate the validity…",
-      "construct arguments based on analysis of a variety of evidence to support…",
-      "write and create texts to communicate ideas, findings and arguments…"
+    "id": "ac9s9h02-p05",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S9H02, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s9h02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring the body’s observable responses to external stimuli (such as…",
-      "examining how properties of electromagnetic radiation relate to its uses,…",
-      "using models, flow diagrams and virtual simulations to explore and represent…",
-      "comparing the role and function of electrical impulses and hormones in the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p06",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S9H02, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s9h02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "modelling how the process of regulation is monitored and adjusted by…",
-      "examining the effects of a disorder in a feedback system, such as…",
-      "exploring how scientists and engineers make machines more energy efficient",
-      "considering how understanding of feedback mechanisms has enabled the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p07",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S9H02, explain how evidence helps show what is happening in how advances in technologies enable advances in science, and how.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s9h02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "examining how the male and female reproductive organ structures work…",
-      "explaining how the forms of male and female gametes relate to their specific…",
-      "identifying and comparing sexual and asexual reproductive strategies in plants",
-      "investigate how advances in technologies enable advances in science, and how…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S9H02: investigate how advances in technologies enable advances in science, and how…."
+    "id": "ac9s9h02-p08",
+    "curriculumCode": "AC9S9H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S9H02, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

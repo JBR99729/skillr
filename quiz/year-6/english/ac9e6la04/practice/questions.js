@@ -1,107 +1,105 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e6la04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that cohesion can be created by the intentional use of repetition,…",
-      "understand how embedded clauses can expand the variety of complex sentences…",
-      "understand how ideas can be expanded and sharpened through careful choice of…",
-      "identify and explain how images, figures, tables, diagrams, maps and graphs…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p01",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E6LA04, identify one word in this sentence that shapes meaning: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.'",
+    "explanation": "A relevant word with a valid explanation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant word with a valid explanation.",
+    "correct": "A relevant word with a valid explanation."
   },
   {
-    "id": "ac9e6la04-02",
+    "id": "ac9e6la04-p02",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E6LA04, which wording is most formal: 'Hey, give it back', 'Please return the equipment', or 'Chuck it here'?",
+    "explanation": "Please return the equipment.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "identify authors’ use of vivid, emotive vocabulary, such as metaphors,…",
-      "noting how a general word is often used for a more specific word already…",
-      "understand how to use the comma for lists, to separate a dependent clause…",
-      "identify responses to characters and events in literary texts, drawn from…"
+      "'Hey",
+      "give it back'",
+      "'Please return the equipment'",
+      "or 'Chuck it here'"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "correct": 2
   },
   {
-    "id": "ac9e6la04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify similarities and differences in literary texts on similar topics,…",
-      "identify and explain characteristics that define an author's individual style",
-      "recognising how cohesion can be developed through repeating key words or by…",
-      "explain the way authors use sound and imagery to create meaning and effect in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p03",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E6LA04, revise a sentence so it is clearer, more precise or better suited to its audience.",
+    "explanation": "A revised sentence that improves clarity, precision or audience fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A revised sentence that improves clarity, precision or audience fit.",
+    "correct": "A revised sentence that improves clarity, precision or audience fit."
   },
   {
-    "id": "ac9e6la04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "create and edit literary texts that adapt plot structure, characters,…",
-      "examine texts including media texts that represent ideas and events, and…",
-      "use interaction skills and awareness of formality when paraphrasing,…",
-      "recognising how cohesion can be developed through repeating key words or by…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p04",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E6LA04, match noun group, verb group, clause and vocabulary to naming detail, action/time, idea unit and word choice.",
+    "explanation": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice.",
+    "correct": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice."
   },
   {
-    "id": "ac9e6la04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that cohesion can be created by the intentional use of repetition,…",
-      "analyse how text structures and language features work together to meet the…",
-      "select, navigate and read texts for a range of purposes, monitoring meaning…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p05",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E6LA04, sort examples as formal, informal, technical or evaluative: 'therefore', 'cool', 'evaporation', 'excellent'.",
+    "explanation": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent.",
+    "correct": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent."
   },
   {
-    "id": "ac9e6la04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "recognising how cohesion can be developed through repeating key words or by…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations that…",
-      "use phonic knowledge of common and less common grapheme-phoneme relationships…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p06",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E6LA04, explain how changing one word can change the attitude of a sentence.",
+    "explanation": "Different words can make the tone stronger, softer, more positive, more negative or more precise.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Different words can make the tone stronger, softer, more positive, more negative or more precise.",
+    "correct": "Different words can make the tone stronger, softer, more positive, more negative or more precise."
   },
   {
-    "id": "ac9e6la04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "use knowledge of known words, word origins including some Latin and Greek…",
-      "recognising language protocols for formal address; for example, words used to…",
-      "recognising how cohesion can be developed through repeating key words or by…",
-      "discussing levels of language such as slang, colloquial, conversational and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p07",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E6LA04, analyse how a language feature in a short text helps the writer achieve a purpose.",
+    "explanation": "A valid analysis linking feature, example and purpose.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid analysis linking feature, example and purpose.",
+    "correct": "A valid analysis linking feature, example and purpose."
   },
   {
-    "id": "ac9e6la04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "presenting ideas and opinions at levels of formality appropriate to the…",
-      "identifying language choices that evoke emotion and judgements in direct and…",
-      "understanding when to share feelings and opinions; for example, in a personal…",
-      "understand that cohesion can be created by the intentional use of repetition,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E6LA04: understand that cohesion can be created by the intentional use of repetition,…."
+    "id": "ac9e6la04-p08",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E6LA04, create two versions of the same message for different audiences and explain one change.",
+    "explanation": "Two suitable versions plus an explanation of tone, vocabulary or structure.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two suitable versions plus an explanation of tone, vocabulary or structure.",
+    "correct": "Two suitable versions plus an explanation of tone, vocabulary or structure."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

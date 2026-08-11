@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e4la12-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that punctuation signals dialogue through quotation marks and that…",
-      "identify how text connectives including temporal and conditional words, and…",
-      "identify text navigation features of online texts that enhance readability…",
-      "understand that complex sentences contain one independent clause and at least…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p01",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LA12, punctuate this sentence: after the storm sam packed rope water and a torch",
+    "explanation": "After the storm, Sam packed rope, water and a torch.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "After the storm, Sam packed rope, water and a torch.",
+    "correct": "After the storm, Sam packed rope, water and a torch."
   },
   {
-    "id": "ac9e4la12-02",
+    "id": "ac9e4la12-p02",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E4LA12, which punctuation best introduces a list after a complete sentence: comma, colon or question mark?",
+    "explanation": "Colon.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "investigate how quoted (direct) and reported (indirect) speech are used",
-      "identifying the use of quotation marks, capital letters, commas and boundary…",
-      "understand how adverb groups/phrases and prepositional phrases work in…",
-      "understand past, present and future tenses and their impact on meaning in a…"
+      "comma",
+      "colon",
+      "question mark"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "correct": 1
   },
   {
-    "id": "ac9e4la12-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "expand vocabulary by exploring a range of synonyms and antonyms, and using…",
-      "using punctuated dialogue in own writing",
-      "recognise similar storylines, ideas and relationships in different contexts…"
+    "id": "ac9e4la12-p03",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LA12, rewrite 'maya visited canberra in june' with correct capitals.",
+    "explanation": "Maya visited Canberra in June.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Maya visited Canberra in June"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "correct": "Maya visited Canberra in June"
   },
   {
-    "id": "ac9e4la12-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the effects of text structures and language features in literary…",
-      "discuss how authors and illustrators make stories engaging by the way they…",
-      "examine the use of literary devices and deliberate word play in literary…",
-      "using punctuated dialogue in own writing"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p04",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E4LA12, match comma, apostrophe, question mark and brackets to pause/separate, possession/contraction, question and extra information.",
+    "explanation": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information.",
+    "correct": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information."
   },
   {
-    "id": "ac9e4la12-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that punctuation signals dialogue through quotation marks and that…",
-      "create and edit literary texts by developing storylines, characters and…",
-      "compare texts from different times with similar purposes and audiences to…",
-      "listen for key points and information to carry out tasks and contribute to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p05",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LA12, fix: The students projects were displayed.",
+    "explanation": "The students' projects were displayed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The students' projects were displayed.",
+    "correct": "The students' projects were displayed."
   },
   {
-    "id": "ac9e4la12-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the characteristic features used in imaginative, informative and…",
-      "using punctuated dialogue in own writing",
-      "read different types of texts, integrating phonic, semantic and grammatical…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p06",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LA12, how can punctuation change the rhythm or meaning of a sentence?",
+    "explanation": "It groups ideas, shows pauses, marks questions or adds extra information.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It groups ideas, shows pauses, marks questions or adds extra information.",
+    "correct": "It groups ideas, shows pauses, marks questions or adds extra information."
   },
   {
-    "id": "ac9e4la12-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal imaginative,…",
-      "plan, create, rehearse and deliver structured oral and/or multimodal…",
-      "using punctuated dialogue in own writing",
-      "write words using clearly formed joined letters, with developing fluency and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p07",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LA12, explain two punctuation changes you made to improve clarity.",
+    "explanation": "A valid explanation linking punctuation to meaning or readability.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid explanation linking punctuation to meaning or readability.",
+    "correct": "A valid explanation linking punctuation to meaning or readability."
   },
   {
-    "id": "ac9e4la12-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to use and apply phonological and morphological knowledge to…",
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "read and write high-frequency words including homophones and know how to use…",
-      "understand that punctuation signals dialogue through quotation marks and that…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LA12: understand that punctuation signals dialogue through quotation marks and that…."
+    "id": "ac9e4la12-p08",
+    "curriculumCode": "AC9E4LA12",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LA12, write a sentence that demonstrates the AC9E4LA12 punctuation focus.",
+    "explanation": "A correct sentence using the relevant punctuation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A correct sentence using the relevant punctuation.",
+    "correct": "A correct sentence using the relevant punctuation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

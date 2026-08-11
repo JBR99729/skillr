@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1h01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe how people use science in their daily lives, including using…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…",
-      "make and record observations, including informal measurements, using digital…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p01",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one way a cook uses observation or measurement.",
+    "explanation": "Example such as measuring ingredients, timing heating or observing colour/texture change (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example such as measuring ingredients, timing heating or observing colour/texture change (1 mark).",
+    "correct": "Example such as measuring ingredients, timing heating or observing colour/texture change (1 mark)."
   },
   {
-    "id": "ac9s1h01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "sort and order data and information and represent patterns, including with…",
-      "learning from farmers, bush care volunteers, gardeners or nursery owners…",
-      "compare observations with predictions and others’ observations, consider if…",
-      "write and create texts to communicate observations, findings and ideas, using…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p02",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match gardener, nurse and builder to observing plant needs, measuring temperature and testing material strength.",
+    "explanation": "Gardener ↔ plant needs; nurse ↔ temperature; builder ↔ material strength (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gardener ↔ plant needs; nurse ↔ temperature; builder ↔ material strength (1 mark each).",
+    "correct": "Gardener ↔ plant needs; nurse ↔ temperature; builder ↔ material strength (1 mark each)."
   },
   {
-    "id": "ac9s1h01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying the places where plants and animals live, including in our homes,…",
-      "identifying what they do to look after pets or plants at home and grouping…",
-      "identifying ways that science knowledge is used in the care of the local…",
-      "identifying and comparing the needs of a variety of plants and animals,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p03",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "A three-day record shows dark clouds followed by rain each day. Make a cautious prediction for a fourth dark-cloud day.",
+    "explanation": "Rain may follow, with the repeated observation as reason; does not claim certainty (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rain may follow, with the repeated observation as reason; does not claim certainty (2 marks).",
+    "correct": "Rain may follow, with the repeated observation as reason; does not claim certainty (2 marks)."
   },
   {
-    "id": "ac9s1h01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "creating dioramas of a place a plant or animal lives, and identifying the…",
-      "exploring why caring for plants and animals is important including as sources…",
-      "making and recording observations of phenomena such as changes to weather,…",
-      "learning from local ecologists or wildlife carers about native animals’ needs…"
+    "id": "ac9s1h01-p04",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Classify: ‘The soup is steaming now’ and ‘It may cool if left on the table.’",
+    "explanation": "Steaming now is an observation; may cool is a prediction (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Steaming now is an observation; may cool is a prediction (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "correct": "Steaming now is an observation; may cool is a prediction (2 marks)"
   },
   {
-    "id": "ac9s1h01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe how people use science in their daily lives, including using…",
-      "noticing how daily weather indicators and seasonal patterns help us to make…",
-      "investigating how seasonal changes affect plants and animals, including…",
-      "investigating how changes in the weather affect plants and animals, including…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p05",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: notice slippery floor; place warning/avoid area; identify water as possible cause; dry safely with adult procedure.",
+    "explanation": "Notice → identify possible cause → warn/avoid → follow safe drying procedure (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Notice → identify possible cause → warn/avoid → follow safe drying procedure (2 marks).",
+    "correct": "Notice → identify possible cause → warn/avoid → follow safe drying procedure (2 marks)."
   },
   {
-    "id": "ac9s1h01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring how people make clothing choices using predictions of weather or…",
-      "sharing examples of how they have used science knowledge at home, such as by…",
-      "observing and manipulating everyday objects such as playground equipment,…",
-      "investigating how the design of age-appropriate sporting equipment such as…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p06",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a four-day record in which a plant bends toward the window each day. Add one supported prediction.",
+    "explanation": "Shows repeated bending toward light and predicts continued bending/growth toward the window cautiously (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows repeated bending toward light and predicts continued bending/growth toward the window cautiously (3 marks).",
+    "correct": "Shows repeated bending toward light and predicts continued bending/growth toward the window cautiously (3 marks)."
   },
   {
-    "id": "ac9s1h01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that pushing or pulling on an object can start or stop its motion…",
-      "exploring ways the shape of playdough can be changed when pushed or pulled",
-      "identifying how we use pushes and pulls when preparing meals, and the tools…",
-      "designing playground equipment, toys or games and representing push and pull…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p07",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why might a raincoat maker choose a water-resistant material rather than absorbent paper?",
+    "explanation": "Water-resistant material limits water passing through; paper absorbs/weakens, based on material evidence (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Water-resistant material limits water passing through; paper absorbs/weakens, based on material evidence (2 marks).",
+    "correct": "Water-resistant material limits water passing through; paper absorbs/weakens, based on material evidence (2 marks)."
   },
   {
-    "id": "ac9s1h01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring how traditional Asian toys and games such as a kendama, Daruma…",
-      "posing questions about simple relationships between push and pull forces,…",
-      "posing questions about how animals meet their needs in particular places,…",
-      "describe how people use science in their daily lives, including using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1H01: describe how people use science in their daily lives, including using…."
+    "id": "ac9s1h01-p08",
+    "curriculumCode": "AC9S1H01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "One child predicts a puddle will dry because yesterday's puddle dried in sun. Another predicts it because 7 is lucky. Which is scientific and why?",
+    "explanation": "First prediction; it uses relevant past observation, while lucky number is not evidence about drying (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "First prediction; it uses relevant past observation, while lucky number is not evidence about drying (3 marks).",
+    "correct": "First prediction; it uses relevant past observation, while lucky number is not evidence about drying (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

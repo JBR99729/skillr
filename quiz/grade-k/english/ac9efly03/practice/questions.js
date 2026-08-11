@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly03-01",
+    "id": "ac9efly03-p01",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is clearly imaginative?",
+    "explanation": "A — It presents an invented event that does not normally happen.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "identify some differences between imaginative and informative texts",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "At midnight, the teacup grew wings and flew away.",
+      "A teacup is used for holding a drink.",
+      "Ceramic can break if it falls.",
+      "Some cups have handles."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "correct": 0
   },
   {
-    "id": "ac9efly03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "talking about what is “real” and what is imagined in texts",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p02",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Sort: (a) made-up characters, (b) labelled diagram, (c) facts about a topic, (d) invented problem and ending.",
+    "explanation": "Imaginative: (a), (d). Informative: (b), (c). Award 1 mark each; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative: (a), (d). Informative: (b), (c). Award 1 mark each; 4 marks total.",
+    "correct": "Imaginative: (a), (d). Informative: (b), (c). Award 1 mark each; 4 marks total."
   },
   {
-    "id": "ac9efly03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "identifying and selecting texts for information purposes and commenting on…",
-      "recognise different types of literary texts and identify features including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p03",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Is this imaginative or informative? Give one clue.",
+    "explanation": "Imaginative (1 mark); clue such as fictional moon snail, polishing stars, or wriggling star (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative (1 mark); clue such as fictional moon snail, polishing stars, or wriggling star (1 mark); 2 marks total.",
+    "correct": "Imaginative (1 mark); clue such as fictional moon snail, polishing stars, or wriggling star (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efly03-04",
+    "id": "ac9efly03-p04",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement best compares them?",
+    "explanation": "B — The texts use the same animal in factual and imaginative ways.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "comparing images in imaginative texts with images in informative texts"
+      "Both are instructions for knitting.",
+      "A gives a fact; B uses an imagined character and action.",
+      "A is imaginary because numbers are never factual.",
+      "B is a labelled science diagram."
     ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "correct": 1
   },
   {
-    "id": "ac9efly03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify some differences between imaginative and informative texts",
-      "interact in informal and structured situations by listening while others…",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p05",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Add one clearly imaginative detail to turn the fact into the start of a story, while keeping the caterpillar and change.",
+    "explanation": "1 mark for retaining the real change and 1 mark for an unmistakably fictional addition such as speech, magical goal or invented event; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for retaining the real change and 1 mark for an unmistakably fictional addition such as speech, magical goal or invented event; 2 marks total.",
+    "correct": "1 mark for retaining the real change and 1 mark for an unmistakably fictional addition such as speech, magical goal or invented event; 2 marks total."
   },
   {
-    "id": "ac9efly03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "comparing images in imaginative texts with images in informative texts",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p06",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Rewrite the idea as a simple informative sentence about what a volcano can do.",
+    "explanation": "A factual sentence such as “A volcano can erupt hot lava, ash and gas.” Award 1 mark for removing personification and 1 mark for plausible factual information; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A factual sentence such as “A volcano can erupt hot lava, ash and gas.” Award 1 mark for removing personification and 1 mark for plausible factual information; 2 marks total.",
+    "correct": "A factual sentence such as “A volcano can erupt hot lava, ash and gas.” Award 1 mark for removing personification and 1 mark for plausible factual information; 2 marks total."
   },
   {
-    "id": "ac9efly03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "comparing images in imaginative texts with images in informative texts",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p07",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain the problem and suggest two ways to repair the page.",
+    "explanation": "1 mark for identifying the invented claim as misleading in an informative text; up to 2 marks for repairs such as remove/replace it with a verified fact, label it as an imaginative caption, or move it into a story box; 1 mark for explaining how a repair helps readers distinguish fact from fiction; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for identifying the invented claim as misleading in an informative text; up to 2 marks for repairs such as remove/replace it with a verified fact, label it as an imaginative caption, or move it into a story box; 1 mark for explaining how a repair helps readers distinguish fact from fiction; 4 marks total.",
+    "correct": "1 mark for identifying the invented claim as misleading in an informative text; up to 2 marks for repairs such as remove/replace it with a verified fact, label it as an imaginative caption, or move it into a story box; 1 mark for explaining how a repair helps readers distinguish fact from fiction; 4 marks total."
   },
   {
-    "id": "ac9efly03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "identify some differences between imaginative and informative texts"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY03: identify some differences between imaginative and informative texts."
+    "id": "ac9efly03-p08",
+    "curriculumCode": "AC9EFLY03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Identify the imaginative and informative parts. Give two clues and explain why the page contains both.",
+    "explanation": "1 mark for identifying Ria/story as imaginative; 1 mark for a fictional clue; 1 mark for identifying fact/diagram as informative; 1 mark for factual/diagram clue; 1 mark for explaining combined engagement and learning; 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for identifying Ria/story as imaginative; 1 mark for a fictional clue; 1 mark for identifying fact/diagram as informative; 1 mark for factual/diagram clue; 1 mark for explaining combined engagement and learning; 5 marks total.",
+    "correct": "1 mark for identifying Ria/story as imaginative; 1 mark for a fictional clue; 1 mark for identifying fact/diagram as informative; 1 mark for factual/diagram clue; 1 mark for explaining combined engagement and learning; 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

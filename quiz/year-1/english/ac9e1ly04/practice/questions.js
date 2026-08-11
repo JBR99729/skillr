@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly04-p01",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Blend the sounds /m/ /a/ /p/ and say the word.",
+    "explanation": "Map (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Map (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "correct": "Map (1 mark)"
   },
   {
-    "id": "ac9e1ly04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "recognising most high-frequency words when reading a text",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p02",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match comma, full stop and question mark to short pause, stop and questioning voice.",
+    "explanation": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation (1 mark each).",
+    "correct": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation (1 mark each)."
   },
   {
-    "id": "ac9e1ly04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "self-correcting or asking for assistance when meaning breaks down",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p03",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Read ‘After lunch, / the small dog / slept under the bench.’ using the phrase marks, then explain one pause.",
+    "explanation": "Groups words meaningfully and links pause to comma/phrase meaning (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Groups words meaningfully and links pause to comma/phrase meaning (3 marks).",
+    "correct": "Groups words meaningfully and links pause to comma/phrase meaning (3 marks)."
   },
   {
-    "id": "ac9e1ly04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "self-correcting or asking for assistance when meaning breaks down"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p04",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A reader says ‘The fish sat in the tree’ for text that says ‘The fin sat in the tray’. Name two checks needed.",
+    "explanation": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess (2 marks).",
+    "correct": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess (2 marks)."
   },
   {
-    "id": "ac9e1ly04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p05",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: blend sounds; look through whole word; check sentence meaning; reread smoothly.",
+    "explanation": "Look through word → blend sounds → check meaning → reread smoothly (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Look through word → blend sounds → check meaning → reread smoothly (2 marks).",
+    "correct": "Look through word → blend sounds → check meaning → reread smoothly (2 marks)."
   },
   {
-    "id": "ac9e1ly04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "self-correcting or asking for assistance when meaning breaks down",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p06",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Copy ‘The red crab hid / beneath a flat rock’ and draw brackets around the two meaning groups.",
+    "explanation": "Correct two phrase groups marked without splitting determiners from nouns (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Correct two phrase groups marked without splitting determiners from nouns (2 marks).",
+    "correct": "Correct two phrase groups marked without splitting determiners from nouns (2 marks)."
   },
   {
-    "id": "ac9e1ly04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "self-correcting or asking for assistance when meaning breaks down",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p07",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which sounds grammatical: ‘The birds fly’ or ‘The birds flies’? Explain the check.",
+    "explanation": "‘The birds fly’; plural birds agrees with fly in standard sentence pattern (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "‘The birds fly’; plural birds agrees with fly in standard sentence pattern (2 marks).",
+    "correct": "‘The birds fly’; plural birds agrees with fly in standard sentence pattern (2 marks)."
   },
   {
-    "id": "ac9e1ly04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY04: read decodable and authentic texts using developing phonic knowledge,…."
+    "id": "ac9e1ly04-p08",
+    "curriculumCode": "AC9E1LY04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Describe how a choppy first reading of a four-sentence text can be improved without racing.",
+    "explanation": "Solve words, mark phrases/punctuation, reread accurately at steady pace with expression while preserving meaning (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Solve words, mark phrases/punctuation, reread accurately at steady pace with expression while preserving meaning (3 marks).",
+    "correct": "Solve words, mark phrases/punctuation, reread accurately at steady pace with expression while preserving meaning (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

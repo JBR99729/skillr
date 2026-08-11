@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m10st04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "construct two-way tables and discuss possible relationship between…",
-      "recognise the connection between algebraic and graphical representations of…",
-      "use mathematical modelling to solve applied problems involving growth and…",
-      "experiment with functions and relations using digital tools, making and…"
+    "id": "ac9m10st04-p01",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M10ST04, a table shows values [12, 15, 15, 18, 20]. What is the range?",
+    "explanation": "8",
+    "printable": true,
+    "visual": "Simple table with five labelled values.",
+    "instruction": "Visual brief: Simple table with five labelled values.",
+    "type": "text",
+    "acceptedAnswers": [
+      "8"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "correct": "8"
   },
   {
-    "id": "ac9m10st04-02",
+    "id": "ac9m10st04-p02",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M10ST04, which display best compares categories: column graph, paragraph only, or random picture?",
+    "explanation": "Column graph.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the surface area and volume of composite objects…",
-      "using two-way tables to investigate and comparing the survey responses to…",
-      "interpret and use logarithmic scales in applied contexts involving small and…",
-      "solve practical problems applying Pythagoras’ theorem and trigonometry of…"
+      "column graph",
+      "paragraph only",
+      "or random picture"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "correct": 0
   },
   {
-    "id": "ac9m10st04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify the impact of measurement errors on the accuracy of results in…",
-      "use mathematical modelling to solve practical problems involving proportion…",
-      "recording data in two-way tables and using percentages and proportions to…",
-      "apply deductive reasoning to proofs involving shapes in the plane and use…"
+    "id": "ac9m10st04-p03",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10ST04, what is the median of [12, 15, 15, 18, 20]?",
+    "explanation": "15",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "correct": "15"
   },
   {
-    "id": "ac9m10st04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "interpret networks and network diagrams used to represent relationships in…",
-      "design, test and refine solutions to spatial problems using algorithms and…",
-      "analyse claims, inferences and conclusions of statistical reports in the…",
-      "conducting a litter survey around the school, considering the relationship…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "id": "ac9m10st04-p04",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M10ST04, sort height, favourite sport, temperature and shoe colour as numerical or categorical.",
+    "explanation": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "correct": "Numerical: height, temperature. Categorical: favourite sport, shoe colour."
   },
   {
-    "id": "ac9m10st04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "construct two-way tables and discuss possible relationship between…",
-      "compare data distributions for continuous numerical variables using…",
-      "construct scatterplots and comment on the association between the 2 numerical…",
-      "plan and conduct statistical investigations of situations that involve…"
+    "id": "ac9m10st04-p05",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M10ST04, a graph shows 24 students choose bus, 16 choose walk and 10 choose bike. How many students were surveyed?",
+    "explanation": "50 students.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 students"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "correct": "50 students"
   },
   {
-    "id": "ac9m10st04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
-      "conducting a litter survey around the school, considering the relationship…",
-      "design and conduct repeated chance experiments and simulations using digital…",
-      "comparing and contrasting the effect of truncation or rounding on the final…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "id": "ac9m10st04-p06",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10ST04, write a survey question that would collect categorical data.",
+    "explanation": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "correct": "A question with categories, such as 'Which lunch option do you prefer?'"
   },
   {
-    "id": "ac9m10st04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating the impact of approximation on multiple calculations in…",
-      "explaining the relationship between factorisation and expansion, including…",
-      "conducting a litter survey around the school, considering the relationship…",
-      "applying knowledge of exponent laws to algebraic terms and using both…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "id": "ac9m10st04-p07",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10ST04, explain why 'Do you agree that our amazing canteen is perfect?' is a biased question.",
+    "explanation": "It pushes a positive opinion instead of asking neutrally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It pushes a positive opinion instead of asking neutrally.",
+    "correct": "It pushes a positive opinion instead of asking neutrally."
   },
   {
-    "id": "ac9m10st04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "investigating situations involving linear equations in context, such as…",
-      "describing the solution of simultaneous equations within the context of the…",
-      "graphing regions corresponding to inequalities in the Cartesian plane; for…",
-      "construct two-way tables and discuss possible relationship between…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M10ST04: construct two-way tables and discuss possible relationship between…."
+    "id": "ac9m10st04-p08",
+    "curriculumCode": "AC9M10ST04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10ST04, use the bus/walk/bike data to write one supported conclusion.",
+    "explanation": "For example, bus was the most common travel option because 24 students chose it.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, bus was the most common travel option because 24 students chose it.",
+    "correct": "For example, bus was the most common travel option because 24 students chose it."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

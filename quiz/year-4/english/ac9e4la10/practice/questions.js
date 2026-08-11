@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e4la10-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "identify how text connectives including temporal and conditional words, and…",
-      "identify text navigation features of online texts that enhance readability…",
-      "understand that complex sentences contain one independent clause and at least…"
+    "id": "ac9e4la10-p01",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E4LA10, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e4la10-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how quoted (direct) and reported (indirect) speech are used",
-      "examining visual and multimodal texts, building a vocabulary to describe…",
-      "understand how adverb groups/phrases and prepositional phrases work in…",
-      "understand past, present and future tenses and their impact on meaning in a…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p02",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E4LA10, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e4la10-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "expand vocabulary by exploring a range of synonyms and antonyms, and using…",
-      "understand that punctuation signals dialogue through quotation marks and that…",
-      "examining visual and multimodal texts, building a vocabulary to describe…",
-      "recognise similar storylines, ideas and relationships in different contexts…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p03",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LA10, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e4la10-04",
+    "id": "ac9e4la10-p04",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E4LA10, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "describe the effects of text structures and language features in literary…",
-      "discuss how authors and illustrators make stories engaging by the way they…",
-      "examine the use of literary devices and deliberate word play in literary…",
-      "examining visual and multimodal texts, building a vocabulary to describe…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "correct": 0
   },
   {
-    "id": "ac9e4la10-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "create and edit literary texts by developing storylines, characters and…",
-      "compare texts from different times with similar purposes and audiences to…",
-      "listen for key points and information to carry out tasks and contribute to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p05",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LA10, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e4la10-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the characteristic features used in imaginative, informative and…",
-      "examining visual and multimodal texts, building a vocabulary to describe…",
-      "read different types of texts, integrating phonic, semantic and grammatical…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p06",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LA10, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e4la10-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal imaginative,…",
-      "plan, create, rehearse and deliver structured oral and/or multimodal…",
-      "examining visual and multimodal texts, building a vocabulary to describe…",
-      "write words using clearly formed joined letters, with developing fluency and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p07",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LA10, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e4la10-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to use and apply phonological and morphological knowledge to…",
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "read and write high-frequency words including homophones and know how to use…",
-      "explore the effect of choices when framing an image, placement of elements in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LA10: explore the effect of choices when framing an image, placement of elements in…."
+    "id": "ac9e4la10-p08",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LA10, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

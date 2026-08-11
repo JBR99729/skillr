@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m2a02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recall and demonstrate proficiency with addition facts to 20; extend and…",
-      "add and subtract one- and two-digit numbers, representing problems using…",
-      "multiply and divide by one-digit numbers using repeated addition, equal…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m2a02-p01",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9M2A02, look at the AC9M2A02 recall and demonstrate proficiency with addition facts to 20 picture. How many objects are shown altogether?",
+    "explanation": "13 objects.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "text",
+    "acceptedAnswers": [
+      "13 objects"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "correct": "13 objects"
   },
   {
-    "id": "ac9m2a02-02",
+    "id": "ac9m2a02-p02",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M2A02, which numeral matches the collection: 13, 15 or 12?",
+    "explanation": "13.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, describe and create additive patterns that increase or decrease by…",
-      "using ten-frames or materials such as connecting cubes to develop and record…",
-      "recall and demonstrate proficiency with multiplication facts for twos; extend…",
-      "measure and compare objects based on length, capacity and mass using…"
+      "13",
+      "15",
+      "12"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "correct": 0
   },
   {
-    "id": "ac9m2a02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify common uses and represent halves, quarters and eighths in relation…",
-      "identify the date and determine the number of days between events using…",
-      "partitioning and rearranging collections to practice and develop fluency with…",
-      "recognise and read the time represented on an analog clock to the hour,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "id": "ac9m2a02-p03",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M2A02, sort the cards into 'shows recall and demonstrate proficiency with addition facts to 20' and 'does not show recall and demonstrate proficiency with addition facts to 20'.",
+    "explanation": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "correct": "Cards that match the stated number, pattern, shape or comparison belong in the first group."
   },
   {
-    "id": "ac9m2a02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify, describe and demonstrate quarter, half, three-quarter and full…",
-      "recognise, compare and classify shapes, referencing the number of sides and…",
-      "locate positions in two-dimensional representations of a familiar space; move…",
-      "using partitioning to develop and record facts systematically; for example,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "id": "ac9m2a02-p04",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2A02, how can you check that each object has been counted once?",
+    "explanation": "Touch, move, tick or point to each object once while saying one number word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Touch, move, tick or point to each object once while saying one number word.",
+    "correct": "Touch, move, tick or point to each object once while saying one number word."
   },
   {
-    "id": "ac9m2a02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recall and demonstrate proficiency with addition facts to 20; extend and…",
-      "acquire data for categorical variables through surveys, observation,…",
-      "create different graphical representations of data using software where…",
-      "recognising missing numbers on different number lines; for example, a number…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "id": "ac9m2a02-p05",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M2A02, draw or build a model that shows 6 and 7 more.",
+    "explanation": "The model shows 6, then 7 more, making 13.",
+    "printable": true,
+    "visual": "Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 6 counters on the left and 7 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "self-check",
+    "modelAnswer": "The model shows 6, then 7 more, making 13.",
+    "correct": "The model shows 6, then 7 more, making 13."
   },
   {
-    "id": "ac9m2a02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising and locating the position of pieces within hundreds chart puzzles…",
-      "using partitioning to develop and record facts systematically; for example,…",
-      "reading and writing numerals, and saying and ordering two-, three- and…",
-      "collecting large quantities of materials for recycling; for example, ring…"
+    "id": "ac9m2a02-p06",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M2A02, order the steps: check the answer, look at the picture, count or compare, choose the numeral.",
+    "explanation": "Look at the picture; count or compare; choose the numeral; check the answer.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check the answer",
+      "look at the picture",
+      "count or compare",
+      "choose the numeral"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "correct": [
+      "look at the picture",
+      "count or compare",
+      "choose the numeral",
+      "check the answer"
+    ]
   },
   {
-    "id": "ac9m2a02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the digits of a number with materials grouped into hundreds, tens…",
-      "renaming numbers in different ways using knowledge of place value; for…",
-      "using partitioning to develop and record facts systematically; for example,…",
-      "creating halves of a range of collections sets by sharing collections into 2…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "id": "ac9m2a02-p07",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M2A02, two students give different answers for the AC9M2A02 task. What should they check?",
+    "explanation": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "correct": "They should check the picture, count each object once, compare equal parts or read the labels."
   },
   {
-    "id": "ac9m2a02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "creating halves using measurement attributes; for example, explaining that “a…",
-      "using repeated halving to subdivide shapes and objects in different ways to…",
-      "dividing a shape into equal parts and relating the number of parts to the…",
-      "recall and demonstrate proficiency with addition facts to 20; extend and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2A02: recall and demonstrate proficiency with addition facts to 20; extend and…."
+    "id": "ac9m2a02-p08",
+    "curriculumCode": "AC9M2A02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2A02, make a new classroom example that shows recall and demonstrate proficiency with addition facts to 20.",
+    "explanation": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "correct": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

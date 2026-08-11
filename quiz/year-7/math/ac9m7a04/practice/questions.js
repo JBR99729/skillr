@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7a04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe relationships between variables represented in graphs of functions…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
+    "id": "ac9m7a04-p01",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7A04, a table shows values [12, 15, 15, 18, 20]. What is the range?",
+    "explanation": "8",
+    "printable": true,
+    "visual": "Simple table with five labelled values.",
+    "instruction": "Visual brief: Simple table with five labelled values.",
+    "type": "text",
+    "acceptedAnswers": [
+      "8"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "correct": "8"
   },
   {
-    "id": "ac9m7a04-02",
+    "id": "ac9m7a04-p02",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7A04, which display best compares categories: column graph, paragraph only, or random picture?",
+    "explanation": "Column graph.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "using graphs to analyse a building’s electricity or gas usage over a period…",
-      "recognise, represent and solve problems involving ratios",
-      "use mathematical modelling to solve practical problems, involving rational…"
+      "column graph",
+      "paragraph only",
+      "or random picture"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "correct": 0
   },
   {
-    "id": "ac9m7a04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "using travel graphs to compare the distance travelled to and from school,…",
-      "solve one-variable linear equations with natural number solutions; verify the…"
+    "id": "ac9m7a04-p03",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7A04, what is the median of [12, 15, 15, 18, 20]?",
+    "explanation": "15",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "correct": "15"
   },
   {
-    "id": "ac9m7a04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "telling the story behind what is being represented in graphs of functions;…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "id": "ac9m7a04-p04",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M7A04, sort height, favourite sport, temperature and shoe colour as numerical or categorical.",
+    "explanation": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "correct": "Numerical: height, temperature. Categorical: favourite sport, shoe colour."
   },
   {
-    "id": "ac9m7a04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe relationships between variables represented in graphs of functions…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7a04-p05",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7A04, a graph shows 24 students choose bus, 16 choose walk and 10 choose bike. How many students were surveyed?",
+    "explanation": "50 students.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 students"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "correct": "50 students"
   },
   {
-    "id": "ac9m7a04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "exploring how functions are used in machine learning to model relationships;…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "id": "ac9m7a04-p06",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7A04, write a survey question that would collect categorical data.",
+    "explanation": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "correct": "A question with categories, such as 'Which lunch option do you prefer?'"
   },
   {
-    "id": "ac9m7a04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "exploring how functions are used in machine learning to model relationships;…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "id": "ac9m7a04-p07",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7A04, explain why 'Do you agree that our amazing canteen is perfect?' is a biased question.",
+    "explanation": "It pushes a positive opinion instead of asking neutrally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It pushes a positive opinion instead of asking neutrally.",
+    "correct": "It pushes a positive opinion instead of asking neutrally."
   },
   {
-    "id": "ac9m7a04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A04: describe relationships between variables represented in graphs of functions…."
+    "id": "ac9m7a04-p08",
+    "curriculumCode": "AC9M7A04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7A04, use the bus/walk/bike data to write one supported conclusion.",
+    "explanation": "For example, bus was the most common travel option because 24 students chose it.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, bus was the most common travel option because 24 students chose it.",
+    "correct": "For example, bus was the most common travel option because 24 students chose it."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

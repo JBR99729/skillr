@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m5n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "express natural numbers as products of their factors, recognise multiples and…",
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "solve problems involving multiplication of larger numbers by one- or…",
-      "solve problems involving division, choosing efficient strategies and using…"
+    "id": "ac9m5n02-p01",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N02, for AC9M5N02 express natural numbers as products of their factors, recognise multiples, calculate 37 + 18.",
+    "explanation": "55",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "55"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "correct": "55"
   },
   {
-    "id": "ac9m5n02-02",
+    "id": "ac9m5n02-p02",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M5N02, which estimate is most reasonable for 37 x 18: about 55, about 660, or about 6660?",
+    "explanation": "About 660.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "check and explain the reasonableness of solutions to problems including…",
-      "using a certain number of blocks to form different rectangles and using these…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "create and use algorithms involving a sequence of steps and decisions and…"
+      "about 55",
+      "about 660",
+      "or about 6660"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "correct": 1
   },
   {
-    "id": "ac9m5n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and explain the connection between multiplication and division as…",
-      "find unknown values in numerical equations involving multiplication and…",
-      "researching divisibility tests and explaining each rule using materials; for…",
-      "choose appropriate metric units when measuring the length, mass and capacity…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "id": "ac9m5n02-p03",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M5N02, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m5n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve practical problems involving the perimeter and area of regular and…",
-      "compare 12- and 24-hour time systems and solve practical problems involving…",
-      "estimate, construct and measure angles in degrees, using appropriate tools…",
-      "using divisibility tests to determine if larger numbers are multiples of…"
+    "id": "ac9m5n02-p04",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N02, find the missing value: ___ + 37 = 55.",
+    "explanation": "18",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "18"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "correct": "18"
   },
   {
-    "id": "ac9m5n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "express natural numbers as products of their factors, recognise multiples and…",
-      "connect objects to their nets and build objects from their nets using spatial…",
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "describe and perform translations, reflections and rotations of shapes, using…"
+    "id": "ac9m5n02-p05",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M5N02, a table shows 37, 18 and 55. What is the total of all three values?",
+    "explanation": "110",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "110"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "correct": "110"
   },
   {
-    "id": "ac9m5n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire, validate and represent data for nominal and ordinal categorical and…",
-      "demonstrating and reasoning that all multiples can be formed by combining or…",
-      "interpret line graphs representing change over time; discuss the…",
-      "plan and conduct statistical investigations by posing questions or…"
+    "id": "ac9m5n02-p06",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M5N02, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m5n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "list the possible outcomes of chance experiments involving equally likely…",
-      "conduct repeated chance experiments including those with and without equally…",
-      "demonstrating and reasoning that all multiples can be formed by combining or…",
-      "making models of decimals including tenths, hundredths and thousandths by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "id": "ac9m5n02-p07",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N02, explain one efficient strategy for solving a express natural numbers as products of their factors, recognise multiples problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m5n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "renaming decimals to assist with mental computation; for example, when asked…",
-      "using a number line or number track to represent and locate decimals with…",
-      "interpreting and comparing the digits in decimal measures; for example, the…",
-      "express natural numbers as products of their factors, recognise multiples and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N02: express natural numbers as products of their factors, recognise multiples and…."
+    "id": "ac9m5n02-p08",
+    "curriculumCode": "AC9M5N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N02, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

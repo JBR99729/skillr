@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s4i01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "examine the properties of natural and made materials including fibres,…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "id": "ac9s4i01-p01",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "Inspect a labelled Year 4 questioning and predicting diagram. Which label shows the evidence most directly connected to the main idea?",
+    "explanation": "The label that points to the observed feature or measured result, not a decorative part.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The label that points to the observed feature or measured result, not a decorative part.",
+    "correct": "The label that points to the observed feature or measured result, not a decorative part."
   },
   {
-    "id": "ac9s4i01-02",
+    "id": "ac9s4i01-p02",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement is best for questioning and predicting: evidence supports explanations, guesses are always enough, or labels do not matter?",
+    "explanation": "Evidence supports explanations.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "posing questions about why some materials are used more often than others for…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "evidence supports explanations",
+      "guesses are always enough",
+      "or labels do not matter"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "correct": 0
   },
   {
-    "id": "ac9s4i01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "predicting the effect on food chains when living things are removed from or…",
-      "describing how animals, including humans, obtain their food from plants and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "id": "ac9s4i01-p03",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match questioning and predicting investigation parts: question, prediction, observation, conclusion.",
+    "explanation": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "correct": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence."
   },
   {
-    "id": "ac9s4i01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing living things in a local habitat and categorising them as…",
-      "researching the different types of decomposers and their importance within a…",
-      "representing feeding relationships of producers and consumers as a food chain…",
-      "making predictions about the distances over which magnets will attract or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "id": "ac9s4i01-p04",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one measurable or observable feature that would help compare two examples of questioning and predicting.",
+    "explanation": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count.",
+    "correct": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count."
   },
   {
-    "id": "ac9s4i01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "investigating the impact of introduced predators such as foxes on small…",
-      "researching how the removal of a food source from within a habitat, such as…",
-      "identifying everyday examples of precipitation (rain or snow), evaporation…"
+    "id": "ac9s4i01-p05",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A Year 4 questioning and predicting table has results 12, 15, 15 and 18. What pattern or repeated result can be reported?",
+    "explanation": "15 appears twice; results are between 12 and 18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15 appears twice; results are between 12 and 18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "correct": "15 appears twice; results are between 12 and 18"
   },
   {
-    "id": "ac9s4i01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying local water sources and exploring how they change over time, such…",
-      "making predictions about the distances over which magnets will attract or…",
-      "exploring where tap water comes from and predicting what happens to water…",
-      "exploring a game or simulation of the water cycle, identifying key processes…"
+    "id": "ac9s4i01-p06",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the questioning and predicting investigation steps: collect data, ask a question, plan a fair method, communicate findings.",
+    "explanation": "Ask a question; plan a fair method; collect data; communicate findings.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair method",
+      "communicate findings"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "correct": [
+      "ask a question",
+      "plan a fair method",
+      "collect data",
+      "communicate findings"
+    ]
   },
   {
-    "id": "ac9s4i01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that clouds are tiny water droplets suspended in air, observing a…",
-      "considering why we are encouraged to save and recycle water, and actions…",
-      "making predictions about the distances over which magnets will attract or…",
-      "exploring the effect of magnets on other magnets and how magnetic forces can…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "id": "ac9s4i01-p07",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why a labelled diagram or photograph would help students answer a questioning and predicting question.",
+    "explanation": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "correct": "It gives visible evidence that students can inspect, compare and refer to in their answer."
   },
   {
-    "id": "ac9s4i01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring the positive and negative effects of friction on their everyday…",
-      "recognising that gravity is the force that pulls all objects to towards the…",
-      "observing how the pushing force of a liquid enables an object to float",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4I01: pose questions to explore observed patterns and relationships and make…."
+    "id": "ac9s4i01-p08",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group changes two things at once in a questioning and predicting investigation. Explain why this is a problem.",
+    "explanation": "It becomes unclear which change caused the result, so the test is less fair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It becomes unclear which change caused the result, so the test is less fair.",
+    "correct": "It becomes unclear which change caused the result, so the test is less fair."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

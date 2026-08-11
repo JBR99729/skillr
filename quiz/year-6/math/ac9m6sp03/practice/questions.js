@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6sp03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and use combinations of transformations to create tessellations and…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
+    "id": "ac9m6sp03-p01",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6SP03, if n = 9, find 4n + 2.",
+    "explanation": "38",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "38"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "correct": "38"
   },
   {
-    "id": "ac9m6sp03-02",
+    "id": "ac9m6sp03-p02",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6SP03, which expression represents 'three more than twice x': 2x + 3, 3x + 2 or 2 + x + 3?",
+    "explanation": "2x + 3.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "understanding that the Cartesian plane provides a graphical or visual way of…",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
+      "2x + 3",
+      "3x + 2",
+      "2 + x + 3"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "correct": 0
   },
   {
-    "id": "ac9m6sp03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "understanding that the axes are number lines that can have different scales,…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "id": "ac9m6sp03-p03",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6SP03, match variable, coefficient, expression and equation to their meanings.",
+    "explanation": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "correct": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality."
   },
   {
-    "id": "ac9m6sp03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "understanding that the horizontal coordinate is written first and is changed…"
+    "id": "ac9m6sp03-p04",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6SP03, solve x + 9 = 21.",
+    "explanation": "x = 12.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 12"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "correct": "x = 12"
   },
   {
-    "id": "ac9m6sp03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and use combinations of transformations to create tessellations and…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…"
+    "id": "ac9m6sp03-p05",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6SP03, a table has x values 1, 2, 3 and y values 10, 11, 12. What is the rule?",
+    "explanation": "y = x + 9.",
+    "printable": true,
+    "visual": "Two-column input-output table.",
+    "instruction": "Visual brief: Two-column input-output table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = x + 9"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "correct": "y = x + 9"
   },
   {
-    "id": "ac9m6sp03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "using the Cartesian plane to draw lines and polygons, listing co-ordinates in…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6sp03-p06",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6SP03, order the steps: check by substitution, isolate the variable, simplify, read the equation.",
+    "explanation": "Read the equation; simplify; isolate the variable; check by substitution.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check by substitution",
+      "isolate the variable",
+      "simplify",
+      "read the equation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "correct": [
+      "read the equation",
+      "simplify",
+      "isolate the variable",
+      "check by substitution"
+    ]
   },
   {
-    "id": "ac9m6sp03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "exploring how coordinates can be used to input positional data for artificial…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "id": "ac9m6sp03-p07",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP03, explain why doing the same operation to both sides keeps an equation balanced.",
+    "explanation": "Both sides remain equal because their values change in the same way.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both sides remain equal because their values change in the same way.",
+    "correct": "Both sides remain equal because their values change in the same way."
   },
   {
-    "id": "ac9m6sp03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "recognise and use combinations of transformations to create tessellations and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP03: recognise and use combinations of transformations to create tessellations and…."
+    "id": "ac9m6sp03-p08",
+    "curriculumCode": "AC9M6SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP03, a student expands 3(x + 4) as 3x + 4. Explain and correct the error.",
+    "explanation": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "correct": "The 3 multiplies both terms; correct expansion is 3x + 12."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

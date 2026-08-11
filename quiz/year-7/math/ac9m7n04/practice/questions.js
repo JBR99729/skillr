@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7n04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
+    "id": "ac9m7n04-p01",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N04, for AC9M7N04 find equivalent representations of rational numbers and represent rational numbers, calculate 53 + 22.",
+    "explanation": "75",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "75"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "correct": "75"
   },
   {
-    "id": "ac9m7n04-02",
+    "id": "ac9m7n04-p02",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7N04, which estimate is most reasonable for 53 x 22: about 75, about 1160, or about 11660?",
+    "explanation": "About 1160.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "investigating equivalence of fractions using common multiples and a fraction…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
+      "about 75",
+      "about 1160",
+      "or about 11660"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "correct": 1
   },
   {
-    "id": "ac9m7n04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "expressing a fraction in simplest form using common divisors",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "id": "ac9m7n04-p03",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7N04, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m7n04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "applying and explaining the equivalence between fraction, decimal and…"
+    "id": "ac9m7n04-p04",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N04, find the missing value: ___ + 53 = 75.",
+    "explanation": "22",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "22"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "correct": "22"
   },
   {
-    "id": "ac9m7n04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "find equivalent representations of rational numbers and represent rational…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7n04-p05",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7N04, a table shows 53, 22 and 75. What is the total of all three values?",
+    "explanation": "150",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "150"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "correct": "150"
   },
   {
-    "id": "ac9m7n04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "representing positive and negative fractions and mixed numerals on various…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
+    "id": "ac9m7n04-p06",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7N04, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m7n04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "representing positive and negative fractions and mixed numerals on various…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "id": "ac9m7n04-p07",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N04, explain one efficient strategy for solving a find equivalent representations of rational numbers and represent rational numbers problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m7n04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "find equivalent representations of rational numbers and represent rational…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
+    "id": "ac9m7n04-p08",
+    "curriculumCode": "AC9M7N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N04, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

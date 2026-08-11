@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…",
-      "solve problems that require finding a familiar fraction, decimal or…"
+    "id": "ac9m6n04-p01",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N04, in 6.47, which digit is in the tenths place?",
+    "explanation": "4.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "correct": "4"
   },
   {
-    "id": "ac9m6n04-02",
+    "id": "ac9m6n04-p02",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N04, which is greatest: 6.07, 6.7 or 6.17?",
+    "explanation": "6.7.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "applying estimation strategies to addition and subtraction of decimals to at…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "6.07",
+      "6.7",
+      "6.17"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "correct": 1
   },
   {
-    "id": "ac9m6n04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "applying whole-number strategies; for example, using basic facts, place…",
-      "convert between common metric units of length, mass and capacity; choose and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "id": "ac9m6n04-p03",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6N04, match tenths, hundredths, thousandths and ones to their place-value meaning.",
+    "explanation": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units.",
+    "correct": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units."
   },
   {
-    "id": "ac9m6n04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "working additively with linear measurements expressed as decimals up to 2 and…"
+    "id": "ac9m6n04-p04",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6N04, on a number line from 6 to 7, where is 6.5?",
+    "explanation": "Halfway between 6 and 7.",
+    "printable": true,
+    "visual": "Number line from 6 to 7 with tenths marked.",
+    "instruction": "Visual brief: Number line from 6 to 7 with tenths marked.",
+    "type": "text",
+    "acceptedAnswers": [
+      "Halfway between 6 and 7"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "correct": "Halfway between 6 and 7"
   },
   {
-    "id": "ac9m6n04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6n04-p05",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N04, round 6.68 to the nearest whole number.",
+    "explanation": "7",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "7"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "correct": "7"
   },
   {
-    "id": "ac9m6n04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "deciding to use a calculator as a calculation strategy for solving additive…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n04-p06",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N04, calculate 6.25 + 1.4.",
+    "explanation": "7.65.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "7.65"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "correct": "7.65"
   },
   {
-    "id": "ac9m6n04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "deciding to use a calculator as a calculation strategy for solving additive…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "id": "ac9m6n04-p07",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N04, explain why 6.50 and 6.5 are the same value.",
+    "explanation": "The zero in the hundredths place does not change the value; both show five tenths.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The zero in the hundredths place does not change the value; both show five tenths.",
+    "correct": "The zero in the hundredths place does not change the value; both show five tenths."
   },
   {
-    "id": "ac9m6n04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "apply knowledge of place value to add and subtract decimals, using digital…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N04: apply knowledge of place value to add and subtract decimals, using digital…."
+    "id": "ac9m6n04-p08",
+    "curriculumCode": "AC9M6N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N04, a student says 6.2 is greater than 6.75 because 2 is bigger than 75. Explain the error.",
+    "explanation": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths.",
+    "correct": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

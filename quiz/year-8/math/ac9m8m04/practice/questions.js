@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8m04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "solve problems involving duration, including using 12- and 24-hour time…",
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "id": "ac9m8m04-p01",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M8M04, a rectangle is 10 cm by 8 cm. Find its perimeter.",
+    "explanation": "36 cm.",
+    "printable": true,
+    "visual": "Rectangle labelled 10 cm and 8 cm.",
+    "instruction": "Visual brief: Rectangle labelled 10 cm and 8 cm.",
+    "type": "self-check",
+    "modelAnswer": "36 cm.",
+    "correct": "36 cm."
   },
   {
-    "id": "ac9m8m04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "graph linear relations on the Cartesian plane using digital tools where…",
-      "using digital tools to investigate time zones around the world and convert…",
-      "use mathematical modelling to solve applied problems involving linear…",
-      "experiment with linear functions and relations using digital tools, making…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "id": "ac9m8m04-p02",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8M04, which unit is most sensible for the task: millimetres, centimetres, metres, kilograms, litres or degrees? Choose and justify briefly.",
+    "explanation": "A sensible unit matched to the object or attribute.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A sensible unit matched to the object or attribute.",
+    "correct": "A sensible unit matched to the object or attribute."
   },
   {
-    "id": "ac9m8m04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the area and perimeter of irregular and composite…",
-      "solve problems involving the volume and capacity of right prisms using…",
-      "recognising the challenges of planning regular virtual meeting times for a…",
-      "solve problems involving the circumference and area of a circle using…"
+    "id": "ac9m8m04-p03",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8M04, find the area of a rectangle 10 cm long and 8 cm wide.",
+    "explanation": "80 square cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "80 square cm"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "correct": "80 square cm"
   },
   {
-    "id": "ac9m8m04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "planning an international travel itinerary that covers destinations in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "id": "ac9m8m04-p04",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8M04, match perimeter, area, volume and angle to boundary, surface, space inside and amount of turn.",
+    "explanation": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "correct": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn."
   },
   {
-    "id": "ac9m8m04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "solve problems involving duration, including using 12- and 24-hour time…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…",
-      "describe the position and location of objects in 3 dimensions in different…"
+    "id": "ac9m8m04-p05",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8M04, a scale from 0 to 1 L has 5 equal spaces. What is each space worth?",
+    "explanation": "0.2 L or 200 mL.",
+    "printable": true,
+    "visual": "Scale drawing from 0 L to 1 L with five equal intervals.",
+    "instruction": "Visual brief: Scale drawing from 0 L to 1 L with five equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "0.2 L or 200 mL"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "correct": "0.2 L or 200 mL"
   },
   {
-    "id": "ac9m8m04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "planning an international travel itinerary that covers destinations in…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8m04-p06",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8M04, convert 2.5 m to centimetres.",
+    "explanation": "250 cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "250 cm"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "correct": "250 cm"
   },
   {
-    "id": "ac9m8m04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "planning an international travel itinerary that covers destinations in…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "id": "ac9m8m04-p07",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8M04, why should measurements include units and appropriate accuracy?",
+    "explanation": "Units say what was measured and accuracy shows how precise the result is.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Units say what was measured and accuracy shows how precise the result is.",
+    "correct": "Units say what was measured and accuracy shows how precise the result is."
   },
   {
-    "id": "ac9m8m04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "solve problems involving duration, including using 12- and 24-hour time…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8M04: solve problems involving duration, including using 12- and 24-hour time…."
+    "id": "ac9m8m04-p08",
+    "curriculumCode": "AC9M8M04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8M04, a student starts measuring from the end of a broken ruler, not from zero or a known mark. Explain the problem.",
+    "explanation": "The reading may include extra length unless the starting offset is accounted for.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The reading may include extra length unless the starting offset is accounted for.",
+    "correct": "The reading may include extra length unless the starting offset is accounted for."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8n04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…",
-      "graph linear relations on the Cartesian plane using digital tools where…"
+    "id": "ac9m8n04-p01",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N04, for AC9M8N04 4 operations with integers and with rational numbers, choosing and, calculate 57 + 23.",
+    "explanation": "80",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "80"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "correct": "80"
   },
   {
-    "id": "ac9m8n04-02",
+    "id": "ac9m8n04-p02",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8N04, which estimate is most reasonable for 57 x 23: about 80, about 1310, or about 13110?",
+    "explanation": "About 1310.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use mathematical modelling to solve applied problems involving linear…",
-      "using patterns to assist in establishing the rules for the multiplication and…",
-      "experiment with linear functions and relations using digital tools, making…",
-      "solve problems involving the area and perimeter of irregular and composite…"
+      "about 80",
+      "about 1310",
+      "or about 13110"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "correct": 1
   },
   {
-    "id": "ac9m8n04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the volume and capacity of right prisms using…",
-      "solve problems involving the circumference and area of a circle using…",
-      "applying and explaining efficient strategies such as using the commutative or…",
-      "solve problems involving duration, including using 12- and 24-hour time…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "id": "ac9m8n04-p03",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8N04, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m8n04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "recognising the effect of sign in the multiplication of integers; for…"
+    "id": "ac9m8n04-p04",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N04, find the missing value: ___ + 57 = 80.",
+    "explanation": "23",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "23"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "correct": "23"
   },
   {
-    "id": "ac9m8n04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…",
-      "describe the position and location of objects in 3 dimensions in different…"
+    "id": "ac9m8n04-p05",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8N04, a table shows 57, 23 and 80. What is the total of all three values?",
+    "explanation": "160",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "160"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "correct": "160"
   },
   {
-    "id": "ac9m8n04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "recognising the effect of sign in the multiplication of integers; for…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8n04-p06",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M8N04, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m8n04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "recognising the effect of sign in the multiplication of integers; for…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "id": "ac9m8n04-p07",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N04, explain one efficient strategy for solving a 4 operations with integers and with rational numbers, choosing and problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m8n04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "use the 4 operations with integers and with rational numbers, choosing and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N04: use the 4 operations with integers and with rational numbers, choosing and…."
+    "id": "ac9m8n04-p08",
+    "curriculumCode": "AC9M8N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N04, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly02-01",
+    "id": "ac9efly02-p01",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A classmate is explaining a drawing. Which action best shows listening?",
+    "explanation": "D — Attention and waiting allow the classmate’s message to be heard.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "interact in informal and structured situations by listening while others…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "Call out a new idea over the speaker.",
+      "Start a different conversation.",
+      "Cover the drawing and sing.",
+      "Face the speaker and wait until they finish."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "correct": 3
   },
   {
-    "id": "ac9efly02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "exchanging ideas with peers in pairs and small groups, engaging in class…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p02",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match: (a) speaking to one partner in the library, (b) telling news to the whole class, (c) chatting with a friend outside at lunch.",
+    "explanation": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total.",
+    "correct": "(a) quiet, (b) loud enough for the group, (c) comfortable conversation voice. Award 1 mark each; 3 marks total."
   },
   {
-    "id": "ac9efly02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "showing understanding of appropriate listening behaviour, such as listening…",
-      "recognise different types of literary texts and identify features including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p03",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Give a response that shows you listened to the idea.",
+    "explanation": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total.",
+    "correct": "Refers to the speaker’s content through a relevant comment or question, such as “Did the wide base make it steadier?” Award 1 mark for relevance and 1 mark for waiting/responding clearly; 2 marks total."
   },
   {
-    "id": "ac9efly02-04",
+    "id": "ac9efly02-p04",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which situation is most structured, with an expected order for speaking?",
+    "explanation": "A — Morning circle has an organised purpose and turn sequence.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "altering volume for inside and outside situations and when speaking to an…"
+      "Each child shares one observation during morning circle.",
+      "Two friends invent a game at recess.",
+      "Siblings chat while drawing at home.",
+      "Children laugh together on the swings."
     ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "correct": 0
   },
   {
-    "id": "ac9efly02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "interact in informal and structured situations by listening while others…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p05",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Join the conversation politely with one relevant idea, using a volume that suits the small group.",
+    "explanation": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total.",
+    "correct": "1 mark for entering at a pause/without interrupting, 1 mark for a relevant contribution and 1 mark for an appropriate conversational volume; 3 marks total."
   },
   {
-    "id": "ac9efly02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "participating in informal interaction situations; for example, play-based…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p06",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What could Toby do and say to repair the interaction?",
+    "explanation": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total.",
+    "correct": "Stops/waits (1 mark) and gives a suitable repair such as “Sorry, please finish” or “I spoke over you” (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efly02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "listening to and following instructions",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p07",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Identify the communication problem and suggest two changes that would help the whole class listen.",
+    "explanation": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total.",
+    "correct": "1 mark for identifying insufficient volume/unclear audience delivery; 1 mark each for two useful changes such as louder clear voice, facing the group, slower pace or waiting for quiet; 1 mark for explaining how a change helps listeners; 4 marks total."
   },
   {
-    "id": "ac9efly02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "interact in informal and structured situations by listening while others…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY02: interact in informal and structured situations by listening while others…."
+    "id": "ac9efly02-p08",
+    "curriculumCode": "AC9EFLY02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Propose a fair speaking plan, including what listeners do and how each speaker should use their voice.",
+    "explanation": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total.",
+    "correct": "1 mark for a turn system such as an order/object/list; 1 mark for listeners waiting and attending; 1 mark for each speaker using audible but not shouting volume; 1 mark for a transition cue or relevant response between turns; 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

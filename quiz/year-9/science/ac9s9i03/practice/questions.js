@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s9i03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "select and use equipment to generate and record data with precision to obtain…",
-      "use wave and particle models to describe energy transfer through different…",
-      "apply the law of conservation of energy to analyse system efficiency in terms…",
-      "explain how the model of the atom changed following the discovery of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "id": "ac9s9i03-p01",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S9I03, write one testable question about select and use equipment to generate and record data with.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s9i03-02",
+    "id": "ac9s9i03-p02",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S9I03, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "model the rearrangement of atoms in chemical reactions using a range of…",
-      "using an electronic balance that measures within the parameters of the…",
-      "explain how scientific knowledge is validated and refined, including the role…",
-      "investigate how advances in technologies enable advances in science, and how…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "correct": 0
   },
   {
-    "id": "ac9s9i03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "analyse the key factors that contribute to science knowledge and practices…",
-      "examine how the values and needs of society influence the focus of scientific…",
-      "using data loggers and choosing correct scale and appropriate output…",
-      "develop investigable questions, reasoned predictions and hypotheses to test…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "id": "ac9s9i03-p03",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S9I03, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s9i03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "plan and conduct valid, reproducible investigations to answer questions and…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse and connect a variety of data and information to identify and explain…",
-      "examining the degree of accuracy that different instruments provide, such as…"
+    "id": "ac9s9i03-p04",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S9I03, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s9i03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "select and use equipment to generate and record data with precision to obtain…",
-      "assess the validity and reproducibility of methods and evaluate the validity…",
-      "construct arguments based on analysis of a variety of evidence to support…",
-      "write and create texts to communicate ideas, findings and arguments…"
+    "id": "ac9s9i03-p05",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S9I03, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s9i03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring the body’s observable responses to external stimuli (such as…",
-      "considering the replicability of data collected using different instruments,…",
-      "using models, flow diagrams and virtual simulations to explore and represent…",
-      "comparing the role and function of electrical impulses and hormones in the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "id": "ac9s9i03-p06",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S9I03, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s9i03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "modelling how the process of regulation is monitored and adjusted by…",
-      "examining the effects of a disorder in a feedback system, such as…",
-      "discussing the amount of data needed to produce a useful sample size and why…",
-      "considering how understanding of feedback mechanisms has enabled the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "id": "ac9s9i03-p07",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S9I03, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s9i03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "examining how the male and female reproductive organ structures work…",
-      "explaining how the forms of male and female gametes relate to their specific…",
-      "identifying and comparing sexual and asexual reproductive strategies in plants",
-      "select and use equipment to generate and record data with precision to obtain…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S9I03: select and use equipment to generate and record data with precision to obtain…."
+    "id": "ac9s9i03-p08",
+    "curriculumCode": "AC9S9I03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S9I03, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

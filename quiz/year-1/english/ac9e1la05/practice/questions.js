@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand how print and screen texts are organised using features such as…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand that a simple sentence consists of a single independent clause…",
-      "understand that words can represent people, places and things (nouns,…"
+    "id": "ac9e1la05-p01",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A contents page says ‘Weather — page 8’. Where should the reader turn?",
+    "explanation": "Page 8 (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Page 8 (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "correct": "Page 8 (1 mark)"
   },
   {
-    "id": "ac9e1la05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare how images in different types of texts contribute to meaning",
-      "comparing the layout of print and digital texts; for example, the layout of…",
-      "recognise the vocabulary of learning area topics",
-      "understand that written language uses punctuation such as full stops,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p02",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match title, heading and Home button to names whole text, names section and returns to main screen.",
+    "explanation": "Title ↔ whole text; heading ↔ section; Home ↔ main screen (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Title ↔ whole text; heading ↔ section; Home ↔ main screen (1 mark each).",
+    "correct": "Title ↔ whole text; heading ↔ section; Home ↔ main screen (1 mark each)."
   },
   {
-    "id": "ac9e1la05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "discuss literary texts and share responses by making connections with…",
-      "comparing the layout of print and digital texts; for example, the layout of…",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p03",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Using the provided contents page, demonstrate how to find ‘Animal homes’ and state the page number used.",
+    "explanation": "Finds correct contents entry and turns/selects the matching page (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Finds correct contents entry and turns/selects the matching page (2 marks).",
+    "correct": "Finds correct contents entry and turns/selects the matching page (2 marks)."
   },
   {
-    "id": "ac9e1la05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "comparing the layout of print and digital texts; for example, the layout of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p04",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A reader wants the next page of a digital story. Name one suitable labelled control or gesture.",
+    "explanation": "Next button, right arrow, swipe as instructed or suitable voice command (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Next button, right arrow, swipe as instructed or suitable voice command (1 mark).",
+    "correct": "Next button, right arrow, swipe as instructed or suitable voice command (1 mark)."
   },
   {
-    "id": "ac9e1la05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand how print and screen texts are organised using features such as…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p05",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: scan contents; open book; find topic title; turn to listed page.",
+    "explanation": "Open book → scan contents → find topic → turn to listed page (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Open book → scan contents → find topic → turn to listed page (2 marks).",
+    "correct": "Open book → scan contents → find topic → turn to listed page (2 marks)."
   },
   {
-    "id": "ac9e1la05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "comparing the layout of print and digital texts; for example, the layout of…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p06",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw an information page with title, heading, page number and labelled image.",
+    "explanation": "Includes all four features placed so their roles are clear (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Includes all four features placed so their roles are clear (3 marks).",
+    "correct": "Includes all four features placed so their roles are clear (3 marks)."
   },
   {
-    "id": "ac9e1la05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "comparing the layout of print and digital texts; for example, the layout of…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p07",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why is the heading ‘What frogs eat’ more useful than the heading ‘Things’?",
+    "explanation": "It names the section topic precisely, helping readers predict and locate information (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It names the section topic precisely, helping readers predict and locate information (2 marks).",
+    "correct": "It names the section topic precisely, helping readers predict and locate information (2 marks)."
   },
   {
-    "id": "ac9e1la05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "understand how print and screen texts are organised using features such as…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA05: understand how print and screen texts are organised using features such as…."
+    "id": "ac9e1la05-p08",
+    "curriculumCode": "AC9E1LA05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "State one feature shared by print and screen texts and one feature mainly used for screen navigation.",
+    "explanation": "Shared example title/image/heading; screen example button/link/swipe/voice command (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shared example title/image/heading; screen example button/link/swipe/voice command (2 marks).",
+    "correct": "Shared example title/image/heading; screen example button/link/swipe/voice command (2 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

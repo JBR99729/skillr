@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7a05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
+    "id": "ac9m7a05-p01",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7A05, if n = 4, find 4n + 2.",
+    "explanation": "18",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "correct": "18"
   },
   {
-    "id": "ac9m7a05-02",
+    "id": "ac9m7a05-p02",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7A05, which expression represents 'three more than twice x': 2x + 3, 3x + 2 or 2 + x + 3?",
+    "explanation": "2x + 3.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "plotting points from a table of values generated using simple linear…",
-      "recognise, represent and solve problems involving ratios",
-      "use mathematical modelling to solve practical problems, involving rational…"
+      "2x + 3",
+      "3x + 2",
+      "2 + x + 3"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "correct": 0
   },
   {
-    "id": "ac9m7a05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "discussing and using variables to create a general rule and use the rule to…",
-      "solve one-variable linear equations with natural number solutions; verify the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "id": "ac9m7a05-p03",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7A05, match variable, coefficient, expression and equation to their meanings.",
+    "explanation": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality.",
+    "correct": "Variable -> unknown/changing value; coefficient -> multiplier; expression -> algebraic phrase; equation -> statement of equality."
   },
   {
-    "id": "ac9m7a05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe relationships between variables represented in graphs of functions…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "using function machines to generate a table of ordered pairs using input and…"
+    "id": "ac9m7a05-p04",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7A05, solve x + 4 = 16.",
+    "explanation": "x = 12.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 12"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "correct": "x = 12"
   },
   {
-    "id": "ac9m7a05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7a05-p05",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7A05, a table has x values 1, 2, 3 and y values 5, 6, 7. What is the rule?",
+    "explanation": "y = x + 4.",
+    "printable": true,
+    "visual": "Two-column input-output table.",
+    "instruction": "Visual brief: Two-column input-output table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = x + 4"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "correct": "y = x + 4"
   },
   {
-    "id": "ac9m7a05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "using diagrams and manipulatives to form linear growth patterns, representing…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
+    "id": "ac9m7a05-p06",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7A05, order the steps: check by substitution, isolate the variable, simplify, read the equation.",
+    "explanation": "Read the equation; simplify; isolate the variable; check by substitution.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check by substitution",
+      "isolate the variable",
+      "simplify",
+      "read the equation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "correct": [
+      "read the equation",
+      "simplify",
+      "isolate the variable",
+      "check by substitution"
+    ]
   },
   {
-    "id": "ac9m7a05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "using a simple general-purpose programming language to create and use…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "id": "ac9m7a05-p07",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7A05, explain why doing the same operation to both sides keeps an equation balanced.",
+    "explanation": "Both sides remain equal because their values change in the same way.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both sides remain equal because their values change in the same way.",
+    "correct": "Both sides remain equal because their values change in the same way."
   },
   {
-    "id": "ac9m7a05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "generate tables of values from visually growing patterns or the rule of a…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A05: generate tables of values from visually growing patterns or the rule of a…."
+    "id": "ac9m7a05-p08",
+    "curriculumCode": "AC9M7A05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7A05, a student expands 3(x + 4) as 3x + 4. Explain and correct the error.",
+    "explanation": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The 3 multiplies both terms; correct expansion is 3x + 12.",
+    "correct": "The 3 multiplies both terms; correct expansion is 3x + 12."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

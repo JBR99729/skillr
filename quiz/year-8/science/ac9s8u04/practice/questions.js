@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s8u04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the key processes of the rock cycle, including the timescales over…",
-      "classify different types of energy as kinetic or potential and investigate…",
-      "classify matter as elements, compounds or mixtures and compare different…",
-      "compare physical and chemical changes and identify indicators of energy…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p01",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S8U04, inspect the diagram and identify one feature, part or process linked to key processes of the rock cycle.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to key processes of the rock cycle, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to key processes of the rock cycle, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s8u04-02",
+    "id": "ac9s8u04-p02",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S8U04, which explanation best matches key processes of the rock cycle: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "comparing the observable properties of different types of rocks and…",
-      "investigate how cultural perspectives and world views influence the…",
-      "examine how proposed scientific responses to contemporary issues may impact…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "correct": 0
   },
   {
-    "id": "ac9s8u04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explore the role of science communication in informing individual viewpoints…",
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "exploring the major processes of the rock cycle including weathering,…",
-      "plan and conduct reproducible investigations to answer questions and test…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p03",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S8U04, sort the example cards into 'matches key processes of the rock cycle' and 'does not match key processes of the rock cycle'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s8u04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and use equipment to generate and record data with precision, using…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "analysing the role of forces and heat energy in the formation of different…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p04",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S8U04, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s8u04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the key processes of the rock cycle, including the timescales over…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "write and create texts to communicate ideas, findings and arguments for…"
+    "id": "ac9s8u04-p05",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S8U04, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s8u04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring an augmented or virtual reality tour of a plant or animal to ‘zoom…",
-      "examining fossil evidence, such as body, trace or opalised fossils, to…",
-      "identifying the structure and function of organelles in cells including the…",
-      "examining a variety of cells, including single-celled organisms, using a…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p06",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S8U04, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s8u04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the similarities and differences of plant cells and animal cells…",
-      "designing a physical or digital model of a cell and explaining how the…",
-      "explaining the uses of different types of rocks with reference to their…",
-      "considering how the invention of the microscope has contributed to…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p07",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S8U04, explain how evidence helps show what is happening in key processes of the rock cycle.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s8u04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "comparing 2-dimensional and 3-dimensional representations of organ systems to…",
-      "comparing the structure and function of analogous systems in a plant and an…",
-      "examining the specialised cells and tissues involved in structure and…",
-      "describe the key processes of the rock cycle, including the timescales over…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S8U04: describe the key processes of the rock cycle, including the timescales over…."
+    "id": "ac9s8u04-p08",
+    "curriculumCode": "AC9S8U04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S8U04, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

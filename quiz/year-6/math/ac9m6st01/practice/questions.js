@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6st01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
+    "id": "ac9m6st01-p01",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6ST01, a table shows values [20, 23, 23, 26, 28]. What is the range?",
+    "explanation": "8",
+    "printable": true,
+    "visual": "Simple table with five labelled values.",
+    "instruction": "Visual brief: Simple table with five labelled values.",
+    "type": "text",
+    "acceptedAnswers": [
+      "8"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "correct": "8"
   },
   {
-    "id": "ac9m6st01-02",
+    "id": "ac9m6st01-p02",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6ST01, which display best compares categories: column graph, paragraph only, or random picture?",
+    "explanation": "Column graph.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "determining the range for a numerical data set by finding the difference…",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
+      "column graph",
+      "paragraph only",
+      "or random picture"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "correct": 0
   },
   {
-    "id": "ac9m6st01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "representing acquired numerical data sets using side-by-side column graphs,…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
+    "id": "ac9m6st01-p03",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6ST01, what is the median of [20, 23, 23, 26, 28]?",
+    "explanation": "23",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "23"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "correct": "23"
   },
   {
-    "id": "ac9m6st01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "representing ordinal data collected through surveys, using visualisation…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "id": "ac9m6st01-p04",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M6ST01, sort height, favourite sport, temperature and shoe colour as numerical or categorical.",
+    "explanation": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "correct": "Numerical: height, temperature. Categorical: favourite sport, shoe colour."
   },
   {
-    "id": "ac9m6st01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…"
+    "id": "ac9m6st01-p05",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6ST01, a graph shows 24 students choose bus, 16 choose walk and 10 choose bike. How many students were surveyed?",
+    "explanation": "50 students.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 students"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "correct": "50 students"
   },
   {
-    "id": "ac9m6st01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognise and use combinations of transformations to create tessellations and…",
-      "using technology to access data sets and graphing software to construct…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "id": "ac9m6st01-p06",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6ST01, write a survey question that would collect categorical data.",
+    "explanation": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "correct": "A question with categories, such as 'Which lunch option do you prefer?'"
   },
   {
-    "id": "ac9m6st01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "using technology to access data sets and graphing software to construct…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "id": "ac9m6st01-p07",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6ST01, explain why 'Do you agree that our amazing canteen is perfect?' is a biased question.",
+    "explanation": "It pushes a positive opinion instead of asking neutrally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It pushes a positive opinion instead of asking neutrally.",
+    "correct": "It pushes a positive opinion instead of asking neutrally."
   },
   {
-    "id": "ac9m6st01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6ST01: interpret and compare data sets for ordinal and nominal categorical, discrete…."
+    "id": "ac9m6st01-p08",
+    "curriculumCode": "AC9M6ST01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6ST01, use the bus/walk/bike data to write one supported conclusion.",
+    "explanation": "For example, bus was the most common travel option because 24 students chose it.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, bus was the most common travel option because 24 students chose it.",
+    "correct": "For example, bus was the most common travel option because 24 students chose it."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

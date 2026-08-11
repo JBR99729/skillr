@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e2la10-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise that capital letters are used in titles and commas are used to…",
-      "understand how texts are made cohesive by using personal and possessive…",
-      "navigate print and screen texts using chapters, tables of contents, indexes,…",
-      "understand that connections can be made between ideas by using a compound…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p01",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E2LA10, punctuate this sentence: after the storm sam packed rope water and a torch",
+    "explanation": "After the storm, Sam packed rope, water and a torch.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "After the storm, Sam packed rope, water and a torch.",
+    "correct": "After the storm, Sam packed rope, water and a torch."
   },
   {
-    "id": "ac9e2la10-02",
+    "id": "ac9e2la10-p02",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E2LA10, which punctuation best introduces a list after a complete sentence: comma, colon or question mark?",
+    "explanation": "Colon.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "understand that in sentences nouns may be extended into noun groups using…",
-      "identifying how capital letters are used in the titles of texts",
-      "understand that images add to or multiply the meanings of a text",
-      "experiment with and begin to make conscious choices of vocabulary to suit the…"
+      "comma",
+      "colon",
+      "question mark"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "correct": 1
   },
   {
-    "id": "ac9e2la10-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how characters and settings are connected in literature created by…",
-      "identify features of literary texts, such as characters and settings, and…",
-      "identifying commas used in lists in a variety of types of texts; for example,…",
-      "discuss the characters and settings of a range of texts and identify how…"
+    "id": "ac9e2la10-p03",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LA10, rewrite 'maya visited canberra in june' with correct capitals.",
+    "explanation": "Maya visited Canberra in June.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Maya visited Canberra in June"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "correct": "Maya visited Canberra in June"
   },
   {
-    "id": "ac9e2la10-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify, reproduce and experiment with rhythmic sound and word patterns in…",
-      "create and edit literary texts by adapting structures and language features…",
-      "identify how similar topics and information are presented in different types…",
-      "identifying commas used in lists in a variety of types of texts; for example,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p04",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E2LA10, match comma, apostrophe, question mark and brackets to pause/separate, possession/contraction, question and extra information.",
+    "explanation": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information.",
+    "correct": "Comma -> pause/separate; apostrophe -> possession/contraction; question mark -> question; brackets -> extra information."
   },
   {
-    "id": "ac9e2la10-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise that capital letters are used in titles and commas are used to…",
-      "use interaction skills when engaging with topics, actively listening to…",
-      "identify the purpose and audience of imaginative, informative and persuasive…",
-      "read texts with phrasing and fluency, using phonic and word knowledge, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p05",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E2LA10, fix: The students projects were displayed.",
+    "explanation": "The students' projects were displayed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The students' projects were displayed.",
+    "correct": "The students' projects were displayed."
   },
   {
-    "id": "ac9e2la10-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "identifying commas used in lists in a variety of types of texts; for example,…",
-      "create and edit short imaginative, informative and persuasive written and/or…",
-      "create, rehearse and deliver short oral and/or multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p06",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E2LA10, how can punctuation change the rhythm or meaning of a sentence?",
+    "explanation": "It groups ideas, shows pauses, marks questions or adds extra information.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It groups ideas, shows pauses, marks questions or adds extra information.",
+    "correct": "It groups ideas, shows pauses, marks questions or adds extra information."
   },
   {
-    "id": "ac9e2la10-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words legibly and with growing fluency using unjoined upper-case and…",
-      "manipulate more complex sounds in spoken words and use knowledge of blending,…",
-      "identifying commas used in lists in a variety of types of texts; for example,…",
-      "use phoneme-grapheme (sound-letter/s) matches, including vowel digraphs, less…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p07",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E2LA10, explain two punctuation changes you made to improve clarity.",
+    "explanation": "A valid explanation linking punctuation to meaning or readability.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid explanation linking punctuation to meaning or readability.",
+    "correct": "A valid explanation linking punctuation to meaning or readability."
   },
   {
-    "id": "ac9e2la10-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use knowledge of spelling patterns and morphemes to read and write words…",
-      "build morphemic word families using knowledge of prefixes and suffixes",
-      "exploring culturally specific greetings and expressions of politeness",
-      "recognise that capital letters are used in titles and commas are used to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E2LA10: recognise that capital letters are used in titles and commas are used to…."
+    "id": "ac9e2la10-p08",
+    "curriculumCode": "AC9E2LA10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E2LA10, write a sentence that demonstrates the AC9E2LA10 punctuation focus.",
+    "explanation": "A correct sentence using the relevant punctuation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A correct sentence using the relevant punctuation.",
+    "correct": "A correct sentence using the relevant punctuation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

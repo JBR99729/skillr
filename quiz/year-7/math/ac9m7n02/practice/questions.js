@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "represent natural numbers as products of powers of prime numbers using…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
+    "id": "ac9m7n02-p01",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N02, for AC9M7N02 represent natural numbers as products of powers of prime numbers, calculate 45 + 20.",
+    "explanation": "65",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "65"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "correct": "65"
   },
   {
-    "id": "ac9m7n02-02",
+    "id": "ac9m7n02-p02",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7N02, which estimate is most reasonable for 45 x 20: about 65, about 900, or about 9000?",
+    "explanation": "About 900.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "applying knowledge of factors to strategies for expressing natural numbers as…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
+      "about 65",
+      "about 900",
+      "or about 9000"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "correct": 1
   },
   {
-    "id": "ac9m7n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "developing familiarity with the sequence 1, 2, 4, 8, 16, 32, 64, 128, 256,…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "id": "ac9m7n02-p03",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7N02, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m7n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "solving problems involving lowest common multiples and greatest common…"
+    "id": "ac9m7n02-p04",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N02, find the missing value: ___ + 45 = 65.",
+    "explanation": "20",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "20"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "correct": "20"
   },
   {
-    "id": "ac9m7n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "represent natural numbers as products of powers of prime numbers using…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7n02-p05",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7N02, a table shows 45, 20 and 65. What is the total of all three values?",
+    "explanation": "130",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "130"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "correct": "130"
   },
   {
-    "id": "ac9m7n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "solving problems involving lowest common multiples and greatest common…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
+    "id": "ac9m7n02-p06",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7N02, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m7n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "solving problems involving lowest common multiples and greatest common…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "id": "ac9m7n02-p07",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N02, explain one efficient strategy for solving a represent natural numbers as products of powers of prime numbers problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m7n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "represent natural numbers as products of powers of prime numbers using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N02: represent natural numbers as products of powers of prime numbers using…."
+    "id": "ac9m7n02-p08",
+    "curriculumCode": "AC9M7N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N02, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

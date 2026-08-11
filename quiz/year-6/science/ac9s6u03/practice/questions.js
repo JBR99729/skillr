@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s6u03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "investigate the transfer and transformation of energy in electrical circuits,…",
-      "examine why advances in science are often the result of collaboration or…",
-      "investigate how scientific knowledge is used by individuals and communities…",
-      "pose investigable questions to identify patterns and test relationships and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p01",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S6U03, inspect the diagram and identify one feature, part or process linked to transfer and transformation of energy in electrical circuits.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to transfer and transformation of energy in electrical circuits, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to transfer and transformation of energy in electrical circuits, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s6u03-02",
+    "id": "ac9s6u03-p02",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S6U03, which explanation best matches transfer and transformation of energy in electrical circuits: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "plan and conduct repeatable investigations to answer questions including, as…",
-      "identifying necessary components for an electric circuit such as a source of…",
-      "use equipment to observe, measure and record data with reasonable precision,…",
-      "construct and use appropriate representations, including tables, graphs and…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "correct": 0
   },
   {
-    "id": "ac9s6u03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "write and create texts to communicate ideas and findings for specific…",
-      "constructing a real or virtual circuit to examine requirements to allow the…",
-      "identifying the physical conditions in an aquatic or terrestrial habitat and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p03",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S6U03, sort the example cards into 'matches transfer and transformation of energy in electrical circuits' and 'does not match transfer and transformation of energy in electrical circuits'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s6u03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "investigating how changes to physical conditions such as salinity, soil type,…",
-      "examining how changes in physical conditions such as temperature, light…",
-      "investigating changes in physical conditions that are the result of human…",
-      "constructing representations of electrical circuits and their components…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p04",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S6U03, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s6u03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "investigate the transfer and transformation of energy in electrical circuits,…",
-      "investigating the effect of physical conditions on the growth of bread mould…",
-      "recognising that environmental conditions can affect stages of life, such as…",
-      "exploring simulations of the solar system such as a pocket solar system to…"
+    "id": "ac9s6u03-p05",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S6U03, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s6u03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising the role of gravity in keeping the planets in orbit around the sun",
-      "examining the purpose of different components such as switches and bulbs and…",
-      "using 3-dimensional models or role-play to model how Earth’s rotation on its…",
-      "using virtual simulations or real-time views of Earth from space to explore…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p06",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S6U03, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s6u03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "using 3-dimensional models to explore how the tilt of Earth points one…",
-      "discussing what makes a change reversible or irreversible, using everyday…",
-      "investigating different electrical conductors and insulators and examining…",
-      "examining the substances produced in cooking and rusting and comparing them…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p07",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6U03, explain how evidence helps show what is happening in transfer and transformation of energy in electrical circuits.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s6u03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "comparing how the amount of heat energy added affects whether a change in…",
-      "describing how dissolved substances are reclaimed from solutions",
-      "exploring how reversible changes can be used to recycle materials",
-      "investigate the transfer and transformation of energy in electrical circuits,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S6U03: investigate the transfer and transformation of energy in electrical circuits,…."
+    "id": "ac9s6u03-p08",
+    "curriculumCode": "AC9S6U03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6U03, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

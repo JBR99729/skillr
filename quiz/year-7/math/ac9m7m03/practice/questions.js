@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7m03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the relationship between π and the features of circles including the…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
+    "id": "ac9m7m03-p01",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7M03, for AC9M7M03 relationship between pi and the features of circles including the, calculate 45 + 20.",
+    "explanation": "65",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "65"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "correct": "65"
   },
   {
-    "id": "ac9m7m03-02",
+    "id": "ac9m7m03-p02",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7M03, which estimate is most reasonable for 45 x 20: about 65, about 900, or about 9000?",
+    "explanation": "About 900.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "recognising the features of circles and their relationships to one another;…",
-      "recognise, represent and solve problems involving ratios",
-      "use mathematical modelling to solve practical problems, involving rational…"
+      "about 65",
+      "about 900",
+      "or about 9000"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "correct": 1
   },
   {
-    "id": "ac9m7m03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "comparing the circumference of circles in relation to their radius and…",
-      "solve one-variable linear equations with natural number solutions; verify the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "id": "ac9m7m03-p03",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7M03, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m7m03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe relationships between variables represented in graphs of functions…",
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "investigating π as the constant in the proportional relationship between the…"
+    "id": "ac9m7m03-p04",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7M03, find the missing value: ___ + 45 = 65.",
+    "explanation": "20",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "20"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "correct": "20"
   },
   {
-    "id": "ac9m7m03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the relationship between π and the features of circles including the…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7m03-p05",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7M03, a table shows 45, 20 and 65. What is the total of all three values?",
+    "explanation": "130",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "130"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "correct": "130"
   },
   {
-    "id": "ac9m7m03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "investigating π as the constant in the proportional relationship between the…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
+    "id": "ac9m7m03-p06",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7M03, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m7m03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "investigating π as the constant in the proportional relationship between the…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "id": "ac9m7m03-p07",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7M03, explain one efficient strategy for solving a relationship between pi and the features of circles including the problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m7m03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "describe the relationship between π and the features of circles including the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7M03: describe the relationship between π and the features of circles including the…."
+    "id": "ac9m7m03-p08",
+    "curriculumCode": "AC9M7M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7M03, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

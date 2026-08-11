@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7sp03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe transformations of a set of points using coordinates in the…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "id": "ac9m7sp03-p01",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M7SP03, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m7sp03-02",
+    "id": "ac9m7sp03-p02",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7SP03, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "using digital tools to transform shapes in the Cartesian plane, describing…",
-      "recognise, represent and solve problems involving ratios",
-      "use mathematical modelling to solve practical problems, involving rational…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "correct": 0
   },
   {
-    "id": "ac9m7sp03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "describing patterns and investigating different ways to produce the same…",
-      "solve one-variable linear equations with natural number solutions; verify the…"
+    "id": "ac9m7sp03-p03",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7SP03, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m7sp03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe relationships between variables represented in graphs of functions…",
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "experimenting with, creating and re-creating patterns using combinations of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "id": "ac9m7sp03-p04",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7SP03, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m7sp03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe transformations of a set of points using coordinates in the…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "id": "ac9m7sp03-p05",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M7SP03, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m7sp03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify corresponding, alternate and co-interior relationships between…",
-      "experimenting with, creating and re-creating patterns using combinations of…",
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "use mathematical modelling to solve practical problems involving ratios;…"
+    "id": "ac9m7sp03-p06",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7SP03, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m7sp03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "represent objects in 2 dimensions; discuss and reason about the advantages…",
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "experimenting with, creating and re-creating patterns using combinations of…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "id": "ac9m7sp03-p07",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7SP03, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m7sp03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "describe transformations of a set of points using coordinates in the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7SP03: describe transformations of a set of points using coordinates in the…."
+    "id": "ac9m7sp03-p08",
+    "curriculumCode": "AC9M7SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7SP03, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s5i05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "explain observable properties of solids, liquids and gases by modelling the…",
-      "examine why advances in science are often the result of collaboration or…",
-      "investigate how scientific knowledge is used by individuals and communities…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "id": "ac9s5i05-p01",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S5I05, write one testable question about methods and findings with those of others, recognise possible sources.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s5i05-02",
+    "id": "ac9s5i05-p02",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S5I05, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose investigable questions to identify patterns and test relationships and…",
-      "comparing methods and findings with those of others to determine if the…",
-      "plan and conduct repeatable investigations to answer questions, including, as…",
-      "use equipment to observe, measure and record data with reasonable precision,…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "correct": 0
   },
   {
-    "id": "ac9s5i05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "construct and use appropriate representations, including tables, graphs and…",
-      "write and create texts to communicate ideas and findings for specific…",
-      "recognising errors that could have occurred during investigations including…",
-      "identify physical and behavioural characteristics that enable a plant or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "id": "ac9s5i05-p03",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S5I05, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s5i05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "exploring features of plants and animals that enable them to survive in…",
-      "investigating how camouflage is used by animals to hide from predators and to…",
-      "using physical or digital simulations to explore how the shape of animals’…",
-      "comparing, in small groups, proposed reasons for findings and explaining…"
+    "id": "ac9s5i05-p04",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S5I05, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s5i05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "identifying types of weathering caused by mechanical means such as by wind…",
-      "exploring how erosion can be caused by moving air or moving water and how…",
-      "analysing the difference between weathering and erosion and comparing the…"
+    "id": "ac9s5i05-p05",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S5I05, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s5i05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "modelling the effects of erosion on a simulated landscape and exploring…",
-      "discussing the difference between data and evidence and examining how…",
-      "investigating how humans have changed local landscapes and predicting the…",
-      "considering the effects of significant rainfall, such as a monsoon, on the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "id": "ac9s5i05-p06",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S5I05, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s5i05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "distinguishing between natural (such as glow worms, the sun and stars) and…",
-      "investigating the shadows that are formed when light is completely or…",
-      "reflecting on inferences made from observations and analysis of the data to…",
-      "drawing ray diagrams to show how the path of light from a source reflects off…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "id": "ac9s5i05-p07",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S5I05, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s5i05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing refraction of light using prisms or water droplets and examining…",
-      "exploring how 'holograph' videos use the refractive properties of light to…",
-      "exploring the use of reflection of light by mirrors such as in periscopes and…",
-      "compare methods and findings with those of others, recognise possible sources…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S5I05: compare methods and findings with those of others, recognise possible sources…."
+    "id": "ac9s5i05-p08",
+    "curriculumCode": "AC9S5I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S5I05, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

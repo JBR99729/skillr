@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e10le08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "create and edit literary texts with a sustained “voice”, selecting and…",
-      "understand how paragraph structure can be varied to create cohesion, and…",
-      "analyse and evaluate the effectiveness of particular sentence structures to…",
-      "analyse how meaning and style are achieved through syntax"
+    "id": "ac9e10le08-p01",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E10LE08, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e10le08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "evaluate the features of still and moving images, and the effects of those…",
-      "experimenting with the aesthetic features that authors use in their own texts",
-      "use an expanded technical and academic vocabulary for precision when writing…",
-      "understand how authors use and experiment with punctuation"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p02",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E10LE08, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e10le08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "analyse representations of individuals, groups and places and evaluate how…",
-      "reflect on and extend others’ interpretations of and responses to literature",
-      "creating a range of texts, experimenting with and manipulating “voice” for…",
-      "analyse how the aesthetic qualities associated with text structures, language…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p03",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LE08, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e10le08-04",
+    "id": "ac9e10le08-p04",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E10LE08, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "evaluate the social, moral or ethical positions represented in literature",
-      "analyse how text structure, language features, literary devices and…",
-      "compare and evaluate how “voice” as a literary device is used in different…",
-      "creating and editing a suite of short texts that focus on a key idea…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "correct": 0
   },
   {
-    "id": "ac9e10le08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create and edit literary texts with a sustained “voice”, selecting and…",
-      "analyse and evaluate the aesthetic qualities of texts",
-      "analyse and evaluate how people, places, events and concepts are represented…",
-      "listen to spoken texts and explain the purposes and effects of text…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p05",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E10LE08, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e10le08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "analyse and evaluate how language features are used to implicitly or…",
-      "describing choices of text structures, literary devices, language, auditory…",
-      "analyse and evaluate how authors organise ideas in texts to achieve a purpose",
-      "integrate comprehension strategies such as visualising, predicting,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p06",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LE08, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e10le08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations by…",
-      "describing choices of text structures, literary devices, language, auditory…",
-      "use knowledge of the spelling system to spell words and to manipulate…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p07",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E10LE08, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e10le08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying language that seeks to align the listener or reader; for example,…",
-      "identifying the use of first person (“I”, “we”) and second person (“you”)…",
-      "identifying language used to reference or indicate shared assumptions",
-      "create and edit literary texts with a sustained “voice”, selecting and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LE08: create and edit literary texts with a sustained “voice”, selecting and…."
+    "id": "ac9e10le08-p08",
+    "curriculumCode": "AC9E10LE08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E10LE08, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

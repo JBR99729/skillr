@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6sp02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "id": "ac9m6sp02-p01",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M6SP02, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m6sp02-02",
+    "id": "ac9m6sp02-p02",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6SP02, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "correct": 0
   },
   {
-    "id": "ac9m6sp02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
+    "id": "ac9m6sp02-p03",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6SP02, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m6sp02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "id": "ac9m6sp02-p04",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6SP02, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m6sp02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "recognise and use combinations of transformations to create tessellations and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "id": "ac9m6sp02-p05",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M6SP02, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m6sp02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6sp02-p06",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6SP02, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m6sp02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "id": "ac9m6sp02-p07",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP02, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m6sp02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP02: locate points in the 4 quadrants of a Cartesian plane; describe changes to…."
+    "id": "ac9m6sp02-p08",
+    "curriculumCode": "AC9M6SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP02, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

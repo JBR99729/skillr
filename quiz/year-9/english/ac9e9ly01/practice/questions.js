@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e9ly01-01",
+    "id": "ac9e9ly01-p01",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E9LY01, which feature best suits a text for younger students: simple steps, dense technical paragraphs or hidden navigation?",
+    "explanation": "Simple steps.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "analyse how representations of people, places, events and concepts reflect…",
-      "investigate a range of cohesive devices that condense information in texts,…",
-      "identify how authors vary sentence structures creatively for effects, such as…",
-      "understand how abstract nouns and nominalisation can be used to summarise…"
+      "simple steps",
+      "dense technical paragraphs",
+      "hidden navigation"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "correct": 0
   },
   {
-    "id": "ac9e9ly01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "analyse how symbols in still and moving images augment meaning",
-      "examining the representation of public figures in media and recognising how…",
-      "analyse how vocabulary choices contribute to style, mood and tone",
-      "understand punctuation conventions for referencing and citing others for…"
+    "id": "ac9e9ly01-p02",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LY01, read: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.' State one literal fact.",
+    "explanation": "A fact directly stated in the snippet.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A fact directly stated in the snippet"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "correct": "A fact directly stated in the snippet"
   },
   {
-    "id": "ac9e9ly01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "analyse the representations of people and places in literary texts, drawn…",
-      "present a personal response to a literary text comparing initial impressions…",
-      "identifying and analysing how news is conveyed in texts; for example,…",
-      "analyse how features of literary texts influence readers’ preference for texts"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "id": "ac9e9ly01-p03",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LY01, state one inference and the evidence that supports it.",
+    "explanation": "A valid inference linked to wording or visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid inference linked to wording or visual evidence.",
+    "correct": "A valid inference linked to wording or visual evidence."
   },
   {
-    "id": "ac9e9ly01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "analyse texts and evaluate the aesthetic qualities and appeal of an author’s…",
-      "analyse the effect of text structures, language features and literary devices…",
-      "create and edit literary texts, that may be a hybrid, that experiment with…",
-      "comparing texts from different time periods and analysing the language…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "id": "ac9e9ly01-p04",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E9LY01, match imaginative, informative, persuasive and procedural to entertain, inform, convince and instruct.",
+    "explanation": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "correct": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct."
   },
   {
-    "id": "ac9e9ly01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "analyse how representations of people, places, events and concepts reflect…",
-      "listen to spoken texts that have different purposes and audiences, analysing…",
-      "analyse and evaluate how language features are used to represent a…",
-      "analyse the organisation of ideas in paragraphs and extended texts, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "id": "ac9e9ly01-p05",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E9LY01, revise a weak opening sentence so it better suits its audience and purpose.",
+    "explanation": "A clearer sentence with audience/purpose fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A clearer sentence with audience/purpose fit.",
+    "correct": "A clearer sentence with audience/purpose fit."
   },
   {
-    "id": "ac9e9ly01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "comparing texts from different time periods and analysing the language…",
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations for…"
+    "id": "ac9e9ly01-p06",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9E9LY01, order the planning steps: choose audience, gather ideas, draft, revise.",
+    "explanation": "Choose audience; gather ideas; draft; revise.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "correct": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
+    ]
   },
   {
-    "id": "ac9e9ly01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "understand how spelling is used in texts for particular effects; for example,…",
-      "identifying the various communities to which students belong and how language…",
-      "comparing texts from different time periods and analysing the language…",
-      "comparing texts that use evaluative language in different ways; for example,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "id": "ac9e9ly01-p07",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LY01, explain how skimming, scanning, predicting or questioning helps comprehension.",
+    "explanation": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "correct": "The strategy helps locate information, monitor meaning or prepare for what comes next."
   },
   {
-    "id": "ac9e9ly01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "comparing the use of linear and non-linear narratives in a range of short…",
-      "comparing the opening paragraphs of different public texts such as feature…",
-      "sequencing and developing an argument using language structures that suggest…",
-      "analyse how representations of people, places, events and concepts reflect…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LY01: analyse how representations of people, places, events and concepts reflect…."
+    "id": "ac9e9ly01-p08",
+    "curriculumCode": "AC9E9LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LY01, create a short text or presentation plan that fits this topic and name two choices you made.",
+    "explanation": "A valid plan with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with two choices linked to purpose and audience.",
+    "correct": "A valid plan with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

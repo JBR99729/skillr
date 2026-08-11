@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m5sp02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "recognise that 100% represents the complete whole and use percentages to…",
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "solve problems involving multiplication of larger numbers by one- or…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "id": "ac9m5sp02-p01",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M5SP02, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m5sp02-02",
+    "id": "ac9m5sp02-p02",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M5SP02, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving division, choosing efficient strategies and using…",
-      "understanding how the numbers on the axes on a grid coordinate system are…",
-      "check and explain the reasonableness of solutions to problems including…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "correct": 0
   },
   {
-    "id": "ac9m5sp02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "create and use algorithms involving a sequence of steps and decisions and…",
-      "recognise and explain the connection between multiplication and division as…",
-      "discussing the conventions of indicating a point in a grid coordinate system;…",
-      "find unknown values in numerical equations involving multiplication and…"
+    "id": "ac9m5sp02-p03",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5SP02, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m5sp02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "choose appropriate metric units when measuring the length, mass and capacity…",
-      "solve practical problems involving the perimeter and area of regular and…",
-      "compare 12- and 24-hour time systems and solve practical problems involving…",
-      "comparing a grid reference system to a grid coordinate system (first quadrant…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "id": "ac9m5sp02-p04",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M5SP02, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m5sp02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "estimate, construct and measure angles in degrees, using appropriate tools…",
-      "connect objects to their nets and build objects from their nets using spatial…",
-      "describe and perform translations, reflections and rotations of shapes, using…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "id": "ac9m5sp02-p05",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M5SP02, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m5sp02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire, validate and represent data for nominal and ordinal categorical and…",
-      "placing a coordinate grid over a contour line, drawing and listing the…",
-      "interpret line graphs representing change over time; discuss the…",
-      "plan and conduct statistical investigations by posing questions or…"
+    "id": "ac9m5sp02-p06",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M5SP02, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m5sp02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "list the possible outcomes of chance experiments involving equally likely…",
-      "conduct repeated chance experiments including those with and without equally…",
-      "investigating how autonomous vehicles use mapping, GPS systems, communication…",
-      "making models of decimals including tenths, hundredths and thousandths by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "id": "ac9m5sp02-p07",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5SP02, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m5sp02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "renaming decimals to assist with mental computation; for example, when asked…",
-      "using a number line or number track to represent and locate decimals with…",
-      "interpreting and comparing the digits in decimal measures; for example, the…",
-      "construct a grid coordinate system that uses coordinates to locate positions…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5SP02: construct a grid coordinate system that uses coordinates to locate positions…."
+    "id": "ac9m5sp02-p08",
+    "curriculumCode": "AC9M5SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5SP02, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

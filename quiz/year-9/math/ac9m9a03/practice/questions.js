@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9a03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "find the gradient of a line segment, the midpoint of the line interval and…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "use mathematical modelling to solve applied problems involving change…",
-      "experiment with the effects of the variation of parameters on graphs of…"
+    "id": "ac9m9a03-p01",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A03, for AC9M9A03 find the gradient of a line segment, the midpoint of, calculate 41 + 19.",
+    "explanation": "60",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "60"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "correct": "60"
   },
   {
-    "id": "ac9m9a03-02",
+    "id": "ac9m9a03-p02",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9A03, which estimate is most reasonable for 41 x 19: about 60, about 770, or about 7790?",
+    "explanation": "About 770.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the volume and surface area of right prisms and…",
-      "recognising that the gradient of a line is calculated using the gradient of a…",
-      "solve problems involving very small and very large measurements, time scales…",
-      "solve spatial problems, applying angle properties, scale, similarity,…"
+      "about 60",
+      "about 770",
+      "or about 7790"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "correct": 1
   },
   {
-    "id": "ac9m9a03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "use mathematical modelling to solve practical problems involving direct…",
-      "using digital tools and transformations to illustrate that parallel lines in…",
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "id": "ac9m9a03-p03",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M9A03, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m9a03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "using Pythagoras’ theorem to establish the distance between 2 points in the…"
+    "id": "ac9m9a03-p04",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A03, find the missing value: ___ + 41 = 60.",
+    "explanation": "19",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "19"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "correct": "19"
   },
   {
-    "id": "ac9m9a03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "find the gradient of a line segment, the midpoint of the line interval and…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9a03-p05",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9A03, a table shows 41, 19 and 60. What is the total of all three values?",
+    "explanation": "120",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "120"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "correct": "120"
   },
   {
-    "id": "ac9m9a03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "investigating graphical and algebraic techniques for finding the midpoint and…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
+    "id": "ac9m9a03-p06",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M9A03, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m9a03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "investigating the real number system by representing the relationships…",
-      "using dynamic graphing software and superimposed images; for example,…",
-      "using a real number line to indicate the solution interval for inequalities…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "id": "ac9m9a03-p07",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A03, explain one efficient strategy for solving a find the gradient of a line segment, the midpoint of problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m9a03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using positive and negative rational numbers to solve problems; for example,…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "find the gradient of a line segment, the midpoint of the line interval and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A03: find the gradient of a line segment, the midpoint of the line interval and…."
+    "id": "ac9m9a03-p08",
+    "curriculumCode": "AC9M9A03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A03, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

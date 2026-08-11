@@ -1,107 +1,105 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e10la06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "analyse how meaning and style are achieved through syntax",
-      "understand how paragraph structure can be varied to create cohesion, and…",
-      "analyse and evaluate the effectiveness of particular sentence structures to…",
-      "evaluate the features of still and moving images, and the effects of those…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p01",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LA06, identify one word in this sentence that shapes meaning: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.'",
+    "explanation": "A relevant word with a valid explanation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant word with a valid explanation.",
+    "correct": "A relevant word with a valid explanation."
   },
   {
-    "id": "ac9e10la06-02",
+    "id": "ac9e10la06-p02",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E10LA06, which wording is most formal: 'Hey, give it back', 'Please return the equipment', or 'Chuck it here'?",
+    "explanation": "Please return the equipment.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use an expanded technical and academic vocabulary for precision when writing…",
-      "considering how nominalisation affects the way in which events are…",
-      "understand how authors use and experiment with punctuation",
-      "analyse representations of individuals, groups and places and evaluate how…"
+      "'Hey",
+      "give it back'",
+      "'Please return the equipment'",
+      "or 'Chuck it here'"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "correct": 2
   },
   {
-    "id": "ac9e10la06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "reflect on and extend others’ interpretations of and responses to literature",
-      "analyse how the aesthetic qualities associated with text structures, language…",
-      "analysing how logical relations between ideas are built up by combining…",
-      "evaluate the social, moral or ethical positions represented in literature"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p03",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E10LA06, revise a sentence so it is clearer, more precise or better suited to its audience.",
+    "explanation": "A revised sentence that improves clarity, precision or audience fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A revised sentence that improves clarity, precision or audience fit.",
+    "correct": "A revised sentence that improves clarity, precision or audience fit."
   },
   {
-    "id": "ac9e10la06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "analyse how text structure, language features, literary devices and…",
-      "compare and evaluate how “voice” as a literary device is used in different…",
-      "analyse and evaluate the aesthetic qualities of texts",
-      "considering how abstraction in a noun group allows for greater generalisation…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p04",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E10LA06, match noun group, verb group, clause and vocabulary to naming detail, action/time, idea unit and word choice.",
+    "explanation": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice.",
+    "correct": "Noun group -> naming detail; verb group -> action/time; clause -> idea unit; vocabulary -> word choice."
   },
   {
-    "id": "ac9e10la06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "analyse how meaning and style are achieved through syntax",
-      "create and edit literary texts with a sustained “voice”, selecting and…",
-      "analyse and evaluate how people, places, events and concepts are represented…",
-      "listen to spoken texts and explain the purposes and effects of text…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p05",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E10LA06, sort examples as formal, informal, technical or evaluative: 'therefore', 'cool', 'evaporation', 'excellent'.",
+    "explanation": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent.",
+    "correct": "Formal -> therefore; informal -> cool; technical -> evaporation; evaluative -> excellent."
   },
   {
-    "id": "ac9e10la06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "analyse and evaluate how language features are used to implicitly or…",
-      "considering how abstraction in a noun group allows for greater generalisation…",
-      "analyse and evaluate how authors organise ideas in texts to achieve a purpose",
-      "integrate comprehension strategies such as visualising, predicting,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p06",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LA06, explain how changing one word can change the attitude of a sentence.",
+    "explanation": "Different words can make the tone stronger, softer, more positive, more negative or more precise.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Different words can make the tone stronger, softer, more positive, more negative or more precise.",
+    "correct": "Different words can make the tone stronger, softer, more positive, more negative or more precise."
   },
   {
-    "id": "ac9e10la06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations by…",
-      "considering how abstraction in a noun group allows for greater generalisation…",
-      "use knowledge of the spelling system to spell words and to manipulate…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p07",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E10LA06, analyse how a language feature in a short text helps the writer achieve a purpose.",
+    "explanation": "A valid analysis linking feature, example and purpose.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid analysis linking feature, example and purpose.",
+    "correct": "A valid analysis linking feature, example and purpose."
   },
   {
-    "id": "ac9e10la06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying language that seeks to align the listener or reader; for example,…",
-      "identifying the use of first person (“I”, “we”) and second person (“you”)…",
-      "identifying language used to reference or indicate shared assumptions",
-      "analyse how meaning and style are achieved through syntax"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LA06: analyse how meaning and style are achieved through syntax."
+    "id": "ac9e10la06-p08",
+    "curriculumCode": "AC9E10LA06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E10LA06, create two versions of the same message for different audiences and explain one change.",
+    "explanation": "Two suitable versions plus an explanation of tone, vocabulary or structure.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two suitable versions plus an explanation of tone, vocabulary or structure.",
+    "correct": "Two suitable versions plus an explanation of tone, vocabulary or structure."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

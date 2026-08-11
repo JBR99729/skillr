@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s6i02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "plan and conduct repeatable investigations to answer questions including, as…",
-      "compare reversible changes, including dissolving and changes of state, and…",
-      "examine why advances in science are often the result of collaboration or…",
-      "investigate how scientific knowledge is used by individuals and communities…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "id": "ac9s6i02-p01",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S6I02, write one testable question about conduct repeatable investigations to answer questions including, as appropriate, deciding.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s6i02-02",
+    "id": "ac9s6i02-p02",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S6I02, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose investigable questions to identify patterns and test relationships and…",
-      "considering different ways to approach investigations including researching,…",
-      "use equipment to observe, measure and record data with reasonable precision,…",
-      "construct and use appropriate representations, including tables, graphs and…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "correct": 0
   },
   {
-    "id": "ac9s6i02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "write and create texts to communicate ideas and findings for specific…",
-      "determining which is the variable being tested and which variable is being…",
-      "identifying the physical conditions in an aquatic or terrestrial habitat and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "id": "ac9s6i02-p03",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S6I02, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s6i02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "investigating how changes to physical conditions such as salinity, soil type,…",
-      "examining how changes in physical conditions such as temperature, light…",
-      "investigating changes in physical conditions that are the result of human…",
-      "identifying potential risks to themselves or others when conducting an…"
+    "id": "ac9s6i02-p04",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S6I02, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s6i02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "plan and conduct repeatable investigations to answer questions including, as…",
-      "investigating the effect of physical conditions on the growth of bread mould…",
-      "recognising that environmental conditions can affect stages of life, such as…",
-      "exploring simulations of the solar system such as a pocket solar system to…"
+    "id": "ac9s6i02-p05",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S6I02, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s6i02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising the role of gravity in keeping the planets in orbit around the sun",
-      "identifying potential risks to themselves or others when conducting an…",
-      "using 3-dimensional models or role-play to model how Earth’s rotation on its…",
-      "using virtual simulations or real-time views of Earth from space to explore…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "id": "ac9s6i02-p06",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S6I02, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s6i02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "using 3-dimensional models to explore how the tilt of Earth points one…",
-      "identifying necessary components for an electric circuit such as a source of…",
-      "identifying potential risks to themselves or others when conducting an…",
-      "constructing a real or virtual circuit to examine requirements to allow the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "id": "ac9s6i02-p07",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6I02, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s6i02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "constructing representations of electrical circuits and their components…",
-      "examining the purpose of different components such as switches and bulbs and…",
-      "investigating different electrical conductors and insulators and examining…",
-      "plan and conduct repeatable investigations to answer questions including, as…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S6I02: plan and conduct repeatable investigations to answer questions including, as…."
+    "id": "ac9s6i02-p08",
+    "curriculumCode": "AC9S6I02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6I02, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

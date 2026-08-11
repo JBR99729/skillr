@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e10ly08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use knowledge of the spelling system to spell words and to manipulate…",
-      "understand how paragraph structure can be varied to create cohesion, and…",
-      "analyse and evaluate the effectiveness of particular sentence structures to…",
-      "analyse how meaning and style are achieved through syntax"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p01",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E10LY08, sort these words by the focus pattern in knowledge of the spelling system to spell words and to: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e10ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "evaluate the features of still and moving images, and the effects of those…",
-      "using homophones to create new spelling of familiar words; for example, “lite…",
-      "use an expanded technical and academic vocabulary for precision when writing…",
-      "understand how authors use and experiment with punctuation"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p02",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LY08, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e10ly08-03",
+    "id": "ac9e10ly08-p03",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E10LY08, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "analyse representations of individuals, groups and places and evaluate how…",
-      "reflect on and extend others’ interpretations of and responses to literature",
-      "using homophones to create new spelling of familiar words; for example, “lite…",
-      "analyse how the aesthetic qualities associated with text structures, language…"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "correct": 0
   },
   {
-    "id": "ac9e10ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "evaluate the social, moral or ethical positions represented in literature",
-      "analyse how text structure, language features, literary devices and…",
-      "compare and evaluate how “voice” as a literary device is used in different…",
-      "using homophones to create new spelling of familiar words; for example, “lite…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p04",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E10LY08, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e10ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use knowledge of the spelling system to spell words and to manipulate…",
-      "analyse and evaluate the aesthetic qualities of texts",
-      "create and edit literary texts with a sustained “voice”, selecting and…",
-      "analyse and evaluate how people, places, events and concepts are represented…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p05",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E10LY08, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e10ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "listen to spoken texts and explain the purposes and effects of text…",
-      "using homophones to create new spelling of familiar words; for example, “lite…",
-      "analyse and evaluate how language features are used to implicitly or…",
-      "analyse and evaluate how authors organise ideas in texts to achieve a purpose"
+    "id": "ac9e10ly08-p06",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LY08, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e10ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "integrate comprehension strategies such as visualising, predicting,…",
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "using homophones to create new spelling of familiar words; for example, “lite…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p07",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E10LY08, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e10ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying language that seeks to align the listener or reader; for example,…",
-      "identifying the use of first person (“I”, “we”) and second person (“you”)…",
-      "identifying language used to reference or indicate shared assumptions",
-      "use knowledge of the spelling system to spell words and to manipulate…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E10LY08: use knowledge of the spelling system to spell words and to manipulate…."
+    "id": "ac9e10ly08-p08",
+    "curriculumCode": "AC9E10LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E10LY08, write one new word that fits the AC9E10LY08 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

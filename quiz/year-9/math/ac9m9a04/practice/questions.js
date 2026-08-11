@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9a04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "find the gradient of a line segment, the midpoint of the line interval and…",
-      "use mathematical modelling to solve applied problems involving change…",
-      "experiment with the effects of the variation of parameters on graphs of…"
+    "id": "ac9m9a04-p01",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A04, expand and simplify 2(x + 5) - 3(x - 4).",
+    "explanation": "-x + 22.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "-x + 22"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "correct": "-x + 22"
   },
   {
-    "id": "ac9m9a04-02",
+    "id": "ac9m9a04-p02",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9A04, which is the correct factorisation of 6x + 30: 6(x + 5), x(6 + 30) or 6x(5)?",
+    "explanation": "6(x + 5).",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the volume and surface area of right prisms and…",
-      "recognising that in a table of values, if the second difference between…",
-      "solve problems involving very small and very large measurements, time scales…",
-      "solve spatial problems, applying angle properties, scale, similarity,…"
+      "6(x + 5)",
+      "x(6 + 30)",
+      "6x(5)"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "correct": 0
   },
   {
-    "id": "ac9m9a04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "use mathematical modelling to solve practical problems involving direct…",
-      "graphing quadratic functions using digital tools and comparing what is the…",
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…"
+    "id": "ac9m9a04-p03",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A04, simplify x^3 x x^4.",
+    "explanation": "x^7.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x^7"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "correct": "x^7"
   },
   {
-    "id": "ac9m9a04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "solving quadratic equations algebraically and comparing these to graphical…"
+    "id": "ac9m9a04-p04",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A04, solve 2x + 5 = 23.",
+    "explanation": "x = 9.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 9"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "correct": "x = 9"
   },
   {
-    "id": "ac9m9a04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9a04-p05",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9A04, a table has x values 0, 1, 2 and y values 1, 3, 9. What exponential rule fits?",
+    "explanation": "y = 3^x.",
+    "printable": true,
+    "visual": "Two-column function table.",
+    "instruction": "Visual brief: Two-column function table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = 3^x"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "correct": "y = 3^x"
   },
   {
-    "id": "ac9m9a04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "using graphs to determine the solutions of quadratic equations; recognising…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "id": "ac9m9a04-p06",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M9A04, order the steps: check restrictions, simplify both sides, solve, substitute to check.",
+    "explanation": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "correct": "Simplify both sides; check restrictions if relevant; solve; substitute to check."
   },
   {
-    "id": "ac9m9a04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "investigating the real number system by representing the relationships…",
-      "relating horizontal axis intercepts of the graph of a quadratic function to…",
-      "using a real number line to indicate the solution interval for inequalities…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "id": "ac9m9a04-p07",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A04, explain how an algebraic solution can be interpreted on a graph.",
+    "explanation": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "correct": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship."
   },
   {
-    "id": "ac9m9a04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using positive and negative rational numbers to solve problems; for example,…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A04: identify and graph quadratic functions, solve quadratic equations graphically…."
+    "id": "ac9m9a04-p08",
+    "curriculumCode": "AC9M9A04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A04, a student writes (x + 3)^2 = x^2 + 9. Explain and correct the error.",
+    "explanation": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "correct": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

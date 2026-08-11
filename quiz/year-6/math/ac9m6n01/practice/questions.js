@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise situations, including financial contexts, that use integers; locate…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…",
-      "solve problems that require finding a familiar fraction, decimal or…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "id": "ac9m6n01-p01",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M6N01, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m6n01-02",
+    "id": "ac9m6n01-p02",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N01, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "extending the number line in the negative direction to locate and represent…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "correct": 0
   },
   {
-    "id": "ac9m6n01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "using integers to represent quantities in financial contexts, including the…",
-      "convert between common metric units of length, mass and capacity; choose and…"
+    "id": "ac9m6n01-p03",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N01, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m6n01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "using horizontal and vertical number lines to represent and find solutions to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "id": "ac9m6n01-p04",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6N01, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m6n01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise situations, including financial contexts, that use integers; locate…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "id": "ac9m6n01-p05",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M6N01, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m6n01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n01-p06",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6N01, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m6n01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "representing the temperatures of the different planets in the solar system,…",
-      "using the definition of a prime number to explain why one is not a prime…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "id": "ac9m6n01-p07",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N01, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m6n01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "testing numbers by using division to distinguish between prime and composite…",
-      "representing composite numbers as a product of their factors, including prime…",
-      "identifying and describing the product of a number with itself as square; for…",
-      "recognise situations, including financial contexts, that use integers; locate…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N01: recognise situations, including financial contexts, that use integers; locate…."
+    "id": "ac9m6n01-p08",
+    "curriculumCode": "AC9M6N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N01, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

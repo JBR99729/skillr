@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m5m01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "choose appropriate metric units when measuring the length, mass and capacity…",
-      "recognise that 100% represents the complete whole and use percentages to…",
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "solve problems involving multiplication of larger numbers by one- or…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "id": "ac9m5m01-p01",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M5M01, a rectangle is 13 cm by 6 cm. Find its perimeter.",
+    "explanation": "38 cm.",
+    "printable": true,
+    "visual": "Rectangle labelled 13 cm and 6 cm.",
+    "instruction": "Visual brief: Rectangle labelled 13 cm and 6 cm.",
+    "type": "self-check",
+    "modelAnswer": "38 cm.",
+    "correct": "38 cm."
   },
   {
-    "id": "ac9m5m01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "solve problems involving division, choosing efficient strategies and using…",
-      "ordering metric units from the largest unit to the smallest; for example,…",
-      "check and explain the reasonableness of solutions to problems including…",
-      "use mathematical modelling to solve practical problems involving additive and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "id": "ac9m5m01-p02",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M5M01, which unit is most sensible for the task: millimetres, centimetres, metres, kilograms, litres or degrees? Choose and justify briefly.",
+    "explanation": "A sensible unit matched to the object or attribute.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A sensible unit matched to the object or attribute.",
+    "correct": "A sensible unit matched to the object or attribute."
   },
   {
-    "id": "ac9m5m01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "create and use algorithms involving a sequence of steps and decisions and…",
-      "recognise and explain the connection between multiplication and division as…",
-      "recognising that some units of measurement are better suited to some tasks…",
-      "find unknown values in numerical equations involving multiplication and…"
+    "id": "ac9m5m01-p03",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5M01, find the area of a rectangle 13 cm long and 6 cm wide.",
+    "explanation": "78 square cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "78 square cm"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "correct": "78 square cm"
   },
   {
-    "id": "ac9m5m01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve practical problems involving the perimeter and area of regular and…",
-      "compare 12- and 24-hour time systems and solve practical problems involving…",
-      "estimate, construct and measure angles in degrees, using appropriate tools…",
-      "deciding on the unit required to estimate the amount of paint or carpet for a…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "id": "ac9m5m01-p04",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M5M01, match perimeter, area, volume and angle to boundary, surface, space inside and amount of turn.",
+    "explanation": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "correct": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn."
   },
   {
-    "id": "ac9m5m01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "choose appropriate metric units when measuring the length, mass and capacity…",
-      "connect objects to their nets and build objects from their nets using spatial…",
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "describe and perform translations, reflections and rotations of shapes, using…"
+    "id": "ac9m5m01-p05",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M5M01, a scale from 0 to 1 L has 5 equal spaces. What is each space worth?",
+    "explanation": "0.2 L or 200 mL.",
+    "printable": true,
+    "visual": "Scale drawing from 0 L to 1 L with five equal intervals.",
+    "instruction": "Visual brief: Scale drawing from 0 L to 1 L with five equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "0.2 L or 200 mL"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "correct": "0.2 L or 200 mL"
   },
   {
-    "id": "ac9m5m01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire, validate and represent data for nominal and ordinal categorical and…",
-      "measuring and comparing distances, such as jumps or throws using a metre…",
-      "interpret line graphs representing change over time; discuss the…",
-      "plan and conduct statistical investigations by posing questions or…"
+    "id": "ac9m5m01-p06",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5M01, convert 2.5 m to centimetres.",
+    "explanation": "250 cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "250 cm"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "correct": "250 cm"
   },
   {
-    "id": "ac9m5m01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "list the possible outcomes of chance experiments involving equally likely…",
-      "conduct repeated chance experiments including those with and without equally…",
-      "researching how the base units are derived for the International System of…",
-      "making models of decimals including tenths, hundredths and thousandths by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "id": "ac9m5m01-p07",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5M01, why should measurements include units and appropriate accuracy?",
+    "explanation": "Units say what was measured and accuracy shows how precise the result is.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Units say what was measured and accuracy shows how precise the result is.",
+    "correct": "Units say what was measured and accuracy shows how precise the result is."
   },
   {
-    "id": "ac9m5m01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "renaming decimals to assist with mental computation; for example, when asked…",
-      "using a number line or number track to represent and locate decimals with…",
-      "interpreting and comparing the digits in decimal measures; for example, the…",
-      "choose appropriate metric units when measuring the length, mass and capacity…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5M01: choose appropriate metric units when measuring the length, mass and capacity…."
+    "id": "ac9m5m01-p08",
+    "curriculumCode": "AC9M5M01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5M01, a student starts measuring from the end of a broken ruler, not from zero or a known mark. Explain the problem.",
+    "explanation": "The reading may include extra length unless the starting offset is accounted for.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The reading may include extra length unless the starting offset is accounted for.",
+    "correct": "The reading may include extra length unless the starting offset is accounted for."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

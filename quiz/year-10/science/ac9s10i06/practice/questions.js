@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s10i06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "assess the validity and reproducibility of methods and evaluate the validity…",
-      "use models of energy flow between the geosphere, biosphere, hydrosphere and…",
-      "investigate Newton’s laws of motion and quantitatively analyse the…",
-      "explain how the structure and properties of atoms relate to the organisation…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "id": "ac9s10i06-p01",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S10I06, write one testable question about assess the validity and reproducibility of methods and evaluate the.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s10i06-02",
+    "id": "ac9s10i06-p02",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S10I06, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "identify patterns in synthesis, decomposition and displacement reactions and…",
-      "evaluating the strength of a conclusion that can be inferred from a…",
-      "explain how scientific knowledge is validated and refined, including the role…",
-      "investigate how advances in technologies enable advances in science, and how…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "correct": 0
   },
   {
-    "id": "ac9s10i06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "analyse the key factors that contribute to science knowledge and practices…",
-      "examine how the values and needs of society influence the focus of scientific…",
-      "distinguishing between random and systematic errors and how these can affect…",
-      "develop investigable questions, reasoned predictions and hypotheses to test…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "id": "ac9s10i06-p03",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S10I06, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s10i06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "plan and conduct valid, reproducible investigations to answer questions and…",
-      "select and use equipment to generate and record data with precision to obtain…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "judging the validity of science-related media reports and how these reports…"
+    "id": "ac9s10i06-p04",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S10I06, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s10i06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "assess the validity and reproducibility of methods and evaluate the validity…",
-      "analyse and connect a variety of data and information to identify and explain…",
-      "construct arguments based on analysis of a variety of evidence to support…",
-      "write and create texts to communicate ideas, findings and arguments…"
+    "id": "ac9s10i06-p05",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S10I06, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s10i06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "using models and diagrams to represent the relationship between genes,…",
-      "identifying assumptions in methods then examining if further testing or extra…",
-      "explaining how genetic information passed on to offspring from both parents…",
-      "using Mendelian inheritance to predict the ratio of offspring genotypes and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "id": "ac9s10i06-p06",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S10I06, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s10i06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "using pedigree diagrams to show patterns of inheritance of simple dominant…",
-      "exploring environmental and other factors that cause mutations and…",
-      "considering how data variation can indicate uncertainty and might affect…",
-      "exploring the role of DNA in cancer or genetic disorders such as…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "id": "ac9s10i06-p07",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S10I06, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s10i06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "outlining processes involved in natural selection including variation,…",
-      "examining biodiversity as a function of evolution",
-      "analysing evidence for the theory of evolution by natural selection including…",
-      "assess the validity and reproducibility of methods and evaluate the validity…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S10I06: assess the validity and reproducibility of methods and evaluate the validity…."
+    "id": "ac9s10i06-p08",
+    "curriculumCode": "AC9S10I06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S10I06, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6m03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "id": "ac9m6m03-p01",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M6M03, a rectangle is 7 cm by 5 cm. Find its perimeter.",
+    "explanation": "24 cm.",
+    "printable": true,
+    "visual": "Rectangle labelled 7 cm and 5 cm.",
+    "instruction": "Visual brief: Rectangle labelled 7 cm and 5 cm.",
+    "type": "self-check",
+    "modelAnswer": "24 cm.",
+    "correct": "24 cm."
   },
   {
-    "id": "ac9m6m03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "planning a trip involving one or more modes of public transport",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "id": "ac9m6m03-p02",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6M03, which unit is most sensible for the task: millimetres, centimetres, metres, kilograms, litres or degrees? Choose and justify briefly.",
+    "explanation": "A sensible unit matched to the object or attribute.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A sensible unit matched to the object or attribute.",
+    "correct": "A sensible unit matched to the object or attribute."
   },
   {
-    "id": "ac9m6m03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "developing a timetable of daily activities for a planned event; for example,…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
+    "id": "ac9m6m03-p03",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6M03, find the area of a rectangle 7 cm long and 5 cm wide.",
+    "explanation": "35 square cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "35 square cm"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "correct": "35 square cm"
   },
   {
-    "id": "ac9m6m03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "investigating different ways duration is represented in timetables and using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "id": "ac9m6m03-p04",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6M03, match perimeter, area, volume and angle to boundary, surface, space inside and amount of turn.",
+    "explanation": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "correct": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn."
   },
   {
-    "id": "ac9m6m03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6m03-p05",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6M03, a scale from 0 to 1 L has 5 equal spaces. What is each space worth?",
+    "explanation": "0.2 L or 200 mL.",
+    "printable": true,
+    "visual": "Scale drawing from 0 L to 1 L with five equal intervals.",
+    "instruction": "Visual brief: Scale drawing from 0 L to 1 L with five equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "0.2 L or 200 mL"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "correct": "0.2 L or 200 mL"
   },
   {
-    "id": "ac9m6m03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "investigating different ways duration is represented in timetables and using…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6m03-p06",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6M03, convert 2.5 m to centimetres.",
+    "explanation": "250 cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "250 cm"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "correct": "250 cm"
   },
   {
-    "id": "ac9m6m03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "investigating different ways duration is represented in timetables and using…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "id": "ac9m6m03-p07",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6M03, why should measurements include units and appropriate accuracy?",
+    "explanation": "Units say what was measured and accuracy shows how precise the result is.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Units say what was measured and accuracy shows how precise the result is.",
+    "correct": "Units say what was measured and accuracy shows how precise the result is."
   },
   {
-    "id": "ac9m6m03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "interpret and use timetables and itineraries to plan activities and determine…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6M03: interpret and use timetables and itineraries to plan activities and determine…."
+    "id": "ac9m6m03-p08",
+    "curriculumCode": "AC9M6M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6M03, a student starts measuring from the end of a broken ruler, not from zero or a known mark. Explain the problem.",
+    "explanation": "The reading may include extra length unless the starting offset is accounted for.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The reading may include extra length unless the starting offset is accounted for.",
+    "correct": "The reading may include extra length unless the starting offset is accounted for."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

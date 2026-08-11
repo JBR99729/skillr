@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m2m05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify, describe and demonstrate quarter, half, three-quarter and full…",
-      "add and subtract one- and two-digit numbers, representing problems using…",
-      "multiply and divide by one-digit numbers using repeated addition, equal…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m2m05-p01",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9M2M05, look at the AC9M2M05 identify, describe and demonstrate quarter, half, three-quarter and full measures picture. How many objects are shown altogether?",
+    "explanation": "11 objects.",
+    "printable": true,
+    "visual": "Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "text",
+    "acceptedAnswers": [
+      "11 objects"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "correct": "11 objects"
   },
   {
-    "id": "ac9m2m05-02",
+    "id": "ac9m2m05-p02",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M2M05, which numeral matches the collection: 11, 13 or 10?",
+    "explanation": "11.",
+    "printable": true,
+    "visual": "Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, describe and create additive patterns that increase or decrease by…",
-      "identifying things that turn in the school environment; for example, the…",
-      "recall and demonstrate proficiency with addition facts to 20; extend and…",
-      "recall and demonstrate proficiency with multiplication facts for twos; extend…"
+      "11",
+      "13",
+      "10"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "correct": 0
   },
   {
-    "id": "ac9m2m05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "measure and compare objects based on length, capacity and mass using…",
-      "identify common uses and represent halves, quarters and eighths in relation…",
-      "giving and following instructions to move during an activity; for example,…",
-      "identify the date and determine the number of days between events using…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "id": "ac9m2m05-p03",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M2M05, sort the cards into 'shows identify, describe and demonstrate quarter, half, three-quarter and full measures' and 'does not show identify, describe and demonstrate quarter, half, three-quarter and full measures'.",
+    "explanation": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "correct": "Cards that match the stated number, pattern, shape or comparison belong in the first group."
   },
   {
-    "id": "ac9m2m05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and read the time represented on an analog clock to the hour,…",
-      "recognise, compare and classify shapes, referencing the number of sides and…",
-      "locate positions in two-dimensional representations of a familiar space; move…",
-      "investigating hands turning on a clock and relating quarter, half and full…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "id": "ac9m2m05-p04",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2M05, how can you check that each object has been counted once?",
+    "explanation": "Touch, move, tick or point to each object once while saying one number word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Touch, move, tick or point to each object once while saying one number word.",
+    "correct": "Touch, move, tick or point to each object once while saying one number word."
   },
   {
-    "id": "ac9m2m05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify, describe and demonstrate quarter, half, three-quarter and full…",
-      "acquire data for categorical variables through surveys, observation,…",
-      "create different graphical representations of data using software where…",
-      "recognising missing numbers on different number lines; for example, a number…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "id": "ac9m2m05-p05",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M2M05, draw or build a model that shows 7 and 4 more.",
+    "explanation": "The model shows 7, then 4 more, making 11.",
+    "printable": true,
+    "visual": "Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 7 counters on the left and 4 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "self-check",
+    "modelAnswer": "The model shows 7, then 4 more, making 11.",
+    "correct": "The model shows 7, then 4 more, making 11."
   },
   {
-    "id": "ac9m2m05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising and locating the position of pieces within hundreds chart puzzles…",
-      "giving or following directions to locate an object in the room, or provide a…",
-      "reading and writing numerals, and saying and ordering two-, three- and…",
-      "collecting large quantities of materials for recycling; for example, ring…"
+    "id": "ac9m2m05-p06",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M2M05, order the steps: check the answer, look at the picture, count or compare, choose the numeral.",
+    "explanation": "Look at the picture; count or compare; choose the numeral; check the answer.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check the answer",
+      "look at the picture",
+      "count or compare",
+      "choose the numeral"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "correct": [
+      "look at the picture",
+      "count or compare",
+      "choose the numeral",
+      "check the answer"
+    ]
   },
   {
-    "id": "ac9m2m05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the digits of a number with materials grouped into hundreds, tens…",
-      "renaming numbers in different ways using knowledge of place value; for…",
-      "giving or following directions to locate an object in the room, or provide a…",
-      "creating halves of a range of collections sets by sharing collections into 2…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "id": "ac9m2m05-p07",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M2M05, two students give different answers for the AC9M2M05 task. What should they check?",
+    "explanation": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "correct": "They should check the picture, count each object once, compare equal parts or read the labels."
   },
   {
-    "id": "ac9m2m05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "creating halves using measurement attributes; for example, explaining that “a…",
-      "using repeated halving to subdivide shapes and objects in different ways to…",
-      "dividing a shape into equal parts and relating the number of parts to the…",
-      "identify, describe and demonstrate quarter, half, three-quarter and full…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2M05: identify, describe and demonstrate quarter, half, three-quarter and full…."
+    "id": "ac9m2m05-p08",
+    "curriculumCode": "AC9M2M05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2M05, make a new classroom example that shows identify, describe and demonstrate quarter, half, three-quarter and full measures.",
+    "explanation": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "correct": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

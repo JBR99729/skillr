@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6m01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
+    "id": "ac9m6m01-p01",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6M01, in 11.47, which digit is in the tenths place?",
+    "explanation": "4.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "correct": "4"
   },
   {
-    "id": "ac9m6m01-02",
+    "id": "ac9m6m01-p02",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6M01, which is greatest: 11.07, 11.7 or 11.17?",
+    "explanation": "11.7.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "recognising the significance of the prefixes in units of measurement",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
+      "11.07",
+      "11.7",
+      "11.17"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "correct": 1
   },
   {
-    "id": "ac9m6m01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "identifying and using the correct operations when converting between units…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "id": "ac9m6m01-p03",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6M01, match tenths, hundredths, thousandths and ones to their place-value meaning.",
+    "explanation": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units.",
+    "correct": "Tenths -> one part of ten; hundredths -> one part of hundred; thousandths -> one part of thousand; ones -> whole units."
   },
   {
-    "id": "ac9m6m01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "recognising the equivalence of measurements, such as 1.25 metres is the same…"
+    "id": "ac9m6m01-p04",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6M01, on a number line from 11 to 12, where is 11.5?",
+    "explanation": "Halfway between 11 and 12.",
+    "printable": true,
+    "visual": "Number line from 11 to 12 with tenths marked.",
+    "instruction": "Visual brief: Number line from 11 to 12 with tenths marked.",
+    "type": "text",
+    "acceptedAnswers": [
+      "Halfway between 11 and 12"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "correct": "Halfway between 11 and 12"
   },
   {
-    "id": "ac9m6m01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6m01-p05",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6M01, round 11.68 to the nearest whole number.",
+    "explanation": "12",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "12"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "correct": "12"
   },
   {
-    "id": "ac9m6m01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "recognising the equivalence of measurements, such as 1.25 metres is the same…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6m01-p06",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6M01, calculate 11.25 + 1.4.",
+    "explanation": "12.65.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "12.65"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "correct": "12.65"
   },
   {
-    "id": "ac9m6m01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "recognising the equivalence of measurements, such as 1.25 metres is the same…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "id": "ac9m6m01-p07",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6M01, explain why 11.50 and 11.5 are the same value.",
+    "explanation": "The zero in the hundredths place does not change the value; both show five tenths.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The zero in the hundredths place does not change the value; both show five tenths.",
+    "correct": "The zero in the hundredths place does not change the value; both show five tenths."
   },
   {
-    "id": "ac9m6m01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "convert between common metric units of length, mass and capacity; choose and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6M01: convert between common metric units of length, mass and capacity; choose and…."
+    "id": "ac9m6m01-p08",
+    "curriculumCode": "AC9M6M01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6M01, a student says 11.2 is greater than 11.75 because 2 is bigger than 75. Explain the error.",
+    "explanation": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths.",
+    "correct": "Decimals are compared by place value; the number with 75 hundredths is greater because 75 hundredths is more than 20 hundredths."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

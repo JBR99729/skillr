@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m10sp01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "apply deductive reasoning to proofs involving shapes in the plane and use…",
-      "recognise the connection between algebraic and graphical representations of…",
-      "use mathematical modelling to solve applied problems involving growth and…",
-      "experiment with functions and relations using digital tools, making and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "id": "ac9m10sp01-p01",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M10SP01, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m10sp01-02",
+    "id": "ac9m10sp01-p02",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M10SP01, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the surface area and volume of composite objects…",
-      "distinguishing between a practical demonstration and a proof; for example,…",
-      "interpret and use logarithmic scales in applied contexts involving small and…",
-      "solve practical problems applying Pythagoras’ theorem and trigonometry of…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "correct": 0
   },
   {
-    "id": "ac9m10sp01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify the impact of measurement errors on the accuracy of results in…",
-      "use mathematical modelling to solve practical problems involving proportion…",
-      "developing proofs involving congruent triangles and angle properties,…",
-      "interpret networks and network diagrams used to represent relationships in…"
+    "id": "ac9m10sp01-p03",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10SP01, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m10sp01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "design, test and refine solutions to spatial problems using algorithms and…",
-      "analyse claims, inferences and conclusions of statistical reports in the…",
-      "compare data distributions for continuous numerical variables using…",
-      "applying an understanding of relationships to deduce properties of geometric…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "id": "ac9m10sp01-p04",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M10SP01, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m10sp01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "apply deductive reasoning to proofs involving shapes in the plane and use…",
-      "construct scatterplots and comment on the association between the 2 numerical…",
-      "construct two-way tables and discuss possible relationship between…",
-      "plan and conduct statistical investigations of situations that involve…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "id": "ac9m10sp01-p05",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M10SP01, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m10sp01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
-      "investigating proofs of geometric theorems and using them to solve spatial…",
-      "design and conduct repeated chance experiments and simulations using digital…",
-      "comparing and contrasting the effect of truncation or rounding on the final…"
+    "id": "ac9m10sp01-p06",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M10SP01, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m10sp01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating the impact of approximation on multiple calculations in…",
-      "explaining the relationship between factorisation and expansion, including…",
-      "using dynamic geometric software to investigate the shortest path that…",
-      "applying knowledge of exponent laws to algebraic terms and using both…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "id": "ac9m10sp01-p07",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10SP01, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m10sp01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "investigating situations involving linear equations in context, such as…",
-      "describing the solution of simultaneous equations within the context of the…",
-      "graphing regions corresponding to inequalities in the Cartesian plane; for…",
-      "apply deductive reasoning to proofs involving shapes in the plane and use…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M10SP01: apply deductive reasoning to proofs involving shapes in the plane and use…."
+    "id": "ac9m10sp01-p08",
+    "curriculumCode": "AC9M10SP01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10SP01, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

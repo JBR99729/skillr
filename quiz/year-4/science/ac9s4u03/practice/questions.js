@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s4u03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify how forces can be exerted by one object on another and investigate…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "id": "ac9s4u03-p01",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S4U03 forces, identify whether a magnet pulling a paperclip is contact or non-contact.",
+    "explanation": "Non-contact force.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Non-contact force.",
+    "correct": "Non-contact force."
   },
   {
-    "id": "ac9s4u03-02",
+    "id": "ac9s4u03-p02",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement is best for contact and non-contact forces: evidence supports explanations, guesses are always enough, or labels do not matter?",
+    "explanation": "Evidence supports explanations.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "exploring the effect of magnets on other magnets and how magnetic forces can…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "evidence supports explanations",
+      "guesses are always enough",
+      "or labels do not matter"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "correct": 0
   },
   {
-    "id": "ac9s4u03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "exploring the positive and negative effects of friction on their everyday…",
-      "describing how animals, including humans, obtain their food from plants and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "id": "ac9s4u03-p03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match contact and non-contact forces investigation parts: question, prediction, observation, conclusion.",
+    "explanation": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "correct": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence."
   },
   {
-    "id": "ac9s4u03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing living things in a local habitat and categorising them as…",
-      "researching the different types of decomposers and their importance within a…",
-      "representing feeding relationships of producers and consumers as a food chain…",
-      "recognising that gravity is the force that pulls all objects to towards the…"
+    "id": "ac9s4u03-p04",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S4U03, name one force that can slow a moving object.",
+    "explanation": "Friction.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Friction"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "correct": "Friction"
   },
   {
-    "id": "ac9s4u03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify how forces can be exerted by one object on another and investigate…",
-      "investigating the impact of introduced predators such as foxes on small…",
-      "researching how the removal of a food source from within a habitat, such as…",
-      "identifying everyday examples of precipitation (rain or snow), evaporation…"
+    "id": "ac9s4u03-p05",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A Year 4 contact and non-contact forces table has results 12, 15, 15 and 18. What pattern or repeated result can be reported?",
+    "explanation": "15 appears twice; results are between 12 and 18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15 appears twice; results are between 12 and 18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "correct": "15 appears twice; results are between 12 and 18"
   },
   {
-    "id": "ac9s4u03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying local water sources and exploring how they change over time, such…",
-      "observing how the pushing force of a liquid enables an object to float",
-      "exploring where tap water comes from and predicting what happens to water…",
-      "exploring a game or simulation of the water cycle, identifying key processes…"
+    "id": "ac9s4u03-p06",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the contact and non-contact forces investigation steps: collect data, ask a question, plan a fair method, communicate findings.",
+    "explanation": "Ask a question; plan a fair method; collect data; communicate findings.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair method",
+      "communicate findings"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "correct": [
+      "ask a question",
+      "plan a fair method",
+      "collect data",
+      "communicate findings"
+    ]
   },
   {
-    "id": "ac9s4u03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that clouds are tiny water droplets suspended in air, observing a…",
-      "considering why we are encouraged to save and recycle water, and actions…",
-      "examining shoe sole design and identifying patterns in sole design and use…",
-      "identifying and naming materials in the classroom, and grouping objects made…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "id": "ac9s4u03-p07",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why a labelled diagram or photograph would help students answer a contact and non-contact forces question.",
+    "explanation": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "correct": "It gives visible evidence that students can inspect, compare and refer to in their answer."
   },
   {
-    "id": "ac9s4u03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring vocabulary for describing properties; observing different fibres,…",
-      "investigating familiar objects, such as shoes, drink containers or backpacks,…",
-      "designing, building and testing an object or structure for a specific…",
-      "identify how forces can be exerted by one object on another and investigate…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4U03: identify how forces can be exerted by one object on another and investigate…."
+    "id": "ac9s4u03-p08",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group changes two things at once in a contact and non-contact forces investigation. Explain why this is a problem.",
+    "explanation": "It becomes unclear which change caused the result, so the test is less fair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It becomes unclear which change caused the result, so the test is less fair.",
+    "correct": "It becomes unclear which change caused the result, so the test is less fair."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

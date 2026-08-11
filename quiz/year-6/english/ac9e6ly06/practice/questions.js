@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e6ly06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "understand that cohesion can be created by the intentional use of repetition,…",
-      "understand how embedded clauses can expand the variety of complex sentences…",
-      "understand how ideas can be expanded and sharpened through careful choice of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p01",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E6LY06, sort these words by the focus pattern in create, edit and publish written and multimodal texts whose purposes: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e6ly06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "identify and explain how images, figures, tables, diagrams, maps and graphs…",
-      "creating informative texts for 2 different audiences that explore a topic…",
-      "identify authors’ use of vivid, emotive vocabulary, such as metaphors,…",
-      "understand how to use the comma for lists, to separate a dependent clause…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p02",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E6LY06, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e6ly06-03",
+    "id": "ac9e6ly06-p03",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E6LY06, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "identify responses to characters and events in literary texts, drawn from…",
-      "identify similarities and differences in literary texts on similar topics,…",
-      "using rhetorical devices, images and modal verbs for persuasive effects, for…",
-      "identify and explain characteristics that define an author's individual style"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "correct": 0
   },
   {
-    "id": "ac9e6ly06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explain the way authors use sound and imagery to create meaning and effect in…",
-      "create and edit literary texts that adapt plot structure, characters,…",
-      "examine texts including media texts that represent ideas and events, and…",
-      "selecting and combining digital tools to create texts"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p04",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E6LY06, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e6ly06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "use interaction skills and awareness of formality when paraphrasing,…",
-      "analyse how text structures and language features work together to meet the…",
-      "select, navigate and read texts for a range of purposes, monitoring meaning…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p05",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E6LY06, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e6ly06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "re-reading and editing their own and others’ work using negotiated criteria…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations that…",
-      "use phonic knowledge of common and less common grapheme-phoneme relationships…"
+    "id": "ac9e6ly06-p06",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E6LY06, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e6ly06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "use knowledge of known words, word origins including some Latin and Greek…",
-      "recognising language protocols for formal address; for example, words used to…",
-      "re-reading and editing their own and others’ work using negotiated criteria…",
-      "discussing levels of language such as slang, colloquial, conversational and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p07",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E6LY06, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e6ly06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "presenting ideas and opinions at levels of formality appropriate to the…",
-      "identifying language choices that evoke emotion and judgements in direct and…",
-      "understanding when to share feelings and opinions; for example, in a personal…",
-      "plan, create, edit and publish written and multimodal texts whose purposes…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E6LY06: plan, create, edit and publish written and multimodal texts whose purposes…."
+    "id": "ac9e6ly06-p08",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E6LY06, write one new word that fits the AC9E6LY06 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

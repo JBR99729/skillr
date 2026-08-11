@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…",
-      "understand that words can represent people, places and things (nouns,…"
+    "id": "ac9e1la04-p01",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which word rhymes with light: lamp, night or little?",
+    "explanation": "Night (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Night (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "correct": "Night (1 mark)"
   },
   {
-    "id": "ac9e1la04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare how images in different types of texts contribute to meaning",
-      "identifying patterns of repetition in texts; for example, repetition of…",
-      "recognise the vocabulary of learning area topics",
-      "understand that written language uses punctuation such as full stops,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p02",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match ‘go, go, go’, ‘cat/hat’ and a steady clap pattern to repetition, rhyme and rhythm.",
+    "explanation": "Go phrase ↔ repetition; cat/hat ↔ rhyme; claps ↔ rhythm (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Go phrase ↔ repetition; cat/hat ↔ rhyme; claps ↔ rhythm (1 mark each).",
+    "correct": "Go phrase ↔ repetition; cat/hat ↔ rhyme; claps ↔ rhythm (1 mark each)."
   },
   {
-    "id": "ac9e1la04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "discuss literary texts and share responses by making connections with…",
-      "discussing different poems and identifying rhyme; for example, end of line…",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p03",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Say ‘Rain on the roof, rain on the ground’ with a steady four-beat clap. Repeat the line.",
+    "explanation": "Maintains a steady beat and repeats the full line accurately (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Maintains a steady beat and repeats the full line accurately (2 marks).",
+    "correct": "Maintains a steady beat and repeats the full line accurately (2 marks)."
   },
   {
-    "id": "ac9e1la04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "discussing different poems and identifying rhyme; for example, end of line…"
+    "id": "ac9e1la04-p04",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Complete ‘The frog sat on a __’ with a word that rhymes with log.",
+    "explanation": "Log or another contextually suitable rhyme such as bog (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Log or another contextually suitable rhyme such as bog (1 mark)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "correct": "Log or another contextually suitable rhyme such as bog (1 mark)"
   },
   {
-    "id": "ac9e1la04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p05",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the cards to make two repeats: stomp, clap, clap, stomp, clap, clap.",
+    "explanation": "Stomp-clap-clap repeated twice (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Stomp-clap-clap repeated twice (1 mark).",
+    "correct": "Stomp-clap-clap repeated twice (1 mark)."
   },
   {
-    "id": "ac9e1la04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "discussing different poems and identifying rhyme; for example, end of line…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p06",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Write or draw four beat marks under ‘Little bird, flap your wings’ and show which word or syllable lands on each beat.",
+    "explanation": "Shows a plausible steady four-beat grouping aligned to the spoken line (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows a plausible steady four-beat grouping aligned to the spoken line (3 marks).",
+    "correct": "Shows a plausible steady four-beat grouping aligned to the spoken line (3 marks)."
   },
   {
-    "id": "ac9e1la04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "discussing different poems and identifying rhyme; for example, end of line…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p07",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why does repeating ‘Home again’ at the end of each verse help a song feel connected?",
+    "explanation": "It creates a repeated anchor/refrain that links verses and helps listeners remember the idea (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It creates a repeated anchor/refrain that links verses and helps listeners remember the idea (2 marks).",
+    "correct": "It creates a repeated anchor/refrain that links verses and helps listeners remember the idea (2 marks)."
   },
   {
-    "id": "ac9e1la04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA04: explore how repetition, rhyme and rhythm create cohesion in simple poems,…."
+    "id": "ac9e1la04-p08",
+    "curriculumCode": "AC9E1LA04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Write or say two short lines with one repeated phrase and one rhyming pair.",
+    "explanation": "Contains clear repetition, a defensible end rhyme and connected meaning (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Contains clear repetition, a defensible end rhyme and connected meaning (3 marks).",
+    "correct": "Contains clear repetition, a defensible end rhyme and connected meaning (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e4ly08-01",
+    "id": "ac9e4ly08-p01",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E4LY08, which feature best suits a text for younger students: simple steps, dense technical paragraphs or hidden navigation?",
+    "explanation": "Simple steps.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "identify how text connectives including temporal and conditional words, and…",
-      "identify text navigation features of online texts that enhance readability…",
-      "understand that complex sentences contain one independent clause and at least…"
+      "simple steps",
+      "dense technical paragraphs",
+      "hidden navigation"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "correct": 0
   },
   {
-    "id": "ac9e4ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how quoted (direct) and reported (indirect) speech are used",
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "understand how adverb groups/phrases and prepositional phrases work in…",
-      "understand past, present and future tenses and their impact on meaning in a…"
+    "id": "ac9e4ly08-p02",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY08, read: 'The river looked calm, but the broken fence and rushed footprints suggested the crossing had not been safe.' State one literal fact.",
+    "explanation": "A fact directly stated in the snippet.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A fact directly stated in the snippet"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "correct": "A fact directly stated in the snippet"
   },
   {
-    "id": "ac9e4ly08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "expand vocabulary by exploring a range of synonyms and antonyms, and using…",
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "understand that punctuation signals dialogue through quotation marks and that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "id": "ac9e4ly08-p03",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY08, state one inference and the evidence that supports it.",
+    "explanation": "A valid inference linked to wording or visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid inference linked to wording or visual evidence.",
+    "correct": "A valid inference linked to wording or visual evidence."
   },
   {
-    "id": "ac9e4ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise similar storylines, ideas and relationships in different contexts…",
-      "describe the effects of text structures and language features in literary…",
-      "discuss how authors and illustrators make stories engaging by the way they…",
-      "write words using clearly formed joined letters, with developing fluency and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "id": "ac9e4ly08-p04",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E4LY08, match imaginative, informative, persuasive and procedural to entertain, inform, convince and instruct.",
+    "explanation": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct.",
+    "correct": "Imaginative -> entertain; informative -> inform; persuasive -> convince; procedural -> instruct."
   },
   {
-    "id": "ac9e4ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "examine the use of literary devices and deliberate word play in literary…",
-      "create and edit literary texts by developing storylines, characters and…",
-      "compare texts from different times with similar purposes and audiences to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "id": "ac9e4ly08-p05",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LY08, revise a weak opening sentence so it better suits its audience and purpose.",
+    "explanation": "A clearer sentence with audience/purpose fit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A clearer sentence with audience/purpose fit.",
+    "correct": "A clearer sentence with audience/purpose fit."
   },
   {
-    "id": "ac9e4ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "listen for key points and information to carry out tasks and contribute to…",
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "identify the characteristic features used in imaginative, informative and…",
-      "read different types of texts, integrating phonic, semantic and grammatical…"
+    "id": "ac9e4ly08-p06",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9E4LY08, order the planning steps: choose audience, gather ideas, draft, revise.",
+    "explanation": "Choose audience; gather ideas; draft; revise.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "correct": [
+      "choose audience",
+      "gather ideas",
+      "draft",
+      "revise"
+    ]
   },
   {
-    "id": "ac9e4ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal imaginative,…",
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "plan, create, rehearse and deliver structured oral and/or multimodal…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "id": "ac9e4ly08-p07",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LY08, explain how skimming, scanning, predicting or questioning helps comprehension.",
+    "explanation": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The strategy helps locate information, monitor meaning or prepare for what comes next.",
+    "correct": "The strategy helps locate information, monitor meaning or prepare for what comes next."
   },
   {
-    "id": "ac9e4ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to use and apply phonological and morphological knowledge to…",
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "read and write high-frequency words including homophones and know how to use…",
-      "write words using clearly formed joined letters, with developing fluency and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY08: write words using clearly formed joined letters, with developing fluency and…."
+    "id": "ac9e4ly08-p08",
+    "curriculumCode": "AC9E4LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LY08, create a short text or presentation plan that fits this topic and name two choices you made.",
+    "explanation": "A valid plan with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with two choices linked to purpose and audience.",
+    "correct": "A valid plan with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

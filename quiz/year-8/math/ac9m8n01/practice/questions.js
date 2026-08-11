@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8n01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise irrational numbers in applied contexts, including square roots and π",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…",
-      "graph linear relations on the Cartesian plane using digital tools where…"
+    "id": "ac9m8n01-p01",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N01, for AC9M8N01 recognise irrational numbers in applied contexts, calculate 45 + 20.",
+    "explanation": "65",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "65"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "correct": "65"
   },
   {
-    "id": "ac9m8n01-02",
+    "id": "ac9m8n01-p02",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8N01, which estimate is most reasonable for 45 x 20: about 65, about 900, or about 9000?",
+    "explanation": "About 900.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use mathematical modelling to solve applied problems involving linear…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "experiment with linear functions and relations using digital tools, making…",
-      "solve problems involving the area and perimeter of irregular and composite…"
+      "about 65",
+      "about 900",
+      "or about 9000"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "correct": 1
   },
   {
-    "id": "ac9m8n01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the volume and capacity of right prisms using…",
-      "solve problems involving the circumference and area of a circle using…",
-      "using digital tools to systematically explore contexts or situations that use…",
-      "solve problems involving duration, including using 12- and 24-hour time…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "id": "ac9m8n01-p03",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8N01, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m8n01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "investigating the golden ratio in art and design, and historical…"
+    "id": "ac9m8n01-p04",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N01, find the missing value: ___ + 45 = 65.",
+    "explanation": "20",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "20"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "correct": "20"
   },
   {
-    "id": "ac9m8n01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise irrational numbers in applied contexts, including square roots and π",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…",
-      "describe the position and location of objects in 3 dimensions in different…"
+    "id": "ac9m8n01-p05",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8N01, a table shows 45, 20 and 65. What is the total of all three values?",
+    "explanation": "130",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "130"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "correct": "130"
   },
   {
-    "id": "ac9m8n01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "connecting the ratio between the circumference and diameter of any circle to…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8n01-p06",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M8N01, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m8n01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "connecting the ratio between the circumference and diameter of any circle to…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "id": "ac9m8n01-p07",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N01, explain one efficient strategy for solving a recognise irrational numbers in applied contexts problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m8n01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising the connection between exponent form and expanded form with the…",
-      "recognise irrational numbers in applied contexts, including square roots and π"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N01: recognise irrational numbers in applied contexts, including square roots and π."
+    "id": "ac9m8n01-p08",
+    "curriculumCode": "AC9M8N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N01, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

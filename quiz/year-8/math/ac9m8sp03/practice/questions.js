@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8sp03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the position and location of objects in 3 dimensions in different…",
-      "use the 4 operations with integers and with rational numbers, choosing and…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "id": "ac9m8sp03-p01",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M8SP03, name one property that would help classify a quadrilateral.",
+    "explanation": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "printable": true,
+    "visual": "Set of quadrilaterals with sides and angles visible.",
+    "instruction": "Visual brief: Set of quadrilaterals with sides and angles visible.",
+    "type": "self-check",
+    "modelAnswer": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry.",
+    "correct": "Examples include number of sides, parallel sides, equal sides, right angles or symmetry."
   },
   {
-    "id": "ac9m8sp03-02",
+    "id": "ac9m8sp03-p02",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8SP03, which transformation slides a shape without turning or flipping it: translation, reflection or rotation?",
+    "explanation": "Translation.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "graph linear relations on the Cartesian plane using digital tools where…",
-      "locating aircraft/drones using latitude, longitude and altitude as a…",
-      "use mathematical modelling to solve applied problems involving linear…",
-      "experiment with linear functions and relations using digital tools, making…"
+      "translation",
+      "reflection",
+      "rotation"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "correct": 0
   },
   {
-    "id": "ac9m8sp03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the area and perimeter of irregular and composite…",
-      "solve problems involving the volume and capacity of right prisms using…",
-      "constructing three-dimensional objects using 3D printers or designing…",
-      "solve problems involving the circumference and area of a circle using…"
+    "id": "ac9m8sp03-p03",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8SP03, point A is at (2, 3). Translate it 4 units right and 1 unit down. What is the new point?",
+    "explanation": "(6, 2).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "(6, 2)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "correct": "(6, 2)"
   },
   {
-    "id": "ac9m8sp03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve problems involving duration, including using 12- and 24-hour time…",
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "comparing and contrasting two-dimensional and three-dimensional coordinate…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "id": "ac9m8sp03-p04",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8SP03, match vertex, edge, face and axis to corner, line segment, flat surface and line of reference.",
+    "explanation": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference.",
+    "correct": "Vertex -> corner; edge -> line segment; face -> flat surface; axis -> line of reference."
   },
   {
-    "id": "ac9m8sp03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the position and location of objects in 3 dimensions in different…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "id": "ac9m8sp03-p05",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M8SP03, describe one line of symmetry for a rectangle that is not a square.",
+    "explanation": "A vertical or horizontal line through the centre.",
+    "printable": true,
+    "visual": "Rectangle with centre guidelines available.",
+    "instruction": "Visual brief: Rectangle with centre guidelines available.",
+    "type": "self-check",
+    "modelAnswer": "A vertical or horizontal line through the centre.",
+    "correct": "A vertical or horizontal line through the centre."
   },
   {
-    "id": "ac9m8sp03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "using dynamic geometry software to construct shapes and objects within the…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8sp03-p06",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M8SP03, order the steps: check properties, draw accurately, label points, read the task.",
+    "explanation": "Read the task; draw accurately; label points; check properties.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check properties",
+      "draw accurately",
+      "label points",
+      "read the task"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "correct": [
+      "read the task",
+      "draw accurately",
+      "label points",
+      "check properties"
+    ]
   },
   {
-    "id": "ac9m8sp03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "interpreting three-dimensional coordinate locations for objects in…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "id": "ac9m8sp03-p07",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8SP03, explain why a square can also be classified as a rectangle.",
+    "explanation": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It has four right angles and opposite sides parallel; it also has all sides equal.",
+    "correct": "It has four right angles and opposite sides parallel; it also has all sides equal."
   },
   {
-    "id": "ac9m8sp03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "describe the position and location of objects in 3 dimensions in different…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8SP03: describe the position and location of objects in 3 dimensions in different…."
+    "id": "ac9m8sp03-p08",
+    "curriculumCode": "AC9M8SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8SP03, a student says a rotated shape is a different shape because it points another way. Explain.",
+    "explanation": "Rotation changes orientation but preserves size and shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rotation changes orientation but preserves size and shape.",
+    "correct": "Rotation changes orientation but preserves size and shape."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

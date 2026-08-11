@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m10sp03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "design, test and refine solutions to spatial problems using algorithms and…",
-      "recognise the connection between algebraic and graphical representations of…",
-      "use mathematical modelling to solve applied problems involving growth and…",
-      "experiment with functions and relations using digital tools, making and…"
+    "id": "ac9m10sp03-p01",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10SP03, expand and simplify 2(x + 7) - 3(x - 4).",
+    "explanation": "-x + 26.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "-x + 26"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "correct": "-x + 26"
   },
   {
-    "id": "ac9m10sp03-02",
+    "id": "ac9m10sp03-p02",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M10SP03, which is the correct factorisation of 6x + 42: 6(x + 7), x(6 + 42) or 6x(7)?",
+    "explanation": "6(x + 7).",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the surface area and volume of composite objects…",
-      "designing and making scale models of three-dimensional objects using digital…",
-      "interpret and use logarithmic scales in applied contexts involving small and…",
-      "solve practical problems applying Pythagoras’ theorem and trigonometry of…"
+      "6(x + 7)",
+      "x(6 + 42)",
+      "6x(7)"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "correct": 0
   },
   {
-    "id": "ac9m10sp03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify the impact of measurement errors on the accuracy of results in…",
-      "use mathematical modelling to solve practical problems involving proportion…",
-      "applying a computational thinking approach to solving problems involving…",
-      "apply deductive reasoning to proofs involving shapes in the plane and use…"
+    "id": "ac9m10sp03-p03",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10SP03, simplify x^3 x x^4.",
+    "explanation": "x^7.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x^7"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "correct": "x^7"
   },
   {
-    "id": "ac9m10sp03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "interpret networks and network diagrams used to represent relationships in…",
-      "analyse claims, inferences and conclusions of statistical reports in the…",
-      "compare data distributions for continuous numerical variables using…",
-      "defining and decomposing spatial problems, creating and applying algorithms…"
+    "id": "ac9m10sp03-p04",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M10SP03, solve 2x + 7 = 25.",
+    "explanation": "x = 9.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 9"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "correct": "x = 9"
   },
   {
-    "id": "ac9m10sp03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "design, test and refine solutions to spatial problems using algorithms and…",
-      "construct scatterplots and comment on the association between the 2 numerical…",
-      "construct two-way tables and discuss possible relationship between…",
-      "plan and conduct statistical investigations of situations that involve…"
+    "id": "ac9m10sp03-p05",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M10SP03, a table has x values 0, 1, 2 and y values 1, 3, 9. What exponential rule fits?",
+    "explanation": "y = 3^x.",
+    "printable": true,
+    "visual": "Two-column function table.",
+    "instruction": "Visual brief: Two-column function table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = 3^x"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "correct": "y = 3^x"
   },
   {
-    "id": "ac9m10sp03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
-      "designing, creating and testing algorithms using pseudocode or flow charts…",
-      "design and conduct repeated chance experiments and simulations using digital…",
-      "comparing and contrasting the effect of truncation or rounding on the final…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "id": "ac9m10sp03-p06",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M10SP03, order the steps: check restrictions, simplify both sides, solve, substitute to check.",
+    "explanation": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "correct": "Simplify both sides; check restrictions if relevant; solve; substitute to check."
   },
   {
-    "id": "ac9m10sp03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating the impact of approximation on multiple calculations in…",
-      "explaining the relationship between factorisation and expansion, including…",
-      "designing, creating and testing algorithms using pseudocode or flow charts…",
-      "applying knowledge of exponent laws to algebraic terms and using both…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "id": "ac9m10sp03-p07",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10SP03, explain how an algebraic solution can be interpreted on a graph.",
+    "explanation": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "correct": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship."
   },
   {
-    "id": "ac9m10sp03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "investigating situations involving linear equations in context, such as…",
-      "describing the solution of simultaneous equations within the context of the…",
-      "graphing regions corresponding to inequalities in the Cartesian plane; for…",
-      "design, test and refine solutions to spatial problems using algorithms and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M10SP03: design, test and refine solutions to spatial problems using algorithms and…."
+    "id": "ac9m10sp03-p08",
+    "curriculumCode": "AC9M10SP03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M10SP03, a student writes (x + 3)^2 = x^2 + 9. Explain and correct the error.",
+    "explanation": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "correct": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

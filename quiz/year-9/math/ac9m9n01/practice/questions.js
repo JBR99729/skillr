@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9n01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise that the real number system includes the rational numbers and the…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "use mathematical modelling to solve applied problems involving change…",
-      "experiment with the effects of the variation of parameters on graphs of…"
+    "id": "ac9m9n01-p01",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9N01, for AC9M9N01 recognise that the real number system includes the rational numbers, calculate 49 + 21.",
+    "explanation": "70",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "70"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "correct": "70"
   },
   {
-    "id": "ac9m9n01-02",
+    "id": "ac9m9n01-p02",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9N01, which estimate is most reasonable for 49 x 21: about 70, about 1020, or about 10290?",
+    "explanation": "About 1020.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the volume and surface area of right prisms and…",
-      "investigating the real number system by representing the relationships…",
-      "solve problems involving very small and very large measurements, time scales…",
-      "solve spatial problems, applying angle properties, scale, similarity,…"
+      "about 70",
+      "about 1020",
+      "or about 10290"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "correct": 1
   },
   {
-    "id": "ac9m9n01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "use mathematical modelling to solve practical problems involving direct…",
-      "using a real number line to indicate the solution interval for inequalities…",
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "id": "ac9m9n01-p03",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M9N01, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m9n01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "using positive and negative rational numbers to solve problems; for example,…"
+    "id": "ac9m9n01-p04",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9N01, find the missing value: ___ + 49 = 70.",
+    "explanation": "21",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "21"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "correct": "21"
   },
   {
-    "id": "ac9m9n01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise that the real number system includes the rational numbers and the…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9n01-p05",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9N01, a table shows 49, 21 and 70. What is the total of all three values?",
+    "explanation": "140",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "140"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "correct": "140"
   },
   {
-    "id": "ac9m9n01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
+    "id": "ac9m9n01-p06",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M9N01, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m9n01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "representing decimals in exponential form; for example, 0.475 can be…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "simplifying and evaluating numerical expressions, involving both positive and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "id": "ac9m9n01-p07",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9N01, explain one efficient strategy for solving a recognise that the real number system includes the rational numbers problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m9n01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "relating the computation of numerical expressions involving exponents to the…",
-      "recognising exponents in algebraic expressions and applying the relevant…",
-      "relating simplification of expressions from first principles and counting to…",
-      "recognise that the real number system includes the rational numbers and the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9N01: recognise that the real number system includes the rational numbers and the…."
+    "id": "ac9m9n01-p08",
+    "curriculumCode": "AC9M9N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9N01, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

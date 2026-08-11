@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly11-01",
+    "id": "ac9e3ly11-p01",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which spelling is correct: becos, because, becawse?",
+    "explanation": "because.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
+      "becos",
+      "because",
+      "becawse"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "correct": 1
   },
   {
-    "id": "ac9e3ly11-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "using phonic knowledge to explore less common letter patterns after short…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3ly11-p02",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which letters make /n/ in \"knee\"?",
+    "explanation": "kn.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "kn"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "correct": "kn"
   },
   {
-    "id": "ac9e3ly11-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "using phonic knowledge and knowledge of letter patterns to spell words with…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "id": "ac9e3ly11-p03",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match wr, gn, ph, eigh to write, gnome, phone, eight.",
+    "explanation": "wr -> write; gn -> gnome; ph -> phone; eigh -> eight.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "wr -> write; gn -> gnome; ph -> phone; eigh -> eight.",
+    "correct": "wr -> write; gn -> gnome; ph -> phone; eigh -> eight."
   },
   {
-    "id": "ac9e3ly11-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "using phonic knowledge and knowledge of letter patterns to spell words with…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "id": "ac9e3ly11-p04",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: light, phone, night, graph.",
+    "explanation": "igh: light, night. ph: phone, graph.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "igh: light, night. ph: phone, graph.",
+    "correct": "igh: light, night. ph: phone, graph."
   },
   {
-    "id": "ac9e3ly11-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "id": "ac9e3ly11-p05",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Correct the spelling: \"The nife is sharp.\"",
+    "explanation": "\"The knife is sharp.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"The knife is sharp.\"",
+    "correct": "\"The knife is sharp.\""
   },
   {
-    "id": "ac9e3ly11-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "using phonic knowledge and knowledge of letter patterns to spell words with…",
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "use comprehension strategies when listening and viewing to build literal and…"
+    "id": "ac9e3ly11-p06",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Spell the word with sounds /f/ /o/ /n/ that uses ph.",
+    "explanation": "phone.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "phone"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "correct": "phone"
   },
   {
-    "id": "ac9e3ly11-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish imaginative, informative and persuasive…",
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "using phonic knowledge and knowledge of letter patterns to spell words with…",
-      "write words using joined letters that are clearly formed and consistent in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "id": "ac9e3ly11-p07",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "How could you learn to spell \"through\"?",
+    "explanation": "Use chunking, look-say-cover-write-check, known pattern, word wall or memory cue.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use chunking, look-say-cover-write-check, known pattern, word wall or memory cue.",
+    "correct": "Use chunking, look-say-cover-write-check, known pattern, word wall or memory cue."
   },
   {
-    "id": "ac9e3ly11-08",
+    "id": "ac9e3ly11-p08",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word has a silent letter: map, knee, sun?",
+    "explanation": "knee.",
+    "printable": true,
     "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
     "answers": [
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…",
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "recognise and know how to write most high-frequency words including some…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…"
+      "map",
+      "knee",
+      "sun"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY11: use phoneme-grapheme (sound-letter) relationships and less common letter…."
+    "correct": 1
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

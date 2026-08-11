@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e9la07-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "analyse how symbols in still and moving images augment meaning",
-      "investigate a range of cohesive devices that condense information in texts,…",
-      "identify how authors vary sentence structures creatively for effects, such as…",
-      "understand how abstract nouns and nominalisation can be used to summarise…"
+    "id": "ac9e9la07-p01",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E9LA07, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e9la07-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "analyse how vocabulary choices contribute to style, mood and tone",
-      "investigating the use of symbols; for example, specific seasons, weather and…",
-      "understand punctuation conventions for referencing and citing others for…",
-      "analyse the representations of people and places in literary texts, drawn…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p02",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E9LA07, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e9la07-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "present a personal response to a literary text comparing initial impressions…",
-      "analyse how features of literary texts influence readers’ preference for texts",
-      "investigating the use of symbols; for example, specific seasons, weather and…",
-      "analyse texts and evaluate the aesthetic qualities and appeal of an author’s…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p03",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LA07, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e9la07-04",
+    "id": "ac9e9la07-p04",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E9LA07, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "analyse the effect of text structures, language features and literary devices…",
-      "create and edit literary texts, that may be a hybrid, that experiment with…",
-      "analyse how representations of people, places, events and concepts reflect…",
-      "investigating the use of symbols; for example, specific seasons, weather and…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "correct": 0
   },
   {
-    "id": "ac9e9la07-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "analyse how symbols in still and moving images augment meaning",
-      "listen to spoken texts that have different purposes and audiences, analysing…",
-      "analyse and evaluate how language features are used to represent a…",
-      "analyse the organisation of ideas in paragraphs and extended texts, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p05",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E9LA07, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e9la07-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "investigating the use of symbols; for example, specific seasons, weather and…",
-      "plan, create, edit and publish written and multimodal texts, organising,…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations for…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p06",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E9LA07, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e9la07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "understand how spelling is used in texts for particular effects; for example,…",
-      "identifying the various communities to which students belong and how language…",
-      "investigating the use of symbols; for example, specific seasons, weather and…",
-      "comparing texts that use evaluative language in different ways; for example,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p07",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LA07, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e9la07-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "comparing the use of linear and non-linear narratives in a range of short…",
-      "comparing the opening paragraphs of different public texts such as feature…",
-      "sequencing and developing an argument using language structures that suggest…",
-      "analyse how symbols in still and moving images augment meaning"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E9LA07: analyse how symbols in still and moving images augment meaning."
+    "id": "ac9e9la07-p08",
+    "curriculumCode": "AC9E9LA07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E9LA07, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

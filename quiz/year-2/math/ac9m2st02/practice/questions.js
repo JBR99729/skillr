@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m2st02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "create different graphical representations of data using software where…",
-      "add and subtract one- and two-digit numbers, representing problems using…",
-      "multiply and divide by one-digit numbers using repeated addition, equal…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m2st02-p01",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9M2ST02, look at the AC9M2ST02 different graphical representations of data picture. How many objects are shown altogether?",
+    "explanation": "7 objects.",
+    "printable": true,
+    "visual": "Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "text",
+    "acceptedAnswers": [
+      "7 objects"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "correct": "7 objects"
   },
   {
-    "id": "ac9m2st02-02",
+    "id": "ac9m2st02-p02",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M2ST02, which numeral matches the collection: 7, 9 or 6?",
+    "explanation": "7.",
+    "printable": true,
+    "visual": "Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, describe and create additive patterns that increase or decrease by…",
-      "collecting data from a limited list of choices, creating 2 different…",
-      "recall and demonstrate proficiency with addition facts to 20; extend and…",
-      "recall and demonstrate proficiency with multiplication facts for twos; extend…"
+      "7",
+      "9",
+      "6"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "correct": 0
   },
   {
-    "id": "ac9m2st02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "measure and compare objects based on length, capacity and mass using…",
-      "identify common uses and represent halves, quarters and eighths in relation…",
-      "creating different data displays; for example, lists, tally charts, jointly…",
-      "identify the date and determine the number of days between events using…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "id": "ac9m2st02-p03",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M2ST02, sort the cards into 'shows different graphical representations of data' and 'does not show different graphical representations of data'.",
+    "explanation": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards that match the stated number, pattern, shape or comparison belong in the first group.",
+    "correct": "Cards that match the stated number, pattern, shape or comparison belong in the first group."
   },
   {
-    "id": "ac9m2st02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and read the time represented on an analog clock to the hour,…",
-      "identify, describe and demonstrate quarter, half, three-quarter and full…",
-      "recognise, compare and classify shapes, referencing the number of sides and…",
-      "using digital tools, including generative artificial intelligence tools, to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "id": "ac9m2st02-p04",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2ST02, how can you check that each object has been counted once?",
+    "explanation": "Touch, move, tick or point to each object once while saying one number word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Touch, move, tick or point to each object once while saying one number word.",
+    "correct": "Touch, move, tick or point to each object once while saying one number word."
   },
   {
-    "id": "ac9m2st02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create different graphical representations of data using software where…",
-      "locate positions in two-dimensional representations of a familiar space; move…",
-      "acquire data for categorical variables through surveys, observation,…",
-      "recognising missing numbers on different number lines; for example, a number…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "id": "ac9m2st02-p05",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M2ST02, draw or build a model that shows 4 and 3 more.",
+    "explanation": "The model shows 4, then 3 more, making 7.",
+    "printable": true,
+    "visual": "Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
+    "instruction": "Visual brief: Picture card: show 4 counters on the left and 3 counters on the right, with clear spacing for one-to-one counting.",
+    "type": "self-check",
+    "modelAnswer": "The model shows 4, then 3 more, making 7.",
+    "correct": "The model shows 4, then 3 more, making 7."
   },
   {
-    "id": "ac9m2st02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "recognising and locating the position of pieces within hundreds chart puzzles…",
-      "comparing picture graphs with one-to-one column graphs of the same data,…",
-      "reading and writing numerals, and saying and ordering two-, three- and…",
-      "collecting large quantities of materials for recycling; for example, ring…"
+    "id": "ac9m2st02-p06",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M2ST02, order the steps: check the answer, look at the picture, count or compare, choose the numeral.",
+    "explanation": "Look at the picture; count or compare; choose the numeral; check the answer.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check the answer",
+      "look at the picture",
+      "count or compare",
+      "choose the numeral"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "correct": [
+      "look at the picture",
+      "count or compare",
+      "choose the numeral",
+      "check the answer"
+    ]
   },
   {
-    "id": "ac9m2st02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the digits of a number with materials grouped into hundreds, tens…",
-      "renaming numbers in different ways using knowledge of place value; for…",
-      "using dot plots, sticker charts, picture graphs, bar charts and column graphs…",
-      "creating halves of a range of collections sets by sharing collections into 2…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "id": "ac9m2st02-p07",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M2ST02, two students give different answers for the AC9M2ST02 task. What should they check?",
+    "explanation": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They should check the picture, count each object once, compare equal parts or read the labels.",
+    "correct": "They should check the picture, count each object once, compare equal parts or read the labels."
   },
   {
-    "id": "ac9m2st02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "creating halves using measurement attributes; for example, explaining that “a…",
-      "using repeated halving to subdivide shapes and objects in different ways to…",
-      "dividing a shape into equal parts and relating the number of parts to the…",
-      "create different graphical representations of data using software where…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M2ST02: create different graphical representations of data using software where…."
+    "id": "ac9m2st02-p08",
+    "curriculumCode": "AC9M2ST02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M2ST02, make a new classroom example that shows different graphical representations of data.",
+    "explanation": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation.",
+    "correct": "A valid example using objects, a drawing, movement, a pattern, a shape or a familiar situation."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

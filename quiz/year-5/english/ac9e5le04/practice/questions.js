@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e5le04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "examine the effects of imagery, including simile, metaphor and…",
-      "understand how texts can be made cohesive by using the starting point of a…",
-      "understand that the structure of a complex sentence includes a main clause…",
-      "understand how noun groups can be expanded in a variety of ways to provide a…"
+    "id": "ac9e5le04-p01",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Visual selection",
+    "question": "For AC9E5LE04, the words say 'Everyone celebrated.' The image shows one character standing apart. What extra meaning does the image add?",
+    "explanation": "It may suggest exclusion, loneliness or mixed feelings.",
+    "printable": true,
+    "visual": "Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "instruction": "Visual brief: Text panel beside an image frame showing a character standing apart from a group, with facial expression and background details visible.",
+    "type": "text",
+    "acceptedAnswers": [
+      "It may suggest exclusion, loneliness or mixed feelings"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "correct": "It may suggest exclusion, loneliness or mixed feelings"
   },
   {
-    "id": "ac9e5le04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explain how the sequence of images in print, digital and film texts has an…",
-      "discussing how figurative language including simile and metaphor can make use…",
-      "understand how vocabulary is used to express greater precision of meaning,…",
-      "use commas to indicate prepositional phrases, and apostrophes where there is…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p02",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E5LE04, match close-up, colour, angle and layout to emotion, mood, power and reading path.",
+    "explanation": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path.",
+    "correct": "Close-up -> emotion; colour -> mood; angle -> power/perspective; layout -> reading path."
   },
   {
-    "id": "ac9e5le04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify aspects of literary texts that represent details or information…",
-      "present an opinion on a literary text using specific terms about literary…",
-      "discussing how, by appealing to the imagination, figurative language provides…",
-      "recognise that the point of view in a literary text influences how readers…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p03",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LE04, write a caption that accurately explains the image without repeating the sentence word-for-word.",
+    "explanation": "A relevant caption using visual evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant caption using visual evidence.",
+    "correct": "A relevant caption using visual evidence."
   },
   {
-    "id": "ac9e5le04-04",
+    "id": "ac9e5le04-p04",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E5LE04, which image best supports a safety message: an action showing safe behaviour, a decorative border, or an unrelated object?",
+    "explanation": "An action showing safe behaviour.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "create and edit literary texts, experimenting with figurative language,…",
-      "describe the ways in which a text reflects the time and place in which it was…",
-      "use appropriate interaction skills including paraphrasing and questioning to…",
-      "discussing how, by appealing to the imagination, figurative language provides…"
+      "an action showing safe behaviour",
+      "a decorative border",
+      "or an unrelated object"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "correct": 0
   },
   {
-    "id": "ac9e5le04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "examine the effects of imagery, including simile, metaphor and…",
-      "explain characteristic features used in imaginative, informative and…",
-      "navigate and read texts for specific purposes, monitoring meaning using…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p05",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E5LE04, add one visual detail that would make a persuasive poster stronger.",
+    "explanation": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis.",
+    "correct": "A relevant detail such as clear image evidence, contrast, arrows, labels or layout emphasis."
   },
   {
-    "id": "ac9e5le04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan, create, edit and publish written and multimodal texts whose purposes…",
-      "discussing how, by appealing to the imagination, figurative language provides…",
-      "plan, create, rehearse and deliver spoken and multimodal presentations that…",
-      "use phonic, morphemic and vocabulary knowledge to read and spell words that…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p06",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E5LE04, how can a camera angle make a person seem powerful or vulnerable?",
+    "explanation": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable.",
+    "correct": "Looking up can make them seem powerful; looking down can make them seem smaller or vulnerable."
   },
   {
-    "id": "ac9e5le04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "build and spell new words from knowledge of known words, base words, prefixes…",
-      "explore less common plurals, and understand how a suffix changes the meaning…",
-      "discussing how, by appealing to the imagination, figurative language provides…",
-      "using language that signals the roles of chairperson and the different…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p07",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E5LE04, explain how words and image together can create a meaning that neither gives alone.",
+    "explanation": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give context; image provides expression, setting, emphasis or contrast.",
+    "correct": "Words give context; image provides expression, setting, emphasis or contrast."
   },
   {
-    "id": "ac9e5le04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying ways in which cultures differ in making and responding to common…",
-      "recognising that a bare assertion (for example, “It's the best film this…",
-      "becoming familiar with the typical stages and language features of types of…",
-      "examine the effects of imagery, including simile, metaphor and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E5LE04: examine the effects of imagery, including simile, metaphor and…."
+    "id": "ac9e5le04-p08",
+    "curriculumCode": "AC9E5LE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E5LE04, design a one-frame multimodal text for the topic and explain two choices.",
+    "explanation": "A valid design with two choices linked to purpose and audience.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid design with two choices linked to purpose and audience.",
+    "correct": "A valid design with two choices linked to purpose and audience."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

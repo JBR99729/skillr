@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m5n08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "check and explain the reasonableness of solutions to problems including…",
-      "recognise that 100% represents the complete whole and use percentages to…",
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "solve problems involving multiplication of larger numbers by one- or…"
+    "id": "ac9m5n08-p01",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N08, for AC9M5N08 check and explain the reasonableness of solutions to problems including, calculate 61 + 24.",
+    "explanation": "85",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "85"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "correct": "85"
   },
   {
-    "id": "ac9m5n08-02",
+    "id": "ac9m5n08-p02",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M5N08, which estimate is most reasonable for 61 x 24: about 85, about 1460, or about 14640?",
+    "explanation": "About 1460.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving division, choosing efficient strategies and using…",
-      "interpreting a series of contextual problems to decide whether an exact…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "create and use algorithms involving a sequence of steps and decisions and…"
+      "about 85",
+      "about 1460",
+      "or about 14640"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "correct": 1
   },
   {
-    "id": "ac9m5n08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and explain the connection between multiplication and division as…",
-      "find unknown values in numerical equations involving multiplication and…",
-      "recognising the effect of rounding addition, subtraction, multiplication and…",
-      "choose appropriate metric units when measuring the length, mass and capacity…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "id": "ac9m5n08-p03",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M5N08, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m5n08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve practical problems involving the perimeter and area of regular and…",
-      "compare 12- and 24-hour time systems and solve practical problems involving…",
-      "estimate, construct and measure angles in degrees, using appropriate tools…",
-      "considering the type of rounding that is appropriate when estimating the…"
+    "id": "ac9m5n08-p04",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N08, find the missing value: ___ + 61 = 85.",
+    "explanation": "24",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "24"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "correct": "24"
   },
   {
-    "id": "ac9m5n08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "check and explain the reasonableness of solutions to problems including…",
-      "connect objects to their nets and build objects from their nets using spatial…",
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "describe and perform translations, reflections and rotations of shapes, using…"
+    "id": "ac9m5n08-p05",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M5N08, a table shows 61, 24 and 85. What is the total of all three values?",
+    "explanation": "170",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "170"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "correct": "170"
   },
   {
-    "id": "ac9m5n08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire, validate and represent data for nominal and ordinal categorical and…",
-      "considering the type of rounding that is appropriate when estimating the…",
-      "interpret line graphs representing change over time; discuss the…",
-      "plan and conduct statistical investigations by posing questions or…"
+    "id": "ac9m5n08-p06",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M5N08, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m5n08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "list the possible outcomes of chance experiments involving equally likely…",
-      "conduct repeated chance experiments including those with and without equally…",
-      "considering the type of rounding that is appropriate when estimating the…",
-      "making models of decimals including tenths, hundredths and thousandths by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "id": "ac9m5n08-p07",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N08, explain one efficient strategy for solving a check and explain the reasonableness of solutions to problems including problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m5n08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "renaming decimals to assist with mental computation; for example, when asked…",
-      "using a number line or number track to represent and locate decimals with…",
-      "interpreting and comparing the digits in decimal measures; for example, the…",
-      "check and explain the reasonableness of solutions to problems including…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N08: check and explain the reasonableness of solutions to problems including…."
+    "id": "ac9m5n08-p08",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N08, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

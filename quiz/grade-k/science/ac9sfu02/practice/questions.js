@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9sfu02-01",
+    "id": "ac9sfu02-p01",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word best describes the ball’s movement?",
+    "explanation": "B — An object rolls when it travels while turning over its curved surface.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "describe how objects move and how factors including their size, shape or…",
-      "pose questions and make predictions based on experiences",
-      "engage in investigations safely and make observations using their senses",
-      "represent observations in provided templates and identify patterns with…"
+      "Melting",
+      "Rolling",
+      "Stretching",
+      "Floating"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "correct": 1
   },
   {
-    "id": "ac9sfu02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare observations with predictions with guidance",
-      "observing how toys move, and grouping them based on their movement",
-      "share questions, predictions, observations and ideas with others",
-      "observing fruits and vegetables and identifying them as parts of plants such…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p02",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Predict which object will roll more easily. Name the shape feature that supports your answer.",
+    "explanation": "Predicts the sphere (1 mark) and links the prediction to its curved/round surface rather than its colour (1 mark). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Predicts the sphere (1 mark) and links the prediction to its curved/round surface rather than its colour (1 mark). 2 marks total.",
+    "correct": "Predicts the sphere (1 mark) and links the prediction to its curved/round surface rather than its colour (1 mark). 2 marks total."
   },
   {
-    "id": "ac9sfu02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognising humans as animals, describing external features of humans and…",
-      "using magnifying glasses or digital cameras to observe and identify external…",
-      "observing and describing ways different and unusually shaped objects such as…",
-      "sorting collections of model animals and explaining different grouping…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p03",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Group the toys by their main movement: spins, rolls, slides or bounces. Demonstrate or describe each movement.",
+    "explanation": "Top → spins; car → rolls; block → slides; ball → bounces (1 mark each). Accept that an object can move in another way if the child demonstrates it and labels the chosen movement accurately. 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Top → spins; car → rolls; block → slides; ball → bounces (1 mark each). Accept that an object can move in another way if the child demonstrates it and labels the chosen movement accurately. 4 marks total.",
+    "correct": "Top → spins; car → rolls; block → slides; ball → bounces (1 mark each). Accept that an object can move in another way if the child demonstrates it and labels the chosen movement accurately. 4 marks total."
   },
   {
-    "id": "ac9sfu02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and manipulating objects to identify the materials they are made of…",
-      "recognising that tools such as magnifying glasses enable more-detailed…",
-      "sorting and grouping materials based on observed properties such as colour,…",
-      "comparing the way different-sized, similar-shaped objects such as tennis…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p04",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What should you observe to compare how their sizes influence movement? Name two movement details to record.",
+    "explanation": "Names 2 observable measures/descriptions, such as which reaches the bottom first, distance travelled, path, rolling speed or number/height of bounces after the ramp (1 mark each). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Names 2 observable measures/descriptions, such as which reaches the bottom first, distance travelled, path, rolling speed or number/height of bounces after the ramp (1 mark each). 2 marks total.",
+    "correct": "Names 2 observable measures/descriptions, such as which reaches the bottom first, distance travelled, path, rolling speed or number/height of bounces after the ramp (1 mark each). 2 marks total."
   },
   {
-    "id": "ac9sfu02-05",
+    "id": "ac9sfu02-p05",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which prediction is most reasonable, and why?",
+    "explanation": "C — Keeping size and drop height alike lets the material be considered, and rubber commonly rebounds more than soft cloth.",
+    "printable": true,
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
     "answers": [
-      "describe how objects move and how factors including their size, shape or…",
-      "creating a display of different materials, naming each material and exploring…",
-      "using a digital camera to collect images of objects on a materials scavenger…",
-      "suggesting why different parts of everyday objects, such as saucepans and…"
+      "Both must bounce exactly the same because they are round.",
+      "The cloth ball will turn into rubber when it lands.",
+      "The rubber ball will probably bounce higher because its material springs back more readily.",
+      "Neither can move because their colours are unknown."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "correct": 2
   },
   {
-    "id": "ac9sfu02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "using their senses to make observations and exploring how scientists use…",
-      "exploring how the material a ball is made from affects the way it moves, such…",
-      "viewing examples of observations such as rock paintings, bark drawings,…",
-      "interacting with stories or documentaries about scientists such as Dame Jane…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p06",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Describe its likely path and compare it with the path of a round marble.",
+    "explanation": "Describes the egg shape as wobbling, curving or rolling unevenly (1 mark); describes the marble as rolling more smoothly/straight (1 mark); links the difference to shape (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Describes the egg shape as wobbling, curving or rolling unevenly (1 mark); describes the marble as rolling more smoothly/straight (1 mark); links the difference to shape (1 mark). 3 marks total.",
+    "correct": "Describes the egg shape as wobbling, curving or rolling unevenly (1 mark); describes the marble as rolling more smoothly/straight (1 mark); links the difference to shape (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfu02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "watching an age-appropriate documentary; noticing how people including…",
-      "posing questions based on experiences, such as: ‘What part of a plant is…",
-      "exploring how the material a ball is made from affects the way it moves, such…",
-      "posing questions about everyday objects and the materials that they may be…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p07",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Plan a fair test. State what must stay the same, what will change and what observation you will record.",
+    "explanation": "Changes ball material (1 mark); keeps relevant factors the same, including ball size/shape, drop height and surface (up to 3 marks); records bounce height or another consistent movement observation (1 mark); repeats or compares in the same way (1 mark). 6 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Changes ball material (1 mark); keeps relevant factors the same, including ball size/shape, drop height and surface (up to 3 marks); records bounce height or another consistent movement observation (1 mark); repeats or compares in the same way (1 mark). 6 marks total.",
+    "correct": "Changes ball material (1 mark); keeps relevant factors the same, including ball size/shape, drop height and surface (up to 3 marks); records bounce height or another consistent movement observation (1 mark); repeats or compares in the same way (1 mark). 6 marks total."
   },
   {
-    "id": "ac9sfu02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "making predictions before field work, such as which plants and animals they…",
-      "making predictions about how an unusually shaped object such as an egg or a…",
-      "discussing ways to conduct investigations safely, such as by being sun safe,…",
-      "describe how objects move and how factors including their size, shape or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFU02: describe how objects move and how factors including their size, shape or…."
+    "id": "ac9sfu02-p08",
+    "curriculumCode": "AC9SFU02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why that conclusion is not yet fair. Name two factors besides size that could have influenced the race and suggest a better comparison.",
+    "explanation": "Rejects the “always” claim because more than size differs (1 mark); identifies shape and material/surface interaction as possible factors (2 marks); suggests comparing objects of similar shape and material but different size, or changing one factor at a time (2 marks). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rejects the “always” claim because more than size differs (1 mark); identifies shape and material/surface interaction as possible factors (2 marks); suggests comparing objects of similar shape and material but different size, or changing one factor at a time (2 marks). 5 marks total.",
+    "correct": "Rejects the “always” claim because more than size differs (1 mark); identifies shape and material/surface interaction as possible factors (2 marks); suggests comparing objects of similar shape and material but different size, or changing one factor at a time (2 marks). 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

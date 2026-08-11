@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e8ly08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "apply learnt knowledge to spell accurately and to learn new words",
-      "understand how cohesion in texts is improved by strengthening the internal…",
-      "examine a variety of clause structures including embedded clauses that add…",
-      "understand the effect of nominalisation in texts"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p01",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E8LY08, sort these words by the focus pattern in apply learnt knowledge to spell accurately and to learn new: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e8ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how visual texts use intertextual references to enhance and layer…",
-      "understanding the different ways complex words are constructed, and drawing…",
-      "identify and use vocabulary typical of academic texts",
-      "understand and use punctuation conventions including semicolons and dashes to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p02",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E8LY08, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e8ly08-03",
+    "id": "ac9e8ly08-p03",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E8LY08, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "explain the ways that ideas and points of view may represent the values of…",
-      "share opinions about the language features, literary devices and text…",
-      "understanding the different ways complex words are constructed, and drawing…",
-      "explain how language and/or images in texts position readers to respond and…"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "correct": 0
   },
   {
-    "id": "ac9e8ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "identify intertextual references in literary texts and explain how the…",
-      "analyse how language features such as sentence patterns create tone, and…",
-      "create and edit literary texts that experiment with language features and…",
-      "understanding the different ways complex words are constructed, and drawing…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p04",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E8LY08, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e8ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "apply learnt knowledge to spell accurately and to learn new words",
-      "identify how texts reflect contexts",
-      "use interaction skills for identified purposes and situations, including when…",
-      "analyse and evaluate the ways that language features vary according to the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p05",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E8LY08, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e8ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "analyse how authors organise ideas to develop and shape meaning",
-      "understanding the different ways complex words are constructed, and drawing…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal texts, organising and…"
+    "id": "ac9e8ly08-p06",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E8LY08, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e8ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver spoken and multimodal presentations for…",
-      "understanding that group identities are formed through language that reflects…",
-      "understanding the different ways complex words are constructed, and drawing…",
-      "identifying how authors use rhetorical devices that reveal the dark or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p07",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E8LY08, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e8ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "recognising how texts such as critical responses to texts, expositions, text…",
-      "discussing how the placement of images and written text in a linear or…",
-      "explaining the structure and language features of texts such as narratives,…",
-      "apply learnt knowledge to spell accurately and to learn new words"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E8LY08: apply learnt knowledge to spell accurately and to learn new words."
+    "id": "ac9e8ly08-p08",
+    "curriculumCode": "AC9E8LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E8LY08, write one new word that fits the AC9E8LY08 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

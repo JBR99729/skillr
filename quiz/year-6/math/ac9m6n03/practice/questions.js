@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6n03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "apply knowledge of equivalence to compare, order and represent common…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…",
-      "solve problems that require finding a familiar fraction, decimal or…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "id": "ac9m6n03-p01",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "In AC9M6N03, a strip is divided into 11 equal parts and 5 parts are shaded. What fraction is shaded?",
+    "explanation": "5/11.",
+    "printable": true,
+    "visual": "Fraction strip divided into 11 equal parts with 5 shaded.",
+    "instruction": "Visual brief: Fraction strip divided into 11 equal parts with 5 shaded.",
+    "type": "self-check",
+    "modelAnswer": "5/11.",
+    "correct": "5/11."
   },
   {
-    "id": "ac9m6n03-02",
+    "id": "ac9m6n03-p02",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6N03, which model correctly shows apply knowledge of equivalence to compare, order and represent common: equal parts of the same whole, unequal pieces, or parts from different-sized wholes?",
+    "explanation": "Equal parts of the same whole.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "applying factors and multiples to fraction denominators, such as halves with…",
-      "use mathematical modelling to solve practical problems involving natural and…",
-      "recognise and use rules that generate visually growing patterns and number…"
+      "equal parts of the same whole",
+      "unequal pieces",
+      "or parts from different-sized wholes"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "correct": 0
   },
   {
-    "id": "ac9m6n03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "find unknown values in numerical equations involving brackets and…",
-      "create and use algorithms involving a sequence of steps and decisions that…",
-      "representing fractions on the same number line, paying attention to relative…",
-      "convert between common metric units of length, mass and capacity; choose and…"
+    "id": "ac9m6n03-p03",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N03, complete the equivalent fraction: 5/11 = 10/___.",
+    "explanation": "22.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "22"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "correct": "22"
   },
   {
-    "id": "ac9m6n03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "explaining equivalence and order between fractions using number lines,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "id": "ac9m6n03-p04",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M6N03, sort these as less than, equal to or greater than one whole: 5/11, 11/11, 12/11.",
+    "explanation": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1.",
+    "correct": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1."
   },
   {
-    "id": "ac9m6n03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "apply knowledge of equivalence to compare, order and represent common…",
-      "compare the parallel cross-sections of objects and recognise their…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6n03-p05",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6N03, on a number line from 0 to 1 split into 11 equal steps, where is 5/11?",
+    "explanation": "At the 5th tick after 0.",
+    "printable": true,
+    "visual": "Number line from 0 to 1 with 11 equal intervals.",
+    "instruction": "Visual brief: Number line from 0 to 1 with 11 equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "At the 5th tick after 0"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "correct": "At the 5th tick after 0"
   },
   {
-    "id": "ac9m6n03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "comparing and ordering fractions by placing cards on a string line across the…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6n03-p06",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6N03, calculate 5/11 + 1/11.",
+    "explanation": "6/11.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "6/11"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "correct": "6/11"
   },
   {
-    "id": "ac9m6n03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "comparing and ordering fractions by placing cards on a string line across the…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "id": "ac9m6n03-p07",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N03, why must fractions being compared refer to the same-sized whole?",
+    "explanation": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "correct": "The size of each part depends on the whole, so different wholes make the comparison unfair."
   },
   {
-    "id": "ac9m6n03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "apply knowledge of equivalence to compare, order and represent common…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6N03: apply knowledge of equivalence to compare, order and represent common…."
+    "id": "ac9m6n03-p08",
+    "curriculumCode": "AC9M6N03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6N03, a student says 5/11 is larger when the pieces are unequal. Explain the problem.",
+    "explanation": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "correct": "Fractions require equal parts; unequal pieces do not correctly represent the denominator."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

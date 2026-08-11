@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1le04-p01",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which pair uses alliteration: silver snake or silver moon?",
+    "explanation": "Silver snake; both begin with /s/ (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Silver snake; both begin with /s/ (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "correct": "Silver snake; both begin with /s/ (1 mark)"
   },
   {
-    "id": "ac9e1le04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "exploring poetry, chants and songs from Asian cultures",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p02",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match goat/boat, wild wind and tick-tock to rhyme, alliteration and sound word/repetition.",
+    "explanation": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern (1 mark each).",
+    "correct": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern (1 mark each)."
   },
   {
-    "id": "ac9e1le04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "listening to haiku poems about familiar topics such as nature and the seasons",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p03",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Say ‘Softly, slowly, snowflakes spin’ and emphasise the repeated starting sound.",
+    "explanation": "Performs clearly and identifies /s/ repetition (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Performs clearly and identifies /s/ repetition (2 marks).",
+    "correct": "Performs clearly and identifies /s/ repetition (2 marks)."
   },
   {
-    "id": "ac9e1le04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "listening to haiku poems about familiar topics such as nature and the seasons"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p04",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Add a second line to ‘I see a bright red kite’ ending in a word that rhymes with kite.",
+    "explanation": "A meaningful line ending in night, light, flight or another true rhyme (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A meaningful line ending in night, light, flight or another true rhyme (2 marks).",
+    "correct": "A meaningful line ending in night, light, flight or another true rhyme (2 marks)."
   },
   {
-    "id": "ac9e1le04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p05",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these phrases into two repeating sound units: clap-clap-stomp, clap-clap-stomp.",
+    "explanation": "Two identical clap-clap-stomp units (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two identical clap-clap-stomp units (1 mark).",
+    "correct": "Two identical clap-clap-stomp units (1 mark)."
   },
   {
-    "id": "ac9e1le04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "listening to haiku poems about familiar topics such as nature and the seasons",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p06",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw two quick images for ‘pitter-patter’ rain and ‘boom’ thunder. Label how each word sounds.",
+    "explanation": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled (3 marks).",
+    "correct": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled (3 marks)."
   },
   {
-    "id": "ac9e1le04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "listening to haiku poems about familiar topics such as nature and the seasons",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p07",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What feeling or pace might ‘Quick quails quiver and quake’ create? Use one sound clue.",
+    "explanation": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words (2 marks).",
+    "correct": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words (2 marks)."
   },
   {
-    "id": "ac9e1le04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE04: listen to and discuss poems, chants, rhymes and songs, and imitate and invent…."
+    "id": "ac9e1le04-p08",
+    "curriculumCode": "AC9E1LE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Create a four-word phrase with at least three words beginning with the same sound.",
+    "explanation": "At least three initial sounds match and phrase remains understandable (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "At least three initial sounds match and phrase remains understandable (2 marks).",
+    "correct": "At least three initial sounds match and phrase remains understandable (2 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

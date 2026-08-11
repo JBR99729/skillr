@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m5n05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "recognise that 100% represents the complete whole and use percentages to…",
-      "solve problems involving multiplication of larger numbers by one- or…",
-      "solve problems involving division, choosing efficient strategies and using…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "id": "ac9m5n05-p01",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "In AC9M5N05, a strip is divided into 11 equal parts and 5 parts are shaded. What fraction is shaded?",
+    "explanation": "5/11.",
+    "printable": true,
+    "visual": "Fraction strip divided into 11 equal parts with 5 shaded.",
+    "instruction": "Visual brief: Fraction strip divided into 11 equal parts with 5 shaded.",
+    "type": "self-check",
+    "modelAnswer": "5/11.",
+    "correct": "5/11."
   },
   {
-    "id": "ac9m5n05-02",
+    "id": "ac9m5n05-p02",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M5N05, which model correctly shows problems involving addition and subtraction of fractions with the same: equal parts of the same whole, unequal pieces, or parts from different-sized wholes?",
+    "explanation": "Equal parts of the same whole.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "check and explain the reasonableness of solutions to problems including…",
-      "using different ways to add and subtract fractional amounts by subdividing…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "create and use algorithms involving a sequence of steps and decisions and…"
+      "equal parts of the same whole",
+      "unequal pieces",
+      "or parts from different-sized wholes"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "correct": 0
   },
   {
-    "id": "ac9m5n05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and explain the connection between multiplication and division as…",
-      "find unknown values in numerical equations involving multiplication and…",
-      "representing and solving addition and subtraction problems involving…",
-      "choose appropriate metric units when measuring the length, mass and capacity…"
+    "id": "ac9m5n05-p03",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N05, complete the equivalent fraction: 5/11 = 10/___.",
+    "explanation": "22.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "22"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "correct": "22"
   },
   {
-    "id": "ac9m5n05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "solve practical problems involving the perimeter and area of regular and…",
-      "compare 12- and 24-hour time systems and solve practical problems involving…",
-      "estimate, construct and measure angles in degrees, using appropriate tools…",
-      "using materials, diagrams, number lines or arrays to show and explain that…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "id": "ac9m5n05-p04",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M5N05, sort these as less than, equal to or greater than one whole: 5/11, 11/11, 12/11.",
+    "explanation": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1.",
+    "correct": "5/11 is less than 1; 11/11 equals 1; 12/11 is greater than 1."
   },
   {
-    "id": "ac9m5n05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "solve problems involving addition and subtraction of fractions with the same…",
-      "connect objects to their nets and build objects from their nets using spatial…",
-      "construct a grid coordinate system that uses coordinates to locate positions…",
-      "describe and perform translations, reflections and rotations of shapes, using…"
+    "id": "ac9m5n05-p05",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M5N05, on a number line from 0 to 1 split into 11 equal steps, where is 5/11?",
+    "explanation": "At the 5th tick after 0.",
+    "printable": true,
+    "visual": "Number line from 0 to 1 with 11 equal intervals.",
+    "instruction": "Visual brief: Number line from 0 to 1 with 11 equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "At the 5th tick after 0"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "correct": "At the 5th tick after 0"
   },
   {
-    "id": "ac9m5n05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire, validate and represent data for nominal and ordinal categorical and…",
-      "using materials, diagrams, number lines or arrays to show and explain that…",
-      "interpret line graphs representing change over time; discuss the…",
-      "plan and conduct statistical investigations by posing questions or…"
+    "id": "ac9m5n05-p06",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M5N05, calculate 5/11 + 1/11.",
+    "explanation": "6/11.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "6/11"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "correct": "6/11"
   },
   {
-    "id": "ac9m5n05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "list the possible outcomes of chance experiments involving equally likely…",
-      "conduct repeated chance experiments including those with and without equally…",
-      "using materials, diagrams, number lines or arrays to show and explain that…",
-      "making models of decimals including tenths, hundredths and thousandths by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "id": "ac9m5n05-p07",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N05, why must fractions being compared refer to the same-sized whole?",
+    "explanation": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The size of each part depends on the whole, so different wholes make the comparison unfair.",
+    "correct": "The size of each part depends on the whole, so different wholes make the comparison unfair."
   },
   {
-    "id": "ac9m5n05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "renaming decimals to assist with mental computation; for example, when asked…",
-      "using a number line or number track to represent and locate decimals with…",
-      "interpreting and comparing the digits in decimal measures; for example, the…",
-      "solve problems involving addition and subtraction of fractions with the same…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M5N05: solve problems involving addition and subtraction of fractions with the same…."
+    "id": "ac9m5n05-p08",
+    "curriculumCode": "AC9M5N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M5N05, a student says 5/11 is larger when the pieces are unequal. Explain the problem.",
+    "explanation": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Fractions require equal parts; unequal pieces do not correctly represent the denominator.",
+    "correct": "Fractions require equal parts; unequal pieces do not correctly represent the denominator."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

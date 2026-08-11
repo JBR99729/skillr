@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe how texts across the curriculum use different language features and…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…",
-      "understand how verbs represent different processes for doing, feeling,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "id": "ac9e3la03-p01",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each text to its likely feature: science report, recipe, history timeline, maths solution. Features: steps, labelled diagram, dates in order, working out.",
+    "explanation": "Science report -> labelled diagram; recipe -> steps; history timeline -> dates in order; maths solution -> working out.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Science report -> labelled diagram; recipe -> steps; history timeline -> dates in order; maths solution -> working out.",
+    "correct": "Science report -> labelled diagram; recipe -> steps; history timeline -> dates in order; maths solution -> working out."
   },
   {
-    "id": "ac9e3la03-02",
+    "id": "ac9e3la03-p02",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which structure best suits instructions for planting seeds: problem-solution, step-by-step, or opinion paragraph?",
+    "explanation": "Step-by-step.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "understand that verbs are anchored in time through tense",
-      "identifying the stages of a basic argument such as introduction, argument…",
-      "identify how images extend the meaning of a text",
-      "extend topic-specific and technical vocabulary and know that words can have…"
+      "problem-solution",
+      "step-by-step",
+      "or opinion paragraph"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "correct": 1
   },
   {
-    "id": "ac9e3la03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "describing the typical text structure and language features of factual…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "id": "ac9e3la03-p03",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name one language or structure feature often used in a science explanation.",
+    "explanation": "For example, technical vocabulary, labelled diagram, cause/effect language or headings.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, technical vocabulary, labelled diagram, cause/effect language or headings.",
+    "correct": "For example, technical vocabulary, labelled diagram, cause/effect language or headings."
   },
   {
-    "id": "ac9e3la03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "describing the typical text structure and language features of factual…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "id": "ac9e3la03-p04",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort these as helpful for explaining or persuading: evidence table, strong opinion, labelled diagram, reason to agree.",
+    "explanation": "Explaining: evidence table, labelled diagram. Persuading: strong opinion, reason to agree.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Explaining: evidence table, labelled diagram. Persuading: strong opinion, reason to agree.",
+    "correct": "Explaining: evidence table, labelled diagram. Persuading: strong opinion, reason to agree."
   },
   {
-    "id": "ac9e3la03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe how texts across the curriculum use different language features and…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "id": "ac9e3la03-p05",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Change the heading \"Stuff\" in a seed-growing procedure to a clearer heading.",
+    "explanation": "For example, \"Materials\" or \"What You Need\".",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, \"Materials\" or \"What You Need\".",
+    "correct": "For example, \"Materials\" or \"What You Need\"."
   },
   {
-    "id": "ac9e3la03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "describing the typical text structure and language features of factual…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
+    "id": "ac9e3la03-p06",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "In a text with headings \"Aim\", \"Materials\" and \"Method\", what is the likely purpose?",
+    "explanation": "To explain or guide an investigation/procedure.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "To explain or guide an investigation/procedure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "correct": "To explain or guide an investigation/procedure"
   },
   {
-    "id": "ac9e3la03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "describing the typical text structure and language features of factual…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "id": "ac9e3la03-p07",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Why would a maths page use numbered steps and working-out boxes?",
+    "explanation": "They help readers follow the method and check each part of the solution.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They help readers follow the method and check each part of the solution.",
+    "correct": "They help readers follow the method and check each part of the solution."
   },
   {
-    "id": "ac9e3la03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "describe how texts across the curriculum use different language features and…"
+    "id": "ac9e3la03-p08",
+    "curriculumCode": "AC9E3LA03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write two words that help readers move through an information page.",
+    "explanation": "For example, first, next, finally, contents, page, heading.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "For example, first, next, finally, contents, page, heading"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA03: describe how texts across the curriculum use different language features and…."
+    "correct": "For example, first, next, finally, contents, page, heading"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

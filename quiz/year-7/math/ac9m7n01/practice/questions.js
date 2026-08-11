@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m7n01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the relationship between perfect square numbers and square roots,…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
+    "id": "ac9m7n01-p01",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N01, for AC9M7N01 relationship between perfect square numbers and square roots, and use, calculate 41 + 19.",
+    "explanation": "60",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "60"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "correct": "60"
   },
   {
-    "id": "ac9m7n01-02",
+    "id": "ac9m7n01-p02",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M7N01, which estimate is most reasonable for 41 x 19: about 60, about 770, or about 7790?",
+    "explanation": "About 770.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "investigating squares of natural numbers from one to 20, and connecting them…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
+      "about 60",
+      "about 770",
+      "or about 7790"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "correct": 1
   },
   {
-    "id": "ac9m7n01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "using the square and square root notation, and the distributive property and…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "id": "ac9m7n01-p03",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M7N01, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m7n01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "determining between which 2 consecutive natural numbers the square root of a…"
+    "id": "ac9m7n01-p04",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M7N01, find the missing value: ___ + 41 = 60.",
+    "explanation": "19",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "19"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "correct": "19"
   },
   {
-    "id": "ac9m7n01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the relationship between perfect square numbers and square roots,…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
+    "id": "ac9m7n01-p05",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M7N01, a table shows 41, 19 and 60. What is the total of all three values?",
+    "explanation": "120",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "120"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "correct": "120"
   },
   {
-    "id": "ac9m7n01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "generating a list of perfect square numbers and describing any emerging…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
+    "id": "ac9m7n01-p06",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M7N01, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m7n01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "using the relationship between perfect square numbers and their square roots…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "id": "ac9m7n01-p07",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N01, explain one efficient strategy for solving a relationship between perfect square numbers and square roots, and use problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m7n01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "describe the relationship between perfect square numbers and square roots,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N01: describe the relationship between perfect square numbers and square roots,…."
+    "id": "ac9m7n01-p08",
+    "curriculumCode": "AC9M7N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M7N01, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

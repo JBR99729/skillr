@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9st01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "find the gradient of a line segment, the midpoint of the line interval and…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "use mathematical modelling to solve applied problems involving change…"
+    "id": "ac9m9st01-p01",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9ST01, a table shows values [14, 17, 17, 20, 22]. What is the range?",
+    "explanation": "8",
+    "printable": true,
+    "visual": "Simple table with five labelled values.",
+    "instruction": "Visual brief: Simple table with five labelled values.",
+    "type": "text",
+    "acceptedAnswers": [
+      "8"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "correct": "8"
   },
   {
-    "id": "ac9m9st01-02",
+    "id": "ac9m9st01-p02",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9ST01, which display best compares categories: column graph, paragraph only, or random picture?",
+    "explanation": "Column graph.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "experiment with the effects of the variation of parameters on graphs of…",
-      "investigating and evaluating statistical reports in the media and other…",
-      "solve problems involving the volume and surface area of right prisms and…",
-      "solve problems involving very small and very large measurements, time scales…"
+      "column graph",
+      "paragraph only",
+      "or random picture"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "correct": 0
   },
   {
-    "id": "ac9m9st01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve spatial problems, applying angle properties, scale, similarity,…",
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "investigating the use of statistics in reports regarding the growth of…",
-      "use mathematical modelling to solve practical problems involving direct…"
+    "id": "ac9m9st01-p03",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9ST01, what is the median of [14, 17, 17, 20, 22]?",
+    "explanation": "17",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "17"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "correct": "17"
   },
   {
-    "id": "ac9m9st01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…",
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "exploring how natural language processing (NLP) tools can be used to help…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "id": "ac9m9st01-p04",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9M9ST01, sort height, favourite sport, temperature and shoe colour as numerical or categorical.",
+    "explanation": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Numerical: height, temperature. Categorical: favourite sport, shoe colour.",
+    "correct": "Numerical: height, temperature. Categorical: favourite sport, shoe colour."
   },
   {
-    "id": "ac9m9st01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9st01-p05",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9ST01, a graph shows 24 students choose bus, 16 choose walk and 10 choose bike. How many students were surveyed?",
+    "explanation": "50 students.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 students"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "correct": "50 students"
   },
   {
-    "id": "ac9m9st01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "investigating a range of data and its sources; for example, the age of…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "id": "ac9m9st01-p06",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9ST01, write a survey question that would collect categorical data.",
+    "explanation": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question with categories, such as 'Which lunch option do you prefer?'",
+    "correct": "A question with categories, such as 'Which lunch option do you prefer?'"
   },
   {
-    "id": "ac9m9st01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "investigating the real number system by representing the relationships…",
-      "analysing reports of public opinion surveys on environmental issues, such as…",
-      "using a real number line to indicate the solution interval for inequalities…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "id": "ac9m9st01-p07",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9ST01, explain why 'Do you agree that our amazing canteen is perfect?' is a biased question.",
+    "explanation": "It pushes a positive opinion instead of asking neutrally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It pushes a positive opinion instead of asking neutrally.",
+    "correct": "It pushes a positive opinion instead of asking neutrally."
   },
   {
-    "id": "ac9m9st01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using positive and negative rational numbers to solve problems; for example,…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "analyse reports of surveys in digital media and elsewhere for information on…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9ST01: analyse reports of surveys in digital media and elsewhere for information on…."
+    "id": "ac9m9st01-p08",
+    "curriculumCode": "AC9M9ST01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9ST01, use the bus/walk/bike data to write one supported conclusion.",
+    "explanation": "For example, bus was the most common travel option because 24 students chose it.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, bus was the most common travel option because 24 students chose it.",
+    "correct": "For example, bus was the most common travel option because 24 students chose it."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

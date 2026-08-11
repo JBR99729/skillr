@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3i05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p01",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in comparing findings and fairness?",
+    "explanation": "Scientists compare results with others and decide whether the investigation was fair enough to trust.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Scientists compare results with others and decide whether the investigation was fair enough to trust.",
+    "correct": "Scientists compare results with others and decide whether the investigation was fair enough to trust."
   },
   {
-    "id": "ac9s3i05-02",
+    "id": "ac9s3i05-p02",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: finding, perimeter or apostrophe?",
+    "explanation": "finding.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "comparing findings, such as about best insulators, with those of others and…",
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "follow procedures to make and record observations, including making formal…"
+      "finding",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "correct": 0
   },
   {
-    "id": "ac9s3i05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "construct and use representations, including tables, simple column graphs and…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "discussing the factors that make investigations fair and evaluating the…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p03",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: finding, compare, fair, reliable, improve.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3i05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "drawing conclusions based on consideration of their own and others’ findings"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p04",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of comparing findings and fairness.",
+    "explanation": "If two groups get very different results, they should check whether they used the same method.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "If two groups get very different results, they should check whether they used the same method.",
+    "correct": "If two groups get very different results, they should check whether they used the same method."
   },
   {
-    "id": "ac9s3i05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p05",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for comparing findings and fairness.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3i05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying rocks as key components of the built and natural environment and…",
-      "identifying further questions for investigation based on observations,…",
-      "describing ways in which living things including humans depend on soils, such…",
-      "examining information on plant tags and exploring the vocabulary used to…"
+    "id": "ac9s3i05-p06",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating comparing findings and fairness, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3i05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating which rocks or minerals are quarried or mined locally or…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "identifying further questions for investigation based on observations,…",
-      "recognising that changes in heat energy can be measured using a thermometer"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p07",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about comparing findings and fairness.",
+    "explanation": "Different results do not always mean someone is wrong; the method may have changed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Different results do not always mean someone is wrong; the method may have changed.",
+    "correct": "Different results do not always mean someone is wrong; the method may have changed."
   },
   {
-    "id": "ac9s3i05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing and, with assistance, measuring, what happens when a cold object is…",
-      "modelling the movement of heat from one object to another using drawing or…",
-      "investigating how well heat is transferred by different types of materials…",
-      "compare findings with those of others, consider if investigations were fair,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I05: compare findings with those of others, consider if investigations were fair,…."
+    "id": "ac9s3i05-p08",
+    "curriculumCode": "AC9S3I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about comparing findings and fairness.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

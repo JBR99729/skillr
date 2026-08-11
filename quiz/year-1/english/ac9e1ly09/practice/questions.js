@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly09-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly09-p01",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Say every phoneme in map.",
+    "explanation": "/m/ /a/ /p/ — 3 phonemes (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "/m/ /a/ /p/ — 3 phonemes (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "correct": "/m/ /a/ /p/ — 3 phonemes (1 mark)"
   },
   {
-    "id": "ac9e1ly09-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "id": "ac9e1ly09-p02",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match sun, stop and fish to 3, 4 and 3 phonemes.",
+    "explanation": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 (1 mark each).",
+    "correct": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 (1 mark each)."
   },
   {
-    "id": "ac9e1ly09-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "id": "ac9e1ly09-p03",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Say frog slowly and move one counter for each phoneme.",
+    "explanation": "/f/ /r/ /o/ /g/ with 4 counters in order (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "/f/ /r/ /o/ /g/ with 4 counters in order (2 marks).",
+    "correct": "/f/ /r/ /o/ /g/ with 4 counters in order (2 marks)."
   },
   {
-    "id": "ac9e1ly09-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and…"
+    "id": "ac9e1ly09-p04",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Segment tent and state the final two sounds.",
+    "explanation": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "/t/ /e/ /n/ /t/; final sounds /n/ /t/ (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "correct": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ (2 marks)"
   },
   {
-    "id": "ac9e1ly09-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "id": "ac9e1ly09-p05",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the sounds /l/ /k/ /m/ /i/ to make milk.",
+    "explanation": "/m/ /i/ /l/ /k/ (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "/m/ /i/ /l/ /k/ (1 mark).",
+    "correct": "/m/ /i/ /l/ /k/ (1 mark)."
   },
   {
-    "id": "ac9e1ly09-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "id": "ac9e1ly09-p06",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw one box per sound in clap and place a dot in each.",
+    "explanation": "Four boxes/dots for /k/ /l/ /a/ /p/ (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Four boxes/dots for /k/ /l/ /a/ /p/ (2 marks).",
+    "correct": "Four boxes/dots for /k/ /l/ /a/ /p/ (2 marks)."
   },
   {
-    "id": "ac9e1ly09-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "create and deliver short oral and/or multimodal presentations on personal and…",
-      "write words using unjoined lower-case and upper-case letters",
-      "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
+    "id": "ac9e1ly09-p07",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why does wish have three phonemes even though it has four letters?",
+    "explanation": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "correct": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ (2 marks)"
   },
   {
-    "id": "ac9e1ly09-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "segment words into separate phonemes (sounds) including consonant blends or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY09: segment words into separate phonemes (sounds) including consonant blends or…."
+    "id": "ac9e1ly09-p08",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Segment slip and list. Identify the blend at the beginning of one and the end of the other.",
+    "explanation": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ (4 marks).",
+    "correct": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

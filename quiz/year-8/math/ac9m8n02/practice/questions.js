@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m8n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "establish and apply the exponent laws with positive integer exponents and the…",
-      "use mathematical modelling to solve practical problems involving rational…",
-      "create, expand, factorise, rearrange and simplify linear expressions,…",
-      "graph linear relations on the Cartesian plane using digital tools where…"
+    "id": "ac9m8n02-p01",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N02, for AC9M8N02 establish and apply the exponent laws with positive integer exponents, calculate 49 + 21.",
+    "explanation": "70",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "70"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "correct": "70"
   },
   {
-    "id": "ac9m8n02-02",
+    "id": "ac9m8n02-p02",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M8N02, which estimate is most reasonable for 49 x 21: about 70, about 1020, or about 10290?",
+    "explanation": "About 1020.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use mathematical modelling to solve applied problems involving linear…",
-      "recognising the connection between exponent form and expanded form with the…",
-      "experiment with linear functions and relations using digital tools, making…",
-      "solve problems involving the area and perimeter of irregular and composite…"
+      "about 70",
+      "about 1020",
+      "or about 10290"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "correct": 1
   },
   {
-    "id": "ac9m8n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve problems involving the volume and capacity of right prisms using…",
-      "solve problems involving the circumference and area of a circle using…",
-      "applying the exponent laws of the product of powers rule, quotient of powers…",
-      "solve problems involving duration, including using 12- and 24-hour time…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "id": "ac9m8n02-p03",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M8N02, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m8n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use rates to solve problems involving the comparison of 2…",
-      "use Pythagoras’ theorem to solve problems involving the side lengths of…",
-      "use mathematical modelling to solve practical problems involving ratios and…",
-      "using digital tools to systematically explore the application of the exponent…"
+    "id": "ac9m8n02-p04",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M8N02, find the missing value: ___ + 49 = 70.",
+    "explanation": "21",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "21"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "correct": "21"
   },
   {
-    "id": "ac9m8n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "establish and apply the exponent laws with positive integer exponents and the…",
-      "identify the conditions for congruence and similarity of triangles and…",
-      "establish properties of quadrilaterals using congruent triangles and angle…",
-      "describe the position and location of objects in 3 dimensions in different…"
+    "id": "ac9m8n02-p05",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M8N02, a table shows 49, 21 and 70. What is the total of all three values?",
+    "explanation": "140",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "140"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "correct": "140"
   },
   {
-    "id": "ac9m8n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "design, create and test algorithms involving a sequence of steps and…",
-      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to…",
-      "investigate techniques for data collection including census, sampling,…",
-      "analyse and report on the distribution of data from primary and secondary…"
+    "id": "ac9m8n02-p06",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M8N02, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m8n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "compare variations in distributions and proportions obtained from random…",
-      "plan and conduct statistical investigations involving samples of a…",
-      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to…",
-      "recognise that complementary events have a combined probability of one; use…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "id": "ac9m8n02-p07",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N02, explain one efficient strategy for solving a establish and apply the exponent laws with positive integer exponents problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m8n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "determine all possible combinations for 2 events, using two-way tables, tree…",
-      "conduct repeated chance experiments and simulations, using digital tools to…",
-      "recognising that the real number system includes irrational numbers which can…",
-      "establish and apply the exponent laws with positive integer exponents and the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M8N02: establish and apply the exponent laws with positive integer exponents and the…."
+    "id": "ac9m8n02-p08",
+    "curriculumCode": "AC9M8N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M8N02, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

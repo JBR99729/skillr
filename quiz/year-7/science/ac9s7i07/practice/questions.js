@@ -1,107 +1,118 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s7i07-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "investigate and represent balanced and unbalanced forces, including…",
-      "use particle theory to describe the arrangement of particles in a substance,…",
-      "use a particle model to describe differences between pure substances and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "id": "ac9s7i07-p01",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S7I07, write one testable question about construct evidence-based arguments.",
+    "explanation": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A question that can be investigated by observing, measuring or comparing evidence.",
+    "correct": "A question that can be investigated by observing, measuring or comparing evidence."
   },
   {
-    "id": "ac9s7i07-02",
+    "id": "ac9s7i07-p02",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S7I07, in a fair test, what should change on purpose: one variable, all variables or no variables?",
+    "explanation": "One variable.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "constructing an argument supported by evidence and reasoning to support or…",
-      "investigate how cultural perspectives and world views influence the…",
-      "examine how proposed scientific responses to contemporary issues may impact…"
+      "one variable",
+      "all variables",
+      "no variables"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "correct": 0
   },
   {
-    "id": "ac9s7i07-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "explore the role of science communication in informing individual viewpoints…",
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "drawing a logical conclusion in consideration of the method of data…",
-      "plan and conduct reproducible investigations to answer questions and test…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "id": "ac9s7i07-p03",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S7I07, match prediction, variable, observation and conclusion to before-test idea, changed/measured factor, evidence noticed and final claim.",
+    "explanation": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim.",
+    "correct": "Prediction -> before-test idea; variable -> factor; observation -> evidence noticed; conclusion -> final claim."
   },
   {
-    "id": "ac9s7i07-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and use equipment to generate and record data with precision, using…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "exploring how to determine credibility of a source"
+    "id": "ac9s7i07-p04",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9S7I07, order: collect data, ask a question, plan a fair test, make a conclusion.",
+    "explanation": "Ask a question; plan a fair test; collect data; make a conclusion.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair test",
+      "make a conclusion"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "correct": [
+      "ask a question",
+      "plan a fair test",
+      "collect data",
+      "make a conclusion"
+    ]
   },
   {
-    "id": "ac9s7i07-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "write and create texts to communicate ideas, findings and arguments for…",
-      "observing and identifying the similarities and differences of particular…"
+    "id": "ac9s7i07-p05",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S7I07, a table shows plant heights of 5 cm, 8 cm and 11 cm over three weeks. What pattern is shown?",
+    "explanation": "The plant height increased each week.",
+    "printable": true,
+    "visual": "Three-row results table with week and height.",
+    "instruction": "Visual brief: Three-row results table with week and height.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The plant height increased each week"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "correct": "The plant height increased each week"
   },
   {
-    "id": "ac9s7i07-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "creating and modifying a dichotomous key to classify organisms into groups…",
-      "exploring how to determine credibility of a source",
-      "naming and classifying species using scientific conventions from the Linnaean…",
-      "considering the reasons for classifying living things, such as identification…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "id": "ac9s7i07-p06",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S7I07, name one safety or accuracy step for this investigation.",
+    "explanation": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant step such as wear protection, measure from the same point, repeat trials or record units.",
+    "correct": "A relevant step such as wear protection, measure from the same point, repeat trials or record units."
   },
   {
-    "id": "ac9s7i07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "examining how biological classification has changed over time through…",
-      "using provided dichotomous keys to identify organisms surveyed on a field trip",
-      "exploring how to determine credibility of a source",
-      "analysing food webs to show feeding relationships between organisms in an…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "id": "ac9s7i07-p07",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S7I07, a student changes water amount and light level at the same time. Explain why the test is unfair.",
+    "explanation": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two variables changed, so the result cannot show which factor caused the effect.",
+    "correct": "Two variables changed, so the result cannot show which factor caused the effect."
   },
   {
-    "id": "ac9s7i07-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "modelling how energy flows into and out of an ecosystem via the pathways of…",
-      "predicting the effects on local ecosystems when living things such…",
-      "examining how events such as seasonal changes, destruction of habitat or…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7I07: construct evidence-based arguments to support conclusions or evaluate claims…."
+    "id": "ac9s7i07-p08",
+    "curriculumCode": "AC9S7I07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S7I07, write a claim-evidence-reasoning conclusion using a simple data pattern.",
+    "explanation": "A conclusion with claim, evidence from data and reasoning.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A conclusion with claim, evidence from data and reasoning.",
+    "correct": "A conclusion with claim, evidence from data and reasoning."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

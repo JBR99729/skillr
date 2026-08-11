@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9m04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "find the gradient of a line segment, the midpoint of the line interval and…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "use mathematical modelling to solve applied problems involving change…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "id": "ac9m9m04-p01",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9M9M04, a rectangle is 11 cm by 4 cm. Find its perimeter.",
+    "explanation": "30 cm.",
+    "printable": true,
+    "visual": "Rectangle labelled 11 cm and 4 cm.",
+    "instruction": "Visual brief: Rectangle labelled 11 cm and 4 cm.",
+    "type": "self-check",
+    "modelAnswer": "30 cm.",
+    "correct": "30 cm."
   },
   {
-    "id": "ac9m9m04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "experiment with the effects of the variation of parameters on graphs of…",
-      "investigating error as a percentage of the exact value; for example,…",
-      "solve problems involving the volume and surface area of right prisms and…",
-      "solve problems involving very small and very large measurements, time scales…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "id": "ac9m9m04-p02",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9M04, which unit is most sensible for the task: millimetres, centimetres, metres, kilograms, litres or degrees? Choose and justify briefly.",
+    "explanation": "A sensible unit matched to the object or attribute.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A sensible unit matched to the object or attribute.",
+    "correct": "A sensible unit matched to the object or attribute."
   },
   {
-    "id": "ac9m9m04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "solve spatial problems, applying angle properties, scale, similarity,…",
-      "use mathematical modelling to solve practical problems involving direct…",
-      "using absolute value in a percentage error formula; considering when they…",
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…"
+    "id": "ac9m9m04-p03",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9M04, find the area of a rectangle 11 cm long and 4 cm wide.",
+    "explanation": "44 square cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "44 square cm"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "correct": "44 square cm"
   },
   {
-    "id": "ac9m9m04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "calculating the percentage errors in expected budgets to actual expenditure"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "id": "ac9m9m04-p04",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M9M04, match perimeter, area, volume and angle to boundary, surface, space inside and amount of turn.",
+    "explanation": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn.",
+    "correct": "Perimeter -> boundary; area -> surface; volume -> space inside; angle -> amount of turn."
   },
   {
-    "id": "ac9m9m04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9m04-p05",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9M04, a scale from 0 to 1 L has 5 equal spaces. What is each space worth?",
+    "explanation": "0.2 L or 200 mL.",
+    "printable": true,
+    "visual": "Scale drawing from 0 L to 1 L with five equal intervals.",
+    "instruction": "Visual brief: Scale drawing from 0 L to 1 L with five equal intervals.",
+    "type": "text",
+    "acceptedAnswers": [
+      "0.2 L or 200 mL"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "correct": "0.2 L or 200 mL"
   },
   {
-    "id": "ac9m9m04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "estimating the accuracy of measurements in practical contexts and giving…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
+    "id": "ac9m9m04-p06",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9M04, convert 2.5 m to centimetres.",
+    "explanation": "250 cm.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "250 cm"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "correct": "250 cm"
   },
   {
-    "id": "ac9m9m04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "investigating the real number system by representing the relationships…",
-      "investigating how calculating and interpreting absolute, relative and…",
-      "using a real number line to indicate the solution interval for inequalities…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "id": "ac9m9m04-p07",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9M04, why should measurements include units and appropriate accuracy?",
+    "explanation": "Units say what was measured and accuracy shows how precise the result is.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Units say what was measured and accuracy shows how precise the result is.",
+    "correct": "Units say what was measured and accuracy shows how precise the result is."
   },
   {
-    "id": "ac9m9m04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using positive and negative rational numbers to solve problems; for example,…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "calculate and interpret absolute, relative and percentage errors in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9M04: calculate and interpret absolute, relative and percentage errors in…."
+    "id": "ac9m9m04-p08",
+    "curriculumCode": "AC9M9M04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9M04, a student starts measuring from the end of a broken ruler, not from zero or a known mark. Explain the problem.",
+    "explanation": "The reading may include extra length unless the starting offset is accounted for.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The reading may include extra length unless the starting offset is accounted for.",
+    "correct": "The reading may include extra length unless the starting offset is accounted for."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3i04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "construct and use representations, including tables, simple column graphs and…",
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s3i04-p01",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in tables, graphs and diagrams?",
+    "explanation": "Representations organise information so patterns are easier to see. Tables, column graphs and labelled diagrams each have a purpose.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Representations organise information so patterns are easier to see. Tables, column graphs and labelled diagrams each have a purpose.",
+    "correct": "Representations organise information so patterns are easier to see. Tables, column graphs and labelled diagrams each have a purpose."
   },
   {
-    "id": "ac9s3i04-02",
+    "id": "ac9s3i04-p02",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: table, perimeter or apostrophe?",
+    "explanation": "table.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "representing observed life stages by constructing models using recycled or…",
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "follow procedures to make and record observations, including making formal…"
+      "table",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": 0
   },
   {
-    "id": "ac9s3i04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "constructing pictorial maps to show the location of different soil and rock…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s3i04-p03",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: table, column graph, diagram, label, scale.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3i04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "constructing and using tables to explore the relationship between ambient…"
+    "id": "ac9s3i04-p04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of tables, graphs and diagrams.",
+    "explanation": "A column graph can show which soil held the most water.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A column graph can show which soil held the most water"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": "A column graph can show which soil held the most water"
   },
   {
-    "id": "ac9s3i04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "construct and use representations, including tables, simple column graphs and…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s3i04-p05",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for tables, graphs and diagrams.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3i04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying rocks as key components of the built and natural environment and…",
-      "using graphic organisers to compare properties of solids and liquids",
-      "describing ways in which living things including humans depend on soils, such…",
-      "examining information on plant tags and exploring the vocabulary used to…"
+    "id": "ac9s3i04-p06",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating tables, graphs and diagrams, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3i04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating which rocks or minerals are quarried or mined locally or…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "using column graphs to show melting time for ice in containers with different…",
-      "recognising that changes in heat energy can be measured using a thermometer"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s3i04-p07",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about tables, graphs and diagrams.",
+    "explanation": "A graph without labels or a scale is hard to interpret accurately.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A graph without labels or a scale is hard to interpret accurately.",
+    "correct": "A graph without labels or a scale is hard to interpret accurately."
   },
   {
-    "id": "ac9s3i04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing and, with assistance, measuring, what happens when a cold object is…",
-      "modelling the movement of heat from one object to another using drawing or…",
-      "investigating how well heat is transferred by different types of materials…",
-      "construct and use representations, including tables, simple column graphs and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s3i04-p08",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about tables, graphs and diagrams.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

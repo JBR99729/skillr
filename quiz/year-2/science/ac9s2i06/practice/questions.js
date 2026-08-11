@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s2i06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "write and create texts to communicate observations, findings and ideas, using…",
-      "describe how people use science in their daily lives, including using…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p01",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S2I06, inspect the diagram and identify one feature, part or process linked to write and create texts to communicate observations, findings and ideas,.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to write and create texts to communicate observations, findings and ideas,, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to write and create texts to communicate observations, findings and ideas,, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s2i06-02",
+    "id": "ac9s2i06-p02",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S2I06, which explanation best matches write and create texts to communicate observations, findings and ideas,: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "make and record observations, including informal measurements, using digital…",
-      "using learnt scientific vocabulary and structuring texts to sequence events,…",
-      "sort and order data and information and represent patterns, including with…",
-      "compare observations with predictions and others’ observations, consider if…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "correct": 0
   },
   {
-    "id": "ac9s2i06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying celestial objects that can be observed in space such as the sun,…",
-      "viewing images or video of Earth from space, describing the shape of Earth…",
-      "creating and narrating a short animation to show the changing position of the…",
-      "exploring representations of the solar system and identifying Earth and other…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p03",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S2I06, sort the example cards into 'matches write and create texts to communicate observations, findings and ideas,' and 'does not match write and create texts to communicate observations, findings and ideas,'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s2i06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing that some phenomena in the sky are only visible during the day and…",
-      "investigating how shadow length changes with the changing position of the…",
-      "creating a class moon diary across a month, identifying patterns in the…",
-      "creating a class model of the solar system and naming the sun and planets"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p04",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S2I06, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s2i06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "write and create texts to communicate observations, findings and ideas, using…",
-      "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
-      "observing and describing short-term and longer-term patterns of events that…",
-      "distinguishing between regular events that occur in the sky, such as the…"
+    "id": "ac9s2i06-p05",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S2I06, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s2i06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building vocabulary for describing sound, such as loudness and pitch, and…",
-      "making a collage to represent and display all the ways a material can be…",
-      "exploring different ways to produce sound using familiar objects and actions…",
-      "exploring how voices have a unique sound by playing games such as guess the…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p06",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S2I06, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s2i06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "observing vibrations produced by a twanged ruler held on a desk and…",
-      "investigating how sound energy makes things vibrate such as when speaking,…",
-      "presenting and sharing musical instruments, through dance and song, to show…",
-      "investigating which materials best muffle sound"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p07",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2I06, explain how evidence helps show what is happening in write and create texts to communicate observations, findings and ideas,.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s2i06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "designing and making instruments that produce different sounds, such as…",
-      "discussing situations in which they have heard echoes and exploring how…",
-      "exploring how materials can be physically changed to suit a particular…",
-      "write and create texts to communicate observations, findings and ideas, using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S2I06: write and create texts to communicate observations, findings and ideas, using…."
+    "id": "ac9s2i06-p08",
+    "curriculumCode": "AC9S2I06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S2I06, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

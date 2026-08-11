@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s6u02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the movement of Earth and other planets relative to the sun and…",
-      "examine why advances in science are often the result of collaboration or…",
-      "investigate how scientific knowledge is used by individuals and communities…",
-      "pose investigable questions to identify patterns and test relationships and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p01",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S6U02, inspect the diagram and identify one feature, part or process linked to movement of earth and other planets relative to the sun.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to movement of earth and other planets relative to the sun, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to movement of earth and other planets relative to the sun, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s6u02-02",
+    "id": "ac9s6u02-p02",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S6U02, which explanation best matches movement of earth and other planets relative to the sun: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "plan and conduct repeatable investigations to answer questions including, as…",
-      "exploring simulations of the solar system such as a pocket solar system to…",
-      "use equipment to observe, measure and record data with reasonable precision,…",
-      "construct and use appropriate representations, including tables, graphs and…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "correct": 0
   },
   {
-    "id": "ac9s6u02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare methods and findings with those of others, recognise possible sources…",
-      "write and create texts to communicate ideas and findings for specific…",
-      "recognising the role of gravity in keeping the planets in orbit around the sun",
-      "identifying the physical conditions in an aquatic or terrestrial habitat and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p03",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S6U02, sort the example cards into 'matches movement of earth and other planets relative to the sun' and 'does not match movement of earth and other planets relative to the sun'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s6u02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "investigating how changes to physical conditions such as salinity, soil type,…",
-      "examining how changes in physical conditions such as temperature, light…",
-      "investigating changes in physical conditions that are the result of human…",
-      "using 3-dimensional models or role-play to model how Earth’s rotation on its…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p04",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S6U02, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s6u02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the movement of Earth and other planets relative to the sun and…",
-      "investigating the effect of physical conditions on the growth of bread mould…",
-      "recognising that environmental conditions can affect stages of life, such as…",
-      "identifying necessary components for an electric circuit such as a source of…"
+    "id": "ac9s6u02-p05",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S6U02, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s6u02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "constructing a real or virtual circuit to examine requirements to allow the…",
-      "using virtual simulations or real-time views of Earth from space to explore…",
-      "constructing representations of electrical circuits and their components…",
-      "examining the purpose of different components such as switches and bulbs and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p06",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S6U02, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s6u02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating different electrical conductors and insulators and examining…",
-      "exploring how electricity is used in the home and identifying electrical…",
-      "using 3-dimensional models to explore how the tilt of Earth points one…",
-      "discussing what makes a change reversible or irreversible, using everyday…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p07",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6U02, explain how evidence helps show what is happening in movement of earth and other planets relative to the sun.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s6u02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "examining the substances produced in cooking and rusting and comparing them…",
-      "comparing how the amount of heat energy added affects whether a change in…",
-      "describing how dissolved substances are reclaimed from solutions",
-      "describe the movement of Earth and other planets relative to the sun and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S6U02: describe the movement of Earth and other planets relative to the sun and…."
+    "id": "ac9s6u02-p08",
+    "curriculumCode": "AC9S6U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S6U02, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m9a01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "apply the exponent laws to numerical expressions with integer exponents and…",
-      "identify and graph quadratic functions, solve quadratic equations graphically…",
-      "use mathematical modelling to solve applied problems involving change…",
-      "experiment with the effects of the variation of parameters on graphs of…"
+    "id": "ac9m9a01-p01",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A01, expand and simplify 2(x + 11) - 3(x - 4).",
+    "explanation": "-x + 34.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "-x + 34"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "correct": "-x + 34"
   },
   {
-    "id": "ac9m9a01-02",
+    "id": "ac9m9a01-p02",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M9A01, which is the correct factorisation of 6x + 66: 6(x + 11), x(6 + 66) or 6x(11)?",
+    "explanation": "6(x + 11).",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems involving the volume and surface area of right prisms and…",
-      "representing decimals in exponential form; for example, 0.475 can be…",
-      "solve problems involving very small and very large measurements, time scales…",
-      "solve spatial problems, applying angle properties, scale, similarity,…"
+      "6(x + 11)",
+      "x(6 + 66)",
+      "6x(11)"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "correct": 0
   },
   {
-    "id": "ac9m9a01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "calculate and interpret absolute, relative and percentage errors in…",
-      "use mathematical modelling to solve practical problems involving direct…",
-      "simplifying and evaluating numerical expressions, involving both positive and…",
-      "recognise the constancy of the sine, cosine and tangent ratios for a given…"
+    "id": "ac9m9a01-p03",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A01, simplify x^3 x x^4.",
+    "explanation": "x^7.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x^7"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "correct": "x^7"
   },
   {
-    "id": "ac9m9a01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "apply the enlargement transformation to shapes and objects using dynamic…",
-      "design, test and refine algorithms involving a sequence of steps and…",
-      "analyse reports of surveys in digital media and elsewhere for information on…",
-      "relating the computation of numerical expressions involving exponents to the…"
+    "id": "ac9m9a01-p04",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M9A01, solve 2x + 11 = 29.",
+    "explanation": "x = 9.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "x = 9"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "correct": "x = 9"
   },
   {
-    "id": "ac9m9a01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "apply the exponent laws to numerical expressions with integer exponents and…",
-      "analyse how different sampling methods can affect the results of surveys and…",
-      "represent the distribution of multiple data sets for numerical variables…",
-      "choose appropriate forms of display or visualisation for a given type of…"
+    "id": "ac9m9a01-p05",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M9A01, a table has x values 0, 1, 2 and y values 1, 3, 9. What exponential rule fits?",
+    "explanation": "y = 3^x.",
+    "printable": true,
+    "visual": "Two-column function table.",
+    "instruction": "Visual brief: Two-column function table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "y = 3^x"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "correct": "y = 3^x"
   },
   {
-    "id": "ac9m9a01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "plan and conduct statistical investigations involving the collection and…",
-      "recognising exponents in algebraic expressions and applying the relevant…",
-      "list all outcomes for compound events both with and without replacement,…",
-      "calculate relative frequencies from given or collected data to estimate…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "id": "ac9m9a01-p06",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M9A01, order the steps: check restrictions, simplify both sides, solve, substitute to check.",
+    "explanation": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Simplify both sides; check restrictions if relevant; solve; substitute to check.",
+    "correct": "Simplify both sides; check restrictions if relevant; solve; substitute to check."
   },
   {
-    "id": "ac9m9a01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "design and conduct repeated chance experiments and simulations, using digital…",
-      "investigating the real number system by representing the relationships…",
-      "relating simplification of expressions from first principles and counting to…",
-      "using a real number line to indicate the solution interval for inequalities…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "id": "ac9m9a01-p07",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A01, explain how an algebraic solution can be interpreted on a graph.",
+    "explanation": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship.",
+    "correct": "A solution is where the graph meets an axis, intersects another graph, or satisfies the relationship."
   },
   {
-    "id": "ac9m9a01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using positive and negative rational numbers to solve problems; for example,…",
-      "solving problems involving the substitution of real numbers into formulas,…",
-      "investigating the position of rational and irrational numbers on the real…",
-      "apply the exponent laws to numerical expressions with integer exponents and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M9A01: apply the exponent laws to numerical expressions with integer exponents and…."
+    "id": "ac9m9a01-p08",
+    "curriculumCode": "AC9M9A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M9A01, a student writes (x + 3)^2 = x^2 + 9. Explain and correct the error.",
+    "explanation": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed.",
+    "correct": "(x + 3)^2 expands to x^2 + 6x + 9; the middle term was missed."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

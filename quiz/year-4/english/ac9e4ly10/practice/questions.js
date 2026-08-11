@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e4ly10-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "identify how text connectives including temporal and conditional words, and…",
-      "identify text navigation features of online texts that enhance readability…",
-      "understand that complex sentences contain one independent clause and at least…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p01",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9E4LY10, sort these words by the focus pattern in to use knowledge of letter patterns: play, played, playing, replay.",
+    "explanation": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid sort by base word, suffix, prefix or sound-letter pattern.",
+    "correct": "A valid sort by base word, suffix, prefix or sound-letter pattern."
   },
   {
-    "id": "ac9e4ly10-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "investigate how quoted (direct) and reported (indirect) speech are used",
-      "applying generalisations for adding affixes; for example, “hope” - “hoping”,…",
-      "understand how adverb groups/phrases and prepositional phrases work in…",
-      "understand past, present and future tenses and their impact on meaning in a…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p02",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY10, segment the word 'string' into sounds or meaningful parts appropriate to the year level.",
+    "explanation": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word.",
+    "correct": "A valid segmentation, such as s-t-r-i-ng for phonemes or string as one base word."
   },
   {
-    "id": "ac9e4ly10-03",
+    "id": "ac9e4ly10-p03",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9E4LY10, which word best shows a suffix added to a base word: jump, jumping or blue?",
+    "explanation": "jumping.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "explore the effect of choices when framing an image, placement of elements in…",
-      "expand vocabulary by exploring a range of synonyms and antonyms, and using…",
-      "building morphemic word families and exploring word origins; for example,…",
-      "understand that punctuation signals dialogue through quotation marks and that…"
+      "jump",
+      "jumping",
+      "blue"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "correct": 0
   },
   {
-    "id": "ac9e4ly10-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise similar storylines, ideas and relationships in different contexts…",
-      "describe the effects of text structures and language features in literary…",
-      "discuss how authors and illustrators make stories engaging by the way they…",
-      "building morphemic word families and exploring word origins; for example,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p04",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9E4LY10, match sh, ch, th and ng to words: ship, chair, thin, ring.",
+    "explanation": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "sh -> ship; ch -> chair; th -> thin; ng -> ring.",
+    "correct": "sh -> ship; ch -> chair; th -> thin; ng -> ring."
   },
   {
-    "id": "ac9e4ly10-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand how to use knowledge of letter patterns, including double letters,…",
-      "examine the use of literary devices and deliberate word play in literary…",
-      "create and edit literary texts by developing storylines, characters and…",
-      "compare texts from different times with similar purposes and audiences to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p05",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "For AC9E4LY10, correct the spelling in this sentence: 'The child is runing fast.'",
+    "explanation": "The child is running fast.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The child is running fast.",
+    "correct": "The child is running fast."
   },
   {
-    "id": "ac9e4ly10-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "listen for key points and information to carry out tasks and contribute to…",
-      "building morphemic word families and exploring word origins; for example,…",
-      "identify the characteristic features used in imaginative, informative and…",
-      "read different types of texts, integrating phonic, semantic and grammatical…"
+    "id": "ac9e4ly10-p06",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY10, write two words in the same family as 'help'.",
+    "explanation": "Examples include helps, helped, helper, helpful, helping.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Examples include helps, helped, helper, helpful, helping"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "correct": "Examples include helps, helped, helper, helpful, helping"
   },
   {
-    "id": "ac9e4ly10-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "plan, create, edit and publish written and multimodal imaginative,…",
-      "building morphemic word families and exploring word origins; for example,…",
-      "plan, create, rehearse and deliver structured oral and/or multimodal…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p07",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9E4LY10, explain how knowing a base word can help spell a longer word.",
+    "explanation": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully.",
+    "correct": "The base word carries meaning and spelling; prefixes or suffixes can be added carefully."
   },
   {
-    "id": "ac9e4ly10-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write words using clearly formed joined letters, with developing fluency and…",
-      "understand how to use and apply phonological and morphological knowledge to…",
-      "read and write high-frequency words including homophones and know how to use…",
-      "understand how to use knowledge of letter patterns, including double letters,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E4LY10: understand how to use knowledge of letter patterns, including double letters,…."
+    "id": "ac9e4ly10-p08",
+    "curriculumCode": "AC9E4LY10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9E4LY10, write one new word that fits the AC9E4LY10 spelling focus and underline the pattern.",
+    "explanation": "A valid word with the relevant pattern identified.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid word with the relevant pattern identified.",
+    "correct": "A valid word with the relevant pattern identified."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

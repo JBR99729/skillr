@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s8h04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "explore the role of science communication in informing individual viewpoints…",
-      "describe the key processes of the rock cycle, including the timescales over…",
-      "classify different types of energy as kinetic or potential and investigate…",
-      "classify matter as elements, compounds or mixtures and compare different…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p01",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "For AC9S8H04, inspect the diagram and identify one feature, part or process linked to role of science communication in informing individual viewpoints and community.",
+    "explanation": "A correct feature, part or process from the visual evidence.",
+    "printable": true,
+    "visual": "Labelled diagram, photo or model related to role of science communication in informing individual viewpoints and community, with key parts or processes visible.",
+    "instruction": "Visual brief: Labelled diagram, photo or model related to role of science communication in informing individual viewpoints and community, with key parts or processes visible.",
+    "type": "self-check",
+    "modelAnswer": "A correct feature, part or process from the visual evidence.",
+    "correct": "A correct feature, part or process from the visual evidence."
   },
   {
-    "id": "ac9s8h04-02",
+    "id": "ac9s8h04-p02",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S8H04, which explanation best matches role of science communication in informing individual viewpoints and community: evidence-based cause, unrelated guess or decorative description?",
+    "explanation": "Evidence-based cause.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare physical and chemical changes and identify indicators of energy…",
-      "investigating campaigns designed to increase rates of organ donation",
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "investigate how cultural perspectives and world views influence the…"
+      "evidence-based cause",
+      "unrelated guess",
+      "decorative description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "correct": 0
   },
   {
-    "id": "ac9s8h04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "examine how proposed scientific responses to contemporary issues may impact…",
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "exploring how seismic data is collected and shared between governments across…",
-      "plan and conduct reproducible investigations to answer questions and test…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p03",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "For AC9S8H04, sort the example cards into 'matches role of science communication in informing individual viewpoints and community' and 'does not match role of science communication in informing individual viewpoints and community'.",
+    "explanation": "Cards are sorted using observable features or scientific relationships.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cards are sorted using observable features or scientific relationships.",
+    "correct": "Cards are sorted using observable features or scientific relationships."
   },
   {
-    "id": "ac9s8h04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and use equipment to generate and record data with precision, using…",
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "investigating how promotion of biodegradable materials and the importance of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p04",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9S8H04, match structure, function, process and evidence to part, job, change/action and observation/data.",
+    "explanation": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data.",
+    "correct": "Structure -> part; function -> job; process -> change/action; evidence -> observation/data."
   },
   {
-    "id": "ac9s8h04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore the role of science communication in informing individual viewpoints…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "write and create texts to communicate ideas, findings and arguments for…"
+    "id": "ac9s8h04-p05",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S8H04, a results table shows values rising from 4 to 7 to 10. What pattern is shown?",
+    "explanation": "The measured value increases over time or across the conditions.",
+    "printable": true,
+    "visual": "Three-row results table with labelled units.",
+    "instruction": "Visual brief: Three-row results table with labelled units.",
+    "type": "text",
+    "acceptedAnswers": [
+      "The measured value increases over time or across the conditions"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "correct": "The measured value increases over time or across the conditions"
   },
   {
-    "id": "ac9s8h04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring an augmented or virtual reality tour of a plant or animal to ‘zoom…",
-      "researching how science organisations and high-profile science communicators…",
-      "identifying the structure and function of organelles in cells including the…",
-      "examining a variety of cells, including single-celled organisms, using a…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p06",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S8H04, make one prediction about what would happen if a key condition changed.",
+    "explanation": "A logical prediction connected to the science idea.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical prediction connected to the science idea.",
+    "correct": "A logical prediction connected to the science idea."
   },
   {
-    "id": "ac9s8h04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "comparing the similarities and differences of plant cells and animal cells…",
-      "designing a physical or digital model of a cell and explaining how the…",
-      "researching how science organisations and high-profile science communicators…",
-      "considering how the invention of the microscope has contributed to…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p07",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S8H04, explain how evidence helps show what is happening in role of science communication in informing individual viewpoints and community.",
+    "explanation": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evidence from observations, diagrams or data supports the explanation and rules out guesses.",
+    "correct": "Evidence from observations, diagrams or data supports the explanation and rules out guesses."
   },
   {
-    "id": "ac9s8h04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "comparing 2-dimensional and 3-dimensional representations of organ systems to…",
-      "comparing the structure and function of analogous systems in a plant and an…",
-      "examining the specialised cells and tissues involved in structure and…",
-      "explore the role of science communication in informing individual viewpoints…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S8H04: explore the role of science communication in informing individual viewpoints…."
+    "id": "ac9s8h04-p08",
+    "curriculumCode": "AC9S8H04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9S8H04, a student gives an explanation that ignores the labelled diagram. Explain how to improve it.",
+    "explanation": "Use the diagram labels and evidence to make the explanation accurate.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use the diagram labels and evidence to make the explanation accurate.",
+    "correct": "Use the diagram labels and evidence to make the explanation accurate."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

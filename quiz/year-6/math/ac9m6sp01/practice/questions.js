@@ -1,107 +1,122 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m6sp01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare the parallel cross-sections of objects and recognise their…",
-      "apply knowledge of place value to add and subtract decimals, using digital…",
-      "solve problems involving addition and subtraction of fractions using…",
-      "multiply and divide decimals by multiples of powers of 10 without a…"
+    "id": "ac9m6sp01-p01",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6SP01, for AC9M6SP01 parallel cross-sections of objects and recognise their relationships to right, calculate 53 + 22.",
+    "explanation": "75",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "75"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "correct": "75"
   },
   {
-    "id": "ac9m6sp01-02",
+    "id": "ac9m6sp01-p02",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M6SP01, which estimate is most reasonable for 53 x 22: about 75, about 1160, or about 11660?",
+    "explanation": "About 1160.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "solve problems that require finding a familiar fraction, decimal or…",
-      "using objects made of foam or polystyrene, slice along different…",
-      "approximate numerical solutions to problems involving rational numbers and…",
-      "use mathematical modelling to solve practical problems involving natural and…"
+      "about 75",
+      "about 1160",
+      "or about 11660"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "correct": 1
   },
   {
-    "id": "ac9m6sp01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognise and use rules that generate visually growing patterns and number…",
-      "find unknown values in numerical equations involving brackets and…",
-      "using different pieces of fruit, slicing across different cross-sections,…",
-      "create and use algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "id": "ac9m6sp01-p03",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For AC9M6SP01, match number line, array, table and equation to compare/order, equal groups, organised values and symbolic rule.",
+    "explanation": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule.",
+    "correct": "Number line -> compare/order; array -> equal groups; table -> organised values; equation -> symbolic rule."
   },
   {
-    "id": "ac9m6sp01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "convert between common metric units of length, mass and capacity; choose and…",
-      "establish the formula for the area of a rectangle and use it to solve…",
-      "interpret and use timetables and itineraries to plan activities and determine…",
-      "observing and drawing the shapes resulting from different ways of slicing…"
+    "id": "ac9m6sp01-p04",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M6SP01, find the missing value: ___ + 53 = 75.",
+    "explanation": "22",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "22"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "correct": "22"
   },
   {
-    "id": "ac9m6sp01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare the parallel cross-sections of objects and recognise their…",
-      "identify the relationships between angles on a straight line, angles at a…",
-      "locate points in the 4 quadrants of a Cartesian plane; describe changes to…",
-      "recognise and use combinations of transformations to create tessellations and…"
+    "id": "ac9m6sp01-p05",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9M6SP01, a table shows 53, 22 and 75. What is the total of all three values?",
+    "explanation": "150",
+    "printable": true,
+    "visual": "Three-row number table.",
+    "instruction": "Visual brief: Three-row number table.",
+    "type": "text",
+    "acceptedAnswers": [
+      "150"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "correct": "150"
   },
   {
-    "id": "ac9m6sp01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "interpret and compare data sets for ordinal and nominal categorical, discrete…",
-      "understanding that right prisms are objects where parallel cross-sections to…",
-      "identify statistically informed arguments presented in traditional and…",
-      "plan and conduct statistical investigations by posing and refining questions…"
+    "id": "ac9m6sp01-p06",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For AC9M6SP01, order the steps: calculate, read labels, choose a strategy, check reasonableness.",
+    "explanation": "Read labels; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "calculate",
+      "read labels",
+      "choose a strategy",
+      "check reasonableness"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "correct": [
+      "read labels",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m6sp01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
-      "conduct repeated chance experiments and run simulations with an increasing…",
-      "connecting different right prisms to the shape of their parallel…",
-      "extending the number line in the negative direction to locate and represent…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "id": "ac9m6sp01-p07",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP01, explain one efficient strategy for solving a parallel cross-sections of objects and recognise their relationships to right problem.",
+    "explanation": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula.",
+    "correct": "A valid strategy such as place value, estimation, inverse operation, table, diagram or formula."
   },
   {
-    "id": "ac9m6sp01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using integers to represent quantities in financial contexts, including the…",
-      "using horizontal and vertical number lines to represent and find solutions to…",
-      "recognising that the sign (positive or negative) indicates a direction in…",
-      "compare the parallel cross-sections of objects and recognise their…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M6SP01: compare the parallel cross-sections of objects and recognise their…."
+    "id": "ac9m6sp01-p08",
+    "curriculumCode": "AC9M6SP01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For AC9M6SP01, a student gives an answer that is far too large. Explain two checks to make.",
+    "explanation": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value, units, estimate and whether the answer fits the context.",
+    "correct": "Check operation choice, place value, units, estimate and whether the answer fits the context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
