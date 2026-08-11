@@ -310,7 +310,18 @@
 
 
   function integerFactors(year,skill,set){
-    const n=12+2*(set%12), m=18+3*(set%10), neg=2+(set%9);
+    const isYear5Factors=year==="5"&&skill==="factors-multiples-place-value";
+    const n=isYear5Factors?12+2*set:12+2*(set%12);
+    const m=isYear5Factors?18+3*set:18+3*(set%10);
+    const neg=isYear5Factors?2+set:2+(set%9);
+    const year5Primes=[
+      29,31,37,41,43,47,53,59,61,67,
+      71,73,79,83,89,97,101,103,107,109,
+      113,127,131,137,139,149,151,157,163,167
+    ];
+    const prime=isYear5Factors?year5Primes[set]:29;
+    const compositeA=isYear5Factors?9*(set+3):21;
+    const compositeB=isYear5Factors?10*(set+4):35;
     const g=(a,b)=>{a=Math.abs(a);b=Math.abs(b);while(b){const t=b;b=a%b;a=t;}return a||1;};
     const gf=g(n,m);
     return [
@@ -319,7 +330,7 @@
       q(year,skill,set,2,"true-false",`−${neg+4} is less than −${neg}.`,{answers:["True","False"],correct:0,explanation:"The more negative value lies farther left on the number line."}),
       q(year,skill,set,3,"number",`Find the greatest common factor of ${n} and ${m}.`,{correct:gf,explanation:`The greatest common factor is ${gf}.`}),
       q(year,skill,set,4,"fill-blank","Complete the integer equation.",{template:`−${neg} + {{blank}} = ${neg+1}`,acceptedAnswers:[String(2*neg+1)],explanation:`The missing value is ${2*neg+1}.`}),
-      q(year,skill,set,5,"single","Which number is prime?",{answers:["29","21","35"],correct:0,explanation:"29 has exactly two positive factors: 1 and 29."}),
+      q(year,skill,set,5,"single","Which number is prime?",{answers:[String(prime),String(compositeA),String(compositeB)],correct:0,explanation:`${prime} has exactly two positive factors: 1 and ${prime}.`}),
       q(year,skill,set,6,"multiple",`Select all factors of ${n}.`,{answers:["1","2",String(n),String(n+1)],correct:[0,1,2],explanation:`1, 2 and ${n} divide ${n} exactly.`}),
       q(year,skill,set,7,"order","Order the integers from smallest to largest.",{items:[`−${neg+5}`,String(neg),`−${neg}`],correct:[`−${neg+5}`,`−${neg}`,String(neg)],instruction:"Use the number line.",explanation:"Negative values come before positive values."})
     ];
