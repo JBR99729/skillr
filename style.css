@@ -1906,6 +1906,7 @@ footer {
     align-items: center;
     justify-content: space-between;
     gap: 24px;
+    flex-wrap: nowrap;
 }
 
 .site-header__brand {
@@ -1939,8 +1940,10 @@ footer {
     font-size: 0.875rem;
     font-weight: 700;
     line-height: 1;
+    width: auto;
     text-align: center;
     text-decoration: none;
+    transition: none;
 }
 
 .site-header__stages a:hover {
