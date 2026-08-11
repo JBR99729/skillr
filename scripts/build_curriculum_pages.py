@@ -637,7 +637,7 @@ def learning_steps(unit: dict[str, Any]) -> list[str]:
             eligible_elaborations[:2],
             "Practise with varied examples so students can recognise the concept in more than one form.",
         ),
-        "Finish with mixed questions so students must choose the correct strategy rather than copy the last example.",
+        "Finish with a mixed activity so students must choose the correct strategy rather than copy the last example.",
     ]
 
 
@@ -734,7 +734,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
 
       <section class="curriculum-topic-section">
         <h2>Curriculum coverage and elaborations</h2>
-        <p>The content description and elaborations below show the curriculum ideas taught in this unit. Items marked as teaching context support lesson planning but may not appear in the initial eight-question activity.</p>
+        <p>The content description and elaborations below show the curriculum ideas taught in this unit. Items marked as teaching context support lesson planning.</p>
         <ul>{coverage_items}</ul>
       </section>
 
