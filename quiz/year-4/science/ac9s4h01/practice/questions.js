@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s4h01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "examine how people use data to develop scientific explanations",
-      "examine the properties of natural and made materials including fibres,…",
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "pose questions to explore observed patterns and relationships and make…"
+    "id": "ac9s4h01-p01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "For AC9S4H01, repeated plant-height data shows similar growth each week. What makes this stronger than one guess?",
+    "explanation": "Repeated data gives evidence that can support an explanation.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Repeated data gives evidence that can support an explanation"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "correct": "Repeated data gives evidence that can support an explanation"
   },
   {
-    "id": "ac9s4h01-02",
+    "id": "ac9s4h01-p02",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement is best for science as evidence: evidence supports explanations, guesses are always enough, or labels do not matter?",
+    "explanation": "Evidence supports explanations.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "examining age-appropriate scientific journal articles, identifying common…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "evidence supports explanations",
+      "guesses are always enough",
+      "or labels do not matter"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "correct": 0
   },
   {
-    "id": "ac9s4h01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "viewing or listening to documentaries or news reports that feature…",
-      "describing how animals, including humans, obtain their food from plants and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "id": "ac9s4h01-p03",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match science as evidence investigation parts: question, prediction, observation, conclusion.",
+    "explanation": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "correct": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence."
   },
   {
-    "id": "ac9s4h01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing living things in a local habitat and categorising them as…",
-      "researching the different types of decomposers and their importance within a…",
-      "representing feeding relationships of producers and consumers as a food chain…",
-      "investigating how ecologists use food chain data to develop explanations for…"
+    "id": "ac9s4h01-p04",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S4H01, name one way data helps scientists explain a pattern.",
+    "explanation": "It shows observations or measurements that can be compared and checked.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "It shows observations or measurements that can be compared and checked"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "correct": "It shows observations or measurements that can be compared and checked"
   },
   {
-    "id": "ac9s4h01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "examine how people use data to develop scientific explanations",
-      "investigating the impact of introduced predators such as foxes on small…",
-      "researching how the removal of a food source from within a habitat, such as…",
-      "identifying everyday examples of precipitation (rain or snow), evaporation…"
+    "id": "ac9s4h01-p05",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A Year 4 science as evidence table has results 12, 15, 15 and 18. What pattern or repeated result can be reported?",
+    "explanation": "15 appears twice; results are between 12 and 18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15 appears twice; results are between 12 and 18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "correct": "15 appears twice; results are between 12 and 18"
   },
   {
-    "id": "ac9s4h01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying local water sources and exploring how they change over time, such…",
-      "explore how hydrologists use rainfall and water use data to explain the…",
-      "exploring where tap water comes from and predicting what happens to water…",
-      "exploring a game or simulation of the water cycle, identifying key processes…"
+    "id": "ac9s4h01-p06",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the science as evidence investigation steps: collect data, ask a question, plan a fair method, communicate findings.",
+    "explanation": "Ask a question; plan a fair method; collect data; communicate findings.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair method",
+      "communicate findings"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "correct": [
+      "ask a question",
+      "plan a fair method",
+      "collect data",
+      "communicate findings"
+    ]
   },
   {
-    "id": "ac9s4h01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that clouds are tiny water droplets suspended in air, observing a…",
-      "considering why we are encouraged to save and recycle water, and actions…",
-      "explore how hydrologists use rainfall and water use data to explain the…",
-      "exploring the effect of magnets on other magnets and how magnetic forces can…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "id": "ac9s4h01-p07",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why a labelled diagram or photograph would help students answer a science as evidence question.",
+    "explanation": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "correct": "It gives visible evidence that students can inspect, compare and refer to in their answer."
   },
   {
-    "id": "ac9s4h01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring the positive and negative effects of friction on their everyday…",
-      "recognising that gravity is the force that pulls all objects to towards the…",
-      "observing how the pushing force of a liquid enables an object to float",
-      "examine how people use data to develop scientific explanations"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4H01: examine how people use data to develop scientific explanations."
+    "id": "ac9s4h01-p08",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group changes two things at once in a science as evidence investigation. Explain why this is a problem.",
+    "explanation": "It becomes unclear which change caused the result, so the test is less fair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It becomes unclear which change caused the result, so the test is less fair.",
+    "correct": "It becomes unclear which change caused the result, so the test is less fair."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,120 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s4h02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "examine the properties of natural and made materials including fibres,…",
-      "examine how people use data to develop scientific explanations",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s4h02-p01",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9S4H02, give one example of science helping solve a community problem.",
+    "explanation": "Examples include water filtering, safe materials, weather warnings, habitat care or recycling decisions.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Examples include water filtering, safe materials, weather warnings, habitat care or recycling decisions.",
+    "correct": "Examples include water filtering, safe materials, weather warnings, habitat care or recycling decisions."
   },
   {
-    "id": "ac9s4h02-02",
+    "id": "ac9s4h02-p02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement is best for science solutions: evidence supports explanations, guesses are always enough, or labels do not matter?",
+    "explanation": "Evidence supports explanations.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "investigating how knowledge of the role of decomposers has helped people…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "evidence supports explanations",
+      "guesses are always enough",
+      "or labels do not matter"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": 0
   },
   {
-    "id": "ac9s4h02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "exploring how knowledge of the properties of plastic has influenced people to…",
-      "describing how animals, including humans, obtain their food from plants and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s4h02-p03",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match science solutions investigation parts: question, prediction, observation, conclusion.",
+    "explanation": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "correct": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence."
   },
   {
-    "id": "ac9s4h02-04",
+    "id": "ac9s4h02-p04",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9S4H02, which solution uses science: testing water quality, choosing by guessing, or ignoring evidence?",
+    "explanation": "Testing water quality.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "observing living things in a local habitat and categorising them as…",
-      "researching the different types of decomposers and their importance within a…",
-      "representing feeding relationships of producers and consumers as a food chain…",
-      "examining how people use knowledge of friction to improve car or bicycle…"
+      "testing water quality",
+      "choosing by guessing",
+      "or ignoring evidence"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": 0
   },
   {
-    "id": "ac9s4h02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "investigating the impact of introduced predators such as foxes on small…",
-      "researching how the removal of a food source from within a habitat, such as…",
-      "identifying everyday examples of precipitation (rain or snow), evaporation…"
+    "id": "ac9s4h02-p05",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A Year 4 science solutions table has results 12, 15, 15 and 18. What pattern or repeated result can be reported?",
+    "explanation": "15 appears twice; results are between 12 and 18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15 appears twice; results are between 12 and 18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": "15 appears twice; results are between 12 and 18"
   },
   {
-    "id": "ac9s4h02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying local water sources and exploring how they change over time, such…",
-      "investigating how knowledge of magnetic force is used to sort metals in…",
-      "exploring where tap water comes from and predicting what happens to water…",
-      "exploring a game or simulation of the water cycle, identifying key processes…"
+    "id": "ac9s4h02-p06",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the science solutions investigation steps: collect data, ask a question, plan a fair method, communicate findings.",
+    "explanation": "Ask a question; plan a fair method; collect data; communicate findings.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair method",
+      "communicate findings"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": [
+      "ask a question",
+      "plan a fair method",
+      "collect data",
+      "communicate findings"
+    ]
   },
   {
-    "id": "ac9s4h02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that clouds are tiny water droplets suspended in air, observing a…",
-      "considering why we are encouraged to save and recycle water, and actions…",
-      "investigating how knowledge of magnetic force is used to sort metals in…",
-      "exploring the effect of magnets on other magnets and how magnetic forces can…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s4h02-p07",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why a labelled diagram or photograph would help students answer a science solutions question.",
+    "explanation": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "correct": "It gives visible evidence that students can inspect, compare and refer to in their answer."
   },
   {
-    "id": "ac9s4h02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring the positive and negative effects of friction on their everyday…",
-      "recognising that gravity is the force that pulls all objects to towards the…",
-      "observing how the pushing force of a liquid enables an object to float",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s4h02-p08",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group changes two things at once in a science solutions investigation. Explain why this is a problem.",
+    "explanation": "It becomes unclear which change caused the result, so the test is less fair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It becomes unclear which change caused the result, so the test is less fair.",
+    "correct": "It becomes unclear which change caused the result, so the test is less fair."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

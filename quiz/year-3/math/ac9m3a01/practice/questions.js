@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3a01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m3a01-p01",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Complete the fact family for 28 + 17 = 45. Write two subtraction facts.",
+    "explanation": "45 - 28 = 17 and 45 - 17 = 28.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "45 - 28 = 17 and 45 - 17 = 28"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "correct": "45 - 28 = 17 and 45 - 17 = 28"
   },
   {
-    "id": "ac9m3a01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "follow and create algorithms involving a sequence of steps and decisions to…",
-      "partitioning numbers using materials, part-part-whole diagrams or bar models,…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "id": "ac9m3a01-p02",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which equation checks 63 - 25 = 38: 38 + 25 = 63, 63 + 25 = 38 or 38 - 25 = 63?",
+    "explanation": "38 + 25 = 63.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "38 + 25 = 63.",
+    "correct": "38 + 25 = 63."
   },
   {
-    "id": "ac9m3a01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "using the inverse relationship between addition and subtraction to find…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "id": "ac9m3a01-p03",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 46 + 19, 65 - 19, 65 - 46 and 19 + 46 to 65, 46, 19 and 65.",
+    "explanation": "46 + 19 -> 65; 65 - 19 -> 46; 65 - 46 -> 19; 19 + 46 -> 65.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "46 + 19 -> 65; 65 - 19 -> 46; 65 - 46 -> 19; 19 + 46 -> 65.",
+    "correct": "46 + 19 -> 65; 65 - 19 -> 46; 65 - 46 -> 19; 19 + 46 -> 65."
   },
   {
-    "id": "ac9m3a01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "using the inverse relationship between addition and subtraction to find…"
+    "id": "ac9m3a01-p04",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Find the missing number: ___ + 34 = 82.",
+    "explanation": "48.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "48"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "correct": "48"
   },
   {
-    "id": "ac9m3a01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3a01-p05",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Use the inverse operation to check 91 - 57 = 34.",
+    "explanation": "34 + 57 = 91.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "34 + 57 = 91"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "correct": "34 + 57 = 91"
   },
   {
-    "id": "ac9m3a01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "using the inverse relationship between addition and subtraction to find…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "id": "ac9m3a01-p06",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how a bar model can show 36 + 49 = 85 and 85 - 49 = 36.",
+    "explanation": "The whole is 85 and the parts are 36 and 49; subtracting one part leaves the other.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The whole is 85 and the parts are 36 and 49; subtracting one part leaves the other.",
+    "correct": "The whole is 85 and the parts are 36 and 49; subtracting one part leaves the other."
   },
   {
-    "id": "ac9m3a01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "using the inverse relationship between addition and subtraction to find…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
+    "id": "ac9m3a01-p07",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Find the missing number: 120 - ___ = 75.",
+    "explanation": "45.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "45"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "correct": "45"
   },
   {
-    "id": "ac9m3a01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "recognise and explain the connection between addition and subtraction as…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3A01: recognise and explain the connection between addition and subtraction as…."
+    "id": "ac9m3a01-p08",
+    "curriculumCode": "AC9M3A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student says subtraction has no connection to addition. Explain why this is incorrect.",
+    "explanation": "They are inverse operations; addition joins parts and subtraction separates a part from the whole.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They are inverse operations; addition joins parts and subtraction separates a part from the whole.",
+    "correct": "They are inverse operations; addition joins parts and subtraction separates a part from the whole."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

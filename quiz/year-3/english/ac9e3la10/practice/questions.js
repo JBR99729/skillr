@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la10-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "id": "ac9e3la10-p01",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match word to subject: evaporate, estimate, caption, habitat. Subjects: science, maths, English, science living things.",
+    "explanation": "Evaporate -> science; estimate -> maths; caption -> English; habitat -> science living things.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Evaporate -> science; estimate -> maths; caption -> English; habitat -> science living things.",
+    "correct": "Evaporate -> science; estimate -> maths; caption -> English; habitat -> science living things."
   },
   {
-    "id": "ac9e3la10-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "identifying and using technical words to describe length; for example, metric…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "id": "ac9e3la10-p02",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "In science, \"conduct\" can mean carry heat. In music, it can mean lead a group. Which meaning fits \"metal can conduct heat\"?",
+    "explanation": "Carry heat.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Carry heat.",
+    "correct": "Carry heat."
   },
   {
-    "id": "ac9e3la10-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "identifying and using words to describe features of narratives; for example,…",
-      "discuss connections between personal experiences and character experiences in…"
+    "id": "ac9e3la10-p03",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one sentence using the science word \"temperature\" accurately.",
+    "explanation": "A sentence showing temperature as how hot or cold something is.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A sentence showing temperature as how hot or cold something is"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "correct": "A sentence showing temperature as how hot or cold something is"
   },
   {
-    "id": "ac9e3la10-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "identifying words that have different meanings in different contexts; for…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "id": "ac9e3la10-p04",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: thing, mineral, stuff, centimetre.",
+    "explanation": "Technical: mineral, centimetre. General: thing, stuff.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Technical: mineral, centimetre. General: thing, stuff.",
+    "correct": "Technical: mineral, centimetre. General: thing, stuff."
   },
   {
-    "id": "ac9e3la10-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "id": "ac9e3la10-p05",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Replace \"stuff\" in \"The stuff changed when heated\" with a more precise word.",
+    "explanation": "For example, material, wax, chocolate or substance.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, material, wax, chocolate or substance.",
+    "correct": "For example, material, wax, chocolate or substance."
   },
   {
-    "id": "ac9e3la10-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "extending vocabulary by adding prefixes and suffixes to base words; for…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
+    "id": "ac9e3la10-p06",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Explain two meanings of \"scale\" in different school subjects.",
+    "explanation": "For example, map scale and weighing scale, or music scale.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "For example, map scale and weighing scale, or music scale"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "correct": "For example, map scale and weighing scale, or music scale"
   },
   {
-    "id": "ac9e3la10-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "extending vocabulary by adding prefixes and suffixes to base words; for…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "id": "ac9e3la10-p07",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Why is \"millilitres\" more precise than \"a bit\" in an investigation report?",
+    "explanation": "It gives a measurable amount so others can understand or repeat the investigation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives a measurable amount so others can understand or repeat the investigation.",
+    "correct": "It gives a measurable amount so others can understand or repeat the investigation."
   },
   {
-    "id": "ac9e3la10-08",
+    "id": "ac9e3la10-p08",
+    "curriculumCode": "AC9E3LA10",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word best completes: \"A ___ shows what each symbol on a map means\": legend, paragraph, fraction.",
+    "explanation": "legend.",
+    "printable": true,
     "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
     "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "extend topic-specific and technical vocabulary and know that words can have…"
+      "legend",
+      "paragraph",
+      "fraction"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA10: extend topic-specific and technical vocabulary and know that words can have…."
+    "correct": 0
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

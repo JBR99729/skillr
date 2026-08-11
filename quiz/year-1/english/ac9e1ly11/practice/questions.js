@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly11-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly11-p01",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Blend /m/ /a/ /n/ and write the word.",
+    "explanation": "Man (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Man (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "correct": "Man (1 mark)"
   },
   {
-    "id": "ac9e1ly11-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "using knowledge of letters and sounds to write words with short vowels; for…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p02",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match time, wish and frog to long vowel, consonant digraph and consonant blend.",
+    "explanation": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend (1 mark each).",
+    "correct": "Time ↔ long vowel; wish ↔ digraph; frog ↔ blend (1 mark each)."
   },
   {
-    "id": "ac9e1ly11-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "using knowledge of letter sounds to write single-syllable words with…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p03",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use letter tiles to build shop and say each phoneme.",
+    "explanation": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds (3 marks).",
+    "correct": "s-h-o-p in spelling; /sh/ /o/ /p/ in sounds (3 marks)."
   },
   {
-    "id": "ac9e1ly11-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "using knowledge of letter sounds to write single-syllable words with…"
+    "id": "ac9e1ly11-p04",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Add final e to kit. Read and explain the new word.",
+    "explanation": "Kite; final e changes the vowel from short /i/ to long /i/ (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Kite; final e changes the vowel from short /i/ to long /i/ (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "correct": "Kite; final e changes the vowel from short /i/ to long /i/ (2 marks)"
   },
   {
-    "id": "ac9e1ly11-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p05",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order /r/ /f/ /o/ /g/ to read frog.",
+    "explanation": "/f/ /r/ /o/ /g/ → frog (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "/f/ /r/ /o/ /g/ → frog (2 marks).",
+    "correct": "/f/ /r/ /o/ /g/ → frog (2 marks)."
   },
   {
-    "id": "ac9e1ly11-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "using knowledge of letter sounds to write single-syllable words with…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p06",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Write fish and draw one sound button for /f/, /i/ and /sh/.",
+    "explanation": "Correct spelling and 3 sound markers, with sh grouped (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Correct spelling and 3 sound markers, with sh grouped (3 marks).",
+    "correct": "Correct spelling and 3 sound markers, with sh grouped (3 marks)."
   },
   {
-    "id": "ac9e1ly11-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "create and deliver short oral and/or multimodal presentations on personal and…",
-      "write words using unjoined lower-case and upper-case letters",
-      "using knowledge of letter sounds to write single-syllable words with…",
-      "segment words into separate phonemes (sounds) including consonant blends or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p07",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Explain why br in brush is a blend but sh is a digraph.",
+    "explanation": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound (3 marks).",
+    "correct": "Both /b/ and /r/ are heard separately; sh letters work together for one /sh/ sound (3 marks)."
   },
   {
-    "id": "ac9e1ly11-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "orally manipulate phonemes in spoken words by addition, deletion and…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "use short vowels, common long vowels, consonant blends and digraphs to write…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY11: use short vowels, common long vowels, consonant blends and digraphs to write…."
+    "id": "ac9e1ly11-p08",
+    "curriculumCode": "AC9E1LY11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Split sunset into spoken syllables, read each part and blend the whole word.",
+    "explanation": "Sun/set; reads sun + set → sunset (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Sun/set; reads sun + set → sunset (3 marks).",
+    "correct": "Sun/set; reads sun + set → sunset (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

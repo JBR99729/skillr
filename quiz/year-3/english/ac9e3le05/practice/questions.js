@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3le05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "create and edit imaginative texts, using or adapting language features,…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "id": "ac9e3le05-p01",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: problem appears, introduce character and setting, character tries a solution, ending shows result.",
+    "explanation": "Introduce character/setting; problem; solution attempt; ending.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Introduce character/setting; problem; solution attempt; ending.",
+    "correct": "Introduce character/setting; problem; solution attempt; ending."
   },
   {
-    "id": "ac9e3le05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "drawing on literary texts read, viewed and listened to for inspiration and…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3le05-p02",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one detail that makes a character more interesting than \"a boy\".",
+    "explanation": "A specific trait, goal, habit or description.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A specific trait, goal, habit or description"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "correct": "A specific trait, goal, habit or description"
   },
   {
-    "id": "ac9e3le05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "adapting texts read, viewed and listened to by changing the setting or…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "id": "ac9e3le05-p03",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Improve: \"There was a cave.\" Add setting detail.",
+    "explanation": "Any vivid cave opening with sensory detail.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any vivid cave opening with sensory detail.",
+    "correct": "Any vivid cave opening with sensory detail."
   },
   {
-    "id": "ac9e3le05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "discussing characters encountered in literary texts and sharing ideas about…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "id": "ac9e3le05-p04",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which creates the clearest story problem: \"Everything was normal\"; \"The map blew into the river\"; or \"The bag was blue\"?",
+    "explanation": "\"The map blew into the river.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"The map blew into the river.\"",
+    "correct": "\"The map blew into the river.\""
   },
   {
-    "id": "ac9e3le05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
+    "id": "ac9e3le05-p05",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A story you read has a lost object and a helpful friend. Write a new idea using that structure, not the same characters.",
+    "explanation": "A new story idea with lost object/helper structure.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A new story idea with lost object/helper structure"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "correct": "A new story idea with lost object/helper structure"
   },
   {
-    "id": "ac9e3le05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "discussing characters encountered in literary texts and sharing ideas about…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "id": "ac9e3le05-p06",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain two changes you would make to improve a draft story with no setting detail and no clear ending.",
+    "explanation": "Add setting details and a clear/resolved ending, with explanation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Add setting details and a clear/resolved ending, with explanation.",
+    "correct": "Add setting details and a clear/resolved ending, with explanation."
   },
   {
-    "id": "ac9e3le05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "discussing characters encountered in literary texts and sharing ideas about…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "id": "ac9e3le05-p07",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match dialogue, setting detail, problem, ending to: shows speech, helps imagine place, creates tension, resolves story.",
+    "explanation": "Dialogue -> speech; setting -> place; problem -> tension; ending -> resolves.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Dialogue -> speech; setting -> place; problem -> tension; ending -> resolves.",
+    "correct": "Dialogue -> speech; setting -> place; problem -> tension; ending -> resolves."
   },
   {
-    "id": "ac9e3le05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "create and edit imaginative texts, using or adapting language features,…"
+    "id": "ac9e3le05-p08",
+    "curriculumCode": "AC9E3LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one line of dialogue a character might say after finding a mysterious key.",
+    "explanation": "A suitable dialogue line.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A suitable dialogue line"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE05: create and edit imaginative texts, using or adapting language features,…."
+    "correct": "A suitable dialogue line"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1m03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1m03-p01",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Would the length of a school day be best described in hours, months or years?",
+    "explanation": "Hours (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Hours (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "correct": "Hours (1 mark)"
   },
   {
-    "id": "ac9m1m03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "naming, listing and using familiar units of time, such as hours, days, weeks,…",
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "compare directly and indirectly and order objects and events using attributes…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p02",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match a birthday-to-birthday, a school term and a night's sleep to year, months and hours.",
+    "explanation": "Birthday-to-birthday ↔ year; school term ↔ months; sleep ↔ hours (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Birthday-to-birthday ↔ year; school term ↔ months; sleep ↔ hours (1 mark each).",
+    "correct": "Birthday-to-birthday ↔ year; school term ↔ months; sleep ↔ hours (1 mark each)."
   },
   {
-    "id": "ac9m1m03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "measure the length of shapes and objects using informal units, recognising…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "comparing the number of days in the months of the year and explaining how the…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p03",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Arrange day cards from Monday through Sunday and state how many days make the week.",
+    "explanation": "Correct Monday–Sunday order and 7 days (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Correct Monday–Sunday order and 7 days (2 marks).",
+    "correct": "Correct Monday–Sunday order and 7 days (2 marks)."
   },
   {
-    "id": "ac9m1m03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "sequencing familiar events including the representation of time with…"
+    "id": "ac9m1m03-p04",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Art begins at 1 pm and ends at 2 pm. How long does it last?",
+    "explanation": "1 hour (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "1 hour (1 mark)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "correct": "1 hour (1 mark)"
   },
   {
-    "id": "ac9m1m03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p05",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: arrive at school, wake up, eat breakfast, begin class.",
+    "explanation": "Wake up → eat breakfast → arrive at school → begin class (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Wake up → eat breakfast → arrive at school → begin class (1 mark).",
+    "correct": "Wake up → eat breakfast → arrive at school → begin class (1 mark)."
   },
   {
-    "id": "ac9m1m03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "discussing events and activities and deciding whether they would take closer…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p06",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw three boxes labelled Tuesday, Wednesday and Thursday. Place library on Wednesday and show the day before and after.",
+    "explanation": "Tuesday before, Wednesday library, Thursday after (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Tuesday before, Wednesday library, Thursday after (2 marks).",
+    "correct": "Tuesday before, Wednesday library, Thursday after (2 marks)."
   },
   {
-    "id": "ac9m1m03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "discussing events and activities and deciding whether they would take closer…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p07",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A camp starts on Monday and lasts 3 days. Explain why ‘Monday’ is not its duration.",
+    "explanation": "Monday names the start day; 3 days tells how long the camp lasts (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Monday names the start day; 3 days tells how long the camp lasts (2 marks).",
+    "correct": "Monday names the start day; 3 days tells how long the camp lasts (2 marks)."
   },
   {
-    "id": "ac9m1m03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "describe the duration and sequence of events using years, months, weeks, days…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1M03: describe the duration and sequence of events using years, months, weeks, days…."
+    "id": "ac9m1m03-p08",
+    "curriculumCode": "AC9M1M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Choose hours, days, months or years for a movie, a cold, a season and time at primary school. Explain each choice briefly.",
+    "explanation": "Movie-hours; cold-days; season-months; primary school-years, with sensible reasoning (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Movie-hours; cold-days; season-months; primary school-years, with sensible reasoning (4 marks).",
+    "correct": "Movie-hours; cold-days; season-months; primary school-years, with sensible reasoning (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

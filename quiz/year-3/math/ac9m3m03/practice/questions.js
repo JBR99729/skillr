@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3m03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and use the relationship between formal units of time including…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m3m03-p01",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How many minutes are in 2 hours?",
+    "explanation": "120 minutes.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "120 minutes"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "correct": "120 minutes"
   },
   {
-    "id": "ac9m3m03-02",
+    "id": "ac9m3m03-p02",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "How many days are in 3 weeks: 10, 21 or 30?",
+    "explanation": "21.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "follow and create algorithms involving a sequence of steps and decisions to…",
-      "estimating how long it would take to read a set passage of text, and sharing…",
-      "recognise and explain the connection between addition and subtraction as…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…"
+      "10",
+      "21",
+      "30"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "correct": 1
   },
   {
-    "id": "ac9m3m03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…",
-      "identify which metric units are used to measure everyday items; use…",
-      "planning a sequence of events based on estimates of the duration of each…",
-      "measure and compare objects using familiar metric units of length, mass and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "id": "ac9m3m03-p03",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 60 seconds, 60 minutes, 24 hours and 7 days to 1 minute, 1 hour, 1 day and 1 week.",
+    "explanation": "60 seconds -> 1 minute; 60 minutes -> 1 hour; 24 hours -> 1 day; 7 days -> 1 week.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "60 seconds -> 1 minute; 60 minutes -> 1 hour; 24 hours -> 1 day; 7 days -> 1 week.",
+    "correct": "60 seconds -> 1 minute; 60 minutes -> 1 hour; 24 hours -> 1 day; 7 days -> 1 week."
   },
   {
-    "id": "ac9m3m03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "reading or setting the time on digital devices to the minute or second; for…"
+    "id": "ac9m3m03-p04",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How many seconds are in 3 minutes?",
+    "explanation": "180 seconds.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "180 seconds"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "correct": "180 seconds"
   },
   {
-    "id": "ac9m3m03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and use the relationship between formal units of time including…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3m03-p05",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A lesson starts at 9:00 and lasts 45 minutes. What time does it finish?",
+    "explanation": "9:45.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "9:45"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "correct": "9:45"
   },
   {
-    "id": "ac9m3m03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "using sand timers and digital timers to measure and check estimates of short…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "id": "ac9m3m03-p06",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order from shortest to longest: day, minute, second, hour.",
+    "explanation": "Second, minute, hour, day.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Second, minute, hour, day.",
+    "correct": "Second, minute, hour, day."
   },
   {
-    "id": "ac9m3m03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "using sand timers and digital timers to measure and check estimates of short…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "id": "ac9m3m03-p07",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why 1 hour 20 minutes is not 1.20 hours in school time.",
+    "explanation": "Time uses 60 minutes per hour, not 100 minutes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Time uses 60 minutes per hour, not 100 minutes.",
+    "correct": "Time uses 60 minutes per hour, not 100 minutes."
   },
   {
-    "id": "ac9m3m03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3M03: recognise and use the relationship between formal units of time including…."
+    "id": "ac9m3m03-p08",
+    "curriculumCode": "AC9M3M03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student says 90 minutes is less than 1 hour because 90 is less than 100. Explain.",
+    "explanation": "1 hour is 60 minutes, so 90 minutes is 1 hour 30 minutes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 hour is 60 minutes, so 90 minutes is 1 hour 30 minutes.",
+    "correct": "1 hour is 60 minutes, so 90 minutes is 1 hour 30 minutes."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

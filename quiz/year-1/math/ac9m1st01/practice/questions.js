@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1st01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1st01-p01",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "In the question ‘How do you travel to school?’, what is being sorted into categories?",
+    "explanation": "Method of travel to school (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Method of travel to school (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "correct": "Method of travel to school (1 mark)"
   },
   {
-    "id": "ac9m1st01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "discussing methods of collecting data to answer a question, such as “What…",
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "compare directly and indirectly and order objects and events using attributes…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p02",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match tally table, picture sort and list to marks in columns, objects under labels and written category names.",
+    "explanation": "Tally ↔ marks in columns; picture sort ↔ objects under labels; list ↔ written names (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Tally ↔ marks in columns; picture sort ↔ objects under labels; list ↔ written names (1 mark each).",
+    "correct": "Tally ↔ marks in columns; picture sort ↔ objects under labels; list ↔ written names (1 mark each)."
   },
   {
-    "id": "ac9m1st01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "measure the length of shapes and objects using informal units, recognising…",
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "collecting and recording information on a topic of interest using lists; for…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p03",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Ask 5 people to choose apple or banana and record exactly one response for each person.",
+    "explanation": "Clear question, 5 single responses and total record count of 5 (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Clear question, 5 single responses and total record count of 5 (3 marks).",
+    "correct": "Clear question, 5 single responses and total record count of 5 (3 marks)."
   },
   {
-    "id": "ac9m1st01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "give and follow directions to move people and objects to different locations…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "creating a tally to record data while observing events such as the year level…"
+    "id": "ac9m1st01-p04",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A tally table shows cats |||| and dogs |||. State both frequencies and the total responses.",
+    "explanation": "Cats 4, dogs 3, total 7 (3 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Cats 4, dogs 3, total 7 (3 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "correct": "Cats 4, dogs 3, total 7 (3 marks)"
   },
   {
-    "id": "ac9m1st01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p05",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: check total responses; ask the question; record one mark; choose clear categories.",
+    "explanation": "Choose categories → ask question → record one mark → check total (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Choose categories → ask question → record one mark → check total (2 marks).",
+    "correct": "Choose categories → ask question → record one mark → check total (2 marks)."
   },
   {
-    "id": "ac9m1st01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "using star charts with stickers or emojis to represent class data; for…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p06",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw labelled groups for red, blue and green counters and record 2 red, 3 blue and 1 green.",
+    "explanation": "Correct labels and one visible record for each of the 6 counters (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Correct labels and one visible record for each of the 6 counters (3 marks).",
+    "correct": "Correct labels and one visible record for each of the 6 counters (3 marks)."
   },
   {
-    "id": "ac9m1st01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "role-playing being a chatbot asking simple yes/no questions and collecting…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p07",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A lunch survey uses ‘fruit’, ‘apple’ and ‘sandwich’. Explain the problem and suggest clearer categories.",
+    "explanation": "Apple overlaps fruit; proposes non-overlapping groups such as apple/banana/other fruit/sandwich (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Apple overlaps fruit; proposes non-overlapping groups such as apple/banana/other fruit/sandwich (3 marks).",
+    "correct": "Apple overlaps fruit; proposes non-overlapping groups such as apple/banana/other fruit/sandwich (3 marks)."
   },
   {
-    "id": "ac9m1st01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "acquire and record data for categorical variables in various ways including…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1ST01: acquire and record data for categorical variables in various ways including…."
+    "id": "ac9m1st01-p08",
+    "curriculumCode": "AC9M1ST01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Write a question with 3 or 4 clear categories about a class topic and explain how every student gets recorded once.",
+    "explanation": "Question is answerable, categories are mutually exclusive or include other, and method records one mark per student (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question is answerable, categories are mutually exclusive or include other, and method records one mark per student (4 marks).",
+    "correct": "Question is answerable, categories are mutually exclusive or include other, and method records one mark per student (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

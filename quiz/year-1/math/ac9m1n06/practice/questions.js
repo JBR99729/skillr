@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1n06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems involving equal…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "recognise, continue and create pattern sequences, with numbers, symbols,…"
+    "id": "ac9m1n06-p01",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Eight strawberries are shared equally between 2 children. How many does each child receive?",
+    "explanation": "4 each; a model shows 2 equal groups of 4 (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4 each; a model shows 2 equal groups of 4 (2 marks)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "correct": "4 each; a model shows 2 equal groups of 4 (2 marks)"
   },
   {
-    "id": "ac9m1n06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "modelling problems involving repeated equal group situations, such as, “How…",
-      "compare directly and indirectly and order objects and events using attributes…",
-      "measure the length of shapes and objects using informal units, recognising…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "id": "ac9m1n06-p02",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 12 shared among 3, 10 shared among 2 and 15 shared among 5 to 4 each, 5 each and 3 each.",
+    "explanation": "12 among 3 ↔ 4 each; 10 among 2 ↔ 5 each; 15 among 5 ↔ 3 each (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "12 among 3 ↔ 4 each; 10 among 2 ↔ 5 each; 15 among 5 ↔ 3 each (1 mark each).",
+    "correct": "12 among 3 ↔ 4 each; 10 among 2 ↔ 5 each; 15 among 5 ↔ 3 each (1 mark each)."
   },
   {
-    "id": "ac9m1n06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "modelling practical problems involving equal sharing situations; for example,…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "id": "ac9m1n06-p03",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use 15 counters to make groups of 3. State the number of groups.",
+    "explanation": "Makes 5 equal groups of 3 (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Makes 5 equal groups of 3 (2 marks).",
+    "correct": "Makes 5 equal groups of 3 (2 marks)."
   },
   {
-    "id": "ac9m1n06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "modelling money problems involving equal sharing; for example, sorting coins…"
+    "id": "ac9m1n06-p04",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Fourteen pencils are placed into groups of 4. How many full groups and leftovers are there?",
+    "explanation": "3 full groups of 4 and 2 pencils left over (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "3 full groups of 4 and 2 pencils left over (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "correct": "3 full groups of 4 and 2 pencils left over (2 marks)"
   },
   {
-    "id": "ac9m1n06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems involving equal…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "id": "ac9m1n06-p05",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these steps for sharing 9 beads among 3 bowls: check all bowls are equal; place one bead in each bowl repeatedly; count 9 beads; state 3 in each.",
+    "explanation": "Count 9 → deal one to each bowl repeatedly → check equal → state 3 each (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Count 9 → deal one to each bowl repeatedly → check equal → state 3 each (2 marks).",
+    "correct": "Count 9 → deal one to each bowl repeatedly → check equal → state 3 each (2 marks)."
   },
   {
-    "id": "ac9m1n06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "modelling money problems involving equal sharing; for example, sorting coins…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "id": "ac9m1n06-p06",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw 16 dots in 4 equal rows and label the number in each row.",
+    "explanation": "Shows 4 rows of 4 and labels 4 in each row (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows 4 rows of 4 and labels 4 in each row (2 marks).",
+    "correct": "Shows 4 rows of 4 and labels 4 in each row (2 marks)."
   },
   {
-    "id": "ac9m1n06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "modelling money problems involving equal sharing; for example, sorting coins…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
+    "id": "ac9m1n06-p07",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A coach has 18 markers and puts 3 in each bag. Is this sharing or grouping, and how many bags are filled?",
+    "explanation": "Grouping because the bag size is known; 6 bags of 3 (3 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Grouping because the bag size is known; 6 bags of 3 (3 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "correct": "Grouping because the bag size is known; 6 bags of 3 (3 marks)"
   },
   {
-    "id": "ac9m1n06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "use mathematical modelling to solve practical problems involving equal…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1N06: use mathematical modelling to solve practical problems involving equal…."
+    "id": "ac9m1n06-p08",
+    "curriculumCode": "AC9M1N06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student shares 11 counters among 3 plates as 4, 4 and 3 and says it is equal. Explain what is wrong and describe the result accurately.",
+    "explanation": "The shares are not equal; 3 each can be shared equally with 2 left over, or the task needs a rule for leftovers (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The shares are not equal; 3 each can be shared equally with 2 left over, or the task needs a rule for leftovers (3 marks).",
+    "correct": "The shares are not equal; 3 each can be shared equally with 2 left over, or the task needs a rule for leftovers (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

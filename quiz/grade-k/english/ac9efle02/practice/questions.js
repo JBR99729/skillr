@@ -1,107 +1,105 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efle02-01",
+    "id": "ac9efle02-p01",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which response clearly shares a feeling about what happened?",
+    "explanation": "D — It names a feeling and connects it to a story event.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "Omar is a name.",
+      "The story has two sentences.",
+      "Paper can be folded.",
+      "I felt glad when the friend helped Omar."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "correct": 3
   },
   {
-    "id": "ac9efle02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "using drawing and beginning forms of writing to express personal responses to…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p02",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What do you think about Suki’s choice?",
+    "explanation": "Gives a relevant evaluative thought, such as “It was honest/helpful/responsible.” Award 1 mark. A different view earns the mark if connected clearly to the choice.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives a relevant evaluative thought, such as “It was honest/helpful/responsible.” Award 1 mark. A different view earns the mark if connected clearly to the choice.",
+    "correct": "Gives a relevant evaluative thought, such as “It was honest/helpful/responsible.” Award 1 mark. A different view earns the mark if connected clearly to the choice."
   },
   {
-    "id": "ac9efle02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "recognise different types of literary texts and identify features including…",
-      "discussing events and characters in texts, and connecting them to their own…",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p03",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Complete: “I felt ___ when the mouse rang the bell because ___.”",
+    "explanation": "1 mark for a plausible feeling and 1 mark for a reason linked to practice, effort, success or the difficult task; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a plausible feeling and 1 mark for a reason linked to practice, effort, success or the difficult task; 2 marks total.",
+    "correct": "1 mark for a plausible feeling and 1 mark for a reason linked to practice, effort, success or the difficult task; 2 marks total."
   },
   {
-    "id": "ac9efle02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "discussing events and characters in texts, and connecting them to their own…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p04",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Can both responses make sense? Explain briefly.",
+    "explanation": "Yes (1 mark); explains that readers can have different feelings/perspectives, or that height/action can feel exciting to one person and risky to another (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Yes (1 mark); explains that readers can have different feelings/perspectives, or that height/action can feel exciting to one person and risky to another (1 mark); 2 marks total.",
+    "correct": "Yes (1 mark); explains that readers can have different feelings/perspectives, or that height/action can feel exciting to one person and risky to another (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efle02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p05",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Share one feeling about the first event and a different feeling about the ending. Give a reason for each.",
+    "explanation": "1 mark for a plausible first feeling and linked reason; 1 mark for a contrasting ending feeling and linked reason; 1 mark for clearly connecting each response to the correct event; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a plausible first feeling and linked reason; 1 mark for a contrasting ending feeling and linked reason; 1 mark for clearly connecting each response to the correct event; 3 marks total.",
+    "correct": "1 mark for a plausible first feeling and linked reason; 1 mark for a contrasting ending feeling and linked reason; 1 mark for clearly connecting each response to the correct event; 3 marks total."
   },
   {
-    "id": "ac9efle02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "discussing events and characters in texts, and connecting them to their own…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p06",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How do you think Ben feels? Name one action that supports your answer.",
+    "explanation": "A plausible feeling such as afraid, worried or startled (1 mark) plus a relevant action from the text (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A plausible feeling such as afraid, worried or startled (1 mark) plus a relevant action from the text (1 mark); 2 marks total.",
+    "correct": "A plausible feeling such as afraid, worried or startled (1 mark) plus a relevant action from the text (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efle02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "discussing events and characters in texts, and connecting them to their own…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p07",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain two feelings Mei might have at the same time and what in the event could cause each feeling.",
+    "explanation": "1 mark for a feeling linked to winning, 1 mark for a different feeling linked to the friend’s fall, and 1 mark for explaining that both can occur together; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a feeling linked to winning, 1 mark for a different feeling linked to the friend’s fall, and 1 mark for explaining that both can occur together; 3 marks total.",
+    "correct": "1 mark for a feeling linked to winning, 1 mark for a different feeling linked to the friend’s fall, and 1 mark for explaining that both can occur together; 3 marks total."
   },
   {
-    "id": "ac9efle02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "respond to stories and share feelings and thoughts about their events and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE02: respond to stories and share feelings and thoughts about their events and…."
+    "id": "ac9efle02-p08",
+    "curriculumCode": "AC9EFLE02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Give a more careful response to the character. Include a thought about both the first choice and the later choice.",
+    "explanation": "1 mark for evaluating the secret eating as unfair/wrong; 1 mark for recognising honesty/apology/repair later; 1 mark for avoiding a fixed label and describing actions instead; 1 mark for a coherent overall response; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for evaluating the secret eating as unfair/wrong; 1 mark for recognising honesty/apology/repair later; 1 mark for avoiding a fixed label and describing actions instead; 1 mark for a coherent overall response; 4 marks total.",
+    "correct": "1 mark for evaluating the secret eating as unfair/wrong; 1 mark for recognising honesty/apology/repair later; 1 mark for avoiding a fixed label and describing actions instead; 1 mark for a coherent overall response; 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

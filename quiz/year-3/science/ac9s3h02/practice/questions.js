@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3h02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examine how people use data to develop scientific explanations",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p01",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in science meeting needs?",
+    "explanation": "Scientific explanations can help people design solutions, choose materials and solve everyday problems.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Scientific explanations can help people design solutions, choose materials and solve everyday problems.",
+    "correct": "Scientific explanations can help people design solutions, choose materials and solve everyday problems."
   },
   {
-    "id": "ac9s3h02-02",
+    "id": "ac9s3h02-p02",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: need, perimeter or apostrophe?",
+    "explanation": "need.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "exploring the history of manure and compost use in agriculture and how…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "need",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": 0
   },
   {
-    "id": "ac9s3h02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "investigating how understanding of life cycles of insect pests such as fruit…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p03",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: need, solution, material, design, explanation.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3h02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "investigating why salt, was so important to people’s diets, food preservation…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p04",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of science meeting needs.",
+    "explanation": "Knowing that dark surfaces warm faster can help design warmer winter clothing.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Knowing that dark surfaces warm faster can help design warmer winter clothing.",
+    "correct": "Knowing that dark surfaces warm faster can help design warmer winter clothing."
   },
   {
-    "id": "ac9s3h02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p05",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for science meeting needs.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3h02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying rocks as key components of the built and natural environment and…",
-      "exploring how science knowledge of heat transfer has helped people develop…",
-      "describing ways in which living things including humans depend on soils, such…",
-      "examining information on plant tags and exploring the vocabulary used to…"
+    "id": "ac9s3h02-p06",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating science meeting needs, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3h02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating which rocks or minerals are quarried or mined locally or…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "investigating how engineers test the insulation properties of materials, and…",
-      "recognising that changes in heat energy can be measured using a thermometer"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p07",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about science meeting needs.",
+    "explanation": "Science is not only facts in a book; it helps people make decisions.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Science is not only facts in a book; it helps people make decisions.",
+    "correct": "Science is not only facts in a book; it helps people make decisions."
   },
   {
-    "id": "ac9s3h02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing and, with assistance, measuring, what happens when a cold object is…",
-      "modelling the movement of heat from one object to another using drawing or…",
-      "investigating how well heat is transferred by different types of materials…",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3H02: consider how people use scientific explanations to meet a need or solve a…."
+    "id": "ac9s3h02-p08",
+    "curriculumCode": "AC9S3H02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about science meeting needs.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

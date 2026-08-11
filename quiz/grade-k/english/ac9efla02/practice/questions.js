@@ -1,107 +1,117 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efla02-01",
+    "id": "ac9efla02-p01",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence tells that the speaker likes drawing?",
+    "explanation": "D — “I enjoy” expresses a like.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explore different ways of using language to express preferences, likes and…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…",
-      "explore the contribution of images and words to meaning in stories and…"
+      "The paper is square.",
+      "Where are the crayons?",
+      "Put the drawing away.",
+      "I enjoy drawing pictures."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "correct": 3
   },
   {
-    "id": "ac9efla02-02",
+    "id": "ac9efla02-p02",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Sam does not like very loud music. Which sentence expresses this clearly and politely?",
+    "explanation": "A — “I would rather” states a preference without being unkind.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "recognising how feelings and preferences might be communicated in speech and…",
-      "identify punctuation as a feature of written text different from letters;…",
-      "share ideas about stories, poems and images in literature, reflecting on…"
+      "I would rather listen to quiet music.",
+      "Music is made of sounds.",
+      "Turn everything off forever!",
+      "Do you own a drum?"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "correct": 0
   },
   {
-    "id": "ac9efla02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "recognise different types of literary texts and identify features including…",
-      "recognising the ways emotions and feelings can be conveyed in visual and…",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "id": "ac9efla02-p07",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Use the words “I would rather” to tell which activity you choose.",
+    "explanation": "Produces a complete choice such as “I would rather do a puzzle.” Award 1 mark for using the frame and 1 mark for naming one option; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Produces a complete choice such as “I would rather do a puzzle.” Award 1 mark for using the frame and 1 mark for naming one option; 2 marks total.",
+    "correct": "Produces a complete choice such as “I would rather do a puzzle.” Award 1 mark for using the frame and 1 mark for naming one option; 2 marks total."
   },
   {
-    "id": "ac9efla02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "recognising the ways emotions and feelings can be conveyed in visual and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "id": "ac9efla02-p08",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Change the statement so the speaker still tells the truth about their taste but uses respectful words.",
+    "explanation": "A suitable response such as “I do not like this soup” or “This soup is not my favourite.” Award 1 mark for an accurate dislike and 1 mark for respectful wording; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A suitable response such as “I do not like this soup” or “This soup is not my favourite.” Award 1 mark for an accurate dislike and 1 mark for respectful wording; 2 marks total.",
+    "correct": "A suitable response such as “I do not like this soup” or “This soup is not my favourite.” Award 1 mark for an accurate dislike and 1 mark for respectful wording; 2 marks total."
   },
   {
-    "id": "ac9efla02-05",
+    "id": "ac9efla02-p13",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "The class may sing “Rainy Day” or “Busy Bees”. Asha wants “Busy Bees”. Which response both states her choice and respects other choices?",
+    "explanation": "D — It states a preference without dismissing classmates.",
+    "printable": true,
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
     "answers": [
-      "explore different ways of using language to express preferences, likes and…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
+      "Busy Bees is the only good song.",
+      "Everyone must choose my song.",
+      "I refuse to sing anything.",
+      "I would prefer Busy Bees, but we can listen to both ideas."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "correct": 3
   },
   {
-    "id": "ac9efla02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "recognising the ways emotions and feelings can be conveyed in visual and…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "id": "ac9efla02-p14",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which playground activity does the speaker prefer? What words helped you know?",
+    "explanation": "The slide (1 mark); identifies “would choose … first” as the clue (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The slide (1 mark); identifies “would choose … first” as the clue (1 mark); 2 marks total.",
+    "correct": "The slide (1 mark); identifies “would choose … first” as the clue (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efla02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "recognising the ways emotions and feelings can be conveyed in visual and…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
+    "id": "ac9efla02-p19",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What does the speaker like, and what does the speaker like best?",
+    "explanation": "Likes painting (1 mark); likes clay best (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Likes painting (1 mark); likes clay best (1 mark); 2 marks total"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "correct": "Likes painting (1 mark); likes clay best (1 mark); 2 marks total"
   },
   {
-    "id": "ac9efla02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "explore different ways of using language to express preferences, likes and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA02: explore different ways of using language to express preferences, likes and…."
+    "id": "ac9efla02-p20",
+    "curriculumCode": "AC9EFLA02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Change Rui’s reply so it states Rui’s preference without putting down Kim’s choice. Explain why your version is better.",
+    "explanation": "1 mark for a respectful statement such as “I prefer dogs”; 1 mark for acknowledging different preferences, such as “We like different pets”; 1 mark for explaining that the revision avoids insulting Kim’s choice; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a respectful statement such as “I prefer dogs”; 1 mark for acknowledging different preferences, such as “We like different pets”; 1 mark for explaining that the revision avoids insulting Kim’s choice; 3 marks total.",
+    "correct": "1 mark for a respectful statement such as “I prefer dogs”; 1 mark for acknowledging different preferences, such as “We like different pets”; 1 mark for explaining that the revision avoids insulting Kim’s choice; 3 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

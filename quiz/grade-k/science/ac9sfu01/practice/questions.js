@@ -1,107 +1,105 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9sfu01-01",
+    "id": "ac9sfu01-p01",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which feature can be seen on the outside of the duck?",
+    "explanation": "A — Feathers are an external feature that can be observed without looking inside the animal.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "observe external features of plants and animals and describe ways they can be…",
-      "pose questions and make predictions based on experiences",
-      "engage in investigations safely and make observations using their senses",
-      "represent observations in provided templates and identify patterns with…"
+      "Feathers",
+      "A heartbeat",
+      "A stomach",
+      "Thoughts"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "correct": 0
   },
   {
-    "id": "ac9sfu01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare observations with predictions with guidance",
-      "observing fruits and vegetables and identifying them as parts of plants such…",
-      "share questions, predictions, observations and ideas with others",
-      "observing how toys move, and grouping them based on their movement"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p02",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each food to the plant part it is: root, leaf or fruit.",
+    "explanation": "Carrot → root; lettuce → leaf; apple → fruit. Award 1 mark each; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Carrot → root; lettuce → leaf; apple → fruit. Award 1 mark each; 3 marks total.",
+    "correct": "Carrot → root; lettuce → leaf; apple → fruit. Award 1 mark each; 3 marks total."
   },
   {
-    "id": "ac9sfu01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "observing and describing ways different and unusually shaped objects such as…",
-      "comparing the way different-sized, similar-shaped objects such as tennis…",
-      "recognising humans as animals, describing external features of humans and…",
-      "exploring how the material a ball is made from affects the way it moves, such…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p03",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Make a group with fur and a group without fur. Name the animals in each group and state the feature you used.",
+    "explanation": "Fur: cat, dog; without fur: lizard, parrot (2 marks); states body covering/fur as the grouping feature (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Fur: cat, dog; without fur: lizard, parrot (2 marks); states body covering/fur as the grouping feature (1 mark). 3 marks total.",
+    "correct": "Fur: cat, dog; without fur: lizard, parrot (2 marks); states body covering/fur as the grouping feature (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfu01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and manipulating objects to identify the materials they are made of…",
-      "recognising that tools such as magnifying glasses enable more-detailed…",
-      "sorting and grouping materials based on observed properties such as colour,…",
-      "using magnifying glasses or digital cameras to observe and identify external…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p04",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Name one external feature both have and one external feature that is different.",
+    "explanation": "Gives one observable similarity, such as eyes, mouth, legs or skin covering the body (1 mark), and one observable difference, such as 2 legs versus 4, hands versus paws, or body hair/fur pattern (1 mark). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives one observable similarity, such as eyes, mouth, legs or skin covering the body (1 mark), and one observable difference, such as 2 legs versus 4, hands versus paws, or body hair/fur pattern (1 mark). 2 marks total.",
+    "correct": "Gives one observable similarity, such as eyes, mouth, legs or skin covering the body (1 mark), and one observable difference, such as 2 legs versus 4, hands versus paws, or body hair/fur pattern (1 mark). 2 marks total."
   },
   {
-    "id": "ac9sfu01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "observe external features of plants and animals and describe ways they can be…",
-      "creating a display of different materials, naming each material and exploring…",
-      "using a digital camera to collect images of objects on a materials scavenger…",
-      "suggesting why different parts of everyday objects, such as saucepans and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p05",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What extra details can be observed with the magnifying glass? Why are these still external features?",
+    "explanation": "Names a magnified detail such as petal lines or pollen (1 mark); explains it is on the outside/surface and can be seen without opening the plant (1 mark). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Names a magnified detail such as petal lines or pollen (1 mark); explains it is on the outside/surface and can be seen without opening the plant (1 mark). 2 marks total.",
+    "correct": "Names a magnified detail such as petal lines or pollen (1 mark); explains it is on the outside/surface and can be seen without opening the plant (1 mark). 2 marks total."
   },
   {
-    "id": "ac9sfu01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "using their senses to make observations and exploring how scientists use…",
-      "sorting collections of model animals and explaining different grouping…",
-      "viewing examples of observations such as rock paintings, bark drawings,…",
-      "interacting with stories or documentaries about scientists such as Dame Jane…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p06",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Sort the animals in one way using a visible feature. Then sort the same animals in a different way and explain both rules.",
+    "explanation": "Gives one complete valid grouping and rule, such as wings/no wings (2 marks); gives a different valid grouping and rule, such as 2 legs/more than 2 legs or antennae/no antennae (2 marks). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives one complete valid grouping and rule, such as wings/no wings (2 marks); gives a different valid grouping and rule, such as 2 legs/more than 2 legs or antennae/no antennae (2 marks). 4 marks total.",
+    "correct": "Gives one complete valid grouping and rule, such as wings/no wings (2 marks); gives a different valid grouping and rule, such as 2 legs/more than 2 legs or antennae/no antennae (2 marks). 4 marks total."
   },
   {
-    "id": "ac9sfu01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "watching an age-appropriate documentary; noticing how people including…",
-      "posing questions based on experiences, such as: ‘What part of a plant is…",
-      "sorting collections of model animals and explaining different grouping…",
-      "posing questions about everyday objects and the materials that they may be…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p07",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Where could the platypus be placed? Explain two fair choices and suggest a way to show that it belongs to both groups.",
+    "explanation": "Places it in the fur group with evidence (1 mark); places it in the bill group with evidence (1 mark); recognises both choices follow the stated rules (1 mark); suggests overlapping circles, a copied picture in both groups or a note/link (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Places it in the fur group with evidence (1 mark); places it in the bill group with evidence (1 mark); recognises both choices follow the stated rules (1 mark); suggests overlapping circles, a copied picture in both groups or a note/link (1 mark). 4 marks total.",
+    "correct": "Places it in the fur group with evidence (1 mark); places it in the bill group with evidence (1 mark); recognises both choices follow the stated rules (1 mark); suggests overlapping circles, a copied picture in both groups or a note/link (1 mark). 4 marks total."
   },
   {
-    "id": "ac9sfu01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "making predictions before field work, such as which plants and animals they…",
-      "making predictions about how an unusually shaped object such as an egg or a…",
-      "discussing ways to conduct investigations safely, such as by being sun safe,…",
-      "observe external features of plants and animals and describe ways they can be…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFU01: observe external features of plants and animals and describe ways they can be…."
+    "id": "ac9sfu01-p08",
+    "curriculumCode": "AC9SFU01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Make a two-step sorting plan using only visible features so another child can sort all four plants. Explain what to check at each step.",
+    "explanation": "First uses a visible feature that divides the set, such as flowers present/not present (1 mark); uses a second visible feature, such as fruit, leaf shape or stem type, to separate items further (1 mark); assigns all 4 plants consistently (2 marks); describes observable checks rather than guesses about unseen parts (1 mark). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "First uses a visible feature that divides the set, such as flowers present/not present (1 mark); uses a second visible feature, such as fruit, leaf shape or stem type, to separate items further (1 mark); assigns all 4 plants consistently (2 marks); describes observable checks rather than guesses about unseen parts (1 mark). 5 marks total.",
+    "correct": "First uses a visible feature that divides the set, such as flowers present/not present (1 mark); uses a second visible feature, such as fruit, leaf shape or stem type, to separate items further (1 mark); assigns all 4 plants consistently (2 marks); describes observable checks rather than guesses about unseen parts (1 mark). 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

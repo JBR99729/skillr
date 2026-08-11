@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p01",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For a retell, which matters more: the main problem or the colour of an unimportant cup? Explain.",
+    "explanation": "Main problem; it drives the plot, while incidental cup colour can be omitted (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Main problem; it drives the plot, while incidental cup colour can be omitted (2 marks).",
+    "correct": "Main problem; it drives the plot, while incidental cup colour can be omitted (2 marks)."
   },
   {
-    "id": "ac9e1le05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "writing character descriptions",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p02",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match beginning, middle and ending to introduce, face/solve problem and show resolution.",
+    "explanation": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution (1 mark each).",
+    "correct": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution (1 mark each)."
   },
   {
-    "id": "ac9e1le05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "imitating a characteristic piece of speech or dialogue, or the attitudes or…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p03",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Using cards about a bird losing, searching for and finding a ribbon, orally retell the events in order.",
+    "explanation": "Includes character and all three events in logical order with sequence words (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Includes character and all three events in logical order with sequence words (3 marks).",
+    "correct": "Includes character and all three events in logical order with sequence words (3 marks)."
   },
   {
-    "id": "ac9e1le05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "discuss different texts and identify some features that indicate their…",
-      "retelling key events in stories using oral language, visual arts, digital…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p04",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Change a forest setting to an underwater setting. Name one character or object detail that must also change logically.",
+    "explanation": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle (2 marks).",
+    "correct": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle (2 marks)."
   },
   {
-    "id": "ac9e1le05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p05",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: problem appears; character introduced; solution tried; ending shows result.",
+    "explanation": "Character introduced → problem → attempt/solution → ending/result (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Character introduced → problem → attempt/solution → ending/result (2 marks).",
+    "correct": "Character introduced → problem → attempt/solution → ending/result (2 marks)."
   },
   {
-    "id": "ac9e1le05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "retelling key events in stories using oral language, visual arts, digital…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p06",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw beginning, problem, attempt and resolution for an original story about a missing lunchbox.",
+    "explanation": "Four coherent frames preserve character and causal plot order (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Four coherent frames preserve character and causal plot order (4 marks).",
+    "correct": "Four coherent frames preserve character and causal plot order (4 marks)."
   },
   {
-    "id": "ac9e1le05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "retelling key events in stories using oral language, visual arts, digital…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p07",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Replace went in ‘The rabbit went through the grass’ with a verb showing how it moves.",
+    "explanation": "Suitable verb such as hopped, bounded or crept, preserving meaning (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Suitable verb such as hopped, bounded or crept, preserving meaning (1 mark).",
+    "correct": "Suitable verb such as hopped, bounded or crept, preserving meaning (1 mark)."
   },
   {
-    "id": "ac9e1le05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "orally retell or adapt a familiar story using plot and characters, language…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE05: orally retell or adapt a familiar story using plot and characters, language…."
+    "id": "ac9e1le05-p08",
+    "curriculumCode": "AC9E1LE05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "When adapting a character from child to alien, name two plot relationships or events that could stay the same.",
+    "explanation": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable (3 marks).",
+    "correct": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

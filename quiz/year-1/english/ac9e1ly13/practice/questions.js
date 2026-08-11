@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly13-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "spell one- and two-syllable words with common letter patterns",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly13-p01",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write the word made by adding m to the beginning of -at.",
+    "explanation": "Mat (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Mat (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "correct": "Mat (1 mark)"
   },
   {
-    "id": "ac9e1ly13-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "writing one- and two-syllable words containing known blends; for example,…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "id": "ac9e1ly13-p02",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match -ake, -ight and -ain to cake, light and rain.",
+    "explanation": "Each pattern matched correctly (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each pattern matched correctly (1 mark each).",
+    "correct": "Each pattern matched correctly (1 mark each)."
   },
   {
-    "id": "ac9e1ly13-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "writing one- and two-syllable words containing known blends; for example,…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "id": "ac9e1ly13-p03",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use letter tiles to spell stop, keeping both beginning sounds.",
+    "explanation": "s-t-o-p in correct order, with st blend retained (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "s-t-o-p in correct order, with st blend retained (2 marks).",
+    "correct": "s-t-o-p in correct order, with st blend retained (2 marks)."
   },
   {
-    "id": "ac9e1ly13-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "writing one- and two-syllable words containing known blends; for example,…"
+    "id": "ac9e1ly13-p04",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Split and spell picnic by its two spoken syllables.",
+    "explanation": "Pic/nic → picnic (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Pic/nic → picnic (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "correct": "Pic/nic → picnic (2 marks)"
   },
   {
-    "id": "ac9e1ly13-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "spell one- and two-syllable words with common letter patterns",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "id": "ac9e1ly13-p05",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: segment word; say word; write patterns; reread/check.",
+    "explanation": "Say → segment → write → reread/check (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Say → segment → write → reread/check (2 marks).",
+    "correct": "Say → segment → write → reread/check (2 marks)."
   },
   {
-    "id": "ac9e1ly13-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "writing one- and two-syllable words containing known blends; for example,…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "id": "ac9e1ly13-p06",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Create a -op word-family house containing hop, mop and stop. Highlight the shared chunk.",
+    "explanation": "All three words spelled correctly and -op highlighted (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "All three words spelled correctly and -op highlighted (3 marks).",
+    "correct": "All three words spelled correctly and -op highlighted (3 marks)."
   },
   {
-    "id": "ac9e1ly13-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "create and deliver short oral and/or multimodal presentations on personal and…",
-      "write words using unjoined lower-case and upper-case letters",
-      "writing one- and two-syllable words containing known blends; for example,…",
-      "segment words into separate phonemes (sounds) including consonant blends or…"
+    "id": "ac9e1ly13-p07",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A student spells black as back. Which sound/letter from the blend is missing?",
+    "explanation": "/l/ and letter l are missing from bl (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "/l/ and letter l are missing from bl (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "correct": "/l/ and letter l are missing from bl (2 marks)"
   },
   {
-    "id": "ac9e1ly13-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "orally manipulate phonemes in spoken words by addition, deletion and…",
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY13: spell one- and two-syllable words with common letter patterns."
+    "id": "ac9e1ly13-p08",
+    "curriculumCode": "AC9E1LY13",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Spell bedroom by joining two familiar one-syllable words. State both parts.",
+    "explanation": "Bed + room = bedroom (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Bed + room = bedroom (3 marks).",
+    "correct": "Bed + room = bedroom (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

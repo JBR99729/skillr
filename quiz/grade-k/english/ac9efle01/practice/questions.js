@@ -1,107 +1,105 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efle01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p01",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Share one part of Mina’s outing that is similar to or different from an outing you have had.",
+    "explanation": "Identifies a specific story detail (1 mark) and states a relevant similarity or difference from their experience (1 mark). Accept a connection to an observed or imagined family outing if the child prefers not to share personal information. 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies a specific story detail (1 mark) and states a relevant similarity or difference from their experience (1 mark). Accept a connection to an observed or imagined family outing if the child prefers not to share personal information. 2 marks total.",
+    "correct": "Identifies a specific story detail (1 mark) and states a relevant similarity or difference from their experience (1 mark). Accept a connection to an observed or imagined family outing if the child prefers not to share personal information. 2 marks total."
   },
   {
-    "id": "ac9efle01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "engaging with texts that reflect the social and cultural groups to which…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p02",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What does this image show about the family’s everyday life?",
+    "explanation": "States one visible detail, such as the food, utensils, shared meal or table (1 mark), and links it to a family routine or way of eating together (1 mark). Do not assess whether the routine matches the child’s own family. 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "States one visible detail, such as the food, utensils, shared meal or table (1 mark), and links it to a family routine or way of eating together (1 mark). Do not assess whether the routine matches the child’s own family. 2 marks total.",
+    "correct": "States one visible detail, such as the food, utensils, shared meal or table (1 mark), and links it to a family routine or way of eating together (1 mark). Do not assess whether the routine matches the child’s own family. 2 marks total."
   },
   {
-    "id": "ac9efle01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "recognise different types of literary texts and identify features including…",
-      "comparing experiences depicted in stories by wide-ranging world authors with…",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p03",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Name one detail about Arlo’s home. Then say how that detail is similar to or different from a home you know.",
+    "explanation": "Gives one accurate story detail (1 mark) and a clear similarity or difference connected to that detail (1 mark). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives one accurate story detail (1 mark) and a clear similarity or difference connected to that detail (1 mark). 2 marks total.",
+    "correct": "Gives one accurate story detail (1 mark) and a clear similarity or difference connected to that detail (1 mark). 2 marks total."
   },
   {
-    "id": "ac9efle01-04",
+    "id": "ac9efle01-p04",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which response best shares an idea about Tia’s experience?",
+    "explanation": "C — It connects Tia’s feeling and event with a relevant experience.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "engaging with texts that portray Australian family life in different settings…"
+      "The book has twelve pages.",
+      "Tia is a word with four letters.",
+      "Tia is worried; I felt that way when something was new for me.",
+      "Schools have doors and windows."
     ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "correct": 2
   },
   {
-    "id": "ac9efle01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p05",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "How does the speaker feel about the rain? Give one clue from the poem and say whether rain has ever made you feel the same or different.",
+    "explanation": "Identifies an supported feeling such as excited, playful or happy (1 mark); cites a clue such as “splash”, “race” or the lively actions (1 mark); makes a relevant same/different connection (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies an supported feeling such as excited, playful or happy (1 mark); cites a clue such as “splash”, “race” or the lively actions (1 mark); makes a relevant same/different connection (1 mark). 3 marks total.",
+    "correct": "Identifies an supported feeling such as excited, playful or happy (1 mark); cites a clue such as “splash”, “race” or the lively actions (1 mark); makes a relevant same/different connection (1 mark). 3 marks total."
   },
   {
-    "id": "ac9efle01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "identifying some features of culture that are revealed by characters and…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p06",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How do the settings make Jo’s and Max’s everyday activities different?",
+    "explanation": "Connects Jo’s coastal/urban setting to walking to the beach (1 mark) and Max’s rural setting to crossing a paddock or caring for hens (1 mark). 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Connects Jo’s coastal/urban setting to walking to the beach (1 mark) and Max’s rural setting to crossing a paddock or caring for hens (1 mark). 2 marks total.",
+    "correct": "Connects Jo’s coastal/urban setting to walking to the beach (1 mark) and Max’s rural setting to crossing a paddock or caring for hens (1 mark). 2 marks total."
   },
   {
-    "id": "ac9efle01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "identifying some features of culture that are revealed by characters and…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p07",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain what this passage shows about Ivo’s family routine. Compare two details with a meal routine you know.",
+    "explanation": "Explains that the family shares preparation/eats together (1 mark); identifies 2 accurate passage details (2 marks); gives a relevant comparison for each detail, stating same or different (2 marks). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Explains that the family shares preparation/eats together (1 mark); identifies 2 accurate passage details (2 marks); gives a relevant comparison for each detail, stating same or different (2 marks). 5 marks total.",
+    "correct": "Explains that the family shares preparation/eats together (1 mark); identifies 2 accurate passage details (2 marks); gives a relevant comparison for each detail, stating same or different (2 marks). 5 marks total."
   },
   {
-    "id": "ac9efle01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "share ideas about stories, poems and images in literature, reflecting on…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE01: share ideas about stories, poems and images in literature, reflecting on…."
+    "id": "ac9efle01-p08",
+    "curriculumCode": "AC9EFLE01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Share one idea about Niko’s morning. Use one clue from the words and one from the picture, then make a connection to a journey you know.",
+    "explanation": "Gives a sensible idea, such as Niko is hurrying to catch transport (1 mark); uses a word clue (1 mark); uses an image clue (1 mark); makes a relevant same/different connection (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives a sensible idea, such as Niko is hurrying to catch transport (1 mark); uses a word clue (1 mark); uses an image clue (1 mark); makes a relevant same/different connection (1 mark). 4 marks total.",
+    "correct": "Gives a sensible idea, such as Niko is hurrying to catch transport (1 mark); uses a word clue (1 mark); uses an image clue (1 mark); makes a relevant same/different connection (1 mark). 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

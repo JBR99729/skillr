@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly08-p01",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which letter should begin the name maya when written correctly?",
+    "explanation": "Upper-case M (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Upper-case M (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "correct": "Upper-case M (1 mark)"
   },
   {
-    "id": "ac9e1ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "continuing to develop a functional pencil grip/grasp",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p02",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match A, G and T to a, g and t.",
+    "explanation": "A ↔ a; G ↔ g; T ↔ t (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A ↔ a; G ↔ g; T ↔ t (1 mark each).",
+    "correct": "A ↔ a; G ↔ g; T ↔ t (1 mark each)."
   },
   {
-    "id": "ac9e1ly08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "continuing to develop a functional pencil grip/grasp",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p03",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Write the word map using separate lower-case letters on the line.",
+    "explanation": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently (3 marks).",
+    "correct": "Letters m-a-p are unjoined, correctly ordered, recognisable and placed consistently (3 marks)."
   },
   {
-    "id": "ac9e1ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "continuing to develop a functional pencil grip/grasp"
+    "id": "ac9e1ly08-p04",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Rewrite thereddog as three readable words.",
+    "explanation": "the red dog, with clear spaces and recognisable letters (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "the red dog, with clear spaces and recognisable letters (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "correct": "the red dog, with clear spaces and recognisable letters (2 marks)"
   },
   {
-    "id": "ac9e1ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p05",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: check spacing; choose correct case; form each letter separately; reread the word.",
+    "explanation": "Choose case → form separate letters → check spacing → reread (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Choose case → form separate letters → check spacing → reread (2 marks).",
+    "correct": "Choose case → form separate letters → check spacing → reread (2 marks)."
   },
   {
-    "id": "ac9e1ly08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "continuing to develop a functional pencil grip/grasp",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p06",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Copy ‘Ben has a kite’ using a capital at the start/name, lower-case letters elsewhere and spaces.",
+    "explanation": "Accurate case, unjoined legible forms and three word spaces (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Accurate case, unjoined legible forms and three word spaces (4 marks).",
+    "correct": "Accurate case, unjoined legible forms and three word spaces (4 marks)."
   },
   {
-    "id": "ac9e1ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "create and deliver short oral and/or multimodal presentations on personal and…",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "continuing to develop a functional pencil grip/grasp",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p07",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A student writes aPPle in the middle of a sentence. Explain and correct the case.",
+    "explanation": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals (2 marks).",
+    "correct": "apple; ordinary word uses lower-case letters unless at sentence start, not internal capitals (2 marks)."
   },
   {
-    "id": "ac9e1ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "write words using unjoined lower-case and upper-case letters"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY08: write words using unjoined lower-case and upper-case letters."
+    "id": "ac9e1ly08-p08",
+    "curriculumCode": "AC9E1LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why equal spacing inside letters, clear word spaces and consistent size help a reader.",
+    "explanation": "They distinguish letters/words, prevent crowding or splitting and make recognition easier (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They distinguish letters/words, prevent crowding or splitting and make recognition easier (3 marks).",
+    "correct": "They distinguish letters/words, prevent crowding or splitting and make recognition easier (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1le03-p01",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "‘At sunrise, Kian waits beside the river.’ State the setting.",
+    "explanation": "Beside the river at sunrise (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Beside the river at sunrise (2 marks)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "correct": "Beside the river at sunrise (2 marks)"
   },
   {
-    "id": "ac9e1le03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "recognising similar characters and settings in different types of literary…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p02",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match character, setting and plot to who, where/when and connected events.",
+    "explanation": "Character ↔ who; setting ↔ where/when; plot ↔ events (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Character ↔ who; setting ↔ where/when; plot ↔ events (1 mark each).",
+    "correct": "Character ↔ who; setting ↔ where/when; plot ↔ events (1 mark each)."
   },
   {
-    "id": "ac9e1le03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "discussing whether features of settings including time (year, season) and…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p03",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "A character wants to reach a high shelf safely. Demonstrate or explain one action that could move the plot toward the goal.",
+    "explanation": "Gives a safe, character-led action such as asking an adult, linked to goal (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives a safe, character-led action such as asking an adult, linked to goal (2 marks).",
+    "correct": "Gives a safe, character-led action such as asking an adult, linked to goal (2 marks)."
   },
   {
-    "id": "ac9e1le03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "discussing how plots develop, including beginnings (orientation), how the…"
+    "id": "ac9e1le03-p04",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Mara brings a picnic, but wind blows away the map. What is the story problem?",
+    "explanation": "The map is blown away/lost, making navigation difficult (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "The map is blown away/lost, making navigation difficult (1 mark)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "correct": "The map is blown away/lost, making navigation difficult (1 mark)"
   },
   {
-    "id": "ac9e1le03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p05",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: key is found under a pot; gate is locked; friends search; they enter the garden.",
+    "explanation": "Gate locked → search → key found → enter garden (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gate locked → search → key found → enter garden (2 marks).",
+    "correct": "Gate locked → search → key found → enter garden (2 marks)."
   },
   {
-    "id": "ac9e1le03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "discussing how plots develop, including beginnings (orientation), how the…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p06",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a setting for a story at night in a train station. Label two details showing where or when.",
+    "explanation": "Two clear location/time clues such as platform, tracks, clock, darkness or lights (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two clear location/time clues such as platform, tracks, clock, darkness or lights (3 marks).",
+    "correct": "Two clear location/time clues such as platform, tracks, clock, darkness or lights (3 marks)."
   },
   {
-    "id": "ac9e1le03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "discussing how plots develop, including beginnings (orientation), how the…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p07",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How might a very patient character act differently from an impatient character when a bus is late?",
+    "explanation": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events (2 marks).",
+    "correct": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events (2 marks)."
   },
   {
-    "id": "ac9e1le03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE03: discuss plot, character and setting, which are features of stories."
+    "id": "ac9e1le03-p08",
+    "curriculumCode": "AC9E1LE03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Create a one-sentence story idea naming a character, setting and a problem that starts the plot.",
+    "explanation": "All three features are explicit and logically connected (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "All three features are explicit and logically connected (3 marks).",
+    "correct": "All three features are explicit and logically connected (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

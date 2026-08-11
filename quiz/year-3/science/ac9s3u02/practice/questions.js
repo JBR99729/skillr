@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3u02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare the observable properties of soils, rocks and minerals and…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p01",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in soils, rocks and minerals?",
+    "explanation": "Rocks and minerals have observable properties such as colour, texture, hardness, grain size and layering. Soil is a mixture of tiny rock pieces, minerals and once-living material.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rocks and minerals have observable properties such as colour, texture, hardness, grain size and layering. Soil is a mixture of tiny rock pieces, minerals and once-living material.",
+    "correct": "Rocks and minerals have observable properties such as colour, texture, hardness, grain size and layering. Soil is a mixture of tiny rock pieces, minerals and once-living material."
   },
   {
-    "id": "ac9s3u02-02",
+    "id": "ac9s3u02-p02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: rock, perimeter or apostrophe?",
+    "explanation": "rock.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "rock",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "correct": 0
   },
   {
-    "id": "ac9s3u02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p03",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: rock, mineral, soil, texture, hardness, grain.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3u02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p04",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of soils, rocks and minerals.",
+    "explanation": "Sandy soil feels gritty and drains quickly; clay soil feels sticky and holds water.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Sandy soil feels gritty and drains quickly; clay soil feels sticky and holds water.",
+    "correct": "Sandy soil feels gritty and drains quickly; clay soil feels sticky and holds water."
   },
   {
-    "id": "ac9s3u02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare the observable properties of soils, rocks and minerals and…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "recognising that changes in heat energy can be measured using a thermometer",
-      "observing and, with assistance, measuring, what happens when a cold object is…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p05",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for soils, rocks and minerals.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3u02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "modelling the movement of heat from one object to another using drawing or…",
-      "identifying rocks as key components of the built and natural environment and…",
-      "investigating how well heat is transferred by different types of materials…",
-      "observing the properties of substances and classifying them as solids (that…"
+    "id": "ac9s3u02-p06",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating soils, rocks and minerals, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3u02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating ice melting or water freezing in a sealed bag and explaining…",
-      "using ice cubes, butter or chocolate to explore how changes of state involve…",
-      "describing ways in which living things including humans depend on soils, such…",
-      "exploring how changes from solid to liquid and liquid to solid can help us…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p07",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about soils, rocks and minerals.",
+    "explanation": "All rocks are not the same just because they are hard.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "All rocks are not the same just because they are hard.",
+    "correct": "All rocks are not the same just because they are hard."
   },
   {
-    "id": "ac9s3u02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "investigating the stories of people who used multiple observations to develop…",
-      "exploring how farmers use soil tests to monitor and manage the health of farms",
-      "investigate how 18th-century physicists such as Jean Ingenhousz and Sir…",
-      "compare the observable properties of soils, rocks and minerals and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3U02: compare the observable properties of soils, rocks and minerals and…."
+    "id": "ac9s3u02-p08",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about soils, rocks and minerals.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

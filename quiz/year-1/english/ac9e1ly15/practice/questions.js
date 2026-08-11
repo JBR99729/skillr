@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly15-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and know how to use grammatical morphemes to create word families",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly15-p01",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What base word is inside played?",
+    "explanation": "Play (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Play (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "correct": "Play (1 mark)"
   },
   {
-    "id": "ac9e1ly15-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "building word families from common morphemes; for example, “play”, “plays”,…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p02",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match -s, -ed and -ing in plays, played and playing to one actor/present form, past and ongoing action.",
+    "explanation": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing (1 mark each).",
+    "correct": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing (1 mark each)."
   },
   {
-    "id": "ac9e1ly15-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "using morphemes to read words; for example, by recognising the base word in…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p03",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use tiles to make jump, jumps, jumped and jumping. Read each word.",
+    "explanation": "All four forms constructed/read accurately with base jump retained (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "All four forms constructed/read accurately with base jump retained (4 marks).",
+    "correct": "All four forms constructed/read accurately with base jump retained (4 marks)."
   },
   {
-    "id": "ac9e1ly15-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "using morphemes to read words; for example, by recognising the base word in…"
+    "id": "ac9e1ly15-p04",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Complete ‘Yesterday we __ in puddles’ using jump, jumped or jumping.",
+    "explanation": "Jumped (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Jumped (1 mark)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "correct": "Jumped (1 mark)"
   },
   {
-    "id": "ac9e1ly15-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and know how to use grammatical morphemes to create word families",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p05",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these from base to added endings: looking, look, looked, looks.",
+    "explanation": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base (2 marks).",
+    "correct": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base (2 marks)."
   },
   {
-    "id": "ac9e1ly15-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "using morphemes to read words; for example, by recognising the base word in…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p06",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw read at the trunk and add reads, reading and reader as branches. Label the added parts.",
+    "explanation": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun (4 marks).",
+    "correct": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun (4 marks)."
   },
   {
-    "id": "ac9e1ly15-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "create and deliver short oral and/or multimodal presentations on personal and…",
-      "write words using unjoined lower-case and upper-case letters",
-      "using morphemes to read words; for example, by recognising the base word in…",
-      "segment words into separate phonemes (sounds) including consonant blends or…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p07",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How are walk and walked related, and what new meaning does -ed add?",
+    "explanation": "Both name walking action; -ed places it in the past/completed time (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both name walking action; -ed places it in the past/completed time (2 marks).",
+    "correct": "Both name walking action; -ed places it in the past/completed time (2 marks)."
   },
   {
-    "id": "ac9e1ly15-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "orally manipulate phonemes in spoken words by addition, deletion and…",
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "recognise and know how to use grammatical morphemes to create word families"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY15: recognise and know how to use grammatical morphemes to create word families."
+    "id": "ac9e1ly15-p08",
+    "curriculumCode": "AC9E1LY15",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Use plays and played in two sentences that make their time meanings clear.",
+    "explanation": "Two grammatical sentences showing present/habitual versus past action (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two grammatical sentences showing present/habitual versus past action (3 marks).",
+    "correct": "Two grammatical sentences showing present/habitual versus past action (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

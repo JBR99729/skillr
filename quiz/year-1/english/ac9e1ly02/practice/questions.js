@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly02-p01",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What should you do when another person is speaking in a group?",
+    "explanation": "Listen without interrupting and wait for an appropriate turn (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Listen without interrupting and wait for an appropriate turn (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "correct": "Listen without interrupting and wait for an appropriate turn (1 mark)"
   },
   {
-    "id": "ac9e1ly02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "using turn-taking in group and pair work",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p02",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match clear speaking, active listening and response to audible words, remembering the idea and ‘I agree because…’.",
+    "explanation": "Each skill matched to its example (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each skill matched to its example (1 mark each).",
+    "correct": "Each skill matched to its example (1 mark each)."
   },
   {
-    "id": "ac9e1ly02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "building a conversation by staying on topic, supporting other speakers,…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p03",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Listen to ‘I think we should sort by size’ and give a reply that refers to the idea.",
+    "explanation": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully (2 marks).",
+    "correct": "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully (2 marks)."
   },
   {
-    "id": "ac9e1ly02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "participating in informal and structured class, group and pair discussions…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p04",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "After someone says ‘The plant near the window grew taller’, ask a relevant follow-up question.",
+    "explanation": "Example: ‘Did both plants receive the same water?’ or ‘How much taller?’ (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example: ‘Did both plants receive the same water?’ or ‘How much taller?’ (2 marks).",
+    "correct": "Example: ‘Did both plants receive the same water?’ or ‘How much taller?’ (2 marks)."
   },
   {
-    "id": "ac9e1ly02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "discuss different texts and identify some features that indicate their…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p05",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: listen; signal or wait; speak clearly; invite/allow next speaker.",
+    "explanation": "Listen → wait/signal → speak → yield turn (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Listen → wait/signal → speak → yield turn (2 marks).",
+    "correct": "Listen → wait/signal → speak → yield turn (2 marks)."
   },
   {
-    "id": "ac9e1ly02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "interacting appropriately with peers, teachers and visitors",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p06",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a three-panel group discussion showing speaker, active listener and next turn. Add one label in each panel.",
+    "explanation": "Panels show clear role changes and behaviours such as listen, respond, wait (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Panels show clear role changes and behaviours such as listen, respond, wait (3 marks).",
+    "correct": "Panels show clear role changes and behaviours such as listen, respond, wait (3 marks)."
   },
   {
-    "id": "ac9e1ly02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "formulating different types of questions to ask a speaker, such as open and…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p07",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A speaker explains a book ending. The reply is ‘I had cereal.’ Rewrite the reply so it connects.",
+    "explanation": "A relevant response about the ending, character, feeling or question (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant response about the ending, character, feeling or question (2 marks).",
+    "correct": "A relevant response about the ending, character, feeling or question (2 marks)."
   },
   {
-    "id": "ac9e1ly02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "use interaction skills including turn-taking, speaking clearly, using active…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY02: use interaction skills including turn-taking, speaking clearly, using active…."
+    "id": "ac9e1ly02-p08",
+    "curriculumCode": "AC9E1LY02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group already says a bridge must be strong. Add a different relevant design idea and explain it.",
+    "explanation": "Adds a new feature such as width, stability or material with connected reason (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Adds a new feature such as width, stability or material with connected reason (3 marks).",
+    "correct": "Adds a new feature such as width, stability or material with connected reason (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

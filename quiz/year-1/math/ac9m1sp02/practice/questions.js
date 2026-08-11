@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1sp02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "give and follow directions to move people and objects to different locations…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1sp02-p01",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A robot faces north. It moves 2 squares forward. Describe its movement and final relative position.",
+    "explanation": "Moves 2 squares north/forward from its start (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Moves 2 squares north/forward from its start (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "correct": "Moves 2 squares north/forward from its start (1 mark)"
   },
   {
-    "id": "ac9m1sp02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "interpreting and following directions around familiar locations, and…",
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "compare directly and indirectly and order objects and events using attributes…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p02",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match forward, turn left and behind to straight ahead, rotate to the left side and at the back of.",
+    "explanation": "Each term matches its stated spatial meaning (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each term matches its stated spatial meaning (1 mark each).",
+    "correct": "Each term matches its stated spatial meaning (1 mark each)."
   },
   {
-    "id": "ac9m1sp02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "measure the length of shapes and objects using informal units, recognising…",
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "creating and following an algorithm consisting of a set of instructions to…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p03",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "From a marked start, take 3 steps forward, turn left and take 1 step. State the landmark reached.",
+    "explanation": "Follows the route accurately and names the marked destination (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Follows the route accurately and names the marked destination (2 marks).",
+    "correct": "Follows the route accurately and names the marked destination (2 marks)."
   },
   {
-    "id": "ac9m1sp02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "following directions to move people into different positions within a line…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p04",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A toy is one square right of the start. Write one clear direction to reach it.",
+    "explanation": "Move 1 square right, with the starting facing direction clear if needed (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Move 1 square right, with the starting facing direction clear if needed (1 mark).",
+    "correct": "Move 1 square right, with the starting facing direction clear if needed (1 mark)."
   },
   {
-    "id": "ac9m1sp02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "give and follow directions to move people and objects to different locations…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p05",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these cards: reach the tree; move 2 steps; face the tree; stop and check.",
+    "explanation": "Face tree → move 2 steps → reach tree → stop/check (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Face tree → move 2 steps → reach tree → stop/check (2 marks).",
+    "correct": "Face tree → move 2 steps → reach tree → stop/check (2 marks)."
   },
   {
-    "id": "ac9m1sp02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "describing a familiar journey across Country/Place using directional language",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p06",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "On a 4-by-4 grid, draw a route from the bottom-left square to the square 2 up and 1 right.",
+    "explanation": "Route has two upward moves and one right move in any valid order and reaches the target (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Route has two upward moves and one right move in any valid order and reaches the target (2 marks).",
+    "correct": "Route has two upward moves and one right move in any valid order and reaches the target (2 marks)."
   },
   {
-    "id": "ac9m1sp02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "describing a familiar journey across Country/Place using directional language",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p07",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Kai faces the board, then turns around. Explain why the window that was on his left is now on his right.",
+    "explanation": "Turning changes Kai's facing direction, so his body-relative left/right reverse (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Turning changes Kai's facing direction, so his body-relative left/right reverse (2 marks).",
+    "correct": "Turning changes Kai's facing direction, so his body-relative left/right reverse (2 marks)."
   },
   {
-    "id": "ac9m1sp02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1SP02: give and follow directions to move people and objects to different locations…."
+    "id": "ac9m1sp02-p08",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Write directions from the classroom door to a desk using a start, at least one turn, a step count and a landmark check.",
+    "explanation": "Includes all four features in a route that can be followed without guessing (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Includes all four features in a route that can be followed without guessing (4 marks).",
+    "correct": "Includes all four features in a route that can be followed without guessing (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

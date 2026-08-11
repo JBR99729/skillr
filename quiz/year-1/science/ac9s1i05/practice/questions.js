@@ -1,107 +1,103 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1i05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare observations with predictions and others’ observations, consider if…",
-      "describe how people use science in their daily lives, including using…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…"
+    "id": "ac9s1i05-p01",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Prediction: the red car will travel farther. Result: the blue car travels farther. Did they match?",
+    "explanation": "No; the observed result was the opposite of the prediction (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "No; the observed result was the opposite of the prediction (1 mark)",
+      "No"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "correct": "No; the observed result was the opposite of the prediction (1 mark)"
   },
   {
-    "id": "ac9s1i05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "make and record observations, including informal measurements, using digital…",
-      "comparing observations with those of others, such as how many birds each…",
-      "sort and order data and information and represent patterns, including with…",
-      "write and create texts to communicate observations, findings and ideas, using…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p02",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match car, surface and start line to use same car, same surface and same start when testing push strength.",
+    "explanation": "Each factor matches its keep-the-same control (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each factor matches its keep-the-same control (1 mark each).",
+    "correct": "Each factor matches its keep-the-same control (1 mark each)."
   },
   {
-    "id": "ac9s1i05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying the places where plants and animals live, including in our homes,…",
-      "identifying what they do to look after pets or plants at home and grouping…",
-      "exploring if making weather observations at different times of day makes a…",
-      "identifying and comparing the needs of a variety of plants and animals,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p03",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Perform or inspect three same-condition ramp trials and record whether the distances are similar or varied.",
+    "explanation": "Records all three trials and gives an accurate comparison rather than selecting only one (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Records all three trials and gives an accurate comparison rather than selecting only one (3 marks).",
+    "correct": "Records all three trials and gives an accurate comparison rather than selecting only one (3 marks)."
   },
   {
-    "id": "ac9s1i05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "creating dioramas of a place a plant or animal lives, and identifying the…",
-      "exploring why caring for plants and animals is important including as sources…",
-      "making and recording observations of phenomena such as changes to weather,…",
-      "comparing observations of movement with predictions, such as how far an…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p04",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "One ice cube is large in shade and one is small in sun. Why can the test not show the effect of location alone?",
+    "explanation": "Both size and location changed, so size may also affect melting (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Both size and location changed, so size may also affect melting (2 marks).",
+    "correct": "Both size and location changed, so size may also affect melting (2 marks)."
   },
   {
-    "id": "ac9s1i05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare observations with predictions and others’ observations, consider if…",
-      "noticing how daily weather indicators and seasonal patterns help us to make…",
-      "investigating how seasonal changes affect plants and animals, including…",
-      "investigating how changes in the weather affect plants and animals, including…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p05",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: record result; compare with prediction; compare classmates' observations; ask a new question.",
+    "explanation": "Record → compare with prediction → compare others → pose further question (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Record → compare with prediction → compare others → pose further question (2 marks).",
+    "correct": "Record → compare with prediction → compare others → pose further question (2 marks)."
   },
   {
-    "id": "ac9s1i05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "exploring how people make clothing choices using predictions of weather or…",
-      "exploring if all ‘big’ pushes are the same by comparing how far an object…",
-      "observing and manipulating everyday objects such as playground equipment,…",
-      "investigating how the design of age-appropriate sporting equipment such as…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p06",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw two identical toy cars at the same start line on two labelled surfaces. Mark the one factor being compared.",
+    "explanation": "Cars/start are same and only surface differs, clearly labelled (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cars/start are same and only surface differs, clearly labelled (3 marks).",
+    "correct": "Cars/start are same and only surface differs, clearly labelled (3 marks)."
   },
   {
-    "id": "ac9s1i05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that pushing or pulling on an object can start or stop its motion…",
-      "exploring ways the shape of playdough can be changed when pushed or pulled",
-      "exploring if all ‘big’ pushes are the same by comparing how far an object…",
-      "designing playground equipment, toys or games and representing push and pull…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p07",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Two groups record 9 blocks and 11 blocks for similar trials. Give one sensible reason to check without saying either group lied.",
+    "explanation": "Check release, start, unit placement, surface or recording; difference may come from procedure/measurement variation (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check release, start, unit placement, surface or recording; difference may come from procedure/measurement variation (2 marks).",
+    "correct": "Check release, start, unit placement, surface or recording; difference may come from procedure/measurement variation (2 marks)."
   },
   {
-    "id": "ac9s1i05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring how traditional Asian toys and games such as a kendama, Daruma…",
-      "learning from farmers, bush care volunteers, gardeners or nursery owners…",
-      "identifying ways that science knowledge is used in the care of the local…",
-      "compare observations with predictions and others’ observations, consider if…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1I05: compare observations with predictions and others’ observations, consider if…."
+    "id": "ac9s1i05-p08",
+    "curriculumCode": "AC9S1I05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A plant near the window grew taller than one farther away. Write a next question that investigates light more fairly.",
+    "explanation": "Example: With same plant type, water and pot, does distance from the same window affect growth? (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example: With same plant type, water and pot, does distance from the same window affect growth? (3 marks).",
+    "correct": "Example: With same plant type, water and pot, does distance from the same window affect growth? (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

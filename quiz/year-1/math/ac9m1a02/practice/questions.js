@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1a02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1a02-p01",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Continue: circle, square, circle, square, __. Name the repeating unit.",
+    "explanation": "Circle; unit is circle–square (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Circle; unit is circle–square (2 marks)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "correct": "Circle; unit is circle–square (2 marks)"
   },
   {
-    "id": "ac9m1a02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "interpreting a repeating pattern sequence created by someone else, noticing…",
-      "compare directly and indirectly and order objects and events using attributes…",
-      "measure the length of shapes and objects using informal units, recognising…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p02",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match red-blue-red-blue; clap-stamp-stamp-clap-stamp-stamp; and 1-2-3-1-2-3 to units red-blue, clap-stamp-stamp and 1-2-3.",
+    "explanation": "Each pattern matches the stated smallest cycle (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each pattern matches the stated smallest cycle (1 mark each).",
+    "correct": "Each pattern matches the stated smallest cycle (1 mark each)."
   },
   {
-    "id": "ac9m1a02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "generalising a repeating pattern by identifying the unit of repeat and…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p03",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use shape cards to make three repeats of triangle, triangle, star.",
+    "explanation": "Shows triangle-triangle-star three times in the same order (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows triangle-triangle-star three times in the same order (2 marks).",
+    "correct": "Shows triangle-triangle-star three times in the same order (2 marks)."
   },
   {
-    "id": "ac9m1a02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "recognising within the sequencing of natural numbers that 0 - 9 digits are…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p04",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The pattern is A, B, B, A, B, A. Which final item should change, and to what?",
+    "explanation": "The final A should be B to repeat A-B-B (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The final A should be B to repeat A-B-B (2 marks).",
+    "correct": "The final A should be B to repeat A-B-B (2 marks)."
   },
   {
-    "id": "ac9m1a02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p05",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "A pattern strip shows moon, sun, star repeated. Order the loose cards sun, moon, star to form the unit from its beginning.",
+    "explanation": "Moon, sun, star (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Moon, sun, star (1 mark).",
+    "correct": "Moon, sun, star (1 mark)."
   },
   {
-    "id": "ac9m1a02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "collaboratively creating a repeating geometric pattern using dynamic…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p06",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw the next four items after square, circle, circle, square, circle, circle.",
+    "explanation": "Square, circle, circle, square (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Square, circle, circle, square (2 marks).",
+    "correct": "Square, circle, circle, square (2 marks)."
   },
   {
-    "id": "ac9m1a02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "collaboratively creating a repeating geometric pattern using dynamic…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p07",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Mila says the unit in 2,4,2,4,2,4 is 2,4,2,4. Give the smallest unit and explain.",
+    "explanation": "Smallest unit is 2,4 because it alone repeats to make the full sequence (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Smallest unit is 2,4 because it alone repeats to make the full sequence (2 marks).",
+    "correct": "Smallest unit is 2,4 because it alone repeats to make the full sequence (2 marks)."
   },
   {
-    "id": "ac9m1a02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "recognise, continue and create repeating patterns with numbers, symbols,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1A02: recognise, continue and create repeating patterns with numbers, symbols,…."
+    "id": "ac9m1a02-p08",
+    "curriculumCode": "AC9M1A02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Create a repeating pattern that changes both shape and size, show three repeats and mark the unit.",
+    "explanation": "A valid consistent unit uses both features, repeats three times and is clearly marked (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid consistent unit uses both features, repeats three times and is clearly marked (3 marks).",
+    "correct": "A valid consistent unit uses both features, repeats three times and is clearly marked (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

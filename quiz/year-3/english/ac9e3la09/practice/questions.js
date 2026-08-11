@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la09-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify how images extend the meaning of a text",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "id": "ac9e3la09-p01",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A story page says \"The camp was quiet.\" The picture shows dark clouds and a broken tent. What extra meaning does the image add?",
+    "explanation": "It suggests trouble or worry at the camp.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It suggests trouble or worry at the camp.",
+    "correct": "It suggests trouble or worry at the camp."
   },
   {
-    "id": "ac9e3la09-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "recognising how the relationship between characters can be depicted in images…",
-      "understand that verbs are anchored in time through tense",
-      "extend topic-specific and technical vocabulary and know that words can have…"
+    "id": "ac9e3la09-p02",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A photo shows a child holding a trophy while classmates clap. What can you infer that the words \"The race ended\" do not say?",
+    "explanation": "The child likely won or did well and others are celebrating.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "The child likely won or did well and others are celebrating"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "correct": "The child likely won or did well and others are celebrating"
   },
   {
-    "id": "ac9e3la09-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "recognising how images construct a relationship with the viewer through…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "id": "ac9e3la09-p03",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match: close-up face, dark colours, map, arrows. Meanings: emotion, mood, place, movement.",
+    "explanation": "Face -> emotion; dark colours -> mood; map -> place; arrows -> movement.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Face -> emotion; dark colours -> mood; map -> place; arrows -> movement.",
+    "correct": "Face -> emotion; dark colours -> mood; map -> place; arrows -> movement."
   },
   {
-    "id": "ac9e3la09-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognising how images construct a relationship with the viewer through…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "id": "ac9e3la09-p04",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Add one sentence that uses a picture of muddy shoes beside a door to extend a story.",
+    "explanation": "Any sentence using the muddy-shoe clue.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any sentence using the muddy-shoe clue.",
+    "correct": "Any sentence using the muddy-shoe clue."
   },
   {
-    "id": "ac9e3la09-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify how images extend the meaning of a text",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "id": "ac9e3la09-p05",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Hotspot / selection",
+    "question": "Text: \"Mina smiled.\" Picture clues: clenched fists, bright eyes, torn homework, sunny window. Select the clue that best supports happiness.",
+    "explanation": "Bright eyes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Bright eyes.",
+    "correct": "Bright eyes."
   },
   {
-    "id": "ac9e3la09-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "recognising how images construct a relationship with the viewer through…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
+    "id": "ac9e3la09-p06",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How can a labelled diagram extend an information text about a frog life cycle?",
+    "explanation": "It shows stages/parts visually that the words may not fully explain.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "It shows stages/parts visually that the words may not fully explain"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "correct": "It shows stages/parts visually that the words may not fully explain"
   },
   {
-    "id": "ac9e3la09-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "recognising how images construct a relationship with the viewer through…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "id": "ac9e3la09-p07",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how a picture of a lonely character sitting apart can change how readers feel about a cheerful sentence.",
+    "explanation": "It can create contrast and suggest the character may not truly feel cheerful.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It can create contrast and suggest the character may not truly feel cheerful.",
+    "correct": "It can create contrast and suggest the character may not truly feel cheerful."
   },
   {
-    "id": "ac9e3la09-08",
+    "id": "ac9e3la09-p08",
+    "curriculumCode": "AC9E3LA09",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which image best supports a safety poster about crossing roads: a decorative rainbow, a child using a crossing, or a lunch box?",
+    "explanation": "A child using a crossing.",
+    "printable": true,
     "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
     "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "identify how images extend the meaning of a text"
+      "a decorative rainbow",
+      "a child using a crossing",
+      "or a lunch box"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA09: identify how images extend the meaning of a text."
+    "correct": 1
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

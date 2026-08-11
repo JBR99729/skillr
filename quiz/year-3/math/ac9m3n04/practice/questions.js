@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3n04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "follow and create algorithms involving a sequence of steps and decisions to…"
+    "id": "ac9m3n04-p01",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "There are 7 rows of 4 chairs. How many chairs?",
+    "explanation": "28 chairs.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "28 chairs"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "correct": "28 chairs"
   },
   {
-    "id": "ac9m3n04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "applying knowledge of numbers and the properties of operations using a…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
+    "id": "ac9m3n04-p02",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Share 36 counters equally into 4 groups. How many in each group?",
+    "explanation": "9 counters.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "9 counters"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "correct": "9 counters"
   },
   {
-    "id": "ac9m3n04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "using part-part-whole and comparative models to visually represent…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "id": "ac9m3n04-p03",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 5 x 6, 30 / 5, 4 x 8 and 32 / 4 to 30, 6, 32 and 8.",
+    "explanation": "5 x 6 -> 30; 30 / 5 -> 6; 4 x 8 -> 32; 32 / 4 -> 8.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "5 x 6 -> 30; 30 / 5 -> 6; 4 x 8 -> 32; 32 / 4 -> 8.",
+    "correct": "5 x 6 -> 30; 30 / 5 -> 6; 4 x 8 -> 32; 32 / 4 -> 8."
   },
   {
-    "id": "ac9m3n04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "matching or creating a problem scenario or story that can be represented by a…"
+    "id": "ac9m3n04-p04",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write a multiplication sentence for 3 equal groups of 9.",
+    "explanation": "3 x 9 = 27.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "3 x 9 = 27"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "correct": "3 x 9 = 27"
   },
   {
-    "id": "ac9m3n04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3n04-p05",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How many groups of 5 are in 45?",
+    "explanation": "9 groups.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "9 groups"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "correct": "9 groups"
   },
   {
-    "id": "ac9m3n04-06",
+    "id": "ac9m3n04-p06",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which array shows 6 x 3: 6 rows of 3, 6 unequal piles, or 3 dots total?",
+    "explanation": "6 rows of 3.",
+    "printable": true,
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
     "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "matching or creating a problem scenario or story that can be represented by a…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
+      "6 rows of 3",
+      "6 unequal piles",
+      "or 3 dots total"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "correct": 0
   },
   {
-    "id": "ac9m3n04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "matching or creating a problem scenario or story that can be represented by a…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "id": "ac9m3n04-p07",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A sticker sheet has 8 stickers in each row and 4 rows. Explain two ways to find the total.",
+    "explanation": "32; examples include 8+8+8+8 and 4 x 8.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "32; examples include 8+8+8+8 and 4 x 8.",
+    "correct": "32; examples include 8+8+8+8 and 4 x 8."
   },
   {
-    "id": "ac9m3n04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "multiply and divide one- and two-digit numbers, representing problems using…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N04: multiply and divide one- and two-digit numbers, representing problems using…."
+    "id": "ac9m3n04-p08",
+    "curriculumCode": "AC9M3N04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student divides 24 by 3 and gets 6. Explain the correct answer.",
+    "explanation": "24 / 3 = 8 because 3 equal groups of 8 make 24.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "24 / 3 = 8 because 3 equal groups of 8 make 24.",
+    "correct": "24 / 3 = 8 because 3 equal groups of 8 make 24."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

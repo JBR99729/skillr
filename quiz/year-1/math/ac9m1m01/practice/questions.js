@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1m01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare directly and indirectly and order objects and events using attributes…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1m01-p01",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which attribute tells how much a bottle can hold: length, mass, capacity or duration?",
+    "explanation": "Capacity (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Capacity (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "correct": "Capacity (1 mark)"
   },
   {
-    "id": "ac9m1m01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "using a piece of string to indirectly compare the length of several objects,…",
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "measure the length of shapes and objects using informal units, recognising…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p02",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match balance scale, piece of string and sand timer to mass, length and duration.",
+    "explanation": "Balance ↔ mass; string ↔ length; timer ↔ duration (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Balance ↔ mass; string ↔ length; timer ↔ duration (1 mark each).",
+    "correct": "Balance ↔ mass; string ↔ length; timer ↔ duration (1 mark each)."
   },
   {
-    "id": "ac9m1m01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "ordering the mass of 3 or more objects such as rocks, using hefting and…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p03",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Place a book and pencil on a balance or use the shown balance image. State which is heavier and the evidence.",
+    "explanation": "Names the lower/heavier side and cites the balance position (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Names the lower/heavier side and cites the balance position (2 marks).",
+    "correct": "Names the lower/heavier side and cites the balance position (2 marks)."
   },
   {
-    "id": "ac9m1m01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "pouring sand/rice/water from one container to another to compare and order…"
+    "id": "ac9m1m01-p04",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Ribbon A is longer than B. Ribbon C is shorter than B. Order A, B and C from shortest to longest.",
+    "explanation": "C, B, A (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "C, B, A (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "correct": "C, B, A (2 marks)"
   },
   {
-    "id": "ac9m1m01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare directly and indirectly and order objects and events using attributes…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p05",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order from shortest to longest: blink, eat lunch, school day.",
+    "explanation": "Blink → eat lunch → school day (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Blink → eat lunch → school day (1 mark).",
+    "correct": "Blink → eat lunch → school day (1 mark)."
   },
   {
-    "id": "ac9m1m01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "creating sand timers from everyday items or recycled material and comparing…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p06",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw the same cup being used to compare two jugs. Label the jug needing more cupfuls.",
+    "explanation": "Shows equal cup units and labels the jug with more cupfuls as greater capacity (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows equal cup units and labels the jug with more cupfuls as greater capacity (2 marks).",
+    "correct": "Shows equal cup units and labels the jug with more cupfuls as greater capacity (2 marks)."
   },
   {
-    "id": "ac9m1m01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "creating sand timers from everyday items or recycled material and comparing…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p07",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Two desks are in different rooms. Explain how one piece of string can compare their lengths fairly.",
+    "explanation": "Match/mark the same string against each desk without stretching it, then compare the marks (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Match/mark the same string against each desk without stretching it, then compare the marks (3 marks).",
+    "correct": "Match/mark the same string against each desk without stretching it, then compare the marks (3 marks)."
   },
   {
-    "id": "ac9m1m01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "compare directly and indirectly and order objects and events using attributes…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1M01: compare directly and indirectly and order objects and events using attributes…."
+    "id": "ac9m1m01-p08",
+    "curriculumCode": "AC9M1M01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A large empty box and a small box of books are shown. Explain why size alone cannot decide which is heavier and name a fair test.",
+    "explanation": "Mass and outside size are different; use a balance or lift under safe supervision to compare mass (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Mass and outside size are different; use a balance or lift under safe supervision to compare mass (3 marks).",
+    "correct": "Mass and outside size are different; use a balance or lift under safe supervision to compare mass (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
