@@ -94,18 +94,29 @@ def normalise_loader(source: str, builder) -> str:
     return builder.QUESTION_SCRIPT_RE.sub("<script data-question-loader></script>", source)
 
 
-def changed_paths() -> list[tuple[str, str]]:
+def changed_paths(base_ref: str) -> list[tuple[str, str]]:
+    records: dict[str, str] = {}
+    committed = subprocess.check_output(
+        ["git", "diff", "--name-status", f"{base_ref}..HEAD"],
+        cwd=ROOT,
+        text=True,
+    )
+    for line in committed.splitlines():
+        if not line:
+            continue
+        status, path = line.split("\t", 1)
+        records[path] = status
+
     raw = subprocess.check_output(
         ["git", "status", "--porcelain=v1", "-z", "--untracked-files=all"],
         cwd=ROOT,
     )
-    records = []
     for item in raw.split(b"\0"):
         if not item:
             continue
         decoded = item.decode("utf-8")
-        records.append((decoded[:2], decoded[3:]))
-    return records
+        records[decoded[3:]] = decoded[:2]
+    return sorted((status, path) for path, status in records.items())
 
 
 def allowed_changed_path(path: str) -> bool:
@@ -230,7 +241,7 @@ def audit(base_ref: str) -> dict[str, int]:
 
         totals["banks"] += 1
 
-    changed = changed_paths()
+    changed = changed_paths(base_ref)
     deleted = [path for status, path in changed if "D" in status]
     unexpected = [path for _, path in changed if not allowed_changed_path(path)]
     if deleted:
