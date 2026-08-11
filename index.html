@@ -105,6 +105,7 @@
       <a href="/">Home</a>
       <a href="/dashboard/">My Progress</a>
       <a href="/how-to-use-skillr.html#students">Students</a>
+      <a href="/how-to-use-skillr.html#parents">Parents</a>
       <a href="/how-to-use-skillr.html#teachers">Teachers</a>
       <a href="/about.html">About</a>
       <a href="/how-to-use-skillr.html#faq">FAQ</a>
@@ -321,31 +322,11 @@
       gtagScript.async = true;
       document.head.appendChild(gtagScript);
 
-      function initPageAds() {
-        window.adsbygoogle = window.adsbygoogle || [];
-
-        window.adsbygoogle.push({
-          google_ad_client: "ca-pub-7734963540104771",
-          enable_page_level_ads: true
-        });
-      }
-
       var adsScript = document.createElement("script");
       adsScript.src =
         "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771";
       adsScript.async = true;
       adsScript.crossOrigin = "anonymous";
-
-      adsScript.onload = function () {
-        if (window.requestIdleCallback) {
-          window.requestIdleCallback(
-            initPageAds,
-            { timeout: 2000 }
-          );
-        } else {
-          window.setTimeout(initPageAds, 1000);
-        }
-      };
 
       document.head.appendChild(adsScript);
     }
