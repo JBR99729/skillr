@@ -1104,9 +1104,45 @@ textarea {
     align-items: stretch;
 }
 
+.year-learning-stage-list {
+    display: grid;
+    gap: 14px;
+    margin-top: 4px;
+}
+
+.year-learning-stage {
+    padding: 12px;
+    border: 1px solid #dce7f5;
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.72);
+}
+
+.year-learning-stage__header {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+.year-learning-stage__header span {
+    padding: 4px 8px;
+    border-radius: 999px;
+    background: #eaf2ff;
+    color: #2457d6;
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+}
+
+.year-learning-stage__header h3 {
+    margin: 0;
+    color: #1a3a72;
+    font-size: 1rem;
+}
+
 .year-learning-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 12px;
     margin-top: 4px;
 }
@@ -1133,25 +1169,25 @@ textarea {
     box-shadow: 0 10px 24px rgba(15, 23, 42, 0.1);
 }
 
-.year-learning-card--available:nth-child(4n + 2) {
+.year-learning-card--available.year-learning-stage--early {
     --year-card-accent: #0f766e;
     --year-card-hover: #115e59;
     --year-card-start: #f8fffd;
     --year-card-end: #dff8f3;
 }
 
-.year-learning-card--available:nth-child(4n + 3) {
+.year-learning-card--available.year-learning-stage--primary {
+    --year-card-accent: #2457d6;
+    --year-card-hover: #1d4ed8;
+    --year-card-start: #ffffff;
+    --year-card-end: #eef4ff;
+}
+
+.year-learning-card--available.year-learning-stage--secondary {
     --year-card-accent: #7c3aed;
     --year-card-hover: #6d28d9;
     --year-card-start: #fdfbff;
     --year-card-end: #eee7ff;
-}
-
-.year-learning-card--available:nth-child(4n + 4) {
-    --year-card-accent: #c2410c;
-    --year-card-hover: #9a3412;
-    --year-card-start: #fffdf9;
-    --year-card-end: #ffedd5;
 }
 
 .year-learning-card h3 {
