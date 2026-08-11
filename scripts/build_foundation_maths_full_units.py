@@ -202,10 +202,10 @@ def render_full_unit(unit: dict, code_record: dict, practice: list[dict], test: 
     guide = UNIT_GUIDANCE[unit["code"]]
     intentions = [unit["description"]] + [e["text"] for e in unit.get("elaborations", []) if e.get("questionEligible")][:3]
     return f'''<section class="curriculum-topic-section full-unit" id="full-unit">
-  <p class="curriculum-eyebrow">Complete teaching unit • 80 questions</p>
+  <p class="curriculum-eyebrow">Complete teaching unit</p>
   <h2>{esc(guide['title'])}: complete Foundation Maths unit</h2>
-  <p>This unit combines explicit teaching, hands-on learning, differentiation and assessment for <strong>{esc(unit['code'])}</strong>. Use the 56-question Practice bank during learning, then use the separate 24-question Test bank for assessment.</p>
-  <div class="unit-summary-grid"><div><strong>56</strong><span>Practice questions</span></div><div><strong>24</strong><span>Test questions</span></div><div><strong>80</strong><span>Total questions</span></div></div>
+  <p>This unit combines explicit teaching, hands-on learning, differentiation and assessment for <strong>{esc(unit['code'])}</strong>. Keep the topic page focused on teaching; use the linked Practice, Test and Worksheet pages for student tasks.</p>
+  <div class="unit-summary-grid"><div><strong>Guide</strong><span>Teaching sequence</span></div><div><strong>Print</strong><span>Worksheet page</span></div><div><strong>Assess</strong><span>Practice and test pages</span></div></div>
 
   <h3>Learning intentions</h3>
   <ul class="curriculum-check-list">{''.join(f'<li>{esc(item)}</li>' for item in intentions)}</ul>
@@ -226,11 +226,9 @@ def render_full_unit(unit: dict, code_record: dict, practice: list[dict], test: 
   <div class="unit-differentiation"><article><h4>Support</h4><p>{esc(guide['support'])}</p></article><article><h4>Extension</h4><p>{esc(guide['extension'])}</p></article></div>
 
   <h3>Assessment plan</h3>
-  <ol><li><strong>Before teaching:</strong> use a few practical prompts to check prior knowledge.</li><li><strong>During teaching:</strong> select questions from the 56-question Practice bank across multiple response types.</li><li><strong>Readiness check:</strong> {esc(guide['check'])}</li><li><strong>After teaching:</strong> administer the separate 24-question Test bank without previewing its answers with students.</li></ol>
+  <ol><li><strong>Before teaching:</strong> use a few practical prompts to check prior knowledge.</li><li><strong>During teaching:</strong> use the Practice page when students are ready for supported feedback.</li><li><strong>Readiness check:</strong> {esc(guide['check'])}</li><li><strong>After teaching:</strong> use the Test page for assessment.</li></ol>
 
-  <div class="unit-bank-tabs" aria-label="Question bank links"><a href="#practice-question-bank">56 Practice questions</a><a href="#test-question-bank">24 Test questions</a></div>
-  {render_bank('Practice', practice)}
-  {render_bank('Test', test)}
+  <div class="unit-bank-tabs" aria-label="Activity links"><a href="{esc(unit['worksheetUrl'])}">Worksheet</a><a href="{esc(unit['practiceUrl'])}">Practice</a><a href="{esc(unit['testUrl'])}">Test</a></div>
 </section>'''
 
 
@@ -242,12 +240,12 @@ def update_page(path: Path, section: str, unit: dict, guide: dict) -> None:
         raise ValueError(f"Could not find curriculum marker in {path}")
     source = source.replace(marker, "      " + section.replace("\n", "\n      ") + "\n\n" + marker, 1)
     source = source.replace('<a class="primary" href="#topic-guide">Topic guide</a>', '<a class="primary" href="#full-unit">Full unit</a>')
-    source = source.replace('These three activities use the same eight-question unit bank.', 'Use the 56-question Practice bank throughout teaching, then use the separate 24-question Test bank for final assessment.')
+    source = source.replace('These three activities use the same eight-question unit bank.', 'Use the linked Worksheet, Practice and Test pages when students are ready for tasks.')
     source = source.replace('"learningResourceType": "Topic guide"', '"learningResourceType": "Complete teaching unit"')
     source = source.replace(unit["title"], guide["title"])
     source = source.replace("Foundation Maths topic guide", "Foundation Maths complete unit")
     source = source.replace("Foundation Maths Topic Guide", "Foundation Maths Complete Unit")
-    description = f"Complete {unit['code']} Foundation Maths teaching unit for {guide['title']}, with lesson sequence, differentiation, 56 Practice questions and a separate 24-question Test."
+    description = f"Complete {unit['code']} Foundation Maths teaching unit for {guide['title']}, with lesson sequence, differentiation and links to worksheet, practice and test pages."
     source = re.sub(r'<meta name="description" content="[^"]*">', f'<meta name="description" content="{esc(description)}">', source, count=1)
     source = re.sub(r'<meta property="og:description" content="[^"]*">', f'<meta property="og:description" content="{esc(description)}">', source, count=1)
     source = "\n".join(line.rstrip() for line in source.splitlines()) + "\n"
