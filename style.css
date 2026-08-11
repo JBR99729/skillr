@@ -2506,3 +2506,90 @@ footer {
     font-size: clamp(1.25rem, 2.5vw, 1.75rem);
     line-height: 1.25;
 }
+
+
+/* Homepage feature badges and accessible stage accordions */
+.home-feature-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.home-feature-strip span {
+    display: inline-flex;
+    min-height: 32px;
+    padding: 6px 12px;
+    align-items: center;
+    border: 1px solid #cbd5e1;
+    border-radius: 999px;
+    background: #fff;
+    color: #334155;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.curriculum-stage__header {
+    position: relative;
+    padding-right: 48px;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+}
+
+.curriculum-stage__header::-webkit-details-marker {
+    display: none;
+}
+
+.curriculum-stage__header::after {
+    position: absolute;
+    right: 16px;
+    content: "+";
+    color: #f8fafc;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.curriculum-stage[open] > .curriculum-stage__header::after {
+    content: "−";
+}
+
+.curriculum-stage__header:focus-visible {
+    outline: 3px solid #2563eb;
+    outline-offset: -3px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .curriculum-stage:not([open]):hover > .curriculum-year-row,
+    .curriculum-stage:not([open]):focus-within > .curriculum-year-row {
+        display: grid;
+    }
+
+    .curriculum-stage:not([open]):hover > .curriculum-stage__header::after,
+    .curriculum-stage:not([open]):focus-within > .curriculum-stage__header::after {
+        content: "−";
+    }
+}
+
+
+/* Compact footer utility navigation */
+.footer-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px 24px;
+    margin-bottom: 16px;
+}
+
+.footer-nav a {
+    color: #f8fafc;
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-underline-offset: 4px;
+}
+
+.footer-nav a:hover,
+.footer-nav a:focus-visible {
+    color: #bfdbfe;
+}
