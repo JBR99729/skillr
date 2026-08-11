@@ -1,6 +1,13 @@
 (() => {
   "use strict";
 
+  if (!document.querySelector('script[data-skillr-progress]')) {
+    const progressScript = document.createElement("script");
+    progressScript.src = "/assets/progress-store.js?v=2";
+    progressScript.dataset.skillrProgress = "true";
+    document.head.appendChild(progressScript);
+  }
+
   let deferredInstallPrompt = null;
   let installModal = null;
   let pendingIntentUrl = null;

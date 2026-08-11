@@ -1,5 +1,12 @@
 "use strict";
 (() => {
+  if(!document.querySelector('script[data-skillr-progress]')){
+    const progressScript=document.createElement("script");
+    progressScript.src="/assets/progress-store.js?v=2";
+    progressScript.dataset.skillrProgress="true";
+    document.head.appendChild(progressScript);
+  }
+
   const year=String(window.SKILLR_DAILY_YEAR||"");
   const subject=String(window.SKILLR_DAILY_SUBJECT||"");
   const skill=String(window.SKILLR_DAILY_SKILL||"");
