@@ -1,107 +1,107 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efle05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p01",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Put these retelling parts in order: (a) finds the button, (b) loses the button, (c) follows the trail.",
+    "explanation": "(b), (c), (a). Award 1 mark for the complete order.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(b), (c), (a). Award 1 mark for the complete order.",
+    "correct": "(b), (c), (a). Award 1 mark for the complete order."
   },
   {
-    "id": "ac9efle05-02",
+    "id": "ac9efle05-p02",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which event must be included in a short retell?",
+    "explanation": "C — It is the central action and resolution of the story.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "drawing and role-playing characters or events",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
+      "Boats can carry ropes.",
+      "The lighthouse is painted every summer.",
+      "The lighthouse guides the lost boat with its flashing pattern.",
+      "The shore has many kinds of sand."
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "correct": 2
   },
   {
-    "id": "ac9efle05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "sequencing pictures, which may involve using digital tools, to retell a story",
-      "recognise different types of literary texts and identify features including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p03",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Retell the story using the words first, next and finally.",
+    "explanation": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total.",
+    "correct": "1 mark for each accurately sequenced event and 1 mark for using the three sequence words appropriately; 4 marks total."
   },
   {
-    "id": "ac9efle05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "sequencing pictures, which may involve using digital tools, to retell a story"
+    "id": "ac9efle05-p04",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "If you acted as the moon, name one movement and one voice choice that would show the character clearly.",
+    "explanation": "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "correct": "1 mark for a relevant movement such as stretching/yawning/drooping and 1 mark for a suitable voice such as slow, sleepy or soft; 2 marks total"
   },
   {
-    "id": "ac9efle05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p05",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Plan or draw three pictures that retell the beginning, middle and ending. Explain what happens in each.",
+    "explanation": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total.",
+    "correct": "1 mark each for images representing discovery, ringing/calling and concert ending; 1 mark for an oral explanation that links the images in sequence; 4 marks total."
   },
   {
-    "id": "ac9efle05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "sequencing pictures, which may involve using digital tools, to retell a story",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p06",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Adapt the story so it happens in a snowy town. Change two details but keep the main purpose of the journey.",
+    "explanation": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total.",
+    "correct": "1 mark for retaining delivery/helping-friend purpose, up to 2 marks for coherent setting changes such as transport, obstacles, clothing or locations, and 1 mark for a connected adapted account; 4 marks total."
   },
   {
-    "id": "ac9efle05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "sequencing pictures, which may involve using digital tools, to retell a story",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p07",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "You want to adapt the characters into animals. Name two details you can change and two story ideas you should keep so the adaptation remains recognisable.",
+    "explanation": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total.",
+    "correct": "Up to 2 marks for changeable details such as animal species, setting, object or dialogue; up to 2 marks for retained ideas such as reach problem, help/cooperation and sharing resolution; 4 marks total."
   },
   {
-    "id": "ac9efle05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "retell and adapt familiar literary texts through play, performance, images or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE05: retell and adapt familiar literary texts through play, performance, images or…."
+    "id": "ac9efle05-p08",
+    "curriculumCode": "AC9EFLE05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Plan a short performance with roles, three actions and one line of dialogue. Explain how your plan retells all key events.",
+    "explanation": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total.",
+    "correct": "1 mark for allocating bird and mouse roles; up to 2 marks for three actions covering problem, help and outcome; 1 mark for relevant dialogue; 1 mark for explaining coverage/order of key events; 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

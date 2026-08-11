@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3a03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m3a03-p01",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Calculate 3 x 8.",
+    "explanation": "24.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "24"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "correct": "24"
   },
   {
-    "id": "ac9m3a03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "follow and create algorithms involving a sequence of steps and decisions to…",
-      "using concrete or virtual manipulatives, groups and repeated addition to…",
-      "recognise and explain the connection between addition and subtraction as…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…"
+    "id": "ac9m3a03-p02",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Calculate 4 x 7.",
+    "explanation": "28.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "28"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "correct": "28"
   },
   {
-    "id": "ac9m3a03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "recognising that when they multiply a number by 5, the resulting number will…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "id": "ac9m3a03-p03",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 3 x 7, 4 x 8, 5 x 9 and 10 x 6 to 21, 32, 45 and 60.",
+    "explanation": "3 x 7 -> 21; 4 x 8 -> 32; 5 x 9 -> 45; 10 x 6 -> 60.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "3 x 7 -> 21; 4 x 8 -> 32; 5 x 9 -> 45; 10 x 6 -> 60.",
+    "correct": "3 x 7 -> 21; 4 x 8 -> 32; 5 x 9 -> 45; 10 x 6 -> 60."
   },
   {
-    "id": "ac9m3a03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "practising calculating and deriving multiplication facts for 3, 4, 5 and 10,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "id": "ac9m3a03-p04",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which skip-counting pattern matches 4s: 4, 8, 12, 16 or 4, 7, 10, 13?",
+    "explanation": "4, 8, 12, 16.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "4, 8, 12, 16.",
+    "correct": "4, 8, 12, 16."
   },
   {
-    "id": "ac9m3a03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3a03-p05",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Use doubling to find 4 x 6.",
+    "explanation": "24.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "24"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "correct": "24"
   },
   {
-    "id": "ac9m3a03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "systematically exploring algorithms used for repeated addition, comparing and…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
+    "id": "ac9m3a03-p06",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What related division fact matches 5 x 8 = 40?",
+    "explanation": "40 / 5 = 8 or 40 / 8 = 5.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "40 / 5 = 8 or 40 / 8 = 5"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "correct": "40 / 5 = 8 or 40 / 8 = 5"
   },
   {
-    "id": "ac9m3a03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "systematically exploring algorithms used for repeated addition, comparing and…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "id": "ac9m3a03-p07",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how an array helps prove 3 x 9 = 27.",
+    "explanation": "Three rows of 9 or nine rows of 3 show 27 objects arranged in equal groups.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Three rows of 9 or nine rows of 3 show 27 objects arranged in equal groups.",
+    "correct": "Three rows of 9 or nine rows of 3 show 27 objects arranged in equal groups."
   },
   {
-    "id": "ac9m3a03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3A03: recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…."
+    "id": "ac9m3a03-p08",
+    "curriculumCode": "AC9M3A03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student answers 4 x 9 as 49. Explain the mistake.",
+    "explanation": "They joined the digits instead of multiplying; 4 groups of 9 is 36.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They joined the digits instead of multiplying; 4 groups of 9 is 36.",
+    "correct": "They joined the digits instead of multiplying; 4 groups of 9 is 36."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

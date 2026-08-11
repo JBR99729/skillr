@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efla07-01",
+    "id": "ac9efla07-p01",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "What meaning does the image communicate even without a written sentence?",
+    "explanation": "A — The gumboots, umbrella and raindrops visually show wet weather.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "It is raining.",
+      "The girl is baking bread.",
+      "It is midnight indoors.",
+      "The umbrella is a musical instrument."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "correct": 0
   },
   {
-    "id": "ac9efla07-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "recognising that texts can be interpreted differently when only the words or…",
-      "identify punctuation as a feature of written text different from letters;…",
-      "share ideas about stories, poems and images in literature, reflecting on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p02",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What do the words tell that the picture of the cave alone does not show?",
+    "explanation": "They tell that Milo hears a soft squeak and/or that a sound comes from inside. Award 1 mark.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They tell that Milo hears a soft squeak and/or that a sound comes from inside. Award 1 mark.",
+    "correct": "They tell that Milo hears a soft squeak and/or that a sound comes from inside. Award 1 mark."
   },
   {
-    "id": "ac9efla07-03",
+    "id": "ac9efla07-p03",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which image would best support this informative caption?",
+    "explanation": "B — It visually represents the exact stage and direction described.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "recognise different types of literary texts and identify features including…",
-      "identifying where written text is reflected in accompanying images and where…",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
+      "A fully grown tree with fruit",
+      "A seed with a small root growing downward underground",
+      "A bird flying above a roof",
+      "An empty plant pot on a shelf"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "correct": 1
   },
   {
-    "id": "ac9efla07-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "identifying where written text is reflected in accompanying images and where…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p04",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How does each picture make the same sentence feel different?",
+    "explanation": "Identifies happiness/excitement/pleasant expectation in the smiling version (1 mark) and surprise/fear/worry in the wide-eyed, stepping-back version (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies happiness/excitement/pleasant expectation in the smiling version (1 mark) and surprise/fear/worry in the wide-eyed, stepping-back version (1 mark); 2 marks total.",
+    "correct": "Identifies happiness/excitement/pleasant expectation in the smiling version (1 mark) and surprise/fear/worry in the wide-eyed, stepping-back version (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efla07-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p05",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is Pip probably searching for? Use one clue from the words or picture.",
+    "explanation": "Pip is probably searching for a dog (1 mark); gives a clue such as dog bed, lead, or “searched everywhere” with the dog-related image (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Pip is probably searching for a dog (1 mark); gives a clue such as dog bed, lead, or “searched everywhere” with the dog-related image (1 mark); 2 marks total.",
+    "correct": "Pip is probably searching for a dog (1 mark); gives a clue such as dog bed, lead, or “searched everywhere” with the dog-related image (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efla07-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "identifying where written text is reflected in accompanying images and where…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p06",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw or describe an image that would help a young reader understand this fact. Explain what your image adds.",
+    "explanation": "1 mark for clearly representing a turtle and shell/body relationship; 1 mark for an image choice that highlights protection, such as the turtle partly withdrawing; 1 mark for explaining how the image supports the words; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for clearly representing a turtle and shell/body relationship; 1 mark for an image choice that highlights protection, such as the turtle partly withdrawing; 1 mark for explaining how the image supports the words; 3 marks total.",
+    "correct": "1 mark for clearly representing a turtle and shell/body relationship; 1 mark for an image choice that highlights protection, such as the turtle partly withdrawing; 1 mark for explaining how the image supports the words; 3 marks total."
   },
   {
-    "id": "ac9efla07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "identifying where written text is reflected in accompanying images and where…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p07",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Identify two ways the image and words do not match. Suggest one change that would make the page clearer.",
+    "explanation": "Up to 2 marks for mismatches such as tiny/large, boat/ship, pond/ocean, calm/crashing waves or quietly/stormily; 1 mark for a logical change to either words or image that restores agreement; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Up to 2 marks for mismatches such as tiny/large, boat/ship, pond/ocean, calm/crashing waves or quietly/stormily; 1 mark for a logical change to either words or image that restores agreement; 3 marks total.",
+    "correct": "Up to 2 marks for mismatches such as tiny/large, boat/ship, pond/ocean, calm/crashing waves or quietly/stormily; 1 mark for a logical change to either words or image that restores agreement; 3 marks total."
   },
   {
-    "id": "ac9efla07-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "explore the contribution of images and words to meaning in stories and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA07: explore the contribution of images and words to meaning in stories and…."
+    "id": "ac9efla07-p08",
+    "curriculumCode": "AC9EFLA07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Give one or two sentences for the page, describe the illustration, and explain something the image communicates that your words do not state directly.",
+    "explanation": "1 mark for coherent original words; 1 mark for a relevant illustration; 1 mark for a distinct visual contribution such as the child’s expression, the door’s size, surrounding clues or mood; 1 mark for explaining how words and image work together; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for coherent original words; 1 mark for a relevant illustration; 1 mark for a distinct visual contribution such as the child’s expression, the door’s size, surrounding clues or mood; 1 mark for explaining how words and image work together; 4 marks total.",
+    "correct": "1 mark for coherent original words; 1 mark for a relevant illustration; 1 mark for a distinct visual contribution such as the child’s expression, the door’s size, surrounding clues or mood; 1 mark for explaining how words and image work together; 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

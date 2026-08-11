@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…",
-      "understand how verbs represent different processes for doing, feeling,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p01",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A paragraph says: \"Bees collect nectar. They carry pollen between flowers. This helps plants make seeds.\" What is the paragraph mostly about?",
+    "explanation": "How bees help plants.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "How bees help plants.",
+    "correct": "How bees help plants."
   },
   {
-    "id": "ac9e3la04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that verbs are anchored in time through tense",
-      "recognising that longer informative texts are organised into paragraphs,…",
-      "identify how images extend the meaning of a text",
-      "extend topic-specific and technical vocabulary and know that words can have…"
+    "id": "ac9e3la04-p02",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these parts for an information paragraph: detail, topic sentence, explaining sentence, closing sentence.",
+    "explanation": "Topic sentence; detail; explaining sentence; closing sentence.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "detail",
+      "topic sentence",
+      "explaining sentence",
+      "closing sentence"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "correct": [
+      "topic sentence",
+      "detail",
+      "explaining sentence",
+      "closing sentence"
+    ]
   },
   {
-    "id": "ac9e3la04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "recognising that paragraphs in narrative texts vary in length and do not…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p03",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "This paragraph has two topics: \"Turtles lay eggs on beaches. My favourite sport is soccer.\" What should the writer do?",
+    "explanation": "Start a new paragraph or remove the unrelated soccer sentence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Start a new paragraph or remove the unrelated soccer sentence.",
+    "correct": "Start a new paragraph or remove the unrelated soccer sentence."
   },
   {
-    "id": "ac9e3la04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "examining models of well-constructed paragraphs and identifying their features"
+    "id": "ac9e3la04-p04",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write a topic sentence for a paragraph about keeping lunch rubbish out of the playground.",
+    "explanation": "Any clear sentence introducing that topic.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Any clear sentence introducing that topic"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "correct": "Any clear sentence introducing that topic"
   },
   {
-    "id": "ac9e3la04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p05",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Group these ideas into two paragraphs: koalas eat leaves; soccer uses a round ball; joeys stay in pouches; goals score points.",
+    "explanation": "Animal paragraph: koalas, joeys. Soccer paragraph: ball, goals.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Animal paragraph: koalas, joeys. Soccer paragraph: ball, goals.",
+    "correct": "Animal paragraph: koalas, joeys. Soccer paragraph: ball, goals."
   },
   {
-    "id": "ac9e3la04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "examining models of well-constructed paragraphs and identifying their features",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p06",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence does not belong in a paragraph about rainforests: \"Tall trees make shade\"; \"Many insects live there\"; \"My bike has a bell\"?",
+    "explanation": "\"My bike has a bell.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"My bike has a bell.\"",
+    "correct": "\"My bike has a bell.\""
   },
   {
-    "id": "ac9e3la04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "examining models of well-constructed paragraphs and identifying their features",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p07",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Why should a new paragraph begin when a story changes from the beach to the classroom?",
+    "explanation": "The setting/topic changes, so a paragraph break helps readers follow the shift.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The setting/topic changes, so a paragraph break helps readers follow the shift.",
+    "correct": "The setting/topic changes, so a paragraph break helps readers follow the shift."
   },
   {
-    "id": "ac9e3la04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "understand that paragraphs are a key organisational feature of the stages of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA04: understand that paragraphs are a key organisational feature of the stages of…."
+    "id": "ac9e3la04-p08",
+    "curriculumCode": "AC9E3LA04",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Add a linking word to join these ideas: \"The seeds need water. ___, they need sunlight.\"",
+    "explanation": "For example, Also, Next, Finally.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, Also, Next, Finally.",
+    "correct": "For example, Also, Next, Finally."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

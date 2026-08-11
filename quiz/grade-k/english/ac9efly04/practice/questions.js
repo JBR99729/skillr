@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "id": "ac9efly04-p01",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Say each sound, then blend the sounds to read the whole word.",
+    "explanation": "Produces /s/ /a/ /t/ and blends to “sat”. Award 1 mark for sound sequence and 1 mark for blended word; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Produces /s/ /a/ /t/ and blends to “sat”. Award 1 mark for sound sequence and 1 mark for blended word; 2 marks total.",
+    "correct": "Produces /s/ /a/ /t/ and blends to “sat”. Award 1 mark for sound sequence and 1 mark for blended word; 2 marks total."
   },
   {
-    "id": "ac9efly04-02",
+    "id": "ac9efly04-p02",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which action matches dig?",
+    "explanation": "B — The decoded word “dig” names making a hole.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "navigating a text correctly, starting at the right place and reading in the…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
+      "Sleep on a mat",
+      "Make a hole in soil",
+      "Sip from a cup",
+      "Run to a gate"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "correct": 1
   },
   {
-    "id": "ac9efly04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "attempting to work out unknown words by using phonic decoding and knowledge…",
-      "recognise different types of literary texts and identify features including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "id": "ac9efly04-p03",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Read the sentence, then tell who pats the cat.",
+    "explanation": "1 mark for substantially accurate reading with blending as needed and 1 mark for identifying Sam; 2 marks total. Do not penalise accent variation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for substantially accurate reading with blending as needed and 1 mark for identifying Sam; 2 marks total. Do not penalise accent variation.",
+    "correct": "1 mark for substantially accurate reading with blending as needed and 1 mark for identifying Sam; 2 marks total. Do not penalise accent variation."
   },
   {
-    "id": "ac9efly04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "pausing or asking for support when meaning breaks down"
+    "id": "ac9efly04-p04",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Does “in the pet” sound right here? Look through the final word and try the sentence again.",
+    "explanation": "Recognises the mismatch and rereads “pen”. Award 1 mark for monitoring and 1 mark for using final letter/sound plus sentence grammar to correct; 2 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Recognises the mismatch and rereads “pen”"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "correct": "Recognises the mismatch and rereads “pen”"
   },
   {
-    "id": "ac9efly04-05",
+    "id": "ac9efly04-p05",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word makes the most likely sentence and matches all its letters?",
+    "explanation": "C — /p/ /e/ /n/ blends to “pen”, a plausible enclosure for a pig.",
+    "printable": true,
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
     "answers": [
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "interact in informal and structured situations by listening while others…",
-      "identify some differences between imaginative and informative texts",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
+      "pan",
+      "pin",
+      "pen",
+      "pet"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "correct": 2
   },
   {
-    "id": "ac9efly04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "pausing or asking for support when meaning breaks down",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "id": "ac9efly04-p06",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What should the reader do? If one word was difficult, tell what helped you work it out.",
+    "explanation": "Identifies putting on a hat before going outside (1 mark); names a useful strategy such as first sound, known word part, rereading, sentence meaning or grammar (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies putting on a hat before going outside (1 mark); names a useful strategy such as first sound, known word part, rereading, sentence meaning or grammar (1 mark); 2 marks total.",
+    "correct": "Identifies putting on a hat before going outside (1 mark); names a useful strategy such as first sound, known word part, rereading, sentence meaning or grammar (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efly04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "pausing or asking for support when meaning breaks down",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "id": "ac9efly04-p07",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain two clues that show hat is not correct, then give the correct word.",
+    "explanation": "1 mark for noticing letters/sounds in hill do not match hat; 1 mark for noting that “up the hill” makes contextual/grammatical sense; 1 mark for correcting to hill; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for noticing letters/sounds in hill do not match hat; 1 mark for noting that “up the hill” makes contextual/grammatical sense; 1 mark for correcting to hill; 3 marks total.",
+    "correct": "1 mark for noticing letters/sounds in hill do not match hat; 1 mark for noting that “up the hill” makes contextual/grammatical sense; 1 mark for correcting to hill; 3 marks total."
   },
   {
-    "id": "ac9efly04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "read decodable and authentic texts using developing phonic knowledge, and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY04: read decodable and authentic texts using developing phonic knowledge, and…."
+    "id": "ac9efly04-p08",
+    "curriculumCode": "AC9EFLY04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Why did Kim scrub the cap? Name one word you checked carefully and explain how you knew it was right.",
+    "explanation": "Because it fell in mud/was muddy (1 mark); identifies a word from the text (1 mark); gives a valid phonic/context/grammar check for that word (1 mark); reading conveys the main text sufficiently (1 mark); 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Because it fell in mud/was muddy (1 mark); identifies a word from the text (1 mark); gives a valid phonic/context/grammar check for that word (1 mark); reading conveys the main text sufficiently (1 mark); 4 marks total.",
+    "correct": "Because it fell in mud/was muddy (1 mark); identifies a word from the text (1 mark); gives a valid phonic/context/grammar check for that word (1 mark); reading conveys the main text sufficiently (1 mark); 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

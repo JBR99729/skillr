@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9sfi02-01",
+    "id": "ac9sfi02-p01",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which action is safest?",
+    "explanation": "B — It controls the equipment and follows supervision; the other actions create clear risks.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "engage in investigations safely and make observations using their senses",
-      "explore the ways people make and use observations and questions to learn…",
-      "pose questions and make predictions based on experiences",
-      "represent observations in provided templates and identify patterns with…"
+      "Run while looking through the lens.",
+      "Walk, hold the tool carefully and follow the teacher’s directions.",
+      "Point the lens towards the Sun.",
+      "Leave the school area without an adult."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "correct": 1
   },
   {
-    "id": "ac9sfi02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare observations with predictions with guidance",
-      "discussing ways to conduct investigations safely, such as by being sun safe,…",
-      "share questions, predictions, observations and ideas with others",
-      "observing fruits and vegetables and identifying them as parts of plants such…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p02",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Which sense must not be used on these samples, and why?",
+    "explanation": "Do not taste them because unknown materials may be harmful, dirty or unsafe to eat.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Do not taste them because unknown materials may be harmful, dirty or unsafe to eat.",
+    "correct": "Do not taste them because unknown materials may be harmful, dirty or unsafe to eat."
   },
   {
-    "id": "ac9sfi02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognising humans as animals, describing external features of humans and…",
-      "using magnifying glasses or digital cameras to observe and identify external…",
-      "explaining safety considerations for using the senses of touch, smell, sight…",
-      "sorting collections of model animals and explaining different grouping…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p03",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each observation to the main sense used: sight, hearing or touch.",
+    "explanation": "Shell stripes → sight; rain recording → hearing; smooth stone → touch. Award 1 mark each; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shell stripes → sight; rain recording → hearing; smooth stone → touch. Award 1 mark each; 3 marks total.",
+    "correct": "Shell stripes → sight; rain recording → hearing; smooth stone → touch. Award 1 mark each; 3 marks total."
   },
   {
-    "id": "ac9sfi02-04",
+    "id": "ac9sfi02-p04",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "What is the best way to observe and record it safely?",
+    "explanation": "C — It gathers visual evidence while protecting the observer, animal and garden.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "observing how toys move, and grouping them based on their movement",
-      "observing and describing ways different and unusually shaped objects such as…",
-      "comparing the way different-sized, similar-shaped objects such as tennis…",
-      "using provided tools such as binoculars, magnifying glasses, digital…"
+      "Taste the flower it landed on.",
+      "Grab its wings for a closer look.",
+      "Watch from the path and take a photograph or drawing.",
+      "Chase it through the garden beds."
     ],
-    "correct": 3,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "correct": 2
   },
   {
-    "id": "ac9sfi02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "engage in investigations safely and make observations using their senses",
-      "exploring how the material a ball is made from affects the way it moves, such…",
-      "observing and manipulating objects to identify the materials they are made of…",
-      "recognising that tools such as magnifying glasses enable more-detailed…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p05",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Demonstrate how to obtain a clear view, then state one new detail you observe.",
+    "explanation": "Keeps the tool away from eyes/Sun and adjusts distance rather than running/moving unsafely (1 mark); handles the sample as directed (1 mark); reports a specific magnified detail such as veins, edge or surface marks (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Keeps the tool away from eyes/Sun and adjusts distance rather than running/moving unsafely (1 mark); handles the sample as directed (1 mark); reports a specific magnified detail such as veins, edge or surface marks (1 mark). 3 marks total.",
+    "correct": "Keeps the tool away from eyes/Sun and adjusts distance rather than running/moving unsafely (1 mark); handles the sample as directed (1 mark); reports a specific magnified detail such as veins, edge or surface marks (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfi02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "sorting and grouping materials based on observed properties such as colour,…",
-      "recording observations using numbers, dots, drawings, voice recordings,…",
-      "creating a display of different materials, naming each material and exploring…",
-      "using a digital camera to collect images of objects on a materials scavenger…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p06",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give two safety or fairness rules and one way to record what is heard.",
+    "explanation": "Gives 2 suitable rules, such as remain in marked area, stay with adult/group, stand still, listen quietly or use the same time (1 mark each); proposes tally marks, sound words, voice recording or teacher-provided table (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives 2 suitable rules, such as remain in marked area, stay with adult/group, stand still, listen quietly or use the same time (1 mark each); proposes tally marks, sound words, voice recording or teacher-provided table (1 mark). 3 marks total.",
+    "correct": "Gives 2 suitable rules, such as remain in marked area, stay with adult/group, stand still, listen quietly or use the same time (1 mark each); proposes tally marks, sound words, voice recording or teacher-provided table (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfi02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "suggesting why different parts of everyday objects, such as saucepans and…",
-      "using their senses to make observations and exploring how scientists use…",
-      "recording observations using numbers, dots, drawings, voice recordings,…",
-      "viewing examples of observations such as rock paintings, bark drawings,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p07",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Identify four unsafe actions and replace them with a safe teacher-directed observation plan.",
+    "explanation": "Identifies tasting, close smelling, skin contact/splashing and running as unsafe (up to 4 marks); proposes leaving it sealed or following teacher instructions, observing visually from a safe distance and recording visible features without contact (up to 2 marks). 6 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies tasting, close smelling, skin contact/splashing and running as unsafe (up to 4 marks); proposes leaving it sealed or following teacher instructions, observing visually from a safe distance and recording visible features without contact (up to 2 marks). 6 marks total.",
+    "correct": "Identifies tasting, close smelling, skin contact/splashing and running as unsafe (up to 4 marks); proposes leaving it sealed or following teacher instructions, observing visually from a safe distance and recording visible features without contact (up to 2 marks). 6 marks total."
   },
   {
-    "id": "ac9sfi02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "interacting with stories or documentaries about scientists such as Dame Jane…",
-      "watching an age-appropriate documentary; noticing how people including…",
-      "posing questions based on experiences, such as: ‘What part of a plant is…",
-      "engage in investigations safely and make observations using their senses"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFI02: engage in investigations safely and make observations using their senses."
+    "id": "ac9sfi02-p08",
+    "curriculumCode": "AC9SFI02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Plan three safe observations using different senses or tools. State what each could reveal and one boundary that protects people or the tree.",
+    "explanation": "Gives 3 appropriate observations, such as sight/binoculars for birds, hearing for calls, gentle touch of a reachable fallen bark sample, camera for records or magnifier for a fallen leaf (3 marks); states what each reveals (up to 2 marks); includes a clear boundary such as stay on path, no climbing/breaking/tasting and adult supervision (1 mark). 6 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives 3 appropriate observations, such as sight/binoculars for birds, hearing for calls, gentle touch of a reachable fallen bark sample, camera for records or magnifier for a fallen leaf (3 marks); states what each reveals (up to 2 marks); includes a clear boundary such as stay on path, no climbing/breaking/tasting and adult supervision (1 mark). 6 marks total.",
+    "correct": "Gives 3 appropriate observations, such as sight/binoculars for birds, hearing for calls, gentle touch of a reachable fallen bark sample, camera for records or magnifier for a fallen leaf (3 marks); states what each reveals (up to 2 marks); includes a clear boundary such as stay on path, no climbing/breaking/tasting and adult supervision (1 mark). 6 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p01",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Edit ‘The bird landed it drank water’ into two simple sentences.",
+    "explanation": "‘The bird landed. It drank water.’ with capital and full stops (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "‘The bird landed. It drank water.’ with capital and full stops (3 marks).",
+    "correct": "‘The bird landed. It drank water.’ with capital and full stops (3 marks)."
   },
   {
-    "id": "ac9e1ly06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "applying emerging knowledge of text structure and grammar when creating text",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p02",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match report, opinion and recount to ‘Koalas are…’, ‘I think… because…’ and ‘Yesterday, first…’.",
+    "explanation": "Each purpose matched correctly (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each purpose matched correctly (1 mark each).",
+    "correct": "Each purpose matched correctly (1 mark each)."
   },
   {
-    "id": "ac9e1ly06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "using learning area vocabulary when creating text",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p03",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Read the draft ‘My dog fast.’ aloud and improve it into a grammatical simple sentence.",
+    "explanation": "Example: ‘My dog runs fast.’ adds a suitable verb and complete idea (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example: ‘My dog runs fast.’ adds a suitable verb and complete idea (2 marks).",
+    "correct": "Example: ‘My dog runs fast.’ adds a suitable verb and complete idea (2 marks)."
   },
   {
-    "id": "ac9e1ly06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "creating digital images and composing a story or information sequence on…"
+    "id": "ac9e1ly06-p04",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Replace thing in ‘The thing pushed the car’ with precise words for a forces report.",
+    "explanation": "Example: ‘The hand applied a push that moved the toy car.’ (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Example: ‘The hand applied a push that moved the toy car.’ (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "correct": "Example: ‘The hand applied a push that moved the toy car.’ (2 marks)"
   },
   {
-    "id": "ac9e1ly06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p05",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: draft sentences; choose purpose/topic; reread and edit; publish/share.",
+    "explanation": "Choose purpose/topic → draft → reread/edit → publish/share (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Choose purpose/topic → draft → reread/edit → publish/share (2 marks).",
+    "correct": "Choose purpose/topic → draft → reread/edit → publish/share (2 marks)."
   },
   {
-    "id": "ac9e1ly06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "adding or deleting words on a page or screen to improve meaning; for example,…",
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p06",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Create three panels for first, next and finally in an imagined lost-key event. Add one sentence per panel.",
+    "explanation": "Three logical events, complete sentences and appropriate time words/punctuation (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Three logical events, complete sentences and appropriate time words/punctuation (4 marks).",
+    "correct": "Three logical events, complete sentences and appropriate time words/punctuation (4 marks)."
   },
   {
-    "id": "ac9e1ly06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "beginning to use dictionaries and resources to check and correct spelling",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p07",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Improve ‘I like the park. It is good.’ by linking a specific reason.",
+    "explanation": "Example: ‘I like the park because its shady trees keep the play area cool.’ (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example: ‘I like the park because its shady trees keep the play area cool.’ (2 marks).",
+    "correct": "Example: ‘I like the park because its shady trees keep the play area cool.’ (2 marks)."
   },
   {
-    "id": "ac9e1ly06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "create and re-read to edit short written and/or multimodal texts to report on…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY06: create and re-read to edit short written and/or multimodal texts to report on…."
+    "id": "ac9e1ly06-p08",
+    "curriculumCode": "AC9E1LY06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Draft: ‘A habitat is a place living things live. it gives water food or shelter’ Edit capitals, punctuation and any grammar needed.",
+    "explanation": "‘A habitat is a place where living things live. It can provide water, food or shelter.’ (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "‘A habitat is a place where living things live. It can provide water, food or shelter.’ (4 marks).",
+    "correct": "‘A habitat is a place where living things live. It can provide water, food or shelter.’ (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

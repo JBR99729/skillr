@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly07-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "id": "ac9e3ly07-p01",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: greeting/topic, main points, conclusion, audience question time.",
+    "explanation": "Greeting/topic; main points; conclusion; questions.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Greeting/topic; main points; conclusion; questions.",
+    "correct": "Greeting/topic; main points; conclusion; questions."
   },
   {
-    "id": "ac9e3ly07-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "researching a topic to prepare an oral or multimodal presentation",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3ly07-p02",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write an opening sentence for a short talk about saving water at school.",
+    "explanation": "A clear topic-opening sentence.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A clear topic-opening sentence"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "correct": "A clear topic-opening sentence"
   },
   {
-    "id": "ac9e3ly07-03",
+    "id": "ac9e3ly07-p03",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which helps an audience: mumbling, clear voice, facing away?",
+    "explanation": "Clear voice.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "planning the sequence of ideas and information using techniques such as…",
-      "discuss characters, events and settings in different contexts in literature…"
+      "mumbling",
+      "clear voice",
+      "facing away"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "correct": 1
   },
   {
-    "id": "ac9e3ly07-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "adjusting tone and pace to purpose and audience"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "id": "ac9e3ly07-p04",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: eye contact, pace, volume, gesture.",
+    "explanation": "Verbal/vocal: pace, volume. Non-verbal: eye contact, gesture.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Verbal/vocal: pace, volume. Non-verbal: eye contact, gesture.",
+    "correct": "Verbal/vocal: pace, volume. Non-verbal: eye contact, gesture."
   },
   {
-    "id": "ac9e3ly07-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "id": "ac9e3ly07-p05",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "A slide has a full paragraph in tiny print. Suggest one improvement.",
+    "explanation": "Use fewer key words, larger text or supportive image.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use fewer key words, larger text or supportive image.",
+    "correct": "Use fewer key words, larger text or supportive image."
   },
   {
-    "id": "ac9e3ly07-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "explaining ideas to a peer when planning a presentation",
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "use comprehension strategies when listening and viewing to build literal and…"
+    "id": "ac9e3ly07-p06",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name one thing to practise before presenting.",
+    "explanation": "Voice, pace, timing, order, eye contact or using notes.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Voice, pace, timing, order, eye contact or using notes"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "correct": "Voice, pace, timing, order, eye contact or using notes"
   },
   {
-    "id": "ac9e3ly07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish imaginative, informative and persuasive…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "explaining ideas to a peer when planning a presentation",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "id": "ac9e3ly07-p07",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how one image or prop could help a talk about rocks.",
+    "explanation": "It gives visual evidence and helps the audience understand the object/features.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visual evidence and helps the audience understand the object/features.",
+    "correct": "It gives visual evidence and helps the audience understand the object/features."
   },
   {
-    "id": "ac9e3ly07-08",
+    "id": "ac9e3ly07-p08",
+    "curriculumCode": "AC9E3LY07",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "What should a conclusion do: introduce a new unrelated topic, finish the main idea, or hide the message?",
+    "explanation": "Finish the main idea.",
+    "printable": true,
     "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
     "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…"
+      "introduce a new unrelated topic",
+      "finish the main idea",
+      "or hide the message"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY07: plan, create, rehearse and deliver short oral and/or multimodal presentations…."
+    "correct": 1
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

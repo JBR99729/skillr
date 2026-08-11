@@ -1,107 +1,124 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3n01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise, represent and order natural numbers using naming and writing…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "follow and create algorithms involving a sequence of steps and decisions to…"
+    "id": "ac9m3n01-p01",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write 46 208 in words.",
+    "explanation": "forty-six thousand, two hundred and eight. Accept “forty six” without a hyphen. 1 mark.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "forty-six thousand, two hundred and eight"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": "forty-six thousand, two hundred and eight"
   },
   {
-    "id": "ac9m3n01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "moving materials from one place to another on a place value model to show…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
+    "id": "ac9m3n01-p02",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write this number using digits and a space between each group of three digits: ninety-three thousand, sixty-five.",
+    "explanation": "93 065. Award 1 mark only if the zero is included in the hundreds place.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "93 065",
+      "93065",
+      "93,065"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": "93 065"
   },
   {
-    "id": "ac9m3n01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "using the repeating pattern of place value names and spaces within sets of 3…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "id": "ac9m3n01-p03",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each part of 71 304 to its value: digit 7, digit 1, digit 3, digit 4; values 70 000, 1 000, 300, 4.",
+    "explanation": "7 → 70 000; 1 → 1 000; 3 → 300; 4 → 4. 4 marks, one per correct match.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "7 → 70 000; 1 → 1 000; 3 → 300; 4 → 4. 4 marks, one per correct match.",
+    "correct": "7 → 70 000; 1 → 1 000; 3 → 300; 4 → 4. 4 marks, one per correct match."
   },
   {
-    "id": "ac9m3n01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…"
+    "id": "ac9m3n01-p04",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Mia says 34 560 is 3 ten-thousands, 4 thousands, 5 hundreds and 6 tens. What part is missing, and how many are there?",
+    "explanation": "ones; 0 ones. 1 mark for both the place and value.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "ones; 0 ones"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": "ones; 0 ones"
   },
   {
-    "id": "ac9m3n01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise, represent and order natural numbers using naming and writing…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3n01-p05",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is one more than 19 999? Explain which place values change.",
+    "explanation": "20 000. Explanation: 9 ones become 0 ones, 9 tens become 0 tens, 9 hundreds become 0 hundreds and 9 thousands become 0 thousands; the ten-thousands changes from 1 to 2. Award 1 mark for the number and 1 mark for a correct place-value explanation.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "20 000",
+      "20000",
+      "20,000"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": "20 000"
   },
   {
-    "id": "ac9m3n01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
+    "id": "ac9m3n01-p06",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Put these numbers in order from smallest to largest: 50 406, 50 046, 49 999, 50 460.",
+    "explanation": "49 999, 50 046, 50 406, 50 460. 2 marks: 1 for the first two in order and 1 for the complete correct sequence.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "50 406",
+      "50 046",
+      "49 999",
+      "50 460"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": [
+      "49 999",
+      "50 046",
+      "50 406",
+      "50 460"
+    ]
   },
   {
-    "id": "ac9m3n01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "recognising that unit fractions represent equal parts of a whole; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "representing unit fractions and their multiples in different ways; for…"
+    "id": "ac9m3n01-p07",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The number 6□ 482 is greater than 65 000 but less than 67 000. What digit belongs in the box? Explain.",
+    "explanation": "6. The thousands digit must be 6, making the number 66 482; this is between 65 000 and 67 000. 2 marks: digit and explanation.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "6"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "correct": "6"
   },
   {
-    "id": "ac9m3n01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "cutting objects such as oranges, sandwiches or playdough into halves,…",
-      "sharing collections of objects, such as pop sticks or counters, between 3, 4…",
-      "using partitioning and part-part-whole models and the inverse relationship…",
-      "recognise, represent and order natural numbers using naming and writing…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N01: recognise, represent and order natural numbers using naming and writing…."
+    "id": "ac9m3n01-p08",
+    "curriculumCode": "AC9M3N01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A library recorded these numbers of pages read in a month: 82 715, 82 571 and 81 999. Which is the greatest? Write a comparison that proves your answer.",
+    "explanation": "82 715 is greatest. It has 82 thousands, like 82 571, but 7 hundreds is greater than 5 hundreds; both are greater than 81 999 because 82 thousands is greater than 81 thousands. 3 marks: correct number, valid comparison with 82 571, and valid comparison with 81 999.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "82 715 is greatest. It has 82 thousands, like 82 571, but 7 hundreds is greater than 5 hundreds; both are greater than 81 999 because 82 thousands is greater than 81 thousands. 3 marks: correct number, valid comparison with 82 571, and valid comparison with 81 999.",
+    "correct": "82 715 is greatest. It has 82 thousands, like 82 571, but 7 hundreds is greater than 5 hundreds; both are greater than 81 999 because 82 thousands is greater than 81 thousands. 3 marks: correct number, valid comparison with 82 571, and valid comparison with 81 999."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

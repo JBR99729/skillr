@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3le02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p01",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A character feels nervous before a performance. Write one personal connection a reader might make.",
+    "explanation": "A relevant connection to feeling nervous before an event.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant connection to feeling nervous before an event.",
+    "correct": "A relevant connection to feeling nervous before an event."
   },
   {
-    "id": "ac9e3le02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "discussing relevant prior knowledge and past experiences to make meaningful…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p02",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which preference gives a reason: \"I like it\"; \"I like it because the mystery made me predict\"; or \"Book good\"?",
+    "explanation": "\"I like it because the mystery made me predict.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"I like it because the mystery made me predict.\"",
+    "correct": "\"I like it because the mystery made me predict.\""
   },
   {
-    "id": "ac9e3le02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "selecting and discussing favourite texts and explaining reasons for assigning…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p03",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Choose a character from a familiar story and explain whether you would like to be their friend.",
+    "explanation": "A preference supported by character evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A preference supported by character evidence.",
+    "correct": "A preference supported by character evidence."
   },
   {
-    "id": "ac9e3le02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "selecting and discussing favourite texts and explaining reasons for assigning…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p04",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: \"This reminds me of moving house\"; \"The girl moved house\"; \"I also have a younger brother\"; \"The story has three chapters\".",
+    "explanation": "Connections: reminds me, also have. Summaries: girl moved house, three chapters.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Connections: reminds me, also have. Summaries: girl moved house, three chapters.",
+    "correct": "Connections: reminds me, also have. Summaries: girl moved house, three chapters."
   },
   {
-    "id": "ac9e3le02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p05",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A story family loses power during a storm. What experience or knowledge could help a reader understand this event?",
+    "explanation": "A relevant experience/knowledge of storms, blackouts or being prepared.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant experience/knowledge of storms, blackouts or being prepared.",
+    "correct": "A relevant experience/knowledge of storms, blackouts or being prepared."
   },
   {
-    "id": "ac9e3le02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "selecting and discussing favourite texts and explaining reasons for assigning…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p06",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Improve: \"I liked the dog.\" Add a reason connected to the story.",
+    "explanation": "For example, \"I liked the dog because it warned the family about danger.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, \"I liked the dog because it warned the family about danger.\"",
+    "correct": "For example, \"I liked the dog because it warned the family about danger.\""
   },
   {
-    "id": "ac9e3le02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "selecting and discussing favourite texts and explaining reasons for assigning…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p07",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which response uses evidence: \"I hate it\"; \"I felt worried when the bridge cracked\"; \"It was a book\"?",
+    "explanation": "\"I felt worried when the bridge cracked.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"I felt worried when the bridge cracked.\"",
+    "correct": "\"I felt worried when the bridge cracked.\""
   },
   {
-    "id": "ac9e3le02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE02: discuss connections between personal experiences and character experiences in…."
+    "id": "ac9e3le02-p08",
+    "curriculumCode": "AC9E3LE02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why two readers might prefer different characters in the same story.",
+    "explanation": "Readers bring different experiences, values and interests.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Readers bring different experiences, values and interests.",
+    "correct": "Readers bring different experiences, values and interests."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

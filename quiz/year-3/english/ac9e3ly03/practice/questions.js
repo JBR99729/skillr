@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly03-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p01",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match: story, advertisement, report, invitation to entertain, persuade, inform, invite.",
+    "explanation": "Story -> entertain; advertisement -> persuade; report -> inform; invitation -> invite.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Story -> entertain; advertisement -> persuade; report -> inform; invitation -> invite.",
+    "correct": "Story -> entertain; advertisement -> persuade; report -> inform; invitation -> invite."
   },
   {
-    "id": "ac9e3ly03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "identifying words, phrases and images intended to persuade listeners, viewers…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p02",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A text says \"Parents and carers are invited to...\" Who is the audience?",
+    "explanation": "Parents and carers.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Parents and carers.",
+    "correct": "Parents and carers."
   },
   {
-    "id": "ac9e3ly03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "identifying features of advertisements that target children",
-      "discuss characters, events and settings in different contexts in literature…"
+    "id": "ac9e3ly03-p03",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A text says \"You should buy this because...\" What is its likely purpose?",
+    "explanation": "To persuade.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "To persuade"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "correct": "To persuade"
   },
   {
-    "id": "ac9e3ly03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "identifying the purpose of an imaginative text; for example, identifying the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p04",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: price, character dialogue, facts table, date/time into persuasive, imaginative, informative or invitation clues.",
+    "explanation": "Price -> persuasive; dialogue -> imaginative; facts table -> informative; date/time -> invitation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Price -> persuasive; dialogue -> imaginative; facts table -> informative; date/time -> invitation.",
+    "correct": "Price -> persuasive; dialogue -> imaginative; facts table -> informative; date/time -> invitation."
   },
   {
-    "id": "ac9e3ly03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p05",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Hotspot / selection",
+    "question": "Select persuasive words: amazing, because, turtle, yesterday, best.",
+    "explanation": "amazing, because, best.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "amazing, because, best.",
+    "correct": "amazing, because, best."
   },
   {
-    "id": "ac9e3ly03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "identifying the purpose of an imaginative text; for example, identifying the…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p06",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A poster has a big photo of a clean beach and the words \"Join our clean-up\". Explain audience and purpose.",
+    "explanation": "Audience is people who can join; purpose is to persuade/invite them to clean up.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Audience is people who can join; purpose is to persuade/invite them to clean up.",
+    "correct": "Audience is people who can join; purpose is to persuade/invite them to clean up."
   },
   {
-    "id": "ac9e3ly03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "identifying the purpose of an imaginative text; for example, identifying the…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "id": "ac9e3ly03-p07",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which title best suits an informative text: \"Why Dogs Are the Best\"; \"How Frogs Grow\"; or \"The Magic Door\"?",
+    "explanation": "\"How Frogs Grow.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"How Frogs Grow.\"",
+    "correct": "\"How Frogs Grow.\""
   },
   {
-    "id": "ac9e3ly03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
+    "id": "ac9e3ly03-p08",
+    "curriculumCode": "AC9E3LY03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How can a picture help you identify the purpose of a text?",
+    "explanation": "It can show product, event, information, mood or intended audience.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "It can show product, event, information, mood or intended audience"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY03: identify the audience and purpose of imaginative, informative and persuasive…."
+    "correct": "It can show product, event, information, mood or intended audience"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

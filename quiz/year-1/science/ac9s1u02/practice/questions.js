@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1u02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "describe daily and seasonal changes in the environment and explore how these…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…",
-      "make and record observations, including informal measurements, using digital…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p01",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one environmental change that can be observed from morning to night.",
+    "explanation": "One valid change such as daylight, temperature, shadow position or animal activity (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "One valid change such as daylight, temperature, shadow position or animal activity (1 mark).",
+    "correct": "One valid change such as daylight, temperature, shadow position or animal activity (1 mark)."
   },
   {
-    "id": "ac9s1u02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "sort and order data and information and represent patterns, including with…",
-      "making and recording observations of phenomena such as changes to weather,…",
-      "compare observations with predictions and others’ observations, consider if…",
-      "write and create texts to communicate observations, findings and ideas, using…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p02",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match rain, strong sunshine and cold air to umbrella, shade/hat and warm layer.",
+    "explanation": "Rain ↔ umbrella; sunshine ↔ shade/hat; cold ↔ warm layer (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Rain ↔ umbrella; sunshine ↔ shade/hat; cold ↔ warm layer (1 mark each).",
+    "correct": "Rain ↔ umbrella; sunshine ↔ shade/hat; cold ↔ warm layer (1 mark each)."
   },
   {
-    "id": "ac9s1u02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identifying the places where plants and animals live, including in our homes,…",
-      "identifying what they do to look after pets or plants at home and grouping…",
-      "noticing how daily weather indicators and seasonal patterns help us to make…",
-      "identifying and comparing the needs of a variety of plants and animals,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p03",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Arrange sunrise, midday, sunset and night in order and describe the light at two points.",
+    "explanation": "Correct order and two accurate light observations (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Correct order and two accurate light observations (3 marks).",
+    "correct": "Correct order and two accurate light observations (3 marks)."
   },
   {
-    "id": "ac9s1u02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "creating dioramas of a place a plant or animal lives, and identifying the…",
-      "exploring why caring for plants and animals is important including as sources…",
-      "observing and manipulating everyday objects such as playground equipment,…",
-      "investigating how seasonal changes affect plants and animals, including…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p04",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A single rainy Tuesday occurs in summer. Does that one day prove the season changed? Explain.",
+    "explanation": "No; rain is daily weather, while a season is a longer pattern over months (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "No; rain is daily weather, while a season is a longer pattern over months (2 marks).",
+    "correct": "No; rain is daily weather, while a season is a longer pattern over months (2 marks)."
   },
   {
-    "id": "ac9s1u02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "describe daily and seasonal changes in the environment and explore how these…",
-      "investigating how the design of age-appropriate sporting equipment such as…",
-      "recognising that pushing or pulling on an object can start or stop its motion…",
-      "exploring ways the shape of playdough can be changed when pushed or pulled"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p05",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these records through one day: long morning shadow, short midday shadow, long afternoon shadow.",
+    "explanation": "Morning long → midday short → afternoon long (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Morning long → midday short → afternoon long (2 marks).",
+    "correct": "Morning long → midday short → afternoon long (2 marks)."
   },
   {
-    "id": "ac9s1u02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "designing playground equipment, toys or games and representing push and pull…",
-      "investigating how changes in the weather affect plants and animals, including…",
-      "exploring how traditional Asian toys and games such as a kendama, Daruma…",
-      "learning from farmers, bush care volunteers, gardeners or nursery owners…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p06",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw suitable clothing for a hot sunny day and a cool wet day. Label the condition each item responds to.",
+    "explanation": "Shows sensible sun/heat and rain/cool choices with accurate labels (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows sensible sun/heat and rain/cool choices with accurate labels (3 marks).",
+    "correct": "Shows sensible sun/heat and rain/cool choices with accurate labels (3 marks)."
   },
   {
-    "id": "ac9s1u02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "identifying ways that science knowledge is used in the care of the local…",
-      "learning from local ecologists or wildlife carers about native animals’ needs…",
-      "exploring how people make clothing choices using predictions of weather or…",
-      "sharing examples of how they have used science knowledge at home, such as by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p07",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A week records 5 cool mornings and 2 warm mornings. What can be said about that week without claiming every morning was cool?",
+    "explanation": "Cool mornings were more frequent in the recorded week; two mornings were warm, so not all were cool (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Cool mornings were more frequent in the recorded week; two mornings were warm, so not all were cool (2 marks).",
+    "correct": "Cool mornings were more frequent in the recorded week; two mornings were warm, so not all were cool (2 marks)."
   },
   {
-    "id": "ac9s1u02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying how we use pushes and pulls when preparing meals, and the tools…",
-      "exploring how engineers use knowledge of forces to create new playground…",
-      "posing questions about simple relationships between push and pull forces,…",
-      "describe daily and seasonal changes in the environment and explore how these…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1U02: describe daily and seasonal changes in the environment and explore how these…."
+    "id": "ac9s1u02-p08",
+    "curriculumCode": "AC9S1U02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Choose an outdoor activity and explain how heat, rain or daylight could change its time, clothing or location.",
+    "explanation": "Connects one environmental condition to a sensible change in at least two aspects (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Connects one environmental condition to a sensible change in at least two aspects (3 marks).",
+    "correct": "Connects one environmental condition to a sensible change in at least two aspects (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

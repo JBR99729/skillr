@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3n06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "follow and create algorithms involving a sequence of steps and decisions to…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "id": "ac9m3n06-p01",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A picnic has 5 tables with 6 students at each and 4 teachers. How many people? Show a model.",
+    "explanation": "5 x 6 + 4 = 34 people.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "5 x 6 + 4 = 34 people.",
+    "correct": "5 x 6 + 4 = 34 people."
   },
   {
-    "id": "ac9m3n06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "modelling practical additive situations, choosing whether to use an addition,…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
+    "id": "ac9m3n06-p02",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "There are 48 pencils packed equally into 6 cups. How many pencils in each cup?",
+    "explanation": "8 pencils.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "8 pencils"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "correct": "8 pencils"
   },
   {
-    "id": "ac9m3n06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "modelling additive problems using a bar model to represent the problem; for…",
-      "recognise and use the relationship between formal units of time including…"
+    "id": "ac9m3n06-p03",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A bus has 42 seats. If 29 are filled, how many are empty?",
+    "explanation": "13 seats.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "13 seats"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "correct": "13 seats"
   },
   {
-    "id": "ac9m3n06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "modelling practical multiplicative situations using materials or a diagram to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "id": "ac9m3n06-p04",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match the story to +, -, x or /: join groups, find difference, equal groups, share equally.",
+    "explanation": "Join -> +; difference -> -; equal groups -> x; share -> /.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Join -> +; difference -> -; equal groups -> x; share -> /.",
+    "correct": "Join -> +; difference -> -; equal groups -> x; share -> /."
   },
   {
-    "id": "ac9m3n06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3n06-p05",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A ticket costs $4. How much for 7 tickets?",
+    "explanation": "$28.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "$28"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "correct": "$28"
   },
   {
-    "id": "ac9m3n06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "modelling and solving practical division problems involving unknown numbers…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "id": "ac9m3n06-p06",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A class needs 30 paper flowers. They have made 18 and make 4 each day. How many more days are needed?",
+    "explanation": "3 days; 30 - 18 = 12 and 12 / 4 = 3.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "3 days; 30 - 18 = 12 and 12 / 4 = 3.",
+    "correct": "3 days; 30 - 18 = 12 and 12 / 4 = 3."
   },
   {
-    "id": "ac9m3n06-07",
+    "id": "ac9m3n06-p07",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which number sentence matches 3 boxes of 8 plus 5 loose crayons: 3 + 8 + 5, 3 x 8 + 5 or 8 - 3 + 5?",
+    "explanation": "3 x 8 + 5.",
+    "printable": true,
     "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
     "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "modelling the problem of deciding how to share an amount equally; for…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
+      "3 + 8 + 5",
+      "3 x 8 + 5",
+      "8 - 3 + 5"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "correct": 1
   },
   {
-    "id": "ac9m3n06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "use mathematical modelling to solve practical problems involving additive and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N06: use mathematical modelling to solve practical problems involving additive and…."
+    "id": "ac9m3n06-p08",
+    "curriculumCode": "AC9M3N06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how you would check whether an answer to a word problem is reasonable.",
+    "explanation": "Use estimation, inverse operation or reread the story context.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Use estimation, inverse operation or reread the story context.",
+    "correct": "Use estimation, inverse operation or reread the story context."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s1u01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify the basic needs of plants and animals, including air, water, food or…",
-      "pose questions to explore observed simple patterns and relationships and make…",
-      "suggest and follow safe procedures to investigate questions and test…",
-      "make and record observations, including informal measurements, using digital…"
+    "id": "ac9s1u01-p01",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "State one basic need shared by a dog, a bird and a person.",
+    "explanation": "Any one of air, water or food (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Any one of air, water or food (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "correct": "Any one of air, water or food (1 mark)"
   },
   {
-    "id": "ac9s1u01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "sort and order data and information and represent patterns, including with…",
-      "identifying the places where plants and animals live, including in our homes,…",
-      "compare observations with predictions and others’ observations, consider if…",
-      "write and create texts to communicate observations, findings and ideas, using…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p02",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match water, food and shelter to pond water, insects and reeds in a frog habitat.",
+    "explanation": "Water ↔ pond water; food ↔ insects; shelter ↔ reeds (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Water ↔ pond water; food ↔ insects; shelter ↔ reeds (1 mark each).",
+    "correct": "Water ↔ pond water; food ↔ insects; shelter ↔ reeds (1 mark each)."
   },
   {
-    "id": "ac9s1u01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "making and recording observations of phenomena such as changes to weather,…",
-      "noticing how daily weather indicators and seasonal patterns help us to make…",
-      "identifying what they do to look after pets or plants at home and grouping…",
-      "investigating how seasonal changes affect plants and animals, including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p03",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "From picture cards showing water, sunlight, a sealed dark box and space, select what a healthy classroom plant needs.",
+    "explanation": "Selects water, light and suitable space; rejects the sealed dark box (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Selects water, light and suitable space; rejects the sealed dark box (3 marks).",
+    "correct": "Selects water, light and suitable space; rejects the sealed dark box (3 marks)."
   },
   {
-    "id": "ac9s1u01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "investigating how changes in the weather affect plants and animals, including…",
-      "exploring how people make clothing choices using predictions of weather or…",
-      "observing and manipulating everyday objects such as playground equipment,…",
-      "identifying and comparing the needs of a variety of plants and animals,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p04",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A nest protects chicks, but it does not provide every need. Name two other things adult birds must find.",
+    "explanation": "Any two of food, water and air; food and water expected as resources outside the nest (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any two of food, water and air; food and water expected as resources outside the nest (2 marks).",
+    "correct": "Any two of food, water and air; food and water expected as resources outside the nest (2 marks)."
   },
   {
-    "id": "ac9s1u01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify the basic needs of plants and animals, including air, water, food or…",
-      "investigating how the design of age-appropriate sporting equipment such as…",
-      "recognising that pushing or pulling on an object can start or stop its motion…",
-      "exploring ways the shape of playdough can be changed when pushed or pulled"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p05",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: refill clean water; notice the water bowl is empty; check the animal can reach it; tell the responsible adult.",
+    "explanation": "Notice empty bowl → tell responsible adult → refill as directed → check access (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Notice empty bowl → tell responsible adult → refill as directed → check access (2 marks).",
+    "correct": "Notice empty bowl → tell responsible adult → refill as directed → check access (2 marks)."
   },
   {
-    "id": "ac9s1u01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "designing playground equipment, toys or games and representing push and pull…",
-      "creating dioramas of a place a plant or animal lives, and identifying the…",
-      "exploring how traditional Asian toys and games such as a kendama, Daruma…",
-      "learning from farmers, bush care volunteers, gardeners or nursery owners…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p06",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a habitat for a small fish and label water, food and a safe place to shelter.",
+    "explanation": "Labels all three relevant habitat features and keeps the fish in suitable water (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Labels all three relevant habitat features and keeps the fish in suitable water (3 marks).",
+    "correct": "Labels all three relevant habitat features and keeps the fish in suitable water (3 marks)."
   },
   {
-    "id": "ac9s1u01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "identifying ways that science knowledge is used in the care of the local…",
-      "learning from local ecologists or wildlife carers about native animals’ needs…",
-      "exploring why caring for plants and animals is important including as sources…",
-      "sharing examples of how they have used science knowledge at home, such as by…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p07",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "One seedling is beside a bright window and watered; another is sealed in a dark cupboard without water. Predict which is more likely to survive and explain.",
+    "explanation": "Window seedling; it has light, water and air, while the cupboard seedling lacks key needs (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Window seedling; it has light, water and air, while the cupboard seedling lacks key needs (3 marks).",
+    "correct": "Window seedling; it has light, water and air, while the cupboard seedling lacks key needs (3 marks)."
   },
   {
-    "id": "ac9s1u01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "identifying how we use pushes and pulls when preparing meals, and the tools…",
-      "exploring how engineers use knowledge of forces to create new playground…",
-      "posing questions about simple relationships between push and pull forces,…",
-      "identify the basic needs of plants and animals, including air, water, food or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S1U01: identify the basic needs of plants and animals, including air, water, food or…."
+    "id": "ac9s1u01-p08",
+    "curriculumCode": "AC9S1U01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Create a four-part checklist for deciding whether a place can meet a rabbit's basic needs.",
+    "explanation": "Checks air, water, suitable food and safe shelter/space, with one relevant habitat feature for each (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Checks air, water, suitable food and safe shelter/space, with one relevant habitat feature for each (4 marks).",
+    "correct": "Checks air, water, suitable food and safe shelter/space, with one relevant habitat feature for each (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,102 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1le01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1le01-p01",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "In ‘Tara tucked the injured bird gently into a box’, which word best shows how Tara acts?",
+    "explanation": "Gently; it suggests care (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Gently; it suggests care (2 marks)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "correct": "Gently; it suggests care (2 marks)"
   },
   {
-    "id": "ac9e1le01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "discussing how animal characters reflect human characteristics; for example,…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p02",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match jagged lines, tiny figure and warm golden light to danger/tension, feeling alone and comfort/warmth.",
+    "explanation": "Each visual choice matches its likely literary effect (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each visual choice matches its likely literary effect (1 mark each).",
+    "correct": "Each visual choice matches its likely literary effect (1 mark each)."
   },
   {
-    "id": "ac9e1le01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss literary texts and share responses by making connections with…",
-      "discussing the events associated with Australian animal characters and what…",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p03",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Say ‘I can do it’ once confidently and once nervously. Explain how voice creates two versions of the character.",
+    "explanation": "Uses clearly different voice and explains confidence versus uncertainty (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Uses clearly different voice and explains confidence versus uncertainty (3 marks).",
+    "correct": "Uses clearly different voice and explains confidence versus uncertainty (3 marks)."
   },
   {
-    "id": "ac9e1le01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "discussing the events associated with Australian animal characters and what…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p04",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The words say ‘Wind whistled between the empty sheds.’ What setting feeling do they create, and which words help?",
+    "explanation": "A plausible lonely/eerie/windy feeling, supported by whistled and empty (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A plausible lonely/eerie/windy feeling, supported by whistled and empty (2 marks).",
+    "correct": "A plausible lonely/eerie/windy feeling, supported by whistled and empty (2 marks)."
   },
   {
-    "id": "ac9e1le01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p05",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: muddy footprints appear; Jo follows them; the missing puppy is found; rain begins.",
+    "explanation": "A logical narrative order beginning with rain/footprints and ending with puppy found; explanation accepts rain first then prints (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical narrative order beginning with rain/footprints and ending with puppy found; explanation accepts rain first then prints (2 marks).",
+    "correct": "A logical narrative order beginning with rain/footprints and ending with puppy found; explanation accepts rain first then prints (2 marks)."
   },
   {
-    "id": "ac9e1le01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "discussing the events associated with Australian animal characters and what…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p06",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a simple illustration for ‘The boat entered the bay’ that makes the event feel dangerous. Label two visual choices.",
+    "explanation": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect (3 marks).",
+    "correct": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect (3 marks)."
   },
   {
-    "id": "ac9e1le01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "discussing the events associated with Australian animal characters and what…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p07",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Words call a room ‘quiet’, but the picture shows open cupboards and a broken vase. What extra idea might the image add?",
+    "explanation": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative (2 marks).",
+    "correct": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative (2 marks)."
   },
   {
-    "id": "ac9e1le01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "discuss how language and images are used to create characters, settings and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LE01: discuss how language and images are used to create characters, settings and…."
+    "id": "ac9e1le01-p08",
+    "curriculumCode": "AC9E1LE01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "One character is described as ‘bounding ahead’; another ‘waited and checked the map’. Compare what these choices suggest.",
+    "explanation": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions (3 marks).",
+    "correct": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

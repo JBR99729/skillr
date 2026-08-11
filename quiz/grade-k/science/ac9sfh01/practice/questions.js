@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9sfh01-01",
+    "id": "ac9sfh01-p01",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is an observation rather than a question?",
+    "explanation": "D — It reports a feature that can be seen; the other sentences ask for information.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explore the ways people make and use observations and questions to learn…",
-      "pose questions and make predictions based on experiences",
-      "engage in investigations safely and make observations using their senses",
-      "represent observations in provided templates and identify patterns with…"
+      "What will the snail eat?",
+      "Where does the snail sleep?",
+      "Why does the snail move slowly?",
+      "The snail has two long feelers."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "correct": 3
   },
   {
-    "id": "ac9sfh01-02",
+    "id": "ac9sfh01-p02",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which tool would best extend their sight?",
+    "explanation": "A — A magnifying glass makes small visible details easier to observe.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "compare observations with predictions with guidance",
-      "using their senses to make observations and exploring how scientists use…",
-      "share questions, predictions, observations and ideas with others",
-      "observing fruits and vegetables and identifying them as parts of plants such…"
+      "Magnifying glass",
+      "Paintbrush",
+      "Ruler used as a drumstick",
+      "Closed lunchbox"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "correct": 0
   },
   {
-    "id": "ac9sfh01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognising humans as animals, describing external features of humans and…",
-      "using magnifying glasses or digital cameras to observe and identify external…",
-      "viewing examples of observations such as rock paintings, bark drawings,…",
-      "sorting collections of model animals and explaining different grouping…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p03",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Give one observation from sight and one from hearing. How does using both help you learn more?",
+    "explanation": "Gives an accurate visual observation from the image (1 mark); gives an accurate sound observation from the recording (1 mark); explains that the senses provide different/complementary information (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives an accurate visual observation from the image (1 mark); gives an accurate sound observation from the recording (1 mark); explains that the senses provide different/complementary information (1 mark). 3 marks total.",
+    "correct": "Gives an accurate visual observation from the image (1 mark); gives an accurate sound observation from the recording (1 mark); explains that the senses provide different/complementary information (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfh01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing how toys move, and grouping them based on their movement",
-      "observing and describing ways different and unusually shaped objects such as…",
-      "comparing the way different-sized, similar-shaped objects such as tennis…",
-      "interacting with stories or documentaries about scientists such as Dame Jane…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p04",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each observation to the recording method that would preserve it best.",
+    "explanation": "(a) colour drawing; (b) sound recording; (c) tally marks. Award 1 mark each; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(a) colour drawing; (b) sound recording; (c) tally marks. Award 1 mark each; 3 marks total.",
+    "correct": "(a) colour drawing; (b) sound recording; (c) tally marks. Award 1 mark each; 3 marks total."
   },
   {
-    "id": "ac9sfh01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore the ways people make and use observations and questions to learn…",
-      "exploring how the material a ball is made from affects the way it moves, such…",
-      "observing and manipulating objects to identify the materials they are made of…",
-      "recognising that tools such as magnifying glasses enable more-detailed…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p05",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Ask a question that could help the child learn more from this observation.",
+    "explanation": "Gives a relevant open question linked to the observation, such as “Why are there more worms in one patch?” or “Is the soil wetter where more worms are found?” Award 2 marks for a clear, investigable link; 1 mark for a relevant but broad question.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Gives a relevant open question linked to the observation, such as “Why are there more worms in one patch?” or “Is the soil wetter where more worms are found?” Award 2 marks for a clear, investigable link; 1 mark for a relevant but broad question.",
+    "correct": "Gives a relevant open question linked to the observation, such as “Why are there more worms in one patch?” or “Is the soil wetter where more worms are found?” Award 2 marks for a clear, investigable link; 1 mark for a relevant but broad question."
   },
   {
-    "id": "ac9sfh01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "sorting and grouping materials based on observed properties such as colour,…",
-      "watching an age-appropriate documentary; noticing how people including…",
-      "creating a display of different materials, naming each material and exploring…",
-      "using a digital camera to collect images of objects on a materials scavenger…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p06",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name two ways the scientist makes or records observations and explain why keeping a record is useful.",
+    "explanation": "Identifies any 2 of quiet watching, distance viewing, timed photographs or written notes (1 mark each); explains that records can be checked, compared or shared later (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Identifies any 2 of quiet watching, distance viewing, timed photographs or written notes (1 mark each); explains that records can be checked, compared or shared later (1 mark). 3 marks total.",
+    "correct": "Identifies any 2 of quiet watching, distance viewing, timed photographs or written notes (1 mark each); explains that records can be checked, compared or shared later (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfh01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "suggesting why different parts of everyday objects, such as saucepans and…",
-      "posing questions based on experiences, such as: ‘What part of a plant is…",
-      "watching an age-appropriate documentary; noticing how people including…",
-      "posing questions about everyday objects and the materials that they may be…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p07",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "State one observation that the image proves, one idea that might explain it and one question that could test or explore your idea. Label each part.",
+    "explanation": "Observation reports visible wet ground/footprints without claiming an unseen event (1 mark); idea/inference is plausible, such as a bird walked there (1 mark); question is relevant, such as which bird made the tracks or when they appeared (1 mark); labels the three kinds of statement correctly (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Observation reports visible wet ground/footprints without claiming an unseen event (1 mark); idea/inference is plausible, such as a bird walked there (1 mark); question is relevant, such as which bird made the tracks or when they appeared (1 mark); labels the three kinds of statement correctly (1 mark). 4 marks total.",
+    "correct": "Observation reports visible wet ground/footprints without claiming an unseen event (1 mark); idea/inference is plausible, such as a bird walked there (1 mark); question is relevant, such as which bird made the tracks or when they appeared (1 mark); labels the three kinds of statement correctly (1 mark). 4 marks total."
   },
   {
-    "id": "ac9sfh01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "making predictions before field work, such as which plants and animals they…",
-      "making predictions about how an unusually shaped object such as an egg or a…",
-      "discussing ways to conduct investigations safely, such as by being sun safe,…",
-      "explore the ways people make and use observations and questions to learn…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFH01: explore the ways people make and use observations and questions to learn…."
+    "id": "ac9sfh01-p08",
+    "curriculumCode": "AC9SFH01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Plan what they should observe, which tools or senses they could use, how they should record each visit and one question the records may help answer.",
+    "explanation": "Names relevant changing features such as leaf number/colour, buds, flowers, animals or height of new growth (1 mark); selects safe senses/tools such as sight, camera, magnifier or ruler with adult guidance (1 mark); proposes a consistent dated drawing/photo/table (1 mark); asks a question answerable by the records (1 mark); includes observing the same tree/feature at regular times for comparison (1 mark). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Names relevant changing features such as leaf number/colour, buds, flowers, animals or height of new growth (1 mark); selects safe senses/tools such as sight, camera, magnifier or ruler with adult guidance (1 mark); proposes a consistent dated drawing/photo/table (1 mark); asks a question answerable by the records (1 mark); includes observing the same tree/feature at regular times for comparison (1 mark). 5 marks total.",
+    "correct": "Names relevant changing features such as leaf number/colour, buds, flowers, animals or height of new growth (1 mark); selects safe senses/tools such as sight, camera, magnifier or ruler with adult guidance (1 mark); proposes a consistent dated drawing/photo/table (1 mark); asks a question answerable by the records (1 mark); includes observing the same tree/feature at regular times for comparison (1 mark). 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

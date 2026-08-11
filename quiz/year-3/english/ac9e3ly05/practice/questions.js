@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p01",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Text: \"Lena packed sunscreen and a towel.\" What can you infer?",
+    "explanation": "She may be going swimming or to the beach/pool.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "She may be going swimming or to the beach/pool.",
+    "correct": "She may be going swimming or to the beach/pool."
   },
   {
-    "id": "ac9e3ly05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "making predictions about a text, drawing on knowledge of the topic,…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p02",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Before viewing a video called \"How Bees Make Honey\", write one question you could listen for.",
+    "explanation": "A relevant question about bees/honey.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant question about bees/honey.",
+    "correct": "A relevant question about bees/honey."
   },
   {
-    "id": "ac9e3ly05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "determining important ideas, events or details in texts",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p03",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match predict, visualise, summarise, infer to: guess using clues, make a picture in your mind, tell main points, read between lines.",
+    "explanation": "Predict -> guess; visualise -> picture; summarise -> main points; infer -> read between lines.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Predict -> guess; visualise -> picture; summarise -> main points; infer -> read between lines.",
+    "correct": "Predict -> guess; visualise -> picture; summarise -> main points; infer -> read between lines."
   },
   {
-    "id": "ac9e3ly05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "learning new content from reading and listening, and asking questions to…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p04",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: \"The boy carried an umbrella\"; \"It might rain\"; \"The sign says Closed\"; \"The shop is not open\".",
+    "explanation": "Facts: umbrella, sign says Closed. Inferences: might rain, shop not open.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Facts: umbrella, sign says Closed. Inferences: might rain, shop not open.",
+    "correct": "Facts: umbrella, sign says Closed. Inferences: might rain, shop not open."
   },
   {
-    "id": "ac9e3ly05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
+    "id": "ac9e3ly05-p05",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A clip shows seeds sprouting, growing leaves, then flowering. Write a one-sentence summary.",
+    "explanation": "A sentence about stages of plant growth.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A sentence about stages of plant growth"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "correct": "A sentence about stages of plant growth"
   },
   {
-    "id": "ac9e3ly05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "comparing and contrasting how different texts present similar ideas or…",
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p06",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A poster says \"This snack is the best\" but gives no reasons. How could you evaluate it?",
+    "explanation": "Look for evidence, reasons, source and compare with other information.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Look for evidence, reasons, source and compare with other information.",
+    "correct": "Look for evidence, reasons, source and compare with other information."
   },
   {
-    "id": "ac9e3ly05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "drawing inferences, using evidence from the text and prior knowledge and…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "id": "ac9e3ly05-p07",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Hotspot / selection",
+    "question": "Text: \"The path was slippery.\" Clues: wet leaves, bright sun, dry shoes, muddy puddle. Select two evidence clues.",
+    "explanation": "wet leaves and muddy puddle.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "wet leaves and muddy puddle.",
+    "correct": "wet leaves and muddy puddle."
   },
   {
-    "id": "ac9e3ly05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "use comprehension strategies when listening and viewing to build literal and…"
+    "id": "ac9e3ly05-p08",
+    "curriculumCode": "AC9E3LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How does knowing that smoke can be dangerous help you understand a bushfire warning text?",
+    "explanation": "It helps explain why people must leave or stay away.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "It helps explain why people must leave or stay away"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY05: use comprehension strategies when listening and viewing to build literal and…."
+    "correct": "It helps explain why people must leave or stay away"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

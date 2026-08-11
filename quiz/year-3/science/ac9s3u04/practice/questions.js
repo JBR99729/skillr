@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3u04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…",
-      "pose questions to explore observed patterns and relationships and make…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p01",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in solids and liquids?",
+    "explanation": "Solids keep their own shape. Liquids flow and take the shape of their container while keeping the same amount unless added or removed.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Solids keep their own shape. Liquids flow and take the shape of their container while keeping the same amount unless added or removed.",
+    "correct": "Solids keep their own shape. Liquids flow and take the shape of their container while keeping the same amount unless added or removed."
   },
   {
-    "id": "ac9s3u04-02",
+    "id": "ac9s3u04-p02",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: solid, perimeter or apostrophe?",
+    "explanation": "solid.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "observing the properties of substances and classifying them as solids (that…",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "solid",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "correct": 0
   },
   {
-    "id": "ac9s3u04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "investigating ice melting or water freezing in a sealed bag and explaining…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p03",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: solid, liquid, flow, container, property.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3u04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "using ice cubes, butter or chocolate to explore how changes of state involve…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of solids and liquids.",
+    "explanation": "Water changes shape in a cup or bowl, but a wooden block keeps its shape.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Water changes shape in a cup or bowl, but a wooden block keeps its shape.",
+    "correct": "Water changes shape in a cup or bowl, but a wooden block keeps its shape."
   },
   {
-    "id": "ac9s3u04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p05",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for solids and liquids.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3u04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying rocks as key components of the built and natural environment and…",
-      "exploring how changes from solid to liquid and liquid to solid can help us…",
-      "describing ways in which living things including humans depend on soils, such…",
-      "examining information on plant tags and exploring the vocabulary used to…"
+    "id": "ac9s3u04-p06",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating solids and liquids, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3u04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating which rocks or minerals are quarried or mined locally or…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "exploring how changes from solid to liquid and liquid to solid can help us…",
-      "recognising that changes in heat energy can be measured using a thermometer"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p07",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about solids and liquids.",
+    "explanation": "A soft solid, such as playdough, is still a solid because it does not flow like a liquid.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A soft solid, such as playdough, is still a solid because it does not flow like a liquid.",
+    "correct": "A soft solid, such as playdough, is still a solid because it does not flow like a liquid."
   },
   {
-    "id": "ac9s3u04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing and, with assistance, measuring, what happens when a cold object is…",
-      "modelling the movement of heat from one object to another using drawing or…",
-      "investigating how well heat is transferred by different types of materials…",
-      "investigate the observable properties of solids and liquids and how adding or…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3U04: investigate the observable properties of solids and liquids and how adding or…."
+    "id": "ac9s3u04-p08",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about solids and liquids.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

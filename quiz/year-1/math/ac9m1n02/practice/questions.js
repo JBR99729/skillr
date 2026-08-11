@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "partition one- and two-digit numbers in different ways using physical and…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…",
-      "recognise, continue and create pattern sequences, with numbers, symbols,…"
+    "id": "ac9m1n02-p01",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Partition 47 into tens and ones.",
+    "explanation": "4 tens and 7 ones, or 40 + 7 (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4 tens and 7 ones, or 40 + 7 (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "correct": "4 tens and 7 ones, or 40 + 7 (1 mark)"
   },
   {
-    "id": "ac9m1n02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "compare directly and indirectly and order objects and events using attributes…",
-      "measure the length of shapes and objects using informal units, recognising…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p02",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 23, 40 and 56 to 2 tens 3 ones, 4 tens 0 ones and 5 tens 6 ones.",
+    "explanation": "23 ↔ 2 tens 3 ones; 40 ↔ 4 tens 0 ones; 56 ↔ 5 tens 6 ones (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "23 ↔ 2 tens 3 ones; 40 ↔ 4 tens 0 ones; 56 ↔ 5 tens 6 ones (1 mark each).",
+    "correct": "23 ↔ 2 tens 3 ones; 40 ↔ 4 tens 0 ones; 56 ↔ 5 tens 6 ones (1 mark each)."
   },
   {
-    "id": "ac9m1n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p03",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use counters or ten-frames to show 18 as 10 and 8, then as two different parts.",
+    "explanation": "Shows 10 + 8 and another valid partition such as 9 + 9 or 12 + 6 (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows 10 + 8 and another valid partition such as 9 + 9 or 12 + 6 (1 mark each).",
+    "correct": "Shows 10 + 8 and another valid partition such as 9 + 9 or 12 + 6 (1 mark each)."
   },
   {
-    "id": "ac9m1n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
+    "id": "ac9m1n02-p04",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Complete 10 = 6 + __ and explain how you know.",
+    "explanation": "4; 6 and 4 fill a ten-frame or count on from 6 to 10 (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4; 6 and 4 fill a ten-frame or count on from 6 to 10 (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "correct": "4; 6 and 4 fill a ten-frame or count on from 6 to 10 (2 marks)"
   },
   {
-    "id": "ac9m1n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "partition one- and two-digit numbers in different ways using physical and…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p05",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these steps to show 34 as 2 tens and 14 ones: count the whole; exchange one ten for 10 ones; begin with 3 tens and 4 ones.",
+    "explanation": "Begin with 3 tens and 4 ones → exchange one ten for 10 ones → count the whole (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Begin with 3 tens and 4 ones → exchange one ten for 10 ones → count the whole (2 marks).",
+    "correct": "Begin with 3 tens and 4 ones → exchange one ten for 10 ones → count the whole (2 marks)."
   },
   {
-    "id": "ac9m1n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "using part-part-whole reasoning and physical or virtual materials to…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p06",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw 26 as tens and ones, then draw a different partition of 26.",
+    "explanation": "Shows 2 tens + 6 ones and a valid alternative such as 1 ten + 16 ones (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows 2 tens + 6 ones and a valid alternative such as 1 ten + 16 ones (2 marks).",
+    "correct": "Shows 2 tens + 6 ones and a valid alternative such as 1 ten + 16 ones (2 marks)."
   },
   {
-    "id": "ac9m1n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "using part-part-whole reasoning and physical or virtual materials to…",
-      "developing and using strategies for one-digit addition and subtraction based…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p07",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Noah says 2 tens and 14 ones make 34. Is he correct? Explain.",
+    "explanation": "Yes; 20 + 14 = 34, or 14 ones can become 1 ten and 4 ones, giving 3 tens and 4 ones (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Yes; 20 + 14 = 34, or 14 ones can become 1 ten and 4 ones, giving 3 tens and 4 ones (2 marks).",
+    "correct": "Yes; 20 + 14 = 34, or 14 ones can become 1 ten and 4 ones, giving 3 tens and 4 ones (2 marks)."
   },
   {
-    "id": "ac9m1n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "representing story problems involving addition and subtraction of numbers…",
-      "modelling problems involving addition and subtraction presented in stories,…",
-      "modelling simple money problems involving addition and subtraction using…",
-      "partition one- and two-digit numbers in different ways using physical and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1N02: partition one- and two-digit numbers in different ways using physical and…."
+    "id": "ac9m1n02-p08",
+    "curriculumCode": "AC9M1N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student says 42 can only be split as 40 + 2. Give two other partitions and prove each totals 42.",
+    "explanation": "Two valid examples such as 30 + 12 and 20 + 22, with an addition or materials check for each (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Two valid examples such as 30 + 12 and 20 + 22, with an addition or materials check for each (4 marks).",
+    "correct": "Two valid examples such as 30 + 12 and 20 + 22, with an addition or materials check for each (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

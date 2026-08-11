@@ -1,107 +1,113 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3n05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "estimate the quantity of objects in collections and make estimates when…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "follow and create algorithms involving a sequence of steps and decisions to…"
+    "id": "ac9m3n05-p01",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A jar has about 9 rows of 8 beads. Estimate the total.",
+    "explanation": "About 72 beads, or about 70.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "About 72 beads, or about 70"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "correct": "About 72 beads, or about 70"
   },
   {
-    "id": "ac9m3n05-02",
+    "id": "ac9m3n05-p02",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which is the best estimate for 398 + 205: 400, 600 or 900?",
+    "explanation": "600.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "estimating how much space a grid paper representation of a large number such…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
+      "400",
+      "600",
+      "900"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "correct": 1
   },
   {
-    "id": "ac9m3n05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "estimating the number of people in a large gathering; for example, school…",
-      "recognise and use the relationship between formal units of time including…"
+    "id": "ac9m3n05-p03",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Round 347 to the nearest hundred.",
+    "explanation": "300.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "300"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "correct": "300"
   },
   {
-    "id": "ac9m3n05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "choosing which place value they would estimate to for different situations;…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "id": "ac9m3n05-p04",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 49, 203 and 781 to the nearest benchmark: 50, 200, 800.",
+    "explanation": "49 -> 50; 203 -> 200; 781 -> 800.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "49 -> 50; 203 -> 200; 781 -> 800.",
+    "correct": "49 -> 50; 203 -> 200; 781 -> 800."
   },
   {
-    "id": "ac9m3n05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "estimate the quantity of objects in collections and make estimates when…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3n05-p05",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Estimate 6 groups of 21.",
+    "explanation": "About 120.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "About 120"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "correct": "About 120"
   },
   {
-    "id": "ac9m3n05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "checking the reasonableness of an addition calculation by using two- and…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
+    "id": "ac9m3n05-p06",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Is 52 a reasonable estimate for 8 rows of 7? Explain.",
+    "explanation": "Yes; exact is 56, so 52 is close.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Yes; exact is 56, so 52 is close",
+      "Yes"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "correct": "Yes; exact is 56, so 52 is close"
   },
   {
-    "id": "ac9m3n05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "checking the reasonableness of an addition calculation by using two- and…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "id": "ac9m3n05-p07",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Estimate the number of counters in a tray with 4 sections of about 25 counters each.",
+    "explanation": "About 100 counters; 4 x 25 = 100.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "About 100 counters; 4 x 25 = 100.",
+    "correct": "About 100 counters; 4 x 25 = 100."
   },
   {
-    "id": "ac9m3n05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "estimate the quantity of objects in collections and make estimates when…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N05: estimate the quantity of objects in collections and make estimates when…."
+    "id": "ac9m3n05-p08",
+    "curriculumCode": "AC9M3N05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Tom estimates 92 + 88 as 300. Explain why this is not reasonable.",
+    "explanation": "Each number is near 90; total is about 180, not 300.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each number is near 90; total is about 180, not 300.",
+    "correct": "Each number is near 90; total is about 180, not 300."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

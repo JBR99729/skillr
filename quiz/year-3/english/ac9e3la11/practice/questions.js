@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la11-01",
+    "id": "ac9e3la11-p01",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "What does \"didn't\" mean: did not, did it, or do not?",
+    "explanation": "did not.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
+      "did not",
+      "did it",
+      "or do not"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "correct": 0
   },
   {
-    "id": "ac9e3la11-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "id": "ac9e3la11-p02",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Rewrite \"do not\" as a contraction.",
+    "explanation": "don't.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "don't.",
+    "correct": "don't."
   },
   {
-    "id": "ac9e3la11-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss connections between personal experiences and character experiences in…"
+    "id": "ac9e3la11-p03",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Rewrite to show one girl owns the hat: \"the hat of the girl\".",
+    "explanation": "the girl's hat.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "the girl's hat"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "correct": "the girl's hat"
   },
   {
-    "id": "ac9e3la11-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "understand that apostrophes signal missing letters in contractions, and…"
+    "id": "ac9e3la11-p04",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Rewrite to show many students own the projects: \"the projects of the students\".",
+    "explanation": "the students' projects.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "the students' projects"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "correct": "the students' projects"
   },
   {
-    "id": "ac9e3la11-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "id": "ac9e3la11-p05",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: can't, teacher's desk, they're, dogs' bowls.",
+    "explanation": "Contractions: can't, they're. Possession: teacher's desk, dogs' bowls.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Contractions: can't, they're. Possession: teacher's desk, dogs' bowls.",
+    "correct": "Contractions: can't, they're. Possession: teacher's desk, dogs' bowls."
   },
   {
-    "id": "ac9e3la11-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "id": "ac9e3la11-p06",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Fix: \"The cats toy is under the sofa\" for one cat.",
+    "explanation": "\"The cat's toy is under the sofa.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"The cat's toy is under the sofa.\"",
+    "correct": "\"The cat's toy is under the sofa.\""
   },
   {
-    "id": "ac9e3la11-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "id": "ac9e3la11-p07",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain the difference between \"the dog's lead\" and \"the dogs' leads\".",
+    "explanation": "One dog owns a lead; more than one dog owns leads.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "One dog owns a lead; more than one dog owns leads.",
+    "correct": "One dog owns a lead; more than one dog owns leads."
   },
   {
-    "id": "ac9e3la11-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "understand that apostrophes signal missing letters in contractions, and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA11: understand that apostrophes signal missing letters in contractions, and…."
+    "id": "ac9e3la11-p08",
+    "curriculumCode": "AC9E3LA11",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which is correct: \"Its raining\"; \"It's raining\"; \"Its' raining\"?",
+    "explanation": "\"It's raining.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"It's raining.\"",
+    "correct": "\"It's raining.\""
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
