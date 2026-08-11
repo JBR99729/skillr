@@ -29,6 +29,7 @@
     "true-false",
     "multiple",
     "text",
+    "self-check",
     "number",
     "fill-blank",
     "order",
@@ -224,6 +225,34 @@
   }
 
   function getPrintableQuestions() {
+    const practiceLimit = Math.max(
+      0,
+      Number(window.quizConfig?.worksheetPracticeSelection) || 0
+    );
+    const examLimit = Math.max(
+      0,
+      Number(window.quizConfig?.worksheetExamSelection) || 0
+    );
+    const practiceBank = uniqueQuestions([
+      ...getGlobalQuestionArray("skillrPracticeQuestions"),
+      ...getGlobalQuestionArray("quizPracticeQuestions")
+    ]).filter(isPaperFriendly);
+    const examBank = uniqueQuestions([
+      ...getGlobalQuestionArray("skillrExamQuestions"),
+      ...getGlobalQuestionArray("quizExamQuestions")
+    ]).filter(isPaperFriendly);
+
+    if (
+      practiceLimit + examLimit === WORKSHEET_LIMIT &&
+      practiceBank.length >= practiceLimit &&
+      examBank.length >= examLimit
+    ) {
+      return [
+        ...shuffleArray(practiceBank).slice(0, practiceLimit),
+        ...shuffleArray(examBank).slice(0, examLimit)
+      ];
+    }
+
     const printablePool = uniqueQuestions(getWorksheetQuestionBank())
       .filter(isPaperFriendly);
 
