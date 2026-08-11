@@ -49,6 +49,8 @@
 
   function recordAttempt(attempt) {
     const state = read();
+    const studentName = String(attempt.studentName || "").trim().slice(0, 60);
+    if (studentName) state.profile.name = studentName;
     const item = cleanAttempt(attempt);
     if (!state.attempts.some((entry) => entry.id === item.id)) state.attempts.push(item);
     return write(state);

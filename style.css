@@ -1491,6 +1491,9 @@ footer {
     border-radius: 50%;
     background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
     color: #fff;
+    cursor: pointer;
+    font: inherit;
+    padding: 0;
     box-shadow: 0 14px 30px rgba(18, 140, 126, 0.35);
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -1521,6 +1524,27 @@ footer {
 .skillr-share-btn:focus-visible {
     outline: 4px solid rgba(37, 211, 102, 0.28);
     outline-offset: 4px;
+}
+
+.skillr-share-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.home-page .skillr-share-label {
+    position: static;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
 }
 
 .skillr-copy-btn,

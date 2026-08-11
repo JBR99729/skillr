@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import html
 import json
 from pathlib import Path
@@ -23,6 +24,15 @@ def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
 
 
+def display_title(unit: dict) -> str:
+    if unit["code"].startswith("AC9MF"):
+        return unit["title"]
+    if unit["code"] == "AC9M10P01":
+        return "Conditional probability language: if-then, given, of and knowing that"
+    description = str(unit.get("description") or unit.get("title") or "").strip().rstrip(" .")
+    return description[:1].upper() + description[1:]
+
+
 def head(title: str, description: str, path: str) -> str:
     return f'''<head>
   <meta charset="UTF-8">
@@ -40,7 +50,7 @@ def head(title: str, description: str, path: str) -> str:
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/assets/curriculum.css?v=2">
+  <link rel="stylesheet" href="/assets/curriculum.css?v=3">
   <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>
@@ -63,8 +73,6 @@ def nav(label: str, year_folder: str, current: str, subject: str | None = None) 
 def action_links(unit: dict) -> str:
     return f'''<div class="unit-action-row">
   <a class="primary" href="{esc(unit['url'])}">Topic guide</a>
-  <a href="{esc(unit['url'])}#teacher-slide">Teacher slide</a>
-  <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
   <a href="{esc(unit['practiceUrl'])}">Practice</a>
   <a href="{esc(unit['testUrl'])}">Test</a>
 </div>'''
@@ -76,8 +84,8 @@ def unit_card(unit: dict) -> str:
     return f'''<article class="curriculum-unit-card">
   <span class="curriculum-live-badge">Live</span>
   <span class="curriculum-badge">{esc(unit['code'])}</span>
-  <h3>{esc(unit['title'])}</h3>
-  <p>{esc(unit['description'])}</p>
+  <h3>{esc(display_title(unit))}</h3>
+  <p class="unit-context">{esc(unit['strand'])}{' · ' + esc(unit['subStrand']) if unit.get('subStrand') else ''}</p>
   <div class="unit-meta"><span class="curriculum-chip">{eligible} elaborations</span><span class="curriculum-chip">{coverage} coverage points</span></div>
   {action_links(unit)}
 </article>'''
@@ -135,7 +143,7 @@ def build_curriculum_hubs(units: list[dict]) -> None:
 {head(f"{label} {subject_label} Curriculum Units | SkillrHub", subject_description, subject_path)}
 <body class="curriculum-shell"><div class="curriculum-page">
 {nav(label, year_folder, subject_label, subject_label)}
-<header class="curriculum-hero"><p class="curriculum-eyebrow">{esc(label)} {esc(subject_label)}</p><h1>{esc(label)} {esc(subject_label)} curriculum units</h1><p class="curriculum-hero__lead">Choose a unit below. Every green Live label marks a complete learning path with the same eight questions used in Worksheet, Practice and Test.</p><div class="curriculum-actions"><a class="curriculum-button" href="{curriculum_path}">All {esc(label)} subjects</a><a class="curriculum-button" href="/how-to-use-skillr.html">User guide</a></div></header>
+<header class="curriculum-hero"><p class="curriculum-eyebrow">{esc(label)} {esc(subject_label)}</p><h1>{esc(label)} {esc(subject_label)} curriculum units</h1><p class="curriculum-hero__lead">Choose a unit below. Every green Live label marks a complete path from teaching and printable resources to student Practice and Test.</p><div class="curriculum-actions"><a class="curriculum-button" href="{curriculum_path}">All {esc(label)} subjects</a><a class="curriculum-button" href="/how-to-use-skillr.html">User guide</a></div></header>
 <section class="curriculum-panel"><p><strong>Elaborations</strong> are curriculum teaching examples. <strong>Coverage points</strong> show how many curriculum ideas guide the unit.</p><div class="unit-matrix">{cards}</div></section>
 </div><script src="/pwa-register.js"></script></body></html>'''
             write(ROOT / year_folder / "curriculum" / slug / "index.html", page)
@@ -168,9 +176,16 @@ def build_missing_year_homes(units: list[dict]) -> None:
         write(output, page)
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--min-year", type=int, default=0, choices=range(0, 11), help="Lowest year to regenerate")
+    return parser.parse_args()
+
+
 def main() -> None:
+    args = parse_args()
     data = json.loads(MANIFEST.read_text(encoding="utf-8"))
-    units = data["units"]
+    units = [unit for unit in data["units"] if unit["yearNumber"] >= args.min_year]
     build_curriculum_hubs(units)
     build_missing_year_homes(units)
     print(json.dumps({"years": len({unit['yearNumber'] for unit in units}), "units": len(units)}, indent=2))

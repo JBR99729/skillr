@@ -52,6 +52,7 @@ ELABORATION_RE = re.compile(r"^(AC9[EMS][A-Z0-9]+)_E(\d+)$")
 
 
 TITLE_OVERRIDES = {
+    "AC9M10P01": "Conditional probability language: if-then, given, of and knowing that",
     "AC9M1N01": "Numbers to 120",
     "AC9M1N02": "Partitioning tens and ones",
     "AC9M1N03": "Skip counting and equal groups",
@@ -178,7 +179,8 @@ def class_label(level: str) -> str:
     return "Kindergarten / Foundation" if number == 0 else f"Class {number}"
 
 
-def title_from_description(code: str, description: str) -> str:
+def legacy_title_from_description(code: str, description: str) -> str:
+    """Return the historic short title used to keep existing URLs stable."""
     if code in TITLE_OVERRIDES:
         return TITLE_OVERRIDES[code]
 
@@ -195,6 +197,20 @@ def title_from_description(code: str, description: str) -> str:
     if len(words) > 10:
         title += "..."
     return title[:1].upper() + title[1:]
+
+
+def title_from_description(code: str, description: str) -> str:
+    """Return a complete, readable display title without literal truncation."""
+    if code in TITLE_OVERRIDES:
+        return TITLE_OVERRIDES[code]
+
+    # Foundation Maths is maintained by its dedicated quality build and must
+    # keep its existing display titles until that build is intentionally run.
+    if code.startswith("AC9MF"):
+        return legacy_title_from_description(code, description)
+
+    description = clean_text(description).rstrip(" .")
+    return description[:1].upper() + description[1:]
 
 
 def source_links() -> list[tuple[str, str]]:
@@ -268,6 +284,7 @@ def build_manifest(workbook: Path, repo_root: Path) -> list[dict[str, Any]]:
         if CODE_RE.match(code) and content_description:
             source_order += 1
             title = title_from_description(code, content_description)
+            legacy_title = legacy_title_from_description(code, content_description)
             subject_slug = SUBJECT_SLUGS[learning_area]
             unit = {
                 "learningArea": learning_area,
@@ -281,7 +298,7 @@ def build_manifest(workbook: Path, repo_root: Path) -> list[dict[str, Any]]:
                 "quizYearSegment": quiz_year_segment(level),
                 "code": code,
                 "title": title,
-                "unitSlug": f"{code.lower()}-{slugify(title)}",
+                "unitSlug": f"{code.lower()}-{slugify(legacy_title)}",
                 "sourceOrder": source_order,
                 "strand": current_strand.get(key, ""),
                 "subStrand": current_substrand.get(key, ""),
@@ -368,7 +385,7 @@ def page_head(title: str, description: str, canonical_path: str, schema: dict[st
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/assets/curriculum.css?v=2">
+  <link rel="stylesheet" href="/assets/curriculum.css?v=3">
   <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -662,13 +679,10 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
     )
     action_links = [
         '<a class="primary" href="#topic-guide">Topic guide</a>',
-        '<a href="#teacher-slide">Teacher slide</a>',
-    ]
-    action_links.extend([
         f'<a href="{h(unit["worksheetUrl"])}">Worksheet</a>',
         f'<a href="{h(unit["practiceUrl"])}">Practice</a>',
         f'<a href="{h(unit["testUrl"])}">Test</a>',
-    ])
+    ]
     topic_actions = "".join(action_links)
 
     vertical_links = []
@@ -702,7 +716,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
   {nav_html(unit['code'])}
   <header class="curriculum-hero">
     <p class="curriculum-eyebrow">{h(unit['code'])} • {h(label)} {h(subject_label)}</p>
-    <h1>{h(unit['title'])}: {h(label)} {h(subject_label)} topic guide</h1>
+    <h1>{h(unit['code'])}: {h(unit['title'])}</h1>
     <p class="curriculum-hero__lead">{h(unit['description'])}</p>
     <div class="topic-action-row">
       {topic_actions}
@@ -726,7 +740,7 @@ def generate_topic_page(ctx: BuildContext, unit: dict[str, Any], all_year_units:
 
       <section class="curriculum-topic-section">
         <h2>How to use this unit</h2>
-        <p>Read the topic guide, use the teacher slide for instruction, then complete the Worksheet, Practice and Test. These three activities use the same eight-question unit bank.</p>
+        <p>Read the topic guide and use the teacher slide for instruction. Students can then use the worksheet for written work, open Practice for supported feedback, or take the Test when they are ready.</p>
       </section>
 
       <section class="curriculum-topic-section teacher-resource" id="teacher-slide">
@@ -819,23 +833,28 @@ def build_pages(ctx: BuildContext, level: str) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--workbook", required=True, type=Path, help="Path to curriculum-workbook .xlsx")
+    source = parser.add_mutually_exclusive_group(required=True)
+    source.add_argument("--workbook", type=Path, help="Path to curriculum-workbook .xlsx")
+    source.add_argument("--from-manifest", action="store_true", help="Regenerate pages from the existing manifest")
     parser.add_argument("--repo-root", default=Path(__file__).resolve().parents[1], type=Path)
-    parser.add_argument("--year", default="Year 1", help='Level to generate, for example "Year 1" or "Foundation Year"')
-    parser.add_argument("--manifest", default=None, type=Path, help="Manifest output path")
+    parser.add_argument("--year", default="Year 1", help='Level to generate, or "all"')
+    parser.add_argument("--min-year", default=0, type=int, choices=range(0, 11), help="Lowest year to update")
+    parser.add_argument("--manifest", default=None, type=Path, help="Manifest input/output path")
+    parser.add_argument("--refresh-titles", action="store_true", help="Refresh display titles while preserving URLs")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     repo_root = args.repo_root.resolve()
-    manifest_path = args.manifest or repo_root / "data" / "curriculum-units.json"
-    units = build_manifest(args.workbook.resolve(), repo_root)
-    write_json(
-        manifest_path,
-        {
+    manifest_path = (args.manifest or repo_root / "data" / "curriculum-units.json").resolve()
+
+    if args.workbook:
+        workbook = args.workbook.resolve()
+        units = build_manifest(workbook, repo_root)
+        payload = {
             "generatedBy": "scripts/build_curriculum_pages.py",
-            "sourceWorkbook": args.workbook.name,
+            "sourceWorkbook": workbook.name,
             "siteOrigin": SITE_ORIGIN,
             "analytics": {"googleAnalyticsId": GA_ID, "adsenseClient": ADSENSE_CLIENT},
             "questionBankStandard": {
@@ -850,11 +869,40 @@ def main() -> None:
                 "complexTasks": "Prefer printable PDF/worksheet tasks for multi-step or hard-to-model interactions.",
             },
             "units": units,
-        },
-    )
-    ctx = BuildContext(repo_root=repo_root, workbook=args.workbook.resolve(), manifest_path=manifest_path, units=units)
-    build_pages(ctx, args.year)
-    print(json.dumps({"units": len(units), "generatedYear": args.year, "yearUnits": sum(1 for unit in units if unit["level"] == args.year), "manifest": str(manifest_path)}, indent=2))
+        }
+        write_json(manifest_path, payload)
+    else:
+        payload = json.loads(manifest_path.read_text(encoding="utf-8"))
+        units = payload["units"]
+        workbook = Path(payload.get("sourceWorkbook") or "curriculum-units.json")
+
+    for unit in units:
+        if unit["yearNumber"] >= args.min_year:
+            unit["title"] = title_from_description(unit["code"], unit["description"])
+
+    if args.refresh_titles:
+        payload["units"] = units
+        write_json(manifest_path, payload)
+
+    if args.year.lower() == "all":
+        selected_levels = [level for level in LEVELS if level_number(level) >= args.min_year]
+    else:
+        if args.year not in LEVELS:
+            raise ValueError(f"Unsupported level: {args.year}")
+        if level_number(args.year) < args.min_year:
+            raise ValueError(f"{args.year} is below --min-year {args.min_year}")
+        selected_levels = [args.year]
+
+    ctx = BuildContext(repo_root=repo_root, workbook=workbook, manifest_path=manifest_path, units=units)
+    for level in selected_levels:
+        build_pages(ctx, level)
+
+    print(json.dumps({
+        "units": len(units),
+        "generatedLevels": selected_levels,
+        "generatedUnits": sum(1 for unit in units if unit["level"] in selected_levels),
+        "manifest": str(manifest_path),
+    }, indent=2))
 
 
 if __name__ == "__main__":

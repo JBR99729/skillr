@@ -3,6 +3,36 @@
   const byId = (id) => document.getElementById(id);
   let deferredPrompt = null;
   let nameSaveTimer = null;
+  let curriculumTitles = new Map();
+
+  function activityTitle(item) {
+    const code = String(item.curriculumCode || "").trim();
+    const storedTitle = String(item.quizTitle || "").trim();
+    const mappedTitle = curriculumTitles.get(code);
+    const isDrill = code.startsWith("DRILL:");
+    const isTruncated = /(?:\.\.\.|…)$/.test(storedTitle);
+    const readableTitle = mappedTitle || (isTruncated && !isDrill ? "Curriculum activity" : storedTitle) || "SkillrHub activity";
+    return code && !isDrill ? `${code}: ${readableTitle}` : readableTitle;
+  }
+
+  async function loadCurriculumTitles() {
+    try {
+      const response = await fetch("/data/curriculum-units.json?v=3", { cache: "force-cache" });
+      if (!response.ok) return;
+      const payload = await response.json();
+      curriculumTitles = new Map((payload.units || []).map((unit) => {
+        if (String(unit.code).startsWith("AC9MF")) return [unit.code, unit.title];
+        if (unit.code === "AC9M10P01") {
+          return [unit.code, "Conditional probability language: if-then, given, of and knowing that"];
+        }
+        const description = String(unit.description || unit.title || "").trim().replace(/[ .]+$/, "");
+        return [unit.code, description ? description[0].toUpperCase() + description.slice(1) : "Curriculum activity"];
+      }));
+      render();
+    } catch (error) {
+      console.error("Could not load curriculum titles:", error);
+    }
+  }
 
   function selectedRange() {
     const preset = byId("datePreset").value;
@@ -65,26 +95,26 @@
     result.className = "overall-result";
     if (!totalQuestions) {
       result.classList.add("overall-result--empty");
-      byId("overallLevel").textContent = "No result yet";
-      byId("overallDescription").textContent = "Complete a Daily Drill, Practice or Test to see your achievement level.";
+      byId("overallLevel").textContent = "No activity yet";
+      byId("overallDescription").textContent = "Complete a Daily Drill, Practice or Test to see accuracy across activities.";
       byId("overallPercentage").textContent = "—";
     } else if (percentage < 60) {
       result.classList.add("overall-result--beginner");
-      byId("overallLevel").textContent = "Beginner";
-      byId("overallDescription").textContent = "Keep practising the pending skills to build confidence.";
+      byId("overallLevel").textContent = "Building accuracy";
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     } else if (percentage <= 80) {
       result.classList.add("overall-result--proficient");
-      byId("overallLevel").textContent = "Proficient";
-      byId("overallDescription").textContent = "You have a strong understanding. Keep practising to reach mastery.";
+      byId("overallLevel").textContent = "Proficient accuracy";
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     } else {
       result.classList.add("overall-result--mastery");
-      byId("overallLevel").textContent = "Mastery";
-      byId("overallDescription").textContent = "Excellent work—you have demonstrated mastery in this date range.";
+      byId("overallLevel").textContent = "Mastery accuracy";
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     }
-    byId("recentActivity").innerHTML = attempts.length ? attempts.slice(0,8).map((item) => `<div class="activity-item"><div><strong>${escapeHtml(item.quizTitle || item.curriculumCode)}</strong><small>${item.mode === "test" ? "Test" : item.mode === "daily-drill" ? "Daily Drill" : "Practice"} · ${new Date(item.completedAt).toLocaleDateString("en-AU")}</small></div><span class="activity-score">${item.percentage}%</span></div>`).join("") : '<div class="empty-state">Complete a Daily Drill, Practice or Test and it will appear here.</div>';
+    byId("recentActivity").innerHTML = attempts.length ? attempts.slice(0,8).map((item) => `<div class="activity-item"><div><strong>${escapeHtml(activityTitle(item))}</strong><small>${item.mode === "test" ? "Test" : item.mode === "daily-drill" ? "Daily Drill" : "Practice"} · ${new Date(item.completedAt).toLocaleDateString("en-AU")}</small></div><span class="activity-score">${item.percentage}%</span></div>`).join("") : '<div class="empty-state">Complete a Daily Drill, Practice or Test and it will appear here.</div>';
   }
 
   function escapeHtml(value) { const node=document.createElement("span"); node.textContent=String(value||""); return node.innerHTML; }
@@ -126,4 +156,5 @@
   byId("installButton").addEventListener("click",async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; } else { byId("backupMessage").textContent="On iPhone or iPad, tap Share then Add to Home Screen. On desktop, use the install icon in your browser address bar."; } });
   addEventListener("skillr:progress-changed",render);
   render();
+  loadCurriculumTitles();
 })();
