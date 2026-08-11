@@ -42,31 +42,21 @@ review_status: authored
 
 ### P02 — Solve 3 x 5 30 divided by
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 3 x 5 = 30 divided by ___. Explain using equivalence.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve divided equivalence.
 
 ### P03 — True or false 15 divided by 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** True or false: 15 divided by 3 = 30 divided by 6. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true false divided divided.
 
@@ -132,16 +122,11 @@ D. Reversed reasoning
 
 ### P09 — Which is true 8 divided by 2
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is true: 8 divided by 2 divided by 2 = 8 divided by (2 divided by 2)? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true divided divided divided divided.
 
@@ -195,18 +180,13 @@ D. Reversed reasoning
 
 ### P14 — Explain why multiplication is commutative but division
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why multiplication is commutative but division is not, using numbers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing multiplication commutative division numbers.
 
@@ -322,62 +302,47 @@ D. Reversed reasoning
 
 ### P24 — Explain how equivalent number sentences help find
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how equivalent number sentences help find unknown values.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing equivalent number sentences help find unknown values.
 
 ### P25 — Solve a harder unknown values in multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a harder unknown values in multiplication and division equations problem with at least two steps, and explain why each step is needed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder unknown values multiplication division equations problem.
 
 ### P26 — Complete the structured template for a realistic
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a realistic Year 5 context for unknown values in multiplication and division equations where a careless student might choose the wrong operation. Solve it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing realistic year context unknown values multiplication division equations.
 
-### P27 — Online version choose the diagram model that
+### P27 — choose the diagram model that
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: choose the diagram/model that best represents unknown values in multiplication and division equations, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents unknown values in multiplication and division equations, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -385,52 +350,37 @@ D. Reversed reasoning
 
 ### P28 — Compare two possible strategies for a unknown
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two possible strategies for a unknown values in multiplication and division equations question. Which is more efficient and why?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare possible strategies unknown values multiplication division equations.
 
 ### P29 — Write a mistake a student might make
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a mistake a student might make with unknown values in multiplication and division equations, then correct it clearly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write mistake might make unknown values multiplication division.
 
 ### P30 — Use estimation first then solve an exact
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use estimation first, then solve an exact unknown values in multiplication and division equations problem and check whether the answer is reasonable.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact unknown values multiplication division.
 
@@ -448,52 +398,37 @@ D. Reversed reasoning
 
 ### P32 — Solve a missing value question connected to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a missing-value question connected to unknown values in multiplication and division equations and justify the unknown value.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve missing value connected unknown values multiplication division.
 
 ### P33 — Write a true or false statement about
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a true-or-false statement about unknown values in multiplication and division equations that needs proof, then prove or disprove it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write true false statement about unknown values multiplication.
 
-### P34 — Online version select the best labelled representation
+### P34 — select the best labelled representation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: select the best labelled representation for unknown values in multiplication and division equations from three options, then identify one missing or incorrect label.
+**Question:** select the best labelled representation for unknown values in multiplication and division equations from three options, then identify one missing or incorrect label.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online version best labelled representation unknown values multiplication.
 
@@ -513,35 +448,25 @@ D. Reversed reasoning
 
 ### P36 — Explain the key vocabulary in unknown values
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the key vocabulary in unknown values in multiplication and division equations using an example and a non-example.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing vocabulary unknown values multiplication division equations example example.
 
-### P37 — Create two questions about unknown values in
+### P37 — solve two related problems about unknown values in
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Create two questions about unknown values in multiplication and division equations that have the same answer but require different reasoning.
+**Question:** solve two related problems about unknown values in multiplication and division equations that have the same answer but require different reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing create questions about unknown values multiplication division equations.
 
@@ -559,26 +484,21 @@ D. Reversed reasoning
 
 ### P39 — Write a question where rounding estimating or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write a question where rounding, estimating or checking prevents an unreasonable answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write rounding estimating checking prevents unreasonable.
 
-### P40 — Online version match the words number sentence
+### P40 — match the words number sentence
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: match the words, number sentence and diagram that represent the same unknown values in multiplication and division equations idea.
+**Question:** match the words, number sentence and diagram that represent the same unknown values in multiplication and division equations idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -586,18 +506,13 @@ D. Reversed reasoning
 
 ### P41 — Find all possible answers to a unknown
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all possible answers to a unknown values in multiplication and division equations puzzle with more than one solution, and explain how you know you found all.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find possible answers unknown values multiplication division equations.
 
@@ -615,18 +530,13 @@ D. Reversed reasoning
 
 ### P43 — Explain how you would teach this unknown
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how you would teach this unknown values in multiplication and division equations idea to a younger student using a simple model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing would teach this unknown values multiplication division equations.
 
@@ -672,7 +582,7 @@ D. Reversed reasoning
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Complete the structured template for a mini test question about unknown values in multiplication and division equations with a clear marking guide worth 3 marks.
+**Question:** Solve a 3-mark problem about unknown values in multiplication and division equations. Show the key working steps and include a final answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -704,31 +614,21 @@ D. Reversed reasoning
 
 ### P50 — Use the on screen options Solve 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Solve 3 x 5 = 30 divided by ___. Explain using equivalence.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve divided equivalence.
 
 ### P51 — Complete the answer box True or false
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Complete the answer box: True or false: 15 divided by 3 = 30 divided by 6. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true false divided divided.
 
@@ -748,16 +648,11 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer Solve 72 divided
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Solve 72 divided by ___ = 9.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve divided.
 
@@ -811,18 +706,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Find the missing
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the missing value: 5 x ___ = 100 divided by 2.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find missing value divided.
 
@@ -876,18 +766,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Find the missing
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the missing number: 4 x ___ = 8 x 7.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find missing number.
 
@@ -941,18 +826,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Use an array
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Use an array to show 5 x 16 = 5 x 10 + 5 x 6.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best array show.
 
@@ -1020,20 +900,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing find missing value.
 
-### E06 — Intermediate digital question Solve a harder unknown
+### E06 — Solve a harder unknown
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a harder unknown values in multiplication and division equations problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
+**Question:** Solve a harder unknown values in multiplication and division equations problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder unknown values multiplication division equations problem.
 
@@ -1049,13 +924,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task realistic year context unknown.
 
-### E08 — Reasoning check Online version choose the diagram
+### E08 — choose the diagram
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Online version: choose the diagram/model that best represents unknown values in multiplication and division equations, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents unknown values in multiplication and division equations, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1063,54 +938,39 @@ D. Reversed reasoning
 
 ### E09 — Model based question Compare two possible strategies
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two possible strategies for a unknown values in multiplication and division equations question. Which is more efficient and why? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare possible strategies unknown values multiplication.
 
-### E10 — Error check question Write a mistake a
+### E10 — Find and correct the error Write a mistake a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Write a mistake a student might make with unknown values in multiplication and division equations, then correct it clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a mistake a student might make with unknown values in multiplication and division equations, then correct it clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write mistake might make unknown values.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Use estimation first then
+### E11 — Use estimation first then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use estimation first, then solve an exact unknown values in multiplication and division equations problem and check whether the answer is reasonable. Check the common trap before answering.
+**Question:** Use estimation first, then solve an exact unknown values in multiplication and division equations problem and check whether the answer is reasonable. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact unknown values multiplication division.
 
@@ -1126,64 +986,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task missing entries four table.
 
-### E13 — Reasoning check Solve a missing value question
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve a missing-value question connected to unknown values in multiplication and division equations and justify the unknown value. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected unknown values.
-
-### E14 — Model based question Write a true or
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a true-or-false statement about unknown values in multiplication and division equations that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write true false statement about unknown.
-
-### E15 — Error check question Online version select the
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Online version: select the best labelled representation for unknown values in multiplication and division equations from three options, then identify one missing or incorrect label.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check online version best labelled representation unknown.
-
-### E16 — Intermediate digital question Solve a multi step
+### E13 — Solve a missing value question
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a multi-step word problem involving unknown values in multiplication and division equations and one distractor number that is not needed. Check the common trap before answering.
+**Question:** Solve a missing-value question connected to unknown values in multiplication and division equations and justify the unknown value. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected unknown values.
+
+### E14 — Model based question Write a true or
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a true-or-false statement about unknown values in multiplication and division equations that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write true false statement about unknown.
+
+### E15 — Find and correct the error select the
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: select the best labelled representation for unknown values in multiplication and division equations from three options, then identify one missing or incorrect label.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check online version best labelled representation unknown.
+
+### E16 — Solve a multi step
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a multi-step word problem involving unknown values in multiplication and division equations and one distractor number that is not needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1201,64 +1046,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task vocabulary unknown values multiplication.
 
-### E18 — Reasoning check Create two questions about unknown
+### E18 — solve two related problems about unknown
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Create two questions about unknown values in multiplication and division equations that have the same answer but require different reasoning. Interpret the answer in the story context.
+**Question:** solve two related problems about unknown values in multiplication and division equations that have the same answer but require different reasoning. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check create questions about unknown values multiplication.
 
 ### E19 — Model based question Solve a challenge problem
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve a challenge problem where the answer must be interpreted in context, not just calculated. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve challenge problem must interpreted context.
 
-### E20 — Error check question Write a question where
+### E20 — Find and correct the error Write a question where
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write rounding estimating checking prevents unreasonable.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Online version match the
+### E21 — match the
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Online version: match the words, number sentence and diagram that represent the same unknown values in multiplication and division equations idea.
+**Question:** match the words, number sentence and diagram that represent the same unknown values in multiplication and division equations idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1276,64 +1106,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find possible answers unknown.
 
-### E23 — Reasoning check Change one number in a
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
-
-### E24 — Model based question Explain how you would
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Explain how you would teach this unknown values in multiplication and division equations idea to a younger student using a simple model. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based would teach this unknown values multiplication.
-
-### E25 — Error check question Write a short investigation
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a short investigation connected to unknown values in multiplication and division equations and describe what data or measurements you would need. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write short investigation connected unknown values.
-
-### E26 — Intermediate digital question Solve a problem that
+### E23 — Change one number in a
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a problem that combines unknown values in multiplication and division equations with another Year 5 maths idea. Check the common trap before answering.
+**Question:** Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
+
+### E24 — Model based question Explain how you would
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Explain how you would teach this unknown values in multiplication and division equations idea to a younger student using a simple model. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based would teach this unknown values multiplication.
+
+### E25 — Find and correct the error Write a short investigation
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a short investigation connected to unknown values in multiplication and division equations and describe what data or measurements you would need. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write short investigation connected unknown values.
+
+### E26 — Solve a problem that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a problem that combines unknown values in multiplication and division equations with another Year 5 maths idea. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1351,37 +1166,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task identify most likely trap.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a mini test question about unknown values in multiplication and division equations with a clear marking guide worth 3 marks. Interpret the answer in the story context.
+**Question:** Solve a 3-mark problem about unknown values in multiplication and division equations. Show the key working steps and include a final answer. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check mini test about unknown values multiplication.
 
 ### E29 — Model based question Write your own high
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write your own high-quality challenge question for AC9M5A02, then solve it fully. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write your high quality challenge ac9m5a02.
 

@@ -42,18 +42,13 @@ review_status: authored
 
 ### P02 — A school trip has 86 students and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A school trip has 86 students and buses hold 24. Model how many buses are needed and explain your decision.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing school trip students buses hold model many buses.
 
@@ -131,16 +126,11 @@ D. Reversed reasoning
 
 ### P09 — Choose whether exact or approximate calculation is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Choose whether exact or approximate calculation is better for estimating food for a party. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing whether exact approximate calculation better estimating food party.
 
@@ -182,18 +172,13 @@ D. Reversed reasoning
 
 ### P13 — A family compares two plans 40 entry
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A family compares two plans: $40 entry plus $8 per ride, or $70 entry plus $4 per ride. Which is cheaper for 6 rides?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing family compares plans entry plus ride entry plus.
 
@@ -297,18 +282,13 @@ D. Reversed reasoning
 
 ### P22 — Explain why a mathematical model may need
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why a mathematical model may need assumptions, such as estimating attendance.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing mathematical model need assumptions such estimating attendance.
 
@@ -326,18 +306,13 @@ D. Reversed reasoning
 
 ### P24 — Solve a practical problem of your own
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a practical problem of your own and explain how your answer fits the situation.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve practical problem your your fits situation.
 
@@ -355,18 +330,13 @@ D. Reversed reasoning
 
 ### P26 — You have 100 for supplies Choose quantities
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** You have $100 for supplies. Choose quantities and prices so the total is close to but under budget.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing have supplies quantities prices total close under budget.
 
@@ -384,18 +354,13 @@ D. Reversed reasoning
 
 ### P28 — Compare two deals 4 for 18 or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two deals: 4 for $18 or 6 for $25. Which is better value?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare deals better value.
 
@@ -413,18 +378,13 @@ D. Reversed reasoning
 
 ### P30 — A student rounds every price down Explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student rounds every price down. Explain why this may Complete the structured template for a bad budget.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rounds every price down this budget.
 
@@ -466,18 +426,13 @@ D. Reversed reasoning
 
 ### P34 — A store receipt has one wrong line
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A store receipt has one wrong line total. Find a possible error and correct the total.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing store receipt wrong line total find possible error.
 
@@ -485,18 +440,13 @@ D. Reversed reasoning
 
 ### P35 — Use rounding to the nearest dollar and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use rounding to the nearest dollar and nearest ten dollars for the same shopping list. Which estimate is safer?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rounding nearest dollar nearest dollars same shopping list.
 
@@ -514,18 +464,13 @@ D. Reversed reasoning
 
 ### P37 — Explain when an exact answer is needed
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain when an exact answer is needed in money problems and when an estimate is enough.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing when exact needed money problems when estimate enough.
 
@@ -567,18 +512,13 @@ D. Reversed reasoning
 
 ### P41 — A price rises from 40 to 48
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A price rises from $40 to $48. Explain the change in dollars and as a simple fraction of the original price.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing price rises change dollars simple fraction original price.
 
@@ -656,16 +596,11 @@ D. Reversed reasoning
 
 ### P48 — Explain how to check whether a financial
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain how to check whether a financial answer is realistic.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing check whether financial realistic.
 
@@ -683,18 +618,13 @@ D. Reversed reasoning
 
 ### P50 — Use the on screen options A school
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: A school trip has 86 students and buses hold 24. Model how many buses are needed and explain your decision.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing school trip students buses hold model many buses.
 
@@ -726,18 +656,13 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer A club has
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A club has $250. It spends $86 on supplies and earns $15 from each ticket. How many tickets are needed to have at least $300?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best club spends supplies earns each ticket many.
 
@@ -791,18 +716,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer A canteen buys
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A canteen buys 9 boxes of 24 drinks and sells 187 drinks. How many are left?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best canteen buys boxes drinks sells drinks many.
 
@@ -832,18 +752,13 @@ D. Reversed reasoning
 
 ### P61 — Complete the answer box A family compares
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: A family compares two plans: $40 entry plus $8 per ride, or $70 entry plus $4 per ride. Which is cheaper for 6 rides?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing family compares plans entry plus ride entry plus.
 
@@ -861,18 +776,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer A market stall
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A market stall sells 27 items at $6 and 15 items at $4. Model total income.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best market stall sells items items model total.
 
@@ -926,18 +836,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer A savings plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A savings plan starts with $25 and adds $12 each week. How much after 8 weeks?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best savings plan starts adds each week much.
 
@@ -959,18 +864,13 @@ D. Reversed reasoning
 
 ### E02 — Use the on screen options Explain why
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Explain why a mathematical model may need assumptions, such as estimating attendance.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing mathematical model need assumptions such estimating attendance.
 
@@ -1010,13 +910,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing ticket costs much tickets cost.
 
-### E06 — Intermediate digital question A family buys 3
+### E06 — A family buys 3
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A family buys 3 items costing $18.95, $24.60 and $7.80. Estimate first, then find the exact total. Check the common trap before answering.
+**Question:** A family buys 3 items costing $18.95, $24.60 and $7.80. Estimate first, then find the exact total. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1034,73 +934,53 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task have supplies quantities prices.
 
-### E08 — Reasoning check A shop gives a 15
+### E08 — A shop gives a 15
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A shop gives a $15 discount on a $79 item. Estimate the sale price and calculate exactly. Interpret the answer in the story context.
+**Question:** A shop gives a $15 discount on a $79 item. Estimate the sale price and calculate exactly. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check shop gives discount item estimate sale.
 
 ### E09 — Model based question Compare two deals 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two deals: 4 for $18 or 6 for $25. Which is better value? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare deals better value model method.
 
-### E10 — Error check question A fundraiser sells 48
+### E10 — Find and correct the error A fundraiser sells 48
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A fundraiser sells 48 tickets at $7 each and spends $95 on prizes. What is the profit? Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A fundraiser sells 48 tickets at $7 each and spends $95 on prizes. What is the profit? Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check fundraiser sells tickets each spends prizes.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question A student rounds every
+### E11 — A student rounds every
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A student rounds every price down. Explain why this may Complete the structured template for a bad budget. Check the common trap before answering.
+**Question:** A student rounds every price down. Explain why this may Complete the structured template for a bad budget. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rounds every price down this budget check common.
 
@@ -1116,71 +996,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task plan school picnic order.
 
-### E13 — Reasoning check A bill is shared equally
+### E13 — A bill is shared equally
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A bill is shared equally by 6 people. The total is $137.70. Estimate and calculate each share. Interpret the answer in the story context.
+**Question:** A bill is shared equally by 6 people. The total is $137.70. Estimate and calculate each share. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check bill shared equally people total estimate.
 
 ### E14 — Model based question Complete the structured template
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Complete the structured template for a number sentence for a two-step financial problem, then solve it. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based number sentence step financial problem solve.
 
-### E15 — Error check question A store receipt has
+### E15 — Find and correct the error A store receipt has
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A store receipt has one wrong line total. Find a possible error and correct the total. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A store receipt has one wrong line total. Find a possible error and correct the total. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check store receipt wrong line total find.
 
-### E16 — Intermediate digital question Use rounding to the
+### E16 — Use rounding to the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use rounding to the nearest dollar and nearest ten dollars for the same shopping list. Which estimate is safer? Check the common trap before answering.
+**Question:** Use rounding to the nearest dollar and nearest ten dollars for the same shopping list. Which estimate is safer? Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rounding nearest dollar nearest dollars same shopping list.
 
@@ -1196,66 +1056,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task class earns wants equipment.
 
-### E18 — Reasoning check Explain when an exact answer
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Explain when an exact answer is needed in money problems and when an estimate is enough. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check when exact needed money problems when.
-
-### E19 — Model based question A weekly saving plan
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: A weekly saving plan starts with $12 and adds $8 each week. How much after 9 weeks? Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based weekly saving plan starts adds each.
-
-### E20 — Error check question You buy 5 notebooks
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: You buy 5 notebooks at $3.45 and 2 pens at $1.80. How much change from $25? Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check notebooks pens much change estimate first.
-
-## Section C — Extended response and analysis
-
-### E21 — Intermediate digital question Complete a budget table
+### E18 — Explain when an exact answer
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Complete a budget table with item, quantity, unit price and total price.
+**Question:** Explain when an exact answer is needed in money problems and when an estimate is enough. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check when exact needed money problems when.
+
+### E19 — Model based question A weekly saving plan
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: A weekly saving plan starts with $12 and adds $8 each week. How much after 9 weeks? Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based weekly saving plan starts adds each.
+
+### E20 — Find and correct the error You buy 5 notebooks
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: You buy 5 notebooks at $3.45 and 2 pens at $1.80. How much change from $25? Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check notebooks pens much change estimate first.
+
+## Section C — Extended response and analysis
+
+### E21 — Complete a budget table
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Complete a budget table with item, quantity, unit price and total price.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1273,64 +1118,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task price rises change dollars.
 
-### E23 — Reasoning check Find two different combinations of
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Find two different combinations of coins and notes that make $37.65. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check find different combinations coins notes make.
-
-### E24 — Model based question A school needs 156
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: A school needs 156 folders sold in packs of 10. How many packs, and what happens to extras? Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based school needs folders sold packs many.
-
-### E25 — Error check question Write a practical problem
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a practical problem where the calculator answer must be rounded up. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write practical problem calculator must rounded.
-
-### E26 — Intermediate digital question Compare exact calculation and
+### E23 — Find two different combinations of
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Compare exact calculation and mental estimation for a shopping total with decimals. Check the common trap before answering.
+**Question:** Find two different combinations of coins and notes that make $37.65. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check find different combinations coins notes make.
+
+### E24 — Model based question A school needs 156
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: A school needs 156 folders sold in packs of 10. How many packs, and what happens to extras? Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based school needs folders sold packs many.
+
+### E25 — Find and correct the error Write a practical problem
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a practical problem where the calculator answer must be rounded up. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write practical problem calculator must rounded.
+
+### E26 — Compare exact calculation and
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Compare exact calculation and mental estimation for a shopping total with decimals. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1348,37 +1178,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task canteen sells lunches drinks.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a financial modelling question with a constraint and solve it. Interpret the answer in the story context.
+**Question:** Complete the structured template for a financial modelling question with a constraint and solve it. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check financial modelling constraint solve interpret story.
 
 ### E29 — Model based question Explain how to check
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Explain how to check whether a financial answer is realistic. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based check whether financial realistic model method.
 

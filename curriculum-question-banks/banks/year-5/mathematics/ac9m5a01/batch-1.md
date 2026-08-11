@@ -66,50 +66,35 @@ review_status: authored
 
 ### P04 — Find the missing number 17 x 221
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find the missing number: 17 x ___ = 221. Which inverse operation helps?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing number inverse operation helps.
 
 ### P05 — Use the on screen tool to build
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen tool to build or select equal groups for 5 x 9 and write two multiplication and two division facts.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing tool build equal groups write multiplication division facts.
 
 ### P06 — Explain why 12 divided by 3 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain why 12 divided by 3 = 4 is connected to 3 x 4 = 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divided connected.
 
@@ -127,18 +112,13 @@ D. Reversed reasoning
 
 ### P08 — A student says 6 x 7 42
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 6 x 7 = 42, so 42 divided by 6 = 7. Explain why this works.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says divided this works.
 
@@ -168,18 +148,13 @@ D. Reversed reasoning
 
 ### P11 — Complete the structured template for a diagram
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a diagram showing 4 groups of 6 and explain how it also shows 24 divided by 4.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing diagram showing groups also shows divided.
 
@@ -197,18 +172,13 @@ D. Reversed reasoning
 
 ### P13 — Explain why 8 x 3 and 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why 8 x 3 and 3 x 8 have the same product but can represent different stories.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing have same product represent different stories.
 
@@ -276,18 +246,13 @@ D. Reversed reasoning
 
 ### P19 — Explain how knowing 12 x 12 helps
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how knowing 12 x 12 helps solve 144 divided by 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing knowing helps solve divided.
 
@@ -329,18 +294,13 @@ D. Reversed reasoning
 
 ### P23 — Explain the difference between sharing division and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the difference between sharing division and grouping division using 24 divided by 6.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between sharing division grouping division divided.
 
@@ -358,45 +318,35 @@ D. Reversed reasoning
 
 ### P25 — Solve a harder multiplication and division as
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a harder multiplication and division as inverse operations; fact families problem with at least two steps, and explain why each step is needed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder multiplication division inverse operations fact families.
 
 ### P26 — Complete the structured template for a realistic
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a realistic Year 5 context for multiplication and division as inverse operations; fact families where a careless student might choose the wrong operation. Solve it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing realistic year context multiplication division inverse operations fact.
 
-### P27 — Online version choose the diagram model that
+### P27 — choose the diagram model that
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: choose the diagram/model that best represents multiplication and division as inverse operations; fact families, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents multiplication and division as inverse operations; fact families, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -404,52 +354,37 @@ D. Reversed reasoning
 
 ### P28 — Compare two possible strategies for a multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two possible strategies for a multiplication and division as inverse operations; fact families question. Which is more efficient and why?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare possible strategies multiplication division inverse operations fact.
 
 ### P29 — Write a mistake a student might make
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a mistake a student might make with multiplication and division as inverse operations; fact families, then correct it clearly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write mistake might make multiplication division inverse operations.
 
 ### P30 — Use estimation first then solve an exact
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use estimation first, then solve an exact multiplication and division as inverse operations; fact families problem and check whether the answer is reasonable.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact multiplication division inverse operations.
 
@@ -467,52 +402,37 @@ D. Reversed reasoning
 
 ### P32 — Solve a missing value question connected to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a missing-value question connected to multiplication and division as inverse operations; fact families and justify the unknown value.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve missing value connected multiplication division inverse operations.
 
 ### P33 — Write a true or false statement about
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a true-or-false statement about multiplication and division as inverse operations; fact families that needs proof, then prove or disprove it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write true false statement about multiplication division inverse.
 
-### P34 — Online version select the best labelled representation
+### P34 — select the best labelled representation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: select the best labelled representation for multiplication and division as inverse operations; fact families from three options, then identify one missing or incorrect label.
+**Question:** select the best labelled representation for multiplication and division as inverse operations; fact families from three options, then identify one missing or incorrect label.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online version best labelled representation multiplication division inverse.
 
@@ -532,35 +452,25 @@ D. Reversed reasoning
 
 ### P36 — Explain the key vocabulary in multiplication and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the key vocabulary in multiplication and division as inverse operations; fact families using an example and a non-example.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing vocabulary multiplication division inverse operations fact families example.
 
-### P37 — Create two questions about multiplication and division
+### P37 — solve two related problems about multiplication and division
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Create two questions about multiplication and division as inverse operations; fact families that have the same answer but require different reasoning.
+**Question:** solve two related problems about multiplication and division as inverse operations; fact families that have the same answer but require different reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing create questions about multiplication division inverse operations fact.
 
@@ -578,26 +488,21 @@ D. Reversed reasoning
 
 ### P39 — Write a question where rounding estimating or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write a question where rounding, estimating or checking prevents an unreasonable answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write rounding estimating checking prevents unreasonable.
 
-### P40 — Online version match the words number sentence
+### P40 — match the words number sentence
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: match the words, number sentence and diagram that represent the same multiplication and division as inverse operations; fact families idea.
+**Question:** match the words, number sentence and diagram that represent the same multiplication and division as inverse operations; fact families idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -605,18 +510,13 @@ D. Reversed reasoning
 
 ### P41 — Find all possible answers to a multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all possible answers to a multiplication and division as inverse operations; fact families puzzle with more than one solution, and explain how you know you found all.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find possible answers multiplication division inverse operations fact.
 
@@ -634,18 +534,13 @@ D. Reversed reasoning
 
 ### P43 — Explain how you would teach this multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how you would teach this multiplication and division as inverse operations; fact families idea to a younger student using a simple model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing would teach this multiplication division inverse operations fact.
 
@@ -691,7 +586,7 @@ D. Reversed reasoning
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Complete the structured template for a mini test question about multiplication and division as inverse operations; fact families with a clear marking guide worth 3 marks.
+**Question:** Solve a 3-mark problem about multiplication and division as inverse operations; fact families. Show the key working steps and include a final answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -761,33 +656,23 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer use the on
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: use the on-screen tool to build or select equal groups for 5 x 9 and write two multiplication and two division facts.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best tool build equal groups write multiplication division.
 
 ### P54 — Beginner digital question Explain why 12 divided
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Explain why 12 divided by 3 = 4 is connected to 3 x 4 = 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divided connected.
 
@@ -805,18 +690,13 @@ D. Reversed reasoning
 
 ### P56 — Complete the answer box A student says
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: A student says 6 x 7 = 42, so 42 divided by 6 = 7. Explain why this works.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says divided this works.
 
@@ -834,35 +714,25 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Find the related
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the related multiplication for 84 divided by 7 = 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find related multiplication divided.
 
 ### P59 — Beginner digital question Complete the structured template
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Complete the structured template for a diagram showing 4 groups of 6 and explain how it also shows 24 divided by 4.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing diagram showing groups also shows divided.
 
@@ -880,18 +750,13 @@ D. Reversed reasoning
 
 ### P61 — Complete the answer box Explain why 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Explain why 8 x 3 and 3 x 8 have the same product but can represent different stories.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing have same product represent different stories.
 
@@ -909,16 +774,11 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer A box has
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: A box has 144 pencils in 12 equal packs. Use inverse operations to find pencils per pack.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best pencils equal packs inverse operations find pencils.
 
@@ -1012,18 +872,13 @@ D. Reversed reasoning
 
 ### E03 — Complete the answer box Explain the difference
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Explain the difference between sharing division and grouping division using 24 divided by 6.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between sharing division grouping division divided.
 
@@ -1049,20 +904,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing fact family.
 
-### E06 — Intermediate digital question Solve a harder multiplication
+### E06 — Solve a harder multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a harder multiplication and division as inverse operations; fact families problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
+**Question:** Solve a harder multiplication and division as inverse operations; fact families problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder multiplication division inverse operations fact families.
 
@@ -1078,13 +928,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task realistic year context multiplication.
 
-### E08 — Reasoning check Online version choose the diagram
+### E08 — choose the diagram
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Online version: choose the diagram/model that best represents multiplication and division as inverse operations; fact families, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents multiplication and division as inverse operations; fact families, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1092,54 +942,39 @@ D. Reversed reasoning
 
 ### E09 — Model based question Compare two possible strategies
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two possible strategies for a multiplication and division as inverse operations; fact families question. Which is more efficient and why? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare possible strategies multiplication division inverse.
 
-### E10 — Error check question Write a mistake a
+### E10 — Find and correct the error Write a mistake a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Write a mistake a student might make with multiplication and division as inverse operations; fact families, then correct it clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a mistake a student might make with multiplication and division as inverse operations; fact families, then correct it clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write mistake might make multiplication division.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Use estimation first then
+### E11 — Use estimation first then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use estimation first, then solve an exact multiplication and division as inverse operations; fact families problem and check whether the answer is reasonable. Check the common trap before answering.
+**Question:** Use estimation first, then solve an exact multiplication and division as inverse operations; fact families problem and check whether the answer is reasonable. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact multiplication division inverse operations.
 
@@ -1155,64 +990,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task missing entries four table.
 
-### E13 — Reasoning check Solve a missing value question
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve a missing-value question connected to multiplication and division as inverse operations; fact families and justify the unknown value. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected multiplication division.
-
-### E14 — Model based question Write a true or
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a true-or-false statement about multiplication and division as inverse operations; fact families that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write true false statement about multiplication.
-
-### E15 — Error check question Online version select the
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Online version: select the best labelled representation for multiplication and division as inverse operations; fact families from three options, then identify one missing or incorrect label.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check online version best labelled representation multiplication.
-
-### E16 — Intermediate digital question Solve a multi step
+### E13 — Solve a missing value question
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a multi-step word problem involving multiplication and division as inverse operations; fact families and one distractor number that is not needed. Check the common trap before answering.
+**Question:** Solve a missing-value question connected to multiplication and division as inverse operations; fact families and justify the unknown value. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected multiplication division.
+
+### E14 — Model based question Write a true or
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a true-or-false statement about multiplication and division as inverse operations; fact families that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write true false statement about multiplication.
+
+### E15 — Find and correct the error select the
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: select the best labelled representation for multiplication and division as inverse operations; fact families from three options, then identify one missing or incorrect label.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check online version best labelled representation multiplication.
+
+### E16 — Solve a multi step
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a multi-step word problem involving multiplication and division as inverse operations; fact families and one distractor number that is not needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1230,64 +1050,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task vocabulary multiplication division inverse.
 
-### E18 — Reasoning check Create two questions about multiplication
+### E18 — solve two related problems about multiplication
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Create two questions about multiplication and division as inverse operations; fact families that have the same answer but require different reasoning. Interpret the answer in the story context.
+**Question:** solve two related problems about multiplication and division as inverse operations; fact families that have the same answer but require different reasoning. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check create questions about multiplication division inverse.
 
 ### E19 — Model based question Solve a challenge problem
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve a challenge problem where the answer must be interpreted in context, not just calculated. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve challenge problem must interpreted context.
 
-### E20 — Error check question Write a question where
+### E20 — Find and correct the error Write a question where
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write rounding estimating checking prevents unreasonable.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Online version match the
+### E21 — match the
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Online version: match the words, number sentence and diagram that represent the same multiplication and division as inverse operations; fact families idea.
+**Question:** match the words, number sentence and diagram that represent the same multiplication and division as inverse operations; fact families idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1305,64 +1110,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find possible answers multiplication.
 
-### E23 — Reasoning check Change one number in a
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
-
-### E24 — Model based question Explain how you would
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Explain how you would teach this multiplication and division as inverse operations; fact families idea to a younger student using a simple model. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based would teach this multiplication division inverse.
-
-### E25 — Error check question Write a short investigation
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a short investigation connected to multiplication and division as inverse operations; fact families and describe what data or measurements you would need. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write short investigation connected multiplication division.
-
-### E26 — Intermediate digital question Solve a problem that
+### E23 — Change one number in a
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a problem that combines multiplication and division as inverse operations; fact families with another Year 5 maths idea. Check the common trap before answering.
+**Question:** Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
+
+### E24 — Model based question Explain how you would
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Explain how you would teach this multiplication and division as inverse operations; fact families idea to a younger student using a simple model. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based would teach this multiplication division inverse.
+
+### E25 — Find and correct the error Write a short investigation
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a short investigation connected to multiplication and division as inverse operations; fact families and describe what data or measurements you would need. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write short investigation connected multiplication division.
+
+### E26 — Solve a problem that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a problem that combines multiplication and division as inverse operations; fact families with another Year 5 maths idea. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1380,37 +1170,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task identify most likely trap.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a mini test question about multiplication and division as inverse operations; fact families with a clear marking guide worth 3 marks. Interpret the answer in the story context.
+**Question:** Solve a 3-mark problem about multiplication and division as inverse operations; fact families. Show the key working steps and include a final answer. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check mini test about multiplication division inverse.
 
 ### E29 — Model based question Write your own high
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write your own high-quality challenge question for AC9M5A01, then solve it fully. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write your high quality challenge ac9m5a01.
 

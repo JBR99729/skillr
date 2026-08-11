@@ -30,18 +30,13 @@ review_status: authored
 
 ### P01 — Solve 436 divided by 50 in a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve 436 divided by 50 in a bus context. How many buses are needed? Explain the remainder.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve divided context many buses needed remainder.
 
@@ -107,18 +102,13 @@ D. Reversed reasoning
 
 ### P07 — Explain when a remainder should make you
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain when a remainder should make you round up and when it should be left over.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing when remainder should make round when should left.
 
@@ -148,18 +138,13 @@ D. Reversed reasoning
 
 ### P10 — Which is more reasonable for 398 divided
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which is more reasonable for 398 divided by 5: 79 r3 or 89 r3? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing more reasonable divided.
 
@@ -201,18 +186,13 @@ D. Reversed reasoning
 
 ### P14 — A student says 25 divided by 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 25 divided by 4 is 6 r1, so the answer in metres is always 6 m. Explain why context matters.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says divided metres always context matters.
 
@@ -328,18 +308,13 @@ D. Reversed reasoning
 
 ### P24 — Explain how division and multiplication are connected
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how division and multiplication are connected when checking answers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing division multiplication connected when checking answers.
 
@@ -381,18 +356,13 @@ D. Reversed reasoning
 
 ### P28 — A student writes 425 6 70 r5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student writes 425 ÷ 6 = 70 r5. Explain how to interpret the remainder in two contexts.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing writes interpret remainder contexts.
 
@@ -508,16 +478,11 @@ D. Reversed reasoning
 
 ### P38 — Find and correct the error in 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find and correct the error in 3,612 ÷ 6 = 602.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find correct error.
 
@@ -535,18 +500,13 @@ D. Reversed reasoning
 
 ### P40 — A ribbon of 18 m is cut
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A ribbon of 18 m is cut into pieces of 0.5 m. How many pieces? Explain the unit connection.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing ribbon into pieces many pieces unit connection.
 
@@ -624,18 +584,13 @@ D. Reversed reasoning
 
 ### P47 — Explain why division can mean sharing or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why division can mean sharing or grouping, using the same number sentence.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing division mean sharing grouping same number sentence.
 
@@ -653,18 +608,13 @@ D. Reversed reasoning
 
 ### P49 — Beginner digital question Solve 436 divided by
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Solve 436 divided by 50 in a bus context. How many buses are needed? Explain the remainder.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve divided context many buses needed remainder.
 
@@ -708,16 +658,11 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer Solve 960 divided
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Solve 960 divided by 30 by dividing both numbers by 10 first.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve divided dividing both numbers first.
 
@@ -735,18 +680,13 @@ D. Reversed reasoning
 
 ### P55 — Use the on screen options Explain when
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Explain when a remainder should make you round up and when it should be left over.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing when remainder should make round when should left.
 
@@ -776,18 +716,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Which is more
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Which is more reasonable for 398 divided by 5: 79 r3 or 89 r3? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best more reasonable divided.
 
@@ -841,18 +776,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Find the missing
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the missing number: ___ divided by 8 = 37 r5.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find missing number divided.
 
@@ -906,18 +836,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Solve 504 divided
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Solve 504 divided by 12 using a related multiplication fact.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve divided related multiplication fact.
 
@@ -985,13 +910,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing share stickers equally among students.
 
-### E06 — Intermediate digital question Divide 3 456 by
+### E06 — Divide 3 456 by
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Divide 3,456 by 8 and check with multiplication. Check the common trap before answering.
+**Question:** Divide 3,456 by 8 and check with multiplication. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1009,64 +934,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task camp students groups many.
 
-### E08 — Reasoning check Solve 1 728 24 using
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve 1,728 ÷ 24 using a strategy based on multiplication facts. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve strategy based multiplication facts interpret.
-
-### E09 — Model based question A student writes 425
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: A student writes 425 ÷ 6 = 70 r5. Explain how to interpret the remainder in two contexts. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based writes interpret remainder contexts model method.
-
-### E10 — Error check question Estimate 5 921 7
-
-**Type:** Multiple choice
-
-**Question:** Error-check question: Estimate 5,921 ÷ 7, then calculate exactly. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check estimate calculate exactly estimate first enter.
-
-## Section B — Application and problem solving
-
-### E11 — Intermediate digital question Share 965 equally among
+### E08 — Solve 1 728 24 using
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Share $965 equally among 5 clubs. How much does each club receive? Check the common trap before answering.
+**Question:** Solve 1,728 ÷ 24 using a strategy based on multiplication facts. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve strategy based multiplication facts interpret.
+
+### E09 — Model based question A student writes 425
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: A student writes 425 ÷ 6 = 70 r5. Explain how to interpret the remainder in two contexts. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based writes interpret remainder contexts model method.
+
+### E10 — Find and correct the error Estimate 5 921 7
+
+**Type:** Short response
+
+**Question:** Find and correct the error: Estimate 5,921 ÷ 7, then calculate exactly. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check estimate calculate exactly estimate first enter.
+
+## Section B — Application and problem solving
+
+### E11 — Share 965 equally among
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Share $965 equally among 5 clubs. How much does each club receive? Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1084,64 +994,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task factory packs bottles into.
 
-### E13 — Reasoning check Find the missing divisor 1
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Find the missing divisor: 1,080 ÷ ___ = 45. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check find missing divisor interpret story context.
-
-### E14 — Model based question Write a word problem
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a word problem where 38 r4 must be rounded up. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write word problem must rounded model.
-
-### E15 — Error check question Write a word problem
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a word problem where 38 r4 must stay as a remainder. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write word problem must stay remainder.
-
-### E16 — Intermediate digital question Use chunking to solve
+### E13 — Find the missing divisor 1
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use chunking to solve 2,205 ÷ 15. Check the common trap before answering.
+**Question:** Find the missing divisor: 1,080 ÷ ___ = 45. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check find missing divisor interpret story context.
+
+### E14 — Model based question Write a word problem
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a word problem where 38 r4 must be rounded up. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write word problem must rounded model.
+
+### E15 — Find and correct the error Write a word problem
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a word problem where 38 r4 must stay as a remainder. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write word problem must stay remainder.
+
+### E16 — Use chunking to solve
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Use chunking to solve 2,205 ÷ 15. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1159,71 +1054,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task compare without calculating both.
 
-### E18 — Reasoning check A bus takes 52 people
+### E18 — A bus takes 52 people
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A bus takes 52 people. How many buses are needed for 475 people? Interpret the answer in the story context.
+**Question:** A bus takes 52 people. How many buses are needed for 475 people? Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check takes people many buses needed people.
 
 ### E19 — Model based question Find and correct the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Find and correct the error in 3,612 ÷ 6 = 602. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based find correct error model method matches.
 
-### E20 — Error check question Use inverse operations to
+### E20 — Find and correct the error Use inverse operations to
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Use inverse operations to prove 2,394 ÷ 9. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Use inverse operations to prove 2,394 ÷ 9. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check inverse operations prove estimate first enter.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question A ribbon of 18
+### E21 — A ribbon of 18
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A ribbon of 18 m is cut into pieces of 0.5 m. How many pieces? Explain the unit connection. Check the common trap before answering.
+**Question:** A ribbon of 18 m is cut into pieces of 0.5 m. How many pieces? Explain the unit connection. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing ribbon into pieces many pieces unit connection check.
 
@@ -1239,64 +1114,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task solve show multiplication check.
 
-### E23 — Reasoning check Complete the structured template for
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Complete the structured template for a division equation with a quotient of 27 and a remainder of 5. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check division equation quotient remainder interpret story.
-
-### E24 — Model based question When does a remainder
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: When does a remainder become a fraction? Give an example and solve it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based when does remainder become fraction example.
-
-### E25 — Error check question A club buys 18
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: A club buys 18 equal packs from 756 badges. How many badges per pack? Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check club buys equal packs badges many.
-
-### E26 — Intermediate digital question Use divisibility to decide
+### E23 — Complete the structured template for
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use divisibility to decide whether 7,128 ÷ 9 has no remainder. Check the common trap before answering.
+**Question:** Complete the structured template for a division equation with a quotient of 27 and a remainder of 5. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check division equation quotient remainder interpret story.
+
+### E24 — Model based question When does a remainder
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: When does a remainder become a fraction? Give an example and solve it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based when does remainder become fraction example.
+
+### E25 — Find and correct the error A club buys 18
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: A club buys 18 equal packs from 756 badges. How many badges per pack? Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check club buys equal packs badges many.
+
+### E26 — Use divisibility to decide
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Use divisibility to decide whether 7,128 ÷ 9 has no remainder. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1314,37 +1174,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task best step division problem.
 
-### E28 — Reasoning check Explain why division can mean
+### E28 — Explain why division can mean
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Explain why division can mean sharing or grouping, using the same number sentence. Interpret the answer in the story context.
+**Question:** Explain why division can mean sharing or grouping, using the same number sentence. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check division mean sharing grouping same number.
 
 ### E29 — Model based question Write a challenging division
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write a challenging division question and include how the remainder should be interpreted. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write challenging division include remainder should.
 

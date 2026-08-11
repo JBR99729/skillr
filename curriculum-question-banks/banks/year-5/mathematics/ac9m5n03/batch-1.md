@@ -54,16 +54,11 @@ review_status: authored
 
 ### P03 — Which is greater 3 6 or 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is greater: 3/6 or 4/12? Explain using equivalent fractions.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing greater equivalent fractions.
 
@@ -81,18 +76,13 @@ D. Reversed reasoning
 
 ### P05 — A ribbon is 5 6 m and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A ribbon is 5/6 m and another is 3/4 m. Which is longer? Use related denominators.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing ribbon another longer related denominators.
 
@@ -122,35 +112,25 @@ D. Reversed reasoning
 
 ### P08 — Use the on screen tool to build
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen tool to build or select a fraction wall showing halves, quarters and eighths. Use it to compare 3/8 and 1/2.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing tool build fraction wall showing halves quarters eighths.
 
 ### P09 — Which mixed numeral is larger 2 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which mixed numeral is larger: 2 1/3 or 2 2/6? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing mixed numeral larger.
 
@@ -168,50 +148,35 @@ D. Reversed reasoning
 
 ### P11 — A student says 5 10 is larger
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 5/10 is larger than 1/2 because 5 is larger than 1. What is the mistake?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says larger than because larger than mistake.
 
 ### P12 — Convert 9 4 to a mixed numeral
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Convert 9/4 to a mixed numeral and explain what the whole number means.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing convert mixed numeral whole number means.
 
 ### P13 — Which is closer to 1 7 10
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is closer to 1: 7/10 or 4/5? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing closer.
 
@@ -253,16 +218,11 @@ D. Reversed reasoning
 
 ### P17 — Compare 11 6 and 1 5 6
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Compare 11/6 and 1 5/6. Are they equal? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare they equal.
 
@@ -270,35 +230,25 @@ D. Reversed reasoning
 
 ### P18 — A recipe uses 3 8 cup sugar
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A recipe uses 3/8 cup sugar and 1/4 cup cocoa. Which amount is greater?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing recipe uses sugar cocoa amount greater.
 
 ### P19 — Find the missing denominator 2 5 6
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find the missing denominator: 2/5 = 6/___. Explain your reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing denominator your reasoning.
 
@@ -352,18 +302,13 @@ D. Reversed reasoning
 
 ### P24 — Explain how a fraction wall and a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how a fraction wall and a number line show fractions differently.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing fraction wall number line show fractions differently.
 
@@ -393,18 +338,13 @@ D. Reversed reasoning
 
 ### P27 — A recipe uses 2 1 4 cups
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A recipe uses 2 1/4 cups flour and another uses 17/8 cups. Which uses more? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing recipe uses cups flour another uses cups uses.
 
@@ -458,16 +398,11 @@ D. Reversed reasoning
 
 ### P32 — Which is closer to 2 1 7
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is closer to 2: 1 7/8 or 15/8? Explain using distance from 2.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing closer distance.
 
@@ -485,18 +420,13 @@ D. Reversed reasoning
 
 ### P34 — Compare 4 5 and 7 10 in
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare 4/5 and 7/10 in a money context. Which amount of one dollar is greater?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare money context amount dollar greater.
 
@@ -516,18 +446,13 @@ D. Reversed reasoning
 
 ### P36 — Which fraction wall section proves 3 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which fraction wall section proves 3/4 = 6/8 = 9/12?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing fraction wall section proves.
 
@@ -545,18 +470,13 @@ D. Reversed reasoning
 
 ### P38 — A ribbon is 1 2 3 m
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A ribbon is 1 2/3 m. Another is 5/3 m. Are they equal? Justify with the supplied visual model or conversion.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing ribbon another they equal justify supplied visual model.
 
@@ -574,35 +494,25 @@ D. Reversed reasoning
 
 ### P40 — Explain why related denominators make comparison easier
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why related denominators make comparison easier than unrelated denominators.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing related denominators make comparison easier than unrelated denominators.
 
 ### P41 — Choose the greater amount 11 12 of
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the greater amount: 11/12 of a pizza or 5/6 of the same pizza. select the method steps.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing greater amount pizza same pizza method steps.
 
@@ -620,18 +530,13 @@ D. Reversed reasoning
 
 ### P43 — Convert 14 6 and 2 1 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Convert 14/6 and 2 1/3, then explain whether they represent the same point.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing convert whether they represent same point.
 
@@ -649,18 +554,13 @@ D. Reversed reasoning
 
 ### P45 — Find two fractions equivalent to 8 10
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find two fractions equivalent to 8/10, then explain which simplest form you prefer and why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find fractions equivalent simplest form prefer.
 
@@ -678,18 +578,13 @@ D. Reversed reasoning
 
 ### P47 — A class ate 9 8 cakes Explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A class ate 9/8 cakes. Explain what this means as a mixed numeral and as a story.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing class cakes this means mixed numeral story.
 
@@ -731,16 +626,11 @@ D. Reversed reasoning
 
 ### P51 — Complete the answer box Which is greater
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Complete the answer box: Which is greater: 3/6 or 4/12? Explain using equivalent fractions.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing greater equivalent fractions.
 
@@ -760,18 +650,13 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer A ribbon is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A ribbon is 5/6 m and another is 3/4 m. Which is longer? Use related denominators.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best ribbon another longer related denominators.
 
@@ -801,18 +686,13 @@ D. Reversed reasoning
 
 ### P56 — Complete the answer box use the on
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: use the on-screen tool to build or select a fraction wall showing halves, quarters and eighths. Use it to compare 3/8 and 1/2.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing tool build fraction wall showing halves quarters eighths.
 
@@ -830,67 +710,47 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Find a fraction
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Select the best answer: Find a fraction between 1/4 and 1/2. Show it on a number line.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find fraction between show number line.
 
 ### P59 — Beginner digital question A student says 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: A student says 5/10 is larger than 1/2 because 5 is larger than 1. What is the mistake?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says larger than because larger than mistake.
 
 ### P60 — Use the on screen options Convert 9
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Convert 9/4 to a mixed numeral and explain what the whole number means.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing convert mixed numeral whole number means.
 
 ### P61 — Complete the answer box Which is closer
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Complete the answer box: Which is closer to 1: 7/10 or 4/5? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing closer.
 
@@ -908,18 +768,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Use factors and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Use factors and multiples to compare 2/3 and 5/9.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best factors multiples compare.
 
@@ -937,33 +792,23 @@ D. Reversed reasoning
 
 ### P65 — Use the on screen options Compare 11
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Compare 11/6 and 1 5/6. Are they equal? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare they equal.
 
 ### P66 — Complete the answer box A recipe uses
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: A recipe uses 3/8 cup sugar and 1/4 cup cocoa. Which amount is greater?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing recipe uses sugar cocoa amount greater.
 
@@ -981,16 +826,11 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Write these as
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Write these as improper fractions: 1 2/5, 3 1/2, 2 3/4.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best write improper fractions.
 
@@ -1048,26 +888,21 @@ D. Reversed reasoning
 
 ### E05 — Choose the fraction equal to 6 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Choose the fraction equal to 6/8: 3/4, 6/6, 8/6 or 1/3.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing fraction equal.
 
-### E06 — Intermediate digital question Order 5 6 7
+### E06 — Order 5 6 7
 
 **Type:** Sequencing
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls.
 
-**Question:** Intermediate digital question: Order 5/6, 7/12, 3/4 and 11/18 using common or related denominators. Check the common trap before answering.
+**Question:** Order 5/6, 7/12, 3/4 and 11/18 using common or related denominators. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. The order must be complete and use the direction requested in the prompt.
 
@@ -1085,66 +920,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task order left right number.
 
-### E08 — Reasoning check A recipe uses 2 1
+### E08 — A recipe uses 2 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A recipe uses 2 1/4 cups flour and another uses 17/8 cups. Which uses more? Explain. Interpret the answer in the story context.
+**Question:** A recipe uses 2 1/4 cups flour and another uses 17/8 cups. Which uses more? Explain. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check recipe uses cups flour another uses.
 
 ### E09 — Model based question Find two fractions between
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Find two fractions between 3/5 and 4/5 with denominators related to 10 or 20. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based find fractions between denominators related model.
 
-### E10 — Error check question A student says 9
+### E10 — Find and correct the error A student says 9
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A student says 9/12 is larger than 5/6 because 9 is larger than 5. Correct the comparison. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A student says 9/12 is larger than 5/6 because 9 is larger than 5. Correct the comparison. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check says larger than because larger than.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Convert 2 3 8
+### E11 — Convert 2 3 8
 
 **Type:** Sequencing
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls.
 
-**Question:** Intermediate digital question: Convert 2 3/8, 19/8 and 2 1/2 to a common form, then order them. Check the common trap before answering.
+**Question:** Convert 2 3/8, 19/8 and 2 1/2 to a common form, then order them. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. The order must be complete and use the direction requested in the prompt.
 
@@ -1162,64 +982,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task match their positions parallel.
 
-### E13 — Reasoning check Which is closer to 2
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Which is closer to 2: 1 7/8 or 15/8? Explain using distance from 2. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check closer distance interpret story context.
-
-### E14 — Model based question Find the missing numerator
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Find the missing numerator: ___/18 is equivalent to 5/6. Then write a larger equivalent fraction. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based find missing numerator equivalent write larger.
-
-### E15 — Error check question Compare 4 5 and
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Compare 4/5 and 7/10 in a money context. Which amount of one dollar is greater? Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check compare money context amount dollar greater.
-
-### E16 — Intermediate digital question Write three improper fractions
+### E13 — Which is closer to 2
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Write three improper fractions equivalent to mixed numerals between 1 and 2. Check the common trap before answering.
+**Question:** Which is closer to 2: 1 7/8 or 15/8? Explain using distance from 2. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check closer distance interpret story context.
+
+### E14 — Model based question Find the missing numerator
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Find the missing numerator: ___/18 is equivalent to 5/6. Then write a larger equivalent fraction. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based find missing numerator equivalent write larger.
+
+### E15 — Find and correct the error Compare 4 5 and
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Compare 4/5 and 7/10 in a money context. Which amount of one dollar is greater? Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check compare money context amount dollar greater.
+
+### E16 — Write three improper fractions
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Write three improper fractions equivalent to mixed numerals between 1 and 2. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1227,28 +1032,23 @@ D. Reversed reasoning
 
 ### E17 — Multi step online task Which fraction wall
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Multi-step online task: Which fraction wall section proves 3/4 = 6/8 = 9/12?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing multi step online task fraction wall section proves.
 
-### E18 — Reasoning check Order 13 10 1 1
+### E18 — Order 13 10 1 1
 
 **Type:** Sequencing
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Order 13/10, 1 1/5, 6/5 and 1 3/10. Explain the trap. Interpret the answer in the story context.
+**Question:** Order 13/10, 1 1/5, 6/5 and 1 3/10. Explain the trap. Interpret the answer in the story context.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. The order must be complete and use the direction requested in the prompt.
 
@@ -1256,52 +1056,37 @@ D. Reversed reasoning
 
 ### E19 — Model based question A ribbon is 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: A ribbon is 1 2/3 m. Another is 5/3 m. Are they equal? Justify with the supplied visual model or conversion. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based ribbon another they equal justify supplied.
 
-### E20 — Error check question Find a fraction with
+### E20 — Find and correct the error Find a fraction with
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Find a fraction with denominator 24 that is between 2/3 and 3/4. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Find a fraction with denominator 24 that is between 2/3 and 3/4. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check find fraction denominator between estimate first.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Explain why related denominators
+### E21 — Explain why related denominators
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Explain why related denominators make comparison easier than unrelated denominators. Check the common trap before answering.
+**Question:** Explain why related denominators make comparison easier than unrelated denominators. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing related denominators make comparison easier than unrelated denominators.
 
@@ -1317,69 +1102,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task greater amount pizza same.
 
-### E23 — Reasoning check Select the set of four
+### E23 — Select the set of four
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Select the set of four fractions where the largest numerator is not the largest fraction. Interpret the answer in the story context.
+**Question:** Select the set of four fractions where the largest numerator is not the largest fraction. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check four fractions largest numerator largest fraction.
 
 ### E24 — Model based question Convert 14 6 and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Convert 14/6 and 2 1/3, then explain whether they represent the same point. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based convert whether they represent same point.
 
-### E25 — Error check question Use benchmark fractions 0
+### E25 — Find and correct the error Use benchmark fractions 0
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Use benchmark fractions 0, 1/2 and 1 to compare 5/12, 7/8 and 3/6. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Use benchmark fractions 0, 1/2 and 1 to compare 5/12, 7/8 and 3/6. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check benchmark fractions compare estimate first enter.
 
-### E26 — Intermediate digital question Find two fractions equivalent
+### E26 — Find two fractions equivalent
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Find two fractions equivalent to 8/10, then explain which simplest form you prefer and why. Check the common trap before answering.
+**Question:** Find two fractions equivalent to 8/10, then explain which simplest form you prefer and why. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find fractions equivalent simplest form prefer check common.
 
@@ -1395,37 +1160,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task order left right number.
 
-### E28 — Reasoning check A class ate 9 8
+### E28 — A class ate 9 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A class ate 9/8 cakes. Explain what this means as a mixed numeral and as a story. Interpret the answer in the story context.
+**Question:** A class ate 9/8 cakes. Explain what this means as a mixed numeral and as a story. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check class cakes this means mixed numeral.
 
 ### E29 — Model based question Select the tricky fraction
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Select the tricky fraction comparison question that uses related denominators, then enter the answer. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based tricky fraction comparison uses related denominators.
 

@@ -66,16 +66,11 @@ review_status: authored
 
 ### P04 — Estimate 498 x 6 then calculate exactly
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Estimate 498 x 6, then calculate exactly. Is your answer reasonable?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimate calculate exactly your reasonable.
 
@@ -93,16 +88,11 @@ D. Reversed reasoning
 
 ### P06 — Solve 406 x 7 Explain how the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 406 x 7. Explain how the zero affects the calculation.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve zero affects calculation.
 
@@ -120,18 +110,13 @@ D. Reversed reasoning
 
 ### P08 — Which strategy would you choose for 99
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which strategy would you choose for 99 x 8? Explain and solve.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing strategy would solve.
 
@@ -161,16 +146,11 @@ D. Reversed reasoning
 
 ### P11 — Find the error 36 x 12 36
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find the error: 36 x 12 = 36 x 10 + 12. Correct it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find error correct.
 
@@ -250,16 +230,11 @@ D. Reversed reasoning
 
 ### P18 — Is 38 x 12 closer to 400
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Is 38 x 12 closer to 400 or 500? Explain using estimation.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing closer estimation.
 
@@ -289,67 +264,47 @@ D. Reversed reasoning
 
 ### P21 — Solve 2 305 x 4 and explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 2,305 x 4 and explain why the answer has four digits or five digits.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve four digits five digits.
 
 ### P22 — A student says 42 x 20 is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 42 x 20 is 84 because they ignored the zero. Explain the correction.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says because they ignored zero correction.
 
 ### P23 — Use a calculator to check 78 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use a calculator to check 78 x 26, then explain a mental estimate that proves the answer is sensible.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculator check mental estimate proves sensible.
 
 ### P24 — Explain why different multiplication strategies can give
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why different multiplication strategies can give the same result.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing different multiplication strategies same result.
 
@@ -391,52 +346,37 @@ D. Reversed reasoning
 
 ### P28 — Choose the area model that correctly partitions
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the area model that correctly partitions 47 x 28, then enter the product.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing area model correctly partitions enter product.
 
 ### P29 — A student calculates 306 x 14 as
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student calculates 306 x 14 as 3,060 + 1,224. Explain the strategy and check it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculates strategy check.
 
 ### P30 — Find the missing number x 16 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find the missing number: ___ x 16 = 1,280. Show inverse reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing number show inverse reasoning.
 
@@ -454,31 +394,21 @@ D. Reversed reasoning
 
 ### P32 — Solve 2 407 x 8 and explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 2,407 x 8 and explain how zeros or place value affect the answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve zeros place value affect.
 
 ### P33 — Which is larger 62 x 45 or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is larger: 62 x 45 or 64 x 43? Decide without fully calculating first, then verify.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing larger decide without fully calculating first verify.
 
@@ -522,31 +452,21 @@ D. Reversed reasoning
 
 ### P37 — Find the error in 54 x 23
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find the error in 54 x 23 = 54 x 20 + 54 x 2. Correct it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find error correct.
 
 ### P38 — Solve 708 x 26 using vertical algorithm
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 708 x 26 using vertical algorithm and explain each partial product.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve vertical algorithm each partial product.
 
@@ -576,18 +496,13 @@ D. Reversed reasoning
 
 ### P41 — Choose the best method for 999 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the best method for 999 x 6 and explain why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best method.
 
@@ -629,33 +544,23 @@ D. Reversed reasoning
 
 ### P45 — Solve 3 250 x 14 and describe
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 3,250 x 14 and describe a reasonableness check.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve describe reasonableness check.
 
 ### P46 — Choose or complete an area model for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose or complete an area model for a two-digit by two-digit multiplication.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing area model digit digit multiplication.
 
@@ -673,18 +578,13 @@ D. Reversed reasoning
 
 ### P48 — Explain why partial products and the standard
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why partial products and the standard algorithm give the same result.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing partial products standard algorithm same result.
 
@@ -740,33 +640,23 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer A school buys
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A school buys 27 boxes with 14 pencils in each. How many pencils are there?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best school buys boxes pencils each many pencils.
 
 ### P54 — Beginner digital question Solve 406 x 7
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Solve 406 x 7. Explain how the zero affects the calculation.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve zero affects calculation.
 
@@ -784,18 +674,13 @@ D. Reversed reasoning
 
 ### P56 — Complete the answer box Which strategy would
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Which strategy would you choose for 99 x 8? Explain and solve.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing strategy would solve.
 
@@ -813,31 +698,21 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Solve 125 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Solve 125 x 16 using factors or doubling.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve factors doubling.
 
 ### P59 — Beginner digital question Find the error 36
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Find the error: 36 x 12 = 36 x 10 + 12. Correct it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find error correct.
 
@@ -879,16 +754,11 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Solve 1 204
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Solve 1,204 x 6. Show partitioning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve show partitioning.
 
@@ -918,16 +788,11 @@ D. Reversed reasoning
 
 ### P66 — Complete the answer box Is 38 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Complete the answer box: Is 38 x 12 closer to 400 or 500? Explain using estimation.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing closer estimation.
 
@@ -945,18 +810,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Complete the structured
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Complete the structured template for a multiplication word problem that needs a two-digit multiplier.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best multiplication word problem needs digit multiplier.
 
@@ -966,50 +826,35 @@ D. Reversed reasoning
 
 ### E01 — Beginner digital question Solve 2 305 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Solve 2,305 x 4 and explain why the answer has four digits or five digits.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve four digits five digits.
 
 ### E02 — Use the on screen options A student
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: A student says 42 x 20 is 84 because they ignored the zero. Explain the correction.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says because they ignored zero correction.
 
 ### E03 — Complete the answer box Use a calculator
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Use a calculator to check 78 x 26, then explain a mental estimate that proves the answer is sensible.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculator check mental estimate proves sensible.
 
@@ -1037,13 +882,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing calculate area model shown.
 
-### E06 — Intermediate digital question Calculate 3 486 x
+### E06 — Calculate 3 486 x
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Calculate 3,486 x 7 using two efficient strategies, then compare the working. Check the common trap before answering.
+**Question:** Calculate 3,486 x 7 using two efficient strategies, then compare the working. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1061,73 +906,53 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task school orders boxes pencils.
 
-### E08 — Reasoning check Estimate 498 x 19 then
+### E08 — Estimate 498 x 19 then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Estimate 498 x 19, then calculate exactly and compare the estimate. Interpret the answer in the story context.
+**Question:** Estimate 498 x 19, then calculate exactly and compare the estimate. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check estimate calculate exactly compare estimate interpret.
 
 ### E09 — Model based question Choose the area model
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Choose the area model that correctly partitions 47 x 28, then enter the product.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based area model correctly partitions enter product.
 
-### E10 — Error check question A student calculates 306
+### E10 — Find and correct the error A student calculates 306
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A student calculates 306 x 14 as 3,060 + 1,224. Explain the strategy and check it. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A student calculates 306 x 14 as 3,060 + 1,224. Explain the strategy and check it. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check calculates strategy check estimate first enter.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Find the missing number
+### E11 — Find the missing number
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Find the missing number: ___ x 16 = 1,280. Show inverse reasoning. Check the common trap before answering.
+**Question:** Find the missing number: ___ x 16 = 1,280. Show inverse reasoning. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing number show inverse reasoning check common.
 
@@ -1143,64 +968,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task farm packs apples each.
 
-### E13 — Reasoning check Solve 2 407 x 8
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve 2,407 x 8 and explain how zeros or place value affect the answer. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve zeros place value affect interpret.
-
-### E14 — Model based question Which is larger 62
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Which is larger: 62 x 45 or 64 x 43? Decide without fully calculating first, then verify. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based larger decide without fully calculating first.
-
-### E15 — Error check question Complete the structured template
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Complete the structured template for a multiplication problem where rounding both factors gives an estimate that is too high. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check multiplication problem rounding both factors gives.
-
-### E16 — Intermediate digital question Use the distributive property
+### E13 — Solve 2 407 x 8
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use the distributive property to solve 125 x 48 mentally. Check the common trap before answering.
+**Question:** Solve 2,407 x 8 and explain how zeros or place value affect the answer. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve zeros place value affect interpret.
+
+### E14 — Model based question Which is larger 62
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Which is larger: 62 x 45 or 64 x 43? Decide without fully calculating first, then verify. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based larger decide without fully calculating first.
+
+### E15 — Find and correct the error Complete the structured template
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Complete the structured template for a multiplication problem where rounding both factors gives an estimate that is too high. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check multiplication problem rounding both factors gives.
+
+### E16 — Use the distributive property
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Use the distributive property to solve 125 x 48 mentally. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1218,66 +1028,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task printing shop makes flyers.
 
-### E18 — Reasoning check Find the error in 54
+### E18 — Find the error in 54
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Find the error in 54 x 23 = 54 x 20 + 54 x 2. Correct it. Interpret the answer in the story context.
+**Question:** Find the error in 54 x 23 = 54 x 20 + 54 x 2. Correct it. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check find error correct interpret story context.
 
 ### E19 — Model based question Solve 708 x 26
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve 708 x 26 using vertical algorithm and explain each partial product. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve vertical algorithm each partial product.
 
-### E20 — Error check question A bus has 48
+### E20 — Find and correct the error A bus has 48
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A bus has 48 seats. How many seats are on 27 buses? What if 3 seats on each bus are unavailable? Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A bus has 48 seats. How many seats are on 27 buses? What if 3 seats on each bus are unavailable? Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check seats many seats buses seats each.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Write two different multiplication
+### E21 — Write two different multiplication
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Write two different multiplication stories that match 34 x 56. Check the common trap before answering.
+**Question:** Write two different multiplication stories that match 34 x 56. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1295,134 +1090,94 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task best method steps matching.
 
-### E23 — Reasoning check Use doubling and halving to
+### E23 — Use doubling and halving to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Use doubling and halving to solve 25 x 64. Interpret the answer in the story context.
+**Question:** Use doubling and halving to solve 25 x 64. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check doubling halving solve interpret story context.
 
 ### E24 — Model based question A theatre sells 315
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: A theatre sells 315 tickets for each of 12 shows. Estimate and calculate the total. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based theatre sells tickets each shows estimate.
 
-### E25 — Error check question Prove that 46 x
+### E25 — Find and correct the error Prove that 46 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Prove that 46 x 19 equals 46 x 20 - 46. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Prove that 46 x 19 equals 46 x 20 - 46. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check prove equals estimate first enter exact.
 
-### E26 — Intermediate digital question Solve 3 250 x
+### E26 — Solve 3 250 x
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Intermediate digital question: Solve 3,250 x 14 and describe a reasonableness check. Check the common trap before answering.
+**Question:** Solve 3,250 x 14 and describe a reasonableness check. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve describe reasonableness check check common trap before.
 
 ### E27 — Multi step online task Choose or complete
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Multi-step online task: Choose or complete an area model for a two-digit by two-digit multiplication.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing multi step online task area model digit digit.
 
-### E28 — Reasoning check Write a multiplication question with
+### E28 — Write a multiplication question with
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Write a multiplication question with a hidden trap involving place value, then solve it. Interpret the answer in the story context.
+**Question:** Write a multiplication question with a hidden trap involving place value, then solve it. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check write multiplication hidden trap involving place.
 
 ### E29 — Model based question Explain why partial products
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Explain why partial products and the standard algorithm give the same result. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based partial products standard algorithm same result.
 
 ### E30 — Calculate 47 x 26 using partitioning then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Calculate 47 x 26 using partitioning, then choose the partial-products set that matches.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculate partitioning partial products matches.

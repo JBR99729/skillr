@@ -42,16 +42,11 @@ review_status: authored
 
 ### P02 — Is 84 divisible by 2 3 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Is 84 divisible by 2, 3, 4, 5, 6, 9 and 10? Give reasons.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divisible reasons.
 
@@ -69,16 +64,11 @@ D. Reversed reasoning
 
 ### P04 — A number has factors 1 2 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** A number has factors 1, 2, 4, 8 and 16. What number could it be? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing number factors number could.
 
@@ -96,31 +86,21 @@ D. Reversed reasoning
 
 ### P06 — Is 89 472 divisible by 3 Use
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Is 89,472 divisible by 3? Use the digit-sum test and explain why it works.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divisible digit test works.
 
 ### P07 — Find a two digit number that is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find a two-digit number that is divisible by both 6 and 8. Is it always divisible by 48? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find digit number divisible both always divisible.
 
@@ -174,16 +154,11 @@ D. Reversed reasoning
 
 ### P12 — Which numbers from 1 to 40 have
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which numbers from 1 to 40 have exactly three factors? What do you notice?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing numbers have exactly three factors notice.
 
@@ -213,18 +188,13 @@ D. Reversed reasoning
 
 ### P15 — Find the missing factor 9 x 144
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find the missing factor: 9 x ___ = 144. Explain your strategy.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing factor your strategy.
 
@@ -242,16 +212,11 @@ D. Reversed reasoning
 
 ### P17 — Which is not a factor of 72
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is not a factor of 72: 6, 8, 9, 12 or 15? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing factor.
 
@@ -283,16 +248,11 @@ D. Reversed reasoning
 
 ### P20 — Explain how 4 x 7 can be
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain how 4 x 7 can be formed by combining 4 x 2 and 4 x 5.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing formed combining.
 
@@ -334,18 +294,13 @@ D. Reversed reasoning
 
 ### P24 — Explain the difference between a factor and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the difference between a factor and a multiple using the number 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between factor multiple number.
 
@@ -363,50 +318,35 @@ D. Reversed reasoning
 
 ### P26 — A number less than 150 is divisible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** A number less than 150 is divisible by 6 and 9 but not by 5. Give three possibilities and justify each.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing number less than divisible three possibilities justify each.
 
 ### P27 — Widget or MC version Which array set
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Widget or MC version: Which array set correctly shows three different factor pairs for 72? Options should include 1 x 72, 2 x 36, 3 x 24, 4 x 18, 6 x 12, 8 x 9.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing widget version array correctly shows three different factor.
 
 ### P28 — Is every multiple of 12 also a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Is every multiple of 12 also a multiple of 3 and 4? Is every number divisible by 3 and 4 a multiple of 12? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing every multiple also multiple every number divisible multiple.
 
@@ -486,67 +426,47 @@ D. Reversed reasoning
 
 ### P35 — Find all two digit multiples of 11
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all two-digit multiples of 11 that are also composite numbers. Explain why they are composite.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find digit multiples also composite numbers they composite.
 
 ### P36 — Can a prime number greater than 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Can a prime number greater than 5 be divisible by 2, 3 or 5? Explain using examples and counterexamples.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing prime number greater than divisible examples counterexamples.
 
 ### P37 — Select the correct factor lists for 45
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the correct factor lists for 45 and 64, then choose the statement that best compares their factor patterns.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing correct factor lists statement best compares their factor.
 
 ### P38 — Which has more factors 36 or 40
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which has more factors: 36 or 40? choose the method steps and enter the final answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing more factors method steps enter final.
 
@@ -564,16 +484,11 @@ D. Reversed reasoning
 
 ### P40 — Find a number that has 3 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find a number that has 3, 4 and 6 as factors but is not 24. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find number factors.
 
@@ -615,16 +530,11 @@ D. Reversed reasoning
 
 ### P44 — Explain why 1 is a factor of
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain why 1 is a factor of every whole number but is not usually called prime.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing factor every whole number usually called prime.
 
@@ -654,18 +564,13 @@ D. Reversed reasoning
 
 ### P47 — Prove or disprove if a number is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Prove or disprove: if a number is divisible by 8, it must be divisible by 4.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing prove disprove number divisible must divisible.
 
@@ -695,16 +600,11 @@ D. Reversed reasoning
 
 ### P50 — Use the on screen options Is 84
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Is 84 divisible by 2, 3, 4, 5, 6, 9 and 10? Give reasons.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divisible reasons.
 
@@ -736,48 +636,33 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer Use rectangle arrays
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Use rectangle arrays to show all factor pairs of 24.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best rectangle arrays show factor pairs.
 
 ### P54 — Beginner digital question Is 89 472 divisible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Is 89,472 divisible by 3? Use the digit-sum test and explain why it works.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing divisible digit test works.
 
 ### P55 — Use the on screen options Find a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Find a two-digit number that is divisible by both 6 and 8. Is it always divisible by 48? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find digit number divisible both always divisible.
 
@@ -807,16 +692,11 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Find all common
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Find all common factors of 18 and 30.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find common factors.
 
@@ -834,16 +714,11 @@ D. Reversed reasoning
 
 ### P60 — Use the on screen options Which numbers
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Which numbers from 1 to 40 have exactly three factors? What do you notice?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing numbers have exactly three factors notice.
 
@@ -873,18 +748,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Find the missing
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the missing factor: 9 x ___ = 144. Explain your strategy.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find missing factor your strategy.
 
@@ -902,16 +772,11 @@ D. Reversed reasoning
 
 ### P65 — Use the on screen options Which is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Which is not a factor of 72: 6, 8, 9, 12 or 15? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing factor.
 
@@ -941,16 +806,11 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Explain how 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Explain how 4 x 7 can be formed by combining 4 x 2 and 4 x 5.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best formed combining.
 
@@ -1008,26 +868,21 @@ D. Reversed reasoning
 
 ### E05 — Select every factor of 36 from the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select every factor of 36 from the options 2, 5, 6, 8, 9 and 12.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing every factor.
 
-### E06 — Intermediate digital question Find all factors of
+### E06 — Find all factors of
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Find all factors of 96, then circle the factors that are also multiples of 4. Check the common trap before answering.
+**Question:** Find all factors of 96, then circle the factors that are also multiples of 4. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1045,66 +900,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task number less than divisible.
 
-### E08 — Reasoning check Widget or MC version Which
+### E08 — Widget or MC version Which
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Widget or MC version: Which array set correctly shows three different factor pairs for 72? Options should include 1 x 72, 2 x 36, 3 x 24, 4 x 18, 6 x 12, 8 x 9.
+**Question:** Widget or MC version: Which array set correctly shows three different factor pairs for 72? Options should include 1 x 72, 2 x 36, 3 x 24, 4 x 18, 6 x 12, 8 x 9.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check widget version array correctly shows three.
 
 ### E09 — Model based question Is every multiple of
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Is every multiple of 12 also a multiple of 3 and 4? Is every number divisible by 3 and 4 a multiple of 12? Explain. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based every multiple also multiple every number.
 
-### E10 — Error check question Find the smallest number
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Find the smallest number greater than 100 that is divisible by 8, 9 and 10. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check find smallest number greater than divisible.
-
-## Section B — Application and problem solving
-
-### E11 — Intermediate digital question A student claims 2
+### E10 — Find and correct the error Find the smallest number
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A student claims 2,346 is divisible by 6 because it is even. What extra test is needed? Apply it. Check the common trap before answering.
+**Question:** Find and correct the error: Find the smallest number greater than 100 that is divisible by 8, 9 and 10. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check find smallest number greater than divisible.
+
+## Section B — Application and problem solving
+
+### E11 — A student claims 2
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** A student claims 2,346 is divisible by 6 because it is even. What extra test is needed? Apply it. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1122,66 +962,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task list common factors identify.
 
-### E13 — Reasoning check A teacher has 54 pencils
+### E13 — A teacher has 54 pencils
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A teacher has 54 pencils and 72 stickers. What is the largest number of identical prize packs she can make with none left over? Interpret the answer in the story context.
+**Question:** A teacher has 54 pencils and 72 stickers. What is the largest number of identical prize packs she can make with none left over? Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check teacher pencils stickers largest number identical.
 
 ### E14 — Model based question Write a mystery number
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write a mystery number clue set for a number between 50 and 100 with exactly six factors. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write mystery number clue number between.
 
-### E15 — Error check question Use divisibility rules to
+### E15 — Find and correct the error Use divisibility rules to
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Use divisibility rules to sort 3,672, 4,125, 8,910 and 9,999 into numbers divisible by 3, 5, 9 and 10. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Use divisibility rules to sort 3,672, 4,125, 8,910 and 9,999 into numbers divisible by 3, 5, 9 and 10. Estimate first, then enter the exact answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
 **Coverage:** Online Year 5 task assessing error check divisibility rules sort into numbers divisible.
 
-### E16 — Intermediate digital question Find all two digit
+### E16 — Find all two digit
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Find all two-digit multiples of 11 that are also composite numbers. Explain why they are composite. Check the common trap before answering.
+**Question:** Find all two-digit multiples of 11 that are also composite numbers. Explain why they are composite. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find digit multiples also composite numbers they composite.
 
@@ -1197,71 +1022,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task prime number greater than.
 
-### E18 — Reasoning check Select the correct factor lists
+### E18 — Select the correct factor lists
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Select the correct factor lists for 45 and 64, then choose the statement that best compares their factor patterns.
+**Question:** Select the correct factor lists for 45 and 64, then choose the statement that best compares their factor patterns.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check correct factor lists statement best compares.
 
 ### E19 — Model based question Which has more factors
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Which has more factors: 36 or 40? choose the method steps and enter the final answer. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based more factors method steps enter final.
 
-### E20 — Error check question A rectangular garden has
+### E20 — Find and correct the error A rectangular garden has
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A rectangular garden has 120 tiles. Give all possible whole-number side lengths if the garden is rectangular. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A rectangular garden has 120 tiles. Give all possible whole-number side lengths if the garden is rectangular. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check rectangular garden tiles possible whole number.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Find a number that
+### E21 — Find a number that
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Intermediate digital question: Find a number that has 3, 4 and 6 as factors but is not 24. Explain. Check the common trap before answering.
+**Question:** Find a number that has 3, 4 and 6 as factors but is not 24. Explain. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find number factors check common trap before answering.
 
@@ -1277,62 +1082,47 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task code number divisible must.
 
-### E23 — Reasoning check Complete the on screen flowchart
+### E23 — Complete the on screen flowchart
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the on-screen flowchart for checking whether a number is divisible by 2, 3, 4, 5, 6, 9 and 10. Interpret the answer in the story context.
+**Question:** Complete the on-screen flowchart for checking whether a number is divisible by 2, 3, 4, 5, 6, 9 and 10. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check flowchart checking whether number divisible interpret.
 
 ### E24 — Model based question A number is a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: A number is a multiple of 15 and 18. Find the first three possible numbers. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based number multiple find first three possible.
 
-### E25 — Error check question Explain why 1 is
+### E25 — Find and correct the error Explain why 1 is
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Explain why 1 is a factor of every whole number but is not usually called prime. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Explain why 1 is a factor of every whole number but is not usually called prime. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check factor every whole number usually called.
 
-### E26 — Intermediate digital question Use factor pairs to
+### E26 — Use factor pairs to
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use factor pairs to decide whether 144 is a square number. Check the common trap before answering.
+**Question:** Use factor pairs to decide whether 144 is a square number. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1350,37 +1140,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find missing digit number.
 
-### E28 — Reasoning check Prove or disprove if a
+### E28 — Prove or disprove if a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Prove or disprove: if a number is divisible by 8, it must be divisible by 4. Interpret the answer in the story context.
+**Question:** Prove or disprove: if a number is divisible by 8, it must be divisible by 4. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check prove disprove number divisible must divisible.
 
 ### E29 — Model based question Choose the clue set
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Choose the clue set that creates one unique factor-and-multiple answer between 1 and 100, then enter the answer. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based clue creates unique factor multiple between.
 

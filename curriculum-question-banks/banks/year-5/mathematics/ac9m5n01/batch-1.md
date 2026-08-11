@@ -30,16 +30,11 @@ review_status: authored
 
 ### P01 — Write 3 406 in a place value
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write 3.406 in a place value chart and explain the value of each digit.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write place value chart value each digit.
 
@@ -57,50 +52,35 @@ D. Reversed reasoning
 
 ### P03 — Which is greater 4 708 or 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is greater: 4.708 or 4.78? Explain using place value, not just digit counting.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing greater place value just digit counting.
 
 ### P04 — Place 1 245 1 25 and 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Place 1.245, 1.25 and 1.205 on a number line from 1.2 to 1.3. Explain your positions.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing place number line your positions.
 
 ### P05 — A joey weighs 2 305 kg and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A joey weighs 2.305 kg and a possum weighs 2.35 kg. Which animal is heavier and by how much?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing joey weighs possum weighs animal heavier much.
 
@@ -118,33 +98,23 @@ D. Reversed reasoning
 
 ### P07 — Rename 0 7 as hundredths and thousandths
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Rename 0.7 as hundredths and thousandths. Use this to explain 0.7 divided by 10.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rename hundredths thousandths this divided.
 
 ### P08 — True or false 5 090 is the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** True or false: 5.090 is the same as 5.09. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true false same.
 
@@ -162,16 +132,11 @@ D. Reversed reasoning
 
 ### P10 — Find a decimal halfway between 8 41
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find a decimal halfway between 8.41 and 8.42. Explain why it is halfway.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find decimal halfway between halfway.
 
@@ -225,18 +190,13 @@ D. Reversed reasoning
 
 ### P15 — A student says 7 111 is larger
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 7.111 is larger than 7.9 because 111 is larger than 9. What is the mistake?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says larger than because larger than mistake.
 
@@ -254,16 +214,11 @@ D. Reversed reasoning
 
 ### P17 — Which decimal is closest to 3 6
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which decimal is closest to 3.6: 3.572, 3.621 or 3.68? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decimal closest.
 
@@ -307,18 +262,13 @@ D. Reversed reasoning
 
 ### P21 — Use the on screen tool to build
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen tool to build or select a number line from 0 to 1 and mark 0.125, 0.5 and 0.875.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing tool build number line mark.
 
@@ -348,18 +298,13 @@ D. Reversed reasoning
 
 ### P24 — Explain why thousandths are ten times smaller
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why thousandths are ten times smaller than hundredths using a grid or money model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing thousandths times smaller than hundredths grid money model.
 
@@ -389,18 +334,13 @@ D. Reversed reasoning
 
 ### P27 — A runner records 12 408 s in
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A runner records 12.408 s in heat 1 and 12.48 s in heat 2. Which run was faster, and by how many seconds?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing runner records heat heat faster many seconds.
 
@@ -418,18 +358,13 @@ D. Reversed reasoning
 
 ### P29 — A student says 3 507 is closer
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student says 3.507 is closer to 3.6 than 3.55 because 507 is larger than 55. Correct the reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing says closer than because larger than correct reasoning.
 
@@ -459,16 +394,11 @@ D. Reversed reasoning
 
 ### P32 — The difference between two decimals is 0
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** The difference between two decimals is 0.006. One decimal is 5.42. Give two possible pairs and explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between decimals decimal possible pairs.
 
@@ -500,16 +430,11 @@ D. Reversed reasoning
 
 ### P35 — Choose the decimal exactly halfway between 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Choose the decimal exactly halfway between 4.08 and 4.09, then explain why 4.085 has three decimal places.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decimal exactly halfway between three decimal places.
 
@@ -551,35 +476,25 @@ D. Reversed reasoning
 
 ### P39 — Explain why adding a zero to the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why adding a zero to the right of a decimal can keep the value the same, but adding a zero between digits may change it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing adding zero right decimal keep value same adding.
 
 ### P40 — Round 15 649 to the nearest whole
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Round 15.649 to the nearest whole, tenth and hundredth, then identify which rounded answer is most precise.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing round nearest whole tenth hundredth identify rounded most.
 
@@ -645,18 +560,13 @@ D. Reversed reasoning
 
 ### P46 — Explain whether 0 999 is closer to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Explain whether 0.999 is closer to 1 or to 0.9, using distance on a number line.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing whether closer distance number line.
 
@@ -686,16 +596,11 @@ D. Reversed reasoning
 
 ### P49 — Beginner digital question Write 3 406 in
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Write 3.406 in a place value chart and explain the value of each digit.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write place value chart value each digit.
 
@@ -713,16 +618,11 @@ D. Reversed reasoning
 
 ### P51 — Complete the answer box Which is greater
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Complete the answer box: Which is greater: 4.708 or 4.78? Explain using place value, not just digit counting.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing greater place value just digit counting.
 
@@ -742,18 +642,13 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer A joey weighs
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A joey weighs 2.305 kg and a possum weighs 2.35 kg. Which animal is heavier and by how much?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best joey weighs possum weighs animal heavier much.
 
@@ -771,33 +666,23 @@ D. Reversed reasoning
 
 ### P55 — Use the on screen options Rename 0
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Rename 0.7 as hundredths and thousandths. Use this to explain 0.7 divided by 10.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rename hundredths thousandths this divided.
 
 ### P56 — Complete the answer box True or false
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: True or false: 5.090 is the same as 5.09. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true false same.
 
@@ -815,16 +700,11 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Find a decimal
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Find a decimal halfway between 8.41 and 8.42. Explain why it is halfway.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find decimal halfway between halfway.
 
@@ -878,18 +758,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer A student says
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A student says 7.111 is larger than 7.9 because 111 is larger than 9. What is the mistake?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best says larger than because larger than mistake.
 
@@ -907,16 +782,11 @@ D. Reversed reasoning
 
 ### P65 — Use the on screen options Which decimal
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Which decimal is closest to 3.6: 3.572, 3.621 or 3.68? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decimal closest.
 
@@ -946,18 +816,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Find the missing
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Find the missing signs: 0.505 ___ 0.55, 2.030 ___ 2.003, 9.8 ___ 9.080.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best find missing signs.
 
@@ -967,18 +832,13 @@ D. Reversed reasoning
 
 ### E01 — Beginner digital question use the on screen
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: use the on-screen tool to build or select a number line from 0 to 1 and mark 0.125, 0.5 and 0.875.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing tool build number line mark.
 
@@ -1030,13 +890,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing order smallest largest.
 
-### E06 — Intermediate digital question A lab scale shows
+### E06 — A lab scale shows
 
 **Type:** Sequencing
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A lab scale shows 4.096 kg, 4.69 kg and 4.609 kg. Order the masses and explain the two most common comparison mistakes. Check the common trap before answering.
+**Question:** A lab scale shows 4.096 kg, 4.69 kg and 4.609 kg. Order the masses and explain the two most common comparison mistakes. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. The order must be complete and use the direction requested in the prompt.
 
@@ -1054,20 +914,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find three decimals thousandths.
 
-### E08 — Reasoning check A runner records 12 408
+### E08 — A runner records 12 408
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A runner records 12.408 s in heat 1 and 12.48 s in heat 2. Which run was faster, and by how many seconds? Interpret the answer in the story context.
+**Question:** A runner records 12.408 s in heat 1 and 12.48 s in heat 2. Which run was faster, and by how many seconds? Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check runner records heat heat faster many.
 
@@ -1083,32 +938,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing model based order labels number line left right.
 
-### E10 — Error check question A student says 3
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: A student says 3.507 is closer to 3.6 than 3.55 because 507 is larger than 55. Correct the reasoning. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check says closer than because larger than.
-
-## Section B — Application and problem solving
-
-### E11 — Intermediate digital question Write a decimal that
+### E10 — Find and correct the error A student says 3
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Write a decimal that rounds to 6.4 to the nearest tenth but rounds to 6.35 to the nearest hundredth. Check the common trap before answering.
+**Question:** Find and correct the error: A student says 3.507 is closer to 3.6 than 3.55 because 507 is larger than 55. Correct the reasoning. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check says closer than because larger than.
+
+## Section B — Application and problem solving
+
+### E11 — Write a decimal that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Write a decimal that rounds to 6.4 to the nearest tenth but rounds to 6.35 to the nearest hundredth. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1126,20 +976,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task tenths hundredths thousandths write.
 
-### E13 — Reasoning check The difference between two decimals
+### E13 — The difference between two decimals
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: The difference between two decimals is 0.006. One decimal is 5.42. Give two possible pairs and explain. Interpret the answer in the story context.
+**Question:** The difference between two decimals is 0.006. One decimal is 5.42. Give two possible pairs and explain. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check difference between decimals decimal possible pairs.
 
@@ -1155,35 +1000,25 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing model based order smallest largest model method matches.
 
-### E15 — Error check question A path is 3
+### E15 — Find and correct the error A path is 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: A path is 3.2 km long. Mina walked 1.875 km. How much farther must she walk? Show regrouping clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A path is 3.2 km long. Mina walked 1.875 km. How much farther must she walk? Show regrouping clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check path long mina walked much farther.
 
-### E16 — Intermediate digital question Choose the decimal exactly
+### E16 — Choose the decimal exactly
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Intermediate digital question: Choose the decimal exactly halfway between 4.08 and 4.09, then explain why 4.085 has three decimal places. Check the common trap before answering.
+**Question:** Choose the decimal exactly halfway between 4.08 and 4.09, then explain why 4.085 has three decimal places. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decimal exactly halfway between three decimal places check.
 
@@ -1199,73 +1034,53 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task measurement story easily confused.
 
-### E18 — Reasoning check A board is cut into
+### E18 — A board is cut into
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A board is cut into pieces of 1.205 m, 1.025 m and 1.25 m. What is the total length? Interpret the answer in the story context.
+**Question:** A board is cut into pieces of 1.205 m, 1.025 m and 1.25 m. What is the total length? Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check board into pieces total length interpret.
 
 ### E19 — Model based question Find the missing digits
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Find the missing digits: 8.__7 < 8.307 and 8.2__ > 8.28. Give all possible digits if there are any. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based find missing digits possible digits there.
 
-### E20 — Error check question Explain why adding a
+### E20 — Find and correct the error Explain why adding a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Explain why adding a zero to the right of a decimal can keep the value the same, but adding a zero between digits may change it. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Explain why adding a zero to the right of a decimal can keep the value the same, but adding a zero between digits may change it. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check adding zero right decimal keep value.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Round 15 649 to
+### E21 — Round 15 649 to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Round 15.649 to the nearest whole, tenth and hundredth, then identify which rounded answer is most precise. Check the common trap before answering.
+**Question:** Round 15.649 to the nearest whole, tenth and hundredth, then identify which rounded answer is most precise. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing round nearest whole tenth hundredth identify rounded most.
 
@@ -1281,64 +1096,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task swimmer improved much time.
 
-### E23 — Reasoning check Write five decimals between 0
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Write five decimals between 0.99 and 1.01, including at least two thousandths. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check write five decimals between including least.
-
-### E24 — Model based question Use a place value
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Use a place-value chart to compare 6.060, 6.006, 6.600 and 6.066. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based place value chart compare model method.
-
-### E25 — Error check question A digital thermometer shows
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: A digital thermometer shows 21.075°C. What happens to the value if each digit shifts one place to the right? Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check thermometer shows happens value each digit.
-
-### E26 — Intermediate digital question Find a decimal greater
+### E23 — Write five decimals between 0
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Find a decimal greater than 2.705 but less than 2.71 that has an even digit in the thousandths place. Check the common trap before answering.
+**Question:** Write five decimals between 0.99 and 1.01, including at least two thousandths. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check write five decimals between including least.
+
+### E24 — Model based question Use a place value
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Use a place-value chart to compare 6.060, 6.006, 6.600 and 6.066. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based place value chart compare model method.
+
+### E25 — Find and correct the error A digital thermometer shows
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: A digital thermometer shows 21.075°C. What happens to the value if each digit shifts one place to the right? Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check thermometer shows happens value each digit.
+
+### E26 — Find a decimal greater
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find a decimal greater than 2.705 but less than 2.71 that has an even digit in the thousandths place. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1356,37 +1156,27 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task whether closer distance number.
 
-### E28 — Reasoning check Complete the on screen table
+### E28 — Complete the on screen table
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the on-screen table showing tenths, hundredths and thousandths for 0.4, 0.04 and 0.004. Interpret the answer in the story context.
+**Question:** Complete the on-screen table showing tenths, hundredths and thousandths for 0.4, 0.04 and 0.004. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check table showing tenths hundredths thousandths interpret.
 
 ### E29 — Model based question Select the challenge question
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Select the challenge question where the correct answer depends on comparing decimals to thousandths, then solve it. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based challenge correct depends comparing decimals thousandths.
 
