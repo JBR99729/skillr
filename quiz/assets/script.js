@@ -973,6 +973,7 @@ document.addEventListener("DOMContentLoaded", () => {
       elements.answerList.querySelector(
         [
           "input:not([disabled])",
+          "textarea:not([disabled])",
           ".answer-option:not([disabled])",
           ".order-button:not([disabled])",
           ".drag-move-button:not([disabled])",
@@ -1072,6 +1073,10 @@ if (question.visual) {
 
       case "text":
         renderTextInput(question);
+        break;
+
+      case "self-check":
+        renderSelfCheck(question);
         break;
 
       case "number":
@@ -1283,6 +1288,47 @@ default:
 
     elements.answerList.appendChild(input);
 
+    input.focus();
+  }
+
+  function renderSelfCheck(question) {
+    const instructions = document.createElement("p");
+    instructions.className = "question-hint";
+    instructions.textContent =
+      question.instruction ||
+      "Write or complete the task, compare your work with the model answer, then check the box when the important ideas match.";
+
+    const input = document.createElement("textarea");
+    input.id = "selfCheckAnswer";
+    input.className = "quiz-input self-check-input";
+    input.rows = 4;
+    input.placeholder = question.placeholder || "Write what you did or explain your answer";
+
+    const model = document.createElement("details");
+    model.className = "self-check-model";
+    const summary = document.createElement("summary");
+    summary.textContent = "Show model answer and marking guidance";
+    const modelText = document.createElement("p");
+    modelText.textContent = question.modelAnswer || question.correct || "Check with a teacher.";
+    model.append(summary, modelText);
+
+    const label = document.createElement("label");
+    label.className = "self-check-confirmation";
+    const checkbox = document.createElement("input");
+    checkbox.id = "selfCheckConfirmed";
+    checkbox.type = "checkbox";
+    const labelText = document.createElement("span");
+    labelText.textContent = "My response includes the required idea or evidence.";
+    label.append(checkbox, labelText);
+
+    const updateSubmitState = () => {
+      elements.submitButton.disabled =
+        input.value.trim() === "" || !checkbox.checked;
+    };
+    input.addEventListener("input", updateSubmitState);
+    checkbox.addEventListener("change", updateSubmitState);
+
+    elements.answerList.append(instructions, input, model, label);
     input.focus();
   }
 
@@ -1952,6 +1998,20 @@ default:
       };
     }
 
+    if (type === "self-check") {
+      const input = document.getElementById("selfCheckAnswer");
+      const confirmed = document.getElementById("selfCheckConfirmed");
+      const modelAnswer = String(
+        question.modelAnswer || question.correct || "Check with a teacher."
+      );
+
+      return {
+        isCorrect: Boolean(input?.value.trim() && confirmed?.checked),
+        selectedAnswer: input?.value || "",
+        correctAnswer: modelAnswer
+      };
+    }
+
     if (type === "number") {
       const input =
         document.getElementById(
@@ -2210,6 +2270,19 @@ default:
             ? "is-correct-input"
             : "is-wrong-input"
         );
+      }
+    }
+
+    if (type === "self-check") {
+      const input = document.getElementById("selfCheckAnswer");
+      const confirmed = document.getElementById("selfCheckConfirmed");
+
+      if (input) {
+        input.disabled = true;
+        input.classList.add("is-correct-input");
+      }
+      if (confirmed) {
+        confirmed.disabled = true;
       }
     }
 
