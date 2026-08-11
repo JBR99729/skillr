@@ -39,6 +39,9 @@ def main() -> None:
 
     manifest = json.loads((args.root / "manifest.json").read_text(encoding="utf-8"))
     in_scope = [unit for unit in manifest["units"] if unit["scope"] == "generate"]
+    manifest_order = {
+        unit["code"]: index for index, unit in enumerate(manifest["units"])
+    }
 
     completed: dict[str, dict[str, str]] = {}
     authored_total = 0
@@ -97,8 +100,16 @@ def main() -> None:
     else:
         lines.append("- None yet")
 
-    remaining = [unit for unit in in_scope if unit["code"] not in completed]
-    lines.extend(["", "## Next in manifest order", ""])
+    subject_priority = {"Mathematics": 0, "Science": 1, "English": 2}
+    remaining = sorted(
+        (unit for unit in in_scope if unit["code"] not in completed),
+        key=lambda unit: (
+            level_order.index(unit["level"]),
+            subject_priority[unit["subject"]],
+            manifest_order[unit["code"]],
+        ),
+    )
+    lines.extend(["", "## Next priority queue", ""])
     for unit in remaining[:10]:
         lines.append(f"- {unit['code']} — {unit['description']}")
     lines.append("")
@@ -127,4 +138,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

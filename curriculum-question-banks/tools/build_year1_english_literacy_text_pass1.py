@@ -1,0 +1,232 @@
+#!/usr/bin/env python3
+"""Build Year 1 English Literacy text and interaction Pass 1 banks (LY01–LY07)."""
+
+from __future__ import annotations
+
+from year1_bank_builder import write_banks
+
+
+def bank(code: str, description: str, quick_read: list[tuple[str, str]], items: list[tuple[str, str, str, str]]) -> dict[str, object]:
+    return {
+        "code": code,
+        "subject": "English",
+        "description": description,
+        "quick_read": quick_read,
+        "items": items,
+    }
+
+
+SPECS = {
+    "AC9E1LY01": bank(
+        "AC9E1LY01",
+        "discuss different texts and identify some features that indicate their purposes",
+        [
+            ("Rule", "A text is made for a purpose such as to entertain, inform, instruct, invite or persuade. Its words, layout and images give clues to that purpose."),
+            ("Worked example", "‘Plant the seed. Add water. Place it near light’ uses command verbs and ordered steps, showing an instructional purpose."),
+            ("Purpose clues", "Stories have characters and events; reports group facts; instructions use steps; invitations give event details; persuasive texts state a desired choice and reasons."),
+            ("Visual interaction", "Use original mock text cards with title, layout and image descriptions for spoken, tap, keyboard and paper sorting."),
+            ("Common trap", "A text may be enjoyable and informative, but identify the main job its features are designed to do."),
+        ],
+        [
+            ("Identify instruction purpose", "A card says ‘Cut on the line. Fold the paper. Tape the sides.’ What is its purpose?", "To instruct/show how to make something (1 mark).", "Using command steps to identify purpose."),
+            ("Match features and purposes", "Match character/problem, labelled facts and date-time-place to entertain, inform and invite.", "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite (1 mark each).", "Connecting text features with purposes."),
+            ("Discuss a warning sign", "Explain how the words ‘Wet floor—walk slowly’ and a slipping-person image support the text's purpose.", "Words give safe action; image quickly shows hazard; both warn/instruct (3 marks).", "Discussing multimodal clues to purpose."),
+            ("Find a persuasive feature", "‘Choose the reusable bottle because it can be filled again.’ Name one feature showing persuasion.", "It recommends a choice and gives a supporting reason (2 marks).", "Recognising viewpoint-and-reason structure."),
+            ("Order an invitation", "Order: event name; greeting; date/time/place; friendly closing.", "Greeting/event name → event details → closing; accepts event name before greeting if clear (2 marks).", "Sequencing features of an invitation."),
+            ("Draw a report feature", "Draw a small information page about ants with a title, fact heading and labelled image.", "All three features present and suited to informing readers (3 marks).", "Representing features of an informative text."),
+            ("Compare two purposes", "A recipe and a food advertisement both show soup. Explain one feature that reveals each main purpose.", "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade (3 marks).", "Comparing purposes of texts on one topic."),
+            ("Choose evidence for purpose", "A text has numbered steps, command verbs and a materials list. State the likely purpose and cite two clues.", "Instructional purpose with any two named features as evidence (3 marks).", "Justifying purpose from multiple features."),
+            ("Recognise an imaginative text", "A talking moon helps a lost cloud return home. What main purpose and feature are likely?", "To entertain/tell an imaginative story; impossible/fantastical characters and plot events (2 marks).", "Identifying imaginative purpose from content features."),
+            ("Match text openings", "Match ‘Once a tiny boat…’, ‘Koalas are mammals…’ and ‘Please join us…’ to story, report and invitation.", "Each opening matched correctly (1 mark each).", "Using opening language as a purpose clue."),
+            ("Sequence a how-to text", "Order: finish/result; title; materials; numbered actions.", "Title → materials → numbered actions → result (2 marks).", "Organising text features for instruction."),
+            ("Explain a missing detail", "An invitation says ‘Come to my party!’ but gives no date or place. Why does it not yet meet its purpose?", "Readers cannot know when/where to attend; date/time/place must be added (2 marks).", "Evaluating whether features fulfil text purpose."),
+            ("Demonstrate alternate reading", "Read a weather report sentence and a weather warning sentence with suitable voice. Explain how purpose changes delivery.", "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation (3 marks).", "Adapting oral delivery to text purpose."),
+            ("Draw two layouts", "Draw a story page and a procedure page. Label two layout differences.", "Story layout supports narrative/image; procedure uses title/steps/numbers or materials, with two contrasts labelled (4 marks).", "Comparing layout features across purposes."),
+            ("Correct a feature mismatch", "A fire-safety instruction page hides its action in a long fantasy story with no heading. Suggest two changes.", "Adds clear safety heading and direct ordered actions/visual labels; any two purpose-suited changes (3 marks).", "Revising features to make purpose clear."),
+            ("Analyse a mixed text", "A zoo page has a map, animal facts, a ticket button and ‘Visit today!’ Explain two purposes and the features serving each, then identify the likely overall purpose.", "Inform/navigate via map/facts; persuade/action via visit/button; overall choice justified from emphasis (6 marks).", "Discussing multiple purposes within one multimodal text."),
+        ],
+    ),
+    "AC9E1LY02": bank(
+        "AC9E1LY02",
+        "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+        [
+            ("Rule", "Good group interaction shares speaking time, uses a clear voice, listens without interrupting, responds to what others said and adds relevant ideas or questions."),
+            ("Worked example", "‘I heard Ava say the ramp should be lower. I agree because…, and I wonder…’ shows listening, response and a new question."),
+            ("Listening clues", "Face or orient toward the speaker as appropriate, pause your own task, remember a key idea and ask or answer a connected question."),
+            ("Visual interaction", "Use turn cards, listening checklists and discussion-stem cards with spoken, tap, keyboard and paper options."),
+            ("Common trap", "Waiting silently is not enough if you ignore the speaker's idea; a useful response connects to what was said."),
+        ],
+        [
+            ("Identify turn-taking", "What should you do when another person is speaking in a group?", "Listen without interrupting and wait for an appropriate turn (1 mark).", "Recognising a basic turn-taking behaviour."),
+            ("Match skills and examples", "Match clear speaking, active listening and response to audible words, remembering the idea and ‘I agree because…’.", "Each skill matched to its example (1 mark each).", "Connecting interaction skills with behaviours."),
+            ("Practise a connected reply", "Listen to ‘I think we should sort by size’ and give a reply that refers to the idea.", "Reply explicitly mentions sorting/size and agrees, questions or extends respectfully (2 marks).", "Responding to another contribution."),
+            ("Turn a comment into a question", "After someone says ‘The plant near the window grew taller’, ask a relevant follow-up question.", "Example: ‘Did both plants receive the same water?’ or ‘How much taller?’ (2 marks).", "Contributing a connected inquiry question."),
+            ("Order a discussion turn", "Order: listen; signal or wait; speak clearly; invite/allow next speaker.", "Listen → wait/signal → speak → yield turn (2 marks).", "Sequencing respectful participation."),
+            ("Draw listening behaviours", "Draw a three-panel group discussion showing speaker, active listener and next turn. Add one label in each panel.", "Panels show clear role changes and behaviours such as listen, respond, wait (3 marks).", "Representing turn-taking and listening visually."),
+            ("Repair an unrelated response", "A speaker explains a book ending. The reply is ‘I had cereal.’ Rewrite the reply so it connects.", "A relevant response about the ending, character, feeling or question (2 marks).", "Maintaining topic relevance in interaction."),
+            ("Contribute without repeating", "A group already says a bridge must be strong. Add a different relevant design idea and explain it.", "Adds a new feature such as width, stability or material with connected reason (3 marks).", "Extending group ideas."),
+            ("Recognise active listening evidence", "A listener says, ‘So you observed six birds, not five—is that right?’ Which skills are shown?", "Listening/remembering, checking understanding and responding to contribution (2 marks).", "Identifying active listening in paraphrase."),
+            ("Match response stems", "Match ‘Can you explain…?’, ‘I agree because…’ and ‘Another idea is…’ to question, reasoned response and contribution.", "Each stem matched correctly (1 mark each).", "Selecting language for interaction purposes."),
+            ("Sequence disagreement", "Order: listen fully; state different view calmly; refer to idea; give reason.", "Listen → refer to idea → state different view → give reason (2 marks).", "Organising respectful disagreement."),
+            ("Adjust speaking clarity", "A partner cannot hear or understand a rushed answer. Name two changes the speaker should make.", "Suitable changes include volume, pace, articulation, facing/orientation or shorter wording (2 marks).", "Adapting speech for listener understanding."),
+            ("Demonstrate group roles", "In a three-person discussion, demonstrate one speaker, one listener who paraphrases and one person who asks a question.", "All three roles performed distinctly and content remains connected (3 marks).", "Using multiple interaction roles."),
+            ("Draw a turn tracker", "Create a simple visual tracker that helps four group members take turns without ranking ideas.", "Shows four equal turn opportunities and a clear, non-competitive method (3 marks).", "Designing a support for equitable turn-taking."),
+            ("Correct interrupting behaviour", "A student speaks over every answer because they are excited. Explain two respectful strategies that keep their idea available.", "Wait/write idea/use agreed signal and acknowledge current speaker; two strategies explained (3 marks).", "Managing contributions without interruption."),
+            ("Evaluate a discussion", "A group has one loud speaker, two silent members and many repeated ideas. Suggest changes for turn-taking, clarity, listening, response and new contributions.", "One practical improvement for each of the five named skills, connected to the scenario (6 marks).", "Evaluating and improving group interaction."),
+        ],
+    ),
+    "AC9E1LY03": bank(
+        "AC9E1LY03",
+        "describe some similarities and differences between imaginative, informative and persuasive texts",
+        [
+            ("Rule", "Imaginative texts create characters and events; informative texts explain or report facts; persuasive texts try to influence a choice. All can use words, images, titles and topic vocabulary."),
+            ("Worked example", "On the topic of bees: a bee adventure is imaginative, a labelled life-cycle page is informative, and ‘Plant bee-friendly flowers’ with reasons is persuasive."),
+            ("Comparison strategy", "Name a shared feature, then compare purpose, organisation, language and evidence."),
+            ("Visual interaction", "Use original same-topic text cards and compare hoops/tables with tap, keyboard and paper alternatives."),
+            ("Common trap", "Persuasive texts may include facts, but those facts are selected to support a viewpoint or action."),
+        ],
+        [
+            ("Identify an informative text", "A page gives labelled facts about a turtle's body and habitat. Which text type is it mainly?", "Informative (1 mark).", "Recognising informative purpose and features."),
+            ("Match types and features", "Match imaginative, informative and persuasive to character/plot, facts/headings and viewpoint/reasons.", "Each type matched correctly (1 mark each).", "Connecting text categories with typical features."),
+            ("Sort same-topic cards", "Sort three short cards about rain into story event, weather facts and ‘carry an umbrella’ recommendation.", "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive (3 marks).", "Classifying texts on a shared topic."),
+            ("State a similarity", "Give one feature an imaginative and informative picture book might both use.", "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary (1 mark).", "Recognising similarities across text types."),
+            ("Order comparison thinking", "Order: identify purpose; notice shared topic/features; cite one difference; name each type.", "Name/identify types and purpose → note similarity → cite difference (2 marks; first steps may swap).", "Sequencing text comparison."),
+            ("Draw three covers", "Draw cover ideas for an imaginative, informative and persuasive text about water. Label one clue on each.", "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason (4 marks).", "Representing differences among text types."),
+            ("Explain factual persuasion", "A poster says ‘Refill your bottle to reduce waste’ and gives a waste fact. Why is it persuasive rather than only informative?", "It calls for a behaviour/choice and uses the fact as a reason (2 marks).", "Distinguishing persuasion that includes facts."),
+            ("Compare openings", "Write one imaginative and one informative opening about a storm. Explain the language difference.", "Imaginative opening creates character/event/mood; informative opening states topic/fact, with contrast explained (3 marks).", "Comparing language according to purpose."),
+            ("Recognise persuasive wording", "Which words show persuasion in ‘Choose the shaded path because it is cooler’?", "‘Choose’ states desired action and ‘because it is cooler’ gives a reason (2 marks).", "Identifying persuasive language features."),
+            ("Match shared and unique features", "Match title/images to shared, plot to mainly imaginative and recommendation to persuasive.", "All three matched correctly (1 mark each).", "Separating shared from type-specific features."),
+            ("Sequence a type decision", "Order: read whole text; notice purpose clues; decide main purpose; name type and evidence.", "Read → notice clues → decide purpose → name type/evidence (2 marks).", "Using evidence to classify text type."),
+            ("Compare image use", "How might a frog image differ in a story and a factual report?", "Story image develops character/event/mood; report image shows accurate features/labels (2 marks).", "Comparing multimodal features across text types."),
+            ("Demonstrate three voices", "Say one sentence about a playground as a storyteller, fact reporter and persuader.", "Three clearly different sentences suited to narrative, factual and opinion/action purposes (3 marks).", "Adapting oral language to text type."),
+            ("Draw a comparison table", "Create a table comparing purpose, one word clue and one image clue for all three text types.", "Nine suitable entries organised accurately (4 marks).", "Structuring a multi-feature comparison."),
+            ("Correct a type label", "A text says ‘You should adopt this pet because it is gentle’ and is labelled informative. Explain and correct.", "It is persuasive because it recommends action and supports it with a reason, though it may contain information (3 marks).", "Evaluating classification from language evidence."),
+            ("Analyse a blended page", "A museum page tells a short fictional dinosaur story, labels real fossil facts and asks readers to visit. Identify all three text types/purposes and one feature of each.", "Imaginative story/entertain; informative fossil facts/inform; persuasive invitation/call to visit, each with evidence (6 marks).", "Analysing multiple text types within a multimodal page."),
+        ],
+    ),
+    "AC9E1LY04": bank(
+        "AC9E1LY04",
+        "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+        [
+            ("Rule", "Blend known letter-sound patterns to read words, group words into meaningful phrases, notice punctuation and check that the sentence sounds right and makes sense."),
+            ("Worked example", "In ‘The quick fox / jumps over the log’, blend unfamiliar words, pause by phrase, then reread if a word makes the meaning strange."),
+            ("Self-check", "Ask: Did it sound like a sentence? Did it make sense with the picture and nearby words? Do the letters support the word I said?"),
+            ("Visual interaction", "Use original short texts with optional phrase marks, audio-after-attempt and keyboard-accessible word highlighting."),
+            ("Common trap", "Do not guess from the first letter or picture alone; use all the letter-sound information and meaning together."),
+        ],
+        [
+            ("Blend a short word", "Blend the sounds /m/ /a/ /p/ and say the word.", "Map (1 mark).", "Blending phonemes into a decodable word."),
+            ("Match punctuation and reading", "Match comma, full stop and question mark to short pause, stop and questioning voice.", "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation (1 mark each).", "Using punctuation to guide phrasing."),
+            ("Read in phrases", "Read ‘After lunch, / the small dog / slept under the bench.’ using the phrase marks, then explain one pause.", "Groups words meaningfully and links pause to comma/phrase meaning (3 marks).", "Applying phrasing to a short authentic sentence."),
+            ("Monitor a misread", "A reader says ‘The fish sat in the tree’ for text that says ‘The fin sat in the tray’. Name two checks needed.", "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess (2 marks).", "Monitoring decoding with print and meaning."),
+            ("Order decoding steps", "Order: blend sounds; look through whole word; check sentence meaning; reread smoothly.", "Look through word → blend sounds → check meaning → reread smoothly (2 marks).", "Sequencing a word-solving routine."),
+            ("Draw phrase groups", "Copy ‘The red crab hid / beneath a flat rock’ and draw brackets around the two meaning groups.", "Correct two phrase groups marked without splitting determiners from nouns (2 marks).", "Representing meaningful phrasing."),
+            ("Use grammar to check", "Which sounds grammatical: ‘The birds fly’ or ‘The birds flies’? Explain the check.", "‘The birds fly’; plural birds agrees with fly in standard sentence pattern (2 marks).", "Using grammatical knowledge to monitor reading."),
+            ("Reread for fluency", "Describe how a choppy first reading of a four-sentence text can be improved without racing.", "Solve words, mark phrases/punctuation, reread accurately at steady pace with expression while preserving meaning (3 marks).", "Planning fluency improvement through rereading."),
+            ("Decode a consonant blend", "Blend /f/ /r/ /o/ /g/ and state the word.", "Frog (1 mark).", "Blending a word with an initial consonant cluster."),
+            ("Match word-solving clues", "Match letters/sounds, grammar and context to print pattern, sentence structure and surrounding meaning.", "All three sources matched correctly (1 mark each).", "Recognising complementary reading cues."),
+            ("Sequence a fluent question", "Order the reading actions: notice question mark; read words accurately; group phrase; lift voice appropriately; check meaning.", "Read/solve words → group phrase → use question intonation → check meaning; noticing mark occurs before delivery (2 marks).", "Coordinating decoding, phrasing and punctuation."),
+            ("Correct a picture guess", "The picture shows a cat, but the printed word is ‘kitten’. Explain why saying cat is not accurate reading.", "Meaning is related but letters encode kitten; reader must attend to full word and say kitten (2 marks).", "Prioritising print evidence over picture guessing."),
+            ("Demonstrate two readings", "Read ‘No, wait for me!’ once word-by-word and once with meaningful phrasing and expression. Explain which communicates better.", "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement (3 marks).", "Comparing choppy and fluent reading."),
+            ("Draw a self-monitor path", "Create four boxes labelled decode, phrase, meaning check and reread. Add one action to each.", "Four accurate actions in a useful sequence (4 marks).", "Representing a complete reading-monitoring cycle."),
+            ("Repair meaning after error", "A reader decodes ‘The goat floats past the boat’ as ‘The goat flies past the boat’. Explain how print and meaning reveal the error.", "Flies does not match the letters in floats and changes the water context; reader reblends floats and rereads (3 marks).", "Using multiple cues to self-correct."),
+            ("Read and explain strategy", "Read the original text ‘At dusk, the small moth flaps near the lamp. It stops on the wall.’ Describe one decoding, one phrasing and one meaning-monitoring action used.", "Accurate reading plus specific evidence for sound blending, pause/grouping and sense/grammar check (6 marks).", "Integrating decoding, fluency and comprehension monitoring."),
+        ],
+    ),
+    "AC9E1LY05": bank(
+        "AC9E1LY05",
+        "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning when listening, viewing and reading to build literal and inferred meaning by drawing on vocabulary and growing knowledge of context and text structures",
+        [
+            ("Rule", "Comprehension strategies help build meaning: visualise details, predict from clues, connect relevant knowledge, summarise main events and ask questions. Literal meaning is stated; inferred meaning is worked out from clues."),
+            ("Worked example", "‘Pia grabbed her umbrella as dark clouds gathered.’ Literally she has an umbrella; we can infer she expects rain because of the cloud clue."),
+            ("Strategy check", "Name the strategy, cite the word/image clue, and explain how it improves understanding."),
+            ("Visual interaction", "Use original micro-texts, picture descriptions and strategy cards with spoken, tap, keyboard and paper responses."),
+            ("Common trap", "A prediction is not any possible event; it should follow from text clues and can change when new evidence appears."),
+        ],
+        [
+            ("Find literal meaning", "Text: ‘The blue cup is beside the sink.’ Where is the cup?", "Beside the sink (1 mark).", "Retrieving explicitly stated information."),
+            ("Match strategies and actions", "Match visualise, predict and summarise to make a mind picture, say what may happen and state the main idea/events.", "Each strategy matched correctly (1 mark each).", "Recognising core comprehension strategies."),
+            ("Visualise from detail", "Listen to ‘A tiny boat rocks on silver water under a round moon.’ Describe or show the mind picture using three details.", "Includes boat size, water description and moon/night detail (3 marks).", "Building a visual image from language."),
+            ("Make a supported prediction", "A character packs a torch and enters a dark shed. Predict what they may do next and cite one clue.", "Plausible next action involving light/search, supported by torch or darkness (2 marks).", "Predicting from textual clues."),
+            ("Order a summary", "Order the important events: seed sprouts; child plants seed; child waters soil; plant grows leaves.", "Plant seed → water → sprout → leaves grow (2 marks).", "Sequencing events for summary."),
+            ("Draw literal and inferred", "Draw what is stated—wet footprints by a door—and one possible inference. Label the clue and idea separately.", "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference (3 marks).", "Separating evidence from inferred meaning."),
+            ("Ask a useful question", "After reading that a bridge is closed, write a question that would help understand what the character may do.", "Relevant question about route, goal, safety or next action (2 marks).", "Questioning to extend comprehension."),
+            ("Connect without leaving text", "A character feels nervous before performing. Give a relevant connection and explain how it helps understand the character.", "Connection concerns a new/performance situation and explains nerves, courage or preparation (3 marks).", "Using connection to deepen interpretation."),
+            ("Infer a feeling", "‘Max stared at the broken model and his shoulders dropped.’ What might he feel, and which clue supports it?", "Sad/disappointed/worried, supported by broken model and dropped shoulders (2 marks).", "Inferring emotion from action and context."),
+            ("Match clues to inferences", "Match empty bowl, muddy shoes and yawning character to hungry pet, outdoor activity and tiredness, using cautious language.", "Each clue matched to plausible inference with may/might understood (1 mark each).", "Connecting evidence with inferred meaning."),
+            ("Sequence prediction revision", "Order: make prediction; read new clue; compare clue; keep or change prediction.", "Predict → read clue → compare → revise/confirm (2 marks).", "Updating predictions as evidence changes."),
+            ("Summarise a micro-text", "‘A gust lifts Noor's hat. She chases it across the oval and catches it at the fence.’ Summarise in one sentence.", "Noor chases and catches her windblown hat; retains main character/problem/result (2 marks).", "Summarising key events concisely."),
+            ("Demonstrate two strategies", "For a short teacher-read text, think aloud one prediction and one question, naming the clues used.", "Both strategies are relevant and each is linked to a text clue (3 marks).", "Applying multiple comprehension strategies orally."),
+            ("Draw a strategy map", "Draw five branches labelled visualise, predict, connect, summarise and question. Add one action to each.", "Five accurate actions organised under correct strategy labels (5 marks).", "Organising comprehension strategy knowledge."),
+            ("Correct an unsupported inference", "A picture shows one child holding a red ball. A reader says every child loves red. Explain the problem.", "One image does not show every child's preference; only the visible child/ball can be stated, and feeling needs more evidence (3 marks).", "Evaluating inference strength."),
+            ("Integrate strategies", "Text: ‘The path ahead was flooded. Lee unfolded a map and pointed uphill.’ Give a literal fact, inference, prediction, useful question and one-sentence summary, citing clues.", "Five accurate components: flood/map/uphill facts; route-change inference/prediction; connected question; concise summary, each evidence-linked (7 marks).", "Combining literal and inferred comprehension strategies."),
+        ],
+    ),
+    "AC9E1LY06": bank(
+        "AC9E1LY06",
+        "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words",
+        [
+            ("Rule", "Plan for purpose, write complete simple sentences, use precise topic words, then reread for meaning, sentence boundaries, capitals, punctuation and known spelling patterns."),
+            ("Worked example", "Draft: ‘frogs live near water they eat insects’. Edit: ‘Frogs live near water. They eat insects.’ The report now has two clear sentence boundaries."),
+            ("Purpose patterns", "A report groups facts, an opinion states a view and reasons, and a recount orders events with time words."),
+            ("Visual interaction", "Use purpose planners, movable sentence cards and multimodal caption frames with keyboard and paper options."),
+            ("Common trap", "Editing is more than neat copying; reread to find and fix meaning, grammar, punctuation and spelling."),
+        ],
+        [
+            ("Add a sentence boundary", "Edit ‘The bird landed it drank water’ into two simple sentences.", "‘The bird landed. It drank water.’ with capital and full stops (3 marks).", "Editing run-together sentences."),
+            ("Match purposes and openings", "Match report, opinion and recount to ‘Koalas are…’, ‘I think… because…’ and ‘Yesterday, first…’.", "Each purpose matched correctly (1 mark each).", "Selecting language features for writing purpose."),
+            ("Reread aloud", "Read the draft ‘My dog fast.’ aloud and improve it into a grammatical simple sentence.", "Example: ‘My dog runs fast.’ adds a suitable verb and complete idea (2 marks).", "Using rereading to repair grammar."),
+            ("Choose topic vocabulary", "Replace thing in ‘The thing pushed the car’ with precise words for a forces report.", "Example: ‘The hand applied a push that moved the toy car.’ (2 marks).", "Using topic-specific vocabulary in a report."),
+            ("Order the writing cycle", "Order: draft sentences; choose purpose/topic; reread and edit; publish/share.", "Choose purpose/topic → draft → reread/edit → publish/share (2 marks).", "Sequencing creation and editing."),
+            ("Draw a multimodal recount", "Create three panels for first, next and finally in an imagined lost-key event. Add one sentence per panel.", "Three logical events, complete sentences and appropriate time words/punctuation (4 marks).", "Creating a sequenced multimodal recount."),
+            ("Edit an opinion reason", "Improve ‘I like the park. It is good.’ by linking a specific reason.", "Example: ‘I like the park because its shady trees keep the play area cool.’ (2 marks).", "Strengthening an opinion with specific support."),
+            ("Check a report paragraph", "Draft: ‘A habitat is a place living things live. it gives water food or shelter’ Edit capitals, punctuation and any grammar needed.", "‘A habitat is a place where living things live. It can provide water, food or shelter.’ (4 marks).", "Editing a short information report."),
+            ("Spell a two-syllable word", "Write the word picnic in the sentence ‘We packed a ___.’ Then reread the sentence.", "Picnic spelled correctly in a complete punctuated sentence (2 marks).", "Applying known spelling in context."),
+            ("Match editing checks", "Match capital, full stop and spelling check to sentence start/name, sentence end and known letter pattern.", "All checks matched correctly (1 mark each).", "Recognising editing targets."),
+            ("Sequence a recount", "Order and combine: finally we arrived; first we packed; next we walked to the bus.", "First packed → next walked → finally arrived, in complete sentences or a coherent short recount (3 marks).", "Organising chronological writing."),
+            ("Add a useful caption", "A report image shows roots below soil. Write a caption using the topic words roots and absorb.", "Example: ‘Roots absorb water from the soil.’ with accurate meaning and punctuation (2 marks).", "Creating topic-specific multimodal text."),
+            ("Demonstrate a meaning edit", "Read ‘The tiny elephant fit in my pocket’ in a factual report. Explain whether to revise fact, purpose or text type.", "For factual report, revise inaccurate claim; alternatively identify it as imaginative, clearly explaining purpose (3 marks).", "Editing content to match text purpose."),
+            ("Draw an editing checklist", "Create a five-box checklist for complete sentence, capital, ending mark, topic word and spelling. Apply it to one original sentence.", "Five accurate checks and a sentence demonstrably reviewed/corrected (4 marks).", "Using a visual self-editing routine."),
+            ("Correct purpose mixing", "A frog report begins with facts, switches to ‘You must buy a frog’, then tells an unrelated dream. Explain two problems and revise the plan.", "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report (4 marks).", "Maintaining purpose and cohesion during editing."),
+            ("Create and edit three forms", "On the topic ‘rain’, write one report sentence, one opinion with reason and a three-sentence recount. Reread and mark one edit you made.", "Forms suit all three purposes; simple sentences, topic words and boundaries are accurate; one genuine edit identified (8 marks).", "Creating and editing short texts for different purposes."),
+        ],
+    ),
+    "AC9E1LY07": bank(
+        "AC9E1LY07",
+        "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary and appropriate gesture, volume and pace",
+        [
+            ("Rule", "A short presentation needs an opening that names the topic, a middle with ordered key ideas and a conclusion that finishes the message. Voice and gesture should help the audience understand."),
+            ("Worked example", "Opening: ‘Today I will explain frog needs.’ Middle: water, food and shelter. Conclusion: ‘These resources help frogs survive in their habitat.’"),
+            ("Delivery check", "Use audible volume, steady pace, clear words, purposeful gestures and visuals large enough to understand."),
+            ("Visual interaction", "Use three-part planning cards, cue cards and accessible slide/storyboard frames with oral or recorded alternatives."),
+            ("Common trap", "Speaking loudly or adding many gestures does not improve meaning unless delivery suits the room, topic and audience."),
+        ],
+        [
+            ("Identify an opening", "Which sentence best opens a talk: ‘Today I will show how seeds grow’ or ‘That is all’?", "‘Today I will show how seeds grow’ (1 mark).", "Recognising a topic-setting opening."),
+            ("Match presentation parts", "Match opening, middle and conclusion to introduce topic, explain key ideas and finish/summarise.", "Each part matched correctly (1 mark each).", "Connecting presentation structure with function."),
+            ("Deliver a three-part talk", "Give a 20-second talk about a favourite safe activity with an opening, one middle detail and conclusion.", "All three parts are present and spoken clearly at suitable volume/pace (3 marks).", "Delivering a simple structured personal presentation."),
+            ("Choose topic vocabulary", "For a talk about measuring length, name two useful topic words and use one in a sentence.", "Any two such as length, unit, equal, end-to-end; sentence uses one accurately (3 marks).", "Selecting vocabulary for a learnt topic."),
+            ("Order presentation cards", "Order: key idea two; opening; conclusion; key idea one.", "Opening → key idea one → key idea two → conclusion (2 marks).", "Sequencing a short presentation."),
+            ("Draw one useful slide", "Draw a slide for a talk about animal habitats with a short heading, labelled image and no paragraph of tiny text.", "Readable heading, relevant labelled visual and concise layout (3 marks).", "Designing a supportive presentation visual."),
+            ("Adjust pace", "Why should a speaker pause briefly after an important idea instead of rushing?", "Pause gives audience time to process and highlights the idea (2 marks).", "Explaining how pace supports understanding."),
+            ("Plan purposeful gestures", "For a talk comparing a small and large object, describe two gestures that support meaning without distracting.", "Uses controlled size/comparison gestures aligned with spoken points (3 marks).", "Selecting gestures connected to content."),
+            ("Write a conclusion", "Finish a talk about keeping water clean with one concluding statement.", "A clear summary or call linked to topic, such as ‘Clean water helps living things stay healthy’ (1 mark).", "Creating a relevant conclusion."),
+            ("Match delivery problems and fixes", "Match whispering, racing and looking only at screen to increase volume, slow/pause and orient to audience/use cue cards.", "Each problem matched to appropriate fix (1 mark each).", "Improving oral delivery."),
+            ("Sequence rehearsal", "Order: revise unclear section; practise; ask for listener feedback; present.", "Practise → seek feedback → revise/rehearse → present (2 marks; revision and second rehearsal understood).", "Using rehearsal and feedback to prepare."),
+            ("Explain visual purpose", "A slide shows a labelled force arrow while the speaker explains direction. How does the visual help?", "Makes direction visible and supports the topic word/ spoken explanation (2 marks).", "Discussing multimodal support for oral content."),
+            ("Demonstrate volume choices", "Say one sentence for a partner nearby and for a class group. Adjust volume without shouting and explain.", "Both are audible for audience size; explanation links volume to distance/room (3 marks).", "Adapting volume to audience."),
+            ("Draw cue cards", "Create three cue cards for opening, two key ideas and conclusion about a learnt topic. Use keywords, not a full script.", "Cards cover all sections, sequence logically and use concise cues/topic words (4 marks).", "Planning oral structure with prompts."),
+            ("Correct an overloaded presentation", "A 30-second talk has 12 slides, tiny writing and no conclusion. Suggest three improvements.", "Reduce slides/ideas, enlarge/simplify visuals/text and add clear conclusion; any three relevant fixes (3 marks).", "Evaluating presentation design and structure."),
+            ("Plan and deliver a learnt-topic talk", "Prepare a one-minute presentation about pushes and pulls or another learnt topic. Include opening, three ordered points, conclusion, two topic words, one useful visual and planned delivery choices.", "All requested content/structure elements present; vocabulary accurate; visual relevant; volume, pace and gesture support audience understanding (8 marks).", "Integrating structure, vocabulary, multimodality and delivery."),
+        ],
+    ),
+}
+
+
+def main() -> None:
+    written = write_banks(SPECS)
+    print(f"Wrote {len(written)} Year 1 English Literacy text banks")
+
+
+if __name__ == "__main__":
+    main()

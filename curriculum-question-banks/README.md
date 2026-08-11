@@ -47,6 +47,18 @@ Their additional questions remain as reviewed reserve content. Their
 `launch_practice_ids` metadata selects 2 questions from each tier for the
 8-question Pass 1 set; the other 16 Practice items remain in reserve.
 
+## Completed Pass 1 levels
+
+- Foundation English: 29 codes complete.
+- Foundation Science: 9 codes complete.
+- Year 1 Mathematics: 15 codes complete.
+- Year 1 Science: 10 codes complete.
+- Year 1 English: 30 codes complete.
+
+Year 1 contributes 440 Practice questions and 440 separate Test questions. All
+Year 1 banks include a worked 60-second Quick Read and early-years visual or
+interaction guidance with tap/keyboard and printable alternatives.
+
 ## Worksheet-pool rule
 
 The planned worksheet uses 10 distinct questions selected from both sources:

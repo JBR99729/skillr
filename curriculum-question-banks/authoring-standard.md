@@ -20,6 +20,39 @@
    short enough for the assessed skill.
 10. Use Australian English spelling and familiar Australian contexts where a
     location-specific context is helpful.
+11. Every bank must include a learner-facing **60-second Quick Read** before the
+    questions. It must teach the idea rather than repeat the curriculum
+    description, and its language and length must suit the target year.
+12. Foundation to Year 2 banks must identify a meaningful concrete model,
+    diagram or visual interaction where it improves understanding. Online
+    drag-and-drop tasks must also offer a tap/click or keyboard alternative, and
+    the printable version must have a paper-friendly response method.
+
+## 60-second Quick Read standard
+
+The Quick Read is brief learning support, not a second lesson or a list of
+curriculum objectives. Use the subject pattern below.
+
+- Mathematics: key method or rule, one fully worked example and one common
+  trap. For early years, name the concrete model or visual that represents the
+  mathematics.
+- Science: direct concept answer, defined key vocabulary, an observable or
+  worked example, and one common misconception. Science questions must not
+  assume that a student already knows untaught facts.
+- English: short explanation of the language or literacy rule, one worked text
+  example showing how the rule is used, and one common trap.
+
+Adjust depth by year level:
+
+- Foundation: concrete concept answer, simple definitions, observable examples
+  and one model sentence; visuals or physical demonstrations where useful.
+- Years 1–2: short explanation, vocabulary, an example and a common trap.
+- Years 3–4: concept rule, evidence/example and a common misconception.
+- Years 5–10: key concepts, relevant relationships or formulas, a worked
+  example and a common trap.
+
+The preparation must support the assessed concept without copying the wording
+or revealing the answer to a specific Test item.
 
 ## Pass 1 distribution
 
