@@ -334,7 +334,7 @@ footer .site-notice {
 .testimonial-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 16px;
+    gap: 8px;
 }
 
 .testimonial-card {
@@ -2284,7 +2284,7 @@ footer {
 
 .curriculum-stage-list {
     display: grid;
-    gap: 24px;
+    gap: 12px;
     margin-top: 8px;
 }
 
@@ -2298,8 +2298,8 @@ footer {
 .curriculum-stage__header {
     display: flex;
     align-items: baseline;
-    gap: 12px;
-    padding: 16px 24px;
+    gap: 8px;
+    padding: 8px 16px;
     background: #0f172a;
     color: #f8fafc;
 }
@@ -2323,9 +2323,9 @@ footer {
 .curriculum-year-row {
     display: grid;
     grid-template-columns: minmax(136px, 0.55fr) minmax(0, 3fr);
-    gap: 16px;
+    gap: 8px;
     align-items: center;
-    padding: 16px 24px;
+    padding: 8px 16px;
     border-top: 1px solid #e2e8f0;
     background: #fff;
 }
@@ -2346,9 +2346,9 @@ footer {
 
 .curriculum-year-row__mark {
     display: grid;
-    width: 40px;
-    height: 40px;
-    flex: 0 0 40px;
+    width: 32px;
+    height: 32px;
+    flex: 0 0 32px;
     place-items: center;
     border: 1px solid #cbd5e1;
     border-radius: 8px;
@@ -2359,7 +2359,7 @@ footer {
 
 .curriculum-year-row__drill {
     width: fit-content;
-    margin-left: 48px;
+    margin-left: 40px;
     color: #475569;
     font-size: 0.75rem;
     font-weight: 700;
@@ -2375,10 +2375,10 @@ footer {
 .curriculum-subject-card {
     display: flex;
     min-width: 0;
-    min-height: 72px;
+    min-height: 48px;
     align-items: center;
-    gap: 12px;
-    padding: 16px;
+    gap: 8px;
+    padding: 8px 12px;
     border: 1px solid #cbd5e1;
     border-left-width: 4px;
     border-radius: 8px;
@@ -2400,7 +2400,7 @@ footer {
 }
 
 .curriculum-subject-card__icon {
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height: 1;
 }
 
@@ -2432,7 +2432,7 @@ footer {
 }
 
 .curriculum-year-row__status {
-    margin-left: 48px;
+    margin-left: 40px;
     color: #64748b;
     font-size: 0.75rem;
 }
@@ -2500,4 +2500,11 @@ footer {
         flex-direction: row;
         align-items: center;
     }
+}
+
+
+/* Compact learning resources heading */
+.home-page .resource-quickstart__intro h2 {
+    font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+    line-height: 1.25;
 }
