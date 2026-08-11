@@ -2143,8 +2143,8 @@ footer {
 
 .home-subject-card__mark {
     display: grid;
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     place-items: center;
     border-radius: 8px;
     background: var(--subject-color);
