@@ -30,18 +30,13 @@ review_status: authored
 
 ### P01 — Solve 1 4 2 4 and use
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve 1/4 + 2/4 and use the on-screen tool to build or select a model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve tool build model.
 
@@ -95,16 +90,11 @@ D. Reversed reasoning
 
 ### P06 — Solve 5 8 1 4 Explain why
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 5/8 + 1/4. Explain why 1/4 can be renamed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve renamed.
 
@@ -146,18 +136,13 @@ D. Reversed reasoning
 
 ### P10 — True or false 1 5 1 10
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** True or false: 1/5 + 1/10 = 2/15. Explain the mistake.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing true false mistake.
 
@@ -211,18 +196,13 @@ D. Reversed reasoning
 
 ### P15 — Solve 2 8 3 4 Explain your
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve 2/8 + 3/4. Explain your strategy.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve your strategy.
 
@@ -240,16 +220,11 @@ D. Reversed reasoning
 
 ### P17 — Which is larger 1 2 1 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Which is larger: 1/2 + 1/8 or 3/4 - 1/8? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing larger.
 
@@ -305,16 +280,11 @@ D. Reversed reasoning
 
 ### P22 — Solve 2 1 5 3 5 Explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 2 1/5 - 3/5. Explain any regrouping.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve regrouping.
 
@@ -332,35 +302,25 @@ D. Reversed reasoning
 
 ### P24 — Explain when denominators need to be made
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain when denominators need to be made the same before adding or subtracting.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing when denominators need made same before adding subtracting.
 
 ### P25 — Solve 3 8 5 16 and explain
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve 3/8 + 5/16 and explain why sixteenths help.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve sixteenths help.
 
@@ -390,18 +350,13 @@ D. Reversed reasoning
 
 ### P28 — A student adds 1 3 1 6
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A student adds 1/3 + 1/6 and gets 2/9. Diagnose the mistake and solve correctly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing adds gets diagnose mistake solve correctly.
 
@@ -431,18 +386,13 @@ D. Reversed reasoning
 
 ### P31 — Which fraction strip model correctly represents 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Which fraction-strip model correctly represents 1/2 + 3/8 + 1/4?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing fraction strip model correctly represents.
 
@@ -510,33 +460,23 @@ D. Reversed reasoning
 
 ### P37 — Explain when you can add numerators directly
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain when you can add numerators directly and when you must rename fractions first.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing when numerators directly when must rename fractions first.
 
 ### P38 — Solve 2 7 10 using tenths then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 2 - 7/10 using tenths, then explain the whole-number regrouping.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve tenths whole number regrouping.
 
@@ -554,18 +494,13 @@ D. Reversed reasoning
 
 ### P40 — Calculate 11 12 2 3 Then choose
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Calculate 11/12 - 2/3. Then choose the diagram that proves the subtraction correctly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculate diagram proves subtraction correctly.
 
@@ -583,31 +518,21 @@ D. Reversed reasoning
 
 ### P42 — Find the error 4 5 1 10
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Find the error: 4/5 - 1/10 = 3/5. Correct it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find error correct.
 
 ### P43 — Solve 2 5 6 1 3 4
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 2 5/6 + 1 3/4. Explain how you handled the denominators.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve handled denominators.
 
@@ -637,33 +562,23 @@ D. Reversed reasoning
 
 ### P46 — Find the missing sign 3 4 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find the missing sign: 3/4 + 1/8 ___ 5/6. Justify.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find missing sign justify.
 
 ### P47 — Solve 1 1 3 5 12 then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Solve 1 1/3 - 5/12, then estimate first to check reasonableness.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve estimate first check reasonableness.
 
@@ -681,18 +596,13 @@ D. Reversed reasoning
 
 ### P49 — Beginner digital question Solve 1 4 2
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Solve 1/4 + 2/4 and use the on-screen tool to build or select a model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve tool build model.
 
@@ -736,33 +646,23 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer A walk is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A walk is 2 1/4 km. Mia has walked 3/4 km. How far remains?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best walk walked remains.
 
 ### P54 — Beginner digital question Solve 5 8 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Solve 5/8 + 1/4. Explain why 1/4 can be renamed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve renamed.
 
@@ -804,18 +704,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer True or false
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: True or false: 1/5 + 1/10 = 2/15. Explain the mistake.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best true false mistake.
 
@@ -869,18 +764,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Solve 2 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Solve 2/8 + 3/4. Explain your strategy.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best solve your strategy.
 
@@ -898,16 +788,11 @@ D. Reversed reasoning
 
 ### P65 — Use the on screen options Which is
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Which is larger: 1/2 + 1/8 or 3/4 - 1/8? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing larger.
 
@@ -937,18 +822,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer A student adds
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A student adds denominators in 2/5 + 1/5 to get 3/10. Correct the work.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best adds denominators correct work.
 
@@ -970,16 +850,11 @@ D. Reversed reasoning
 
 ### E02 — Use the on screen options Solve 2
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Solve 2 1/5 - 3/5. Explain any regrouping.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve regrouping.
 
@@ -1017,20 +892,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing calculate.
 
-### E06 — Intermediate digital question Solve 3 8 5
+### E06 — Solve 3 8 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve 3/8 + 5/16 and explain why sixteenths help. Check the common trap before answering.
+**Question:** Solve 3/8 + 5/16 and explain why sixteenths help. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve sixteenths help check common trap before answering.
 
@@ -1046,66 +916,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task runner completes rests completes.
 
-### E08 — Reasoning check Calculate 2 1 4 5
+### E08 — Calculate 2 1 4 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Calculate 2 1/4 - 5/8 using the interactive number line or equivalent fractions. Interpret the answer in the story context.
+**Question:** Calculate 2 1/4 - 5/8 using the interactive number line or equivalent fractions. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check calculate interactive number line equivalent fractions.
 
 ### E09 — Model based question A student adds 1
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: A student adds 1/3 + 1/6 and gets 2/9. Diagnose the mistake and solve correctly. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based adds gets diagnose mistake solve correctly.
 
-### E10 — Error check question Find the missing fraction
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Find the missing fraction: 7/10 + ___ = 1 1/5. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check find missing fraction estimate first enter.
-
-## Section B — Application and problem solving
-
-### E11 — Intermediate digital question Solve 3 2 3
+### E10 — Find and correct the error Find the missing fraction
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve 3 2/3 - 1 5/6. Show regrouping if needed. Check the common trap before answering.
+**Question:** Find and correct the error: Find the missing fraction: 7/10 + ___ = 1 1/5. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check find missing fraction estimate first enter.
+
+## Section B — Application and problem solving
+
+### E11 — Solve 3 2 3
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve 3 2/3 - 1 5/6. Show regrouping if needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1113,35 +968,25 @@ D. Reversed reasoning
 
 ### E12 — Multi step online task Which fraction strip
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Multi-step online task: Which fraction-strip model correctly represents 1/2 + 3/8 + 1/4?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing multi step online task fraction strip model correctly.
 
-### E13 — Reasoning check A bottle is 7 8
+### E13 — A bottle is 7 8
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: A bottle is 7/8 full. You pour out 1/4. What fraction remains? Interpret the answer in the story context.
+**Question:** A bottle is 7/8 full. You pour out 1/4. What fraction remains? Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check bottle full pour fraction remains interpret.
 
@@ -1157,30 +1002,25 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing model based order sums smallest largest without fully.
 
-### E15 — Error check question Solve 5 12 1
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Solve 5/12 + 1/6 + 3/4 and write the answer as a mixed numeral if needed. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check solve write mixed numeral needed estimate.
-
-### E16 — Intermediate digital question A recipe needs 1
+### E15 — Find and correct the error Solve 5 12 1
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: A recipe needs 1 1/2 cups oats and 3/4 cup coconut. How much more oats than coconut? Check the common trap before answering.
+**Question:** Find and correct the error: Solve 5/12 + 1/6 + 3/4 and write the answer as a mixed numeral if needed. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check solve write mixed numeral needed estimate.
+
+### E16 — A recipe needs 1
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** A recipe needs 1 1/2 cups oats and 3/4 cup coconut. How much more oats than coconut? Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1198,71 +1038,51 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find different fraction pairs.
 
-### E18 — Reasoning check Explain when you can add
+### E18 — Explain when you can add
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Explain when you can add numerators directly and when you must rename fractions first. Interpret the answer in the story context.
+**Question:** Explain when you can add numerators directly and when you must rename fractions first. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check when numerators directly when must rename.
 
 ### E19 — Model based question Solve 2 7 10
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve 2 - 7/10 using tenths, then explain the whole-number regrouping. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve tenths whole number regrouping model.
 
-### E20 — Error check question A garden has 3
+### E20 — Find and correct the error A garden has 3
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: A garden has 3/5 planted with vegetables and 1/4 with flowers. What fraction is planted? What fraction is unplanted? Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: A garden has 3/5 planted with vegetables and 1/4 with flowers. What fraction is planted? What fraction is unplanted? Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check garden planted vegetables flowers fraction planted.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Calculate 11 12 2
+### E21 — Calculate 11 12 2
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Calculate 11/12 - 2/3. Then choose the diagram that proves the subtraction correctly.
+**Question:** Calculate 11/12 - 2/3. Then choose the diagram that proves the subtraction correctly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing calculate diagram proves subtraction correctly.
 
@@ -1278,64 +1098,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task write word problem represented.
 
-### E23 — Reasoning check Find the error 4 5
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Find the error: 4/5 - 1/10 = 3/5. Correct it. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check find error correct interpret story context.
-
-### E24 — Model based question Solve 2 5 6
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Solve 2 5/6 + 1 3/4. Explain how you handled the denominators. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based solve handled denominators model method matches.
-
-### E25 — Error check question A trail is 4
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: A trail is 4 km. You walk 1 2/5 km then 1 3/10 km. How much remains? Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check trail walk much remains estimate first.
-
-### E26 — Intermediate digital question Make a common denominator
+### E23 — Find the error 4 5
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Make a common denominator table for halves, quarters, eighths and sixteenths. Check the common trap before answering.
+**Question:** Find the error: 4/5 - 1/10 = 3/5. Correct it. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check find error correct interpret story context.
+
+### E24 — Model based question Solve 2 5 6
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Solve 2 5/6 + 1 3/4. Explain how you handled the denominators. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based solve handled denominators model method matches.
+
+### E25 — Find and correct the error A trail is 4
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: A trail is 4 km. You walk 1 2/5 km then 1 3/10 km. How much remains? Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check trail walk much remains estimate first.
+
+### E26 — Make a common denominator
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Make a common denominator table for halves, quarters, eighths and sixteenths. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1353,53 +1158,38 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find missing sign justify.
 
-### E28 — Reasoning check Solve 1 1 3 5
+### E28 — Solve 1 1 3 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Solve 1 1/3 - 5/12, then estimate first to check reasonableness. Interpret the answer in the story context.
+**Question:** Solve 1 1/3 - 5/12, then estimate first to check reasonableness. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check solve estimate first check reasonableness interpret.
 
 ### E29 — Model based question Complete the structured template
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Complete the structured template for a multi-step fraction addition/subtraction problem with related denominators and solve it. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based multi step fraction addition subtraction problem.
 
 ### E30 — Solve 1 3 4 5 8 and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve 1 3/4 - 5/8 and choose the model that matches the regrouping.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve model matches regrouping.

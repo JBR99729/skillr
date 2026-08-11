@@ -54,33 +54,23 @@ review_status: authored
 
 ### P03 — A spinner has four equal sections red
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A spinner has four equal sections: red, blue, green, yellow. Are outcomes equally likely? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing spinner four equal sections blue green yellow outcomes.
 
 ### P04 — A bag has 3 red counters and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** A bag has 3 red counters and 1 blue counter. Are colours equally likely? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing counters blue counter colours equally likely.
 
@@ -110,18 +100,13 @@ D. Reversed reasoning
 
 ### P07 — Explain what random means in a fair
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain what 'random' means in a fair name use the on-screen tool to build or select.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing random means fair name tool build.
 
@@ -199,18 +184,13 @@ D. Reversed reasoning
 
 ### P14 — Explain why some board games are fair
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why some board games are fair and others are not.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing some board games fair others.
 
@@ -302,16 +282,11 @@ D. Reversed reasoning
 
 ### P22 — Explain how bias can affect whether outcomes
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain how bias can affect whether outcomes are equally likely.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing bias affect whether outcomes equally likely.
 
@@ -329,60 +304,45 @@ D. Reversed reasoning
 
 ### P24 — Explain the difference between possible outcomes and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain the difference between possible outcomes and likely outcomes.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between possible outcomes likely outcomes.
 
 ### P25 — Solve a harder possible outcomes and equally
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a harder possible outcomes and equally/not equally likely chance events problem with at least two steps, and explain why each step is needed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder possible outcomes equally equally likely chance.
 
 ### P26 — Complete the structured template for a realistic
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a realistic Year 5 context for possible outcomes and equally/not equally likely chance events where a careless student might choose the wrong operation. Solve it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing realistic year context possible outcomes equally equally likely.
 
-### P27 — Online version choose the diagram model that
+### P27 — choose the diagram model that
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: choose the diagram/model that best represents possible outcomes and equally/not equally likely chance events, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents possible outcomes and equally/not equally likely chance events, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -390,52 +350,37 @@ D. Reversed reasoning
 
 ### P28 — Compare two possible strategies for a possible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two possible strategies for a possible outcomes and equally/not equally likely chance events question. Which is more efficient and why?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare possible strategies possible outcomes equally equally likely.
 
 ### P29 — Write a mistake a student might make
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a mistake a student might make with possible outcomes and equally/not equally likely chance events, then correct it clearly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write mistake might make possible outcomes equally equally.
 
 ### P30 — Use estimation first then solve an exact
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use estimation first, then solve an exact possible outcomes and equally/not equally likely chance events problem and check whether the answer is reasonable.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact possible outcomes equally equally.
 
@@ -453,52 +398,37 @@ D. Reversed reasoning
 
 ### P32 — Solve a missing value question connected to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a missing-value question connected to possible outcomes and equally/not equally likely chance events and justify the unknown value.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve missing value connected possible outcomes equally equally.
 
 ### P33 — Write a true or false statement about
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a true-or-false statement about possible outcomes and equally/not equally likely chance events that needs proof, then prove or disprove it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write true false statement about possible outcomes equally.
 
-### P34 — Online version select the best labelled representation
+### P34 — select the best labelled representation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: select the best labelled representation for possible outcomes and equally/not equally likely chance events from three options, then identify one missing or incorrect label.
+**Question:** select the best labelled representation for possible outcomes and equally/not equally likely chance events from three options, then identify one missing or incorrect label.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online version best labelled representation possible outcomes equally.
 
@@ -518,33 +448,23 @@ D. Reversed reasoning
 
 ### P36 — Explain the key vocabulary in possible outcomes
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain the key vocabulary in possible outcomes and equally/not equally likely chance events using an example and a non-example.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing vocabulary possible outcomes equally equally likely chance events.
 
-### P37 — Create two questions about possible outcomes and
+### P37 — solve two related problems about possible outcomes and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Create two questions about possible outcomes and equally/not equally likely chance events that have the same answer but require different reasoning.
+**Question:** solve two related problems about possible outcomes and equally/not equally likely chance events that have the same answer but require different reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing create questions about possible outcomes equally equally likely.
 
@@ -562,26 +482,21 @@ D. Reversed reasoning
 
 ### P39 — Write a question where rounding estimating or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write a question where rounding, estimating or checking prevents an unreasonable answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write rounding estimating checking prevents unreasonable.
 
-### P40 — Online version match the words number sentence
+### P40 — match the words number sentence
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: match the words, number sentence and diagram that represent the same possible outcomes and equally/not equally likely chance events idea.
+**Question:** match the words, number sentence and diagram that represent the same possible outcomes and equally/not equally likely chance events idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -589,18 +504,13 @@ D. Reversed reasoning
 
 ### P41 — Find all possible answers to a possible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all possible answers to a possible outcomes and equally/not equally likely chance events puzzle with more than one solution, and explain how you know you found all.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find possible answers possible outcomes equally equally likely.
 
@@ -618,18 +528,13 @@ D. Reversed reasoning
 
 ### P43 — Explain how you would teach this possible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how you would teach this possible outcomes and equally/not equally likely chance events idea to a younger student using a simple model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing would teach this possible outcomes equally equally likely.
 
@@ -675,7 +580,7 @@ D. Reversed reasoning
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Complete the structured template for a mini test question about possible outcomes and equally/not equally likely chance events with a clear marking guide worth 3 marks.
+**Question:** Solve a 3-mark problem about possible outcomes and equally/not equally likely chance events. Show the key working steps and include a final answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -719,18 +624,13 @@ D. Reversed reasoning
 
 ### P51 — Complete the answer box A spinner has
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: A spinner has four equal sections: red, blue, green, yellow. Are outcomes equally likely? Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing spinner four equal sections blue green yellow outcomes.
 
@@ -750,18 +650,13 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer For a standard
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: For a standard deck, how many possible suit outcomes are there? Are they equally likely?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best standard deck many possible suit outcomes there.
 
@@ -779,18 +674,13 @@ D. Reversed reasoning
 
 ### P55 — Use the on screen options Explain what
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Explain what 'random' means in a fair name use the on-screen tool to build or select.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing random means fair name tool build.
 
@@ -820,18 +710,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Choose the best
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Choose the best spinner where all four colours are equally likely.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best best spinner four colours equally likely.
 
@@ -885,18 +770,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer A supermarket promotion
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: A supermarket promotion has 10 possible stickers. What information is needed to know if each is equally likely?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best supermarket promotion possible stickers information needed know.
 
@@ -950,18 +830,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Complete the structured
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Complete the structured template for a chance event with exactly 3 equally likely outcomes.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best chance event exactly equally likely outcomes.
 
@@ -983,16 +858,11 @@ D. Reversed reasoning
 
 ### E02 — Use the on screen options Explain how
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Use the on-screen options: Explain how bias can affect whether outcomes are equally likely.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing bias affect whether outcomes equally likely.
 
@@ -1022,35 +892,25 @@ D. Reversed reasoning
 
 ### E05 — Select the outcome that is impossible when
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the outcome that is impossible when rolling a standard six-sided die.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing outcome impossible when rolling standard sided.
 
-### E06 — Intermediate digital question Solve a harder possible
+### E06 — Solve a harder possible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a harder possible outcomes and equally/not equally likely chance events problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
+**Question:** Solve a harder possible outcomes and equally/not equally likely chance events problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder possible outcomes equally equally likely chance.
 
@@ -1066,13 +926,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task realistic year context possible.
 
-### E08 — Reasoning check Online version choose the diagram
+### E08 — choose the diagram
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Online version: choose the diagram/model that best represents possible outcomes and equally/not equally likely chance events, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents possible outcomes and equally/not equally likely chance events, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1080,54 +940,39 @@ D. Reversed reasoning
 
 ### E09 — Model based question Compare two possible strategies
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two possible strategies for a possible outcomes and equally/not equally likely chance events question. Which is more efficient and why? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare possible strategies possible outcomes equally.
 
-### E10 — Error check question Write a mistake a
+### E10 — Find and correct the error Write a mistake a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Write a mistake a student might make with possible outcomes and equally/not equally likely chance events, then correct it clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a mistake a student might make with possible outcomes and equally/not equally likely chance events, then correct it clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write mistake might make possible outcomes.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Use estimation first then
+### E11 — Use estimation first then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use estimation first, then solve an exact possible outcomes and equally/not equally likely chance events problem and check whether the answer is reasonable. Check the common trap before answering.
+**Question:** Use estimation first, then solve an exact possible outcomes and equally/not equally likely chance events problem and check whether the answer is reasonable. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact possible outcomes equally equally.
 
@@ -1143,64 +988,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task missing entries four table.
 
-### E13 — Reasoning check Solve a missing value question
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve a missing-value question connected to possible outcomes and equally/not equally likely chance events and justify the unknown value. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected possible outcomes.
-
-### E14 — Model based question Write a true or
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a true-or-false statement about possible outcomes and equally/not equally likely chance events that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write true false statement about possible.
-
-### E15 — Error check question Online version select the
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Online version: select the best labelled representation for possible outcomes and equally/not equally likely chance events from three options, then identify one missing or incorrect label.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check online version best labelled representation possible.
-
-### E16 — Intermediate digital question Solve a multi step
+### E13 — Solve a missing value question
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a multi-step word problem involving possible outcomes and equally/not equally likely chance events and one distractor number that is not needed. Check the common trap before answering.
+**Question:** Solve a missing-value question connected to possible outcomes and equally/not equally likely chance events and justify the unknown value. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected possible outcomes.
+
+### E14 — Model based question Write a true or
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a true-or-false statement about possible outcomes and equally/not equally likely chance events that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write true false statement about possible.
+
+### E15 — Find and correct the error select the
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: select the best labelled representation for possible outcomes and equally/not equally likely chance events from three options, then identify one missing or incorrect label.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check online version best labelled representation possible.
+
+### E16 — Solve a multi step
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a multi-step word problem involving possible outcomes and equally/not equally likely chance events and one distractor number that is not needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1218,64 +1048,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task vocabulary possible outcomes equally.
 
-### E18 — Reasoning check Create two questions about possible
+### E18 — solve two related problems about possible
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Create two questions about possible outcomes and equally/not equally likely chance events that have the same answer but require different reasoning. Interpret the answer in the story context.
+**Question:** solve two related problems about possible outcomes and equally/not equally likely chance events that have the same answer but require different reasoning. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check create questions about possible outcomes equally.
 
 ### E19 — Model based question Solve a challenge problem
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve a challenge problem where the answer must be interpreted in context, not just calculated. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve challenge problem must interpreted context.
 
-### E20 — Error check question Write a question where
+### E20 — Find and correct the error Write a question where
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write rounding estimating checking prevents unreasonable.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Online version match the
+### E21 — match the
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Online version: match the words, number sentence and diagram that represent the same possible outcomes and equally/not equally likely chance events idea.
+**Question:** match the words, number sentence and diagram that represent the same possible outcomes and equally/not equally likely chance events idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1293,64 +1108,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find possible answers possible.
 
-### E23 — Reasoning check Change one number in a
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
-
-### E24 — Model based question Explain how you would
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Explain how you would teach this possible outcomes and equally/not equally likely chance events idea to a younger student using a simple model. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based would teach this possible outcomes equally.
-
-### E25 — Error check question Write a short investigation
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a short investigation connected to possible outcomes and equally/not equally likely chance events and describe what data or measurements you would need. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write short investigation connected possible outcomes.
-
-### E26 — Intermediate digital question Solve a problem that
+### E23 — Change one number in a
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a problem that combines possible outcomes and equally/not equally likely chance events with another Year 5 maths idea. Check the common trap before answering.
+**Question:** Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
+
+### E24 — Model based question Explain how you would
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Explain how you would teach this possible outcomes and equally/not equally likely chance events idea to a younger student using a simple model. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based would teach this possible outcomes equally.
+
+### E25 — Find and correct the error Write a short investigation
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a short investigation connected to possible outcomes and equally/not equally likely chance events and describe what data or measurements you would need. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write short investigation connected possible outcomes.
+
+### E26 — Solve a problem that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a problem that combines possible outcomes and equally/not equally likely chance events with another Year 5 maths idea. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1368,53 +1168,38 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task identify most likely trap.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a mini test question about possible outcomes and equally/not equally likely chance events with a clear marking guide worth 3 marks. Interpret the answer in the story context.
+**Question:** Solve a 3-mark problem about possible outcomes and equally/not equally likely chance events. Show the key working steps and include a final answer. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check mini test about possible outcomes equally.
 
 ### E29 — Model based question Write your own high
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write your own high-quality challenge question for AC9M5P01, then solve it fully. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write your high quality challenge ac9m5p01.
 
 ### E30 — A spinner has 5 equal sections red
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** A spinner has 5 equal sections: red, red, blue, green, yellow. Choose the most likely colour and the impossible colour if purple is included as an option.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing spinner equal sections blue green yellow most likely.

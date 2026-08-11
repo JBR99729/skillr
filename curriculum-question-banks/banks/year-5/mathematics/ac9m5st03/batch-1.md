@@ -42,18 +42,13 @@ review_status: authored
 
 ### P02 — Decide what data to collect to answer
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Decide what data to collect to answer: Which lunch option is most popular?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decide data collect lunch option most popular.
 
@@ -83,35 +78,25 @@ D. Reversed reasoning
 
 ### P05 — Choose an appropriate display for survey data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose an appropriate display for survey data about transport to school and justify it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing appropriate display survey data about transport school justify.
 
 ### P06 — Explain the difference between a question of
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the difference between a question of interest and a survey question.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between interest survey.
 
@@ -165,18 +150,13 @@ D. Reversed reasoning
 
 ### P11 — Choose categories for a survey about favourite
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose categories for a survey about favourite fruits. Make sure they do not overlap.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing categories survey about favourite fruits make sure they.
 
@@ -194,18 +174,13 @@ D. Reversed reasoning
 
 ### P13 — Explain why sample size matters when interpreting
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why sample size matters when interpreting data.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing sample size matters when interpreting data.
 
@@ -261,18 +236,13 @@ D. Reversed reasoning
 
 ### P18 — Explain why conclusions should mention the context
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why conclusions should mention the context, not just numbers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing conclusions should mention context just numbers.
 
@@ -290,18 +260,13 @@ D. Reversed reasoning
 
 ### P20 — Choose between a bar chart and line
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Choose between a bar chart and line graph for a given investigation. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing between chart line graph given investigation.
 
@@ -343,60 +308,45 @@ D. Reversed reasoning
 
 ### P24 — Explain the full investigation cycle question collect
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain the full investigation cycle: question, collect, represent, interpret, communicate.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing full investigation cycle collect represent interpret communicate.
 
 ### P25 — Solve a harder plan and conduct statistical
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a harder plan and conduct statistical investigations problem with at least two steps, and explain why each step is needed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder plan conduct statistical investigations problem least.
 
 ### P26 — Complete the structured template for a realistic
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a realistic Year 5 context for plan and conduct statistical investigations where a careless student might choose the wrong operation. Solve it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing realistic year context plan conduct statistical investigations careless.
 
-### P27 — Online version choose the diagram model that
+### P27 — choose the diagram model that
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: choose the diagram/model that best represents plan and conduct statistical investigations, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents plan and conduct statistical investigations, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -404,52 +354,37 @@ D. Reversed reasoning
 
 ### P28 — Compare two possible strategies for a plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two possible strategies for a plan and conduct statistical investigations question. Which is more efficient and why?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare possible strategies plan conduct statistical investigations more.
 
 ### P29 — Write a mistake a student might make
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a mistake a student might make with plan and conduct statistical investigations, then correct it clearly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write mistake might make plan conduct statistical investigations.
 
 ### P30 — Use estimation first then solve an exact
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use estimation first, then solve an exact plan and conduct statistical investigations problem and check whether the answer is reasonable.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact plan conduct statistical investigations.
 
@@ -467,52 +402,37 @@ D. Reversed reasoning
 
 ### P32 — Solve a missing value question connected to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a missing-value question connected to plan and conduct statistical investigations and justify the unknown value.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve missing value connected plan conduct statistical investigations.
 
 ### P33 — Write a true or false statement about
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a true-or-false statement about plan and conduct statistical investigations that needs proof, then prove or disprove it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write true false statement about plan conduct statistical.
 
-### P34 — Online version select the best labelled representation
+### P34 — select the best labelled representation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: select the best labelled representation for plan and conduct statistical investigations from three options, then identify one missing or incorrect label.
+**Question:** select the best labelled representation for plan and conduct statistical investigations from three options, then identify one missing or incorrect label.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online version best labelled representation plan conduct statistical.
 
@@ -532,35 +452,25 @@ D. Reversed reasoning
 
 ### P36 — Explain the key vocabulary in plan and
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the key vocabulary in plan and conduct statistical investigations using an example and a non-example.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing vocabulary plan conduct statistical investigations example example.
 
-### P37 — Create two questions about plan and conduct
+### P37 — solve two related problems about plan and conduct
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Create two questions about plan and conduct statistical investigations that have the same answer but require different reasoning.
+**Question:** solve two related problems about plan and conduct statistical investigations that have the same answer but require different reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing create questions about plan conduct statistical investigations have.
 
@@ -578,26 +488,21 @@ D. Reversed reasoning
 
 ### P39 — Write a question where rounding estimating or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write a question where rounding, estimating or checking prevents an unreasonable answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write rounding estimating checking prevents unreasonable.
 
-### P40 — Online version match the words number sentence
+### P40 — match the words number sentence
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: match the words, number sentence and diagram that represent the same plan and conduct statistical investigations idea.
+**Question:** match the words, number sentence and diagram that represent the same plan and conduct statistical investigations idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -605,18 +510,13 @@ D. Reversed reasoning
 
 ### P41 — Find all possible answers to a plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all possible answers to a plan and conduct statistical investigations puzzle with more than one solution, and explain how you know you found all.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find possible answers plan conduct statistical investigations puzzle.
 
@@ -634,18 +534,13 @@ D. Reversed reasoning
 
 ### P43 — Explain how you would teach this plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how you would teach this plan and conduct statistical investigations idea to a younger student using a simple model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing would teach this plan conduct statistical investigations idea.
 
@@ -691,7 +586,7 @@ D. Reversed reasoning
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Complete the structured template for a mini test question about plan and conduct statistical investigations with a clear marking guide worth 3 marks.
+**Question:** Solve a 3-mark problem about plan and conduct statistical investigations. Show the key working steps and include a final answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -723,18 +618,13 @@ D. Reversed reasoning
 
 ### P50 — Use the on screen options Decide what
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Decide what data to collect to answer: Which lunch option is most popular?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing decide data collect lunch option most popular.
 
@@ -766,35 +656,25 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer Choose an appropriate
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Choose an appropriate display for survey data about transport to school and justify it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best appropriate display survey data about transport school.
 
 ### P54 — Beginner digital question Explain the difference between
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Explain the difference between a question of interest and a survey question.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing difference between interest survey.
 
@@ -836,33 +716,23 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Write one biased
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Write one biased and one unbiased version of a question about homework.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best write biased unbiased version about homework.
 
 ### P59 — Beginner digital question Choose categories for a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Choose categories for a survey about favourite fruits. Make sure they do not overlap.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing categories survey about favourite fruits make sure they.
 
@@ -880,18 +750,13 @@ D. Reversed reasoning
 
 ### P61 — Complete the answer box Explain why sample
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Explain why sample size matters when interpreting data.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing sample size matters when interpreting data.
 
@@ -909,18 +774,13 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Complete the structured
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Complete the structured template for a dot plot for number of pets owned by students and describe the distribution.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best plot number pets owned students describe distribution.
 
@@ -950,18 +810,13 @@ D. Reversed reasoning
 
 ### P66 — Complete the answer box Explain why conclusions
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Explain why conclusions should mention the context, not just numbers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing conclusions should mention context just numbers.
 
@@ -979,18 +834,13 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Choose between a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Select the best answer: Choose between a bar chart and line graph for a given investigation. Explain.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best between chart line graph given investigation.
 
@@ -1048,35 +898,25 @@ D. Reversed reasoning
 
 ### E05 — Choose the best survey question to find
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the best survey question to find favourite lunch choices.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best survey find favourite lunch choices.
 
-### E06 — Intermediate digital question Solve a harder plan
+### E06 — Solve a harder plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a harder plan and conduct statistical investigations problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
+**Question:** Solve a harder plan and conduct statistical investigations problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder plan conduct statistical investigations problem least.
 
@@ -1092,13 +932,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task realistic year context plan.
 
-### E08 — Reasoning check Online version choose the diagram
+### E08 — choose the diagram
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Online version: choose the diagram/model that best represents plan and conduct statistical investigations, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents plan and conduct statistical investigations, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1106,54 +946,39 @@ D. Reversed reasoning
 
 ### E09 — Model based question Compare two possible strategies
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two possible strategies for a plan and conduct statistical investigations question. Which is more efficient and why? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare possible strategies plan conduct statistical.
 
-### E10 — Error check question Write a mistake a
+### E10 — Find and correct the error Write a mistake a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Write a mistake a student might make with plan and conduct statistical investigations, then correct it clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a mistake a student might make with plan and conduct statistical investigations, then correct it clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write mistake might make plan conduct.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Use estimation first then
+### E11 — Use estimation first then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use estimation first, then solve an exact plan and conduct statistical investigations problem and check whether the answer is reasonable. Check the common trap before answering.
+**Question:** Use estimation first, then solve an exact plan and conduct statistical investigations problem and check whether the answer is reasonable. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact plan conduct statistical investigations.
 
@@ -1169,64 +994,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task missing entries four table.
 
-### E13 — Reasoning check Solve a missing value question
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve a missing-value question connected to plan and conduct statistical investigations and justify the unknown value. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected plan conduct.
-
-### E14 — Model based question Write a true or
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a true-or-false statement about plan and conduct statistical investigations that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write true false statement about plan.
-
-### E15 — Error check question Online version select the
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Online version: select the best labelled representation for plan and conduct statistical investigations from three options, then identify one missing or incorrect label.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check online version best labelled representation plan.
-
-### E16 — Intermediate digital question Solve a multi step
+### E13 — Solve a missing value question
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a multi-step word problem involving plan and conduct statistical investigations and one distractor number that is not needed. Check the common trap before answering.
+**Question:** Solve a missing-value question connected to plan and conduct statistical investigations and justify the unknown value. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected plan conduct.
+
+### E14 — Model based question Write a true or
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a true-or-false statement about plan and conduct statistical investigations that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write true false statement about plan.
+
+### E15 — Find and correct the error select the
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: select the best labelled representation for plan and conduct statistical investigations from three options, then identify one missing or incorrect label.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check online version best labelled representation plan.
+
+### E16 — Solve a multi step
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a multi-step word problem involving plan and conduct statistical investigations and one distractor number that is not needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1244,64 +1054,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task vocabulary plan conduct statistical.
 
-### E18 — Reasoning check Create two questions about plan
+### E18 — solve two related problems about plan
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Create two questions about plan and conduct statistical investigations that have the same answer but require different reasoning. Interpret the answer in the story context.
+**Question:** solve two related problems about plan and conduct statistical investigations that have the same answer but require different reasoning. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check create questions about plan conduct statistical.
 
 ### E19 — Model based question Solve a challenge problem
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve a challenge problem where the answer must be interpreted in context, not just calculated. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve challenge problem must interpreted context.
 
-### E20 — Error check question Write a question where
+### E20 — Find and correct the error Write a question where
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write rounding estimating checking prevents unreasonable.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Online version match the
+### E21 — match the
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Online version: match the words, number sentence and diagram that represent the same plan and conduct statistical investigations idea.
+**Question:** match the words, number sentence and diagram that represent the same plan and conduct statistical investigations idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1319,64 +1114,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find possible answers plan.
 
-### E23 — Reasoning check Change one number in a
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
-
-### E24 — Model based question Explain how you would
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Explain how you would teach this plan and conduct statistical investigations idea to a younger student using a simple model. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based would teach this plan conduct statistical.
-
-### E25 — Error check question Write a short investigation
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a short investigation connected to plan and conduct statistical investigations and describe what data or measurements you would need. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write short investigation connected plan conduct.
-
-### E26 — Intermediate digital question Solve a problem that
+### E23 — Change one number in a
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a problem that combines plan and conduct statistical investigations with another Year 5 maths idea. Check the common trap before answering.
+**Question:** Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
+
+### E24 — Model based question Explain how you would
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Explain how you would teach this plan and conduct statistical investigations idea to a younger student using a simple model. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based would teach this plan conduct statistical.
+
+### E25 — Find and correct the error Write a short investigation
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a short investigation connected to plan and conduct statistical investigations and describe what data or measurements you would need. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write short investigation connected plan conduct.
+
+### E26 — Solve a problem that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a problem that combines plan and conduct statistical investigations with another Year 5 maths idea. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1394,53 +1174,38 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task identify most likely trap.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a mini test question about plan and conduct statistical investigations with a clear marking guide worth 3 marks. Interpret the answer in the story context.
+**Question:** Solve a 3-mark problem about plan and conduct statistical investigations. Show the key working steps and include a final answer. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check mini test about plan conduct statistical.
 
 ### E29 — Model based question Write your own high
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write your own high-quality challenge question for AC9M5ST03, then solve it fully. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write your high quality challenge ac9m5st03.
 
 ### E30 — Choose the best sample and question wording
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the best sample and question wording for investigating screen time in Year 5.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best sample wording investigating time year.

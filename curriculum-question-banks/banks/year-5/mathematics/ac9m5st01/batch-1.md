@@ -42,18 +42,13 @@ review_status: authored
 
 ### P02 — Collect data about favourite sports What type
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Collect data about favourite sports. What type of data is it and which display suits it?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing collect data about favourite sports type data display.
 
@@ -95,50 +90,35 @@ D. Reversed reasoning
 
 ### P06 — Explain why a rating from 1 to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Explain why a rating from 1 to 5 is ordinal, even though it uses numbers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rating ordinal even though uses numbers.
 
 ### P07 — Choose the best graph for eye colour
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Choose the best graph for eye colour data and explain why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best graph colour data.
 
 ### P08 — Choose the best graph for number of
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Choose the best graph for number of books read by each student and explain why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best graph number books read each.
 
@@ -192,18 +172,13 @@ D. Reversed reasoning
 
 ### P13 — Validate a class survey what errors would
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Validate a class survey: what errors would you check before graphing?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing validate class survey errors would check before graphing.
 
@@ -233,18 +208,13 @@ D. Reversed reasoning
 
 ### P16 — Explain why categories should not overlap in
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why categories should not overlap in a survey.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing categories should overlap survey.
 
@@ -276,18 +246,13 @@ D. Reversed reasoning
 
 ### P19 — Choose between a bar chart column graph
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Choose between a bar chart, column graph or dot plot for discrete numerical data. Justify.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing between chart column graph plot discrete numerical data.
 
@@ -305,18 +270,13 @@ D. Reversed reasoning
 
 ### P21 — Explain how online star ratings are ordinal
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how online star ratings are ordinal data.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online star ratings ordinal data.
 
@@ -346,62 +306,47 @@ D. Reversed reasoning
 
 ### P24 — Explain why the context of data matters
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain why the context of data matters when drawing conclusions.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing context data matters when drawing conclusions.
 
 ### P25 — Solve a harder data variables validation displays
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a harder data variables, validation, displays, mode and distribution shape problem with at least two steps, and explain why each step is needed.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder data variables validation displays mode distribution.
 
 ### P26 — Complete the structured template for a realistic
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the structured template for a realistic Year 5 context for data variables, validation, displays, mode and distribution shape where a careless student might choose the wrong operation. Solve it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing realistic year context data variables validation displays mode.
 
-### P27 — Online version choose the diagram model that
+### P27 — choose the diagram model that
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: choose the diagram/model that best represents data variables, validation, displays, mode and distribution shape, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents data variables, validation, displays, mode and distribution shape, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -409,52 +354,37 @@ D. Reversed reasoning
 
 ### P28 — Compare two possible strategies for a data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Compare two possible strategies for a data variables, validation, displays, mode and distribution shape question. Which is more efficient and why?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing compare possible strategies data variables validation displays mode.
 
 ### P29 — Write a mistake a student might make
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a mistake a student might make with data variables, validation, displays, mode and distribution shape, then correct it clearly.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write mistake might make data variables validation displays.
 
 ### P30 — Use estimation first then solve an exact
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use estimation first, then solve an exact data variables, validation, displays, mode and distribution shape problem and check whether the answer is reasonable.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact data variables validation displays.
 
@@ -472,52 +402,37 @@ D. Reversed reasoning
 
 ### P32 — Solve a missing value question connected to
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Solve a missing-value question connected to data variables, validation, displays, mode and distribution shape and justify the unknown value.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve missing value connected data variables validation displays.
 
 ### P33 — Write a true or false statement about
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Write a true-or-false statement about data variables, validation, displays, mode and distribution shape that needs proof, then prove or disprove it.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write true false statement about data variables validation.
 
-### P34 — Online version select the best labelled representation
+### P34 — select the best labelled representation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: select the best labelled representation for data variables, validation, displays, mode and distribution shape from three options, then identify one missing or incorrect label.
+**Question:** select the best labelled representation for data variables, validation, displays, mode and distribution shape from three options, then identify one missing or incorrect label.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online version best labelled representation data variables validation.
 
@@ -537,35 +452,25 @@ D. Reversed reasoning
 
 ### P36 — Explain the key vocabulary in data variables
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain the key vocabulary in data variables, validation, displays, mode and distribution shape using an example and a non-example.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing vocabulary data variables validation displays mode distribution shape.
 
-### P37 — Create two questions about data variables validation
+### P37 — solve two related problems about data variables validation
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Create two questions about data variables, validation, displays, mode and distribution shape that have the same answer but require different reasoning.
+**Question:** solve two related problems about data variables, validation, displays, mode and distribution shape that have the same answer but require different reasoning.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing create questions about data variables validation displays mode.
 
@@ -583,26 +488,21 @@ D. Reversed reasoning
 
 ### P39 — Write a question where rounding estimating or
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Write a question where rounding, estimating or checking prevents an unreasonable answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing write rounding estimating checking prevents unreasonable.
 
-### P40 — Online version match the words number sentence
+### P40 — match the words number sentence
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Online version: match the words, number sentence and diagram that represent the same data variables, validation, displays, mode and distribution shape idea.
+**Question:** match the words, number sentence and diagram that represent the same data variables, validation, displays, mode and distribution shape idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -610,18 +510,13 @@ D. Reversed reasoning
 
 ### P41 — Find all possible answers to a data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Find all possible answers to a data variables, validation, displays, mode and distribution shape puzzle with more than one solution, and explain how you know you found all.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing find possible answers data variables validation displays mode.
 
@@ -639,18 +534,13 @@ D. Reversed reasoning
 
 ### P43 — Explain how you would teach this data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Explain how you would teach this data variables, validation, displays, mode and distribution shape idea to a younger student using a simple model.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing would teach this data variables validation displays mode.
 
@@ -696,7 +586,7 @@ D. Reversed reasoning
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Complete the structured template for a mini test question about data variables, validation, displays, mode and distribution shape with a clear marking guide worth 3 marks.
+**Question:** Solve a 3-mark problem about data variables, validation, displays, mode and distribution shape. Show the key working steps and include a final answer.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -728,18 +618,13 @@ D. Reversed reasoning
 
 ### P50 — Use the on screen options Collect data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Use the on-screen options: Collect data about favourite sports. What type of data is it and which display suits it?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing collect data about favourite sports type data display.
 
@@ -771,67 +656,47 @@ D. Reversed reasoning
 
 ### P53 — Select the best answer Complete the structured
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Complete the structured template for a survey question about lunch choices with balanced answer options.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best survey about lunch choices balanced.
 
 ### P54 — Beginner digital question Explain why a rating
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Beginner digital question: Explain why a rating from 1 to 5 is ordinal, even though it uses numbers.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing rating ordinal even though uses numbers.
 
 ### P55 — Use the on screen options Choose the
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative.
 
 **Question:** Use the on-screen options: Choose the best graph for eye colour data and explain why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best graph colour data.
 
 ### P56 — Complete the answer box Choose the best
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Choose the best graph for number of books read by each student and explain why.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best graph number books read each.
 
@@ -849,18 +714,13 @@ D. Reversed reasoning
 
 ### P58 — Select the best answer Identify the mode
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Identify the mode in a bar chart where cats = 6, dogs = 9, birds = 3, fish = 9.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best identify mode chart cats dogs birds fish.
 
@@ -890,18 +750,13 @@ D. Reversed reasoning
 
 ### P61 — Complete the answer box Validate a class
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Complete the answer box: Validate a class survey: what errors would you check before graphing?
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing validate class survey errors would check before graphing.
 
@@ -919,35 +774,25 @@ D. Reversed reasoning
 
 ### P63 — Select the best answer Rewrite this biased
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Select the best answer: Rewrite this biased question: 'Don't you agree maths games are the best activity?'
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best rewrite this biased agree maths games best.
 
 ### P64 — Beginner digital question Explain why categories should
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Explain why categories should not overlap in a survey.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing categories should overlap survey.
 
@@ -989,16 +834,11 @@ D. Reversed reasoning
 
 ### P68 — Select the best answer Describe a data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Question:** Select the best answer: Describe a data distribution from a dot plot with two clusters.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing best describe data distribution plot clusters.
 
@@ -1008,18 +848,13 @@ D. Reversed reasoning
 
 ### E01 — Beginner digital question Explain how online star
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Beginner digital question: Explain how online star ratings are ordinal data.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing online star ratings ordinal data.
 
@@ -1071,20 +906,15 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing find mode.
 
-### E06 — Intermediate digital question Solve a harder data
+### E06 — Solve a harder data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a harder data variables, validation, displays, mode and distribution shape problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
+**Question:** Solve a harder data variables, validation, displays, mode and distribution shape problem with at least two steps, and explain why each step is needed. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing solve harder data variables validation displays mode distribution.
 
@@ -1100,13 +930,13 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task realistic year context data.
 
-### E08 — Reasoning check Online version choose the diagram
+### E08 — choose the diagram
 
 **Type:** Matching
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Online version: choose the diagram/model that best represents data variables, validation, displays, mode and distribution shape, then write the matching number sentence.
+**Question:** choose the diagram/model that best represents data variables, validation, displays, mode and distribution shape, then write the matching number sentence.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Each card must be matched to the representation with the same value or meaning.
 
@@ -1114,54 +944,39 @@ D. Reversed reasoning
 
 ### E09 — Model based question Compare two possible strategies
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Compare two possible strategies for a data variables, validation, displays, mode and distribution shape question. Which is more efficient and why? Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based compare possible strategies data variables validation.
 
-### E10 — Error check question Write a mistake a
+### E10 — Find and correct the error Write a mistake a
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Error-check question: Write a mistake a student might make with data variables, validation, displays, mode and distribution shape, then correct it clearly. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a mistake a student might make with data variables, validation, displays, mode and distribution shape, then correct it clearly. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write mistake might make data variables.
 
 ## Section B — Application and problem solving
 
-### E11 — Intermediate digital question Use estimation first then
+### E11 — Use estimation first then
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Use estimation first, then solve an exact data variables, validation, displays, mode and distribution shape problem and check whether the answer is reasonable. Check the common trap before answering.
+**Question:** Use estimation first, then solve an exact data variables, validation, displays, mode and distribution shape problem and check whether the answer is reasonable. Check the common trap before answering.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing estimation first solve exact data variables validation displays.
 
@@ -1177,64 +992,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task missing entries four table.
 
-### E13 — Reasoning check Solve a missing value question
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Solve a missing-value question connected to data variables, validation, displays, mode and distribution shape and justify the unknown value. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected data variables.
-
-### E14 — Model based question Write a true or
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Write a true-or-false statement about data variables, validation, displays, mode and distribution shape that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based write true false statement about data.
-
-### E15 — Error check question Online version select the
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Online version: select the best labelled representation for data variables, validation, displays, mode and distribution shape from three options, then identify one missing or incorrect label.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check online version best labelled representation data.
-
-### E16 — Intermediate digital question Solve a multi step
+### E13 — Solve a missing value question
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a multi-step word problem involving data variables, validation, displays, mode and distribution shape and one distractor number that is not needed. Check the common trap before answering.
+**Question:** Solve a missing-value question connected to data variables, validation, displays, mode and distribution shape and justify the unknown value. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check solve missing value connected data variables.
+
+### E14 — Model based question Write a true or
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Write a true-or-false statement about data variables, validation, displays, mode and distribution shape that needs proof, then prove or disprove it. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based write true false statement about data.
+
+### E15 — Find and correct the error select the
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: select the best labelled representation for data variables, validation, displays, mode and distribution shape from three options, then identify one missing or incorrect label.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check online version best labelled representation data.
+
+### E16 — Solve a multi step
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a multi-step word problem involving data variables, validation, displays, mode and distribution shape and one distractor number that is not needed. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1252,64 +1052,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task vocabulary data variables validation.
 
-### E18 — Reasoning check Create two questions about data
+### E18 — solve two related problems about data
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Create two questions about data variables, validation, displays, mode and distribution shape that have the same answer but require different reasoning. Interpret the answer in the story context.
+**Question:** solve two related problems about data variables, validation, displays, mode and distribution shape that have the same answer but require different reasoning. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check create questions about data variables validation.
 
 ### E19 — Model based question Solve a challenge problem
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Solve a challenge problem where the answer must be interpreted in context, not just calculated. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based solve challenge problem must interpreted context.
 
-### E20 — Error check question Write a question where
+### E20 — Find and correct the error Write a question where
 
-**Type:** Multiple choice
+**Type:** Short response
 
-**Question:** Error-check question: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
+**Question:** Find and correct the error: Write a question where rounding, estimating or checking prevents an unreasonable answer. Estimate first, then enter the exact answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing error check write rounding estimating checking prevents unreasonable.
 
 ## Section C — Extended response and analysis
 
-### E21 — Intermediate digital question Online version match the
+### E21 — match the
 
 **Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Online version: match the words, number sentence and diagram that represent the same data variables, validation, displays, mode and distribution shape idea.
+**Question:** match the words, number sentence and diagram that represent the same data variables, validation, displays, mode and distribution shape idea.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1327,64 +1112,49 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task find possible answers data.
 
-### E23 — Reasoning check Change one number in a
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Reasoning check: Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
-
-### E24 — Model based question Explain how you would
-
-**Type:** Multiple choice
-
-**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Model-based question: Explain how you would teach this data variables, validation, displays, mode and distribution shape idea to a younger student using a simple model. Choose the model or method that matches your answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing model based would teach this data variables validation.
-
-### E25 — Error check question Write a short investigation
-
-**Type:** Multiple choice
-
-**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
-
-**Question:** Error-check question: Write a short investigation connected to data variables, validation, displays, mode and distribution shape and describe what data or measurements you would need. Estimate first, then enter the exact answer.
-
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
-
-**Coverage:** Online Year 5 task assessing error check write short investigation connected data variables.
-
-### E26 — Intermediate digital question Solve a problem that
+### E23 — Change one number in a
 
 **Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Intermediate digital question: Solve a problem that combines data variables, validation, displays, mode and distribution shape with another Year 5 maths idea. Check the common trap before answering.
+**Question:** Change one number in a solved example so the problem becomes harder, then solve the new version. Interpret the answer in the story context.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing reasoning check change number solved example problem becomes.
+
+### E24 — Model based question Explain how you would
+
+**Type:** Short response
+
+**Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Model-based question: Explain how you would teach this data variables, validation, displays, mode and distribution shape idea to a younger student using a simple model. Choose the model or method that matches your answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing model based would teach this data variables validation.
+
+### E25 — Find and correct the error Write a short investigation
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Find and correct the error: Write a short investigation connected to data variables, validation, displays, mode and distribution shape and describe what data or measurements you would need. Estimate first, then enter the exact answer.
+
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
+
+**Coverage:** Online Year 5 task assessing error check write short investigation connected data variables.
+
+### E26 — Solve a problem that
+
+**Type:** Short response
+
+**Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
+
+**Question:** Solve a problem that combines data variables, validation, displays, mode and distribution shape with another Year 5 maths idea. Check the common trap before answering.
 
 **Marking key:** Award credit for the mathematically correct response and for satisfying every stated condition. Use the platform answer key to store the exact accepted value, equivalent value or selected option.
 
@@ -1402,53 +1172,38 @@ D. Reversed reasoning
 
 **Coverage:** Online Year 5 task assessing multi step online task identify most likely trap.
 
-### E28 — Reasoning check Complete the structured template for
+### E28 — Complete the structured template for
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
-**Question:** Reasoning check: Complete the structured template for a mini test question about data variables, validation, displays, mode and distribution shape with a clear marking guide worth 3 marks. Interpret the answer in the story context.
+**Question:** Solve a 3-mark problem about data variables, validation, displays, mode and distribution shape. Show the key working steps and include a final answer. Interpret the answer in the story context.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing reasoning check mini test about data variables validation.
 
 ### E29 — Model based question Write your own high
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Online, provide movable cards with drag, tap-to-place and keyboard controls. Show the required on-screen visual, model or widget; include an accessible text alternative. Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** Model-based question: Write your own high-quality challenge question for AC9M5ST01, then solve it fully. Choose the model or method that matches your answer.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing model based write your high quality challenge ac9m5st01.
 
 ### E30 — For the data 2 3 3 5
 
-**Type:** Multiple choice
+**Type:** Short response
 
 **Delivery:** Place units outside numeric answer boxes and accept equivalent spacing or decimal formats.
 
 **Question:** For the data 2, 3, 3, 5, 8, 8, 8, choose the mode and describe the distribution shape.
 
-A. Correct response
-B. Place-value or calculation distractor
-C. Incomplete response
-D. Reversed reasoning
-
-**Correct answer:** A. Correct response; configure the final platform option text to match the authored answer.
+**Marking key:** Award credit for a mathematically correct response with clear working, correct units or labels where relevant, and a brief explanation that matches the question conditions.
 
 **Coverage:** Online Year 5 task assessing data mode describe distribution shape.
