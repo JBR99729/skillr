@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "expectedCodes": 55,
+  "completedCodes": 55,
+  "subjectCounts": {
+    "English": 30,
+    "Mathematics": 15,
+    "Science": 10
+  },
+  "practiceQuestions": 440,
+  "testQuestions": 440,
+  "launchQuestions": 880,
+  "worksheetQuestionsPerAttempt": 10,
+  "worksheetPracticeSelection": 5,
+  "worksheetTestSelection": 5,
+  "errors": []
+}
