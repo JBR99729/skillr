@@ -26,12 +26,19 @@ jobs:
           node <<'NODE'
           const fs = require('fs');
           const vm = require('vm');
-          const chunks = [1,2,3].map((n) => {
+
+          const chunkWindow = { __skillrFoundationBankChunks: [] };
+          const chunkContext = { window: chunkWindow };
+          vm.createContext(chunkContext);
+          for (let n = 1; n <= 3; n += 1) {
             const text = fs.readFileSync(`quiz/assets/foundation-maths-approved-banks-${n}.js`, 'utf8');
-            const match = text.match(/Chunks\[\d+\]\s*=\s*"([A-Za-z0-9+/=]+)"/);
-            if (!match) throw new Error(`Could not read bank chunk ${n}`);
-            return match[1];
-          });
+            vm.runInContext(text, chunkContext, { filename: `foundation-bank-chunk-${n}.js` });
+          }
+          const chunks = chunkWindow.__skillrFoundationBankChunks;
+          if (chunks.length !== 3 || chunks.some((chunk) => typeof chunk !== 'string' || !chunk.length)) {
+            throw new Error(`Expected three non-empty chunks, received ${chunks.map((x) => typeof x).join(', ')}`);
+          }
+
           const source = Buffer.from(chunks.join(''), 'base64').toString('utf8');
           const window = { location: { pathname: '/quiz/grade-k/math/ac9mfn03/practice/' } };
           const document = {
@@ -40,26 +47,51 @@ jobs:
             querySelector() { return null; },
             querySelectorAll() { return []; }
           };
-          const context = { window, document, console, TextDecoder, TextEncoder, URL, setTimeout, clearTimeout };
+          const context = {
+            window,
+            document,
+            console,
+            TextDecoder,
+            TextEncoder,
+            URL,
+            setTimeout,
+            clearTimeout,
+            atob: (value) => Buffer.from(value, 'base64').toString('binary'),
+            btoa: (value) => Buffer.from(value, 'binary').toString('base64')
+          };
           vm.createContext(context);
           const before = new Set(Object.keys(window));
-          vm.runInContext(source, context, { filename: 'foundation-authored-source.js' });
+          let evaluationError = null;
+          try {
+            vm.runInContext(source, context, { filename: 'foundation-authored-source.js' });
+          } catch (error) {
+            evaluationError = { name: error.name, message: error.message, stack: error.stack };
+          }
+
           const added = Object.keys(window).filter((key) => !before.has(key));
           const inspect = {};
           for (const key of Object.keys(window)) {
             const value = window[key];
             if (Array.isArray(value)) {
-              inspect[key] = { type: 'array', length: value.length, sampleKeys: Object.keys(value[0] || {}) };
+              inspect[key] = {
+                type: 'array',
+                length: value.length,
+                sampleKeys: Object.keys(value[0] || {}),
+                sample: value[0] || null
+              };
             } else if (value && typeof value === 'object') {
-              inspect[key] = { type: 'object', keys: Object.keys(value).slice(0,50) };
+              inspect[key] = { type: 'object', keys: Object.keys(value).slice(0, 100) };
             } else {
               inspect[key] = { type: typeof value };
             }
           }
+
           fs.writeFileSync('foundation-bank-diagnostics.json', JSON.stringify({
+            chunkLengths: chunks.map((chunk) => chunk.length),
             sourceLength: source.length,
-            sourceHead: source.slice(0,1200),
-            sourceTail: source.slice(-4000),
+            sourceHead: source.slice(0, 1800),
+            sourceTail: source.slice(-8000),
+            evaluationError,
             added,
             inspect
           }, null, 2));
