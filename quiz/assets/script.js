@@ -199,6 +199,29 @@ document.addEventListener("DOMContentLoaded", () => {
     ...(window.quizConfig || {})
   };
 
+  const isPracticePage =
+    /\/practice\/(?:index\.html)?$/.test(
+      window.location.pathname
+    );
+
+  if (isPracticePage) {
+    config.preReadSeconds = 0;
+
+    const preparationNotes =
+      document.querySelector(".pre-read-notes");
+    const teacherSlideSummary =
+      preparationNotes?.querySelector("li");
+    const introduction =
+      document.querySelector(".intro-text");
+
+    if (teacherSlideSummary && introduction) {
+      introduction.textContent =
+        teacherSlideSummary.textContent;
+    }
+
+    preparationNotes?.remove();
+  }
+
   const elements = {
     startScreen: document.getElementById("startScreen"),
     quizScreen: document.getElementById("quizScreen"),
