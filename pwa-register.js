@@ -1,6 +1,11 @@
 (() => {
   "use strict";
 
+  const path = window.location.pathname;
+  const foundationSciencePractice = /^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/practice\/?$/i.test(path);
+  const foundationScienceWorksheet = /^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const foundationScienceTopic = /^\/foundation\/science\/ac9s/i.test(path);
+
   if (!document.querySelector('script[data-skillr-display-only]')) {
     const displayOnlyScript = document.createElement("script");
     displayOnlyScript.src = "/assets/display-only.js?v=1";
@@ -29,14 +34,14 @@
     document.head.appendChild(mathsQuickReadScript);
   }
 
-  if (!document.querySelector('script[data-skillr-foundation-science-quick-read]')) {
+  if (foundationSciencePractice && !document.querySelector('script[data-skillr-foundation-science-quick-read]')) {
     const scienceQuickReadScript = document.createElement("script");
-    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=1";
+    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=2";
     scienceQuickReadScript.dataset.skillrFoundationScienceQuickRead = "true";
     document.head.appendChild(scienceQuickReadScript);
   }
 
-  if (!document.querySelector('script[data-skillr-foundation-science-worksheet]')) {
+  if (foundationScienceWorksheet && !document.querySelector('script[data-skillr-foundation-science-worksheet]')) {
     const scienceWorksheetScript = document.createElement("script");
     scienceWorksheetScript.src = "/assets/foundation-science-worksheet-page.js?v=1";
     scienceWorksheetScript.dataset.skillrFoundationScienceWorksheet = "true";
@@ -44,7 +49,7 @@
   }
 
   const foundationMathsTopic =
-    /^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) &&
+    /^\/foundation\/maths\/ac9mf/i.test(path) &&
     !document.getElementById("teaching-lesson");
 
   if (foundationMathsTopic && !window.SkillrFoundationMaths) {
@@ -66,8 +71,6 @@
 
     loadLessonScript(0);
   }
-
-  const foundationScienceTopic = /^\/foundation\/science\/ac9s/i.test(window.location.pathname);
 
   if (foundationScienceTopic && !document.querySelector('script[data-skillr-foundation-science-render]')) {
     const scienceScripts = [
