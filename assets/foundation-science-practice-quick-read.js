@@ -35,6 +35,20 @@
     }[char]));
   }
 
+  const plain = (value) => String(value || "")
+    .replace(/<br\s*\/?\s*>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  function solvedExample(unit) {
+    if (unit.solved_example) return unit.solved_example;
+    const source = plain(unit.apply_html || unit.model_html || unit.quick?.[0] || "");
+    if (!source) return "Use one example from the lesson model, then explain the evidence in your own words.";
+    return source.length > 165 ? `${source.slice(0, 162).trim()}…` : source;
+  }
+
   function ensureStyle() {
     if (document.getElementById("skillr-science-practice-quick-read-style")) return;
     const style = document.createElement("style");
@@ -94,6 +108,7 @@
     const items = [
       `<strong>Core idea:</strong> ${esc(unit.learn)}`,
       `<strong>Teaching model:</strong> ${esc(unit.model_title)}.`,
+      `<strong>Solved example:</strong> ${esc(solvedExample(unit))}`,
       `<strong>Use it:</strong> ${esc(unit.apply_title)}.`,
       firstMixUp ? `<strong>Common Mix-Up:</strong> ${esc(firstMixUp[0])} — ${esc(firstMixUp[1])}` : null
     ].filter(Boolean);
