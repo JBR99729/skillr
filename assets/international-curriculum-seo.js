@@ -22,7 +22,8 @@
     AC9M1A01:{vic:'VC2M1A01',nsw:'MA1-RWN-01 + MA1-FG-01',note:'recognising and continuing number patterns including skip-counting; closest NSW Stage 1 whole-number and flexible-strategy outcomes'},
     AC9M1M01:{vic:'VC2M1M01',nsw:'MA1-GM-02',note:'measuring, comparing and ordering lengths using informal uniform units; closest NSW Stage 1 geometric-measure outcome'},
     AC9M1M02:{vic:'VC2M1M02',nsw:'MA1-NSM-02',note:'measuring and comparing duration and sequencing events using familiar units of time; closest NSW Stage 1 non-spatial measure outcome'},
-    AC9M1M03:{vic:'VC2M1M03',nsw:'MA1-NSM-02',note:'describing and reading time on clocks and relating time to everyday events; closest NSW Stage 1 non-spatial measure outcome'}
+    AC9M1M03:{vic:'VC2M1M03',nsw:'MA1-NSM-02',note:'describing and reading time on clocks and relating time to everyday events; closest NSW Stage 1 non-spatial measure outcome'},
+    AC9M1SP01:{vic:'VC2M1SP01',nsw:'MA1-2DS-01 + MA1-3DS-01',note:'recognising, classifying and describing two-dimensional shapes and three-dimensional objects; NSW separates 2D and 3D geometry outcomes'}
   };
   function yearLabels(meta){var y=(meta.year||'').toLowerCase();if(y==='foundation')return{vic:'Victorian Foundation',nsw:'NSW Early Stage 1',us:'US Kindergarten',uk:'England Reception'};var m=y.match(/year\s*(\d+)/);if(!m)return null;var n=Number(m[1]);return{vic:'Victorian Year '+n,nsw:'NSW '+(n<=2?'Stage 1':n<=4?'Stage 2':n<=6?'Stage 3':n<=8?'Stage 4':'Stage 5'),us:'US Grade '+n,uk:'England Year '+n};}
   function subjectTopic(meta){var s=(meta.subject||'').toLowerCase(),t=meta.title||'';if(s==='maths')return t+' maths';if(s==='science')return t+' science';if(s==='english')return t+' English';return t;}
