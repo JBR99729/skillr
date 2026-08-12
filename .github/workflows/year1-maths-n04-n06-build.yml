@@ -22,13 +22,18 @@ jobs:
         with:
           node-version: 22
 
-      - name: Reconstruct and apply the reviewed banks
+      - name: Generate and apply the reviewed banks
         shell: bash
         run: |
           set -euo pipefail
-          cat scripts/y1-n04-n06-package-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/year1-maths-n04-n06.tar.gz
-          gzip -t /tmp/year1-maths-n04-n06.tar.gz
-          tar -xzf /tmp/year1-maths-n04-n06.tar.gz -C .
+          mkdir -p /tmp/year1-maths-n04-n06-generator
+          cat scripts/y1-n04-n06-generator-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/year1-maths-n04-n06-generator.tar.gz
+          gzip -t /tmp/year1-maths-n04-n06-generator.tar.gz
+          tar -xzf /tmp/year1-maths-n04-n06-generator.tar.gz -C /tmp/year1-maths-n04-n06-generator
+          python /tmp/year1-maths-n04-n06-generator/generate-year1-maths-n04-n06.py
+          python /tmp/year1-maths-n04-n06-generator/improve-year1-maths-n04-n06.py
+          cp /tmp/year1-maths-n04-n06-generator/apply-year1-maths-n04-n06.js scripts/apply-year1-maths-n04-n06.js
+          cp /tmp/year1-maths-n04-n06-generator/validate-year1-maths-n04-n06.js scripts/validate-year1-maths-n04-n06.js
           node scripts/apply-year1-maths-n04-n06.js
 
       - name: Validate educational and technical quality gates
@@ -49,7 +54,7 @@ jobs:
       - name: Remove temporary packaging inputs
         shell: bash
         run: |
-          rm -rf scripts/y1-n04-n06-package-b64
+          rm -rf scripts/y1-n04-n06-generator-b64
           rm -f scripts/apply-year1-maths-n04-n06.js
           rm -f .github/workflows/year1-maths-n04-n06-build.yml
 
