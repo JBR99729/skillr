@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v9";
-const STATIC_CACHE_NAME = "skillrhub-static-v7";
+const CACHE_NAME = "skillrhub-pwa-v10";
+const STATIC_CACHE_NAME = "skillrhub-static-v8";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -85,6 +85,7 @@ self.addEventListener("fetch", (event) => {
     (
       url.pathname === "/pwa-register.js" ||
       url.pathname === "/quiz/assets/script.js" ||
+      url.pathname === "/assets/qa-complete-badges.js" ||
       url.pathname === "/assets/foundation-maths-practice-quick-read.js" ||
       url.pathname === "/quiz/assets/foundation-maths-rebuild.js" ||
       url.pathname === "/quiz/assets/daily-drills/foundation-rebuild-extensions.js" ||
