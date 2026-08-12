@@ -19,9 +19,9 @@
     if (/^\/year4\/maths\/ac9m4/.test(path)) return true;
     if (/^\/quiz\/year-4\/math\/ac9m4/.test(path)) return true;
     if (/^\/worksheets\/year4\/maths\/teacher-slides\//.test(path)) return true;
-    if (/^\/year[1-6]\/(maths|science|english)\//.test(path)) return true;
-    if (/^\/quiz\/(grade-k|year-[1-6])\/(math|maths|science|english)\//.test(path)) return true;
-    if (/^\/worksheets\/(foundation|year[1-6])\/(maths|science|english)\//.test(path)) return true;
+    if (/^\/year[1-7]\/(maths|science|english)\//.test(path)) return true;
+    if (/^\/quiz\/(grade-k|year-[1-7])\/(math|maths|science|english)\//.test(path)) return true;
+    if (/^\/worksheets\/(foundation|year[1-7])\/(maths|science|english)\//.test(path)) return true;
     return false;
   }
 
