@@ -15,6 +15,13 @@
     document.head.appendChild(professionalUiScript);
   }
 
+  if (!document.querySelector('script[data-skillr-foundation-science-prototype-ui]')) {
+    const sciencePrototypeScript = document.createElement("script");
+    sciencePrototypeScript.src = "/assets/foundation-science-prototype-ui.js?v=1";
+    sciencePrototypeScript.dataset.skillrFoundationSciencePrototypeUi = "true";
+    document.head.appendChild(sciencePrototypeScript);
+  }
+
   const foundationMathsTopic =
     /^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) &&
     !document.getElementById("teaching-lesson");
