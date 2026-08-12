@@ -334,7 +334,12 @@ h3 {
 .summary-label {
   margin-top: 5px;
   color: var(--muted);
-  font-size: 0.86rem;
+  font-size: 0.78rem;
+  line-height: 1.25;
+}
+
+.quiz-summary.is-practice-summary {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 
@@ -1475,5 +1480,12 @@ h3 {
 
   .practice-info-note {
     padding: 16px;
+  }
+}
+
+
+@media (max-width: 640px) {
+  .quiz-summary.is-practice-summary {
+    grid-template-columns: 1fr;
   }
 }
