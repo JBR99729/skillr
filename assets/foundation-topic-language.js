@@ -4,7 +4,39 @@
   if (window.__skillrFoundationTopicLanguageLoaded) return;
   window.__skillrFoundationTopicLanguageLoaded = true;
 
-  if (!/^\/(foundation|year1)\//i.test(window.location.pathname)) return;
+  const path = window.location.pathname;
+  const isFoundationOrYear1Topic = /^\/(foundation|year1)\//i.test(path);
+  const year1EnglishPracticeTest = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
+  const year1EnglishWorksheet = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const year1EnglishTopic = /^\/year1\/english\/ac9e1/i.test(path);
+
+  if (!isFoundationOrYear1Topic && !year1EnglishPracticeTest && !year1EnglishWorksheet) return;
+
+  function loadScript(src, datasetName) {
+    if (datasetName && document.querySelector(`script[data-${datasetName}]`)) return;
+    if ([...document.scripts].some((script) => script.src.includes(src.split("?")[0]))) return;
+    const script = document.createElement("script");
+    script.src = src;
+    script.async = false;
+    if (datasetName) script.dataset[datasetName.replace(/-([a-z])/g, (_, letter) => letter.toUpperCase())] = "true";
+    document.head.appendChild(script);
+  }
+
+  if (year1EnglishPracticeTest) {
+    loadScript("/assets/year1-english-practice-quick-read.js?v=1", "skillr-year1-english-quick-read");
+  }
+
+  if (year1EnglishWorksheet) {
+    loadScript("/assets/year1-english-worksheet-page.js?v=1", "skillr-year1-english-worksheet");
+  }
+
+  if (year1EnglishTopic) {
+    loadScript("/assets/year1-english-data.js?v=1", "skillr-year1-english-data");
+    const loadRenderer = () => loadScript("/assets/year1-english-render.js?v=1", "skillr-year1-english-render");
+    if (window.SkillrYear1EnglishData) loadRenderer();
+    else window.addEventListener("load", loadRenderer, { once: true });
+    setTimeout(loadRenderer, 250);
+  }
 
   function cleanHeadings() {
     document.querySelectorAll("h2,h3").forEach((heading) => {
