@@ -6,7 +6,7 @@
   const match = location.pathname.match(/\/year2\/science\/(ac9s2[a-z0-9]+)/i);
   const code = (window.skillrPageMeta?.curriculumCode || match?.[1] || "").toUpperCase();
   const unit = UNITS[code];
-  const QA_COMPLETE = new Set(["AC9S2U01", "AC9S2U02", "AC9S2U03", "AC9S2H01", "AC9S2I01", "AC9S2I02", "AC9S2I03", "AC9S2I04", "AC9S2I05"]);
+  const QA_COMPLETE = new Set(["AC9S2U01", "AC9S2U02", "AC9S2U03", "AC9S2H01", "AC9S2I01", "AC9S2I02", "AC9S2I03", "AC9S2I04", "AC9S2I05", "AC9S2I06"]);
   if (!unit) return;
 
   const q = (selector, root = document) => root.querySelector(selector);
