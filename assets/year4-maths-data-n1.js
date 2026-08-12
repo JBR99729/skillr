@@ -74,7 +74,7 @@
         {type:"fill-blank",question:"Complete the parity rule.",template:"odd + odd = {{blank}}"},
         {type:"single",question:"Without calculating exactly, what is the parity of 37 × 25?",answers:["odd","even","cannot be known","both odd and even"]},
         {type:"text",question:"Use a pairing argument to explain why the sum of two odd numbers is even."},
-        {type:"match",question:"Match each expression type to its parity.",matchLeft:["even + odd","odd × odd","even × odd"],matchRight:["even","odd","odd"]},
+        {type:"match",question:"Match each expression type to its parity.",matchLeft:["even + odd","odd × odd","even × odd"],matchRight:["even product","odd sum","odd product"]},
         {type:"fill-blank",question:"Complete the prediction.",template:"9 999 − 624 is {{blank}} because odd − even has the same parity as odd + even."},
         {type:"text",question:"Determine whether 4 382 + 7 915 is odd or even without finding the exact sum. Explain."},
         {type:"text",question:"A student claims all odd numbers are prime because 3, 5 and 7 are prime. Give a counterexample and explain the distinction."},
