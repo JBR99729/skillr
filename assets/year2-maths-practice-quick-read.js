@@ -10,12 +10,12 @@
   const mode = match[2].toLowerCase();
 
   const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;" }[char]));
-  const plain = (value) => String(value || "").replace(/<br\s*\/?\s*>/gi, " ").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
+  const plain = (value) => String(value || "").replace(/<br\s*\/?\s*>/gi," ").replace(/<[^>]+>/g," ").replace(/&nbsp;/g," ").replace(/\s+/g," ").trim();
 
-  function loadData() {
+  function loadScript(src) {
     return new Promise((resolve, reject) => {
-      if (window.SkillrYear2MathsData?.[code]) return resolve();
-      const existing = [...document.scripts].find((script) => script.src.includes("/assets/year2-maths-data.js"));
+      const base = src.split("?")[0];
+      const existing = [...document.scripts].find((script) => script.src.includes(base));
       if (existing) {
         existing.addEventListener("load", resolve, { once: true });
         existing.addEventListener("error", reject, { once: true });
@@ -23,12 +23,17 @@
         return;
       }
       const script = document.createElement("script");
-      script.src = "/assets/year2-maths-data.js?v=1";
+      script.src = src;
       script.async = false;
-      script.onload = resolve;
-      script.onerror = reject;
+      script.addEventListener("load", resolve, { once: true });
+      script.addEventListener("error", reject, { once: true });
       document.head.appendChild(script);
     });
+  }
+
+  async function loadData() {
+    if (!window.SkillrYear2MathsData?.[code]) await loadScript("/assets/year2-maths-data.js?v=2");
+    if (!window.SkillrYear2MathsData?.[code]) await loadScript("/assets/year2-maths-data-extra.js?v=1");
   }
 
   function ensureStyle() {
@@ -47,17 +52,14 @@
       #startScreen .pre-read-notes ul{margin:8px 0 0;padding-left:1.1rem}
       #startScreen .pre-read-notes li{font-size:.81rem;line-height:1.4;margin:3px 0}
       .year2-maths-quick-visuals{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 8px}
-      .year2-maths-quick-visuals figure{margin:0;border:1px solid #d9e5f5;border-radius:12px;background:#fff;padding:7px;overflow:hidden}
+      .year2-maths-quick-visuals figure{margin:0;border:1px solid #d9e5f5;border-radius:12px;background:#fff;padding:7px;overflow:hidden;min-height:82px}
       .year2-maths-quick-visuals figcaption{margin-top:4px;color:#173968;font-size:.68rem;font-weight:900;text-transform:uppercase;letter-spacing:.04em}
-      .year2-maths-quick-visuals .math-model-board{padding:0;border:0;background:transparent;margin:0}.year2-maths-quick-visuals p{display:none}.year2-maths-quick-visuals .math-card-row{display:none}
+      .year2-maths-quick-visuals .math-model-board{padding:0;border:0;background:transparent;margin:0}.year2-maths-quick-visuals p{display:none}
+      .year2-maths-quick-visuals .math-card-row{display:flex!important;flex-wrap:wrap;gap:4px;margin:0}.year2-maths-quick-visuals .math-card-row span{display:inline-flex;align-items:center;justify-content:center;min-height:28px;border:1px solid #d9e5f5;border-radius:8px;background:#fff;padding:5px 6px;color:#173968;font-size:.62rem;font-weight:900}
       .year2-maths-quick-visuals .y2-base-ten{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;margin:0}.year2-maths-quick-visuals .y2-block{display:grid;place-items:center;min-height:42px;border:1px solid #d8e5f4;border-radius:8px;background:#fff}.year2-maths-quick-visuals .y2-block strong{font-size:.95rem;color:#2457d6}.year2-maths-quick-visuals .y2-block span{font-size:.52rem;font-weight:900;color:#49627f;text-transform:uppercase}.year2-maths-quick-visuals .y2-hundreds{background:linear-gradient(90deg,rgba(36,87,214,.08) 1px,transparent 1px),linear-gradient(rgba(36,87,214,.08) 1px,transparent 1px),#fff;background-size:8px 8px}.year2-maths-quick-visuals .y2-tens{background:repeating-linear-gradient(90deg,#fff 0 7px,#edf5ff 7px 14px)}.year2-maths-quick-visuals .y2-ones{background:radial-gradient(circle at 10px 10px,rgba(36,87,214,.22) 0 3px,transparent 4px),#fff;background-size:20px 20px}
       .year2-maths-quick-visuals .y2-number-line{padding:8px;margin:0;border:1px solid #d9e5f5;background:#fff;border-radius:9px}.year2-maths-quick-visuals .y2-number-line__rail{position:relative;height:12px;border-bottom:3px solid #173968;margin:0 7px 4px}.year2-maths-quick-visuals .y2-number-line__rail::before,.year2-maths-quick-visuals .y2-number-line__rail::after{content:'';position:absolute;bottom:-6px;width:2px;height:10px;background:#173968}.year2-maths-quick-visuals .y2-number-line__rail::before{left:0}.year2-maths-quick-visuals .y2-number-line__rail::after{right:0}.year2-maths-quick-visuals .y2-number-line__rail span{position:absolute;bottom:-6px;width:12px;height:12px;border-radius:999px;background:#2457d6;transform:translateX(-50%)}.year2-maths-quick-visuals .y2-number-line__labels{display:flex;justify-content:space-between;font-size:.53rem;color:#49627f}
       .year2-maths-quick-visuals .y2-chart-puzzle{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;margin:0;padding:5px;background:#eef5ff;border:1px solid #d9e5f5;border-radius:9px}.year2-maths-quick-visuals .y2-chart-puzzle span{background:#fff;border:1px solid #d9e5f5;border-radius:7px;text-align:center;padding:5px 2px;font-size:.62rem;font-weight:900;color:#173968}
-      #startScreen .quiz-summary{margin:13px 0;gap:8px}
-      #startScreen .quiz-summary>div{padding:9px 8px}
-      #startScreen .summary-number{font-size:1.2rem}
-      #startScreen .summary-label{font-size:.75rem}
-      #startScreen .button{min-height:42px;padding:9px 16px}
+      #startScreen .quiz-summary{margin:13px 0;gap:8px}#startScreen .quiz-summary>div{padding:9px 8px}#startScreen .summary-number{font-size:1.2rem}#startScreen .summary-label{font-size:.75rem}#startScreen .button{min-height:42px;padding:9px 16px}
       @media(max-width:650px){.skillr-quiz-brandbar{display:block}.skillr-quiz-brandbar small{display:block;text-align:left;margin-top:3px}.year2-maths-quick-visuals{grid-template-columns:1fr}}
     `;
     document.head.appendChild(style);
@@ -114,10 +116,12 @@
     return true;
   }
 
-  loadData().then(() => {
-    if (apply()) return;
-    const observer = new MutationObserver(() => { if (apply()) observer.disconnect(); });
-    observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
-    setTimeout(() => observer.disconnect(), 3000);
-  }).catch((error) => console.error("Skillr Year 2 Maths Quick Read failed:", error));
+  loadData()
+    .then(() => {
+      if (apply()) return;
+      const observer = new MutationObserver(() => { if (apply()) observer.disconnect(); });
+      observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
+      setTimeout(() => observer.disconnect(), 3000);
+    })
+    .catch((error) => console.error("Skillr Year 2 Maths Quick Read failed:", error));
 })();
