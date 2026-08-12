@@ -2575,22 +2575,44 @@ footer {
 
 
 /* Compact footer utility navigation */
-.footer-nav {
+.home-page footer {
+    margin-top: 32px;
+    padding: 16px 0 8px;
+    color: #475569;
+    font-size: 0.8125rem;
+    line-height: 1.45;
+    text-align: center;
+}
+
+.home-page footer p {
+    max-width: 920px;
+    margin: 4px auto 0;
+}
+
+.home-page .footer-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 8px 24px;
-    margin-bottom: 16px;
+    gap: 4px 16px;
+    margin: 0 0 8px;
+    padding: 0;
 }
 
-.footer-nav a {
+.home-page .footer-nav a,
+.home-page .footer-nav a:visited {
+    width: auto;
+    padding: 2px 0;
     color: #334155;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     font-weight: 700;
-    text-underline-offset: 4px;
+    line-height: 1.25;
+    text-decoration-color: #94a3b8;
+    text-underline-offset: 3px;
 }
 
-.footer-nav a:hover,
-.footer-nav a:focus-visible {
+.home-page .footer-nav a:hover,
+.home-page .footer-nav a:focus-visible {
     color: #2563eb;
+    text-decoration-color: currentColor;
+    transform: none;
 }
