@@ -12,21 +12,13 @@
 
   const ICONS = [
     "🧠", "🎯", "🎨", "🔎", "🖐️", "🖐", "⚠️", "⚠", "✏️", "✏",
-    "✅", "📘", "🧑‍🏫", "🌏", "🔗", "📚", "▶️", "▶", "🧭"
+    "✅", "❌", "📘", "🧑‍🏫", "🌏", "🔗", "📚", "▶️", "▶", "🧭"
   ];
 
-  function stripLeadingIcon(element) {
-    if (!element) return;
-    let text = element.textContent || "";
-    let changed = false;
-    for (const icon of ICONS) {
-      if (text.trimStart().startsWith(icon)) {
-        text = text.trimStart().slice(icon.length).trimStart();
-        changed = true;
-        break;
-      }
-    }
-    if (changed) element.textContent = text;
+  function cleanText(text) {
+    let value = text;
+    for (const icon of ICONS) value = value.split(icon).join("");
+    return value.replace(/[ \t]{2,}/g, " ");
   }
 
   function removeHelperHint() {
@@ -36,14 +28,23 @@
   }
 
   function cleanDecorativeIcons() {
-    const selectors = [
-      ".menu-title",
-      ".lesson-part__head h3",
-      ".curriculum-panel h2",
-      ".flow span",
-      ".tag"
-    ];
-    document.querySelectorAll(selectors.join(",")).forEach(stripLeadingIcon);
+    if (!document.body) return;
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach((node) => {
+      const parent = node.parentElement;
+      if (!parent || parent.closest("script,style,noscript")) return;
+      const next = cleanText(node.nodeValue || "");
+      if (next !== node.nodeValue) node.nodeValue = next;
+    });
+  }
+
+  function rewriteTeacherLink() {
+    if (!isFoundationMathsTopic) return;
+    document.querySelectorAll('a[href*="ac9mfn01-teacher-slide.html"]').forEach((link) => {
+      link.href = "/worksheets/foundation/maths/teacher-slides/live.html?code=AC9MFN01";
+    });
   }
 
   function addTeacherWatermark() {
@@ -62,42 +63,45 @@
     ).join("");
     sheet.appendChild(overlay);
 
-    const style = document.createElement("style");
-    style.id = "skillr-repeat-watermark-style";
-    style.textContent = `
-      .sheet{position:relative!important}
-      .skillr-repeat-watermark{
-        position:absolute;
-        inset:0;
-        z-index:20;
-        display:grid;
-        grid-template-columns:repeat(3,minmax(0,1fr));
-        grid-template-rows:repeat(5,minmax(0,1fr));
-        align-items:center;
-        justify-items:center;
-        overflow:hidden;
-        pointer-events:none;
-        user-select:none;
-      }
-      .skillr-repeat-watermark span{
-        display:block;
-        transform:rotate(-24deg);
-        white-space:nowrap;
-        font:800 16px/1 Arial,Helvetica,sans-serif;
-        letter-spacing:.03em;
-        color:rgba(36,87,214,.075);
-      }
-      @media(max-width:700px){
-        .skillr-repeat-watermark{grid-template-columns:repeat(2,minmax(0,1fr))}
-        .skillr-repeat-watermark span{font-size:13px}
-      }
-    `;
-    document.head.appendChild(style);
+    if (!document.getElementById("skillr-repeat-watermark-style")) {
+      const style = document.createElement("style");
+      style.id = "skillr-repeat-watermark-style";
+      style.textContent = `
+        .sheet{position:relative!important}
+        .skillr-repeat-watermark{
+          position:absolute;
+          inset:0;
+          z-index:20;
+          display:grid;
+          grid-template-columns:repeat(3,minmax(0,1fr));
+          grid-template-rows:repeat(5,minmax(0,1fr));
+          align-items:center;
+          justify-items:center;
+          overflow:hidden;
+          pointer-events:none;
+          user-select:none;
+        }
+        .skillr-repeat-watermark span{
+          display:block;
+          transform:rotate(-24deg);
+          white-space:nowrap;
+          font:800 16px/1 Arial,Helvetica,sans-serif;
+          letter-spacing:.03em;
+          color:rgba(36,87,214,.075);
+        }
+        @media(max-width:700px){
+          .skillr-repeat-watermark{grid-template-columns:repeat(2,minmax(0,1fr))}
+          .skillr-repeat-watermark span{font-size:13px}
+        }
+      `;
+      document.head.appendChild(style);
+    }
   }
 
   function apply() {
     removeHelperHint();
     cleanDecorativeIcons();
+    rewriteTeacherLink();
     addTeacherWatermark();
   }
 
