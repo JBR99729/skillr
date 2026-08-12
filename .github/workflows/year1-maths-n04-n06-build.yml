@@ -27,7 +27,16 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p /tmp/year1-maths-n04-n06-generator
-          cat scripts/y1-n04-n06-generator-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/year1-maths-n04-n06-generator.tar.gz
+          cat \
+            scripts/y1-n04-n06-generator-b64/part-00 \
+            scripts/y1-n04-n06-generator-b64/part-01 \
+            scripts/y1-n04-n06-generator-b64/part-02 \
+            scripts/y1-n04-n06-generator-b64/part-03a \
+            scripts/y1-n04-n06-generator-b64/part-03b \
+            scripts/y1-n04-n06-generator-b64/part-04 \
+            | tr -d '\n\r ' \
+            | base64 -d \
+            > /tmp/year1-maths-n04-n06-generator.tar.gz
           gzip -t /tmp/year1-maths-n04-n06-generator.tar.gz
           tar -xzf /tmp/year1-maths-n04-n06-generator.tar.gz -C /tmp/year1-maths-n04-n06-generator
           python /tmp/year1-maths-n04-n06-generator/generate-year1-maths-n04-n06.py
