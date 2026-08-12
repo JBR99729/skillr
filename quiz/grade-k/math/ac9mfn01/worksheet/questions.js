@@ -9,7 +9,7 @@ window.skillrWorksheetQuestions = [
     type: "single",
     printable: true,
     question: "A student builds 10 blocks and 2 more blocks. Which numeral shows the total?",
-    visual: "■■■■■■■■■■ + ■■",
+    visual: "10 blocks + 2 blocks",
     answers: ["12", "21", "10", "14"]
   },
   {
@@ -31,7 +31,7 @@ window.skillrWorksheetQuestions = [
     printable: true,
     question: "Match each numeral to the representation that shows the same quantity.",
     matchLeft: ["0", "7", "12"],
-    matchRight: ["10 + 2", "empty collection", "● ● ● ● ● ● ●"]
+    matchRight: ["10 + 2", "empty collection", "7 counters"]
   },
   {
     id: "ac9mfn01-w-04",
@@ -87,7 +87,7 @@ window.skillrWorksheetQuestions = [
     curriculumCode: "AC9MFN01",
     worksheetLevel: "enrichment",
     enrichment: true,
-    formatLabel: "Enrichment — reasoning",
+    formatLabel: "Enrichment - reasoning",
     type: "text",
     printable: true,
     question: "Sam says 14 and 41 are the same number because they use the same digits. Is Sam correct? Explain by showing what 14 means using 10 and ones."
@@ -97,7 +97,7 @@ window.skillrWorksheetQuestions = [
     curriculumCode: "AC9MFN01",
     worksheetLevel: "enrichment",
     enrichment: true,
-    formatLabel: "Enrichment — reasoning",
+    formatLabel: "Enrichment - reasoning",
     type: "text",
     printable: true,
     question: "Use the numbers 0, 5, 11 and 16. Put them in order from least to greatest. Then choose one number and write one less and one more. Explain how a number line could help you check your answer."
