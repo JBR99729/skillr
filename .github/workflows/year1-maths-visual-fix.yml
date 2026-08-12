@@ -27,8 +27,12 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p /tmp/year1-maths-visual-fix
-          gzip -t scripts/year1-maths-visual-fix-tools.tar.gz
-          tar -xzf scripts/year1-maths-visual-fix-tools.tar.gz -C /tmp/year1-maths-visual-fix
+          cat scripts/year1-maths-visual-fix-b64/part-* \
+            | tr -d '\n\r ' \
+            | base64 -d \
+            > /tmp/year1-maths-visual-fix-tools.tar.gz
+          gzip -t /tmp/year1-maths-visual-fix-tools.tar.gz
+          tar -xzf /tmp/year1-maths-visual-fix-tools.tar.gz -C /tmp/year1-maths-visual-fix
           node --check /tmp/year1-maths-visual-fix/improve-year1-maths-remaining-visuals.js
           node --check /tmp/year1-maths-visual-fix/validate-year1-maths-remaining.js
           node /tmp/year1-maths-visual-fix/improve-year1-maths-remaining-visuals.js
@@ -48,6 +52,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          rm -rf scripts/year1-maths-visual-fix-b64
           rm -f scripts/year1-maths-visual-fix-tools.tar.gz
           rm -f scripts/run-year1-maths-visual-fix.txt
           rm -f .github/workflows/year1-maths-visual-fix.yml
