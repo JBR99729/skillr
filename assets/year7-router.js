@@ -63,6 +63,6 @@
       ? "/assets/year7-curriculum-worksheet-page.js?v=1"
       : "/assets/year7-curriculum-quick-read.js?v=1";
 
-  loadSequence([...(data[subject] || []), finalScript])
+  loadSequence([...(data[subject] || []), "/assets/year7-worksheet-normalise.js?v=1", finalScript])
     .catch((error) => console.error("Year 7 curriculum resources failed to load:", error));
 })();
