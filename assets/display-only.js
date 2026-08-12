@@ -7,6 +7,14 @@
   const pagePath = window.location.pathname.replace(/\/+$/, "") || "/";
   const isTeacherSlide = pagePath.includes("/teacher-slides/");
 
+  // Year 7 pages retain their existing HTML and load the connected visual layer additively.
+  if (/^\/(?:year7\/(?:maths|science|english)\/ac9|quiz\/year-7\/(?:math|science|english)\/ac9)/i.test(pagePath)) {
+    const router = document.createElement("script");
+    router.src = "/assets/year7-router.js?v=1";
+    router.async = false;
+    document.head.appendChild(router);
+  }
+
   // Temporary internal tracking badge for completed Foundation content QA.
   // Remove this loader and /assets/qa-complete-badges.js after human QA is finished.
   if (/^\/foundation\/curriculum(?:\/(?:maths|science|english))?$/.test(pagePath)) {
@@ -62,7 +70,6 @@
     event.stopPropagation();
   };
 
-  // Whole-site deterrents against direct copying/saving of page content.
   document.addEventListener("contextmenu", block, true);
   document.addEventListener("copy", block, true);
   document.addEventListener("cut", block, true);
@@ -80,23 +87,17 @@
     const key = String(event.key || "").toLowerCase();
     const modifier = event.ctrlKey || event.metaKey;
 
-    // Direct copy/source shortcuts are deterred across the site.
     if (modifier && ["c", "u"].includes(key)) {
       block(event);
       return;
     }
 
-    // Teacher slides are deliberately live-display only.
     if (isTeacherSlide && modifier && ["p", "s"].includes(key)) {
       block(event);
       return;
     }
 
-    if (key === "printscreen") {
-      // A normal webpage cannot reliably prevent an operating-system screenshot.
-      // This only suppresses the browser-level key event where supported.
-      block(event);
-    }
+    if (key === "printscreen") block(event);
   }, true);
 
   if (isTeacherSlide) {
