@@ -2584,7 +2584,7 @@ footer {
 }
 
 .footer-nav a {
-    color: #f8fafc;
+    color: #334155;
     font-size: 0.875rem;
     font-weight: 700;
     text-underline-offset: 4px;
@@ -2592,5 +2592,5 @@ footer {
 
 .footer-nav a:hover,
 .footer-nav a:focus-visible {
-    color: #bfdbfe;
+    color: #2563eb;
 }
