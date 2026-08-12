@@ -703,10 +703,7 @@
 }
 
 .curriculum-unit-card h3 {
-  display: none;
-}
-
-.curriculum-unit-card > p {
+  display: block;
   margin: 10px 0 8px;
   color: var(--skillr-blue);
   font-size: 1rem;
