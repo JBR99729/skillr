@@ -264,13 +264,340 @@
     ];
   }
 
+  const FOUNDATION_SUBITISING = [
+    {
+      "question": "Look quickly. Which number names this pair?",
+      "visual": "● ●",
+      "answers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "A pair shows 2."
+    },
+    {
+      "question": "Which amount is shown by the triangle?",
+      "visual": "  ●\n● ●",
+      "answers": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "The triangle has 3 dots."
+    },
+    {
+      "question": "Name the amount in the four-dot square.",
+      "visual": "● ●\n● ●",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Two and two make 4."
+    },
+    {
+      "question": "Which number matches this five-dot cross?",
+      "visual": "  ●\n● ● ●\n  ●",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Four outside dots and one centre dot make 5."
+    },
+    {
+      "question": "Which card matches the shown group?",
+      "visual": "Shown: ● ● ●",
+      "answers": [
+        "A vertical card with 3 dots",
+        "A card with 2 dots",
+        "A card with 4 dots"
+      ],
+      "correct": 0,
+      "explanation": "Both cards show 3."
+    },
+    {
+      "question": "Which collection has fewer?",
+      "visual": "A: ● ●\nB: ● ● ● ●",
+      "answers": [
+        "A",
+        "B",
+        "They are the same"
+      ],
+      "correct": 0,
+      "explanation": "Two dots are fewer than four."
+    },
+    {
+      "question": "Which parts describe this group of 5?",
+      "visual": "● ●   ● ● ●",
+      "answers": [
+        "2 and 3",
+        "1 and 3",
+        "2 and 2"
+      ],
+      "correct": 0,
+      "explanation": "The visible parts are 2 and 3."
+    },
+    {
+      "question": "A four-dot card is spread out. How many dots are still there?",
+      "visual": "●        ●\n    ●        ●",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Spacing does not change the quantity."
+    },
+    {
+      "question": "In Snap, which card matches a five-finger hand?",
+      "answers": [
+        "3 dots",
+        "4 dots",
+        "5 dots"
+      ],
+      "correct": 2,
+      "explanation": "Five fingers match 5 dots."
+    },
+    {
+      "question": "Which order goes from fewer dots to more dots?",
+      "answers": [
+        "2, 3, 5",
+        "5, 3, 2",
+        "3, 2, 5"
+      ],
+      "correct": 0,
+      "explanation": "Two, three, five is increasing order."
+    },
+    {
+      "question": "How many filled spaces are in this five-frame?",
+      "visual": "● ● ● ○ ○",
+      "answers": [
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Three spaces are filled."
+    },
+    {
+      "question": "Which number word matches this vertical pair?",
+      "visual": "●\n●",
+      "answers": [
+        "one",
+        "two",
+        "three"
+      ],
+      "correct": 1,
+      "explanation": "The vertical pair shows two."
+    },
+    {
+      "question": "Which other arrangement shows the same amount?",
+      "visual": "Shown: ● ●\n       ●",
+      "answers": [
+        "● ● ●",
+        "● ● ● ●",
+        "● ●"
+      ],
+      "correct": 0,
+      "explanation": "Both arrangements have 3 dots."
+    },
+    {
+      "question": "Two dots and two dots make which whole?",
+      "visual": "● ●   ● ●",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Two and two make 4."
+    },
+    {
+      "question": "A five-frame has one empty space. How many counters are filled?",
+      "visual": "● ● ● ● ○",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Four spaces are filled."
+    },
+    {
+      "question": "Who has more: Mia with 5 counters or Leo with 3?",
+      "answers": [
+        "Mia",
+        "Leo",
+        "They are equal"
+      ],
+      "correct": 0,
+      "explanation": "Five is more than three."
+    },
+    {
+      "question": "A die face shows 4. Which collection matches it?",
+      "answers": [
+        "2 buttons",
+        "4 buttons",
+        "5 buttons"
+      ],
+      "correct": 1,
+      "explanation": "The matching collection contains 4."
+    },
+    {
+      "question": "The card is turned upside down. What happens to its 3 dots?",
+      "answers": [
+        "It shows 2",
+        "It still shows 3",
+        "It shows 4"
+      ],
+      "correct": 1,
+      "explanation": "Turning a card does not change its quantity."
+    },
+    {
+      "question": "Which collection belongs in the middle: 1 dot, 4 dots, 3 dots?",
+      "answers": [
+        "1 dot",
+        "3 dots",
+        "4 dots"
+      ],
+      "correct": 1,
+      "explanation": "The order is 1, 3, 4."
+    },
+    {
+      "question": "Which sentence matches a group seen as 4 and 1?",
+      "answers": [
+        "4 + 1 = 5",
+        "3 + 1 = 4",
+        "2 + 2 = 4"
+      ],
+      "correct": 0,
+      "explanation": "Four and one make 5."
+    },
+    {
+      "question": "Look at the slanting pattern. How many dots?",
+      "visual": "●\n  ●\n●",
+      "answers": [
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "The slanting pattern has 3 dots."
+    },
+    {
+      "question": "Which card shows the same amount as the word four?",
+      "answers": [
+        "● ● ●",
+        "● ● ● ●",
+        "● ● ● ● ●"
+      ],
+      "correct": 1,
+      "explanation": "A row of 4 matches the word four."
+    },
+    {
+      "question": "Which is more: a four-dot square or a two-dot diagonal?",
+      "answers": [
+        "The four-dot square",
+        "The two-dot diagonal",
+        "They are the same"
+      ],
+      "correct": 0,
+      "explanation": "Four is more than two."
+    },
+    {
+      "question": "A group has 3 red counters and 1 blue counter. How many altogether?",
+      "visual": "🔴 🔴 🔴   🔵",
+      "answers": [
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "Three and one make 4."
+    },
+    {
+      "question": "Which card completes a memory pair for this amount?",
+      "visual": "● ● ● ● ●",
+      "answers": [
+        "A five-finger picture",
+        "A four-dot die",
+        "A three-dot triangle"
+      ],
+      "correct": 0,
+      "explanation": "Both representations show 5."
+    },
+    {
+      "question": "Both cards have 4 dots, but one card is wider. Which statement is true?",
+      "answers": [
+        "The wider card has more",
+        "Both show 4",
+        "The narrow card has more"
+      ],
+      "correct": 1,
+      "explanation": "Card width does not change the quantity."
+    },
+    {
+      "question": "How many more counters fill this five-frame?",
+      "visual": "● ● ● ○ ○",
+      "answers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "Two spaces are empty."
+    },
+    {
+      "question": "Which number names this single counter?",
+      "visual": "🟡",
+      "answers": [
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "One counter represents 1."
+    },
+    {
+      "question": "Which row orders the card amounts correctly?",
+      "answers": [
+        "5, 4, 2",
+        "2, 4, 5",
+        "4, 2, 5"
+      ],
+      "correct": 1,
+      "explanation": "Two, four, five goes from fewer to more."
+    },
+    {
+      "question": "Nina sees 2 dots on top and 3 below. What whole should she name?",
+      "visual": "● ●\n● ● ●",
+      "answers": [
+        "4",
+        "5",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "Two and three make 5."
+    }
+  ];
+
+  function foundationSubitising(year,skill,set){
+    const {type="single",question,...extra}=FOUNDATION_SUBITISING[set];
+    return q(year,skill,set,1,type,question,extra);
+  }
+
   function genericNumber(year,skill,set){
     const y=YN(year);
     if(y===0){
       const a=2+((set*3)%14), b=Math.min(20,a+3);
       return [
         q(year,skill,set,0,"single",`Which numeral comes after ${a}?`,{answers:[String(Math.max(0,a-1)),String(a+1),String(Math.min(20,a+2))],correct:1,explanation:`${a+1} comes after ${a}.`}),
-        q(year,skill,set,1,"single","Which collection has more?",{visual:`First:  ● ● ●\nSecond: ● ● ● ● ●`,answers:["First","Second","They are the same"],correct:1,explanation:"The second collection has more dots."}),
+        foundationSubitising(year,skill,set),
         q(year,skill,set,2,"true-false",`${b} is greater than ${a}.`,{answers:["True","False"],correct:0,explanation:`${b} comes after ${a}.`}),
         q(year,skill,set,3,"number","How many dots are shown?",{visual:"● ● ● ● ● ●",correct:6,explanation:"There are 6 dots."}),
         q(year,skill,set,4,"fill-blank","Complete the number sequence.",{template:`${a}, ${a+1}, {{blank}}, ${a+3}`,acceptedAnswers:[String(a+2)],explanation:"Count forward by 1."}),

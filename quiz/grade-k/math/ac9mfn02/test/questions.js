@@ -4,15 +4,15 @@ window.skillrExamQuestions = [
     "id": "ac9mfn02-t-057",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the picture-card table: One card shows 4 dots in a row. Another shows 4 dots in a square-like arrangement. What stays the same?",
-    "explanation": "The arrangement changes, but both cards still show 4.",
+    "question": "Which number matches this single ladybird?\n🐞",
+    "explanation": "One ladybird represents 1.",
     "printable": true,
     "type": "single",
     "answers": [
-      "same number",
-      "first card has more",
-      "second card has more",
-      "zero"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
     "correct": 0
   },
@@ -20,290 +20,369 @@ window.skillrExamQuestions = [
     "id": "ac9mfn02-t-058",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During a buddy activity: Draw or describe a dot pattern that lets you see 2 quickly.",
-    "explanation": "1 mark for showing exactly 2 dots in a recognisable arrangement.",
+    "question": "How many dots are on this slanting card?\n●\n  ●",
+    "explanation": "The slanting card contains 2 dots.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Any clear arrangement of 2 dots. 1 mark for showing exactly 2 dots in a recognisable arrangement.",
-    "correct": "Any clear arrangement of 2 dots."
+    "type": "single",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-059",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the hoop area: The dots are moved farther apart, but none are added or removed. The card started with 5 dots. How many are there now?",
-    "explanation": "Moving dots does not change the quantity; there are still 5.",
+    "question": "Name the amount in this corner pattern.\n● ●\n●",
+    "explanation": "Two on top and one below make 3.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "correct": "5"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-060",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the easel: You recognise a group as 4 dots and 1 dots. How many dots are in the whole group?",
-    "explanation": "4+1=5.",
+    "question": "How many dots form this diamond?\n  ●\n●   ●\n  ●",
+    "explanation": "The diamond contains 4 dots.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
+      "3",
+      "4",
       "5",
-      "$5"
+      "0"
     ],
-    "correct": "5"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-061",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the domino table: Look quickly at this dot card:\n●\nHow many dots are there?",
-    "explanation": "The pattern shows 1 dots.",
+    "question": "Which number is shown by this zigzag?\n●\n  ●\n●\n  ●\n●",
+    "explanation": "The zigzag contains 5 dots.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "1",
-      "$1"
+    "type": "single",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "0"
     ],
-    "correct": "1"
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-062",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During a classroom game: Without counting one by one, name this quantity:\n★ ★\n★ ★",
-    "explanation": "Accept 4. The small collection can be recognised at a glance.",
+    "question": "Look at this five-frame.\n● ● ● ○ ○\nHow many counters are filled?",
+    "explanation": "Three of the five spaces are filled.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
       "4",
-      "$4"
+      "5"
     ],
-    "correct": "4"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-063",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the calendar mat: State which dot card shows 2?",
-    "explanation": "The correct card contains 2 dots.",
+    "question": "The shown card has 2 dots: ● ●. Which representation matches it?",
+    "explanation": "Two buttons represent the same quantity as 2 dots.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "● ●"
+    "type": "single",
+    "answers": [
+      "One finger",
+      "Two buttons",
+      "Three stars",
+      "Four counters"
     ],
-    "correct": "● ●"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-064",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the lunch boxes: You see 3 dots and 2 more dots beside them. How many dots can you recognise altogether?",
-    "explanation": "3 and 2 make 5.",
+    "question": "Which pattern matches the number word five?",
+    "explanation": "The five-dot row matches the word five.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
+    "type": "single",
+    "answers": [
+      "● ● ●",
+      "● ● ● ●",
+      "● ● ● ● ●",
+      "● ●"
     ],
-    "correct": "5"
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-065",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the sorting hoops: A dice-style card shows a group of 3 spots. State which number name matches the whole group?",
-    "explanation": "The group has 3 spots.",
+    "question": "A four-finger picture needs a matching dot card. Which card should be chosen?",
+    "explanation": "Four fingers match a card with 4 dots.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3",
-      "$3"
+    "type": "single",
+    "answers": [
+      "A 2-dot card",
+      "A 3-dot card",
+      "A 4-dot card",
+      "A 5-dot card"
     ],
-    "correct": "3"
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-066",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During a practical activity: Card A shows 2 dots. Card B shows 3 dots. Which card has more dots without counting every dot?",
-    "explanation": "Accept Card B or 3; 3 is greater than 2.",
+    "question": "This die face shows 3. Which five-frame shows the same amount?",
+    "explanation": "Three filled spaces match the die face showing 3.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "Card B (3)"
+    "type": "single",
+    "answers": [
+      "● ● ○ ○ ○",
+      "● ● ● ○ ○",
+      "● ● ● ● ○",
+      "● ● ● ● ●"
     ],
-    "correct": "Card B (3)"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-067",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the counter tray: One card shows 4 dots in a row. Another shows 4 dots in a square-like arrangement. What stays the same?",
-    "explanation": "The arrangement changes, but both cards still show 4.",
+    "question": "This arrangement has a pair and one extra dot.\n● ●   ●\nWhat is the whole?",
+    "explanation": "Two and one make 3.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "same number"
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "correct": "same number"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-068",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the class chart: Draw or describe a dot pattern that lets you see 2 quickly.",
-    "explanation": "1 mark for showing exactly 2 dots in a recognisable arrangement.",
+    "question": "Which number sentence describes two pairs of counters?",
+    "explanation": "Two pairs are 2 and 2, making 4.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Any clear arrangement of 2 dots. 1 mark for showing exactly 2 dots in a recognisable arrangement.",
-    "correct": "Any clear arrangement of 2 dots."
+    "type": "single",
+    "answers": [
+      "2 + 1 = 3",
+      "2 + 2 = 4",
+      "3 + 2 = 5",
+      "4 + 1 = 5"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-069",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the shape mat: The dots are moved farther apart, but none are added or removed. The card started with 5 dots. How many are there now?",
-    "explanation": "Moving dots does not change the quantity; there are still 5.",
+    "question": "A five-dot card is seen as 1 dot and 4 dots. Which whole do the parts make?",
+    "explanation": "One and four combine to make 5.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
+      "3",
+      "4",
       "5",
-      "$5"
+      "0"
     ],
-    "correct": "5"
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-070",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During a quiet task: You recognise a group as 2 dots and 3 dots. How many dots are in the whole group?",
-    "explanation": "2+3=5.",
+    "question": "A row shows 3 filled spaces in a five-frame. How many more spaces need counters to make 5?",
+    "explanation": "Two empty spaces remain, so 2 more are needed.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
+    "type": "single",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "correct": "5"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-071",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the measuring table: Look quickly at this dot card:\n●\nHow many dots are there?",
-    "explanation": "The pattern shows 1 dots.",
+    "question": "Card A shows 3 dots and Card B shows 5 dots. Which card has more?",
+    "explanation": "Five is more than three.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "1",
-      "$1"
+    "type": "single",
+    "answers": [
+      "Card A",
+      "Card B",
+      "They are equal",
+      "Neither"
     ],
-    "correct": "1"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-072",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the shelves: Without counting one by one, name this quantity:\n★ ★\n★ ★",
-    "explanation": "Accept 4. The small collection can be recognised at a glance.",
+    "question": "Which collection is fewer: a four-dot square or a two-dot diagonal?",
+    "explanation": "Two dots are fewer than four.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "4",
-      "$4"
+    "type": "single",
+    "answers": [
+      "The four-dot square",
+      "The two-dot diagonal",
+      "They are equal",
+      "Cannot tell"
     ],
-    "correct": "4"
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-073",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the data table: State which dot card shows 2. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (● ●); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The correct card contains 2 dots.",
+    "question": "Which order goes from fewer to more?",
+    "explanation": "Two, three, five is increasing order.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "● ● 2 marks: 1 for the correct response (● ●); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The correct card contains 2 dots.",
-    "correct": "● ●"
+    "type": "single",
+    "answers": [
+      "5 dots, 3 dots, 2 dots",
+      "2 dots, 3 dots, 5 dots",
+      "3 dots, 2 dots, 5 dots",
+      "2 dots, 5 dots, 3 dots"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-074",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During a group investigation: You see 3 dots and 2 more dots beside them. How many dots can you recognise altogether. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (5); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 3 and 2 make 5.",
+    "question": "A 1-dot card, a 4-dot card and a 3-dot card are ordered from fewer to more. Which card is in the middle?",
+    "explanation": "The order is 1, 3, 4, so 3 is in the middle.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "5 2 marks: 1 for the correct response (5); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 3 and 2 make 5.",
-    "correct": "5"
+    "type": "single",
+    "answers": [
+      "The 1-dot card",
+      "The 3-dot card",
+      "The 4-dot card",
+      "There is no middle"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-075",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the routine board: A dice-style card shows a group of 3 spots. State which number name matches the whole group. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (3); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The group has 3 spots.",
+    "question": "In Snap, the first card shows 5 fingers. Which second card is a match?",
+    "explanation": "The matching card must also show 5.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "3 2 marks: 1 for the correct response (3); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The group has 3 spots.",
-    "correct": "3"
+    "type": "single",
+    "answers": [
+      "2 dots",
+      "3 dots",
+      "4 dots",
+      "5 dots"
+    ],
+    "correct": 3
   },
   {
     "id": "ac9mfn02-t-076",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the toy box: Card A shows 4 dots. Card B shows 5 dots. Which card has more dots without counting every dot. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (Card B (5)); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Accept Card B or 5; 5 is greater than 4.",
+    "question": "A memory card shows a triangle of 3 dots. Which card completes the pair?",
+    "explanation": "Both cards in the pair must show 3.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Card B (5) 2 marks: 1 for the correct response (Card B (5)); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Accept Card B or 5; 5 is greater than 4.",
-    "correct": "Card B (5)"
+    "type": "single",
+    "answers": [
+      "A row of 2 dots",
+      "A row of 3 dots",
+      "A square of 4 dots",
+      "A cross of 5 dots"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-077",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the position mat: One card shows 4 dots in a row. Another shows 4 dots in a square-like arrangement. What stays the same. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (same number); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The arrangement changes, but both cards still show 4.",
+    "question": "In a 'who has more?' game, Kai has 2 counters and Zoe has 4. Who wins this round?",
+    "explanation": "Zoe's 4 counters are more than Kai's 2.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "same number 2 marks: 1 for the correct response (same number); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. The arrangement changes, but both cards still show 4.",
-    "correct": "same number"
+    "type": "single",
+    "answers": [
+      "Kai",
+      "Zoe",
+      "They tie",
+      "No one"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn02-t-078",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "During end-of-day pack-up: Draw or describe a dot pattern that lets you see 2 quickly.",
-    "explanation": "2 marks: 1 for the correct response (Any clear arrangement of 2 dots.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1 mark for showing exactly 2 dots in a recognisable arrangement.",
+    "question": "Two cards each have 5 dots. One card is wider. Which statement is true?",
+    "explanation": "Card size and spacing do not change a collection of 5.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Any clear arrangement of 2 dots. 2 marks: 1 for the correct response (Any clear arrangement of 2 dots.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1 mark for showing exactly 2 dots in a recognisable arrangement.",
-    "correct": "Any clear arrangement of 2 dots."
+    "type": "single",
+    "answers": [
+      "The wider card has more",
+      "The narrow card has more",
+      "Both cards show 5",
+      "Width changes the number"
+    ],
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-079",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "At the number-line station: A child says this card shows 4 because the dots are spread out:\n● ●\n  ●\n● ●\nExplain what number it really shows.",
-    "explanation": "2 marks: 1 for the correct response (5); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for naming 5; 1 for explaining that spacing/arrangement does not change the number of dots.",
+    "question": "A four-dot card is rotated. What number will it show after the turn?",
+    "explanation": "Rotation changes the view, not the quantity.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "5 2 marks: 1 for the correct response (5); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for naming 5; 1 for explaining that spacing/arrangement does not change the number of dots.",
-    "correct": "5"
+    "type": "single",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2
   },
   {
     "id": "ac9mfn02-t-080",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Near the classroom rug: A five-dot card is seen as 3 dots on one side and 2 on the other. Explain how this helps you recognise 5 quickly.",
-    "explanation": "2 marks: 1 for the correct response (The two parts combine to make 5.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for identifying 3+2=5; 1 for explaining that recognising the parts avoids counting one by one.",
+    "question": "Nina sees 2 dots on top and 3 below. She says the whole is 4. Which correction is right?",
+    "explanation": "The two visible parts, 2 and 3, make 5.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "The two parts combine to make 5. 2 marks: 1 for the correct response (The two parts combine to make 5.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for identifying 3+2=5; 1 for explaining that recognising the parts avoids counting one by one.",
-    "correct": "The two parts combine to make 5."
+    "type": "single",
+    "answers": [
+      "2 and 3 make 3",
+      "2 and 3 make 4",
+      "2 and 3 make 5",
+      "The parts cannot be joined"
+    ],
+    "correct": 2
   }
 ];
 window.quizQuestions = window.skillrExamQuestions;
