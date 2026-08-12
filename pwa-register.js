@@ -129,6 +129,7 @@
     [/^\/year2\/science\/ac9s2/i, [...year2ScienceData, "/assets/year2-science-render.js?v=3"]],
     [/^\/quiz\/year-2\/science\/ac9s2u0[123]\/(practice|test)\/?$/i, [...year2ScienceData, "/assets/year2-science-practice-quick-read.js?v=2", "/assets/year2-science-authored-banks.js?v=20260813-qa1", "/assets/year2-science-bank-loader.js?v=20260813-qa1"]],
     [/^\/quiz\/year-2\/science\/ac9s2u0[123]\/quiz\/?$/i, [...year2ScienceData, "/assets/year2-science-quiz-page.js?v=20260813-qa1", "/assets/year2-science-authored-banks.js?v=20260813-qa1", "/assets/year2-science-bank-loader.js?v=20260813-qa1"]],
+    [/^\/quiz\/year-2\/science\/ac9s2(?:h01|i0[12])\/(practice|test|worksheet|quiz)\/?$/i, [...year2ScienceData, "/assets/year2-science-authored-banks-batch2.js?v=20260813-qa2", "/assets/year2-science-bank-loader.js?v=20260813-qa2", "/assets/year2-science-quiz-page.js?v=20260813-qa2"]],
     [/^\/quiz\/year-2\/science\/ac9s2(?!u0[123])[a-z0-9]+\/(practice|test)\/?$/i, [...year2ScienceData, "/assets/year2-science-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/worksheet\/?$/i, [...year2ScienceData, "/assets/year2-science-worksheet-page.js?v=2"]],
     [/^\/year2\/english\/ac9e2/i, [...year2EnglishData, "/assets/year2-english-render.js?v=2"]],
