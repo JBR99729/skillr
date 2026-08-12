@@ -16,6 +16,18 @@
   const button = document.getElementById("previewPdfButton");
   if (!root) return;
 
+  document.title = `${code} ${unit.title} Worksheet | SkillrHub`;
+  const description = document.querySelector('meta[name="description"]');
+  if (description) description.content = `${code} ${subjectLabel} worksheet with 8 core and 2 enrichment questions based on the SkillrHub topic lesson.`;
+  const heroTitle = document.getElementById("worksheetHeroTitle");
+  if (heroTitle) heroTitle.textContent = `${unit.title} Worksheet`;
+  const eyebrow = document.getElementById("worksheetEyebrow");
+  if (eyebrow) eyebrow.textContent = `${code} • ${subjectLabel}`;
+  const backToTopic = document.getElementById("backToTopic");
+  if (backToTopic && unit.topicUrl) backToTopic.href = unit.topicUrl;
+  const openPractice = document.getElementById("openPractice");
+  if (openPractice) openPractice.href = `/quiz/grade-k/${subject}/${code.toLowerCase()}/practice/`;
+
   const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[char]));
 
   function renderQuestion(question, index) {
