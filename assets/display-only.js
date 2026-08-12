@@ -4,7 +4,17 @@
   if (window.__skillrDisplayOnlyLoaded) return;
   window.__skillrDisplayOnlyLoaded = true;
 
-  const isTeacherSlide = window.location.pathname.includes("/teacher-slides/");
+  const pagePath = window.location.pathname.replace(/\/+$/, "") || "/";
+  const isTeacherSlide = pagePath.includes("/teacher-slides/");
+
+  // Temporary internal tracking badge for completed Foundation content QA.
+  // Remove this loader and /assets/qa-complete-badges.js after human QA is finished.
+  if (/^\/foundation\/curriculum(?:\/(?:maths|science|english))?$/.test(pagePath)) {
+    const qaScript = document.createElement("script");
+    qaScript.src = "/assets/qa-complete-badges.js?v=1";
+    qaScript.async = false;
+    document.head.appendChild(qaScript);
+  }
 
   const style = document.createElement("style");
   style.textContent = `
