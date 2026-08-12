@@ -449,7 +449,7 @@ def unit_card(unit: dict[str, Any]) -> str:
     eligible_count = sum(1 for item in unit["questionCoverage"] if item.get("questionEligible"))
     return f"""<article class="curriculum-unit-card" id="{h(unit['code'].lower())}">
   <span class="curriculum-badge">{h(unit['code'])}</span>
-  <h3>{h(unit['title'])}</h3>
+  <h3>{h(unit['description'])}</h3>
   <p>{h(unit['description'])}</p>
   <div class="unit-meta">
     <span class="curriculum-chip">{h(unit['strand'] or unit['subject'])}</span>
