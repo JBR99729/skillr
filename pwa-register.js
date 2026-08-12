@@ -36,7 +36,7 @@
     "/assets/skillr-concept-svg.js?v=2",
     "/assets/curriculum-cluster-core.js?v=1",
     "/assets/curriculum-strand-coverage.js?v=2",
-    "/assets/curriculum-visual-layer.js?v=1",
+    "/assets/curriculum-visual-layer.js?v=2",
     "/assets/teacher-slide-clusters.js?v=1",
     "/assets/multi-strand-worksheet-pack.js?v=1",
     "/assets/qa-complete-ribbon.js?v=2"
@@ -46,9 +46,9 @@
     "/assets/foundation-maths-data-number.js?v=2",
     "/assets/foundation-maths-data-other.js?v=2",
     "/assets/foundation-ac9mfn02-visual-elaborations.js?v=20260813",
-    "/assets/foundation-maths-elaborations-n03-n05.js?v=20260813"
-    ,"/assets/foundation-maths-elaborations-n06-a01-m01.js?v=20260813"
-    ,"/assets/foundation-maths-elaborations-m02-sp01-sp02.js?v=20260813"
+    "/assets/foundation-maths-elaborations-n03-n05.js?v=20260813-4"
+    ,"/assets/foundation-maths-elaborations-n06-a01-m01.js?v=20260813-4"
+    ,"/assets/foundation-maths-elaborations-m02-sp01-sp02.js?v=20260813-4"
   ];
   const foundationScienceData = ["/assets/foundation-science-data.js?v=2"];
   const foundationEnglishData = ["/assets/foundation-english-data.js?v=2"];
@@ -108,7 +108,7 @@
   ];
 
   const routes = [
-    [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/(practice|test)\/?$/i, [...foundationMathsData, "/assets/foundation-maths-practice-quick-read.js?v=6"]],
+    [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/(practice|test)\/?$/i, [...foundationMathsData, "/assets/foundation-maths-practice-quick-read.js?v=7"]],
     [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/worksheet\/?$/i, foundationMathsData],
     [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/(practice|test)\/?$/i, [...foundationScienceData, "/assets/foundation-science-practice-quick-read.js?v=5"]],
     [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i, [...foundationScienceData, "/assets/foundation-science-worksheet-page.js?v=3"]],
@@ -166,7 +166,7 @@
 
   const foundationMathsTopic = /^\/foundation\/maths\/ac9mf/i.test(path) && !document.getElementById("teaching-lesson");
   if (foundationMathsTopic && !window.SkillrFoundationMathsData) {
-    loadSequence([...foundationMathsData, "/assets/foundation-maths-render.js?v=2"]);
+    loadSequence([...foundationMathsData, "/assets/foundation-maths-render.js?v=20260813-4"]);
   }
 
   for (const [pattern, scripts] of routes) {

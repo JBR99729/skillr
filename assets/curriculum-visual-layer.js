@@ -96,7 +96,7 @@
   loadAdvancedYearAssets();
 
   if (quizMatch?.[1]?.toLowerCase() === "grade-k" && quizMatch?.[4]?.toLowerCase() === "test" && ![...document.scripts].some((script) => script.src.includes("/assets/foundation-test-quick-read.js"))) {
-    loadScript("/assets/foundation-test-quick-read.js?v=1");
+    loadScript("/assets/foundation-test-quick-read.js?v=2");
   }
 
   function findUnit() {
