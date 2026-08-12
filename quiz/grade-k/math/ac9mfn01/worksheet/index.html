@@ -13,36 +13,36 @@
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">
   <style>
-    :root{--brand:#2457d6;--navy:#173968;--line:#d8e3f0;--muted:#5d6c80;--soft:#eef5ff;--enrich:#f1f6ff}
-    body{background:#eef3f9;color:#203047}
+    :root{--brand:#2457d6;--navy:#0f2f5f;--line:#b9cceb;--muted:#52657e;--soft:#eaf2ff;--enrich:#eef5ff}
+    body{margin:0;background:#e9f0f9;color:#203047;font-family:Arial,Helvetica,sans-serif}
     .worksheet-shell{max-width:1120px;margin:0 auto;padding:18px}
-    .worksheet-nav{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 16px}.worksheet-nav a{font-weight:700;text-decoration:none;color:var(--brand)}
-    .worksheet-hero{background:linear-gradient(135deg,#173968 0%,#2457d6 100%);color:#fff;border-radius:18px;padding:20px;box-shadow:0 9px 28px rgba(23,57,104,.18)}
-    .brandbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 14px;padding:8px 11px;border:1px solid rgba(255,255,255,.3);border-radius:11px;background:rgba(255,255,255,.09)}
-    .brandmark{font-size:1.12rem;font-weight:900;color:#fff;letter-spacing:-.02em}.brandmark span{color:#dce9ff}.brandbar small{font-weight:700;color:#e5efff}
-    .eyebrow{margin:0 0 4px;color:#dce9ff;font-size:.78rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase}
-    .worksheet-hero h1{margin:0;color:#fff;font-size:clamp(1.8rem,4vw,2.45rem)}.worksheet-hero>p{max-width:780px;color:#eef4ff}
-    .worksheet-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.worksheet-meta span{border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.1);border-radius:999px;padding:5px 9px;font-size:.82rem;font-weight:700;color:#fff}
-    .worksheet-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}.worksheet-actions button,.worksheet-actions a{border:1px solid rgba(255,255,255,.42);border-radius:999px;padding:10px 14px;font-weight:800;text-decoration:none;background:#fff;color:var(--navy);cursor:pointer}.worksheet-actions .primary{background:#fff;color:var(--brand);border-color:#fff}
-    .worksheet-paper{position:relative;isolation:isolate;overflow:hidden;margin-top:14px;background:#fff;border:2px solid #bfd0e8;border-radius:18px;padding:16px;box-shadow:0 8px 26px rgba(23,57,104,.09)}
-    .watermark-grid{position:absolute;inset:0;z-index:-1;display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr);align-items:center;justify-items:center;pointer-events:none;overflow:hidden}.watermark-grid span{font:900 22px/1 Arial,Helvetica,sans-serif;color:rgba(36,87,214,.085);white-space:nowrap;transform:rotate(-27deg)}
-    .worksheet-paper__head{display:flex;justify-content:space-between;gap:16px;align-items:flex-end;padding:0 0 9px;border-bottom:3px solid var(--brand)}.worksheet-paper__head h2{margin:1px 0 0;color:var(--navy);font-size:1.15rem}.worksheet-paper__head p{margin:0;color:var(--muted);font-size:.84rem}.paper-brand{font-size:1rem!important;font-weight:900;color:var(--brand)!important}.paper-brand span{color:var(--navy)}
-    .core-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px 9px;margin-top:9px}
-    .enrichment-heading{margin:10px 0 6px;padding:6px 9px;border-left:5px solid var(--brand);background:var(--soft);color:var(--navy);font-size:.82rem;font-weight:800}
+    .worksheet-nav{display:flex;gap:12px;flex-wrap:wrap;margin:10px 0 16px}.worksheet-nav a{font-weight:800;text-decoration:none;color:var(--brand)}
+    .worksheet-hero{background:linear-gradient(135deg,#0f2f5f 0%,#173968 48%,#2457d6 100%);color:#fff;border-radius:18px;padding:22px;border:2px solid #557fd8;box-shadow:0 12px 32px rgba(15,47,95,.24)}
+    .brandbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:15px;padding:10px 13px;border:1px solid rgba(255,255,255,.42);border-radius:11px;background:rgba(255,255,255,.12)}
+    .brandmark{font-size:1.3rem;font-weight:900;color:#fff;letter-spacing:-.02em}.brandmark span{color:#dce9ff}.brandbar small{font-weight:800;color:#f1f6ff}
+    .eyebrow{margin:0 0 5px;color:#dce9ff;font-size:.78rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase}
+    .worksheet-hero h1{margin:0;color:#fff;font-size:clamp(1.9rem,4vw,2.55rem)}.worksheet-hero>p{max-width:790px;color:#f2f6ff;font-weight:600}
+    .worksheet-meta{display:flex;gap:8px;flex-wrap:wrap;margin:13px 0}.worksheet-meta span{border:1px solid rgba(255,255,255,.4);background:rgba(255,255,255,.12);border-radius:999px;padding:6px 10px;font-size:.82rem;font-weight:800;color:#fff}
+    .worksheet-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:15px}.worksheet-actions button,.worksheet-actions a{border:1px solid rgba(255,255,255,.5);border-radius:999px;padding:10px 14px;font-weight:900;text-decoration:none;background:#fff;color:var(--navy);cursor:pointer}.worksheet-actions .primary{background:#fff;color:var(--brand);border-color:#fff;box-shadow:0 3px 10px rgba(0,0,0,.12)}
+    .worksheet-paper{position:relative;isolation:isolate;overflow:hidden;margin-top:16px;background:#fff;border:3px solid var(--brand);border-radius:18px;padding:16px;box-shadow:0 10px 30px rgba(15,47,95,.14)}
+    .watermark-grid{position:absolute;inset:0;z-index:-1;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(5,1fr);align-items:center;justify-items:center;pointer-events:none;overflow:hidden}.watermark-grid span{font:900 20px/1 Arial,Helvetica,sans-serif;color:rgba(36,87,214,.145);white-space:nowrap;transform:rotate(-27deg)}
+    .worksheet-paper__head{display:flex;justify-content:space-between;gap:16px;align-items:flex-end;margin:-16px -16px 10px;padding:12px 16px 10px;background:linear-gradient(90deg,#0f2f5f,#2457d6);border-bottom:4px solid #173968;color:#fff}.worksheet-paper__head h2{margin:2px 0 0;color:#fff;font-size:1.18rem}.worksheet-paper__head p{margin:0;color:#eef4ff;font-size:.84rem}.paper-brand{font-size:1.08rem!important;font-weight:900;color:#fff!important}.paper-brand span{color:#dce9ff}
+    .core-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px 9px;margin-top:8px}
+    .enrichment-heading{margin:11px 0 6px;padding:7px 10px;border-left:6px solid var(--brand);background:#dfeaff;color:var(--navy);font-size:.83rem;font-weight:900}
     .enrichment-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
-    .worksheet-question{border:1px solid #dbe4ef;border-radius:10px;padding:8px;background:rgba(255,255,255,.95);min-width:0}.worksheet-question.enrichment{background:rgba(241,246,255,.96);border:1.5px solid #bfd0ee}
-    .question-topline{display:flex;align-items:center;gap:7px;margin-bottom:5px}.question-number{display:grid;place-items:center;width:24px;height:24px;border-radius:999px;background:var(--navy);color:#fff;font-size:.78rem;font-weight:900;flex:0 0 auto}.enrichment-label{margin-left:auto;border-radius:999px;background:#dfeaff;border:1px solid #bfd0ee;padding:2px 7px;font-size:.65rem;font-weight:900;color:#31527d;text-transform:uppercase;letter-spacing:.03em}
-    .question-prompt{margin:0 0 6px;font-size:.88rem;font-weight:700;line-height:1.3}.question-visual{display:inline-block;margin:0 0 6px;padding:5px 8px;border:1px dashed #aebfd4;border-radius:7px;background:#fafbfd;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.84rem}
-    .worksheet-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px}.worksheet-options div{border:1px solid #e0e6ee;border-radius:6px;padding:4px 6px;background:#fff;font-size:.8rem}.choice-box{display:inline-block;width:11px;height:11px;border:1.4px solid #66758a;border-radius:50%;vertical-align:-1px;margin-right:4px}
-    .fill-template{font-weight:800;font-size:.92rem}.blank-line{display:inline-block;min-width:62px;border-bottom:1.8px solid #69788c;margin:0 4px;transform:translateY(-2px)}
-    .match-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;border:1px solid #e0e6ee;border-radius:7px;padding:5px 7px;background:#fff}.match-grid p{margin:3px 0;font-size:.78rem}.match-instruction{margin:5px 0 0;color:#4d607a;font-size:.75rem}
-    .response-lines{display:grid;gap:6px;margin-top:6px}.response-lines span{display:block;border-bottom:1.2px solid #8995a5;height:8px}
-    .worksheet-footer{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:9px;padding-top:7px;border-top:2px solid #d8e3f0;font-size:.73rem;color:var(--muted)}.worksheet-footer strong{color:var(--brand)}
-    @media(max-width:700px){.core-grid,.enrichment-grid,.worksheet-options,.match-grid{grid-template-columns:1fr}.worksheet-paper__head{display:block}.worksheet-shell{padding:10px}.brandbar{align-items:flex-start;flex-direction:column}}
+    .worksheet-question{border:1.5px solid #c9d7e9;border-radius:10px;padding:8px;background:rgba(255,255,255,.96);min-width:0}.worksheet-question.enrichment{background:rgba(238,245,255,.97);border:2px solid #99b8e5}
+    .question-topline{display:flex;align-items:center;gap:7px;margin-bottom:5px}.question-number{display:grid;place-items:center;width:25px;height:25px;border-radius:999px;background:var(--navy);color:#fff;font-size:.78rem;font-weight:900;flex:0 0 auto}.enrichment-label{margin-left:auto;border-radius:999px;background:#d4e3ff;border:1px solid #9db9e4;padding:2px 7px;font-size:.65rem;font-weight:900;color:#173968;text-transform:uppercase;letter-spacing:.03em}
+    .question-prompt{margin:0 0 6px;font-size:.88rem;font-weight:800;line-height:1.3}.question-visual{display:inline-block;margin:0 0 6px;padding:5px 8px;border:1.5px dashed #9db0c8;border-radius:7px;background:#f8fbff;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.84rem}
+    .worksheet-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px}.worksheet-options div{border:1px solid #d8e1ec;border-radius:6px;padding:4px 6px;background:#fff;font-size:.8rem}.choice-box{display:inline-block;width:11px;height:11px;border:1.5px solid #52657e;border-radius:50%;vertical-align:-1px;margin-right:4px}
+    .fill-template{font-weight:900;font-size:.92rem}.blank-line{display:inline-block;min-width:62px;border-bottom:2px solid #52657e;margin:0 4px;transform:translateY(-2px)}
+    .match-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;border:1px solid #d6dfeb;border-radius:7px;padding:5px 7px;background:#fff}.match-grid p{margin:3px 0;font-size:.78rem}.match-instruction{margin:5px 0 0;color:#425872;font-size:.75rem}
+    .response-lines{display:grid;gap:6px;margin-top:6px}.response-lines span{display:block;border-bottom:1.4px solid #728198;height:8px}
+    .worksheet-footer{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:10px -16px -16px;padding:9px 16px;background:#e9f1ff;border-top:2px solid #a9c1e5;font-size:.74rem;color:#425872}.worksheet-footer strong{color:var(--brand)}
+    @media(max-width:700px){.core-grid,.enrichment-grid,.worksheet-options,.match-grid{grid-template-columns:1fr}.worksheet-paper__head{display:block}.worksheet-shell{padding:10px}.brandbar{align-items:flex-start;flex-direction:column}.watermark-grid{grid-template-columns:repeat(2,1fr)}}
     @page{size:A4 portrait;margin:7mm}
     @media print{
-      body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{width:100%;margin:0;border:0;border-radius:0;box-shadow:none;padding:0}.worksheet-question{break-inside:avoid}.watermark-grid span{color:rgba(36,87,214,.07)}
-      .core-grid{gap:5px 7px;margin-top:7px}.worksheet-question{padding:6px}.question-prompt{font-size:8.2pt}.worksheet-options div,.match-grid p{font-size:7.3pt}.enrichment-heading{margin:7px 0 5px;padding:4px 7px;font-size:7.6pt}.response-lines{gap:4px}.response-lines span{height:6px}.worksheet-footer{margin-top:6px;padding-top:5px}
+      body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{width:100%;margin:0;border:2px solid #2457d6;border-radius:0;box-shadow:none;padding:0 6px 6px}.worksheet-paper__head{margin:0 -6px 8px;padding:9px 10px 8px}.worksheet-question{break-inside:avoid}.watermark-grid span{color:rgba(36,87,214,.115)}
+      .core-grid{gap:5px 7px;margin-top:7px}.worksheet-question{padding:6px}.question-prompt{font-size:8.2pt}.worksheet-options div,.match-grid p{font-size:7.3pt}.enrichment-heading{margin:7px 0 5px;padding:4px 7px;font-size:7.6pt}.response-lines{gap:4px}.response-lines span{height:6px}.worksheet-footer{margin:6px -6px -6px;padding:6px 9px}
     }
   </style>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
@@ -51,11 +51,7 @@
 </head>
 <body>
   <div class="worksheet-shell">
-    <nav class="worksheet-nav" aria-label="Breadcrumb">
-      <a href="/">Home</a>
-      <a href="/foundation/curriculum/">Foundation curriculum</a>
-      <a href="/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/">AC9MFN01 topic</a>
-    </nav>
+    <nav class="worksheet-nav" aria-label="Breadcrumb"><a href="/">Home</a><a href="/foundation/curriculum/">Foundation curriculum</a><a href="/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/">AC9MFN01 topic</a></nav>
 
     <header class="worksheet-hero">
       <div class="brandbar"><div class="brandmark">SkillrHub <span>F–10</span></div><small>Foundation Maths • Student Worksheet</small></div>
@@ -63,27 +59,18 @@
       <h1>Numbers to 20 Worksheet</h1>
       <p>Ten purpose-written questions aligned to the AC9MFN01 concept: quantities and numerals, zero, number order, and one more/one less.</p>
       <div class="worksheet-meta"><span>10 questions</span><span>8 core</span><span>2 enrichment</span><span>One A4 sheet</span></div>
-      <div class="worksheet-actions">
-        <button class="primary" id="downloadPdfButton" type="button">Download PDF worksheet</button>
-        <a href="/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/">Back to topic</a>
-        <a href="/quiz/grade-k/math/ac9mfn01/practice/">Open practice</a>
-      </div>
+      <div class="worksheet-actions"><button class="primary" id="downloadPdfButton" type="button">Download PDF worksheet</button><a href="/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/">Back to topic</a><a href="/quiz/grade-k/math/ac9mfn01/practice/">Open practice</a></div>
     </header>
 
     <main class="worksheet-paper">
       <div class="watermark-grid" aria-hidden="true">
-        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
-        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
-        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
-        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
+        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
+        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
+        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
+        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
+        <span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span><span>SkillrHub F–10 • skillrhub.com</span>
       </div>
-      <div class="worksheet-paper__head">
-        <div>
-          <p class="paper-brand">SkillrHub <span>F–10</span></p>
-          <h2>AC9MFN01 — Numbers to 20</h2>
-        </div>
-        <p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p>
-      </div>
+      <div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>AC9MFN01 — Numbers to 20</h2></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div>
       <section class="core-grid" id="coreQuestions" aria-label="Core worksheet questions"></section>
       <div class="enrichment-heading">Enrichment — complete Questions 9–10 after you have finished Questions 1–8.</div>
       <section class="enrichment-grid" id="enrichmentQuestions" aria-label="Enrichment worksheet questions"></section>
@@ -94,7 +81,7 @@
   <script>window.quizConfig={skillCode:"AC9MFN01",worksheetQuestionLimit:10};</script>
   <script src="/quiz/grade-k/math/ac9mfn01/worksheet/questions.js?v=2"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-  <script src="/quiz/grade-k/math/ac9mfn01/worksheet/worksheet.js?v=2"></script>
+  <script src="/quiz/grade-k/math/ac9mfn01/worksheet/worksheet.js?v=3"></script>
   <script src="/pwa-register.js"></script>
 </body>
 </html>
