@@ -88,11 +88,14 @@
       else card.appendChild(notes);
     }
 
-    const firstMistake = Array.isArray(data.mistakes) && data.mistakes.length ? data.mistakes[0] : null;
+    if (notes.dataset.skillrMathsQuickRead === code) return true;
+
+    const firstMixUp = Array.isArray(data.mistakes) && data.mistakes.length ? data.mistakes[0] : null;
     const items = [
       `<strong>Core idea:</strong> ${data.learn}`,
       `<strong>Teaching model:</strong> ${data.model_title}.`,
-      firstMistake ? `<strong>Watch for:</strong> ${firstMistake[0]} — ${firstMistake[1]}` : null
+      `<strong>Use it:</strong> ${data.apply_title}.`,
+      firstMixUp ? `<strong>Common Mix-Up:</strong> ${firstMixUp[0]} — ${firstMixUp[1]}` : null
     ].filter(Boolean);
 
     const visual = VISUALS[code];
@@ -102,6 +105,7 @@
 
     notes.innerHTML = `<h2>60-second Quick Read</h2>${visualHtml}<ul>${items.map((item) => `<li>${item}</li>`).join("")}</ul>`;
     notes.dataset.skillrTopicSynced = "true";
+    notes.dataset.skillrMathsQuickRead = code;
     return true;
   }
 
