@@ -1,107 +1,17 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n04-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "investigating equivalence of fractions using common multiples and a fraction…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "expressing a fraction in simplest form using common divisors",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "applying and explaining the equivalence between fraction, decimal and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "find equivalent representations of rational numbers and represent rational…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "representing positive and negative fractions and mixed numerals on various…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "representing positive and negative fractions and mixed numerals on various…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  },
-  {
-    "id": "ac9m7n04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "find equivalent representations of rational numbers and represent rational…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N04: find equivalent representations of rational numbers and represent rational…."
-  }
-];
+(() => {
+  const q=[]; let id=1;
+  const add=(prompt,correct,wrong,explanation)=>{const answers=[String(correct),...wrong.map(String)].filter((v,i,a)=>a.indexOf(v)===i);while(answers.length<4)answers.push(`None of these ${answers.length}`);q.push({id:`ac9m7n04-${String(id++).padStart(2,"0")}`,type:"single",question:prompt,answers:answers.slice(0,4),correct:0,explanation});};
+  const conv=[["1/2","0.5 = 50%"],["1/4","0.25 = 25%"],["3/4","0.75 = 75%"],["1/5","0.2 = 20%"],["2/5","0.4 = 40%"],["3/5","0.6 = 60%"],["4/5","0.8 = 80%"],["1/8","0.125 = 12.5%"],["3/8","0.375 = 37.5%"],["5/8","0.625 = 62.5%"],["7/8","0.875 = 87.5%"],["1/10","0.1 = 10%"],["3/20","0.15 = 15%"],["7/20","0.35 = 35%"],["9/20","0.45 = 45%"],["4/25","0.16 = 16%"]];
+  conv.forEach(([f,c],i)=>add(`Which decimal and percentage are equivalent to ${f}?`,c,[conv[(i+1)%conv.length][1],`${f} = ${Number(f.split('/')[0])/100}%`,`0.${f.split('/')[0]} = ${f.split('/')[1]}%`],`Divide numerator by denominator for the decimal, then multiply by 100 for the percentage: ${f} = ${c}.`));
+  [["6/8","3/4"],["12/18","2/3"],["15/25","3/5"],["18/24","3/4"],["21/28","3/4"],["24/36","2/3"],["30/45","2/3"],["35/49","5/7"],["42/56","3/4"],["45/60","3/4"],["54/72","3/4"],["63/81","7/9"]].forEach(([f,s])=>add(`Simplify ${f}.`,s,[f,`${f.split('/')[1]}/${f.split('/')[0]}`,`1/${f.split('/')[1]}`],`Divide numerator and denominator by their highest common factor: ${f} = ${s}.`));
+  [["-0.8 and -0.3","-0.8"],["-2/3 and -0.6","-2/3"],["35% and 0.4","35%"],["3/4 and 0.72","0.72"],["-65% and -0.6","-65%"],["5/8 and 0.6","0.6"],["1.2 and 115%","115%"],["-3/4 and -0.8","-0.8"],["7/10 and 68%","68%"],["-0.45 and -2/5","-0.45"],["9/8 and 1.1","1.1"],["-1.25 and -6/5","-1.25"]].forEach(([pair,small])=>add(`Which is smaller: ${pair}?`,small,[pair.split(" and ")[0]===small?pair.split(" and ")[1]:pair.split(" and ")[0],"They are equal","Cannot be compared"],`Convert to a common form or locate both on a number line; ${small} lies farther left.`));
+  [["-3/4",-0.75],["-2/5",-0.4],["1/4",0.25],["3/8",0.375],["60%",0.6],["5/4",1.25],["-125%",-1.25],["7/5",1.4],["-9/8",-1.125],["35%",0.35]].forEach(([form,value])=>add(`At which decimal position should ${form} be placed on a number line?`,value,[value+0.1,value-0.1,Math.abs(value)],`${form} = ${value}, so it occupies that exact point.`));
+  add("Why are 2/3 and 4/6 equivalent?","The numerator and denominator were multiplied by the same non-zero number.",["Only the numerator doubled.","Both terms increased by 2.","They have the same denominator."],"Scaling both parts by the same factor preserves the quotient.");
+  add("What must be true of the denominator of a rational number a/b?","It cannot be zero.",["It must be positive.","It must equal 1.","It must be larger than the numerator."],"Division by zero is undefined.");
+  add("A student changes 3/5 to 6/5 and calls it equivalent. What is wrong?","Only the numerator was multiplied by 2.",["The denominator must be smaller.","Equivalent fractions cannot exceed 1.","There is no error."],"Both numerator and denominator must be multiplied or divided by the same non-zero factor.");
+  add("Which statement about negative rational numbers is correct?","Among negatives, the number with greater absolute value is smaller.",["Every negative fraction is irrational.","-0.8 is greater than -0.2.","Percentages cannot be negative."],"On a number line, values farther left are smaller.");
+  add("Why must equal numerical intervals have equal spacing on a number line?","Position must represent consistent differences in value.",["Fractions must be positive.","Every interval must equal one whole.","Labels determine the spacing."],"A number line is a scale, so equal changes require equal distances.");
+  add("What operation converts a decimal to a percentage?","Multiply by 100 and attach the percent sign.",["Divide by 100.","Multiply by 10.","Remove the decimal point without considering place value."],"Percent means per hundred, so 0.35 = 35%.");
+  if(q.length!==56)throw new Error(`AC9M7N04 expected 56 questions, found ${q.length}`); window.quizQuestions=q;
+})();
