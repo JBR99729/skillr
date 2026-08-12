@@ -66,6 +66,18 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
+  // Teacher slides are live-display resources: always require the network and never serve a cached slide page.
+  if (
+    request.mode === "navigate" &&
+    url.origin === self.location.origin &&
+    url.pathname.includes("/teacher-slides/")
+  ) {
+    event.respondWith(
+      fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html"))
+    );
+    return;
+  }
+
   // Stale-while-revalidate for same-origin static assets to improve repeat-load UX.
   if (
     url.origin === self.location.origin &&
