@@ -1,0 +1,184 @@
+name: Validate Year 7 complete rollout
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/year7-*"
+      - "assets/display-only.js"
+      - "assets/qa-complete-ribbon.js"
+      - "worksheets/year7/**"
+      - ".github/workflows/validate-year7-complete.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check Year 7 JavaScript syntax
+        run: |
+          node --check assets/year7-curriculum-base.js
+          node --check assets/year7-maths-data-n.js
+          node --check assets/year7-maths-data-am.js
+          node --check assets/year7-maths-data-spstp.js
+          node --check assets/year7-science-data-u.js
+          node --check assets/year7-science-data-hi.js
+          node --check assets/year7-english-data-la.js
+          node --check assets/year7-english-data-le.js
+          node --check assets/year7-english-data-ly.js
+          node --check assets/year7-curriculum-render.js
+          node --check assets/year7-curriculum-quick-read.js
+          node --check assets/year7-curriculum-worksheet-page.js
+          node --check assets/year7-curriculum-slide.js
+          node --check assets/year7-router.js
+          node --check assets/display-only.js
+
+      - name: Validate all 72 Year 7 units and worksheets
+        run: |
+          node <<'NODE'
+          global.window = {};
+          require('./assets/year7-curriculum-base.js');
+          require('./assets/year7-maths-data-n.js');
+          require('./assets/year7-maths-data-am.js');
+          require('./assets/year7-maths-data-spstp.js');
+          require('./assets/year7-science-data-u.js');
+          require('./assets/year7-science-data-hi.js');
+          require('./assets/year7-english-data-la.js');
+          require('./assets/year7-english-data-le.js');
+          require('./assets/year7-english-data-ly.js');
+
+          const checks = [
+            ['Maths', window.SkillrYear7MathsData, window.SkillrYear7MathsOrder, 30],
+            ['Science', window.SkillrYear7ScienceData, window.SkillrYear7ScienceOrder, 18],
+            ['English', window.SkillrYear7EnglishData, window.SkillrYear7EnglishOrder, 24]
+          ];
+
+          for (const [subject, units, order, expected] of checks) {
+            const codes = Object.keys(units || {});
+            if (codes.length !== expected) throw new Error(`${subject}: expected ${expected} units, found ${codes.length}`);
+            if (!Array.isArray(order) || order.length !== expected) throw new Error(`${subject}: expected ${expected} ordered codes, found ${order?.length}`);
+            if (new Set(order).size !== expected) throw new Error(`${subject}: duplicate curriculum code in order`);
+
+            for (const code of order) {
+              const unit = units[code];
+              if (!unit) throw new Error(`${subject}: missing ${code}`);
+              for (const field of ['slug','title','subtitle','desc','routine','learn','model_title','model_html','apply_title','apply_html','hero_visual']) {
+                if (!unit[field]) throw new Error(`${code}: missing ${field}`);
+              }
+              if (!Array.isArray(unit.activities) || unit.activities.length < 3) throw new Error(`${code}: fewer than 3 activities`);
+              if (!Array.isArray(unit.mistakes) || unit.mistakes.length < 3) throw new Error(`${code}: fewer than 3 misconceptions`);
+              if (!Array.isArray(unit.quick) || unit.quick.length < 4) throw new Error(`${code}: insufficient Quick Check prompts`);
+              if (!Array.isArray(unit.mastery) || unit.mastery.length < 4) throw new Error(`${code}: insufficient mastery criteria`);
+              if (!Array.isArray(unit.quick_visuals) || unit.quick_visuals.length < 3) throw new Error(`${code}: insufficient visual summaries`);
+
+              const questions = unit.worksheet || [];
+              const core = questions.filter((question) => !question.enrichment);
+              const enrichment = questions.filter((question) => question.enrichment);
+              if (core.length !== 8 || enrichment.length !== 2) throw new Error(`${code}: expected 8 core + 2 enrichment, found ${core.length} + ${enrichment.length}`);
+
+              const types = new Set(core.map((question) => question.type));
+              for (const required of ['single','fill-blank','match','text']) {
+                if (!types.has(required)) throw new Error(`${code}: missing core question type ${required}`);
+              }
+
+              for (const [index, question] of questions.entries()) {
+                if (!question.question || !question.type) throw new Error(`${code} Q${index + 1}: missing prompt or type`);
+                if (question.type === 'single') {
+                  if (!Array.isArray(question.answers) || question.answers.length !== 4) throw new Error(`${code} Q${index + 1}: expected 4 answer choices, found ${question.answers?.length}`);
+                  if (new Set(question.answers).size !== 4) throw new Error(`${code} Q${index + 1}: duplicate answer choices`);
+                }
+                if (question.type === 'fill-blank' && !String(question.template || '').includes('{{blank}}')) throw new Error(`${code} Q${index + 1}: missing blank marker`);
+                if (question.type === 'match') {
+                  if (!Array.isArray(question.matchLeft) || !Array.isArray(question.matchRight)) throw new Error(`${code} Q${index + 1}: incomplete matching columns`);
+                  if (question.matchLeft.length !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: matching columns differ in length`);
+                  if (new Set(question.matchLeft).size !== question.matchLeft.length) throw new Error(`${code} Q${index + 1}: duplicate left match item`);
+                  if (new Set(question.matchRight).size !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: duplicate right match item`);
+                }
+              }
+            }
+          }
+
+          console.log('All 72 Year 7 units and authored worksheets passed.');
+          NODE
+
+      - name: Validate code lists, topic pages and quiz routes
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+
+          global.window = {};
+          require('./assets/year7-curriculum-base.js');
+          require('./assets/year7-maths-data-n.js');
+          require('./assets/year7-maths-data-am.js');
+          require('./assets/year7-maths-data-spstp.js');
+          require('./assets/year7-science-data-u.js');
+          require('./assets/year7-science-data-hi.js');
+          require('./assets/year7-english-data-la.js');
+          require('./assets/year7-english-data-le.js');
+          require('./assets/year7-english-data-ly.js');
+
+          const subjects = [
+            ['maths', 'math', window.SkillrYear7MathsData, /^AC9M7/, 30],
+            ['science', 'science', window.SkillrYear7ScienceData, /^AC9S7/, 18],
+            ['english', 'english', window.SkillrYear7EnglishData, /^AC9E7/, 24]
+          ];
+
+          for (const [topicSubject, quizSubject, units, codePattern, expected] of subjects) {
+            const indexPath = `year7/curriculum/${topicSubject}/index.html`;
+            const html = fs.readFileSync(indexPath, 'utf8');
+            const indexCodes = [...new Set((html.match(/AC9[A-Z0-9]+/g) || []).filter((code) => codePattern.test(code)))];
+            if (indexCodes.length !== expected) throw new Error(`${topicSubject}: expected ${expected} index codes, found ${indexCodes.length}`);
+
+            const unitCodes = Object.keys(units).sort();
+            const indexSet = new Set(indexCodes);
+            for (const code of unitCodes) if (!indexSet.has(code)) throw new Error(`${topicSubject}: authored code ${code} absent from curriculum index`);
+            for (const code of indexCodes) if (!units[code]) throw new Error(`${topicSubject}: curriculum code ${code} has no authored unit`);
+
+            for (const [code, unit] of Object.entries(units)) {
+              const topicFile = path.join('year7', topicSubject, unit.slug, 'index.html');
+              if (!fs.existsSync(topicFile)) throw new Error(`Missing topic page ${topicFile}`);
+              const topicHtml = fs.readFileSync(topicFile, 'utf8');
+              if (!topicHtml.includes(code)) throw new Error(`${topicFile}: code not found in page`);
+              if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${topicFile}: missing curriculum elaborations`);
+              if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${topicFile}: missing shared loader`);
+
+              const lower = code.toLowerCase();
+              for (const mode of ['practice','test','worksheet']) {
+                const quizFile = `quiz/year-7/${quizSubject}/${lower}/${mode}/index.html`;
+                if (!fs.existsSync(quizFile)) throw new Error(`Missing ${quizFile}`);
+                if (!fs.readFileSync(quizFile,'utf8').includes('/pwa-register.js')) throw new Error(`${quizFile}: missing shared loader`);
+              }
+            }
+          }
+
+          for (const subject of ['maths','science','english']) {
+            const file = `worksheets/year7/${subject}/teacher-slides/live.html`;
+            if (!fs.existsSync(file)) throw new Error(`Missing teacher slide ${file}`);
+            const html = fs.readFileSync(file,'utf8');
+            if (!html.includes('year7-curriculum-slide.js')) throw new Error(`${file}: missing slide renderer`);
+            if (!html.includes('/pwa-register.js')) throw new Error(`${file}: missing shared loader`);
+          }
+
+          console.log('Year 7 curriculum indexes, topic pages and all resource routes passed.');
+          NODE
+
+      - name: Confirm release wiring and wording
+        run: |
+          grep -q "year7-router.js" assets/display-only.js
+          grep -q "year7-curriculum-render.js" assets/year7-router.js
+          grep -q "year7-curriculum-quick-read.js" assets/year7-router.js
+          grep -q "year7-curriculum-worksheet-page.js" assets/year7-router.js
+          grep -q "year7-maths-data-n.js" assets/year7-router.js
+          grep -q "year7-science-data-u.js" assets/year7-router.js
+          grep -q "year7-english-data-la.js" assets/year7-router.js
+          ! grep -Eri "artificial intelligence|generative ai|ai-generated|created by ai" assets/year7-* workshe*ts/year7 || exit 1
+          ! grep -Eri "unsplash|pexels|pixabay|shutterstock|stock photo" assets/year7-* workshe*ts/year7 || exit 1
