@@ -8,7 +8,11 @@
     document.head.appendChild(displayOnlyScript);
   }
 
-  if (/^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) && !window.SkillrFoundationMaths) {
+  const foundationMathsTopic =
+    /^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) &&
+    !document.getElementById("teaching-lesson");
+
+  if (foundationMathsTopic && !window.SkillrFoundationMaths) {
     const lessonScripts = [
       "/assets/foundation-maths-data-number.js?v=1",
       "/assets/foundation-maths-data-other.js?v=1",
