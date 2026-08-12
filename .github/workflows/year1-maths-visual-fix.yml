@@ -53,8 +53,8 @@ jobs:
           }''',
               '''function removeFiller(text) {
             return clean(text)
-              .replace(/^([A-Z][a-z]+) checks (?:another|a new) example\.\s*/i, "$1 studies this example. ")
-              .replace(/^A child checks (?:another|a new) example\.\s*/i, "A child studies this example. ");
+              .replace(/\\bA child checks (?:another|a new) example\\.\\s*/gi, "A child studies this example. ")
+              .replace(/\\b([A-Z][a-z]+) checks (?:another|a new) example\\.\\s*/g, "$1 studies this example. ");
           }'''
           )
 
