@@ -48,6 +48,37 @@
     lesson.appendChild(section);
   }
 
+  function enhanceTopicActivities() {
+    if (path !== topicPath) return;
+    const trySection = [...document.querySelectorAll("#teaching-lesson .lesson-part")].find((section) =>
+      /^try it$/i.test((section.querySelector("h3")?.textContent || "").trim())
+    );
+    if (!trySection || trySection.dataset.skillrVisualActivities === "true") return;
+
+    if (!document.getElementById("skillr-science-activity-visual-style")) {
+      const style = document.createElement("style");
+      style.id = "skillr-science-activity-visual-style";
+      style.textContent = `
+        #teaching-lesson .science-activity-card{overflow:hidden;padding:0!important;background:#fff}
+        #teaching-lesson .science-activity-card img{display:block;width:100%;height:125px;object-fit:cover}
+        #teaching-lesson .science-activity-card__body{padding:9px 10px 10px}
+        #teaching-lesson .science-activity-card__body p{font-size:.88rem;line-height:1.4}
+        @media(max-width:680px){#teaching-lesson .science-activity-card img{height:170px}}
+      `;
+      document.head.appendChild(style);
+    }
+
+    const cards = [...trySection.querySelectorAll(".mini-grid-3 > .mini-card")];
+    cards.forEach((card, index) => {
+      const visual = QUICK_VISUALS[index];
+      if (!visual || card.querySelector("img")) return;
+      const oldHtml = card.innerHTML;
+      card.classList.add("science-activity-card");
+      card.innerHTML = `<img src="${visual.src}" alt="${visual.alt}" loading="lazy"><div class="science-activity-card__body">${oldHtml}</div>`;
+    });
+    trySection.dataset.skillrVisualActivities = "true";
+  }
+
   function installPracticeStyles() {
     if (path !== practicePath || document.getElementById("skillr-science-quick-read-style")) return;
     const style = document.createElement("style");
@@ -88,8 +119,6 @@
     const intro = card.querySelector(".intro-text");
     if (intro) intro.textContent = "A quick recap from the lesson before you practise.";
 
-    // New prototype pages carry their own permanent visual Quick Read.
-    // Do not add a second recap block when that panel is already present.
     if (card.querySelector(".science-quick-read")) {
       card.querySelectorAll(".pre-read-notes").forEach((node) => node.remove());
       return;
@@ -115,6 +144,7 @@
 
   function apply() {
     addExpansionNote();
+    enhanceTopicActivities();
     syncPracticeQuickRead();
   }
 
