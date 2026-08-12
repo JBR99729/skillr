@@ -1,102 +1,250 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m1sp01-e01",
+    "id": "ac9m1sp01-t-001",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "An object has two flat circular faces and one curved surface. Name the familiar solid.",
-    "explanation": "Cylinder (1 mark).",
+    "learningArea": "cube faces",
+    "skill": "cube faces",
+    "difficulty": "application",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "Cylinder (1 mark)"
+    "type": "number",
+    "question": "Mia studies this example. How many flat faces does a cube have?",
+    "explanation": "A cube has 6 square faces.",
+    "correct": 6,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20cylinder%2C%20sphere%2C%20cube%20and%20cone%20are%20shown%20with%20their%20different%20faces%20and%20curved%20surfaces.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Cellipse%20cx%3D%22105%22%20cy%3D%2278%22%20rx%3D%2242%22%20ry%3D%2216%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%2263%22%20y%3D%2278%22%20width%3D%2284%22%20height%3D%2284%22%20class%3D%22blue%22%2F%3E%3Cellipse%20cx%3D%22105%22%20cy%3D%22162%22%20rx%3D%2242%22%20ry%3D%2216%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22255%22%20cy%3D%22120%22%20r%3D%2248%22%20class%3D%22green%22%2F%3E%3Cpath%20d%3D%22M375%2078%20L430%2098%20L430%20158%20L375%20177%20L320%20158%20L320%2098%20Z%22%20class%3D%22yellow%22%2F%3E%3Cpath%20d%3D%22M375%2078%20V138%20M320%2098%20L375%20118%20L430%2098%20M375%20118%20V177%22%20class%3D%22thin%22%2F%3E%3Cellipse%20cx%3D%22535%22%20cy%3D%22163%22%20rx%3D%2248%22%20ry%3D%2213%22%20class%3D%22red%22%2F%3E%3Cpath%20d%3D%22M487%20163%20L535%2068%20L583%20163%20Z%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22198%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecylinder%3C%2Ftext%3E%3Ctext%20x%3D%22255%22%20y%3D%22198%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esphere%3C%2Ftext%3E%3Ctext%20x%3D%22375%22%20y%3D%22198%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecube%3C%2Ftext%3E%3Ctext%20x%3D%22535%22%20y%3D%22198%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Econe%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20cylinder%2C%20sphere%2C%20cube%20and%20cone%20are%20shown%20with%20their%20different%20faces%20and%20curved%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A cylinder, sphere, cube and cone are shown with their different faces and curved surfaces. Specific example: ▣ cube This is test example 1."
+  },
+  {
+    "id": "ac9m1sp01-t-002",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "test",
+    "learningArea": "rotated shape",
+    "skill": "rotated shape",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "true-false",
+    "question": "Sam studies this example. A square turned so that one corner points up is still a square.",
+    "explanation": "Turning a shape does not change its sides or corners.",
+    "answers": [
+      "True",
+      "False"
     ],
-    "correct": "Cylinder (1 mark)"
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: ◇ This is test example 2."
   },
   {
-    "id": "ac9m1sp01-e02",
+    "id": "ac9m1sp01-t-003",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match cube, sphere and cylinder to only flat faces; only a curved surface; flat circular faces plus a curved surface.",
-    "explanation": "Cube ↔ only flat faces; sphere ↔ only curved surface; cylinder ↔ flat circles plus curved surface (1 mark each).",
+    "learningArea": "sort shapes",
+    "skill": "sort shapes",
+    "difficulty": "challenge",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Cube ↔ only flat faces; sphere ↔ only curved surface; cylinder ↔ flat circles plus curved surface (1 mark each).",
-    "correct": "Cube ↔ only flat faces; sphere ↔ only curved surface; cylinder ↔ flat circles plus curved surface (1 mark each)."
+    "type": "multiple",
+    "question": "Ava studies this example. Select all useful features for sorting shapes.",
+    "explanation": "Mathematical sorting uses observable shape features.",
+    "answers": [
+      "curved or straight boundaries",
+      "whether I like the colour",
+      "number of sides",
+      "number of corners"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 3."
   },
   {
-    "id": "ac9m1sp01-e03",
+    "id": "ac9m1sp01-t-004",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Sequencing",
-    "question": "Order these clues from least to most specific for a square: flat shape; has straight sides; has 4 sides; has 4 equal sides.",
-    "explanation": "Flat → straight sides → 4 sides → 4 equal sides (2 marks).",
+    "learningArea": "select four-sided shapes",
+    "skill": "select four-sided shapes",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Flat → straight sides → 4 sides → 4 equal sides (2 marks).",
-    "correct": "Flat → straight sides → 4 sides → 4 equal sides (2 marks)."
+    "type": "multiple",
+    "question": "Sam studies this example. Select all flat shapes with 4 straight sides.",
+    "explanation": "Squares and rectangles each have 4 straight sides.",
+    "answers": [
+      "square",
+      "rectangle",
+      "triangle",
+      "circle"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: select four-sided shapes This is test example 4."
   },
   {
-    "id": "ac9m1sp01-e04",
+    "id": "ac9m1sp01-t-005",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "A window is tall and rectangular. Explain why its size does not affect its shape classification.",
-    "explanation": "Classification uses side/corner features; being tall or large does not change the rectangle's 4 straight sides and corners (2 marks).",
+    "learningArea": "build a shape",
+    "skill": "build a shape",
+    "difficulty": "application",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Classification uses side/corner features; being tall or large does not change the rectangle's 4 straight sides and corners (2 marks).",
-    "correct": "Classification uses side/corner features; being tall or large does not change the rectangle's 4 straight sides and corners (2 marks)."
+    "type": "single",
+    "question": "Lina studies this example. Which set of sticks could make a triangle?",
+    "explanation": "A triangle needs 3 joined straight sides.",
+    "answers": [
+      "2 sticks only",
+      "one curved string only",
+      "3 straight sticks joined end-to-end",
+      "5 sticks left apart"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: build a shape This is test example 5."
   },
   {
-    "id": "ac9m1sp01-e05",
+    "id": "ac9m1sp01-t-006",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Demonstration",
-    "question": "Use modelling material to make a ball-like object and a box-like object. Demonstrate one movement difference.",
-    "explanation": "Makes curved and flat-faced forms; shows curved form rolls while flat-faced form can slide/stack (3 marks).",
+    "learningArea": "classify by feature",
+    "skill": "classify by feature",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Makes curved and flat-faced forms; shows curved form rolls while flat-faced form can slide/stack (3 marks).",
-    "correct": "Makes curved and flat-faced forms; shows curved form rolls while flat-faced form can slide/stack (3 marks)."
+    "type": "single",
+    "question": "Sam studies this example. Which sorting rule uses a mathematical shape feature?",
+    "explanation": "Sides, corners and curves are mathematical features.",
+    "answers": [
+      "favourite / not favourite",
+      "bright / dull",
+      "has a curved boundary / has only straight sides",
+      "near me / far away"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 6."
   },
   {
-    "id": "ac9m1sp01-e06",
+    "id": "ac9m1sp01-t-007",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Drawing response",
-    "question": "Draw and label one circle, rectangle and cylinder found in a classroom or home.",
-    "explanation": "Three reasonable objects are drawn and correctly linked to the named shapes (3 marks).",
+    "learningArea": "count sides",
+    "skill": "count sides",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Three reasonable objects are drawn and correctly linked to the named shapes (3 marks).",
-    "correct": "Three reasonable objects are drawn and correctly linked to the named shapes (3 marks)."
+    "type": "number",
+    "question": "Lina studies this example. How many straight sides does a rectangle have?",
+    "explanation": "A rectangle has 4 straight sides.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count sides This is test example 7."
   },
   {
-    "id": "ac9m1sp01-e07",
+    "id": "ac9m1sp01-t-008",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "A student puts all red shapes together and calls the group ‘triangles’. Explain why the rule is unreliable and give a better rule.",
-    "explanation": "Colour does not prove shape; sort by 3 sides and 3 corners to identify triangles (3 marks).",
+    "learningArea": "recognise real object",
+    "skill": "recognise real object",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Colour does not prove shape; sort by 3 sides and 3 corners to identify triangles (3 marks).",
-    "correct": "Colour does not prove shape; sort by 3 sides and 3 corners to identify triangles (3 marks)."
+    "type": "single",
+    "question": "Lina studies this example. Which shape is commonly seen in a door?",
+    "explanation": "A door has the familiar form of a rectangle.",
+    "answers": [
+      "triangle only",
+      "sphere only",
+      "rectangle",
+      "no shape"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: recognise real object This is test example 8."
   },
   {
-    "id": "ac9m1sp01-e08",
+    "id": "ac9m1sp01-t-009",
     "curriculumCode": "AC9M1SP01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Compare a can, ball, cereal box and coin. Group them in two useful ways and state the feature used each time.",
-    "explanation": "Two valid classifications, such as rolls/does not roll and circular face/no circular face, with every placement justified (4 marks).",
+    "learningArea": "2D and 3D",
+    "skill": "2D and 3D",
+    "difficulty": "application",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Two valid classifications, such as rolls/does not roll and circular face/no circular face, with every placement justified (4 marks).",
-    "correct": "Two valid classifications, such as rolls/does not roll and circular face/no circular face, with every placement justified (4 marks)."
+    "type": "single",
+    "question": "Lina studies this example. Which statement correctly compares a square and a cube?",
+    "explanation": "A square is 2D and a cube is 3D.",
+    "answers": [
+      "Both are flat",
+      "Both are circles",
+      "A square is flat; a cube is a solid object",
+      "A cube has no faces"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9m1sp01-t-010",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "test",
+    "learningArea": "name familiar shape",
+    "skill": "name familiar shape",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "single",
+    "question": "Ruby studies this example. Which shape name matches □?",
+    "explanation": "The symbol is a square.",
+    "answers": [
+      "circle",
+      "triangle",
+      "rectangle",
+      "square"
+    ],
+    "correct": 3,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: name familiar shape This is test example 10."
+  },
+  {
+    "id": "ac9m1sp01-t-011",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "test",
+    "learningArea": "count corners",
+    "skill": "count corners",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Mia studies this example. How many corners does a square have?",
+    "explanation": "A square has 4 corners.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. Specific example: Familiar Shapes and Objects: count corners This is test example 11."
+  },
+  {
+    "id": "ac9m1sp01-t-012",
+    "curriculumCode": "AC9M1SP01",
+    "bank": "test",
+    "learningArea": "curved boundary",
+    "skill": "curved boundary",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Ava studies this example. Which familiar flat shape has a curved boundary and no corners?",
+    "explanation": "A circle has one continuous curved boundary.",
+    "answers": [
+      "triangle",
+      "square",
+      "circle",
+      "rectangle"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EFamiliar%20Shapes%20and%20Objects%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%20compared.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ccircle%20cx%3D%22105%22%20cy%3D%22115%22%20r%3D%2236%22%20class%3D%22blue%22%2F%3E%3Crect%20x%3D%22195%22%20y%3D%2278%22%20width%3D%2274%22%20height%3D%2274%22%20rx%3D%227%22%20class%3D%22green%22%2F%3E%3Cpolygon%20points%3D%22365%2C72%20320%2C151%20410%2C151%22%20class%3D%22yellow%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2286%22%20width%3D%22116%22%20height%3D%2258%22%20rx%3D%227%22%20class%3D%22red%22%2F%3E%3Ctext%20x%3D%22105%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Ecircle%3C%2Ftext%3E%3Ctext%20x%3D%22232%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Esquare%3C%2Ftext%3E%3Ctext%20x%3D%22365%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Etriangle%3C%2Ftext%3E%3Ctext%20x%3D%22524%22%20y%3D%22176%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3Erectangle%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20circle%2C%20square%2C%20triangle%20and%20rectangle%20are%20shown%20so%20their%20sides%20and%20corners%20can%20be%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A circle, square, triangle and rectangle are shown so their sides and corners can be compared. This is test example 12."
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
