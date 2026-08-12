@@ -1,0 +1,146 @@
+{
+  "generatedAt": "2026-08-12T18:22:27.110Z",
+  "standard": {
+    "practice": 28,
+    "test": 12,
+    "quiz": 50,
+    "totalPerCode": 90
+  },
+  "codes": {
+    "AC9M1A01": {
+      "title": "Skip-counting Pattern Sequences",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 65
+    },
+    "AC9M1A02": {
+      "title": "Repeating Patterns",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 63
+    },
+    "AC9M1M01": {
+      "title": "Comparing Length, Mass, Capacity and Duration",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 15,
+        "test": 12,
+        "quiz": 15
+      },
+      "visuals": 56
+    },
+    "AC9M1M02": {
+      "title": "Measuring Length with Informal Units",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 69
+    },
+    "AC9M1M03": {
+      "title": "Time: Years, Months, Weeks, Days and Hours",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 50
+    },
+    "AC9M1SP01": {
+      "title": "Familiar Shapes and Objects",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 60
+    },
+    "AC9M1SP02": {
+      "title": "Directions and Location",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 73
+    },
+    "AC9M1ST01": {
+      "title": "Collecting Categorical Data",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 61
+    },
+    "AC9M1ST02": {
+      "title": "Representing and Comparing Data",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 83
+    }
+  },
+  "totals": {
+    "practice": 252,
+    "test": 108,
+    "quiz": 450,
+    "questions": 810,
+    "visuals": 580
+  },
+  "qa": "Content QA complete; human QA pending.",
+  "dailyDrills": {
+    "total": 108,
+    "bySkill": {
+      "skip-counting-equal-groups": 12,
+      "measurement-time-space-data": 95,
+      "maths-vocabulary": 1
+    },
+    "byCode": {
+      "AC9M1A01": 12,
+      "AC9M1A02": 12,
+      "AC9M1M01": 12,
+      "AC9M1M02": 12,
+      "AC9M1M03": 12,
+      "AC9M1SP01": 12,
+      "AC9M1SP02": 12,
+      "AC9M1ST01": 12,
+      "AC9M1ST02": 12
+    }
+  }
+}

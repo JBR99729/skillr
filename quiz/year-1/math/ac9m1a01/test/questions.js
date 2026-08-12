@@ -1,104 +1,230 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m1a01-e01",
+    "id": "ac9m1a01-t-001",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Write the next three terms in 23, 25, 27, __, __, __.",
-    "explanation": "29, 31, 33 (1 mark).",
+    "learningArea": "object pattern",
+    "skill": "object pattern",
+    "difficulty": "challenge",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "29, 31, 33 (1 mark)"
+    "type": "single",
+    "question": "Ava checks another example. Which object display represents counting by 10s?",
+    "explanation": "Equal groups show the same skip each time.",
+    "answers": [
+      "[● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●] [● ● ● ● ●]",
+      "[10] [10] [10] [10]",
+      "[10] [10] [10]",
+      "● ● ● ● ● ● ● ● ● ●"
     ],
-    "correct": "29, 31, 33 (1 mark)"
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EEach%20bracket%20is%20one%20equal%20group.%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Eobject%20pattern%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E0%3C%2Ftext%3E%3Ccircle%20cx%3D%22176%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ccircle%20cx%3D%22272%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22272%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22368%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ccircle%20cx%3D%22464%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22464%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EEach%20bracket%20is%20one%20equal%20group.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Each bracket is one equal group."
   },
   {
-    "id": "ac9m1a01-e02",
+    "id": "ac9m1a01-t-002",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match 8,13,18; 40,50,60; and 14,16,18 to groups growing by 5, 10 and 2.",
-    "explanation": "8,13,18 ↔ +5; 40,50,60 ↔ +10; 14,16,18 ↔ +2 (1 mark each).",
+    "learningArea": "members of a sequence",
+    "skill": "members of a sequence",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "8,13,18 ↔ +5; 40,50,60 ↔ +10; 14,16,18 ↔ +2 (1 mark each).",
-    "correct": "8,13,18 ↔ +5; 40,50,60 ↔ +10; 14,16,18 ↔ +2 (1 mark each)."
-  },
-  {
-    "id": "ac9m1a01-e03",
-    "curriculumCode": "AC9M1A01",
-    "bank": "test",
-    "sourceType": "Sequencing",
-    "question": "Order 55, 35, 50, 40, 45 into a +5 sequence.",
-    "explanation": "35, 40, 45, 50, 55 (1 mark).",
-    "printable": true,
-    "type": "self-check",
-    "modelAnswer": "35, 40, 45, 50, 55 (1 mark).",
-    "correct": "35, 40, 45, 50, 55 (1 mark)."
-  },
-  {
-    "id": "ac9m1a01-e04",
-    "curriculumCode": "AC9M1A01",
-    "bank": "test",
-    "sourceType": "Short response",
-    "question": "On a hundreds chart, a path goes 26, 36, 46, 56. State the movement and next two numbers.",
-    "explanation": "Move down one row/add 10; 66, 76 (3 marks).",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "Move down one row/add 10; 66, 76 (3 marks)"
+    "type": "multiple",
+    "question": "Lina checks another example. Select all numbers in the first three terms of the add-10 pattern starting at 30.",
+    "explanation": "The first three terms are 30, 40 and 50.",
+    "answers": [
+      "50",
+      "41",
+      "30",
+      "40"
     ],
-    "correct": "Move down one row/add 10; 66, 76 (3 marks)"
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ELina%20checks%20another%20example.%20Select%20all%20numbers%20in%20the%20first%20three%20terms%20of%20the%20add-10%20pattern%20starting%20at%2030.%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Emembers%20of%20a%20sequence%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E0%3C%2Ftext%3E%3Ccircle%20cx%3D%22176%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ccircle%20cx%3D%22272%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22272%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22368%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ccircle%20cx%3D%22464%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22464%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ELina%20checks%20another%20example.%20Select%20all%20numbers%20in%20the%20first%20three%20terms%20of%20the%20add-10%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Skip-counting Pattern Sequences: members of a sequence"
   },
   {
-    "id": "ac9m1a01-e05",
+    "id": "ac9m1a01-t-003",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Demonstration",
-    "question": "Show the pattern 4, 9, 14, 19 on a number line and state the jump size.",
-    "explanation": "Marks equal +5 jumps and states 5 (2 marks).",
+    "learningArea": "non-zero start",
+    "skill": "non-zero start",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Marks equal +5 jumps and states 5 (2 marks).",
-    "correct": "Marks equal +5 jumps and states 5 (2 marks)."
+    "type": "number",
+    "question": "Start at 11 and make 3 jumps of 2. Where do you land?",
+    "explanation": "11 + 2 + 2 + 2 = 17.",
+    "correct": 17,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E11%20%E2%86%92%2013%20%E2%86%92%2015%20%E2%86%92%2017%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Enon-zero%20start%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Ccircle%20cx%3D%22240%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3E11%20%E2%86%92%2013%20%E2%86%92%2015%20%E2%86%92%2017%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "11 → 13 → 15 → 17"
   },
   {
-    "id": "ac9m1a01-e06",
+    "id": "ac9m1a01-t-004",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Drawing response",
-    "question": "Draw four groups in which the number of stars grows 10, 20, 30, 40. Label the rule.",
-    "explanation": "Shows and labels four totals with rule +10 (2 marks).",
+    "learningArea": "groups create a pattern",
+    "skill": "groups create a pattern",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Shows and labels four totals with rule +10 (2 marks).",
-    "correct": "Shows and labels four totals with rule +10 (2 marks)."
+    "type": "number",
+    "question": "4 equal groups each represent 10. What is the final skip-count number?",
+    "explanation": "The sequence reaches 40.",
+    "correct": 40,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E%5B10%5D%20%5B10%5D%20%5B10%5D%20%5B10%5D%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Egroups%20create%20a%20pattern%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Ccircle%20cx%3D%22240%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3E%5B10%5D%20%5B10%5D%20%5B10%5D%20%5B10%5D%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "[10] [10] [10] [10]"
   },
   {
-    "id": "ac9m1a01-e07",
+    "id": "ac9m1a01-t-005",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Sequence A is 2,4,6,8. Sequence B is 2,7,12,17. Explain one similarity and one difference.",
-    "explanation": "Both increase by a constant amount; A adds 2 while B adds 5 (3 marks).",
+    "learningArea": "continue by fives",
+    "skill": "continue by fives",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Both increase by a constant amount; A adds 2 while B adds 5 (3 marks).",
-    "correct": "Both increase by a constant amount; A adds 2 while B adds 5 (3 marks)."
+    "type": "number",
+    "question": "Lina checks another example. Complete the sequence: 10, 15, ___, 25.",
+    "explanation": "Each term is 5 more than the one before.",
+    "correct": 20,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ELina%20checks%20another%20example.%20Complete%20the%20sequence%3A%2010%2C%2015%2C%20___%2C%2025.%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Econtinue%20by%20fives%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E0%3C%2Ftext%3E%3Ccircle%20cx%3D%22176%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ccircle%20cx%3D%22272%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22272%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22368%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ccircle%20cx%3D%22464%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22464%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ELina%20checks%20another%20example.%20Complete%20the%20sequence%3A%2010%2C%2015%2C%20___%2C%2025.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Skip-counting Pattern Sequences: continue by fives"
   },
   {
-    "id": "ac9m1a01-e08",
+    "id": "ac9m1a01-t-006",
     "curriculumCode": "AC9M1A01",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "A +5 sequence ends 31, 36, 41. Write the three terms before 31 and explain your backward rule.",
-    "explanation": "16, 21, 26; subtract 5 to work backwards, then +5 verifies all terms (4 marks).",
+    "learningArea": "count backwards",
+    "skill": "count backwards",
+    "difficulty": "application",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "16, 21, 26; subtract 5 to work backwards, then +5 verifies all terms (4 marks).",
-    "correct": "16, 21, 26; subtract 5 to work backwards, then +5 verifies all terms (4 marks)."
+    "type": "number",
+    "question": "Arlo checks another example. Count back by 2: 10, 8, 6, ___.",
+    "explanation": "Subtract 2 each time.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number"
+  },
+  {
+    "id": "ac9m1a01-t-007",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "continue by tens",
+    "skill": "continue by tens",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Omar checks another example. What comes next: 30, 40, 50, 60, ___?",
+    "explanation": "The rule is add 10.",
+    "correct": 70,
+    "tolerance": 0,
+    "placeholder": "Type the number"
+  },
+  {
+    "id": "ac9m1a01-t-008",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "continue by twos",
+    "skill": "continue by twos",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Continue the pattern: 12, 14, 16, ___.",
+    "explanation": "The pattern adds 2 each time.",
+    "correct": 18,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EContinue%20the%20pattern%3A%2012%2C%2014%2C%2016%2C%20___.%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Econtinue%20by%20twos%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E0%3C%2Ftext%3E%3Ccircle%20cx%3D%22176%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22176%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ccircle%20cx%3D%22272%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22272%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ccircle%20cx%3D%22368%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22368%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ccircle%20cx%3D%22464%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22464%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EContinue%20the%20pattern%3A%2012%2C%2014%2C%2016%2C%20___.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Skip-counting Pattern Sequences: continue by twos"
+  },
+  {
+    "id": "ac9m1a01-t-009",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "spot pattern error",
+    "skill": "spot pattern error",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "single",
+    "question": "Sam checks another example. Which term breaks the rule “add 10”: 10, 20, 30, 41, 50?",
+    "explanation": "41 should be 40.",
+    "answers": [
+      "20",
+      "41",
+      "30",
+      "50"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9m1a01-t-010",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "identify skip rule",
+    "skill": "identify skip rule",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "What is the rule for 20, 30, 40, 50?",
+    "explanation": "The difference between neighbouring terms is 10.",
+    "answers": [
+      "add 11",
+      "add 10",
+      "subtract 10",
+      "add 1"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhat%20is%20the%20rule%20for%2020%2C%2030%2C%2040%2C%2050%3F%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Eidentify%20skip%20rule%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Ccircle%20cx%3D%22240%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E30%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E40%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E50%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EWhat%20is%20the%20rule%20for%2020%2C%2030%2C%2040%2C%2050%3F%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Skip-counting Pattern Sequences: identify skip rule"
+  },
+  {
+    "id": "ac9m1a01-t-011",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "classify a pattern",
+    "skill": "classify a pattern",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Ava checks another example. Which label fits the sequence 10, 20, 30, 40?",
+    "explanation": "Every term increases by 10.",
+    "answers": [
+      "skip counting by 11s",
+      "skip counting by 10s",
+      "a repeating AB pattern",
+      "no pattern"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ESkip-counting%20Pattern%20Sequences%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EAva%20checks%20another%20example.%20Which%20label%20fits%20the%20sequence%2010%2C%2020%2C%2030%2C%2040%3F%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Eclassify%20a%20pattern%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%22118%22%20x2%3D%22570%22%20y2%3D%22118%22%20class%3D%22line%22%2F%3E%3Ccircle%20cx%3D%2280%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Ccircle%20cx%3D%22240%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token1%22%2F%3E%3Ctext%20x%3D%22240%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E20%3C%2Ftext%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token2%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E30%3C%2Ftext%3E%3Ccircle%20cx%3D%22560%22%20cy%3D%22118%22%20r%3D%2218%22%20class%3D%22token0%22%2F%3E%3Ctext%20x%3D%22560%22%20y%3D%22124%22%20class%3D%22small%22%20text-anchor%3D%22middle%22%3E40%3C%2Ftext%3E%3Cpath%20d%3D%22M110%2074%20Q175%2028%20240%2074%22%20class%3D%22arrow%22%2F%3E%3Cpath%20d%3D%22M285%2074%20Q350%2028%20415%2074%22%20class%3D%22arrow%22%2F%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EAva%20checks%20another%20example.%20Which%20label%20fits%20the%20sequence%2010%2C%2020%2C%2030%2C%2040%3F%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Skip-counting Pattern Sequences: classify a pattern"
+  },
+  {
+    "id": "ac9m1a01-t-012",
+    "curriculumCode": "AC9M1A01",
+    "bank": "test",
+    "learningArea": "compare pattern rules",
+    "skill": "compare pattern rules",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Pattern A is 35, 40, 45. Pattern B is 35, 45, 55. Which statement is true?",
+    "explanation": "Compare the difference between neighbouring terms.",
+    "answers": [
+      "Both count by 2s",
+      "A counts by 5s and B counts by 10s",
+      "A counts by 10s and B by 5s",
+      "Neither has a rule"
+    ],
+    "correct": 1
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

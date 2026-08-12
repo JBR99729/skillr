@@ -1,104 +1,261 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m1sp02-e01",
+    "id": "ac9m1sp02-t-001",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "The lunchbox is under the table and to the left of the chair. Describe its position using both clues.",
-    "explanation": "Under the table and left of the chair (2 marks).",
+    "learningArea": "location sentence",
+    "skill": "location sentence",
+    "difficulty": "challenge",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "Under the table and left of the chair (2 marks)"
+    "type": "single",
+    "question": "Ava checks another example. Which sentence correctly describes the picture?",
+    "explanation": "The triangle sits in the middle of the two circles.",
+    "answers": [
+      "The triangle is above both circles",
+      "The circles are inside the triangle",
+      "Nothing has a position",
+      "The triangle is between the circles"
     ],
-    "correct": "Under the table and left of the chair (2 marks)"
+    "correct": 3,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E%E2%97%8B%20%E2%96%B3%20%E2%97%8B%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Elocation%20sentence%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3E%E2%97%8B%20%E2%96%B3%20%E2%97%8B%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "○ △ ○"
   },
   {
-    "id": "ac9m1sp02-e02",
+    "id": "ac9m1sp02-t-002",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match ↑, → and ↶ to forward/up, right and turn left.",
-    "explanation": "↑ ↔ forward/up on the map; → ↔ right; ↶ ↔ turn left (1 mark each).",
+    "learningArea": "move backward",
+    "skill": "move backward",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "↑ ↔ forward/up on the map; → ↔ right; ↶ ↔ turn left (1 mark each).",
-    "correct": "↑ ↔ forward/up on the map; → ↔ right; ↶ ↔ turn left (1 mark each)."
-  },
-  {
-    "id": "ac9m1sp02-e03",
-    "curriculumCode": "AC9M1SP02",
-    "bank": "test",
-    "sourceType": "Sequencing",
-    "question": "Order: turn right at the gate; start at the house; walk to the gate; finish at the pond.",
-    "explanation": "Start at house → walk to gate → turn right → finish at pond (2 marks).",
-    "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Start at house → walk to gate → turn right → finish at pond (2 marks).",
-    "correct": "Start at house → walk to gate → turn right → finish at pond (2 marks)."
-  },
-  {
-    "id": "ac9m1sp02-e04",
-    "curriculumCode": "AC9M1SP02",
-    "bank": "test",
-    "sourceType": "Short response",
-    "question": "A token moves 2 squares up from the start. The goal is the square immediately to its right. State the missing move.",
-    "explanation": "Move 1 square right (1 mark).",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "Move 1 square right (1 mark)"
+    "type": "single",
+    "question": "Arlo checks another example. A robot faces right. Which arrow moves it backward?",
+    "explanation": "Backward is opposite the facing direction.",
+    "answers": [
+      "←",
+      "→",
+      "↑",
+      "↓"
     ],
-    "correct": "Move 1 square right (1 mark)"
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ERobot%3A%20%E2%86%92%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Emove%20backward%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ERobot%3A%20%E2%86%92%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Robot: →"
   },
   {
-    "id": "ac9m1sp02-e05",
+    "id": "ac9m1sp02-t-003",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Demonstration",
-    "question": "Face forward, turn left, return to the start direction, then turn right. Show the two final facing directions.",
-    "explanation": "Accurately demonstrates left and right as opposite quarter-turn directions (2 marks).",
+    "learningArea": "position words",
+    "skill": "position words",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Accurately demonstrates left and right as opposite quarter-turn directions (2 marks).",
-    "correct": "Accurately demonstrates left and right as opposite quarter-turn directions (2 marks)."
+    "type": "single",
+    "question": "Mia checks another example. The cup is ___ the plate.",
+    "explanation": "Beside describes the shown position.",
+    "answers": [
+      "beside",
+      "behind",
+      "inside",
+      "far"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E%E2%98%95%20%E2%97%8B%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Eposition%20words%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3E%E2%98%95%20%E2%97%8B%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "☕ ○"
   },
   {
-    "id": "ac9m1sp02-e06",
+    "id": "ac9m1sp02-t-004",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Drawing response",
-    "question": "Draw two different routes from the top-left to bottom-right of a 3-by-3 grid without leaving the grid.",
-    "explanation": "Both routes begin/end correctly, remain inside the grid and use clear arrows (3 marks).",
+    "learningArea": "move forward",
+    "skill": "move forward",
+    "difficulty": "easy",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Both routes begin/end correctly, remain inside the grid and use clear arrows (3 marks).",
-    "correct": "Both routes begin/end correctly, remain inside the grid and use clear arrows (3 marks)."
+    "type": "single",
+    "question": "Ruby checks another example. A robot faces up. Which arrow moves it forward?",
+    "explanation": "Forward is the direction the robot is facing.",
+    "answers": [
+      "↑",
+      "↓",
+      "←",
+      "→"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ERobot%3A%20%E2%86%91%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Emove%20forward%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ERobot%3A%20%E2%86%91%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Robot: ↑"
   },
   {
-    "id": "ac9m1sp02-e07",
+    "id": "ac9m1sp02-t-005",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "A note says ‘Go over there, then turn.’ Explain two details it needs before someone can follow it.",
-    "explanation": "Needs a clear start/facing direction and destination, distance/step count, turn direction or landmark; any two explained (3 marks).",
+    "learningArea": "follow two-step directions",
+    "skill": "follow two-step directions",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Needs a clear start/facing direction and destination, distance/step count, turn direction or landmark; any two explained (3 marks).",
-    "correct": "Needs a clear start/facing direction and destination, distance/step count, turn direction or landmark; any two explained (3 marks)."
+    "type": "single",
+    "question": "Ava checks another example. Start on A. Move 4 spaces right, then 1 space up. Which instruction summary is correct?",
+    "explanation": "Follow each direction in the stated order.",
+    "answers": [
+      "4 left, then 1 down",
+      "1 right only",
+      "4 up, then 1 left",
+      "4 right, then 1 up"
+    ],
+    "correct": 3,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E%E2%96%A1%20%E2%96%A1%20%E2%96%A1%20%E2%96%A1%20A%20%E2%86%92%20%E2%86%92%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Efollow%20two-step%20directions%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3E%E2%96%A1%20%E2%96%A1%20%E2%96%A1%20%E2%96%A1%20A%20%E2%86%92%20%E2%86%92%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "□ □ □ □ A → →"
   },
   {
-    "id": "ac9m1sp02-e08",
+    "id": "ac9m1sp02-t-006",
     "curriculumCode": "AC9M1SP02",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Route A uses 3 steps right then 2 down. Route B uses 2 down then 3 right. Explain when they reach the same place and what could make one safer.",
-    "explanation": "On an open grid they have the same displacement/end; obstacles or crossings can make one route safer, with a relevant example (4 marks).",
+    "learningArea": "order route steps",
+    "skill": "order route steps",
+    "difficulty": "core",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "On an open grid they have the same displacement/end; obstacles or crossings can make one route safer, with a relevant example (4 marks).",
-    "correct": "On an open grid they have the same displacement/end; obstacles or crossings can make one route safer, with a relevant example (4 marks)."
+    "type": "order",
+    "question": "Omar checks another example. Put the route instructions in order.",
+    "explanation": "A route begins at the named start and follows each move in order.",
+    "items": [
+      "Move 2 steps forward",
+      "Turn right",
+      "Stop beside the bench",
+      "Start at the tree"
+    ],
+    "correct": [
+      "Start at the tree",
+      "Move 2 steps forward",
+      "Turn right",
+      "Stop beside the bench"
+    ],
+    "instruction": "Arrange the items in the correct order."
+  },
+  {
+    "id": "ac9m1sp02-t-007",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "directions to target",
+    "skill": "directions to target",
+    "difficulty": "core",
+    "printable": true,
+    "type": "multiple",
+    "question": "Sam checks another example. Select all instructions that are clear enough to follow.",
+    "explanation": "Clear instructions name positions or movements precisely.",
+    "answers": [
+      "Start at the door and move 4 steps forward",
+      "Put the counter between the two stars",
+      "Go somewhere",
+      "Move it over there"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ESam%20checks%20another%20example.%20Select%20all%20instructions%20that%20are%20clear%20enough%20to%20follow.%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Edirections%20to%20target%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ESam%20checks%20another%20example.%20Select%20all%20instructions%20that%20are%20clear%20enough%20to%20follow.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Directions and Location: directions to target"
+  },
+  {
+    "id": "ac9m1sp02-t-008",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "final grid location",
+    "skill": "final grid location",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Ruby checks another example. A counter starts at the bottom-left corner. It moves 1 squares right and 1 squares up. Which description names the final move?",
+    "explanation": "Track horizontal and vertical moves from the stated start.",
+    "answers": [
+      "1 right and 1 up from the start",
+      "1 left and 1 down",
+      "1 right only",
+      "back at the start"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ERuby%20checks%20another%20example.%20A%20counter%20starts%20at%20the%20bottom-left%20corner.%20It%20moves%201%20squares%20right%20and%201%20squares%20up.%20Which%20description%20names%20the%20final%20move%3F%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Efinal%20grid%20location%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ERuby%20checks%20another%20example.%20A%20counter%20starts%20at%20the%20bottom-left%20corner.%20It%20moves%201%E2%80%A6%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Directions and Location: final grid location"
+  },
+  {
+    "id": "ac9m1sp02-t-009",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "reverse a route",
+    "skill": "reverse a route",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Omar checks another example. A counter moved 3 spaces right. Which move returns it to the start?",
+    "explanation": "The opposite move of right is left by the same number of spaces.",
+    "answers": [
+      "3 spaces right",
+      "1 space up",
+      "turn without moving",
+      "3 spaces left"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "ac9m1sp02-t-010",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "choose clear direction",
+    "skill": "choose clear direction",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Leo checks another example. Which direction is clearest?",
+    "explanation": "Clear directions include a start, movement and amount.",
+    "answers": [
+      "Start at the mat, move 3 steps forward, then turn left",
+      "Go over there",
+      "Move it somewhere",
+      "Turn maybe"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ELeo%20checks%20another%20example.%20Which%20direction%20is%20clearest%3F%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Echoose%20clear%20direction%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3ELeo%20checks%20another%20example.%20Which%20direction%20is%20clearest%3F%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Directions and Location: choose clear direction"
+  },
+  {
+    "id": "ac9m1sp02-t-011",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "clear starting point",
+    "skill": "clear starting point",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo checks another example. Why should directions name a starting point?",
+    "explanation": "A clear start makes the route repeatable.",
+    "answers": [
+      "The same moves can end in different places from different starts",
+      "Starting points change colour",
+      "Directions never need checking",
+      "A start makes the path longer"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3EDirections%20and%20Location%20visual%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EArlo%20checks%20another%20example.%20Why%20should%20directions%20name%20a%20starting%20point%3F%3C%2Fdesc%3E%3Cstyle%3E.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%2C.object%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.object%7Bstroke-width%3A9%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23a)%7D.token0%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.token1%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.token2%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22a%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2224%22%20y%3D%2229%22%20class%3D%22label%22%3Eclear%20starting%20point%3C%2Ftext%3E%3Cg%20transform%3D%22translate(92%2052)%22%3E%3Crect%20x%3D%220%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%220%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2236%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%2272%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22108%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%220%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%2268%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22136%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22204%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22272%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Crect%20x%3D%22340%22%20y%3D%22144%22%20width%3D%2266%22%20height%3D%2234%22%20class%3D%22grid%22%2F%3E%3Ccircle%20cx%3D%2234%22%20cy%3D%22162%22%20r%3D%2213%22%20class%3D%22token1%22%2F%3E%3Cpolygon%20points%3D%22374%2C9%20383%2C29%20405%2C31%20389%2C46%20394%2C68%20374%2C57%20354%2C68%20359%2C46%20343%2C31%20365%2C29%22%20class%3D%22token2%22%2F%3E%3Cpath%20d%3D%22M34%20148%20V92%20H170%20V55%20H374%22%20class%3D%22arrow%22%2F%3E%3C%2Fg%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EArlo%20checks%20another%20example.%20Why%20should%20directions%20name%20a%20starting%20point%3F%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Directions and Location: clear starting point"
+  },
+  {
+    "id": "ac9m1sp02-t-012",
+    "curriculumCode": "AC9M1SP02",
+    "bank": "test",
+    "learningArea": "turn left",
+    "skill": "turn left",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "single",
+    "question": "Sam checks another example. A robot faces right. After a left turn, which way does it face?",
+    "explanation": "A left turn from right faces up.",
+    "answers": [
+      "the same way",
+      "the opposite of the correct direction",
+      "nowhere",
+      "up"
+    ],
+    "correct": 3
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
