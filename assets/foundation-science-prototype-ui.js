@@ -53,7 +53,7 @@
     const style = document.createElement("style");
     style.id = "skillr-science-quick-read-style";
     style.textContent = `
-      #startScreen .start-card{max-width:820px;padding:24px 28px;text-align:left}
+      #startScreen .start-card{max-width:900px;padding:24px 28px;text-align:left}
       #startScreen .eyebrow{text-align:center}
       #startScreen #quizTitle{margin:7px 0 8px;text-align:center;font-size:clamp(1.45rem,3.2vw,2.05rem);line-height:1.14}
       #startScreen .intro-text{margin:0 0 10px;text-align:center;font-size:.92rem;line-height:1.45}
@@ -87,6 +87,13 @@
 
     const intro = card.querySelector(".intro-text");
     if (intro) intro.textContent = "A quick recap from the lesson before you practise.";
+
+    // New prototype pages carry their own permanent visual Quick Read.
+    // Do not add a second recap block when that panel is already present.
+    if (card.querySelector(".science-quick-read")) {
+      card.querySelectorAll(".pre-read-notes").forEach((node) => node.remove());
+      return;
+    }
 
     let notes = card.querySelector(".pre-read-notes");
     if (!notes) {
