@@ -44,7 +44,8 @@
 
   const foundationMathsData = [
     "/assets/foundation-maths-data-number.js?v=2",
-    "/assets/foundation-maths-data-other.js?v=2"
+    "/assets/foundation-maths-data-other.js?v=2",
+    "/assets/foundation-ac9mfn02-visual-elaborations.js?v=20260813"
   ];
   const foundationScienceData = ["/assets/foundation-science-data.js?v=2"];
   const foundationEnglishData = ["/assets/foundation-english-data.js?v=2"];

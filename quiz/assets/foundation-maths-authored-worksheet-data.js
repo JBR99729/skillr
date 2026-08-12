@@ -5,16 +5,16 @@ window.SkillrFoundationWorksheetData = {
     title: "Subitising to 5",
     topicUrl: "/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/",
     questions: [
-      {type:"single",question:"You see 2 dots on top and 2 dots below. How many dots are there altogether?",visual:"● ●   /   ● ●",answers:["4","2","3","5"]},
-      {type:"fill-blank",question:"Complete the quick quantity statement.",template:"3 dots and 2 dots make {{blank}} dots."},
-      {type:"match",question:"Match each quantity to a way it could be seen without counting one by one.",matchLeft:["3","4","5"],matchRight:["2 and 2","3 and 2","2 and 1"]},
-      {type:"single",question:"Two dot cards are arranged differently but both have 5 dots. What is true?",answers:["They show the same quantity","The spread-out card has more","The close card has more","You cannot know"]},
-      {type:"text",question:"Draw or describe two different dot arrangements that both show 4."},
-      {type:"fill-blank",question:"A child sees 2 dots and 1 dot as parts of the same collection.",template:"2 + 1 = {{blank}}"},
-      {type:"match",question:"Match each statement to the best science-style subitising idea.",matchLeft:["I saw 2 and 2","The dots moved","I knew the total quickly"],matchRight:["quantity stays the same","4 altogether","subitising"]},
-      {type:"text",question:"Explain how you could know a card shows 5 without counting every dot one by one."},
-      {type:"text",enrichment:true,question:"A card shows 5 as 4 dots in a square and 1 dot in the middle. Explain two smaller parts you could see inside the 5."},
-      {type:"text",enrichment:true,question:"Make two different arrangements for 5. Explain why changing the arrangement does not change the quantity."}
+      {type:"single",question:"E1 — Quick look: You see 2 dots on top and 2 below. How many are there altogether?",visual:"● ●   /   ● ●",answers:["4","2","3","5"]},
+      {type:"fill-blank",question:"E1 — Name the total without counting one by one.",template:"3 dots and 2 dots make {{blank}} dots."},
+      {type:"match",question:"E1 — Match each quantity to the smaller parts your eyes could notice quickly.",matchLeft:["3","4","5"],matchRight:["2 and 2","3 and 2","2 and 1"]},
+      {type:"text",question:"E1 — Explain how you could know a card shows 5 without counting every dot one by one."},
+      {type:"fill-blank",question:"E1 — A child sees 2 dots and 1 dot as parts of one collection.",template:"2 + 1 = {{blank}}"},
+      {type:"single",question:"E2 — Two dot cards are arranged differently but both have 5 dots. What is true?",answers:["They show the same quantity","The spread-out card has more","The close card has more","You cannot know"]},
+      {type:"text",question:"E2 — Draw two different dot arrangements that both show 4."},
+      {type:"match",question:"E2 — Match each comparison to its result.",matchLeft:["5 dots and 5 dots","5 dots and 4 dots","3 dots and 4 dots"],matchRight:["3 has fewer","same quantity","5 has more"]},
+      {type:"text",enrichment:true,question:"E1 — A card shows 5 as 4 dots in a square and 1 in the middle. Explain the smaller parts you see."},
+      {type:"text",enrichment:true,question:"E2 — Make two arrangements for 5, then compare one with 4. Explain what changes and what stays the same."}
     ]
   },
   AC9MFN03: {
