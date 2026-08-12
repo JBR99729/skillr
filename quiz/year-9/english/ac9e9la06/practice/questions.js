@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how abstract nouns and nominalisation can be used to summarise…",
       "investigate a range of cohesive devices that condense information in texts,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how vocabulary choices contribute to style, mood and tone",
       "exploring sections of academic and technical texts, and analysing the use of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how abstract nouns and nominalisation can be used to summarise…",
       "listen to spoken texts that have different purposes and audiences, analysing…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "exploring sections of academic and technical texts, and analysing the use of…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse how language features such as sentence patterns create tone, and…",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "recognising that tone is influenced when an author uses active or passive…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse how language features such as sentence patterns create tone, and…",
       "use interaction skills for identified purposes and situations, including when…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "examining how writers use terse and relatively simple language choices or…",

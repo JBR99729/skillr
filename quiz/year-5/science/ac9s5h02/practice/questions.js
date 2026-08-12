@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5h02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "investigate how scientific knowledge is used by individuals and communities…",
       "explain observable properties of solids, liquids and gases by modelling the…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5h02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions, including, as…",
       "considering how decisions are made to farm particular crops or animals…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5h02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "investigate how scientific knowledge is used by individuals and communities…",
       "identifying types of weathering caused by mechanical means such as by wind…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5h02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "modelling the effects of erosion on a simulated landscape and exploring…",
       "investigating how and why people used properties of light to design signal…",

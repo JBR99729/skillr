@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5le05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "create and edit literary texts, experimenting with figurative language,…",
       "understand how texts can be made cohesive by using the starting point of a…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5le05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how the sequence of images in print, digital and film texts has an…",
       "drawing upon fiction elements in a range of model texts; for example, main…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5le05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "create and edit literary texts, experimenting with figurative language,…",
       "explain characteristic features used in imaginative, informative and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5le05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "creating a visual map, which may include digital mind maps, of figurative…",

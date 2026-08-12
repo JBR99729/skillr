@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify how text connectives including temporal and conditional words, and…",
       "identify text navigation features of online texts that enhance readability…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand how adverb groups/phrases and prepositional phrases work in…",
       "recognising how authors construct texts that are cohesive and coherent using…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify how text connectives including temporal and conditional words, and…",
       "create and edit literary texts by developing storylines, characters and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify the characteristic features used in imaginative, informative and…",
       "recognising how text connectives link sections of a text, providing sequences…",

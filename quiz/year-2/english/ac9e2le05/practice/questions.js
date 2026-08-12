@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2le05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "create and edit literary texts by adapting structures and language features…",
       "understand how texts are made cohesive by using personal and possessive…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2le05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand that in sentences nouns may be extended into noun groups using…",
       "inventing some speech, dialogue or behaviour for a favourite character, which…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2le05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "create and edit literary texts by adapting structures and language features…",
       "use interaction skills when engaging with topics, actively listening to…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2le05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "reviewing and developing sentences; for example, adding prepositional phrases…",

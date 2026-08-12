@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9le05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse the effect of text structures, language features and literary devices…",
       "investigate a range of cohesive devices that condense information in texts,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9le05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how symbols in still and moving images augment meaning",
       "examining how different authors make use of devices such as imagery, and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9le05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse the effect of text structures, language features and literary devices…",
       "listen to spoken texts that have different purposes and audiences, analysing…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9le05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "identifying examples of literary devices in a range of poems and considering…",

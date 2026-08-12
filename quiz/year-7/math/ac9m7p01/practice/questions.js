@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7p01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify the sample space for single-stage events; assign probabilities to…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7p01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare, order and solve problems involving addition and subtraction of…",
       "discussing the meaning of probability terminology; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7p01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify the sample space for single-stage events; assign probabilities to…",
       "solve problems involving the area of triangles and parallelograms using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7p01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify corresponding, alternate and co-interior relationships between…",
       "assigning the probability for throwing a 6 on a dice and using this to…",

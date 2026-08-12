@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "formulate algebraic expressions using constants, variables, operations and…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare, order and solve problems involving addition and subtraction of…",
       "generalising arithmetic expressions to algebraic expressions involving…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "formulate algebraic expressions using constants, variables, operations and…",
       "solve problems involving the volume of right prisms including rectangular and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
       "formulating algebraic expressions that represent mathematical relationships;…",

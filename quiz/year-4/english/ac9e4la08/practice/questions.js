@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how adverb groups/phrases and prepositional phrases work in…",
       "identify how text connectives including temporal and conditional words, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how quoted (direct) and reported (indirect) speech are used",
       "investigating in texts how adverb groups/phrases and prepositional phrases…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how adverb groups/phrases and prepositional phrases work in…",
       "create and edit literary texts by developing storylines, characters and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify the characteristic features used in imaginative, informative and…",
       "investigating in texts how adverb groups/phrases and prepositional phrases…",

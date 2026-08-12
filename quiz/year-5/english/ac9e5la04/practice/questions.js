@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how texts can be made cohesive by using the starting point of a…",
       "understand that the structure of a complex sentence includes a main clause…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand how vocabulary is used to express greater precision of meaning,…",
       "observing how writers use the beginning of a sentence to signal to the reader…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how texts can be made cohesive by using the starting point of a…",
       "explain characteristic features used in imaginative, informative and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "recognising that sentence openers signal what the sentence will be about, and…",

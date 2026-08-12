@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la07-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand that in sentences nouns may be extended into noun groups using…",
       "understand how texts are made cohesive by using personal and possessive…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la07-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand that images add to or multiply the meanings of a text",
       "identifying nouns that refer to people, places, concrete objects and ideas in…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la07-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand that in sentences nouns may be extended into noun groups using…",
       "use interaction skills when engaging with topics, actively listening to…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la07-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "investigating how noun groups can be built up by asking questions about the…",

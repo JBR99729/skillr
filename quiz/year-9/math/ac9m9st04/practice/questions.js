@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "choose appropriate forms of display or visualisation for a given type of…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "comparing data displays using mean, median and range to describe and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "choose appropriate forms of display or visualisation for a given type of…",
       "analyse reports of surveys in digital media and elsewhere for information on…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "comparing and interpreting stacked bar charts, area charts and line graphs,…",

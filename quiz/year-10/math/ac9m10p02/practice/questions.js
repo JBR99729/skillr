@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10p02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "design and conduct repeated chance experiments and simulations using digital…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10p02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "using samples of different sizes with and without replacement from a…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10p02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "design and conduct repeated chance experiments and simulations using digital…",
       "compare data distributions for continuous numerical variables using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10p02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations of situations that involve…",
       "identifying situations in real-life where probability simulations are used…",

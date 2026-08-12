@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how ideas can be expanded and sharpened through careful choice of…",
       "understand that cohesion can be created by the intentional use of repetition,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify authors’ use of vivid, emotive vocabulary, such as metaphors,…",
       "knowing that the simple present tense is typically used to talk about present…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how ideas can be expanded and sharpened through careful choice of…",
       "analyse how text structures and language features work together to meet the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "using precise verbs; for example, “slice”, “dice”, “fillet” and “segment”…",

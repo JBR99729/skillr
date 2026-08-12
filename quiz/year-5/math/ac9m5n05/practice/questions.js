@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "solve problems involving addition and subtraction of fractions with the same…",
       "recognise that 100% represents the complete whole and use percentages to…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "check and explain the reasonableness of solutions to problems including…",
       "using different ways to add and subtract fractional amounts by subdividing…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "solve problems involving addition and subtraction of fractions with the same…",
       "connect objects to their nets and build objects from their nets using spatial…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "acquire, validate and represent data for nominal and ordinal categorical and…",
       "using materials, diagrams, number lines or arrays to show and explain that…",

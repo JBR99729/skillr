@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify responses to characters and events in literary texts, drawn from…",
       "understand that cohesion can be created by the intentional use of repetition,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify and explain how images, figures, tables, diagrams, maps and graphs…",
       "discussing the influence historical, social and cultural experiences may have…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify responses to characters and events in literary texts, drawn from…",
       "analyse how text structures and language features work together to meet the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "exploring reviews of Australian films",

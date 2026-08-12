@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "write and create texts to communicate ideas and findings for specific…",
       "explain observable properties of solids, liquids and gases by modelling the…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "pose investigable questions to identify patterns and test relationships and…",
       "exploring how language features such as vocabulary and sentence structure…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "write and create texts to communicate ideas and findings for specific…",
       "identifying types of weathering caused by mechanical means such as by wind…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "modelling the effects of erosion on a simulated landscape and exploring…",
       "co-authoring a scientific report on an investigation into the behaviours of…",

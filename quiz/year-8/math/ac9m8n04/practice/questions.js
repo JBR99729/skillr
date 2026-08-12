@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use the 4 operations with integers and with rational numbers, choosing and…",
       "use mathematical modelling to solve practical problems involving rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "use mathematical modelling to solve applied problems involving linear…",
       "using patterns to assist in establishing the rules for the multiplication and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use the 4 operations with integers and with rational numbers, choosing and…",
       "identify the conditions for congruence and similarity of triangles and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "design, create and test algorithms involving a sequence of steps and…",
       "recognising the effect of sign in the multiplication of integers; for…",

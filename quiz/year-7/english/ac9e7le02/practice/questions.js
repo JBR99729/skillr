@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "form an opinion about characters, settings and events in texts, identifying…",
       "understand that the cohesion of texts relies on devices that signal structure…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how techniques such as vectors, angle and/or social distance in…",
       "establishing forums and criteria for discussing the relative merits of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "form an opinion about characters, settings and events in texts, identifying…",
       "explain the effect of current technology on reading, creating and responding…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "comparing personal opinions on texts and justifying responses in discussions…",

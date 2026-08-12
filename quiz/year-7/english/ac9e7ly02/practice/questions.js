@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use interaction skills when discussing and presenting ideas and information…",
       "understand that the cohesion of texts relies on devices that signal structure…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how techniques such as vectors, angle and/or social distance in…",
       "participating in pair, group, class, school and/or community speaking and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use interaction skills when discussing and presenting ideas and information…",
       "create and edit literary texts that experiment with language features and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "choosing vocabulary and sentence structures for purposes and audiences,…",

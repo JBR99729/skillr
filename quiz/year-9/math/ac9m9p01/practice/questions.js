@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9p01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "list all outcomes for compound events both with and without replacement,…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9p01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "discussing two-step chance experiments, such as the game of Heads and Tails,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9p01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "list all outcomes for compound events both with and without replacement,…",
       "analyse reports of surveys in digital media and elsewhere for information on…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9p01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "choose appropriate forms of display or visualisation for a given type of…",
       "assigning probabilities to compound events involving the random selection of…",

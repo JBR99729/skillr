@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts, organising and…",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "experimenting with and editing text structures and language features; for…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts, organising and…",
       "identify how texts reflect contexts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse how authors organise ideas to develop and shape meaning",
       "using conceptual maps or journals to plan and reflect on each stage of…",

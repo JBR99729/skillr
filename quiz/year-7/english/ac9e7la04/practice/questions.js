@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand that the cohesion of texts relies on devices that signal structure…",
       "understand how complex and compound-complex sentences can be used to…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate the role of vocabulary in building specialist and technical…",
       "comparing and analysing the structure of media texts such as digital news…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand that the cohesion of texts relies on devices that signal structure…",
       "explain the effect of current technology on reading, creating and responding…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "identifying how authors foreshadow how a text will unfold; for example,…",

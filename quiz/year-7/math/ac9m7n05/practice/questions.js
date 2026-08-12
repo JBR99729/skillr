@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "round decimals to a given accuracy appropriate to the context and use…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, represent and solve problems involving ratios",
       "identifying the interval between a pair of consecutive integers that includes…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "round decimals to a given accuracy appropriate to the context and use…",
       "solve problems involving the volume of right prisms including rectangular and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
       "checking that the accuracy of rounding is suitable for context and purpose,…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "solve spatial problems, applying angle properties, scale, similarity,…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "investigating the applications of Pythagoras’ theorem in authentic problems,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "solve spatial problems, applying angle properties, scale, similarity,…",
       "analyse how different sampling methods can affect the results of surveys and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "using images of proportional relationships to estimate actual measurements;…",

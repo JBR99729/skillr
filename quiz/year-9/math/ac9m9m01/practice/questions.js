@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "solve problems involving the volume and surface area of right prisms and…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "analysing nets of objects to generate short cuts and establish formulas for…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "solve problems involving the volume and surface area of right prisms and…",
       "analyse how different sampling methods can affect the results of surveys and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9m01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "finding different prisms that have the same volume but different surface…",

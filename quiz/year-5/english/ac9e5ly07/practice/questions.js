@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly07-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations that…",
       "understand how texts can be made cohesive by using the starting point of a…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly07-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how the sequence of images in print, digital and film texts has an…",
       "planning a report on a topic, sequencing ideas logically and providing…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly07-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations that…",
       "use appropriate interaction skills including paraphrasing and questioning to…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly07-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "reflecting on how new learning can be incorporated into a presentation",

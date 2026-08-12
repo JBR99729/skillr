@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "investigate the physical conditions of a habitat and analyse how the growth…",
       "examine why advances in science are often the result of collaboration or…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions including, as…",
       "identifying the physical conditions in an aquatic or terrestrial habitat and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "investigate the physical conditions of a habitat and analyse how the growth…",
       "using 3-dimensional models to explore how the tilt of Earth points one…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "constructing representations of electrical circuits and their components…",
       "investigating changes in physical conditions that are the result of human…",

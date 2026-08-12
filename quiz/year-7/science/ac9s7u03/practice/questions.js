@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7u03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "model cyclic changes in the relative positions of the Earth, sun and moon and…",
       "use particle theory to describe the arrangement of particles in a substance,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7u03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how cultural perspectives and world views influence the…",
       "using physical models or virtual simulations to explain how Earth’s tilt and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7u03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "model cyclic changes in the relative positions of the Earth, sun and moon and…",
       "construct evidence-based arguments to support conclusions or evaluate claims…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7u03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "creating and modifying a dichotomous key to classify organisms into groups…",
       "using physical models or virtual simulations to explain the cyclic patterns…",

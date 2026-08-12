@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use interaction skills when engaging with topics, actively listening to…",
       "understand how texts are made cohesive by using personal and possessive…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand that in sentences nouns may be extended into noun groups using…",
       "exploring ways to comment on what others say, including using sentence…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use interaction skills when engaging with topics, actively listening to…",
       "identify how similar topics and information are presented in different types…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "understanding how to disagree or respectfully offer an alternative",

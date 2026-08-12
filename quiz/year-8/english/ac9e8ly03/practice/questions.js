@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse and evaluate the ways that language features vary according to the…",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "evaluating an author's use of language features to present an opinion about…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse and evaluate the ways that language features vary according to the…",
       "identify how texts reflect contexts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "evaluating the use of sources and quotations and presenting an opinion about…",

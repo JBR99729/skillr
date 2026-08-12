@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use mathematical modelling to solve practical problems involving additive and…",
       "add and subtract one- and two-digit numbers, representing problems using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recall and demonstrate proficiency with addition facts to 20; extend and…",
       "modelling practical problems by interpreting an everyday additive or…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use mathematical modelling to solve practical problems involving additive and…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "modelling and solving the problem “How many days are there left in this…",

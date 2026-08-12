@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise and use combinations of transformations to create tessellations and…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "understanding that the Cartesian plane provides a graphical or visual way of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise and use combinations of transformations to create tessellations and…",
       "identify the relationships between angles on a straight line, angles at a…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "using the Cartesian plane to draw lines and polygons, listing co-ordinates in…",

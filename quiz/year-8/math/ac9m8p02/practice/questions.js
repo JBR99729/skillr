@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8p02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "determine all possible combinations for 2 events, using two-way tables, tree…",
       "use the 4 operations with integers and with rational numbers, choosing and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8p02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "graph linear relations on the Cartesian plane using digital tools where…",
       "describing events using language of “at least”, exclusive “or” (A or B but…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8p02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "determine all possible combinations for 2 events, using two-way tables, tree…",
       "use mathematical modelling to solve practical problems involving ratios and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8p02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "describe the position and location of objects in 3 dimensions in different…",
       "using Venn diagrams or two-way tables to demonstrate the difference between…",

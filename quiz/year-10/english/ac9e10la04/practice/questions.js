@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how paragraph structure can be varied to create cohesion, and…",
       "analyse and evaluate the effectiveness of particular sentence structures to…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "use an expanded technical and academic vocabulary for precision when writing…",
       "examining how authors vary paragraph structures for effect",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how paragraph structure can be varied to create cohesion, and…",
       "create and edit literary texts with a sustained “voice”, selecting and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse and evaluate how language features are used to implicitly or…",
       "evaluating the effect of the integration of paragraphs and images in graphic…",

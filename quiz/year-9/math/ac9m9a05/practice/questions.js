@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use mathematical modelling to solve applied problems involving change…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the volume and surface area of right prisms and…",
       "modelling practical contexts using linear functions such as cooking times…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use mathematical modelling to solve applied problems involving change…",
       "analyse how different sampling methods can affect the results of surveys and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "modelling and solving problems involving financial contexts using linear…",

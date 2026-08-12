@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2a03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recall and demonstrate proficiency with multiplication facts for twos; extend…",
       "add and subtract one- and two-digit numbers, representing problems using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2a03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, describe and create additive patterns that increase or decrease by…",
       "recognising and relating terms such as double, twice and multiply by 2, halve…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2a03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recall and demonstrate proficiency with multiplication facts for twos; extend…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2a03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "develop fluency with doubling and halving numbers within 20 using physical or…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explore different actions to make sounds and how to make a variety of sounds,…",
       "pose questions to explore observed simple patterns and relationships and make…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "sort and order data and information and represent patterns, including with…",
       "building vocabulary for describing sound, such as loudness and pitch, and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explore different actions to make sounds and how to make a variety of sounds,…",
       "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring how materials can be physically changed to suit a particular…",
       "observing vibrations produced by a twanged ruler held on a desk and…",

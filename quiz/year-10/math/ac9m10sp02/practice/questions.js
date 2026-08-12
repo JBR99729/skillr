@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "interpret networks and network diagrams used to represent relationships in…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "investigating how networks and network diagrams can be used to model…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "interpret networks and network diagrams used to represent relationships in…",
       "construct scatterplots and comment on the association between the 2 numerical…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "investigating how a social network, intranet, local area network (LAN),…",

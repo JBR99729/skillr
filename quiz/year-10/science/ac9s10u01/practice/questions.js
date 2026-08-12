@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10u01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explain the role of meiosis and mitosis and the function of chromosomes, DNA…",
       "investigate Newton’s laws of motion and quantitatively analyse the…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10u01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how scientific knowledge is validated and refined, including the role…",
       "using models and diagrams to represent the relationship between genes,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10u01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explain the role of meiosis and mitosis and the function of chromosomes, DNA…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10u01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "outlining processes involved in natural selection including variation,…",
       "using pedigree diagrams to show patterns of inheritance of simple dominant…",

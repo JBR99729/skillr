@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse claims, inferences and conclusions of statistical reports in the…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "identifying potentially misleading data representations in the media such as…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse claims, inferences and conclusions of statistical reports in the…",
       "construct scatterplots and comment on the association between the 2 numerical…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "using secondary data to predict the number of people likely to be infected…",

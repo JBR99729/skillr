@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "construct scatterplots and comment on the association between the 2 numerical…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "discussing the difference between association and cause and effect, and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "construct scatterplots and comment on the association between the 2 numerical…",
       "compare data distributions for continuous numerical variables using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "exploring how scatter plots and association help data scientists gain…",

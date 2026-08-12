@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8h04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explore the role of science communication in informing individual viewpoints…",
       "describe the key processes of the rock cycle, including the timescales over…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8h04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare physical and chemical changes and identify indicators of energy…",
       "investigating campaigns designed to increase rates of organ donation",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8h04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explore the role of science communication in informing individual viewpoints…",
       "analyse methods, conclusions and claims for assumptions, possible sources of…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8h04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring an augmented or virtual reality tour of a plant or animal to ‘zoom…",
       "researching how science organisations and high-profile science communicators…",

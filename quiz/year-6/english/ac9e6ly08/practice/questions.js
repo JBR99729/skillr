@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6ly08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use phonic knowledge of common and less common grapheme-phoneme relationships…",
       "understand that cohesion can be created by the intentional use of repetition,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6ly08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify and explain how images, figures, tables, diagrams, maps and graphs…",
       "using phonic generalisations to read and write complex words with uncommon…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6ly08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use phonic knowledge of common and less common grapheme-phoneme relationships…",
       "use interaction skills and awareness of formality when paraphrasing,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6ly08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "using phonic generalisations to read and write complex words with uncommon…",

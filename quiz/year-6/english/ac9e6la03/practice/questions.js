@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explain how texts across the curriculum are typically organised into…",
       "understand how embedded clauses can expand the variety of complex sentences…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify authors’ use of vivid, emotive vocabulary, such as metaphors,…",
       "exploring a range of everyday, community, literary and informative texts,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explain how texts across the curriculum are typically organised into…",
       "analyse how text structures and language features work together to meet the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "explaining the characteristic stages and phases in reviews, discussions of…",

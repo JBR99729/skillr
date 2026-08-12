@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "describe the relationship between perfect square numbers and square roots,…",
       "round decimals to a given accuracy appropriate to the context and use…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, represent and solve problems involving ratios",
       "investigating squares of natural numbers from one to 20, and connecting them…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "describe the relationship between perfect square numbers and square roots,…",
       "solve problems involving the volume of right prisms including rectangular and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
       "generating a list of perfect square numbers and describing any emerging…",

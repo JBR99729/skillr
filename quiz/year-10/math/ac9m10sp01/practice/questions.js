@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "apply deductive reasoning to proofs involving shapes in the plane and use…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "distinguishing between a practical demonstration and a proof; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "apply deductive reasoning to proofs involving shapes in the plane and use…",
       "construct scatterplots and comment on the association between the 2 numerical…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10sp01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "investigating proofs of geometric theorems and using them to solve spatial…",

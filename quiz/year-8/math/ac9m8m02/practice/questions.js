@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8m02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "solve problems involving the volume and capacity of right prisms using…",
       "use the 4 operations with integers and with rational numbers, choosing and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8m02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "graph linear relations on the Cartesian plane using digital tools where…",
       "using models to demonstrate the number of cubic centimetres in a cubic metre…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8m02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "solve problems involving the volume and capacity of right prisms using…",
       "identify the conditions for congruence and similarity of triangles and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8m02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "design, create and test algorithms involving a sequence of steps and…",
       "investigating, reasoning and finding solutions to measurement problems…",

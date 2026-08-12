@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "add and subtract one- and two-digit numbers, representing problems using…",
       "multiply and divide by one-digit numbers using repeated addition, equal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recall and demonstrate proficiency with addition facts to 20; extend and…",
       "using the associative property of addition to assist with mental calculation…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "add and subtract one- and two-digit numbers, representing problems using…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "using mental strategies and informal written jottings to help keep track of…",

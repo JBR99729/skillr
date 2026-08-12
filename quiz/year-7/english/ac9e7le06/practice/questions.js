@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify and explain how literary devices create layers of meaning in texts…",
       "understand that the cohesion of texts relies on devices that signal structure…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how techniques such as vectors, angle and/or social distance in…",
       "explaining the sound and rhythm of poetry using metalanguage; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify and explain how literary devices create layers of meaning in texts…",
       "explain the effect of current technology on reading, creating and responding…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7le06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "explaining the sound and rhythm of poetry using metalanguage; for example,…",

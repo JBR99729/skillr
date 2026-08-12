@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "examine why advances in science are often the result of collaboration or…",
       "compare reversible changes, including dissolving and changes of state, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions including, as…",
       "exploring how international scientific collaboration can answer complex…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "examine why advances in science are often the result of collaboration or…",
       "investigating the effect of physical conditions on the growth of bread mould…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising the role of gravity in keeping the planets in orbit around the sun",
       "investigating how astronauts and scientists from many different countries…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "construct two-way tables and discuss possible relationship between…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "using two-way tables to investigate and comparing the survey responses to…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "construct two-way tables and discuss possible relationship between…",
       "compare data distributions for continuous numerical variables using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10st04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "conducting a litter survey around the school, considering the relationship…",

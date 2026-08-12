@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7i06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse methods, conclusions and claims for assumptions, possible sources of…",
       "investigate and represent balanced and unbalanced forces, including…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7i06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how new evidence or different perspectives can lead to changes in…",
       "identifying and considering indicators of the quality of the data when…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7i06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse methods, conclusions and claims for assumptions, possible sources of…",
       "construct evidence-based arguments to support conclusions or evaluate claims…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s7i06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "creating and modifying a dichotomous key to classify organisms into groups…",
       "considering the spread of repeated measurements and observations",

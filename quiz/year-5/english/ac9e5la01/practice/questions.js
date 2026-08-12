@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand that language is selected for social contexts and that it helps to…",
       "understand that the structure of a complex sentence includes a main clause…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand how vocabulary is used to express greater precision of meaning,…",
       "using language that signals the roles of chairperson and the different…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand that language is selected for social contexts and that it helps to…",
       "explain characteristic features used in imaginative, informative and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "identifying ways in which cultures differ in making and responding to common…",

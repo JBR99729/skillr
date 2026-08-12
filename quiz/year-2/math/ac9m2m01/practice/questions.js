@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "measure and compare objects based on length, capacity and mass using…",
       "add and subtract one- and two-digit numbers, representing problems using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, describe and create additive patterns that increase or decrease by…",
       "choosing suitable informal units to measure the length of a range of objects;…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "measure and compare objects based on length, capacity and mass using…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "recognising that the same informal unit needs to be used when measuring; for…",
