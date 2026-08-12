@@ -48,6 +48,7 @@
     "/assets/foundation-ac9mfn02-visual-elaborations.js?v=20260813",
     "/assets/foundation-maths-elaborations-n03-n05.js?v=20260813"
     ,"/assets/foundation-maths-elaborations-n06-a01-m01.js?v=20260813"
+    ,"/assets/foundation-maths-elaborations-m02-sp01-sp02.js?v=20260813"
   ];
   const foundationScienceData = ["/assets/foundation-science-data.js?v=2"];
   const foundationEnglishData = ["/assets/foundation-english-data.js?v=2"];
