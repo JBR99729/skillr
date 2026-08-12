@@ -2025,7 +2025,7 @@ footer {
 .home-page .container {
     max-width: 1200px;
     min-height: 0;
-    padding: 48px 24px 40px;
+    padding: 24px 24px 32px;
     border: 0;
     border-radius: 0;
     background: var(--slate-50);
@@ -2315,7 +2315,7 @@ footer {
 }
 
 .home-page .resource-quickstart {
-    margin-top: 48px;
+    margin-top: 20px;
 }
 
 #stage-f-2,
@@ -2340,7 +2340,7 @@ footer {
     }
 
     .home-page .container {
-        padding: 32px 16px;
+        padding: 24px 16px 28px;
     }
 
     .home-hero {
@@ -2389,7 +2389,7 @@ footer {
     }
 
     .home-page .container {
-        padding: 24px 12px 32px;
+        padding: 16px 12px 24px;
     }
 
     .home-hero {
@@ -2420,7 +2420,7 @@ footer {
     }
 
     .home-page .resource-quickstart {
-        margin-top: 32px;
+        margin-top: 16px;
     }
 }
 
