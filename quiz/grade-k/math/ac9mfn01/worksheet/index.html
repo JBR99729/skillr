@@ -39,10 +39,12 @@
     .response-lines{display:grid;gap:6px;margin-top:6px}.response-lines span{display:block;border-bottom:1.4px solid #728198;height:8px}
     .worksheet-footer{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:10px -16px -16px;padding:9px 16px;background:#e9f1ff;border-top:2px solid #a9c1e5;font-size:.74rem;color:#425872}.worksheet-footer strong{color:var(--brand)}
     @media(max-width:700px){.core-grid,.enrichment-grid,.worksheet-options,.match-grid{grid-template-columns:1fr}.worksheet-paper__head{display:block}.worksheet-shell{padding:10px}.brandbar{align-items:flex-start;flex-direction:column}.watermark-grid{grid-template-columns:repeat(2,1fr)}}
-    @page{size:A4 portrait;margin:7mm}
+    @page{size:A4 portrait;margin:10mm}
     @media print{
-      body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{width:100%;margin:0;border:2px solid #2457d6;border-radius:0;box-shadow:none;padding:0 6px 6px}.worksheet-paper__head{margin:0 -6px 8px;padding:9px 10px 8px}.worksheet-question{break-inside:avoid}.watermark-grid span{color:rgba(36,87,214,.115)}
-      .core-grid{gap:5px 7px;margin-top:7px}.worksheet-question{padding:6px}.question-prompt{font-size:8.2pt}.worksheet-options div,.match-grid p{font-size:7.3pt}.enrichment-heading{margin:7px 0 5px;padding:4px 7px;font-size:7.6pt}.response-lines{gap:4px}.response-lines span{height:6px}.worksheet-footer{margin:6px -6px -6px;padding:6px 9px}
+      body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{width:100%;margin:0;border:0;border-radius:0;box-shadow:none;padding:0;overflow:visible}.worksheet-paper__head{margin:0 0 8mm;padding:10mm 8mm 7mm;background:linear-gradient(90deg,#0f2f5f,#2457d6);border-bottom:3px solid #173968}.worksheet-paper__head h2{font-size:16pt}.paper-brand{font-size:13pt!important}.worksheet-paper__head p{font-size:10pt}
+      .watermark-grid{position:fixed;inset:0;z-index:-1;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr)}.watermark-grid span{font-size:15pt;color:rgba(36,87,214,.10)}
+      .core-grid,.enrichment-grid{display:block;margin:0}.worksheet-question{display:block;margin:0 0 6mm;padding:5mm;border:1.4px solid #c9d7e9;border-radius:3mm;break-inside:avoid;page-break-inside:avoid}.question-number{width:8mm;height:8mm;font-size:10pt}.question-prompt{font-size:11.5pt;line-height:1.35;margin-bottom:3mm}.question-visual{font-size:10.5pt;padding:2.5mm 3mm;margin-bottom:3mm}.worksheet-options{display:grid;grid-template-columns:1fr 1fr;gap:2.5mm}.worksheet-options div{font-size:10.5pt;padding:2.5mm 3mm}.fill-template{font-size:12pt}.match-grid{gap:5mm;padding:3mm}.match-grid p{font-size:10.5pt;margin:2mm 0}.match-instruction{font-size:10pt;margin-top:2.5mm}.response-lines{gap:3.5mm;margin-top:3mm}.response-lines span{height:5mm}.enrichment-label{font-size:8.5pt;padding:1mm 2.5mm}.enrichment-heading{font-size:10.5pt;margin:4mm 0;padding:3mm;border-left-width:2mm;break-before:auto}.worksheet-footer{font-size:9pt;margin:5mm 0 0;padding:3mm 0;border-top:1.5px solid #a9c1e5;background:transparent}
+      .core-grid .worksheet-question:nth-child(6){break-before:page;page-break-before:always;margin-top:0}.enrichment-heading{break-inside:avoid}.enrichment-grid .worksheet-question{margin-bottom:7mm}
     }
   </style>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
@@ -58,7 +60,7 @@
       <p class="eyebrow">AC9MFN01 • Foundation Maths</p>
       <h1>Numbers to 20 Worksheet</h1>
       <p>Ten purpose-written questions aligned to the AC9MFN01 concept: quantities and numerals, zero, number order, and one more/one less.</p>
-      <div class="worksheet-meta"><span>10 questions</span><span>8 core</span><span>2 enrichment</span><span>One A4 sheet</span></div>
+      <div class="worksheet-meta"><span>10 questions</span><span>8 core</span><span>2 enrichment</span><span>2-page A4 PDF</span></div>
       <div class="worksheet-actions"><button class="primary" id="downloadPdfButton" type="button">Download PDF worksheet</button><a href="/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/">Back to topic</a><a href="/quiz/grade-k/math/ac9mfn01/practice/">Open practice</a></div>
     </header>
 
@@ -81,7 +83,7 @@
   <script>window.quizConfig={skillCode:"AC9MFN01",worksheetQuestionLimit:10};</script>
   <script src="/quiz/grade-k/math/ac9mfn01/worksheet/questions.js?v=2"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-  <script src="/quiz/grade-k/math/ac9mfn01/worksheet/worksheet.js?v=3"></script>
+  <script src="/quiz/grade-k/math/ac9mfn01/worksheet/worksheet.js?v=5"></script>
   <script src="/pwa-register.js"></script>
 </body>
 </html>
