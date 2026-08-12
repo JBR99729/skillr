@@ -1,107 +1,15 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n07-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "using less-than and greater-than notation in expressions when comparing and…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "discussing language such as “addition”, “subtraction”, “magnitude”,…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "ordering, adding and subtracting integers using a number line"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "ordering, adding and subtracting integers using a number line",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "ordering, adding and subtracting integers using a number line",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  },
-  {
-    "id": "ac9m7n07-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "compare, order and solve problems involving addition and subtraction of…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N07: compare, order and solve problems involving addition and subtraction of…."
-  }
-];
+(() => {
+ const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7n07-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
+ [[[-7,-2,0,5],"-7, -2, 0, 5"],[[-1,-9,4,0],"-9, -1, 0, 4"],[[-12,-3,-8,2],"-12, -8, -3, 2"],[[6,-6,1,-1],"-6, -1, 1, 6"],[[-20,-2,-11,-5],"-20, -11, -5, -2"],[[-4,7,-9,3],"-9, -4, 3, 7"],[[0,-15,5,-1],"-15, -1, 0, 5"],[[-100,-10,-1,1],"-100, -10, -1, 1"],[[-6,-7,-5,-8],"-8, -7, -6, -5"],[[12,-12,2,-2],"-12, -2, 2, 12"],[[-30,0,-3,30],"-30, -3, 0, 30"],[[-14,-4,-40,-1],"-40, -14, -4, -1"]].forEach(([vals,order])=>add(`Order ${vals.join(", ")} from smallest to largest.`,order,[vals.join(", "),[...vals].reverse().join(", "),[...vals].sort((a,b)=>Math.abs(a)-Math.abs(b)).join(", ")],`Numbers farther left are smaller; the correct order is ${order}.`));
+ [[-8,13,5],[-12,7,-5],[-6,-9,-15],[14,-20,-6],[-25,40,15],[18,-7,11],[-30,12,-18],[9,-15,-6],[-4,4,0],[-17,22,5],[35,-50,-15],[-100,65,-35],[7,-3,4],[-11,19,8]].forEach(([a,b,r])=>add(`Calculate ${a} + (${b}).`,r,[a-b,-r,a+b+2],`Combine directed changes or move ${Math.abs(b)} ${b>=0?'right':'left'} from ${a}; the result is ${r}.`));
+ [[6,-9,15],[5,-4,9],[-3,5,-8],[-8,-2,-6],[12,20,-8],[-15,-7,-8],[4,11,-7],[-20,-5,-15],[30,45,-15],[-6,9,-15],[0,-13,13],[17,-8,25],[-25,10,-35],[9,-12,21]].forEach(([a,b,r])=>add(`Calculate ${a} - (${b}).`,r,[a+b,-r,a-b-2],`Subtracting ${b} means adding its opposite; ${a} - (${b}) = ${r}.`));
+ [["The temperature is -3°C and rises 8°C.",5,"5°C"],["An account balance is $12 and a $20 debit occurs.",-8,"-$8"],["An elevator starts at level 4 and travels down 7 levels.",-3,"level -3"],["A diver moves from -18 m to -7 m.",11,"11 m upward"],["The temperature changes from 6°C to -4°C.",-10,"a 10°C fall"],["A game score is -12 then gains 19 points.",7,"7 points"],["A hiker is 5 m above sea level and descends 13 m.",-8,"8 m below sea level"],["Find the distance between -4 and 7.",11,"11 units"],["Find the distance between -15 and -3.",12,"12 units"],["A debt of $35 is reduced by $18.",-17,"-$17 balance"]].forEach(([p,r,label])=>add(p,label,[String(r),`${Math.abs(r)+2} units`,`0`],`Represent the initial position and directed change; the interpretation is ${label}.`));
+ add("What is the opposite of -14?","14",["-14","1/14","0"],"Opposites are the same distance from zero on different sides.");
+ add("Which statement is true?","-3 is greater than -8.",["-8 is greater because 8 > 3.","All negative integers are equal.","Absolute value determines integer order."],"-3 lies farther right on the number line.");
+ add("Why does subtracting a negative become addition?","Subtracting a directed negative change adds its opposite.",["Two signs are simply deleted.","Every subtraction answer is positive.","Negative numbers cannot be subtracted."],"a - b = a + (-b); when b is negative, its opposite is positive.");
+ add("What is the absolute value of -9?","9",["-9","0","18"],"Absolute value is non-negative distance from zero.");
+ add("Which expression represents moving 6 left from -2?","-2 - 6",["-2 + 6","2 - 6","6 - (-2)"],"Leftward movement is a negative change, giving -8.");
+ add("A negative answer in a financial problem always means what?","Its meaning depends on the reference, often debt or deficit.",["The calculation failed.","The answer must be changed to positive.","The original values were not integers."],"Sign has contextual meaning relative to zero.");
+ if(q.length!==56)throw new Error(`AC9M7N07 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
+})();

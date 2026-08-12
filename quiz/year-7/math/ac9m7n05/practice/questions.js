@@ -1,107 +1,20 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n05-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "identifying the interval between a pair of consecutive integers that includes…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "choosing and applying conventions for rounding correct to a specified number…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "checking that the accuracy of rounding is suitable for context and purpose,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "checking that the accuracy of rounding is suitable for context and purpose,…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "checking that the accuracy of rounding is suitable for context and purpose,…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  },
-  {
-    "id": "ac9m7n05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "round decimals to a given accuracy appropriate to the context and use…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N05: round decimals to a given accuracy appropriate to the context and use…."
-  }
-];
+(() => {
+ const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7n05-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
+ [[47.386,0,47],[47.386,1,47.4],[47.386,2,47.39],[8.746,1,8.7],[8.746,2,8.75],[0.004768,3,0.005],[12.995,2,13],[306.449,0,306],[306.449,1,306.4],[19.951,2,19.95],[2.675,2,2.68],[0.0996,3,0.1],[784.51,0,785],[65.0504,2,65.05],[9.999,2,10],[123.4567,3,123.457],[5.444,2,5.44],[5.445,2,5.45],[0.8501,2,0.85],[99.949,1,99.9]].forEach(([n,d,r])=>add(`Round ${n} to ${d===0?'the nearest whole number':`${d} decimal place${d>1?'s':''}`}.`,r,[r+10**(-Math.max(0,d)),r-10**(-Math.max(0,d)),n],`Keep ${d} decimal place${d===1?'':'s'} and inspect the next digit; the rounded value is ${r}.`));
+ [[48.7,19.8,1000],[19.6,5.1,100],[203.4,9.8,2000],[6.02,49.7,300],[398,21,8000],[0.49,198,100],[82.1,3.9,320],[149.8,0.21,30],[29.7,31.2,900],[504,1.98,1000],[7.91,12.2,96],[0.098,503,50]].forEach(([a,b,r])=>add(`Which is the best estimate of ${a} × ${b}?`,r,[r*10,r/10,r+100],`Round to compatible numbers before multiplying; the result should be about ${r}.`));
+ [[6.2,0.1,"6.15 ≤ x < 6.25"],[4.36,0.01,"4.355 ≤ x < 4.365"],[18,1,"17.5 ≤ x < 18.5"],[2.7,0.1,"2.65 ≤ x < 2.75"],[0.84,0.01,"0.835 ≤ x < 0.845"],[125,1,"124.5 ≤ x < 125.5"],[9.8,0.1,"9.75 ≤ x < 9.85"],[3.05,0.01,"3.045 ≤ x < 3.055"],[47,1,"46.5 ≤ x < 47.5"],[0.6,0.1,"0.55 ≤ x < 0.65"],[12.34,0.01,"12.335 ≤ x < 12.345"],[250,10,"245 ≤ x < 255"]].forEach(([v,u,b])=>add(`A value rounds to ${v} to the nearest ${u}. Which bounds describe the original value x?`,b,[b.replace('≤','>'),`x = ${v} only`,`0 ≤ x < ${v}`],`Half of the rounding unit is ${u/2}; subtract and add it, with the upper endpoint excluded.`));
+ add("Which accuracy is most suitable for a medicine dose?","The precision specified by the medical instruction.",["Always the nearest litre.","Always one significant figure.","Any convenient whole number."],"Accuracy must match safety, measurement limits and the stated instruction.");
+ add("When should a multi-step calculation normally be rounded?","At the end, while retaining guard digits during working.",["After every operation.","Before entering values.","Only by deleting digits."],"Repeated early rounding can compound error.");
+ add("A calculator gives 96.426 for 48.7 × 19.8. Why is it unreasonable?","An estimate near 50 × 20 = 1 000 shows the magnitude is wrong.",["Every decimal product must be a whole number.","The answer has too many digits.","Multiplication must make exactly 100."],"An order-of-magnitude estimate detects an input or operation error.");
+ add("Which symbol should accompany a rounded result?","≈",["=","<",">"],"The approximately-equal symbol distinguishes an estimate from an exact equality.");
+ add("How do significant figures differ from decimal places?","Significant figures count from the first non-zero digit; decimal places count right of the decimal point.",["They are always identical.","Decimal places count from the first non-zero digit.","Significant figures apply only to integers."],"They use different starting positions and describe different accuracies.");
+ add("Round 0.004768 to 2 significant figures.","0.0048",["0.00","0.0047","0.005"],"The first two significant digits are 4 and 7. The following digit is 6, so 7 rounds up to 8, giving 0.0048.");
+ add("A length is 4.36 m to the nearest centimetre. What is its maximum possible error?","0.005 m",["0.01 m","0.05 m","0.5 m"],"The maximum rounding error is half the rounding unit: half of 0.01 m is 0.005 m.");
+ add("Which estimate is deliberately high for 39.2 × 5.7?","40 × 6",["39 × 5","30 × 5","40 × 5"],"Both positive factors were rounded upward, so the product estimate is high.");
+ add("Which estimate is deliberately low for 39.2 × 5.7?","39 × 5",["40 × 6","40 × 5.7","39.2 × 6"],"Both positive factors are no larger than the originals, so the estimate is low.");
+ add("Why must units be retained when stating accuracy?","The rounding interval depends on what quantity and unit the digits measure.",["Units change every digit into zero.","Units matter only for exact answers.","A rounded value cannot have units."],"For example, nearest centimetre and nearest metre describe very different tolerances.");
+ add("A price total is $28.375. What is a sensible final amount in Australian currency?","$28.38",["$28","$28.3750","$29"],"Cash/accounting amounts are normally stated to the nearest cent after calculation.");
+ add("Which approach best checks a decimal division result?","Estimate the quotient's magnitude and multiply back.",["Count decimal places only.","Accept the calculator display.","Round every input to zero."],"Estimation and the inverse operation provide independent checks.");
+ if(q.length!==56)throw new Error(`AC9M7N05 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
+})();
