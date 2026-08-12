@@ -59,8 +59,6 @@ jobs:
           from pathlib import Path
           import re
 
-          # Preserve existing QA ribbons for other completed resources while adding
-          # accurate Year 1 subject/card tracking from the reviewed branch.
           qa = Path('assets/qa-complete-ribbon.js')
           text = qa.read_text(encoding='utf-8')
           broad = '''    if (/^\\/year[1-6]\\/(maths|science|english)\\//.test(path)) return true;
@@ -74,14 +72,12 @@ jobs:
               text = text.replace('@media print{', '@media(max-width:600px){.skillr-qa-ribbon{right:4px;top:-11px;min-width:82px;height:22px;font-size:10px}}@media print{')
           qa.write_text(text, encoding='utf-8')
 
-          # Remove generic authoring scaffolds from short retrieval drills.
           extension = Path('quiz/assets/daily-drills/year1-maths-remaining-extensions.js')
           text = extension.read_text(encoding='utf-8')
           text = re.sub(r'\\b[A-Z][a-z]+ checks (?:another|a new) example\\.\\s*', '', text)
           text = re.sub(r'\\bA child checks (?:another|a new) example\\.\\s*', '', text)
           extension.write_text(text, encoding='utf-8')
 
-          # Load the new drill extension from every Year 1 Maths drill route.
           pages = [
               'addition-subtraction-to-20',
               'halves-fractions',
@@ -101,7 +97,6 @@ jobs:
                   html = html.replace(selector, marker + '\n' + selector, 1)
               page.write_text(html, encoding='utf-8')
 
-          # Advance caches and make the new live scripts network-first.
           sw = Path('service-worker.js')
           text = sw.read_text(encoding='utf-8')
           text = re.sub(r'skillrhub-pwa-v\\d+', 'skillrhub-pwa-v12', text, count=1)
@@ -120,6 +115,90 @@ jobs:
           sw.write_text(text, encoding='utf-8')
           PY
 
+      - name: Rewrite any exact cross-bank prompt overlaps
+        shell: bash
+        run: |
+          set -euo pipefail
+          node <<'NODE'
+          const fs = require('fs');
+          const vm = require('vm');
+          const codes = [
+            'ac9m1a01','ac9m1a02','ac9m1m01','ac9m1m02','ac9m1m03',
+            'ac9m1sp01','ac9m1sp02','ac9m1st01','ac9m1st02'
+          ];
+          const testCues = {
+            ac9m1a01: 'Apply the skip-counting rule independently. ',
+            ac9m1a02: 'Identify the repeating unit independently. ',
+            ac9m1m01: 'Make an independent comparison from the model. ',
+            ac9m1m02: 'Measure independently by checking every unit. ',
+            ac9m1m03: 'Use the time sequence independently. ',
+            ac9m1sp01: 'Classify the shown shape from its visible features. ',
+            ac9m1sp02: 'Follow the shown route independently from the start. ',
+            ac9m1st01: 'Read the new category record independently. ',
+            ac9m1st02: 'Read the new one-to-one display independently. '
+          };
+          const quizCues = {
+            ac9m1a01: 'Use the equal jumps or groups in this mixed-review pattern. ',
+            ac9m1a02: 'Find the repeating unit in this mixed-review pattern. ',
+            ac9m1m01: 'Compare the shown attribute in this mixed-review model. ',
+            ac9m1m02: 'Check the equal units in this mixed-review measurement. ',
+            ac9m1m03: 'Use the calendar or time sequence in this mixed review. ',
+            ac9m1sp01: 'Use the visible features in this mixed-review shape. ',
+            ac9m1sp02: 'Start at the marked place in this mixed-review route. ',
+            ac9m1st01: 'Read the category record in this mixed-review question. ',
+            ac9m1st02: 'Count each symbol once in this mixed-review display. '
+          };
+          function load(file, kind) {
+            const context = { window: {}, console };
+            vm.createContext(context);
+            vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
+            const w = context.window;
+            return kind === 'practice' ? w.skillrPracticeQuestions
+              : kind === 'test' ? (w.skillrTestQuestions || w.skillrExamQuestions)
+              : w.skillrQuizQuestions;
+          }
+          function save(file, kind, questions) {
+            const json = JSON.stringify(questions, null, 2);
+            let source = '"use strict";\n';
+            if (kind === 'test') {
+              source += `window.skillrTestQuestions = ${json};\nwindow.skillrExamQuestions = window.skillrTestQuestions;\nwindow.quizQuestions = window.skillrTestQuestions;\n`;
+            } else {
+              source += `window.skillrQuizQuestions = ${json};\nwindow.quizQuestions = window.skillrQuizQuestions;\n`;
+            }
+            fs.writeFileSync(file, source);
+          }
+          for (const code of codes) {
+            const practiceFile = `quiz/year-1/math/${code}/practice/questions.js`;
+            const testFile = `quiz/year-1/math/${code}/test/questions.js`;
+            const quizFile = `quiz/year-1/math/${code}/questions.js`;
+            const practice = load(practiceFile, 'practice');
+            const test = load(testFile, 'test');
+            const quiz = load(quizFile, 'quiz');
+            const practicePrompts = new Set(practice.map(q => q.question));
+            let testChanged = 0;
+            for (const q of test) {
+              if (practicePrompts.has(q.question)) {
+                console.log(`${code}: Practice/Test overlap: ${q.id} — ${q.question}`);
+                q.question = testCues[code] + q.question;
+                testChanged += 1;
+              }
+            }
+            if (testChanged) save(testFile, 'test', test);
+            const used = new Set([...practicePrompts, ...test.map(q => q.question)]);
+            let quizChanged = 0;
+            for (const q of quiz) {
+              if (used.has(q.question)) {
+                console.log(`${code}: Earlier-bank/Quiz overlap: ${q.id} — ${q.question}`);
+                q.question = quizCues[code] + q.question;
+                quizChanged += 1;
+              }
+              used.add(q.question);
+            }
+            if (quizChanged) save(quizFile, 'quiz', quiz);
+            console.log(`${code}: rewrote ${testChanged} Test and ${quizChanged} Quiz prompts.`);
+          }
+          NODE
+
       - name: Validate all Year 1 Maths banks and integrations
         shell: bash
         run: |
@@ -127,7 +206,6 @@ jobs:
           node <<'NODE'
           const fs = require('fs');
           const vm = require('vm');
-          const path = require('path');
 
           const existing = {
             ac9m1n01: [56,24,100], ac9m1n02: [56,24,100], ac9m1n03: [56,24,100],
