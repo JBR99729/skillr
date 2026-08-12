@@ -13,13 +13,16 @@
   if (!isFoundationOrYear1Topic && !year1EnglishPracticeTest && !year1EnglishWorksheet) return;
 
   function loadScript(src, datasetName) {
-    if (datasetName && document.querySelector(`script[data-${datasetName}]`)) return;
-    if ([...document.scripts].some((script) => script.src.includes(src.split("?")[0]))) return;
+    const existingByDataset = datasetName ? document.querySelector(`script[data-${datasetName}]`) : null;
+    if (existingByDataset) return existingByDataset;
+    const existingBySrc = [...document.scripts].find((script) => script.src.includes(src.split("?")[0]));
+    if (existingBySrc) return existingBySrc;
     const script = document.createElement("script");
     script.src = src;
     script.async = false;
     if (datasetName) script.dataset[datasetName.replace(/-([a-z])/g, (_, letter) => letter.toUpperCase())] = "true";
     document.head.appendChild(script);
+    return script;
   }
 
   if (year1EnglishPracticeTest) {
@@ -31,11 +34,11 @@
   }
 
   if (year1EnglishTopic) {
-    loadScript("/assets/year1-english-data.js?v=1", "skillr-year1-english-data");
+    const dataScript = loadScript("/assets/year1-english-data.js?v=1", "skillr-year1-english-data");
     const loadRenderer = () => loadScript("/assets/year1-english-render.js?v=1", "skillr-year1-english-render");
     if (window.SkillrYear1EnglishData) loadRenderer();
-    else window.addEventListener("load", loadRenderer, { once: true });
-    setTimeout(loadRenderer, 250);
+    else dataScript?.addEventListener("load", loadRenderer, { once: true });
+    setTimeout(() => { if (window.SkillrYear1EnglishData) loadRenderer(); }, 500);
   }
 
   function cleanHeadings() {
