@@ -4,10 +4,21 @@
    Lightweight issue reporting.
    Uses mailto instead of embedded third-party forms so topic
    pages stay fast for SEO and mobile users.
+   Also loads the shared curriculum-alignment enhancement on
+   curriculum topic guides, avoiding hundreds of duplicated edits.
    ========================================================= */
 
 (function initialiseSkillrIssueReporter() {
   const DEFAULT_EMAIL = "skillrhublearning@gmail.com";
+
+  function loadInternationalAlignment() {
+    if (!window.skillrPageMeta?.curriculumCode || document.querySelector('script[data-skillr-international-alignment]')) return;
+    const script = document.createElement("script");
+    script.src = "/assets/international-curriculum-seo.js?v=1";
+    script.defer = true;
+    script.dataset.skillrInternationalAlignment = "true";
+    document.head.appendChild(script);
+  }
 
   function getPageMeta() {
     return {
@@ -26,62 +37,33 @@
     const pageType = meta.pageType || "page";
     const subject = encodeURIComponent(`SkillrHub issue: ${code} ${pageType}`);
     const body = encodeLines([
-      "Hi SkillrHub team,",
-      "",
-      "I found an issue on this page:",
-      meta.pageUrl,
-      "",
+      "Hi SkillrHub team,", "", "I found an issue on this page:", meta.pageUrl, "",
       `Page title: ${meta.pageTitle}`,
-      meta.year ? `Year: ${meta.year}` : "",
-      meta.subject ? `Subject: ${meta.subject}` : "",
-      code ? `Curriculum code: ${code}` : "",
-      meta.questionId ? `Question ID: ${meta.questionId}` : "",
-      meta.pageType ? `Page type: ${meta.pageType}` : "",
-      "",
-      "Issue found:",
-      "",
-      "Suggested correction, if known:",
-      "",
-      "Thanks."
+      meta.year ? `Year: ${meta.year}` : "", meta.subject ? `Subject: ${meta.subject}` : "",
+      code ? `Curriculum code: ${code}` : "", meta.questionId ? `Question ID: ${meta.questionId}` : "",
+      meta.pageType ? `Page type: ${meta.pageType}` : "", "", "Issue found:", "", "Suggested correction, if known:", "", "Thanks."
     ]);
-
     return `mailto:${meta.supportEmail || DEFAULT_EMAIL}?subject=${subject}&body=${body}`;
   }
 
   function createFloatingButton() {
-    if (document.querySelector("[data-report-issue], .report-issue-button")) {
-      return;
-    }
-
+    loadInternationalAlignment();
+    if (document.querySelector("[data-report-issue], .report-issue-button")) return;
     const existingFloating = document.querySelector(".floating-learning-links");
     const button = document.createElement("button");
-    button.type = "button";
-    button.className = "report-issue-button";
-    button.dataset.reportIssue = "true";
-    button.textContent = "Report issue";
-    button.setAttribute("aria-label", "Report an issue with this SkillrHub page");
-
-    if (existingFloating) {
-      existingFloating.appendChild(button);
-      return;
-    }
-
-    const container = document.createElement("div");
-    container.className = "floating-learning-links";
-    container.appendChild(button);
-    document.body.appendChild(container);
+    button.type = "button"; button.className = "report-issue-button"; button.dataset.reportIssue = "true";
+    button.textContent = "Report issue"; button.setAttribute("aria-label", "Report an issue with this SkillrHub page");
+    if (existingFloating) { existingFloating.appendChild(button); return; }
+    const container = document.createElement("div"); container.className = "floating-learning-links";
+    container.appendChild(button); document.body.appendChild(container);
   }
 
-  // Delegation keeps dynamically replaced topic-page buttons working.
   document.addEventListener("click", (event) => {
     const button = event.target.closest?.("[data-report-issue], .report-issue-button");
-    if (!button) {
-      return;
-    }
-
-    const meta = getPageMeta();
-    window.location.href = buildMailtoHref(meta);
+    if (!button) return;
+    window.location.href = buildMailtoHref(getPageMeta());
   });
 
-  document.addEventListener("DOMContentLoaded", createFloatingButton);
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", createFloatingButton, {once:true});
+  else createFloatingButton();
 }());
