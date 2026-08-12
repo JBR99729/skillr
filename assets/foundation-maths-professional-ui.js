@@ -47,6 +47,25 @@
     });
   }
 
+  function rewriteTeacherResource() {
+    if (!isFoundationMathsTopic) return;
+    const resource = document.getElementById("teacher-slide");
+    if (!resource) return;
+
+    const content = resource.querySelector(".menu-content") || resource;
+    const heading = content.querySelector("h3, h2");
+    const paragraph = content.querySelector("p");
+    const link = content.querySelector("a.curriculum-button, a[href*='teacher-slide'], a[href*='teacher-slides']");
+
+    const headingText = "Classroom teaching slide";
+    const paragraphText = "Open this classroom teaching slide for direct display on a school projector, interactive board, laptop or student device.";
+    const linkText = "Open teaching slide";
+
+    if (heading && heading.textContent.trim() !== headingText) heading.textContent = headingText;
+    if (paragraph && paragraph.textContent.trim() !== paragraphText) paragraph.textContent = paragraphText;
+    if (link && link.textContent.trim() !== linkText) link.textContent = linkText;
+  }
+
   function addTeacherWatermark() {
     if (!isFoundationTeacherSlide) return;
     const sheet = document.querySelector(".sheet");
@@ -102,6 +121,7 @@
     removeHelperHint();
     cleanDecorativeIcons();
     rewriteTeacherLink();
+    rewriteTeacherResource();
     addTeacherWatermark();
   }
 
