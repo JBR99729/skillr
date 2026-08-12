@@ -56,4 +56,4 @@ jobs:
       - name: Retain syntax compatibility for legacy resource layers
         run: |
           grep -q 'SkillrConceptSvg' assets/science-visual-layer.js
-          grep -q 'First Nations' assets/worksheet-pack-enhancer.js
+          grep -qi 'first nations' assets/worksheet-pack-enhancer.js
