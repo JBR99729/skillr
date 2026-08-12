@@ -8,6 +8,13 @@
     document.head.appendChild(displayOnlyScript);
   }
 
+  if (!document.querySelector('script[data-skillr-foundation-professional-ui]')) {
+    const professionalUiScript = document.createElement("script");
+    professionalUiScript.src = "/assets/foundation-maths-professional-ui.js?v=1";
+    professionalUiScript.dataset.skillrFoundationProfessionalUi = "true";
+    document.head.appendChild(professionalUiScript);
+  }
+
   const foundationMathsTopic =
     /^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) &&
     !document.getElementById("teaching-lesson");
