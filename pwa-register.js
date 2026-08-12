@@ -29,14 +29,14 @@
 
   if (!document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
     const mathsQuickReadScript = document.createElement("script");
-    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=3";
+    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=4";
     mathsQuickReadScript.dataset.skillrFoundationMathsQuickRead = "true";
     document.head.appendChild(mathsQuickReadScript);
   }
 
   if (foundationSciencePractice && !document.querySelector('script[data-skillr-foundation-science-quick-read]')) {
     const scienceQuickReadScript = document.createElement("script");
-    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=2";
+    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=3";
     scienceQuickReadScript.dataset.skillrFoundationScienceQuickRead = "true";
     document.head.appendChild(scienceQuickReadScript);
   }
