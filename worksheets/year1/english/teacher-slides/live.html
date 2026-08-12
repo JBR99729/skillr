@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#173968">
+<title>Year 1 English Teacher Slide | SkillrHub</title>
+<style>
+:root{--brand:#2457d6;--navy:#173968;--line:#d8e2ef;--text:#203047;--muted:#5d6c80;--soft:#eef5ff}*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--text);background:#f4f7fb;line-height:1.28}.toolbar{max-width:1180px;margin:12px auto 0;padding:0 14px}.toolbar a{border:1px solid #cbd8e8;background:#fff;color:var(--brand);border-radius:999px;padding:8px 12px;font-weight:800;text-decoration:none}.sheet{position:relative;isolation:isolate;overflow:hidden;max-width:1180px;margin:10px auto 20px;background:#fff;padding:14px;border:1px solid var(--line);border-radius:16px;box-shadow:0 8px 24px rgba(28,55,91,.08)}.watermark{position:absolute;inset:0;z-index:-1;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(4,1fr);align-items:center;justify-items:center;pointer-events:none}.watermark span{font:900 15px/1 Arial,Helvetica,sans-serif;color:rgba(36,87,214,.06);transform:rotate(-24deg);white-space:nowrap}.brandbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:7px;padding:7px 10px;border:1px solid #dce6f5;border-radius:10px}.brand{font-weight:900;color:var(--brand)}.brand span{color:var(--navy)}.brandbar small{color:var(--muted);font-weight:700}.hero{display:grid;grid-template-columns:1.6fr 1fr;gap:10px;background:var(--navy);color:#fff;border-radius:12px;padding:12px;margin-bottom:8px}.eyebrow{margin:0 0 2px;font-size:.72rem;font-weight:800;text-transform:uppercase}.hero h1{margin:0;font-size:1.55rem}.subtitle,.goal{margin:4px 0}.hero-box{border:1px solid rgba(255,255,255,.3);border-radius:9px;padding:8px;background:rgba(255,255,255,.08)}.hero-box p{margin:3px 0;font-size:.8rem}.flow{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin-bottom:8px}.flow span{background:var(--soft);border:1px solid #d9e7fb;border-radius:8px;padding:6px;text-align:center;font-size:.72rem;font-weight:850;color:var(--navy)}.grid{display:grid;grid-template-columns:1.1fr 1fr 1fr;gap:7px}.card{border:1px solid var(--line);border-radius:10px;padding:8px;background:rgba(255,255,255,.98)}.card h2{margin:0 0 5px;font-size:.88rem;color:var(--navy)}.card p,.card li{font-size:.74rem}.card p{margin:3px 0}.card ul,.card ol{margin:3px 0;padding-left:1rem}.tag{display:inline-block;border-radius:999px;background:var(--soft);border:1px solid #d9e7fb;padding:2px 6px;font-size:.62rem;font-weight:850;margin-bottom:4px;color:var(--navy)}.english-card-row{display:flex;flex-wrap:wrap;gap:5px}.english-card-row span{border:1px solid #d9e5f5;border-radius:8px;background:#fff;padding:5px 7px;font-weight:850;font-size:.72rem;color:var(--navy)}.english-model-board{border:1px dashed #bdc9da;border-radius:9px;background:#f8fafc;padding:7px}.mistake{background:#fffaf2}.check{background:#f7fbf8}.footer{display:flex;justify-content:space-between;gap:12px;margin-top:8px;padding-top:7px;border-top:1px solid var(--line);font-size:.68rem;color:var(--muted)}@media(max-width:800px){.hero,.grid{grid-template-columns:1fr}.flow{grid-template-columns:repeat(2,1fr)}}
+</style>
+<script src="/assets/display-only.js?v=1"></script>
+</head>
+<body>
+<div class="toolbar"><a id="backToTopic" href="/year1/curriculum/english/">Back to topic</a></div>
+<main class="sheet" id="slide"><div class="watermark" aria-hidden="true"></div><p>Loading Year 1 English slide...</p></main>
+<script src="/assets/year1-english-data.js?v=1"></script>
+<script>
+(() => {
+  const params = new URLSearchParams(location.search);
+  const code = (params.get("code") || "AC9E1LA01").toUpperCase();
+  const unit = window.SkillrYear1EnglishData?.[code];
+  const sheet = document.getElementById("slide");
+  const esc = (value) => String(value ?? "").replace(/[&<>"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[char]));
+  if (!unit) { sheet.innerHTML = "<p>Year 1 English slide not found.</p>"; return; }
+  document.title = `${code} ${unit.title} Teacher Slide | SkillrHub`;
+  document.getElementById("backToTopic").href = `/year1/english/${unit.slug}/`;
+  sheet.querySelector(".watermark").innerHTML = Array.from({length:12},()=>"<span>SkillrHub F–10 • skillrhub.com</span>").join("");
+  const flow = unit.routine.split("→").map((item)=>`<span>${esc(item.trim())}</span>`).join("");
+  const activities = unit.activities.slice(0,3).map((a)=>`<li><strong>${esc(a.title)}:</strong> ${esc(a.text)}</li>`).join("");
+  const mixups = unit.mistakes.slice(0,3).map(([n,f])=>`<li><strong>${esc(n)}:</strong> ${esc(f)}</li>`).join("");
+  const checks = unit.quick.slice(0,4).map((q,i)=>`<li>${esc(q)}</li>`).join("");
+  sheet.innerHTML = `<div class="watermark" aria-hidden="true">${sheet.querySelector(".watermark").innerHTML}</div><div class="brandbar"><div class="brand">SkillrHub <span>F–10</span></div><small>Year 1 English • Live classroom display</small></div><section class="hero"><div><p class="eyebrow">${code} • Year 1 English</p><h1>${esc(unit.title)}</h1><p class="subtitle">${esc(unit.subtitle)}</p><p class="goal"><strong>Learning goal:</strong> ${esc(unit.learn)}</p></div><div class="hero-box"><p><strong>Classroom routine</strong></p><p>${esc(unit.routine)}</p><p><strong>Key words</strong></p><p>${unit.visuals.map(esc).join(" • ")}</p></div></section><div class="flow">${flow}</div><section class="grid"><div class="card"><span class="tag">Teach</span><h2>${esc(unit.model_title)}</h2>${unit.model_html}</div><div class="card check"><span class="tag">Solved example</span><h2>Think aloud</h2><p>${esc(unit.solved_example)}</p><h2>Try It</h2><ul>${activities}</ul></div><div class="card mistake"><span class="tag">Common Mix-Ups</span><h2>Watch for</h2><ul>${mixups}</ul><h2>Quick check</h2><ol>${checks}</ol></div></section><div class="footer"><span>For live classroom display • SkillrHub F–10</span><span>skillrhub.com • ${code}</span></div>`;
+})();
+</script>
+<script src="/pwa-register.js"></script>
+</body>
+</html>
