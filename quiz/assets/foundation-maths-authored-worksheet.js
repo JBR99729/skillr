@@ -1,12 +1,17 @@
 "use strict";
 
 (() => {
-  const match = window.location.pathname.match(/\/math\/(ac9mf[a-z0-9]+)\/worksheet\/?/i);
-  const code = match ? match[1].toUpperCase() : null;
-  const unit = code ? window.SkillrFoundationWorksheetData?.[code] : null;
-  if (!code || !unit || !Array.isArray(unit.questions) || unit.questions.length !== 10) return;
+  const match = window.location.pathname.match(/\/(math|science)\/(ac9[a-z0-9]+)\/worksheet\/?/i);
+  const subject = match ? match[1].toLowerCase() : null;
+  const code = match ? match[2].toUpperCase() : null;
+  const dataSource = subject === "science"
+    ? window.SkillrFoundationScienceWorksheetData
+    : window.SkillrFoundationWorksheetData;
+  const unit = code ? dataSource?.[code] : null;
+  if (!subject || !code || !unit || !Array.isArray(unit.questions) || unit.questions.length !== 10) return;
 
   const questions = unit.questions;
+  const subjectLabel = unit.subject || (subject === "science" ? "Foundation Science" : "Foundation Maths");
   const root = document.getElementById("worksheetRoot");
   const button = document.getElementById("previewPdfButton");
   if (!root) return;
@@ -30,7 +35,7 @@
 
   const core = questions.filter((q) => !q.enrichment);
   const enrichment = questions.filter((q) => q.enrichment);
-  root.innerHTML = `<section class="worksheet-paper"><div class="watermark-grid" aria-hidden="true">${Array.from({length:15},()=>"<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div><div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${esc(code)} — ${esc(unit.title)}</h2></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div><section class="core-grid">${core.map((q,i)=>renderQuestion(q,i)).join("")}</section><div class="enrichment-heading">Enrichment — complete Questions 9–10 after Questions 1–8.</div><section class="enrichment-grid">${enrichment.map((q,i)=>renderQuestion(q,i+core.length)).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • Foundation Maths</span><span>skillrhub.com</span></footer></section>`;
+  root.innerHTML = `<section class="worksheet-paper"><div class="watermark-grid" aria-hidden="true">${Array.from({length:15},()=>"<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div><div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${esc(code)} — ${esc(unit.title)}</h2></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div><section class="core-grid">${core.map((q,i)=>renderQuestion(q,i)).join("")}</section><div class="enrichment-heading">Enrichment — complete Questions 9–10 after Questions 1–8.</div><section class="enrichment-grid">${enrichment.map((q,i)=>renderQuestion(q,i+core.length)).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • ${esc(subjectLabel)}</span><span>skillrhub.com</span></footer></section>`;
 
   function wrap(doc, text, width) {
     const lines = doc.splitTextToSize(String(text ?? ""), width);
