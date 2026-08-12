@@ -144,33 +144,42 @@
     doc.setFillColor(...navy);
     doc.circle(x + 5, y + 5, 3.2, "F");
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.2);
+    doc.setFontSize(8.3);
     doc.setTextColor(255, 255, 255);
     doc.text(String(number), x + 5, y + 5.9, { align: "center" });
 
     if (question.enrichment) {
-      doc.setFontSize(6.8);
+      doc.setFontSize(7.1);
       doc.setTextColor(...blue);
       doc.text("ENRICHMENT", x + width - 3, y + 5.4, { align: "right" });
     }
 
     let cursor = y + 10;
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(question.enrichment ? 8.2 : 8.0);
+    let promptFont = question.enrichment ? 8.8 : 8.6;
+    doc.setFontSize(promptFont);
     doc.setTextColor(...text);
-    const prompt = wrap(doc, question.question, width - 6).slice(0, question.enrichment ? 4 : 3);
+
+    let prompt = wrap(doc, question.question, width - 6);
+    if (prompt.length > (question.enrichment ? 6 : 5)) {
+      promptFont = 8.1;
+      doc.setFontSize(promptFont);
+      prompt = wrap(doc, question.question, width - 6);
+    }
+
+    const promptLineHeight = 3.55;
     doc.text(prompt, x + 3, cursor);
-    cursor += prompt.length * 3.5 + 1;
+    cursor += prompt.length * promptLineHeight + 0.8;
 
     if (question.visual) {
       doc.setFont("courier", "bold");
-      doc.setFontSize(8);
+      doc.setFontSize(8.4);
       doc.text(String(question.visual), x + 3, cursor);
-      cursor += 4;
+      cursor += 4.1;
     }
 
     doc.setFont("helvetica", "normal");
-    doc.setFontSize(7.5);
+    doc.setFontSize(8.0);
     doc.setTextColor(...text);
 
     if (question.type === "single") {
@@ -179,27 +188,28 @@
       doc.text(rows, x + 3, cursor);
     } else if (question.type === "fill-blank") {
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(8.6);
+      doc.setFontSize(9.1);
       doc.text(String(question.template || "").replaceAll("{{blank}}", "________"), x + 3, cursor);
     } else if (question.type === "match") {
       const left = question.matchLeft || [];
       const right = question.matchRight || [];
       const count = Math.max(left.length, right.length);
+      doc.setFontSize(7.9);
       for (let i = 0; i < count; i += 1) {
         const leftText = left[i] !== undefined ? `${String.fromCharCode(65 + i)}. ${left[i]}` : "";
         const rightText = right[i] !== undefined ? `${i + 1}. ${right[i]}` : "";
-        doc.text(leftText, x + 3, cursor + i * 3.4);
-        doc.text(rightText, x + width * 0.54, cursor + i * 3.4);
+        doc.text(leftText, x + 3, cursor + i * 3.6);
+        doc.text(rightText, x + width * 0.54, cursor + i * 3.6);
       }
-      cursor += count * 3.4 + 0.8;
+      cursor += count * 3.6 + 0.6;
       doc.setDrawColor(...muted);
-      doc.line(x + 3, cursor, x + width - 3, cursor);
+      if (cursor < y + height - 2) doc.line(x + 3, cursor, x + width - 3, cursor);
     } else {
       const lineCount = question.enrichment ? 3 : 2;
       doc.setDrawColor(...muted);
       for (let i = 0; i < lineCount; i += 1) {
-        const lineY = cursor + i * 5;
-        if (lineY < y + height - 2.5) doc.line(x + 3, lineY, x + width - 3, lineY);
+        const lineY = cursor + i * 4.6;
+        if (lineY < y + height - 2.2) doc.line(x + 3, lineY, x + width - 3, lineY);
       }
     }
   }
@@ -230,8 +240,8 @@
 
       const core = questions.filter((question) => !question.enrichment);
       const enrichment = questions.filter((question) => question.enrichment);
-      const coreH = 31.2;
-      const rowGap = 3.2;
+      const coreH = 33;
+      const rowGap = 2.5;
 
       core.forEach((question, index) => {
         const col = index % 2;
@@ -241,18 +251,18 @@
         drawQuestion(doc, question, index + 1, x, y, colW, coreH);
       });
 
-      const enrichTop = top + 4 * (coreH + rowGap) + 1;
+      const enrichTop = top + 4 * (coreH + rowGap) + 0.8;
       doc.setFillColor(224, 237, 255);
       doc.setDrawColor(153, 185, 228);
       doc.setLineWidth(0.4);
-      doc.roundedRect(margin, enrichTop, pageW - margin * 2, 8.5, 1.5, 1.5, "FD");
+      doc.roundedRect(margin, enrichTop, pageW - margin * 2, 7.5, 1.5, 1.5, "FD");
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(7.7);
+      doc.setFontSize(8.0);
       doc.setTextColor(23, 57, 104);
-      doc.text("Enrichment — complete Questions 9–10 after you have finished Questions 1–8.", margin + 3, enrichTop + 5.3);
+      doc.text("Enrichment — complete Questions 9–10 after you have finished Questions 1–8.", margin + 3, enrichTop + 4.9);
 
-      const enrichY = enrichTop + 11.5;
-      const enrichH = 48;
+      const enrichY = enrichTop + 10.3;
+      const enrichH = 45;
       enrichment.forEach((question, index) => {
         const x = margin + index * (colW + gap);
         drawQuestion(doc, question, index + 9, x, enrichY, colW, enrichH);
