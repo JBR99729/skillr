@@ -1,107 +1,21 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n03-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "represent natural numbers in expanded notation using place value and powers…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…",
-      "compare, order and solve problems involving addition and subtraction of…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "investigating exponent notation for powers of 10 such as “one hundred…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "relating the sequences 10, 100, 1000, 10 000 … and 10^1, 10^2, 10^3, 10^4",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "applying and explaining the connections between place value and expanded…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "represent natural numbers in expanded notation using place value and powers…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "applying and explaining the connections between place value and expanded…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "applying and explaining the connections between place value and expanded…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  },
-  {
-    "id": "ac9m7n03-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "represent natural numbers in expanded notation using place value and powers…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N03: represent natural numbers in expanded notation using place value and powers…."
-  }
-];
+(() => {
+  const q=[]; let id=1;
+  const add=(prompt,correct,wrong,explanation)=>{const answers=[String(correct),...wrong.map(String)].filter((v,i,a)=>a.indexOf(v)===i);while(answers.length<4)answers.push(`None of these ${answers.length}`);q.push({id:`ac9m7n03-${String(id++).padStart(2,"0")}`,type:"single",question:prompt,answers:answers.slice(0,4),correct:0,explanation});};
+  for(let e=0;e<=9;e++){const v=10**e;add(`What is 10^${e}?`,v,[e===0?0:10*e,v*10,e],`Ten to exponent ${e} equals ${v}; the exponent counts factors of 10, and 10⁰ = 1.`);}
+  [[7052304,7,6,7000000],[7052304,5,4,50000],[4080019,8,4,80000],[4080019,1,1,10],[9306042,3,4,3000],[9306042,6,3,6000],[512080,1,4,10000],[512080,8,1,80],[68004005,4,3,4000],[68004005,5,0,5],[207030400,7,6,7000000],[207030400,3,4,30000]].forEach(([n,d,e,v])=>add(`In ${n.toLocaleString("en-AU")}, what value is represented by the digit ${d} identified in 10^${e} place?`,v,[d*10**Math.max(0,e-1),d*10**(e+1),d],`The digit ${d} is in the 10^${e} place, so its value is ${d} × 10^${e} = ${v}.`));
+  const forms=[["4×10⁶ + 8×10⁴ + 1×10 + 9",4080019],["7×10⁵ + 2×10³ + 6×10 + 4",702064],["9×10⁶ + 3×10⁵ + 5×10²",9300500],["6×10⁴ + 7×10³ + 2",67002],["5×10⁷ + 4×10⁵ + 8×10² + 1",50400801],["3×10⁶ + 2×10² + 7",3000207],["8×10⁵ + 9×10⁴ + 6×10",890060],["2×10⁸ + 5×10³ + 4",200005004],["7×10⁴ + 7×10² + 7",70707],["4×10⁶ + 4×10³ + 4",4004004],["1×10⁷ + 2×10⁶ + 3×10⁵ + 4",12300004],["9×10⁵ + 9×10 + 9",900099]];
+  forms.forEach(([f,n])=>add(`Which numeral equals ${f}?`,n,[n+900,n-90,n*10],`Evaluate each place-value term and add them: ${f} = ${n}.`));
+  [[4080019,"4×10⁶ + 8×10⁴ + 1×10 + 9"],[702064,"7×10⁵ + 2×10³ + 6×10 + 4"],[9300500,"9×10⁶ + 3×10⁵ + 5×10²"],[67002,"6×10⁴ + 7×10³ + 2"],[50400801,"5×10⁷ + 4×10⁵ + 8×10² + 1"],[3000207,"3×10⁶ + 2×10² + 7"],[890060,"8×10⁵ + 9×10⁴ + 6×10"],[200005004,"2×10⁸ + 5×10³ + 4"],[70707,"7×10⁴ + 7×10² + 7"],[4004004,"4×10⁶ + 4×10³ + 4"],[12300004,"1×10⁷ + 2×10⁶ + 3×10⁵ + 4"],[900099,"9×10⁵ + 9×10 + 9"]].forEach(([n,f],i)=>add(`Which is the standard expanded form of ${Number(n).toLocaleString("en-AU")}?`,f,[forms[(i+1)%forms.length][0],`${n}×10⁰`,`${String(n).replace(/0/g,"")}×10`],`Match every non-zero digit to its power-of-ten place: ${f}.`));
+  add("Why may zero terms be omitted from a shortened expanded form?","They contribute zero while the numeral still preserves their places.",["Zeros have no place value.","All zeros equal 10⁰.","Removing any zero never changes a numeral."],"A term such as 0×10⁵ contributes zero, but internal zero positions remain essential in the numeral.");
+  add("What is the value of 10⁰?","1",["0","10","100"],"Any non-zero number to exponent zero equals 1.");
+  add("Which coefficient is missing: 6 030 = 6×10³ + □×10¹?","3",["0","30","6"],"The tens digit is 3, so the term is 3×10¹ = 30.");
+  add("Which exponent belongs to the hundred-thousands place?","5",["4","6","100000"],"100 000 = 10⁵.");
+  add("A student expands 50 204 as 5×10⁴ + 2×10³ + 4. What is wrong?","The 2 is in the hundreds place, so it should be 2×10².",["The 5 should be 5×10⁵.","The 4 should be omitted.","There is no error."],"Place exponents count from units as 10⁰.");
+  add("Which check best verifies an expanded expression?","Evaluate every term and reconstruct the numeral.",["Count only its non-zero digits.","Add the exponents.","Remove all internal zeros."],"Reconstruction confirms every coefficient and exponent is in the correct place.");
+  add("What does the coefficient mean in 7×10⁶?","There are 7 units of one million.",["The exponent is multiplied by 7.","Seven zeros are removed.","The numeral is 10⁷."],"The coefficient counts how many units of the stated place value are present.");
+  add("Which sequence matches powers of 10?","10, 100, 1 000, 10 000",["10, 20, 30, 40","1, 10, 20, 30","10, 100, 200, 300"],"Multiplying by 10 moves to the next power of 10.");
+  add("How many times larger is 10⁷ than 10⁴?","1 000 times",["3 times","10 times","10 000 times"],"10⁷ ÷ 10⁴ = 10³ = 1 000.");
+  add("Which statement distinguishes a digit from its value?","A digit is a symbol; its value depends on its place.",["A digit and its value are always equal.","Only zero has place value.","A digit's value depends on the total number of digits."],"The same digit can represent ones, thousands or millions depending on position.");
+  if(q.length!==56)throw new Error(`AC9M7N03 expected 56 questions, found ${q.length}`); window.quizQuestions=q;
+})();
