@@ -36,21 +36,21 @@
 
   if (foundationMathsPractice && !document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
     const mathsQuickReadScript = document.createElement("script");
-    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=4";
+    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=5";
     mathsQuickReadScript.dataset.skillrFoundationMathsQuickRead = "true";
     document.head.appendChild(mathsQuickReadScript);
   }
 
   if (foundationSciencePractice && !document.querySelector('script[data-skillr-foundation-science-quick-read]')) {
     const scienceQuickReadScript = document.createElement("script");
-    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=3";
+    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=4";
     scienceQuickReadScript.dataset.skillrFoundationScienceQuickRead = "true";
     document.head.appendChild(scienceQuickReadScript);
   }
 
   if (foundationScienceWorksheet && !document.querySelector('script[data-skillr-foundation-science-worksheet]')) {
     const scienceWorksheetScript = document.createElement("script");
-    scienceWorksheetScript.src = "/assets/foundation-science-worksheet-page.js?v=1";
+    scienceWorksheetScript.src = "/assets/foundation-science-worksheet-page.js?v=2";
     scienceWorksheetScript.dataset.skillrFoundationScienceWorksheet = "true";
     document.head.appendChild(scienceWorksheetScript);
   }
@@ -64,21 +64,21 @@
 
   if (foundationEnglishWorksheet && !document.querySelector('script[data-skillr-foundation-english-worksheet]')) {
     const englishWorksheetScript = document.createElement("script");
-    englishWorksheetScript.src = "/assets/foundation-english-worksheet-page.js?v=1";
+    englishWorksheetScript.src = "/assets/foundation-english-worksheet-page.js?v=2";
     englishWorksheetScript.dataset.skillrFoundationEnglishWorksheet = "true";
     document.head.appendChild(englishWorksheetScript);
   }
 
   if (year1MathsPracticeTest && !document.querySelector('script[data-skillr-year1-maths-quick-read]')) {
     const year1QuickReadScript = document.createElement("script");
-    year1QuickReadScript.src = "/assets/year1-maths-practice-quick-read.js?v=1";
+    year1QuickReadScript.src = "/assets/year1-maths-practice-quick-read.js?v=2";
     year1QuickReadScript.dataset.skillrYear1MathsQuickRead = "true";
     document.head.appendChild(year1QuickReadScript);
   }
 
   if (year1MathsWorksheet && !document.querySelector('script[data-skillr-year1-maths-worksheet]')) {
     const year1WorksheetScript = document.createElement("script");
-    year1WorksheetScript.src = "/assets/year1-maths-worksheet-page.js?v=1";
+    year1WorksheetScript.src = "/assets/year1-maths-worksheet-page.js?v=2";
     year1WorksheetScript.dataset.skillrYear1MathsWorksheet = "true";
     document.head.appendChild(year1WorksheetScript);
   }
