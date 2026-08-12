@@ -27,6 +27,13 @@
       : null;
   }
 
+  function worksheetUrl() {
+    const code = currentCurriculumCode();
+    return code
+      ? `/quiz/grade-k/math/${code.toLowerCase()}/worksheet/`
+      : null;
+  }
+
   function cleanText(text) {
     let value = text;
     for (const icon of ICONS) value = value.split(icon).join("");
@@ -70,6 +77,23 @@
         link.href = url;
         link.target = "_blank";
         link.rel = "noopener";
+      }
+    });
+  }
+
+  function rewriteWorksheetLinks() {
+    if (!isFoundationMathsTopic) return;
+    const url = worksheetUrl();
+    if (!url) return;
+
+    document.querySelectorAll("a").forEach((link) => {
+      const text = (link.textContent || "").trim();
+      const href = link.getAttribute("href") || "";
+      if (/^worksheet$/i.test(text) || /\/worksheet\/?$/i.test(href)) {
+        link.href = url;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.removeAttribute("download");
       }
     });
   }
@@ -154,6 +178,7 @@
     removeHelperHint();
     cleanDecorativeIcons();
     rewriteTeacherLink();
+    rewriteWorksheetLinks();
     rewriteTeacherResource();
     addTeacherWatermark();
   }
