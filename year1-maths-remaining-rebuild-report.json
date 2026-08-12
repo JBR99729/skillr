@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:22:27.110Z",
+  "generatedAt": "2026-08-12T18:43:57.606Z",
   "standard": {
     "practice": 28,
     "test": 12,
@@ -17,7 +17,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 65
+      "visuals": 81
     },
     "AC9M1A02": {
       "title": "Repeating Patterns",
@@ -29,7 +29,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 63
+      "visuals": 90
     },
     "AC9M1M01": {
       "title": "Comparing Length, Mass, Capacity and Duration",
@@ -41,7 +41,7 @@
         "test": 12,
         "quiz": 15
       },
-      "visuals": 56
+      "visuals": 69
     },
     "AC9M1M02": {
       "title": "Measuring Length with Informal Units",
@@ -53,7 +53,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 69
+      "visuals": 90
     },
     "AC9M1M03": {
       "title": "Time: Years, Months, Weeks, Days and Hours",
@@ -65,7 +65,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 50
+      "visuals": 90
     },
     "AC9M1SP01": {
       "title": "Familiar Shapes and Objects",
@@ -77,7 +77,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 60
+      "visuals": 84
     },
     "AC9M1SP02": {
       "title": "Directions and Location",
@@ -89,7 +89,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 73
+      "visuals": 87
     },
     "AC9M1ST01": {
       "title": "Collecting Categorical Data",
@@ -101,7 +101,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 61
+      "visuals": 76
     },
     "AC9M1ST02": {
       "title": "Representing and Comparing Data",
@@ -113,7 +113,7 @@
         "test": 12,
         "quiz": 16
       },
-      "visuals": 83
+      "visuals": 87
     }
   },
   "totals": {
@@ -121,7 +121,7 @@
     "test": 108,
     "quiz": 450,
     "questions": 810,
-    "visuals": 580
+    "visuals": 754
   },
   "qa": "Content QA complete; human QA pending.",
   "dailyDrills": {
@@ -142,5 +142,58 @@
       "AC9M1ST01": 12,
       "AC9M1ST02": 12
     }
+  },
+  "visualAudit": {
+    "updatedQuestions": 810,
+    "images": 754,
+    "semanticChecks": 754,
+    "codes": {
+      "ac9m1a01": {
+        "practice": 26,
+        "test": 10,
+        "quiz": 45
+      },
+      "ac9m1a02": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1m01": {
+        "practice": 24,
+        "test": 9,
+        "quiz": 36
+      },
+      "ac9m1m02": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1m03": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1sp01": {
+        "practice": 26,
+        "test": 11,
+        "quiz": 47
+      },
+      "ac9m1sp02": {
+        "practice": 28,
+        "test": 11,
+        "quiz": 48
+      },
+      "ac9m1st01": {
+        "practice": 22,
+        "test": 10,
+        "quiz": 44
+      },
+      "ac9m1st02": {
+        "practice": 28,
+        "test": 11,
+        "quiz": 48
+      }
+    },
+    "standard": "Purpose-built SVGs match the object, comparison, pattern, measurement or data stimulus; minimum 1.3 cm rendered size and explicit 13 cm by 5 cm source size."
   }
 }
