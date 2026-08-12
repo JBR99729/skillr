@@ -10,7 +10,7 @@
 
   if (!document.querySelector('script[data-skillr-foundation-professional-ui]')) {
     const professionalUiScript = document.createElement("script");
-    professionalUiScript.src = "/assets/foundation-maths-professional-ui.js?v=1";
+    professionalUiScript.src = "/assets/foundation-maths-professional-ui.js?v=2";
     professionalUiScript.dataset.skillrFoundationProfessionalUi = "true";
     document.head.appendChild(professionalUiScript);
   }
