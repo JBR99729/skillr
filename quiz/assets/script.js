@@ -315,6 +315,23 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
+  if (config.certificateOnPass) {
+    const certificateAttemptNote =
+      document.createElement("p");
+    certificateAttemptNote.className =
+      "certificate-attempt-note";
+    certificateAttemptNote.textContent =
+      `Certificate target: ${Number(config.passingPercent) || 75}% or higher unlocks printing.`;
+    certificateAttemptNote.style.cssText =
+      "margin:.35rem 0 .75rem;font-size:.875rem;font-weight:600;color:#334155;";
+    elements.quizScreen
+      .querySelector(".quiz-header")
+      ?.insertAdjacentElement(
+        "afterend",
+        certificateAttemptNote
+      );
+  }
+
   if (questions.length === 0) {
     elements.questionCount.textContent = "0";
     elements.startButton.disabled = true;
