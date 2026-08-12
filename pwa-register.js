@@ -29,11 +29,11 @@
     document.head.appendChild(mathsQuickReadScript);
   }
 
-  if (!document.querySelector('script[data-skillr-foundation-science-prototype-ui]')) {
-    const sciencePrototypeScript = document.createElement("script");
-    sciencePrototypeScript.src = "/assets/foundation-science-prototype-ui.js?v=2";
-    sciencePrototypeScript.dataset.skillrFoundationSciencePrototypeUi = "true";
-    document.head.appendChild(sciencePrototypeScript);
+  if (!document.querySelector('script[data-skillr-foundation-science-quick-read]')) {
+    const scienceQuickReadScript = document.createElement("script");
+    scienceQuickReadScript.src = "/assets/foundation-science-practice-quick-read.js?v=1";
+    scienceQuickReadScript.dataset.skillrFoundationScienceQuickRead = "true";
+    document.head.appendChild(scienceQuickReadScript);
   }
 
   const foundationMathsTopic =
@@ -58,6 +58,25 @@
     };
 
     loadLessonScript(0);
+  }
+
+  const foundationScienceTopic = /^\/foundation\/science\/ac9s/i.test(window.location.pathname);
+
+  if (foundationScienceTopic && !document.querySelector('script[data-skillr-foundation-science-render]')) {
+    const scienceScripts = [
+      "/assets/foundation-science-data.js?v=1",
+      "/assets/foundation-science-render.js?v=1"
+    ];
+    const loadScienceScript = (index) => {
+      if (index >= scienceScripts.length) return;
+      const script = document.createElement("script");
+      script.src = scienceScripts[index];
+      script.async = false;
+      script.dataset.skillrFoundationScienceRender = "true";
+      script.addEventListener("load", () => loadScienceScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+    loadScienceScript(0);
   }
 
   if (!document.querySelector('script[data-skillr-progress]')) {
