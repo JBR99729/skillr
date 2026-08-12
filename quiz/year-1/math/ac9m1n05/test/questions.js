@@ -1,104 +1,193 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9m1n05-e01",
+    "id": "ac9m1n05-t-001",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "A fruit cup costs $5 and water costs $2. What is the total cost? Include a model or equation.",
-    "explanation": "$7; 5 + 2 = 7 with an appropriate representation (2 marks).",
+    "skill": "select operation",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "$7; 5 + 2 = 7 with an appropriate representation (2 marks)"
+    "type": "single",
+    "question": "A bag has 9 marbles and 7 more are added. Which operation is needed?",
+    "explanation": "The marbles join, so add.",
+    "answers": [
+      "addition",
+      "subtraction",
+      "sharing",
+      "measuring"
     ],
-    "correct": "$7; 5 + 2 = 7 with an appropriate representation (2 marks)"
+    "correct": 0
   },
   {
-    "id": "ac9m1n05-e02",
+    "id": "ac9m1n05-t-002",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Matching",
-    "question": "Match 11 + 6, 17 − 6 and 17 − 11 to: joining 6 with 11; taking 6 from 17; finding how many more 17 is than 11.",
-    "explanation": "Joining ↔ 11 + 6; taking ↔ 17 − 6; comparing ↔ 17 − 11 (1 mark each).",
+    "skill": "solve join story",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Joining ↔ 11 + 6; taking ↔ 17 − 6; comparing ↔ 17 − 11 (1 mark each).",
-    "correct": "Joining ↔ 11 + 6; taking ↔ 17 − 6; comparing ↔ 17 − 11 (1 mark each)."
+    "type": "number",
+    "question": "Sixteen children are in a hall. Three more enter. How many are there now?",
+    "explanation": "16 + 3 = 19.",
+    "correct": 19,
+    "tolerance": 0,
+    "placeholder": "Type the number"
   },
   {
-    "id": "ac9m1n05-e03",
+    "id": "ac9m1n05-t-003",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Sequencing",
-    "question": "Order the steps for a story about 18 balloons with 9 popping: state what is unknown; represent 18 − 9; note that balloons leave; solve and label.",
-    "explanation": "Note balloons leave → state remaining is unknown → represent 18 − 9 → solve 9 balloons and label (2 marks).",
+    "skill": "solve separate story",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Note balloons leave → state remaining is unknown → represent 18 − 9 → solve 9 balloons and label (2 marks).",
-    "correct": "Note balloons leave → state remaining is unknown → represent 18 − 9 → solve 9 balloons and label (2 marks)."
+    "type": "number",
+    "question": "A tray holds 20 muffins. Eight are taken. How many remain?",
+    "explanation": "20 − 8 = 12.",
+    "correct": 12,
+    "tolerance": 0,
+    "placeholder": "Type the number"
   },
   {
-    "id": "ac9m1n05-e04",
+    "id": "ac9m1n05-t-004",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Short response",
-    "question": "Ravi has $12 and Mei has $8. How much more does Ravi have? Show the comparison.",
-    "explanation": "$4 more; 12 − 8 = 4 or a comparison bar model (2 marks).",
+    "skill": "solve compare story",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "$4 more; 12 − 8 = 4 or a comparison bar model (2 marks)"
+    "type": "number",
+    "question": "One team has 17 points and another has 11. What is the difference?",
+    "explanation": "17 − 11 = 6.",
+    "correct": 6,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECompare%20the%20amounts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3Eteam%20A%20has%2017%3B%20team%20B%20has%2011%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECompare%20the%20amounts%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Eteam%20A%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%2265%22%20width%3D%22306%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22454%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Eteam%20B%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%22145%22%20width%3D%22198%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22346%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22318%22%20y1%3D%22205%22%20x2%3D%22426%22%20y2%3D%22205%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22372.0%22%20y%3D%22232%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%238b5cf6%22%20text-anchor%3D%22middle%22%3Edifference%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "One team has 17 points and another has 11. What is the difference?",
+    "tolerance": 0,
+    "placeholder": "Type the number"
+  },
+  {
+    "id": "ac9m1n05-t-005",
+    "curriculumCode": "AC9M1N05",
+    "bank": "test",
+    "skill": "find missing start",
+    "printable": true,
+    "type": "number",
+    "question": "After 6 shells are found, a collection has 15. How many were there before?",
+    "explanation": "15 − 6 = 9.",
+    "correct": 9,
+    "tolerance": 0,
+    "placeholder": "Type the number"
+  },
+  {
+    "id": "ac9m1n05-t-006",
+    "curriculumCode": "AC9M1N05",
+    "bank": "test",
+    "skill": "find missing change",
+    "printable": true,
+    "type": "number",
+    "question": "A shelf had 18 books. Now it has 12. How many books were moved?",
+    "explanation": "18 − 12 = 6.",
+    "correct": 6,
+    "tolerance": 0,
+    "placeholder": "Type the number"
+  },
+  {
+    "id": "ac9m1n05-t-007",
+    "curriculumCode": "AC9M1N05",
+    "bank": "test",
+    "skill": "match model",
+    "printable": true,
+    "type": "single",
+    "question": "Which equation matches the bar model?",
+    "explanation": "The bar has parts 8 and 5 and whole 13.",
+    "answers": [
+      "8 + 5 = 13",
+      "13 + 5 = 18",
+      "8 − 5 = 3",
+      "5 − 8 = 3"
     ],
-    "correct": "$4 more; 12 − 8 = 4 or a comparison bar model (2 marks)"
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ERead%20the%20bar%20model%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ERead%20the%20bar%20model%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ERead%20the%20bar%20model%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22100%22%20width%3D%22307.6923076923077%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22223.84615384615384%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Crect%20x%3D%22377.6923076923077%22%20y%3D%22100%22%20width%3D%22192.30769230769232%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22473.8461538461538%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%2282%22%20x2%3D%22570%22%20y2%3D%2282%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270%22%20y1%3D%2276%22%20x2%3D%2270%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22570%22%20y1%3D%2276%22%20x2%3D%22570%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ewhole%20%3D%2013%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Which equation matches the bar model?"
   },
   {
-    "id": "ac9m1n05-e05",
+    "id": "ac9m1n05-t-008",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Demonstration",
-    "question": "Start with an unknown number of counters. Add 7 to finish with 19. Demonstrate how to find the start.",
-    "explanation": "Removes 7 from 19 or counts back to 12; starting amount 12 (2 marks).",
+    "skill": "count money",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Removes 7 from 19 or counts back to 12; starting amount 12 (2 marks).",
-    "correct": "Removes 7 from 19 or counts back to 12; starting amount 12 (2 marks)."
+    "type": "number",
+    "question": "What is the total value?",
+    "explanation": "$5 + $2 + $2 = $9.",
+    "correct": 9,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECount%20the%20play%20money%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECoins%20showing%20%245,%20%242,%20%242%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECount%20the%20play%20money%3C%2Ftext%3E%3Crect%20x%3D%22182.0%22%20y%3D%2292%22%20width%3D%2296%22%20height%3D%2266%22%20rx%3D%2210%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22230.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%245%3C%2Ftext%3E%3Ccircle%20cx%3D%22320.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22410.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22410.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22210%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ecount%20the%20value%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "What is the total value?",
+    "tolerance": 0,
+    "placeholder": "Type the number"
   },
   {
-    "id": "ac9m1n05-e06",
+    "id": "ac9m1n05-t-009",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Drawing response",
-    "question": "Mia buys a $4 notebook and a $5 pen and pays with $10. Draw a model showing the total and money left.",
-    "explanation": "Total $9, then $10 − $9 = $1 left; drawing clearly shows both steps (4 marks).",
+    "skill": "total cost",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Total $9, then $10 − $9 = $1 left; drawing clearly shows both steps (4 marks).",
-    "correct": "Total $9, then $10 − $9 = $1 left; drawing clearly shows both steps (4 marks)."
+    "type": "number",
+    "question": "A cap costs $8 and a book costs $9. What is the total?",
+    "explanation": "$8 + $9 = $17.",
+    "correct": 17,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20total%20cost%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20cap%20costs%20%248,%20book%20costs%20%249%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20total%20cost%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ecap%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%248%3C%2Ftext%3E%3Crect%20x%3D%22248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ebook%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%249%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A cap costs $8 and a book costs $9. What is the total?",
+    "tolerance": 0,
+    "placeholder": "Type the number"
   },
   {
-    "id": "ac9m1n05-e07",
+    "id": "ac9m1n05-t-010",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "For 13 toy cars with 4 given away, a student answers 17. Explain why it is unreasonable and correct it.",
-    "explanation": "The amount must decrease; 13 − 4 = 9 cars, and 9 + 4 checks to 13 (3 marks).",
+    "skill": "money left",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "The amount must decrease; 13 − 4 = 9 cars, and 9 + 4 checks to 13 (3 marks).",
-    "correct": "The amount must decrease; 13 − 4 = 9 cars, and 9 + 4 checks to 13 (3 marks)."
+    "type": "number",
+    "question": "Zara has $18 and spends $11. How much remains?",
+    "explanation": "$18 − $11 = $7.",
+    "correct": 7,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20money%20left%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20item%20costs%20%2411%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20money%20left%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eitem%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%2411%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22218%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EMoney%20available%3A%20%2418%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "Zara has $18 and spends $11. How much remains?",
+    "tolerance": 0,
+    "placeholder": "Type the number"
   },
   {
-    "id": "ac9m1n05-e08",
+    "id": "ac9m1n05-t-011",
     "curriculumCode": "AC9M1N05",
     "bank": "test",
-    "sourceType": "Extended response",
-    "question": "Create one joining story and one comparison story that both use the numbers 8 and 6. Write and solve an equation for each.",
-    "explanation": "Valid joining story uses 8 + 6 = 14; valid comparison uses 8 − 6 = 2, with quantities and labels (5 marks).",
+    "skill": "diagnose operation error",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "Valid joining story uses 8 + 6 = 14; valid comparison uses 8 − 6 = 2, with quantities and labels (5 marks).",
-    "correct": "Valid joining story uses 8 + 6 = 14; valid comparison uses 8 − 6 = 2, with quantities and labels (5 marks)."
+    "type": "single",
+    "question": "A child adds in a story where 5 objects are removed. What should change?",
+    "explanation": "The event removes objects, so subtraction represents the change.",
+    "answers": [
+      "Use subtraction because the collection decreases",
+      "Keep addition because every story uses addition",
+      "Use multiplication",
+      "Do not calculate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ac9m1n05-t-012",
+    "curriculumCode": "AC9M1N05",
+    "bank": "test",
+    "skill": "modelling sequence",
+    "printable": true,
+    "type": "order",
+    "question": "Order the modelling steps.",
+    "explanation": "First know what is unknown, represent it, solve, and check the result makes sense.",
+    "correct": [
+      "Identify the unknown",
+      "Draw or choose a model",
+      "Solve the equation",
+      "Check the answer in the story"
+    ],
+    "items": [
+      "Solve the equation",
+      "Identify the unknown",
+      "Check the answer in the story",
+      "Draw or choose a model"
+    ],
+    "instruction": "Use the arrows to put the steps in order."
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

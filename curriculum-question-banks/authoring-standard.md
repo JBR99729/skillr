@@ -108,3 +108,5 @@ A batch is publishable only when it passes:
 - year-level language review;
 - curriculum-coverage review;
 - final Markdown and spelling review.
+
+- Visual stimuli must render at no less than 1.3 cm by 1.3 cm.
