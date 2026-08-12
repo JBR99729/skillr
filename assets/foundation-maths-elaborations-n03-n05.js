@@ -1,0 +1,29 @@
+(function(){
+"use strict";
+const D=window.SkillrFoundationMathsData;if(!D)return;
+const row=n=>`<span class="ev-dots">${"<i></i>".repeat(n)}</span>`;
+const put=(c,e)=>{if(D[c])D[c].elaborations=e};
+put("AC9MFN03",[
+ ["E1","Count once and keep the total",`<span>move each object</span>${row(7)}<strong>7 altogether</strong>`,`Move or touch every object once. The last count answers “How many?” Rearranging does not change the quantity.`,`Spread 7 counters apart. Explain why there are still 7.`],
+ ["E2","Compare counted collections",`<span>A ${row(8)}</span><span>B ${row(6)}</span><strong>A has 2 more</strong>`,`Count both collections, align them and justify more, fewer or the same.`,`Compare 8 and 6 using counts and one-to-one matching.`],
+ ["E3","Collect one item for each person",`<span>child ↔ scissors</span><span>child ↔ scissors</span><span>child ↔ scissors</span>`,`Count people, collect that many items, then pair one item with each person.`,`Four children need one pencil each. Show how many are needed.`],
+ ["E4","Represent a count in different ways",`<span>5 counters</span><b>↔</b><span>5 abacus beads</span><b>↔</b><strong>5</strong>`,`Tools and cultural representations may differ while the quantity stays the same.`,`Represent 5 with counters and a simple abacus model.`],
+ ["E5","Use one-to-one body tallying",`<span>object 1 ↔ body point 1</span><span>object 2 ↔ body point 2</span>`,`Using an appropriate First Nations source, match each counted item to one point in the taught body-tally sequence.`,`Match five objects to five taught body points.`]
+]);
+put("AC9MFN04",[
+ ["E1","See parts in a ten-frame",`${row(5)}<b>+</b>${row(2)}<strong>5 + 2 = 7</strong>`,`Use 5 as an anchor and recognise 2 more without recounting all 7.`,`Show 7 and name the visible parts.`],
+ ["E2","Partition one whole in different ways",`<span>6 = 5 + 1</span><span>6 = 4 + 2</span><span>6 = 3 + 3</span>`,`Split the same collection several ways, name both parts and recombine them.`,`Find two partitions of 6.`],
+ ["E3","Combine standard dot groups",`<span>domino ${row(3)} | ${row(2)}</span><strong>3 + 2 = 5</strong>`,`Recognise familiar dice or domino parts, then combine them to name the whole.`,`Name the parts and whole on a 4-and-2 domino.`],
+ ["E4","Explore grouping representations",`<span>group of 3</span><b>+</b><span>group of 2</span><strong>whole 5</strong>`,`Using an appropriate First Nations source, explore groupings that form and partition collections on Country/Place.`,`Represent a collection using the grouping convention taught.`]
+]);
+put("AC9MFN05",[
+ ["E1","Act, draw and record a story",`<span>8 kangaroos</span><b>− 3</b><strong>5 remain</strong>`,`Act out the change, draw before and after, then record the result with a numeral.`,`Model 8 objects with 3 removed.`],
+ ["E2","Quantify practical needs and money",`<span>4 people ↔ 4 scissors</span><span>$1 + $1 + $1 ↔ $3</span>`,`Use one-to-one matching for needed items and count $1 coins for whole-dollar prices.`,`Supply 4 children and pay $3 with $1 coins.`],
+ ["E3","Represent addition in a First Nations story",`<span>start</span><b>→ change →</b><strong>new total</strong>`,`Use an accurately sourced, culturally appropriate story and represent its additive action with counters or drawings.`,`Identify the start, change and result in the selected story.`],
+ ["E4","Represent sets in a leaf-game story",`<span>leaf set</span><b>+</b><span>leaf set</span><strong>combined set</strong>`,`Use an accurately sourced leaf-game example to model sets and actions, then explain what changed.`,`Build one joining or separating leaf-set action.`]
+]);
+for(const u of Object.values(D))if(u.elaborations)u.elaborations=u.elaborations.map(([label,title,visual,teach,check])=>({label,title,visual,teach,check}));
+function css(){if(document.getElementById("foundation-elab-css"))return;const s=document.createElement("style");s.id="foundation-elab-css";s.textContent=".elaboration-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.elaboration-card{border:1px solid #d9e5f5;border-radius:12px;padding:11px;background:#fbfcfe}.elaboration-card h3{margin:4px 0 7px;color:#173968}.elaboration-visual{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:7px;min-height:72px;padding:9px;border:1px solid #d8e4f2;border-radius:10px;background:#fff}.elaboration-visual>span,.elaboration-visual>strong{padding:6px 8px;border-radius:8px;background:#eef5ff}.ev-dots{display:inline-flex!important;gap:4px}.ev-dots i{width:12px;height:12px;border-radius:50%;background:#2457d6}.elaboration-card p{font-size:.88rem}@media(max-width:680px){.elaboration-grid{grid-template-columns:1fr}}";document.head.appendChild(s)}
+function install(){const code=window.skillrPageMeta?.curriculumCode||new URLSearchParams(location.search).get("code")?.toUpperCase();const u=D[code];if(!u?.elaborations)return false;css();if(document.querySelector("[data-elaboration-visuals='"+code+"']"))return true;const host=document.querySelector(".combined-lesson-content")||document.querySelector(".grid");if(!host)return false;const section=document.createElement(document.body.dataset.skillrTeacherHost==="true"?"article":"section");section.className=document.body.dataset.skillrTeacherHost==="true"?"card full":"lesson-part";section.dataset.elaborationVisuals=code;section.innerHTML=`<h3>Visual teaching for every elaboration</h3><div class="elaboration-grid">${u.elaborations.map(e=>`<article class="elaboration-card"><span class="mini-label">${e.label}</span><h3>${e.title}</h3><div class="elaboration-visual">${e.visual}</div><p><strong>Teach:</strong> ${e.teach}</p><p><strong>Quick check:</strong> ${e.check}</p></article>`).join("")}</div>`;host.appendChild(section);return true}
+if(!install()){const o=new MutationObserver(()=>{if(install())o.disconnect()});o.observe(document.documentElement,{childList:true,subtree:true});setTimeout(()=>o.disconnect(),8000)}
+}());

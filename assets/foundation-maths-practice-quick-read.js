@@ -106,11 +106,10 @@
     if (notes.dataset.skillrMathsQuickRead === code) return true;
 
     const firstMixUp = Array.isArray(data.mistakes) && data.mistakes.length ? data.mistakes[0] : null;
+    const elaborationItems = (data.elaborations || []).map((item) => `<strong>${item.label}:</strong> ${item.title} — ${item.check}`);
     const items = [
       `<strong>Core idea:</strong> ${data.learn}`,
-      `<strong>Teaching model:</strong> ${data.model_title}.`,
-      `<strong>Solved example:</strong> ${solvedExample(data)}`,
-      `<strong>Use it:</strong> ${data.apply_title}.`,
+      ...(elaborationItems.length ? elaborationItems : [`<strong>Teaching model:</strong> ${data.model_title}.`, `<strong>Solved example:</strong> ${solvedExample(data)}`, `<strong>Use it:</strong> ${data.apply_title}.`]),
       firstMixUp ? `<strong>Common Mix-Up:</strong> ${firstMixUp[0]} — ${firstMixUp[1]}` : null
     ].filter(Boolean);
 
