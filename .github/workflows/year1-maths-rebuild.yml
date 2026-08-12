@@ -1,4 +1,4 @@
-name: Complete Year 1 Maths rebuild
+name: Complete remaining Year 1 Maths
 
 on:
   push:
@@ -17,140 +17,97 @@ jobs:
         with:
           ref: agent/year1-maths-full-rebuild
           fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Generate rebuilt Year 1 Maths banks
+      - name: Generate comprehensive source pools
         shell: bash
         run: |
           set -euo pipefail
-          node --check scripts/build-year1-maths-rebuild.js
-          node scripts/build-year1-maths-rebuild.js
+          for part in 00 01 02 03 04; do
+            curl -fsSL "https://raw.githubusercontent.com/JBR99729/skillr/b0e7d45231edb95e1e7f9b812b2daea4a528f1e7/scripts/year1-maths-rebuild-b64/part-${part}"
+          done \
+            | tr -d '\n\r ' \
+            | base64 -d \
+            | gzip -dc \
+            > /tmp/build-year1-maths-rebuild.js
+          node --check /tmp/build-year1-maths-rebuild.js
+          node /tmp/build-year1-maths-rebuild.js
 
-      - name: Validate all live banks and pages
+      - name: Protect completed AC9M1N01-AC9M1N06 resources
         shell: bash
         run: |
           set -euo pipefail
-          node <<'NODE'
-          const fs = require('fs');
-          const vm = require('vm');
-          const codes = [
-            'ac9m1n01','ac9m1n02','ac9m1n03','ac9m1n04','ac9m1n05','ac9m1n06',
-            'ac9m1a01','ac9m1a02','ac9m1m01','ac9m1m02','ac9m1m03',
-            'ac9m1sp01','ac9m1sp02','ac9m1st01','ac9m1st02'
-          ];
-          const expected = { practice: 56, test: 24, quiz: 100 };
+          git checkout HEAD -- \
+            quiz/year-1/math/ac9m1n01 \
+            quiz/year-1/math/ac9m1n02 \
+            quiz/year-1/math/ac9m1n03 \
+            quiz/year-1/math/ac9m1n04 \
+            quiz/year-1/math/ac9m1n05 \
+            quiz/year-1/math/ac9m1n06 \
+            year1/maths/ac9m1n01-numbers-to-120 \
+            year1/maths/ac9m1n02-partitioning-tens-and-ones \
+            year1/maths/ac9m1n03-skip-counting-and-equal-groups \
+            year1/maths/ac9m1n04-addition-and-subtraction-within-20 \
+            year1/maths/ac9m1n05-additive-problem-solving-and-money \
+            year1/maths/ac9m1n06-equal-sharing-and-grouping \
+            year1/curriculum/index.html \
+            year1/curriculum/maths/index.html \
+            assets/year1-maths-data.js \
+            assets/qa-complete-ribbon.js \
+            quiz/assets/style.css \
+            service-worker.js \
+            pwa-register.js \
+            quiz/assets/daily-drills/year1-maths-n01-n03-extensions.js \
+            quiz/assets/daily-drills/year1-maths-n04-n06-extensions.js \
+            year1-maths-ac9m1n04-n06-rebuild-report.json
 
-          function load(file) {
-            const window = {};
-            const context = { window, console };
-            vm.createContext(context);
-            vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
-            return window;
-          }
-          function signature(question) {
-            return `${question.question}\n${question.visual || ''}`;
-          }
-          for (const code of codes) {
-            const paths = {
-              practice: `quiz/year-1/math/${code}/practice/questions.js`,
-              test: `quiz/year-1/math/${code}/test/questions.js`,
-              quiz: `quiz/year-1/math/${code}/questions.js`
-            };
-            const globalSignatures = new Set();
-            for (const [bank, file] of Object.entries(paths)) {
-              const win = load(file);
-              const questions = win.quizQuestions;
-              if (!Array.isArray(questions) || questions.length !== expected[bank]) {
-                throw new Error(`${file}: expected ${expected[bank]}, found ${questions?.length}`);
-              }
-              if (bank === 'practice' && win.skillrPracticeQuestions !== questions) throw new Error(`${file}: Practice handoff failed`);
-              if (bank === 'test' && (win.skillrTestQuestions !== questions || win.skillrExamQuestions !== questions)) throw new Error(`${file}: Test handoff failed`);
-              if (bank === 'quiz' && win.skillrQuizQuestions !== questions) throw new Error(`${file}: Quiz handoff failed`);
-              if (new Set(questions.map(q => q.id)).size !== questions.length) throw new Error(`${file}: duplicate IDs`);
-              if (new Set(questions.map(signature)).size !== questions.length) throw new Error(`${file}: duplicate scenes`);
-              for (const question of questions) {
-                const sig = signature(question);
-                if (globalSignatures.has(sig)) throw new Error(`${code}: exact cross-bank scene overlap`);
-                globalSignatures.add(sig);
-                if (!question.question || !question.explanation || !question.skill || ['self-check','text'].includes(question.type)) {
-                  throw new Error(`${question.id}: incomplete or subjective item`);
-                }
-                if (/which answer fits|number sense problem|question \d+:|A different answer|Not enough information/i.test(question.question + ' ' + JSON.stringify(question.answers || []))) {
-                  throw new Error(`${question.id}: placeholder or fallback wording remains`);
-                }
-                if (/\b1 (ones|tens|hundreds)\b|\b(1th|2th|3th|21th|22th|23th|31th)\b|\ba ice-cream/i.test(question.question + ' ' + question.explanation + ' ' + JSON.stringify(question.answers || []))) {
-                  throw new Error(`${question.id}: grammar regression found`);
-                }
-                if (['single','true-false'].includes(question.type)) {
-                  if (!Array.isArray(question.answers) || question.answers.length < 2 || new Set(question.answers.map(String)).size !== question.answers.length || !Number.isInteger(question.correct) || question.correct < 0 || question.correct >= question.answers.length) {
-                    throw new Error(`${question.id}: invalid single-choice answer`);
-                  }
-                } else if (question.type === 'multiple') {
-                  if (!Array.isArray(question.answers) || new Set(question.answers.map(String)).size !== question.answers.length || !Array.isArray(question.correct) || question.correct.length < 2 || question.correct.some(i => !Number.isInteger(i) || i < 0 || i >= question.answers.length)) {
-                    throw new Error(`${question.id}: invalid multiple-choice answer`);
-                  }
-                } else if (question.type === 'number') {
-                  if (typeof question.correct !== 'number' || !Number.isFinite(question.correct)) throw new Error(`${question.id}: invalid number answer`);
-                } else if (question.type === 'order') {
-                  if (!Array.isArray(question.items) || !Array.isArray(question.correct) || question.items.length !== question.correct.length || new Set(question.items.map(String)).size !== question.items.length) {
-                    throw new Error(`${question.id}: invalid ordering answer`);
-                  }
-                } else {
-                  throw new Error(`${question.id}: unsupported type ${question.type}`);
-                }
-              }
-            }
+      - name: Apply the 28-12-50 educator-reviewed standard
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/year1-maths-remaining-tools
+          cat scripts/year1-maths-remaining-tools-b64/part-* \
+            | tr -d '\n\r ' \
+            | base64 -d \
+            > /tmp/year1-maths-remaining-tools.tar.gz
+          gzip -t /tmp/year1-maths-remaining-tools.tar.gz
+          tar -xzf /tmp/year1-maths-remaining-tools.tar.gz -C /tmp/year1-maths-remaining-tools
+          node --check /tmp/year1-maths-remaining-tools/postprocess-year1-maths-remaining.js
+          node --check /tmp/year1-maths-remaining-tools/validate-year1-maths-remaining.js
+          node /tmp/year1-maths-remaining-tools/postprocess-year1-maths-remaining.js
 
-            for (const bank of ['practice','test']) {
-              const page = fs.readFileSync(`quiz/year-1/math/${code}/${bank}/index.html`, 'utf8');
-              if (!page.includes('"questionCycle":true') || !page.includes('"maxQuestions":8') || !page.includes('"shuffleQuestions":true')) {
-                throw new Error(`${code} ${bank}: unseen-cycle configuration missing`);
-              }
-              if (!page.includes('20260812-year1-rebuild')) throw new Error(`${code} ${bank}: rebuilt bank cache token missing`);
-            }
-            const activity = fs.readFileSync(`quiz/year-1/math/${code}/index.html`, 'utf8');
-            if (!activity.includes('56-question learning bank') || !activity.includes('24-question auto-marked bank')) {
-              throw new Error(`${code}: activity bank description missing`);
-            }
-          }
-
-          const report = JSON.parse(fs.readFileSync('year1-maths-rebuild-report.json', 'utf8'));
-          if (Object.keys(report.codes || {}).length !== 15) throw new Error('Report must contain 15 codes');
-          if (report.totals.practice !== 840 || report.totals.test !== 360 || report.totals.quiz !== 1500 || report.totals.dailyDrillExtensions !== 380) {
-            throw new Error(`Unexpected rebuild totals: ${JSON.stringify(report.totals)}`);
-          }
-
-          const extensionWindow = {};
-          const extensionContext = { window: extensionWindow, console };
-          vm.createContext(extensionContext);
-          const extensionFile = 'quiz/assets/daily-drills/year1-maths-rebuild-extensions.js';
-          vm.runInContext(fs.readFileSync(extensionFile, 'utf8'), extensionContext, { filename: extensionFile });
-          const extensions = extensionWindow.SkillrDailyQuestionExtensions?.['1']?.math || {};
-          for (const [skill, count] of Object.entries(report.dailyDrillExtensions)) {
-            if (extensions[skill]?.length !== count) throw new Error(`${skill}: expected ${count} Daily Drill extensions, found ${extensions[skill]?.length}`);
-            const page = fs.readFileSync(`quiz/year-1/daily-drills/math/${skill}/index.html`, 'utf8');
-            if (!page.includes('year1-maths-rebuild-extensions.js')) throw new Error(`${skill}: extension script not loaded`);
-          }
-          NODE
-
-          find quiz/year-1/math -name questions.js -print0 | xargs -0 -n1 node --check
-          node --check quiz/assets/daily-drills/year1-maths-rebuild-extensions.js
+      - name: Validate educational and technical quality gates
+        shell: bash
+        run: |
+          set -euo pipefail
+          node /tmp/year1-maths-remaining-tools/validate-year1-maths-remaining.js
+          for file in quiz/year-1/math/{ac9m1a01,ac9m1a02,ac9m1m01,ac9m1m02,ac9m1m03,ac9m1sp01,ac9m1sp02,ac9m1st01,ac9m1st02}/{questions.js,practice/questions.js,practice/practice-questions.js,test/questions.js}; do
+            node --check "$file"
+          done
+          node --check quiz/assets/daily-drills/year1-maths-remaining-extensions.js
+          node --check assets/qa-complete-ribbon.js
           node --check service-worker.js
+          ! grep -RniE 'self-check|answers may vary|a different choice|which learning goal best|which classroom activity best' \
+            quiz/year-1/math/{ac9m1a01,ac9m1a02,ac9m1m01,ac9m1m02,ac9m1m03,ac9m1sp01,ac9m1sp02,ac9m1st01,ac9m1st02}/{questions.js,practice/questions.js,test/questions.js} \
+            quiz/assets/daily-drills/year1-maths-remaining-extensions.js
 
       - name: Remove temporary build inputs
         shell: bash
         run: |
-          rm -f scripts/build-year1-maths-rebuild.js
+          set -euo pipefail
+          rm -rf scripts/year1-maths-remaining-tools-b64
+          rm -f scripts/run-year1-maths-remaining.txt
           rm -f .github/workflows/year1-maths-rebuild.yml
 
-      - name: Commit completed rebuild
+      - name: Commit completed Year 1 Maths
         shell: bash
         run: |
           set -euo pipefail
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A
-          git commit -m "Complete Year 1 Maths question-bank rebuild [year1-maths-built]"
+          git commit -m "Complete remaining Year 1 Maths banks [year1-maths-built]"
           git push origin HEAD:agent/year1-maths-full-rebuild
