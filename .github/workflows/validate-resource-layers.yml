@@ -6,6 +6,9 @@ on:
     paths:
       - "assets/qa-complete-ribbon.js"
       - "assets/skillr-concept-svg.js"
+      - "assets/curriculum-cluster-core.js"
+      - "assets/curriculum-visual-layer.js"
+      - "assets/multi-strand-worksheet-pack.js"
       - "assets/science-visual-layer.js"
       - "assets/worksheet-pack-enhancer.js"
       - "pwa-register.js"
@@ -27,22 +30,30 @@ jobs:
         run: |
           node --check assets/qa-complete-ribbon.js
           node --check assets/skillr-concept-svg.js
+          node --check assets/curriculum-cluster-core.js
+          node --check assets/curriculum-visual-layer.js
+          node --check assets/multi-strand-worksheet-pack.js
           node --check assets/science-visual-layer.js
           node --check assets/worksheet-pack-enhancer.js
           node --check pwa-register.js
-      - name: Confirm shared wiring and wording
+      - name: Confirm current shared wiring and wording
         run: |
           grep -q 'qa-complete-ribbon.js' pwa-register.js
           grep -q 'skillr-concept-svg.js' pwa-register.js
-          grep -q 'science-visual-layer.js' pwa-register.js
-          grep -q 'worksheet-pack-enhancer.js' pwa-register.js
+          grep -q 'curriculum-cluster-core.js' pwa-register.js
+          grep -q 'curriculum-visual-layer.js' pwa-register.js
+          grep -q 'multi-strand-worksheet-pack.js' pwa-register.js
           grep -q 'QA complete' assets/qa-complete-ribbon.js
           ! grep -qi 'artificial intelligence' assets/qa-complete-ribbon.js
           ! grep -qi 'AI complete' assets/qa-complete-ribbon.js
-      - name: Confirm worksheet-pack safeguards
+      - name: Confirm connected-strand and worksheet safeguards
         run: |
-          grep -q 'First Nations' assets/worksheet-pack-enhancer.js
-          grep -q 'Visual Application Worksheet' assets/worksheet-pack-enhancer.js
-          grep -q 'Mixed Mastery Worksheet' assets/worksheet-pack-enhancer.js
-          grep -q 'window.print' assets/worksheet-pack-enhancer.js
+          grep -q 'FIRST_NATIONS' assets/curriculum-cluster-core.js
+          grep -q 'Worksheet 2' assets/multi-strand-worksheet-pack.js
+          grep -q 'Worksheet 3' assets/multi-strand-worksheet-pack.js
+          grep -q 'window.print' assets/multi-strand-worksheet-pack.js
+          grep -q 'SkillrConceptSvg' assets/curriculum-visual-layer.js
+      - name: Retain syntax compatibility for legacy resource layers
+        run: |
           grep -q 'SkillrConceptSvg' assets/science-visual-layer.js
+          grep -q 'First Nations' assets/worksheet-pack-enhancer.js
