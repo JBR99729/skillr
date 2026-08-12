@@ -27,6 +27,13 @@
     diagram or visual interaction where it improves understanding. Online
     drag-and-drop tasks must also offer a tap/click or keyboard alternative, and
     the printable version must have a paper-friendly response method.
+13. When answering depends on recognising an object, movement, arrangement or
+    spatial relationship, use a clear purpose-built SVG, diagram or accessible
+    real image showing the exact stimulus. Do not substitute an unrelated emoji,
+    triangle, generic shape or text label for the object being assessed. SVGs
+    must include meaningful accessible text and remain clear on mobile and when
+    printed. Simple text visuals may still be used when object recognition is not
+    part of the question.
 
 ## 60-second Quick Read standard
 
