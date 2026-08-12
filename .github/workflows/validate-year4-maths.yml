@@ -71,15 +71,34 @@ jobs:
             if (!Array.isArray(unit.mistakes) || unit.mistakes.length < 3) throw new Error(`${code}: fewer than 3 misconceptions`);
             if (!Array.isArray(unit.quick) || unit.quick.length < 4) throw new Error(`${code}: insufficient Quick Check questions`);
             if (!Array.isArray(unit.mastery) || unit.mastery.length < 4) throw new Error(`${code}: insufficient mastery criteria`);
+
             const questions = unit.worksheet || [];
             const core = questions.filter((question) => !question.enrichment);
             const enrichment = questions.filter((question) => question.enrichment);
             if (core.length !== 8 || enrichment.length !== 2) {
               throw new Error(`${code}: expected 8 core and 2 enrichment, found ${core.length} and ${enrichment.length}`);
             }
+
             const types = new Set(core.map((question) => question.type));
             for (const requiredType of ['single','fill-blank','text','match']) {
               if (!types.has(requiredType)) throw new Error(`${code}: core worksheet missing ${requiredType}`);
+            }
+
+            for (const [index, question] of questions.entries()) {
+              if (!question.question || !question.type) throw new Error(`${code} Q${index + 1}: missing question or type`);
+              if (question.type === 'single') {
+                if (!Array.isArray(question.answers) || question.answers.length !== 4) throw new Error(`${code} Q${index + 1}: expected 4 answer options`);
+                if (new Set(question.answers).size !== question.answers.length) throw new Error(`${code} Q${index + 1}: duplicate answer option`);
+              }
+              if (question.type === 'match') {
+                if (!Array.isArray(question.matchLeft) || !Array.isArray(question.matchRight)) throw new Error(`${code} Q${index + 1}: incomplete matching data`);
+                if (question.matchLeft.length !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: matching columns have different lengths`);
+                if (new Set(question.matchLeft).size !== question.matchLeft.length) throw new Error(`${code} Q${index + 1}: duplicate left matching item`);
+                if (new Set(question.matchRight).size !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: duplicate right matching item`);
+              }
+              if (question.type === 'fill-blank' && !String(question.template || '').includes('{{blank}}')) {
+                throw new Error(`${code} Q${index + 1}: fill-blank question has no blank marker`);
+              }
             }
           }
 
