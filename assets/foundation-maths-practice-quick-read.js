@@ -112,8 +112,6 @@
         await loadScript("/assets/foundation-maths-data-other.js?v=1");
       }
       applyQuickRead();
-      const observer = new MutationObserver(() => applyQuickRead());
-      observer.observe(document.documentElement, { childList: true, subtree: true });
     } catch (error) {
       console.error("Skillr Foundation Maths Quick Read sync failed:", error);
     }
