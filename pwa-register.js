@@ -17,7 +17,7 @@
 
   if (!document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
     const mathsQuickReadScript = document.createElement("script");
-    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=2";
+    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=3";
     mathsQuickReadScript.dataset.skillrFoundationMathsQuickRead = "true";
     document.head.appendChild(mathsQuickReadScript);
   }
