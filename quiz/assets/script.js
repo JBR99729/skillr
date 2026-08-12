@@ -3020,20 +3020,41 @@ function renderImageDragState(
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>SkillrHub Completion Certificate</title>
         <style>
+          @page {
+            size: Letter portrait;
+            margin: 0.35in;
+          }
+          * {
+            box-sizing: border-box;
+          }
+          html,
           body {
             margin: 0;
-            padding: 40px;
+            padding: 0;
             font-family: Arial, sans-serif;
             color: #1f2937;
             background: #f4f7fb;
           }
+          body {
+            padding: 0.25in;
+          }
           .certificate {
-            max-width: 900px;
+            width: 100%;
+            max-width: 7.8in;
+            min-height: 9.75in;
             margin: 0 auto;
-            padding: 56px;
-            border: 10px solid #1a3a72;
+            padding: 0.55in;
+            border: 8px solid #1a3a72;
             background: #fff;
             text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            break-inside: avoid;
+            page-break-inside: avoid;
+          }
+          .certificate p {
+            margin: 0.12in 0;
           }
           .brand {
             color: #1a3a72;
@@ -3042,20 +3063,39 @@ function renderImageDragState(
             text-transform: uppercase;
           }
           h1 {
-            margin: 20px 0;
-            font-size: 42px;
+            margin: 0.2in 0;
+            font-size: 34px;
+          }
+          h2 {
+            margin: 0.16in 0;
+            font-size: 24px;
+            line-height: 1.2;
           }
           .student {
-            margin: 28px 0;
-            font-size: 34px;
+            margin: 0.2in 0;
+            font-size: 30px;
             font-weight: 800;
           }
           .score {
-            font-size: 22px;
+            font-size: 20px;
           }
           @media print {
-            body { background: #fff; }
-            .certificate { box-shadow: none; }
+            html,
+            body {
+              width: 7.8in;
+              height: 10.3in;
+              background: #fff;
+            }
+            body {
+              padding: 0;
+            }
+            .certificate {
+              width: 7.8in;
+              min-height: 9.75in;
+              max-height: 10.3in;
+              box-shadow: none;
+              overflow: hidden;
+            }
           }
         </style>
       </head>
