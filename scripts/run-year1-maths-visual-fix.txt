@@ -1,0 +1,1 @@
+Replace generic diagrams with question-matched, accessible SVG models and rerun the full 28/12/50 validation.
