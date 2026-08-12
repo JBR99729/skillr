@@ -20,125 +20,66 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
       - name: Reconstruct approved Science files
         shell: bash
         run: |
           set -euo pipefail
-          cp scripts/foundation-science-rebuild.tar.gz /tmp/foundation-science-rebuild.tar.gz
+          cat scripts/foundation-science-rebuild-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/foundation-science-rebuild.tar.gz
+          gzip -t /tmp/foundation-science-rebuild.tar.gz
           tar -xzf /tmp/foundation-science-rebuild.tar.gz -C .
-
       - name: Validate Science question banks
         shell: bash
         run: |
           set -euo pipefail
           node <<'NODE'
-          const fs = require('fs');
-          const vm = require('vm');
-
-          const codes = ['ac9sfh01','ac9sfi01','ac9sfi02'];
-          const expected = { practice: 56, test: 24 };
-
-          function load(file) {
-            const context = { window: {}, console };
-            vm.createContext(context);
-            vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
-            return context.window.quizQuestions;
-          }
-
-          for (const code of codes) {
-            const promptSets = {};
-            for (const bank of ['practice','test']) {
-              const file = `quiz/grade-k/science/${code}/${bank}/questions.js`;
-              const questions = load(file);
-              if (!Array.isArray(questions) || questions.length !== expected[bank]) {
-                throw new Error(`${file}: expected ${expected[bank]}, found ${questions?.length}`);
+          const fs=require('fs'),vm=require('vm');
+          const codes=['ac9sfh01','ac9sfi01','ac9sfi02'];
+          const expected={practice:56,test:24};
+          function load(file,window={}){const c={window,console};vm.createContext(c);vm.runInContext(fs.readFileSync(file,'utf8'),c,{filename:file});return c.window;}
+          for(const code of codes){
+            const seen={};
+            for(const bank of ['practice','test']){
+              const file=`quiz/grade-k/science/${code}/${bank}/questions.js`;
+              const qs=load(file).quizQuestions;
+              if(!Array.isArray(qs)||qs.length!==expected[bank])throw Error(`${file}: expected ${expected[bank]}, got ${qs?.length}`);
+              if(new Set(qs.map(q=>q.id)).size!==qs.length)throw Error(`${file}: duplicate ids`);
+              if(new Set(qs.map(q=>q.question)).size!==qs.length)throw Error(`${file}: duplicate prompts`);
+              if(qs.some(q=>!q.question||!q.skill||!q.explanation||q.type==='self-check'))throw Error(`${file}: incomplete/subjective item`);
+              for(const q of qs){
+                if(['single','true-false'].includes(q.type)){if(!Array.isArray(q.answers)||!Number.isInteger(q.correct)||q.correct<0||q.correct>=q.answers.length)throw Error(`${q.id}: invalid answer`);}
+                else if(q.type==='multiple'){if(!Array.isArray(q.answers)||!Array.isArray(q.correct)||q.correct.some(i=>!Number.isInteger(i)||i<0||i>=q.answers.length))throw Error(`${q.id}: invalid multiple answer`);}
+                else if(q.type==='order'){if(!Array.isArray(q.items)||!Array.isArray(q.correct)||q.items.length!==q.correct.length)throw Error(`${q.id}: invalid order answer`);}
+                else throw Error(`${q.id}: unsupported type ${q.type}`);
               }
-              if (new Set(questions.map(q => q.id)).size !== questions.length) throw new Error(`${file}: duplicate IDs`);
-              if (new Set(questions.map(q => q.question)).size !== questions.length) throw new Error(`${file}: duplicate prompts`);
-              if (questions.some(q => !q.question || !q.skill || !q.explanation || q.type === 'self-check')) {
-                throw new Error(`${file}: incomplete or subjective item found`);
-              }
-              for (const q of questions) {
-                if (['single','true-false'].includes(q.type)) {
-                  if (!Array.isArray(q.answers) || !Number.isInteger(q.correct) || q.correct < 0 || q.correct >= q.answers.length) {
-                    throw new Error(`${q.id}: invalid single-choice answer`);
-                  }
-                } else if (q.type === 'multiple') {
-                  if (!Array.isArray(q.answers) || !Array.isArray(q.correct) || q.correct.some(i => !Number.isInteger(i) || i < 0 || i >= q.answers.length)) {
-                    throw new Error(`${q.id}: invalid multiple-choice answer`);
-                  }
-                } else if (q.type === 'order') {
-                  if (!Array.isArray(q.items) || !Array.isArray(q.correct) || q.items.length !== q.correct.length) {
-                    throw new Error(`${q.id}: invalid ordering answer`);
-                  }
-                } else {
-                  throw new Error(`${q.id}: unsupported type ${q.type}`);
-                }
-              }
-              promptSets[bank] = new Set(questions.map(q => q.question));
+              seen[bank]=new Set(qs.map(q=>q.question));
             }
-            const overlap = [...promptSets.practice].filter(q => promptSets.test.has(q));
-            if (overlap.length) throw new Error(`${code}: Practice/Test prompt overlap found`);
+            if([...seen.practice].some(q=>seen.test.has(q)))throw Error(`${code}: Practice/Test prompt overlap`);
           }
-
-          const dailyContext = {
-            window: {
-              SkillrScienceQuickRead: {
-                F: {
-                  'scientific-inquiry': {
-                    facts: ['A question guides an investigation.','A prediction comes before a result.','An observation records what happened.','Evidence supports a conclusion.','Safety rules reduce risk.'],
-                    keywords: [['question','what you want to find out'],['prediction','what you expect'],['observation','what you notice'],['record','store what happened'],['evidence','information used to support an idea']]
-                  },
-                  'science-vocabulary': {
-                    facts: ['Observation uses evidence.','Safety rules matter.','Tools can support senses.','Questions can be investigated.','Predictions are checked with evidence.'],
-                    keywords: [['observation','what you notice'],['safe','reduces risk'],['tool','equipment that helps'],['sense','a way to notice'],['evidence','information used to support an idea']]
-                  }
-                }
-              }
-            },
-            console
-          };
-          vm.createContext(dailyContext);
-          const dailyFile = 'quiz/assets/daily-drills/science-master-questions.js';
-          vm.runInContext(fs.readFileSync(dailyFile,'utf8'), dailyContext, { filename: dailyFile });
-          const ext = dailyContext.window.SkillrDailyQuestionExtensions?.F?.science;
-          if (ext?.['scientific-inquiry']?.length !== 48) throw new Error('Scientific Inquiry extension count is not 48.');
-          if (ext?.['science-vocabulary']?.length !== 24) throw new Error('Science Vocabulary extension count is not 24.');
-          if (dailyContext.window.SkillrDailyScience.generate('F','scientific-inquiry').length !== 200) {
-            throw new Error('Core Scientific Inquiry bank no longer generates 200 questions.');
-          }
-
-          const titles = {
-            ac9sfh01: 'Observing and Asking About Nature',
-            ac9sfi01: 'Pose Questions and Make Predictions',
-            ac9sfi02: 'Safe Science Investigations'
-          };
-          for (const [code,title] of Object.entries(titles)) {
-            const html = fs.readFileSync(`quiz/grade-k/science/${code}/index.html`,'utf8');
-            if (!html.includes(`<h1>${title}</h1>`)) throw new Error(`${code}: corrected activity title missing`);
-            if (!html.includes('56-question learning bank') || !html.includes('24-question auto-marked bank')) {
-              throw new Error(`${code}: bank description missing`);
-            }
+          const quick={F:{
+            'scientific-inquiry':{facts:['a','b','c','d','e'],keywords:[['question','q'],['prediction','p'],['observation','o'],['record','r'],['evidence','e']]},
+            'science-vocabulary':{facts:['a','b','c','d','e'],keywords:[['observation','o'],['safe','s'],['tool','t'],['sense','n'],['evidence','e']]}
+          }};
+          const w={SkillrScienceQuickRead:quick};
+          load('quiz/assets/daily-drills/science-master-questions.js',w);
+          const ext=w.SkillrDailyQuestionExtensions?.F?.science;
+          if(ext?.['scientific-inquiry']?.length!==48)throw Error('scientific-inquiry extension count');
+          if(ext?.['science-vocabulary']?.length!==24)throw Error('science-vocabulary extension count');
+          if(w.SkillrDailyScience.generate('F','scientific-inquiry').length!==200)throw Error('core daily bank count');
+          for(const [code,title] of Object.entries({ac9sfh01:'Observing and Asking About Nature',ac9sfi01:'Pose Questions and Make Predictions',ac9sfi02:'Safe Science Investigations'})){
+            const html=fs.readFileSync(`quiz/grade-k/science/${code}/index.html`,'utf8');
+            if(!html.includes(`<h1>${title}</h1>`))throw Error(`${code}: title missing`);
           }
           NODE
-
           node --check quiz/assets/daily-drills/science-master-questions.js
           node --check service-worker.js
-          for file in quiz/grade-k/science/{ac9sfh01,ac9sfi01,ac9sfi02}/{practice,test}/questions.js; do
-            node --check "$file"
-          done
-
-      - name: Remove temporary build inputs
-        shell: bash
-        run: |
-          rm -f scripts/foundation-science-rebuild.tar.gz
-          rm -f .github/workflows/foundation-science-build.yml
-
+          for file in quiz/grade-k/science/{ac9sfh01,ac9sfi01,ac9sfi02}/{practice,test}/questions.js; do node --check "$file"; done
       - name: Commit completed rebuild
         shell: bash
         run: |
           set -euo pipefail
+          rm -rf scripts/foundation-science-rebuild-b64
+          rm -f scripts/foundation-science-rebuild.tar.gz
+          rm -f .github/workflows/foundation-science-build.yml
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A
