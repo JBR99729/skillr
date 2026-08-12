@@ -1,0 +1,93 @@
+name: Validate Year 3 Science and English
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/year3-subject-*"
+      - "assets/year3-science-data.js"
+      - "assets/year3-english-data-*.js"
+      - "pwa-register.js"
+      - "worksheets/year3/science/teacher-slides/live.html"
+      - "worksheets/year3/english/teacher-slides/live.html"
+      - ".github/workflows/validate-year3-science-english.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check JavaScript syntax
+        run: |
+          node --check assets/year3-subject-data-base.js
+          node --check assets/year3-science-data.js
+          node --check assets/year3-english-data-la1.js
+          node --check assets/year3-english-data-la2.js
+          node --check assets/year3-english-data-la3a.js
+          node --check assets/year3-english-data-la3b.js
+          node --check assets/year3-english-data-le.js
+          node --check assets/year3-english-data-ly1.js
+          node --check assets/year3-english-data-ly2.js
+          node --check assets/year3-subject-render.js
+          node --check assets/year3-subject-quick-read.js
+          node --check assets/year3-subject-worksheet-page.js
+          node --check assets/year3-subject-slide.js
+          node --check pwa-register.js
+      - name: Validate unit and worksheet counts
+        run: |
+          node <<'NODE'
+          global.window = {};
+          require('./assets/year3-subject-data-base.js');
+          require('./assets/year3-science-data.js');
+          require('./assets/year3-english-data-la1.js');
+          require('./assets/year3-english-data-la2.js');
+          require('./assets/year3-english-data-la3a.js');
+          require('./assets/year3-english-data-la3b.js');
+          require('./assets/year3-english-data-le.js');
+          require('./assets/year3-english-data-ly1.js');
+          require('./assets/year3-english-data-ly2.js');
+
+          const checks = [
+            ['Science', window.SkillrYear3ScienceData, window.SkillrYear3ScienceOrder, 12],
+            ['English', window.SkillrYear3EnglishData, window.SkillrYear3EnglishOrder, 28]
+          ];
+
+          for (const [subject, units, order, expected] of checks) {
+            const codes = Object.keys(units || {});
+            if (codes.length !== expected) throw new Error(`${subject}: expected ${expected} units, found ${codes.length}`);
+            if (!Array.isArray(order) || order.length !== expected) throw new Error(`${subject}: order has incorrect length`);
+            if (new Set(order).size !== expected) throw new Error(`${subject}: duplicate curriculum code`);
+
+            for (const code of order) {
+              const unit = units[code];
+              if (!unit) throw new Error(`${subject}: missing ${code}`);
+              for (const field of ['slug','title','subtitle','desc','learn','model_html','apply_html','hero_visual']) {
+                if (!unit[field]) throw new Error(`${code}: missing ${field}`);
+              }
+              if (!Array.isArray(unit.activities) || unit.activities.length !== 3) throw new Error(`${code}: expected 3 activities`);
+              const questions = unit.worksheet || [];
+              const core = questions.filter((question) => !question.enrichment);
+              const enrichment = questions.filter((question) => question.enrichment);
+              if (core.length !== 8 || enrichment.length !== 2) {
+                throw new Error(`${code}: expected 8 core and 2 enrichment, found ${core.length} and ${enrichment.length}`);
+              }
+            }
+          }
+          console.log('Year 3 Science and English validation passed.');
+          NODE
+      - name: Confirm route and live slide wiring
+        run: |
+          grep -q "year3-science-data.js" pwa-register.js
+          grep -q "year3-english-data-la1.js" pwa-register.js
+          grep -q "year3-subject-render.js" pwa-register.js
+          grep -q "year3-subject-quick-read.js" pwa-register.js
+          grep -q "year3-subject-worksheet-page.js" pwa-register.js
+          grep -q "year3-subject-slide.js" worksheets/year3/science/teacher-slides/live.html
+          grep -q "year3-subject-slide.js" worksheets/year3/english/teacher-slides/live.html
