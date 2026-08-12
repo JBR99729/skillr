@@ -316,5 +316,3 @@
 
   window.SkillrFoundationRebuild = {build, load, supportedCodes:Object.keys(BUILDERS)};
 })();
-
-window.SkillrFoundationRebuild.load("AC9MFN06");
