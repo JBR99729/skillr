@@ -8,6 +8,13 @@
     document.head.appendChild(displayOnlyScript);
   }
 
+  if (!document.querySelector('script[data-skillr-foundation-topic-language]')) {
+    const foundationTopicLanguageScript = document.createElement("script");
+    foundationTopicLanguageScript.src = "/assets/foundation-topic-language.js?v=1";
+    foundationTopicLanguageScript.dataset.skillrFoundationTopicLanguage = "true";
+    document.head.appendChild(foundationTopicLanguageScript);
+  }
+
   if (!document.querySelector('script[data-skillr-foundation-professional-ui]')) {
     const professionalUiScript = document.createElement("script");
     professionalUiScript.src = "/assets/foundation-maths-professional-ui.js?v=5";
