@@ -4,6 +4,8 @@
   if (window.__skillrDisplayOnlyLoaded) return;
   window.__skillrDisplayOnlyLoaded = true;
 
+  const isTeacherSlide = window.location.pathname.includes("/teacher-slides/");
+
   const style = document.createElement("style");
   style.textContent = `
     html, body, body * {
@@ -23,6 +25,7 @@
       user-drag: none !important;
     }
 
+    ${isTeacherSlide ? `
     @media print {
       html, body {
         background: #fff !important;
@@ -33,13 +36,14 @@
       }
 
       body::before {
-        content: "SkillrHub resources are available for online display only.";
+        content: "SkillrHub teacher resources are available for live online display only.";
         display: block !important;
         padding: 32px;
         color: #173968;
         font: 700 18pt/1.4 Arial, sans-serif;
       }
     }
+    ` : ""}
   `;
   document.head.appendChild(style);
 
@@ -48,6 +52,7 @@
     event.stopPropagation();
   };
 
+  // Whole-site deterrents against direct copying/saving of page content.
   document.addEventListener("contextmenu", block, true);
   document.addEventListener("copy", block, true);
   document.addEventListener("cut", block, true);
@@ -65,23 +70,32 @@
     const key = String(event.key || "").toLowerCase();
     const modifier = event.ctrlKey || event.metaKey;
 
-    if (modifier && ["p", "s", "c", "u"].includes(key)) {
+    // Direct copy/source shortcuts are deterred across the site.
+    if (modifier && ["c", "u"].includes(key)) {
+      block(event);
+      return;
+    }
+
+    // Teacher slides are deliberately live-display only.
+    if (isTeacherSlide && modifier && ["p", "s"].includes(key)) {
       block(event);
       return;
     }
 
     if (key === "printscreen") {
-      // Browsers cannot reliably stop an operating-system screenshot.
-      // Prevent the page-level key event where supported.
+      // A normal webpage cannot reliably prevent an operating-system screenshot.
+      // This only suppresses the browser-level key event where supported.
       block(event);
     }
   }, true);
 
-  window.addEventListener("beforeprint", () => {
-    document.documentElement.dataset.skillrPrintBlocked = "true";
-  });
+  if (isTeacherSlide) {
+    window.addEventListener("beforeprint", () => {
+      document.documentElement.dataset.skillrPrintBlocked = "true";
+    });
 
-  window.addEventListener("afterprint", () => {
-    delete document.documentElement.dataset.skillrPrintBlocked;
-  });
+    window.addEventListener("afterprint", () => {
+      delete document.documentElement.dataset.skillrPrintBlocked;
+    });
+  }
 })();
