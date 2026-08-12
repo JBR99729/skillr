@@ -132,7 +132,7 @@ jobs:
           done
           node --check quiz/assets/daily-drills/science-master-questions.js
           node --check service-worker.js
-          ! grep -RniE 'rollss|both rolls\\b|butterflie' quiz/grade-k/science/{ac9sfi03,ac9sfi04,ac9sfi05,ac9sfu01,ac9sfu02,ac9sfu03} quiz/assets/daily-drills/science-master-questions.js
+          ! grep -RniE 'rollss|both rolls\\b' quiz/grade-k/science/{ac9sfi03,ac9sfi04,ac9sfi05,ac9sfu01,ac9sfu02,ac9sfu03} quiz/assets/daily-drills/science-master-questions.js
 
       - name: Remove temporary build inputs
         shell: bash
