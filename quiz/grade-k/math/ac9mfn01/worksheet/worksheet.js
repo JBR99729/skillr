@@ -115,18 +115,28 @@
           box-shadow:none!important;
           padding:0 5mm 4mm!important;
           overflow:visible!important;
+          background:#fff!important;
           box-decoration-break:clone;
           -webkit-box-decoration-break:clone;
         }
         .worksheet-paper__head{
           margin:0 -5mm 4mm!important;
-          padding:5mm 6mm 4mm!important;
-          background:linear-gradient(90deg,#0f2f5f,#2457d6)!important;
-          border-bottom:3px solid #173968!important;
+          padding:4mm 6mm 3mm!important;
+          background:#fff!important;
+          border-top:0!important;
+          border-bottom:2px solid #2457d6!important;
+          color:#173968!important;
         }
-        .worksheet-paper__head h2{font-size:14pt!important}
-        .paper-brand{font-size:11.5pt!important}
-        .worksheet-paper__head p{font-size:9pt!important}
+        .worksheet-paper__head h2{font-size:14pt!important;color:#173968!important}
+        .paper-brand{
+          display:inline-block!important;
+          font-size:12pt!important;
+          color:#2457d6!important;
+          padding-bottom:1mm!important;
+          border-bottom:2px solid #2457d6!important;
+        }
+        .paper-brand span{color:#173968!important}
+        .worksheet-paper__head p{font-size:9pt!important;color:#173968!important}
         .watermark-grid{
           position:fixed!important;
           inset:0!important;
@@ -134,7 +144,7 @@
           grid-template-columns:repeat(2,1fr)!important;
           grid-template-rows:repeat(4,1fr)!important;
         }
-        .watermark-grid span{font-size:13pt!important;color:rgba(36,87,214,.09)!important}
+        .watermark-grid span{font-size:13pt!important;color:rgba(36,87,214,.075)!important}
         .core-grid,.enrichment-grid{display:block!important;margin:0!important}
         .worksheet-question,.worksheet-question.enrichment{
           display:block!important;
@@ -143,14 +153,21 @@
           border:0!important;
           border-radius:0!important;
           border-bottom:1px solid #dbe4ef!important;
+          background:#fff!important;
           break-inside:avoid!important;
           page-break-inside:avoid!important;
         }
         .question-line{gap:2mm!important;margin-bottom:1.8mm!important}
-        .question-number-text{font-size:10.5pt!important}
+        .question-number-text{font-size:10.5pt!important;color:#173968!important}
         .question-prompt{font-size:10.5pt!important;line-height:1.3!important}
-        .enrichment-label{font-size:7.7pt!important;padding:.6mm 1.8mm!important}
-        .question-visual{font-size:9.5pt!important;margin:0 0 1.8mm 8mm!important}
+        .enrichment-label{
+          font-size:7.7pt!important;
+          padding:.6mm 1.8mm!important;
+          background:#fff!important;
+          border:1px solid #2457d6!important;
+          color:#2457d6!important;
+        }
+        .question-visual{font-size:9.5pt!important;margin:0 0 1.8mm 8mm!important;background:#fff!important}
         .worksheet-options{
           display:flex!important;
           flex-wrap:wrap!important;
@@ -160,7 +177,7 @@
         .worksheet-options span{font-size:9.5pt!important}
         .fill-template{font-size:10.5pt!important;margin-left:8mm!important}
         .blank-line{min-width:18mm!important}
-        .match-grid{gap:7mm!important;padding:0!important;margin-left:8mm!important}
+        .match-grid{gap:7mm!important;padding:0!important;margin-left:8mm!important;background:#fff!important}
         .match-grid p{font-size:9.5pt!important;margin:1.1mm 0!important}
         .match-instruction{font-size:8.8pt!important;margin:1.7mm 0 0 8mm!important}
         .response-lines{gap:2.3mm!important;margin:2mm 0 0 8mm!important}
@@ -168,17 +185,23 @@
         .enrichment-heading{
           font-size:9.5pt!important;
           margin:3mm 0 1.5mm!important;
-          padding:1.8mm 2.5mm!important;
-          border-left-width:1.5mm!important;
+          padding:1.3mm 0!important;
+          border:0!important;
+          border-left:2px solid #2457d6!important;
+          padding-left:2.5mm!important;
+          background:#fff!important;
+          color:#173968!important;
           break-inside:avoid!important;
         }
         .worksheet-footer{
           font-size:8pt!important;
           margin:3mm -5mm -4mm!important;
           padding:2.5mm 5mm!important;
-          border-top:1.5px solid #a9c1e5!important;
-          background:#eef5ff!important;
+          border-top:1.5px solid #2457d6!important;
+          background:#fff!important;
+          color:#173968!important;
         }
+        .worksheet-footer strong{color:#2457d6!important}
       }
     `;
     document.head.appendChild(style);
@@ -299,7 +322,7 @@
   function drawWatermark(doc, pageW, pageH) {
     try {
       doc.saveGraphicsState();
-      if (doc.GState && doc.setGState) doc.setGState(new doc.GState({ opacity: 0.085 }));
+      if (doc.GState && doc.setGState) doc.setGState(new doc.GState({ opacity: 0.06 }));
       doc.setFont("helvetica", "bold");
       doc.setFontSize(16);
       doc.setTextColor(36, 87, 214);
@@ -312,46 +335,55 @@
 
   function drawHeader(doc, pageW, pageNumber, pageCount) {
     const margin = 10;
-    doc.setFillColor(15, 47, 95);
-    doc.rect(0, 0, pageW, 25, "F");
-    doc.setFillColor(36, 87, 214);
-    doc.rect(0, 22.5, pageW, 2.5, "F");
     doc.setFont("helvetica", "bold");
     doc.setFontSize(18);
-    doc.setTextColor(255, 255, 255);
-    doc.text("SkillrHub F-10", margin, 10);
+    doc.setTextColor(36, 87, 214);
+    doc.text("SkillrHub F-10", margin, 11);
+    doc.setDrawColor(36, 87, 214);
+    doc.setLineWidth(0.7);
+    doc.line(margin, 13.5, margin + 55, 13.5);
+
     doc.setFontSize(11.2);
-    doc.text("AC9MFN01 • Numbers to 20 Worksheet", margin, 17.5);
+    doc.setTextColor(23, 57, 104);
+    doc.text("AC9MFN01 • Numbers to 20 Worksheet", margin, 20);
+
     doc.setFont("helvetica", "normal");
     doc.setFontSize(8.2);
-    doc.setTextColor(224, 235, 255);
-    doc.text(`Page ${pageNumber} of ${pageCount} • skillrhub.com`, pageW - margin, 14, { align: "right" });
+    doc.setTextColor(36, 87, 214);
+    doc.text(`Page ${pageNumber} of ${pageCount} • skillrhub.com`, pageW - margin, 11, { align: "right" });
+
     doc.setFont("helvetica", "bold");
     doc.setFontSize(9);
     doc.setTextColor(32, 48, 71);
-    doc.text("Name: ______________________________", margin, 31.5);
-    doc.text("Date: ______________", pageW - margin, 31.5, { align: "right" });
+    doc.text("Name: ______________________________", margin, 29.5);
+    doc.text("Date: ______________", pageW - margin, 29.5, { align: "right" });
+
+    doc.setDrawColor(36, 87, 214);
+    doc.setLineWidth(0.4);
+    doc.line(margin, 32.5, pageW - margin, 32.5);
     return 36;
   }
 
   function drawFooter(doc, pageW, pageH, pageNumber, pageCount) {
     const margin = 10;
-    const y = pageH - 6;
-    doc.setFillColor(238, 245, 255);
-    doc.rect(0, pageH - 13, pageW, 13, "F");
+    const y = pageH - 7;
     doc.setDrawColor(36, 87, 214);
-    doc.line(0, pageH - 13, pageW, pageH - 13);
+    doc.setLineWidth(0.35);
+    doc.line(margin, pageH - 13, pageW - margin, pageH - 13);
+
     doc.setFont("helvetica", "bold");
     doc.setFontSize(8);
     doc.setTextColor(36, 87, 214);
     doc.text("SkillrHub F-10", margin, y - 2.6);
     doc.text("skillrhub.com", pageW - margin, y - 2.6, { align: "right" });
+
     if (pageCount > 1) {
       doc.setFont("helvetica", "normal");
       doc.setFontSize(7.3);
       doc.setTextColor(23, 57, 104);
       doc.text("Printing tip: choose double-sided (duplex) printing to use one sheet per student.", pageW / 2, y + 1.2, { align: "center" });
     }
+
     doc.setFont("helvetica", "normal");
     doc.setFontSize(7.3);
     doc.setTextColor(23, 57, 104);
@@ -360,7 +392,7 @@
 
   function drawOuterBorder(doc, pageW, pageH) {
     doc.setDrawColor(36, 87, 214);
-    doc.setLineWidth(0.6);
+    doc.setLineWidth(0.55);
     doc.rect(5, 5, pageW - 10, pageH - 10);
   }
 
