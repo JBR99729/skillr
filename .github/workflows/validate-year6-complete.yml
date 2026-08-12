@@ -1,0 +1,185 @@
+name: Validate Year 6 complete rollout
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/year6-*"
+      - "assets/curriculum-visual-layer.js"
+      - "assets/qa-complete-ribbon.js"
+      - "worksheets/year6/**"
+      - ".github/workflows/validate-year6-complete.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check assets/year6-curriculum-base.js
+          node --check assets/year6-maths-data-n.js
+          node --check assets/year6-maths-data-am.js
+          node --check assets/year6-maths-data-spstp.js
+          node --check assets/year6-science-data.js
+          node --check assets/year6-english-data-la.js
+          node --check assets/year6-english-data-le.js
+          node --check assets/year6-english-data-ly.js
+          node --check assets/year6-curriculum-render.js
+          node --check assets/year6-curriculum-quick-read.js
+          node --check assets/year6-curriculum-worksheet-page.js
+          node --check assets/year6-curriculum-slide.js
+          node --check assets/curriculum-visual-layer.js
+
+      - name: Validate all Year 6 data and worksheets
+        run: |
+          node <<'NODE'
+          global.window = {};
+          require('./assets/year6-curriculum-base.js');
+          require('./assets/year6-maths-data-n.js');
+          require('./assets/year6-maths-data-am.js');
+          require('./assets/year6-maths-data-spstp.js');
+          require('./assets/year6-science-data.js');
+          require('./assets/year6-english-data-la.js');
+          require('./assets/year6-english-data-le.js');
+          require('./assets/year6-english-data-ly.js');
+
+          const checks = [
+            ['Maths', window.SkillrYear6MathsData, window.SkillrYear6MathsOrder, 24],
+            ['Science', window.SkillrYear6ScienceData, window.SkillrYear6ScienceOrder, 12],
+            ['English', window.SkillrYear6EnglishData, window.SkillrYear6EnglishOrder, 23]
+          ];
+
+          for (const [subject, units, order, expected] of checks) {
+            const codes = Object.keys(units || {});
+            if (codes.length !== expected) throw new Error(`${subject}: expected ${expected} units, found ${codes.length}`);
+            if (!Array.isArray(order) || order.length !== expected) throw new Error(`${subject}: expected ${expected} ordered codes, found ${order?.length}`);
+            if (new Set(order).size !== expected) throw new Error(`${subject}: duplicate curriculum code in order`);
+
+            for (const code of order) {
+              const unit = units[code];
+              if (!unit) throw new Error(`${subject}: missing ${code}`);
+              for (const field of ['slug','title','subtitle','desc','routine','learn','model_title','model_html','apply_title','apply_html','hero_visual']) {
+                if (!unit[field]) throw new Error(`${code}: missing ${field}`);
+              }
+              if (!Array.isArray(unit.activities) || unit.activities.length !== 3) throw new Error(`${code}: expected 3 activities`);
+              if (!Array.isArray(unit.mistakes) || unit.mistakes.length < 3) throw new Error(`${code}: fewer than 3 misconceptions`);
+              if (!Array.isArray(unit.quick) || unit.quick.length < 4) throw new Error(`${code}: insufficient Quick Check prompts`);
+              if (!Array.isArray(unit.mastery) || unit.mastery.length < 4) throw new Error(`${code}: insufficient mastery evidence`);
+
+              const questions = unit.worksheet || [];
+              const core = questions.filter((question) => !question.enrichment);
+              const enrichment = questions.filter((question) => question.enrichment);
+              if (core.length !== 8 || enrichment.length !== 2) {
+                throw new Error(`${code}: expected 8 core + 2 enrichment, found ${core.length} + ${enrichment.length}`);
+              }
+              const types = new Set(core.map((question) => question.type));
+              for (const required of ['single','fill-blank','match','text']) {
+                if (!types.has(required)) throw new Error(`${code}: core worksheet missing ${required}`);
+              }
+
+              for (const [index, question] of questions.entries()) {
+                if (!question.question || !question.type) throw new Error(`${code} Q${index + 1}: missing prompt or type`);
+                if (question.type === 'single') {
+                  if (!Array.isArray(question.answers) || question.answers.length !== 4) throw new Error(`${code} Q${index + 1}: expected 4 answer choices`);
+                  if (new Set(question.answers).size !== 4) throw new Error(`${code} Q${index + 1}: duplicate answer choices`);
+                }
+                if (question.type === 'fill-blank' && !String(question.template || '').includes('{{blank}}')) {
+                  throw new Error(`${code} Q${index + 1}: missing blank marker`);
+                }
+                if (question.type === 'match') {
+                  if (!Array.isArray(question.matchLeft) || !Array.isArray(question.matchRight)) throw new Error(`${code} Q${index + 1}: incomplete matching columns`);
+                  if (question.matchLeft.length !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: matching column lengths differ`);
+                  if (new Set(question.matchLeft).size !== question.matchLeft.length) throw new Error(`${code} Q${index + 1}: duplicate left match item`);
+                  if (new Set(question.matchRight).size !== question.matchRight.length) throw new Error(`${code} Q${index + 1}: duplicate right match item`);
+                }
+              }
+            }
+          }
+
+          console.log('Year 6 data and worksheet validation passed.');
+          NODE
+
+      - name: Validate all Year 6 static resource paths
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          global.window = {};
+          require('./assets/year6-curriculum-base.js');
+          require('./assets/year6-maths-data-n.js');
+          require('./assets/year6-maths-data-am.js');
+          require('./assets/year6-maths-data-spstp.js');
+          require('./assets/year6-science-data.js');
+          require('./assets/year6-english-data-la.js');
+          require('./assets/year6-english-data-le.js');
+          require('./assets/year6-english-data-ly.js');
+
+          const subjects = [
+            ['maths','math',window.SkillrYear6MathsData],
+            ['science','science',window.SkillrYear6ScienceData],
+            ['english','english',window.SkillrYear6EnglishData]
+          ];
+
+          for (const [topicSubject, quizSubject, units] of subjects) {
+            for (const [code, unit] of Object.entries(units)) {
+              const topicFile = `year6/${topicSubject}/${unit.slug}/index.html`;
+              if (!fs.existsSync(topicFile)) throw new Error(`Missing topic file ${topicFile}`);
+              const topicHtml = fs.readFileSync(topicFile,'utf8');
+              if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${topicFile}: missing curriculum elaborations`);
+              if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${topicFile}: missing shared loader`);
+              const lower = code.toLowerCase();
+              for (const mode of ['practice','test','worksheet']) {
+                const resourceFile = `quiz/year-6/${quizSubject}/${lower}/${mode}/index.html`;
+                if (!fs.existsSync(resourceFile)) throw new Error(`Missing resource ${resourceFile}`);
+                if (!fs.readFileSync(resourceFile,'utf8').includes('/pwa-register.js')) throw new Error(`${resourceFile}: missing shared loader`);
+              }
+            }
+            const slideFile = `worksheets/year6/${topicSubject}/teacher-slides/live.html`;
+            if (!fs.existsSync(slideFile)) throw new Error(`Missing teacher slide ${slideFile}`);
+            if (!fs.readFileSync(slideFile,'utf8').includes('/pwa-register.js')) throw new Error(`${slideFile}: missing shared loader`);
+          }
+
+          console.log('Year 6 static route validation passed.');
+          NODE
+
+      - name: Confirm integration wiring
+        run: |
+          grep -q "year6-curriculum-base.js" assets/curriculum-visual-layer.js
+          grep -q "year6-maths-data-n.js" assets/curriculum-visual-layer.js
+          grep -q "year6-science-data.js" assets/curriculum-visual-layer.js
+          grep -q "year6-english-data-la.js" assets/curriculum-visual-layer.js
+          grep -q "year6-curriculum-render.js" assets/curriculum-visual-layer.js
+          grep -q "year6-curriculum-quick-read.js" assets/curriculum-visual-layer.js
+          grep -q "year6-curriculum-worksheet-page.js" assets/curriculum-visual-layer.js
+          grep -q "year6-curriculum-slide.js" worksheets/year6/maths/teacher-slides/live.html
+          grep -q "year6-curriculum-slide.js" worksheets/year6/science/teacher-slides/live.html
+          grep -q "year6-curriculum-slide.js" worksheets/year6/english/teacher-slides/live.html
+
+      - name: Enforce no stock/photo assets and no visible prohibited wording
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const files = fs.readdirSync('assets').filter((name) => name.startsWith('year6-')).map((name) => `assets/${name}`)
+            .concat([
+              'assets/curriculum-visual-layer.js',
+              'worksheets/year6/maths/teacher-slides/live.html',
+              'worksheets/year6/science/teacher-slides/live.html',
+              'worksheets/year6/english/teacher-slides/live.html'
+            ]);
+          const prohibited = /\bartificial intelligence\b|\bgenerative ai\b|\bai-generated\b|\bcreated by ai\b/i;
+          const stockAsset = /<img\b|unsplash|pexels|pixabay|shutterstock|istock|stock photograph/i;
+          for (const file of files) {
+            const text = fs.readFileSync(file,'utf8');
+            if (prohibited.test(text)) throw new Error(`${file}: contains prohibited visible wording`);
+            if (stockAsset.test(text)) throw new Error(`${file}: contains a stock/photo asset reference`);
+          }
+          console.log('No-stock and visible wording checks passed.');
+          NODE
