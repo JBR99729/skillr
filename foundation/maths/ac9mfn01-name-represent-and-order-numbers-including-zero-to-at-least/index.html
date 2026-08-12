@@ -21,6 +21,8 @@
 <link rel="stylesheet" href="/assets/curriculum.css?v=3">
 <style>
 .micro-hero h1{font-size:clamp(1.75rem,4vw,2.35rem);margin-bottom:.2rem}.micro-hero__subtitle{margin:0 0 .4rem;font-size:clamp(1rem,2vw,1.15rem);font-weight:700}.micro-hero__goal{margin:0;max-width:760px}.micro-hero__hint{margin:.5rem 0 0;font-size:.88rem;opacity:.88}.lesson-layout{align-items:start}.lesson-stack,.menu-stack{display:grid;gap:10px}.topic-menu{background:#fff;border:1px solid #dfe6f2;border-radius:14px;overflow:clip;box-shadow:0 3px 10px rgba(26,58,114,.04);transition:border-color .15s ease,box-shadow .15s ease}.topic-menu:hover,.topic-menu:focus-within,.topic-menu[open]{border-color:#bdcce5;box-shadow:0 5px 16px rgba(26,58,114,.07)}.topic-menu>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 15px;font-weight:800;user-select:none}.topic-menu>summary::-webkit-details-marker{display:none}.topic-menu>summary::after{content:"+";flex:0 0 auto;width:26px;height:26px;display:grid;place-items:center;border-radius:999px;background:#f2f5fa;color:#36557d}.topic-menu[open]>summary::after{content:"−"}.combined-lesson-menu>summary{cursor:default}.menu-heading{display:flex;align-items:center;gap:9px;min-width:0}.menu-title{font-size:1.05rem;line-height:1.25}.menu-badge{flex:0 0 auto;border-radius:999px;padding:4px 8px;font-size:.75rem;font-weight:800;background:#eef4ff;color:#244a87;border:1px solid #d7e3fb}.menu-content{padding:2px 15px 15px}.menu-content>:first-child{margin-top:0}.menu-content>:last-child{margin-bottom:0}.combined-lesson-content{display:grid;gap:14px}.lesson-part{padding:2px 0 14px;border-bottom:1px solid #e6ebf2}.lesson-part:last-child{padding-bottom:0;border-bottom:0}.lesson-part__head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:9px}.lesson-part__head h3{margin:0;font-size:1rem}.lesson-callout{display:flex;flex-wrap:wrap;align-items:center;gap:8px;background:#f6f9ff;border:1px solid #dbe6fb;border-radius:11px;padding:9px 11px;font-weight:700}.mini-grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.mini-grid-4{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.mini-card{border:1px solid #e1e6ef;border-radius:11px;padding:11px;background:#fbfcfe}.mini-card h3{margin:0 0 5px;font-size:1rem}.mini-card p{margin:4px 0}.mini-label{display:inline-block;margin-bottom:5px;font-size:.76rem;font-weight:800;color:#49627f;text-transform:uppercase;letter-spacing:.04em}.visual-model{margin:8px 0 0;border-radius:9px;background:#f7f9fc;border:1px dashed #bdc9da;padding:9px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre-wrap;overflow-x:auto;line-height:1.5}.big-number{font-size:2rem;font-weight:800;line-height:1;margin:8px 0}.mistake-card{background:#fffaf2;border-color:#f0dfbd}.check-card{background:#f7fbf8;border-color:#d7eadc}.answer-line{display:inline-block;min-width:70px;border-bottom:2px solid #7b8798;transform:translateY(-2px)}.mastery-row{display:flex;flex-wrap:wrap;gap:7px}.mastery-chip{border-radius:999px;padding:6px 9px;background:#eef8f0;border:1px solid #d0e8d5;font-size:.88rem;font-weight:700}.reference-menu>summary{background:#fafbfd}@media(max-width:900px){.lesson-layout{grid-template-columns:1fr!important}.curriculum-sidebar{order:-1}}@media(max-width:680px){.mini-grid-3,.mini-grid-4{grid-template-columns:1fr}.topic-menu>summary{padding:12px 13px}.menu-content{padding:2px 13px 13px}.menu-title{font-size:1rem}.lesson-part__head{align-items:flex-start}}
+
+.pilot-meta-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.pilot-meta-grid>div{padding:10px;border:1px solid #dbe6f2;border-radius:10px;background:#fbfcfe}.pilot-meta-grid p{margin:2px 0}.visual-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.model-card,.wide-model{margin:0;padding:10px;border:1px solid #d7e2f0;border-radius:12px;background:#fff}.model-card figcaption{margin-bottom:5px;text-align:center;color:#173968}.math-model,.number-line-model{display:block;width:100%;height:auto}.wide-model{margin-top:10px}.wide-model h4{margin:0 0 5px;color:#173968}.number-line-model{min-width:650px}.wide-model:has(.number-line-model){overflow-x:auto}.bundle-model{display:grid;grid-template-columns:minmax(220px,.8fr) minmax(220px,1.2fr);gap:8px 16px;align-items:center}.bundle-model h4,.bundle-model .model-equation{grid-column:1/-1}.bundle-visual{max-width:460px}.model-equation{margin:0;padding:8px 10px;border-radius:8px;background:#eef5ff;text-align:center}.cra-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.cra-card,.fix-card,.game-card{position:relative;padding:13px;border:1px solid #dce5f1;border-radius:12px;background:#fff}.cra-card{padding-top:42px;border-top-width:5px}.cra-card.concrete{border-top-color:#9a6700}.cra-card.pictorial{border-top-color:#2457d6}.cra-card.abstract{border-top-color:#13795b}.cra-number{position:absolute;top:9px;left:12px;display:grid;width:25px;height:25px;place-items:center;border-radius:50%;background:#173968;color:#fff;font-weight:900}.cra-card h4,.fix-card h4,.game-card h4{margin:0 0 7px;color:#173968}.cra-card p,.fix-card p,.game-card p{margin:6px 0}.teacher-voice,.rapid-fix{padding:8px;border-radius:8px;background:#f4f7fb}.large-numeral{font-size:1.4rem;color:#173968}.fix-grid{display:grid;gap:8px}.fix-card{border-left:5px solid #d92d20}.fix-card h4 span{color:#b42318}.rapid-fix{background:#edf8f0;border-left:4px solid #13795b}.game-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.game-card ol{padding-left:1.2rem}.game-card li{margin:3px 0}.check-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.check-strip>div{display:grid;gap:4px;padding:10px;border-radius:10px;background:#f3f8f5;border:1px solid #d4e8da}.check-strip strong{color:#13795b}.slide-preview-frame{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border:2px solid #173968;border-radius:12px;background:#eef3f9}.slide-preview-frame iframe{width:100%;height:100%;border:0;background:#fff}@media(max-width:820px){.visual-gallery,.cra-grid{grid-template-columns:1fr}.model-card .math-model{max-height:240px}.bundle-model,.game-grid,.check-strip,.pilot-meta-grid{grid-template-columns:1fr}.bundle-model h4,.bundle-model .model-equation{grid-column:auto}}
 </style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-8P22BET45N");</script>
@@ -44,7 +46,101 @@
 <div class="lesson-stack" id="lesson">
 <details class="topic-menu lesson-menu combined-lesson-menu" id="teaching-lesson" open>
 <summary><span class="menu-heading"><span class="menu-title">Teach every curriculum idea</span></span></summary>
-<div class="menu-content combined-lesson-content"></div>
+<div class="menu-content combined-lesson-content">
+<section class="lesson-part pilot-intro" aria-labelledby="lesson-at-a-glance">
+<div class="lesson-part__head"><h3 id="lesson-at-a-glance">Lesson at a glance</h3><span class="menu-badge">25–30 minutes</span></div>
+<div class="lesson-callout"><strong>Learning intention:</strong> I can build, see, say, write and order numbers from 0 to 20.</div>
+<div class="pilot-meta-grid"><div><span class="mini-label">You need</span><p>20 counters or craft sticks, numeral cards 0–20 and a ten-frame.</p></div><div><span class="mini-label">Success looks like</span><p>The student connects a quantity, visual model, number name and numeral without guessing.</p></div></div>
+</section>
+
+<section class="lesson-part" aria-labelledby="visual-models">
+<div class="lesson-part__head"><h3 id="visual-models">1. See the numbers</h3><span class="menu-badge">Embedded visual models</span></div>
+<p>Use these models while students build the same quantities with counters or sticks.</p>
+<div class="visual-gallery">
+<figure class="model-card"><figcaption><strong>9</strong> — one space is empty</figcaption>
+<svg class="math-model" viewBox="0 0 250 130" role="img" aria-label="Ten-frame showing nine counters and one empty space">
+<rect x="15" y="15" width="220" height="100" rx="8" fill="#fff" stroke="#173968" stroke-width="4"/>
+<path d="M59 15v100M103 15v100M147 15v100M191 15v100M15 65h220" stroke="#173968" stroke-width="3"/>
+<g fill="#2457d6" stroke="#102a52" stroke-width="2"><circle cx="37" cy="40" r="15"/><circle cx="81" cy="40" r="15"/><circle cx="125" cy="40" r="15"/><circle cx="169" cy="40" r="15"/><circle cx="213" cy="40" r="15"/><circle cx="37" cy="90" r="15"/><circle cx="81" cy="90" r="15"/><circle cx="125" cy="90" r="15"/><circle cx="169" cy="90" r="15"/></g>
+</svg></figure>
+<figure class="model-card"><figcaption><strong>14</strong> — 1 ten and 4 ones</figcaption>
+<svg class="math-model" viewBox="0 0 250 235" role="img" aria-label="Two ten-frames showing fourteen as one full ten-frame and four more counters">
+<g fill="#fff" stroke="#173968" stroke-width="3"><rect x="15" y="10" width="220" height="95" rx="8"/><rect x="15" y="125" width="220" height="95" rx="8"/></g>
+<path d="M59 10v95M103 10v95M147 10v95M191 10v95M15 57.5h220M59 125v95M103 125v95M147 125v95M191 125v95M15 172.5h220" stroke="#173968" stroke-width="2.5"/>
+<g fill="#2457d6" stroke="#102a52" stroke-width="1.5">
+<circle cx="37" cy="34" r="13"/><circle cx="81" cy="34" r="13"/><circle cx="125" cy="34" r="13"/><circle cx="169" cy="34" r="13"/><circle cx="213" cy="34" r="13"/><circle cx="37" cy="81" r="13"/><circle cx="81" cy="81" r="13"/><circle cx="125" cy="81" r="13"/><circle cx="169" cy="81" r="13"/><circle cx="213" cy="81" r="13"/>
+</g><g fill="#f59e0b" stroke="#7c4a03" stroke-width="1.5"><circle cx="37" cy="149" r="13"/><circle cx="81" cy="149" r="13"/><circle cx="125" cy="149" r="13"/><circle cx="169" cy="149" r="13"/></g>
+</svg></figure>
+<figure class="model-card"><figcaption><strong>20</strong> — 2 full tens</figcaption>
+<svg class="math-model" viewBox="0 0 250 235" role="img" aria-label="Two full ten-frames showing twenty counters">
+<g fill="#fff" stroke="#173968" stroke-width="3"><rect x="15" y="10" width="220" height="95" rx="8"/><rect x="15" y="125" width="220" height="95" rx="8"/></g>
+<path d="M59 10v95M103 10v95M147 10v95M191 10v95M15 57.5h220M59 125v95M103 125v95M147 125v95M191 125v95M15 172.5h220" stroke="#173968" stroke-width="2.5"/>
+<g fill="#13795b" stroke="#064e3b" stroke-width="1.5"><circle cx="37" cy="34" r="13"/><circle cx="81" cy="34" r="13"/><circle cx="125" cy="34" r="13"/><circle cx="169" cy="34" r="13"/><circle cx="213" cy="34" r="13"/><circle cx="37" cy="81" r="13"/><circle cx="81" cy="81" r="13"/><circle cx="125" cy="81" r="13"/><circle cx="169" cy="81" r="13"/><circle cx="213" cy="81" r="13"/><circle cx="37" cy="149" r="13"/><circle cx="81" cy="149" r="13"/><circle cx="125" cy="149" r="13"/><circle cx="169" cy="149" r="13"/><circle cx="213" cy="149" r="13"/><circle cx="37" cy="196" r="13"/><circle cx="81" cy="196" r="13"/><circle cx="125" cy="196" r="13"/><circle cx="169" cy="196" r="13"/><circle cx="213" cy="196" r="13"/></g>
+</svg></figure>
+</div>
+
+<div class="wide-model">
+<h4>One less and one more on a 0–20 number line</h4>
+<svg class="number-line-model" viewBox="0 0 1000 180" role="img" aria-label="Number line from zero to twenty highlighting thirteen, fourteen and fifteen, with arrows for one less and one more">
+<defs><marker id="arrow-red" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#b42318"/></marker><marker id="arrow-green" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#13795b"/></marker></defs>
+<line x1="35" y1="92" x2="965" y2="92" stroke="#173968" stroke-width="5"/>
+<g stroke="#173968" stroke-width="3" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#102a52">
+<line x1="35" y1="78" x2="35" y2="106"/><text x="35" y="137">0</text><line x1="81.5" y1="78" x2="81.5" y2="106"/><text x="81.5" y="137">1</text><line x1="128" y1="78" x2="128" y2="106"/><text x="128" y="137">2</text><line x1="174.5" y1="78" x2="174.5" y2="106"/><text x="174.5" y="137">3</text><line x1="221" y1="78" x2="221" y2="106"/><text x="221" y="137">4</text><line x1="267.5" y1="78" x2="267.5" y2="106"/><text x="267.5" y="137">5</text><line x1="314" y1="78" x2="314" y2="106"/><text x="314" y="137">6</text><line x1="360.5" y1="78" x2="360.5" y2="106"/><text x="360.5" y="137">7</text><line x1="407" y1="78" x2="407" y2="106"/><text x="407" y="137">8</text><line x1="453.5" y1="78" x2="453.5" y2="106"/><text x="453.5" y="137">9</text><line x1="500" y1="78" x2="500" y2="106"/><text x="500" y="137">10</text><line x1="546.5" y1="78" x2="546.5" y2="106"/><text x="546.5" y="137">11</text><line x1="593" y1="78" x2="593" y2="106"/><text x="593" y="137">12</text><line x1="639.5" y1="78" x2="639.5" y2="106"/><text x="639.5" y="137">13</text><line x1="686" y1="78" x2="686" y2="106"/><text x="686" y="137">14</text><line x1="732.5" y1="78" x2="732.5" y2="106"/><text x="732.5" y="137">15</text><line x1="779" y1="78" x2="779" y2="106"/><text x="779" y="137">16</text><line x1="825.5" y1="78" x2="825.5" y2="106"/><text x="825.5" y="137">17</text><line x1="872" y1="78" x2="872" y2="106"/><text x="872" y="137">18</text><line x1="918.5" y1="78" x2="918.5" y2="106"/><text x="918.5" y="137">19</text><line x1="965" y1="78" x2="965" y2="106"/><text x="965" y="137">20</text>
+</g>
+<circle cx="686" cy="92" r="21" fill="#f59e0b" stroke="#7c4a03" stroke-width="3"/><text x="686" y="99" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="800">14</text>
+<path d="M680 55 Q650 23 640 55" fill="none" stroke="#b42318" stroke-width="5" marker-end="url(#arrow-red)"/><text x="642" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#b42318" font-weight="700">one less: 13</text>
+<path d="M692 55 Q722 23 732 55" fill="none" stroke="#13795b" stroke-width="5" marker-end="url(#arrow-green)"/><text x="738" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#13795b" font-weight="700">one more: 15</text>
+</svg>
+</div>
+
+<div class="wide-model bundle-model">
+<h4>Teen numbers: bundle the ten first</h4>
+<div class="bundle-visual" role="img" aria-label="Fourteen shown as one tied bundle of ten craft sticks and four single sticks">
+<svg viewBox="0 0 520 210" class="math-model"><g stroke="#8b5a2b" stroke-width="9" stroke-linecap="round"><line x1="55" y1="35" x2="55" y2="170"/><line x1="69" y1="35" x2="69" y2="170"/><line x1="83" y1="35" x2="83" y2="170"/><line x1="97" y1="35" x2="97" y2="170"/><line x1="111" y1="35" x2="111" y2="170"/><line x1="125" y1="35" x2="125" y2="170"/><line x1="139" y1="35" x2="139" y2="170"/><line x1="153" y1="35" x2="153" y2="170"/><line x1="167" y1="35" x2="167" y2="170"/><line x1="181" y1="35" x2="181" y2="170"/></g><rect x="43" y="91" width="150" height="28" rx="8" fill="#2457d6"/><text x="118" y="110" text-anchor="middle" fill="#fff" font-family="Arial" font-weight="800">1 TEN</text><g stroke="#8b5a2b" stroke-width="10" stroke-linecap="round"><line x1="285" y1="55" x2="285" y2="170"/><line x1="335" y1="55" x2="335" y2="170"/><line x1="385" y1="55" x2="385" y2="170"/><line x1="435" y1="55" x2="435" y2="170"/></g><text x="360" y="198" text-anchor="middle" font-family="Arial" font-size="22" font-weight="800" fill="#173968">4 ONES</text></svg>
+</div>
+<p class="model-equation"><strong>10 + 4 = 14</strong> → one ten comes first, then four ones.</p>
+</div>
+</section>
+
+<section class="lesson-part" aria-labelledby="cra-lesson">
+<div class="lesson-part__head"><h3 id="cra-lesson">2. Teach it in 3 steps</h3><span class="menu-badge">Concrete → Pictorial → Abstract</span></div>
+<div class="cra-grid">
+<article class="cra-card concrete"><span class="cra-number">1</span><h4>Concrete — hands-on</h4><p>Give each student <strong>15 counters or craft sticks</strong>. Count them, then make one bundle of 10 and leave 5 singles.</p><p class="teacher-voice"><strong>Say:</strong> “This bundle is one ten. How many ones are left?”</p></article>
+<article class="cra-card pictorial"><span class="cra-number">2</span><h4>Pictorial — see it</h4><p>Show <strong>one full ten-frame and 5 dots</strong> in the next frame. Students draw or place the same model.</p><p class="teacher-voice"><strong>Say:</strong> “I can see 10 without recounting. Five more makes 15.”</p></article>
+<article class="cra-card abstract"><span class="cra-number">3</span><h4>Abstract — write it</h4><p>Connect the model to the numeral <strong class="large-numeral">15</strong> and the word <strong>fifteen</strong>. Place 15 correctly on the number line.</p><p class="teacher-voice"><strong>Say:</strong> “The picture, word and numeral all show the same amount.”</p></article>
+</div>
+<div class="lesson-callout"><strong>Do not rush:</strong> if a student cannot build or explain the model, return to the concrete step before asking for more written numerals.</div>
+</section>
+
+<section class="lesson-part" aria-labelledby="misconceptions">
+<div class="lesson-part__head"><h3 id="misconceptions">3. Misconceptions and rapid fixes</h3><span class="menu-badge">Use during the lesson</span></div>
+<div class="fix-grid">
+<article class="fix-card"><h4><span aria-hidden="true">✕</span> Writes 41 instead of 14</h4><p><strong>Why:</strong> the student hears “four” before “teen” or has not connected the digits to place value.</p><p class="rapid-fix"><strong>Rapid fix:</strong> point to the full ten-frame first. Say, “One ten comes first, then four ones.” Rebuild 14, say it, then write it.</p></article>
+<article class="fix-card"><h4><span aria-hidden="true">✕</span> Forgets 0 when ordering</h4><p><strong>Why:</strong> the student starts the memorised count at 1 and does not treat an empty collection as a number.</p><p class="rapid-fix"><strong>Rapid fix:</strong> begin with an empty mat labelled <strong>0</strong>. Add the 0 card to the starting point of every number track.</p></article>
+<article class="fix-card"><h4><span aria-hidden="true">✕</span> Counts an object twice</h4><p><strong>Why:</strong> counted and uncounted objects are mixed together.</p><p class="rapid-fix"><strong>Rapid fix:</strong> move each object across a line as its number word is said. Finish with, “There are ___ altogether.”</p></article>
+</div>
+</section>
+
+<section class="lesson-part" aria-labelledby="warm-up">
+<div class="lesson-part__head"><h3 id="warm-up">4. Five-minute warm-up</h3><span class="menu-badge">Zero prep</span></div>
+<div class="game-grid">
+<article class="game-card"><span class="mini-label">Game 1</span><h4>One More / One Less Flashcards</h4><ol><li>Show any numeral card from 1 to 19.</li><li>Point left: students call the number that is one less.</li><li>Point right: students call the number that is one more.</li><li>Ask one student to prove it on the number line.</li></ol><p><strong>Example:</strong> show 12 → “One less is 11; one more is 13.”</p></article>
+<article class="game-card"><span class="mini-label">Game 2</span><h4>Collect the Quantity</h4><ol><li>Call a number from 0 to 20.</li><li>Students collect that many cubes or counters.</li><li>They organise the quantity on ten-frames.</li><li>Partners check by naming the full ten first, then the extra ones.</li></ol><p><strong>Example:</strong> 8 fills eight ten-frame spaces; 14 is one full frame and four more.</p></article>
+</div>
+</section>
+
+<section class="lesson-part" aria-labelledby="quick-check">
+<div class="lesson-part__head"><h3 id="quick-check">Quick check before Practice</h3><span class="menu-badge">2 minutes</span></div>
+<div class="check-strip"><div><strong>Build</strong><span>Show 14 as 1 ten and 4 ones.</span></div><div><strong>Order</strong><span>Place 0, 7, 15 and 20 from least to greatest.</span></div><div><strong>Explain</strong><span>Why is 13 one less than 14?</span></div></div>
+</section>
+
+<section class="lesson-part slide-preview-section" aria-labelledby="slide-preview">
+<div class="lesson-part__head"><h3 id="slide-preview">5. Live teacher slide preview</h3><span class="menu-badge">Interactive preview</span></div>
+<p>Preview the classroom slide here. Open it full-screen when you are ready to teach.</p>
+<div class="slide-preview-frame"><iframe title="Interactive AC9MFN01 teacher slide preview" src="/worksheets/foundation/maths/teacher-slides/live.html?code=AC9MFN01" loading="lazy"></iframe></div>
+<div class="curriculum-link-row"><a class="curriculum-button primary" href="/worksheets/foundation/maths/teacher-slides/live.html?code=AC9MFN01" target="_blank" rel="noopener">Open slide full-screen</a></div>
+</section>
+</div>
 </details>
 <details class="topic-menu lesson-menu"><summary><span class="menu-heading"><span class="menu-title">✅ Quick Mastery Check</span></span></summary><div class="menu-content"><p><strong>If the student can do these without help, move to Practice or Test.</strong></p><div class="mastery-row"><span class="mastery-chip">✓ Build a number</span><span class="mastery-chip">✓ Match quantity to numeral</span><span class="mastery-chip">✓ Order numbers</span><span class="mastery-chip">✓ Find one more / one less</span><span class="mastery-chip">✓ Explain zero</span></div><p><strong>If not:</strong> return to <strong>Build → See → Write</strong>.</p><div class="curriculum-link-row"><a class="curriculum-button primary" href="/quiz/grade-k/math/ac9mfn01/practice/">Practice</a><a class="curriculum-button" href="/quiz/grade-k/math/ac9mfn01/test/">Test</a></div></div></details>
 <details class="topic-menu reference-menu"><summary><span class="menu-heading"><span class="menu-title">📘 Australian Curriculum description &amp; elaborations</span><span class="menu-badge">Reference</span></span></summary><div class="menu-content"><p><strong>Content description:</strong> name, represent and order numbers including zero to at least 20, using physical and virtual materials and numerals.</p><ul><li><strong>E1:</strong> collect a requested quantity or match a numeral to a quantity; for example, collecting 9 paintbrushes after hearing “nine”.</li><li><strong>E2:</strong> recognise number order to 20 and identify one less and one more; use card games, songs, storybooks and rhymes.</li><li><strong>E3:</strong> use ordinal and positional language such as first, second, before, after and between.</li><li><strong>E4:</strong> recognise, write and read numerals on familiar objects, images, texts and labels.</li><li><strong>E5:</strong> connect quantities to number names and numerals through stories, counting games and culturally responsive contexts.</li></ul></div></details>
@@ -68,6 +164,6 @@
 window.skillrPageMeta={pageType:'topic guide',year:'Foundation',subject:'Maths',curriculumCode:'AC9MFN01',title:'Numbers to 20',supportEmail:'skillrhublearning@gmail.com'};
 window.skillrAccess={product:'curriculum-topic-guide',accessLevel:'free',requiresLogin:false,requiresPayment:false};
 </script>
-<script src="/assets/foundation-maths-data-number.js?v=20260813"></script><script src="/assets/foundation-maths-elaborations-n06-a01-m01.js?v=20260813-4"></script><script src="/assets/access.js?v=1"></script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script>
+<script src="/assets/access.js?v=1"></script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script>
 </body>
 </html>
