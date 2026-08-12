@@ -2445,6 +2445,7 @@ footer {
     align-items: baseline;
     gap: 8px;
     padding: 8px 16px;
+    border-bottom: 1px solid #c7d2fe;
     background: #e0e7ff;
     color: #312e81;
 }
@@ -2830,5 +2831,33 @@ footer {
 
     .learning-pathway__dashboard-action {
         grid-column: 2;
+    }
+}
+
+
+/* Informational cards inside the homepage hero */
+.home-hero__facts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin-top: 16px;
+}
+.home-subject-card--fact {
+    --subject-color: #4338ca;
+    min-height: 56px;
+    cursor: default;
+}
+.home-subject-card--fact:hover {
+    border-color: #cbd5e1;
+    border-left-color: var(--subject-color);
+    background: #fff;
+}
+.home-subject-card--no-login { --subject-color: #059669; }
+.home-subject-card--questions { --subject-color: #2563eb; }
+.home-subject-card--questions .home-subject-card__mark { font-size: 0.6875rem; }
+@media (max-width: 600px) {
+    .home-hero__facts {
+        grid-template-columns: 1fr;
+        margin-top: 12px;
     }
 }
