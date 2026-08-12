@@ -24,105 +24,139 @@
   }
 
   function loadSequence(items) {
-    items.reduce((promise, src) => promise.then(() => loadScript(src)), Promise.resolve())
+    return items.reduce((promise, src) => promise.then(() => loadScript(src)), Promise.resolve())
       .catch((error) => console.error("Skillr script load failed:", error));
   }
 
   loadScript("/assets/display-only.js?v=1");
   loadScript("/assets/foundation-topic-language.js?v=1");
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
-  loadScript("/assets/curriculum-strand-coverage.js?v=1");
-  loadScript("/assets/qa-complete-ribbon.js?v=1");
-  loadSequence(["/assets/skillr-concept-svg.js?v=1","/assets/science-visual-layer.js?v=1","/assets/worksheet-pack-enhancer.js?v=1"]);
+  loadSequence([
+    "/assets/skillr-svg-runtime.js?v=2",
+    "/assets/skillr-concept-svg.js?v=2",
+    "/assets/curriculum-cluster-core.js?v=1",
+    "/assets/curriculum-strand-coverage.js?v=2",
+    "/assets/curriculum-visual-layer.js?v=1",
+    "/assets/teacher-slide-clusters.js?v=1",
+    "/assets/multi-strand-worksheet-pack.js?v=1",
+    "/assets/qa-complete-ribbon.js?v=2"
+  ]);
+
+  const foundationMathsData = [
+    "/assets/foundation-maths-data-number.js?v=2",
+    "/assets/foundation-maths-data-other.js?v=2"
+  ];
+  const foundationScienceData = ["/assets/foundation-science-data.js?v=2"];
+  const foundationEnglishData = ["/assets/foundation-english-data.js?v=2"];
+
+  const year1MathsData = ["/assets/year1-maths-data.js?v=2"];
+  const year1ScienceData = ["/assets/year1-science-data.js?v=2"];
+  const year1EnglishData = ["/assets/year1-english-data.js?v=2"];
+
+  const year2MathsData = ["/assets/year2-maths-data.js?v=3", "/assets/year2-maths-data-extra.js?v=2"];
+  const year2ScienceData = ["/assets/year2-science-data.js?v=2"];
+  const year2EnglishData = ["/assets/year2-english-data.js?v=2"];
 
   const year3MathsData = [
-    "/assets/year3-maths-data-base.js?v=1",
-    "/assets/year3-maths-data-n1.js?v=1",
-    "/assets/year3-maths-data-n2.js?v=1",
-    "/assets/year3-maths-data-n3.js?v=1",
-    "/assets/year3-maths-data-a.js?v=1",
-    "/assets/year3-maths-data-m1.js?v=1",
-    "/assets/year3-maths-data-m2.js?v=1",
-    "/assets/year3-maths-data-sp.js?v=1",
-    "/assets/year3-maths-data-st.js?v=1",
-    "/assets/year3-maths-data-p.js?v=1"
+    "/assets/year3-maths-data-base.js?v=2",
+    "/assets/year3-maths-data-n1.js?v=2",
+    "/assets/year3-maths-data-n2.js?v=2",
+    "/assets/year3-maths-data-n3.js?v=2",
+    "/assets/year3-maths-data-a.js?v=2",
+    "/assets/year3-maths-data-m1.js?v=2",
+    "/assets/year3-maths-data-m2.js?v=2",
+    "/assets/year3-maths-data-sp.js?v=2",
+    "/assets/year3-maths-data-st.js?v=2",
+    "/assets/year3-maths-data-p.js?v=2"
   ];
-
-  const year3ScienceData = [
-    "/assets/year3-subject-data-base.js?v=1",
-    "/assets/year3-science-data.js?v=1"
-  ];
-
+  const year3ScienceData = ["/assets/year3-subject-data-base.js?v=2", "/assets/year3-science-data.js?v=2"];
   const year3EnglishData = [
-    "/assets/year3-subject-data-base.js?v=1",
-    "/assets/year3-english-data-la1.js?v=1",
-    "/assets/year3-english-data-la2.js?v=1",
-    "/assets/year3-english-data-la3a.js?v=1",
-    "/assets/year3-english-data-la3b.js?v=1",
-    "/assets/year3-english-data-le.js?v=1",
-    "/assets/year3-english-data-ly1.js?v=1",
-    "/assets/year3-english-data-ly2.js?v=1"
+    "/assets/year3-subject-data-base.js?v=2",
+    "/assets/year3-english-data-la1.js?v=2",
+    "/assets/year3-english-data-la2.js?v=2",
+    "/assets/year3-english-data-la3a.js?v=2",
+    "/assets/year3-english-data-la3b.js?v=2",
+    "/assets/year3-english-data-le.js?v=2",
+    "/assets/year3-english-data-ly1.js?v=2",
+    "/assets/year3-english-data-ly2.js?v=2"
   ];
 
   const year4MathsData = [
-    "/assets/year4-maths-data-base.js?v=4",
-    "/assets/year4-maths-data-n1.js?v=4",
-    "/assets/year4-maths-data-n2.js?v=4",
-    "/assets/year4-maths-data-n3.js?v=4",
-    "/assets/year4-maths-data-a.js?v=4",
-    "/assets/year4-maths-data-m1.js?v=4",
-    "/assets/year4-maths-data-m2.js?v=4",
-    "/assets/year4-maths-data-sp.js?v=4",
-    "/assets/year4-maths-data-st.js?v=4",
-    "/assets/year4-maths-data-p.js?v=4"
+    "/assets/year4-maths-data-base.js?v=5",
+    "/assets/year4-maths-data-n1.js?v=5",
+    "/assets/year4-maths-data-n2.js?v=5",
+    "/assets/year4-maths-data-n3.js?v=5",
+    "/assets/year4-maths-data-a.js?v=5",
+    "/assets/year4-maths-data-m1.js?v=5",
+    "/assets/year4-maths-data-m2.js?v=5",
+    "/assets/year4-maths-data-sp.js?v=5",
+    "/assets/year4-maths-data-st.js?v=5",
+    "/assets/year4-maths-data-p.js?v=5"
+  ];
+  const year4ScienceData = ["/assets/year4-subject-data-base.js?v=1", "/assets/year4-science-data.js?v=1"];
+  const year4EnglishData = [
+    "/assets/year4-subject-data-base.js?v=1",
+    "/assets/year4-english-data-la1.js?v=1",
+    "/assets/year4-english-data-la2.js?v=1",
+    "/assets/year4-english-data-le.js?v=1",
+    "/assets/year4-english-data-ly1.js?v=1",
+    "/assets/year4-english-data-ly2.js?v=1"
   ];
 
   const routes = [
-    [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/practice\/?$/i, ["/assets/foundation-maths-practice-quick-read.js?v=5"]],
-    [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/practice\/?$/i, ["/assets/foundation-science-practice-quick-read.js?v=4"]],
-    [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i, ["/assets/foundation-science-worksheet-page.js?v=2"]],
-    [/^\/foundation\/science\/ac9s/i, ["/assets/foundation-science-data.js?v=1","/assets/foundation-science-render.js?v=1","/assets/foundation-science-curriculum-scope.js?v=1"]],
-    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/practice\/?$/i, ["/assets/foundation-english-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet\/?$/i, ["/assets/foundation-english-worksheet-page.js?v=2"]],
-    [/^\/foundation\/english\/ac9ef/i, ["/assets/foundation-english-data.js?v=1","/assets/foundation-english-render.js?v=1"]],
+    [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/(practice|test)\/?$/i, [...foundationMathsData, "/assets/foundation-maths-practice-quick-read.js?v=6"]],
+    [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/worksheet\/?$/i, foundationMathsData],
+    [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/(practice|test)\/?$/i, [...foundationScienceData, "/assets/foundation-science-practice-quick-read.js?v=5"]],
+    [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i, [...foundationScienceData, "/assets/foundation-science-worksheet-page.js?v=3"]],
+    [/^\/foundation\/science\/ac9s/i, [...foundationScienceData, "/assets/foundation-science-render.js?v=2", "/assets/foundation-science-curriculum-scope.js?v=2"]],
+    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/(practice|test)\/?$/i, [...foundationEnglishData, "/assets/foundation-english-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet\/?$/i, [...foundationEnglishData, "/assets/foundation-english-worksheet-page.js?v=3"]],
+    [/^\/foundation\/english\/ac9ef/i, [...foundationEnglishData, "/assets/foundation-english-render.js?v=2"]],
 
-    [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year1-maths-practice-quick-read.js?v=2"]],
-    [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/worksheet\/?$/i, ["/assets/year1-maths-worksheet-page.js?v=2"]],
-    [/^\/year1\/maths\/ac9m1/i, ["/assets/year1-maths-data.js?v=1","/assets/year1-maths-render.js?v=1"]],
-    [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year1-science-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/worksheet\/?$/i, ["/assets/year1-science-worksheet-page.js?v=1"]],
-    [/^\/year1\/science\/ac9s1/i, ["/assets/year1-science-data.js?v=1","/assets/year1-science-render.js?v=1"]],
+    [/^\/year1\/maths\/ac9m1/i, [...year1MathsData, "/assets/year1-maths-render.js?v=2"]],
+    [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i, [...year1MathsData, "/assets/year1-maths-practice-quick-read.js?v=3"]],
+    [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/worksheet\/?$/i, [...year1MathsData, "/assets/year1-maths-worksheet-page.js?v=3"]],
+    [/^\/year1\/science\/ac9s1/i, [...year1ScienceData, "/assets/year1-science-render.js?v=2"]],
+    [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/(practice|test)\/?$/i, [...year1ScienceData, "/assets/year1-science-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/worksheet\/?$/i, [...year1ScienceData, "/assets/year1-science-worksheet-page.js?v=2"]],
+    [/^\/year1\/english\/ac9e1/i, [...year1EnglishData, "/assets/year1-english-render.js?v=2"]],
+    [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i, [...year1EnglishData, "/assets/year1-english-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i, [...year1EnglishData, "/assets/year1-english-worksheet-page.js?v=2"]],
 
-    [/^\/year2\/maths\/ac9m2/i, ["/assets/year2-maths-data.js?v=2","/assets/year2-maths-data-extra.js?v=1","/assets/year2-maths-render.js?v=2"]],
-    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year2-maths-data.js?v=2","/assets/year2-maths-data-extra.js?v=1","/assets/year2-maths-practice-quick-read.js?v=2"]],
-    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i, ["/assets/year2-maths-data.js?v=2","/assets/year2-maths-data-extra.js?v=1","/assets/year2-maths-worksheet-page.js?v=2"]],
-    [/^\/year2\/science\/ac9s2/i, ["/assets/year2-science-data.js?v=1","/assets/year2-science-render.js?v=1"]],
-    [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year2-science-data.js?v=1","/assets/year2-science-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/worksheet\/?$/i, ["/assets/year2-science-data.js?v=1","/assets/year2-science-worksheet-page.js?v=1"]],
-    [/^\/year2\/english\/ac9e2/i, ["/assets/year2-english-data.js?v=1","/assets/year2-english-render.js?v=1"]],
-    [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year2-english-data.js?v=1","/assets/year2-english-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/worksheet\/?$/i, ["/assets/year2-english-data.js?v=1","/assets/year2-english-worksheet-page.js?v=1"]],
+    [/^\/year2\/maths\/ac9m2/i, [...year2MathsData, "/assets/year2-maths-render.js?v=3"]],
+    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i, [...year2MathsData, "/assets/year2-maths-practice-quick-read.js?v=3"]],
+    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i, [...year2MathsData, "/assets/year2-maths-worksheet-page.js?v=3"]],
+    [/^\/year2\/science\/ac9s2/i, [...year2ScienceData, "/assets/year2-science-render.js?v=2"]],
+    [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/(practice|test)\/?$/i, [...year2ScienceData, "/assets/year2-science-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/worksheet\/?$/i, [...year2ScienceData, "/assets/year2-science-worksheet-page.js?v=2"]],
+    [/^\/year2\/english\/ac9e2/i, [...year2EnglishData, "/assets/year2-english-render.js?v=2"]],
+    [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/(practice|test)\/?$/i, [...year2EnglishData, "/assets/year2-english-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/worksheet\/?$/i, [...year2EnglishData, "/assets/year2-english-worksheet-page.js?v=2"]],
 
-    [/^\/year3\/maths\/ac9m3/i, [...year3MathsData, "/assets/year3-maths-render.js?v=1"]],
-    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/(practice|test)\/?$/i, [...year3MathsData, "/assets/year3-maths-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/worksheet\/?$/i, [...year3MathsData, "/assets/year3-maths-worksheet-page.js?v=1"]],
+    [/^\/year3\/maths\/ac9m3/i, [...year3MathsData, "/assets/year3-maths-render.js?v=2"]],
+    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/(practice|test)\/?$/i, [...year3MathsData, "/assets/year3-maths-practice-quick-read.js?v=2"]],
+    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/worksheet\/?$/i, [...year3MathsData, "/assets/year3-maths-worksheet-page.js?v=2"]],
+    [/^\/year3\/science\/ac9s3/i, [...year3ScienceData, "/assets/year3-subject-render.js?v=2"]],
+    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/(practice|test)\/?$/i, [...year3ScienceData, "/assets/year3-subject-quick-read.js?v=2"]],
+    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/worksheet\/?$/i, [...year3ScienceData, "/assets/year3-subject-worksheet-page.js?v=2"]],
+    [/^\/year3\/english\/ac9e3/i, [...year3EnglishData, "/assets/year3-subject-render.js?v=2"]],
+    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/(practice|test)\/?$/i, [...year3EnglishData, "/assets/year3-subject-quick-read.js?v=2"]],
+    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/worksheet\/?$/i, [...year3EnglishData, "/assets/year3-subject-worksheet-page.js?v=2"]],
 
-    [/^\/year3\/science\/ac9s3/i, [...year3ScienceData, "/assets/year3-subject-render.js?v=1"]],
-    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/(practice|test)\/?$/i, [...year3ScienceData, "/assets/year3-subject-quick-read.js?v=1"]],
-    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/worksheet\/?$/i, [...year3ScienceData, "/assets/year3-subject-worksheet-page.js?v=1"]],
-
-    [/^\/year3\/english\/ac9e3/i, [...year3EnglishData, "/assets/year3-subject-render.js?v=1"]],
-    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/(practice|test)\/?$/i, [...year3EnglishData, "/assets/year3-subject-quick-read.js?v=1"]],
-    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/worksheet\/?$/i, [...year3EnglishData, "/assets/year3-subject-worksheet-page.js?v=1"]],
-
-    [/^\/year4\/maths\/ac9m4/i, [...year4MathsData, "/assets/year4-maths-render.js?v=4"]],
-    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/(practice|test)\/?$/i, [...year4MathsData, "/assets/year4-maths-practice-quick-read.js?v=4"]],
-    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/worksheet\/?$/i, [...year4MathsData, "/assets/year4-maths-worksheet-page.js?v=4"]]
+    [/^\/year4\/maths\/ac9m4/i, [...year4MathsData, "/assets/year4-maths-render.js?v=5"]],
+    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/(practice|test)\/?$/i, [...year4MathsData, "/assets/year4-maths-practice-quick-read.js?v=5"]],
+    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/worksheet\/?$/i, [...year4MathsData, "/assets/year4-maths-worksheet-page.js?v=5"]],
+    [/^\/year4\/science\/ac9s4/i, [...year4ScienceData, "/assets/year4-subject-render.js?v=1"]],
+    [/^\/quiz\/year-4\/science\/ac9s4[a-z0-9]+\/(practice|test)\/?$/i, [...year4ScienceData, "/assets/year4-subject-quick-read.js?v=1"]],
+    [/^\/quiz\/year-4\/science\/ac9s4[a-z0-9]+\/worksheet\/?$/i, [...year4ScienceData, "/assets/year4-subject-worksheet-page.js?v=1"]],
+    [/^\/year4\/english\/ac9e4/i, [...year4EnglishData, "/assets/year4-subject-render.js?v=1"]],
+    [/^\/quiz\/year-4\/english\/ac9e4[a-z0-9]+\/(practice|test)\/?$/i, [...year4EnglishData, "/assets/year4-subject-quick-read.js?v=1"]],
+    [/^\/quiz\/year-4\/english\/ac9e4[a-z0-9]+\/worksheet\/?$/i, [...year4EnglishData, "/assets/year4-subject-worksheet-page.js?v=1"]]
   ];
 
   const foundationMathsTopic = /^\/foundation\/maths\/ac9mf/i.test(path) && !document.getElementById("teaching-lesson");
-  if (foundationMathsTopic && !window.SkillrFoundationMaths) {
-    loadSequence(["/assets/foundation-maths-data-number.js?v=1","/assets/foundation-maths-data-other.js?v=1","/assets/foundation-maths-render.js?v=1"]);
+  if (foundationMathsTopic && !window.SkillrFoundationMathsData) {
+    loadSequence([...foundationMathsData, "/assets/foundation-maths-render.js?v=2"]);
   }
 
   for (const [pattern, scripts] of routes) {
