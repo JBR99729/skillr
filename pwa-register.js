@@ -32,6 +32,35 @@
   loadScript("/assets/foundation-topic-language.js?v=1");
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
 
+  const year3MathsData = [
+    "/assets/year3-maths-data-base.js?v=1",
+    "/assets/year3-maths-data-n1.js?v=1",
+    "/assets/year3-maths-data-n2.js?v=1",
+    "/assets/year3-maths-data-n3.js?v=1",
+    "/assets/year3-maths-data-a.js?v=1",
+    "/assets/year3-maths-data-m1.js?v=1",
+    "/assets/year3-maths-data-m2.js?v=1",
+    "/assets/year3-maths-data-sp.js?v=1",
+    "/assets/year3-maths-data-st.js?v=1",
+    "/assets/year3-maths-data-p.js?v=1"
+  ];
+
+  const year3ScienceData = [
+    "/assets/year3-subject-data-base.js?v=1",
+    "/assets/year3-science-data.js?v=1"
+  ];
+
+  const year3EnglishData = [
+    "/assets/year3-subject-data-base.js?v=1",
+    "/assets/year3-english-data-la1.js?v=1",
+    "/assets/year3-english-data-la2.js?v=1",
+    "/assets/year3-english-data-la3a.js?v=1",
+    "/assets/year3-english-data-la3b.js?v=1",
+    "/assets/year3-english-data-le.js?v=1",
+    "/assets/year3-english-data-ly1.js?v=1",
+    "/assets/year3-english-data-ly2.js?v=1"
+  ];
+
   const routes = [
     [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/practice\/?$/i, ["/assets/foundation-maths-practice-quick-read.js?v=5"]],
     [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/practice\/?$/i, ["/assets/foundation-science-practice-quick-read.js?v=4"]],
@@ -58,9 +87,17 @@
     [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year2-english-data.js?v=1","/assets/year2-english-practice-quick-read.js?v=1"]],
     [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/worksheet\/?$/i, ["/assets/year2-english-data.js?v=1","/assets/year2-english-worksheet-page.js?v=1"]],
 
-    [/^\/year3\/maths\/ac9m3/i, ["/assets/year3-maths-data-base.js?v=1","/assets/year3-maths-data-n1.js?v=1","/assets/year3-maths-data-n2.js?v=1","/assets/year3-maths-data-n3.js?v=1","/assets/year3-maths-data-a.js?v=1","/assets/year3-maths-data-m1.js?v=1","/assets/year3-maths-data-m2.js?v=1","/assets/year3-maths-data-sp.js?v=1","/assets/year3-maths-data-st.js?v=1","/assets/year3-maths-data-p.js?v=1","/assets/year3-maths-render.js?v=1"]],
-    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/(practice|test)\/?$/i, ["/assets/year3-maths-data-base.js?v=1","/assets/year3-maths-data-n1.js?v=1","/assets/year3-maths-data-n2.js?v=1","/assets/year3-maths-data-n3.js?v=1","/assets/year3-maths-data-a.js?v=1","/assets/year3-maths-data-m1.js?v=1","/assets/year3-maths-data-m2.js?v=1","/assets/year3-maths-data-sp.js?v=1","/assets/year3-maths-data-st.js?v=1","/assets/year3-maths-data-p.js?v=1","/assets/year3-maths-practice-quick-read.js?v=1"]],
-    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/worksheet\/?$/i, ["/assets/year3-maths-data-base.js?v=1","/assets/year3-maths-data-n1.js?v=1","/assets/year3-maths-data-n2.js?v=1","/assets/year3-maths-data-n3.js?v=1","/assets/year3-maths-data-a.js?v=1","/assets/year3-maths-data-m1.js?v=1","/assets/year3-maths-data-m2.js?v=1","/assets/year3-maths-data-sp.js?v=1","/assets/year3-maths-data-st.js?v=1","/assets/year3-maths-data-p.js?v=1","/assets/year3-maths-worksheet-page.js?v=1"]]
+    [/^\/year3\/maths\/ac9m3/i, [...year3MathsData, "/assets/year3-maths-render.js?v=1"]],
+    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/(practice|test)\/?$/i, [...year3MathsData, "/assets/year3-maths-practice-quick-read.js?v=1"]],
+    [/^\/quiz\/year-3\/math\/ac9m3[a-z0-9]+\/worksheet\/?$/i, [...year3MathsData, "/assets/year3-maths-worksheet-page.js?v=1"]],
+
+    [/^\/year3\/science\/ac9s3/i, [...year3ScienceData, "/assets/year3-subject-render.js?v=1"]],
+    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/(practice|test)\/?$/i, [...year3ScienceData, "/assets/year3-subject-quick-read.js?v=1"]],
+    [/^\/quiz\/year-3\/science\/ac9s3[a-z0-9]+\/worksheet\/?$/i, [...year3ScienceData, "/assets/year3-subject-worksheet-page.js?v=1"]],
+
+    [/^\/year3\/english\/ac9e3/i, [...year3EnglishData, "/assets/year3-subject-render.js?v=1"]],
+    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/(practice|test)\/?$/i, [...year3EnglishData, "/assets/year3-subject-quick-read.js?v=1"]],
+    [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/worksheet\/?$/i, [...year3EnglishData, "/assets/year3-subject-worksheet-page.js?v=1"]]
   ];
 
   const foundationMathsTopic = /^\/foundation\/maths\/ac9mf/i.test(path) && !document.getElementById("teaching-lesson");
