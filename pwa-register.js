@@ -137,6 +137,7 @@
     [/^\/quiz\/year-2\/science\/ac9s2(?!u0[123])[a-z0-9]+\/(practice|test)\/?$/i, [...year2ScienceData, "/assets/year2-science-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/worksheet\/?$/i, [...year2ScienceData, "/assets/year2-science-worksheet-page.js?v=2"]],
     [/^\/year2\/english\/ac9e2/i, [...year2EnglishData, "/assets/year2-english-render.js?v=2"]],
+    [/^\/quiz\/year-2\/english\/ac9e2la0[1-3]\/(practice|test|worksheet|quiz)\/?$/i, [...year2EnglishData, "/assets/year2-english-authored-banks-batch1.js?v=20260813-eqa1", "/assets/year2-english-bank-loader.js?v=20260813-eqa1", "/assets/year2-english-quiz-page.js?v=20260813-eqa1"]],
     [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/(practice|test)\/?$/i, [...year2EnglishData, "/assets/year2-english-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/worksheet\/?$/i, [...year2EnglishData, "/assets/year2-english-worksheet-page.js?v=2"]],
 
