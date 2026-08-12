@@ -1,6 +1,13 @@
 (() => {
   "use strict";
 
+  if (!document.querySelector('script[data-skillr-display-only]')) {
+    const displayOnlyScript = document.createElement("script");
+    displayOnlyScript.src = "/assets/display-only.js?v=1";
+    displayOnlyScript.dataset.skillrDisplayOnly = "true";
+    document.head.appendChild(displayOnlyScript);
+  }
+
   if (!document.querySelector('script[data-skillr-progress]')) {
     const progressScript = document.createElement("script");
     progressScript.src = "/assets/progress-store.js?v=3";
