@@ -64,13 +64,13 @@
     try {
       doc.saveGraphicsState();
       if (doc.GState && doc.setGState) {
-        doc.setGState(new doc.GState({ opacity: 0.06 }));
+        doc.setGState(new doc.GState({ opacity: 0.095 }));
       }
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(17);
+      doc.setFontSize(15.5);
       doc.setTextColor(36, 87, 214);
-      const xs = [55, 155];
-      const ys = [82, 148, 214];
+      const xs = [38, 105, 172];
+      const ys = [72, 132, 192, 252];
       ys.forEach((y) => xs.forEach((x) => {
         doc.text("SkillrHub F-10 • skillrhub.com", x, y, { align: "center", angle: 28 });
       }));
@@ -80,47 +80,51 @@
 
   function drawHeader(doc, pageW) {
     const margin = 10;
-    doc.setFillColor(23, 57, 104);
-    doc.rect(0, 0, pageW, 25, "F");
+    doc.setFillColor(15, 47, 95);
+    doc.rect(0, 0, pageW, 26, "F");
+    doc.setFillColor(36, 87, 214);
+    doc.rect(0, 23.5, pageW, 2.5, "F");
 
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(18);
+    doc.setFontSize(19);
     doc.setTextColor(255, 255, 255);
     doc.text("SkillrHub F-10", margin, 10.5);
 
-    doc.setFontSize(11.5);
+    doc.setFontSize(11.8);
     doc.text("AC9MFN01 • Numbers to 20 Worksheet", margin, 18);
 
     doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.2);
+    doc.setFontSize(8.4);
     doc.setTextColor(224, 235, 255);
     doc.text("Foundation Maths", pageW - margin, 10.5, { align: "right" });
     doc.text("skillrhub.com", pageW - margin, 18, { align: "right" });
 
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.5);
+    doc.setFontSize(8.7);
     doc.setTextColor(32, 48, 71);
-    doc.text("Name: ____________________________", margin, 31.5);
-    doc.text("Date: ______________", pageW - margin, 31.5, { align: "right" });
+    doc.text("Name: ____________________________", margin, 32.5);
+    doc.text("Date: ______________", pageW - margin, 32.5, { align: "right" });
 
     doc.setDrawColor(36, 87, 214);
-    doc.setLineWidth(0.45);
-    doc.line(margin, 34.5, pageW - margin, 34.5);
-    return 38;
+    doc.setLineWidth(0.65);
+    doc.line(margin, 35.5, pageW - margin, 35.5);
+    return 39;
   }
 
   function drawFooter(doc, pageW, pageH) {
     const margin = 10;
     const y = pageH - 8;
-    doc.setDrawColor(190, 208, 232);
-    doc.setLineWidth(0.3);
-    doc.line(margin, y - 4.5, pageW - margin, y - 4.5);
+    doc.setFillColor(238, 245, 255);
+    doc.rect(0, pageH - 14, pageW, 14, "F");
+    doc.setDrawColor(36, 87, 214);
+    doc.setLineWidth(0.45);
+    doc.line(0, pageH - 14, pageW, pageH - 14);
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(7.8);
+    doc.setFontSize(8.2);
     doc.setTextColor(36, 87, 214);
     doc.text("SkillrHub F-10", margin, y);
     doc.text("skillrhub.com", pageW / 2, y, { align: "center" });
-    doc.setTextColor(93, 108, 128);
+    doc.setTextColor(23, 57, 104);
     doc.text("AC9MFN01 • Foundation Maths", pageW - margin, y, { align: "right" });
   }
 
@@ -129,12 +133,12 @@
     const navy = [23, 57, 104];
     const text = [32, 48, 71];
     const muted = [93, 108, 128];
-    const border = question.enrichment ? [174, 198, 232] : [216, 226, 239];
-    const fill = question.enrichment ? [242, 247, 255] : [255, 255, 255];
+    const border = question.enrichment ? [153, 185, 228] : [201, 216, 235];
+    const fill = question.enrichment ? [239, 246, 255] : [255, 255, 255];
 
     doc.setFillColor(...fill);
     doc.setDrawColor(...border);
-    doc.setLineWidth(question.enrichment ? 0.35 : 0.22);
+    doc.setLineWidth(question.enrichment ? 0.5 : 0.3);
     doc.roundedRect(x, y, width, height, 1.8, 1.8, "FD");
 
     doc.setFillColor(...navy);
@@ -145,7 +149,7 @@
     doc.text(String(number), x + 5, y + 5.9, { align: "center" });
 
     if (question.enrichment) {
-      doc.setFontSize(6.6);
+      doc.setFontSize(6.8);
       doc.setTextColor(...blue);
       doc.text("ENRICHMENT", x + width - 3, y + 5.4, { align: "right" });
     }
@@ -238,8 +242,9 @@
       });
 
       const enrichTop = top + 4 * (coreH + rowGap) + 1;
-      doc.setFillColor(232, 241, 255);
-      doc.setDrawColor(190, 208, 238);
+      doc.setFillColor(224, 237, 255);
+      doc.setDrawColor(153, 185, 228);
+      doc.setLineWidth(0.4);
       doc.roundedRect(margin, enrichTop, pageW - margin * 2, 8.5, 1.5, 1.5, "FD");
       doc.setFont("helvetica", "bold");
       doc.setFontSize(7.7);
