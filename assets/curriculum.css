@@ -648,3 +648,98 @@
     break-inside: avoid;
   }
 }
+
+
+/* Compact curriculum hierarchy and show complete code descriptions. */
+.curriculum-page > .main-nav {
+  margin-bottom: 8px;
+}
+
+.curriculum-page > .breadcrumb {
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+.curriculum-page > .breadcrumb ol {
+  gap: 4px 8px;
+  margin: 0;
+  padding: 0;
+}
+
+.curriculum-hero {
+  margin: 8px 0 12px;
+  padding: clamp(14px, 2vw, 22px);
+}
+
+.curriculum-hero h1 {
+  margin: 0 0 6px;
+  font-size: clamp(1.55rem, 3vw, 2.15rem);
+  line-height: 1.15;
+}
+
+.curriculum-eyebrow {
+  margin-bottom: 5px;
+}
+
+.curriculum-hero__lead {
+  margin: 0;
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+  line-height: 1.5;
+}
+
+.curriculum-actions {
+  margin-top: 10px;
+}
+
+.curriculum-panel,
+.curriculum-topic-section {
+  margin: 12px 0;
+  padding: clamp(14px, 2vw, 20px);
+}
+
+.curriculum-panel > p:first-child {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.curriculum-unit-card h3 {
+  display: none;
+}
+
+.curriculum-unit-card > p {
+  margin: 10px 0 8px;
+  color: var(--skillr-blue);
+  font-size: 1rem;
+  font-weight: 750;
+  line-height: 1.4;
+  text-wrap: pretty;
+}
+
+@media (max-width: 620px) {
+  .curriculum-page {
+    padding: 8px 10px;
+  }
+
+  .curriculum-page > .main-nav {
+    margin-bottom: 6px;
+  }
+
+  .curriculum-page > .breadcrumb {
+    margin-bottom: 6px;
+  }
+
+  .curriculum-hero {
+    margin: 6px 0 10px;
+    padding: 12px 14px;
+  }
+
+  .curriculum-hero h1 {
+    font-size: 1.45rem;
+  }
+
+  .curriculum-panel,
+  .curriculum-topic-section {
+    margin: 10px 0;
+    padding: 12px;
+  }
+}
