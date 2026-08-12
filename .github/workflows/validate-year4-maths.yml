@@ -1,0 +1,95 @@
+name: Validate Year 4 Maths content
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/year4-maths-*"
+      - "pwa-register.js"
+      - "worksheets/year4/maths/teacher-slides/live.html"
+      - ".github/workflows/validate-year4-maths.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check JavaScript syntax
+        run: |
+          node --check assets/year4-maths-data-base.js
+          node --check assets/year4-maths-data-n1.js
+          node --check assets/year4-maths-data-n2.js
+          node --check assets/year4-maths-data-n3.js
+          node --check assets/year4-maths-data-a.js
+          node --check assets/year4-maths-data-m1.js
+          node --check assets/year4-maths-data-m2.js
+          node --check assets/year4-maths-data-sp.js
+          node --check assets/year4-maths-data-st.js
+          node --check assets/year4-maths-data-p.js
+          node --check assets/year4-maths-render.js
+          node --check assets/year4-maths-practice-quick-read.js
+          node --check assets/year4-maths-worksheet-page.js
+          node --check pwa-register.js
+      - name: Validate unit quality and worksheet counts
+        run: |
+          node <<'NODE'
+          global.window = {};
+          require('./assets/year4-maths-data-base.js');
+          require('./assets/year4-maths-data-n1.js');
+          require('./assets/year4-maths-data-n2.js');
+          require('./assets/year4-maths-data-n3.js');
+          require('./assets/year4-maths-data-a.js');
+          require('./assets/year4-maths-data-m1.js');
+          require('./assets/year4-maths-data-m2.js');
+          require('./assets/year4-maths-data-sp.js');
+          require('./assets/year4-maths-data-st.js');
+          require('./assets/year4-maths-data-p.js');
+
+          const units = window.SkillrYear4MathsData || {};
+          const order = window.SkillrYear4MathsOrder || [];
+          const expected = 23;
+          const codes = Object.keys(units);
+
+          if (codes.length !== expected) throw new Error(`Expected ${expected} Year 4 Maths units, found ${codes.length}`);
+          if (order.length !== expected) throw new Error(`Order has ${order.length} codes instead of ${expected}`);
+          if (new Set(order).size !== expected) throw new Error('Duplicate curriculum code in order');
+
+          for (const code of order) {
+            const unit = units[code];
+            if (!unit) throw new Error(`Missing ${code}`);
+            for (const field of ['slug','title','subtitle','desc','routine','learn','model_title','model_html','apply_title','apply_html','hero_visual']) {
+              if (!unit[field]) throw new Error(`${code}: missing ${field}`);
+            }
+            if (!Array.isArray(unit.activities) || unit.activities.length < 3) throw new Error(`${code}: fewer than 3 activities`);
+            if (!Array.isArray(unit.mistakes) || unit.mistakes.length < 3) throw new Error(`${code}: fewer than 3 misconceptions`);
+            if (!Array.isArray(unit.quick) || unit.quick.length < 4) throw new Error(`${code}: insufficient Quick Check questions`);
+            if (!Array.isArray(unit.mastery) || unit.mastery.length < 4) throw new Error(`${code}: insufficient mastery criteria`);
+            const questions = unit.worksheet || [];
+            const core = questions.filter((question) => !question.enrichment);
+            const enrichment = questions.filter((question) => question.enrichment);
+            if (core.length !== 8 || enrichment.length !== 2) {
+              throw new Error(`${code}: expected 8 core and 2 enrichment, found ${core.length} and ${enrichment.length}`);
+            }
+            const types = new Set(core.map((question) => question.type));
+            for (const requiredType of ['single','fill-blank','text','match']) {
+              if (!types.has(requiredType)) throw new Error(`${code}: core worksheet missing ${requiredType}`);
+            }
+          }
+
+          console.log('Year 4 Maths content validation passed.');
+          NODE
+      - name: Confirm route and slide wiring
+        run: |
+          grep -q "year4-maths-data-base.js" pwa-register.js
+          grep -q "year4-maths-render.js" pwa-register.js
+          grep -q "year4-maths-practice-quick-read.js" pwa-register.js
+          grep -q "year4-maths-worksheet-page.js" pwa-register.js
+          grep -q "year4-maths-data-base.js" worksheets/year4/maths/teacher-slides/live.html
+          grep -q "Year 4 Maths" worksheets/year4/maths/teacher-slides/live.html
