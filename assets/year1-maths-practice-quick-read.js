@@ -26,19 +26,32 @@
   }
 
   const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[char]));
+  const plain = (value) => String(value || "")
+    .replace(/<br\s*\/?\s*>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  function solvedExample(unit) {
+    if (unit.solved_example) return unit.solved_example;
+    const source = plain(unit.model_html || unit.apply_html || unit.quick?.[0] || "");
+    if (!source) return "Work through the lesson model once, say each step aloud, then try the next question.";
+    return source.length > 190 ? `${source.slice(0, 187).trim()}…` : source;
+  }
 
   function ensureStyle() {
     if (document.getElementById("skillr-year1-maths-quick-read-style")) return;
     const style = document.createElement("style");
     style.id = "skillr-year1-maths-quick-read-style";
     style.textContent = `
-      #startScreen .start-card{max-width:820px;padding:24px 26px;text-align:left}
+      #startScreen .start-card{max-width:860px;padding:24px 26px;text-align:left}
       #startScreen #quizTitle{font-size:clamp(1.45rem,3vw,2rem);line-height:1.16;margin:8px 0 8px}
       #startScreen .intro-text{font-size:.9rem;line-height:1.45;margin:0 0 10px}
       #startScreen .pre-read-notes{margin:10px 0 14px;padding:12px;border:1px solid #dce5ef;border-radius:12px;background:#fbfcfe}
       #startScreen .pre-read-notes h2{font-size:1.02rem;line-height:1.2;margin:0 0 8px}
       #startScreen .pre-read-notes ul{margin:7px 0 0;padding-left:1.15rem}
-      #startScreen .pre-read-notes li{font-size:.84rem;line-height:1.4;margin:4px 0}
+      #startScreen .pre-read-notes li{font-size:.84rem;line-height:1.42;margin:4px 0}
       .year1-maths-quick-cards{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 8px}
       .year1-maths-quick-cards span{display:inline-flex;align-items:center;justify-content:center;min-height:34px;border:1px solid #d9e5f5;border-radius:9px;background:#fff;padding:7px 9px;color:#173968;font-size:.74rem;font-weight:850}
       #startScreen .quiz-summary{margin:14px 0;gap:8px}
@@ -79,6 +92,7 @@
     const items = [
       `<strong>Core idea:</strong> ${esc(unit.learn)}`,
       `<strong>Teaching model:</strong> ${esc(unit.model_title)}.`,
+      `<strong>Solved example:</strong> ${esc(solvedExample(unit))}`,
       `<strong>Use it:</strong> ${esc(unit.apply_title)}.`,
       firstMixUp ? `<strong>Common Mix-Up:</strong> ${esc(firstMixUp[0])} — ${esc(firstMixUp[1])}` : null
     ].filter(Boolean);
