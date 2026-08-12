@@ -1,107 +1,14 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n08-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "using diagrams, physical or virtual materials to represent ratios,…",
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "using fractions to solve ratio problems involving comparison of quantities…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "sharing quantities in a given ratio; for example, sharing an amount of money…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "recognise, represent and solve problems involving ratios",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "applying ratios to realistic and meaningful contexts; for example, mixing 500…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "applying ratios to realistic and meaningful contexts; for example, mixing 500…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  },
-  {
-    "id": "ac9m7n08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "recognise, represent and solve problems involving ratios"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N08: recognise, represent and solve problems involving ratios."
-  }
-];
+(() => {
+ const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7n08-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
+ [["18:24","3:4"],["15:25","3:5"],["28:42","2:3"],["36:48","3:4"],["45:60","3:4"],["32:56","4:7"],["54:72","3:4"],["63:81","7:9"],["24:90","4:15"],["70:105","2:3"],["84:126","2:3"],["96:144","2:3"]].forEach(([r,s])=>add(`Simplify the ratio ${r}.`,s,[r,r.split(":").reverse().join(":"),"1:1"],`Divide both parts by their highest common factor: ${r} = ${s}.`));
+ [["3:5",7,"21:35"],["2:7",4,"8:28"],["4:9",6,"24:54"],["5:8",3,"15:24"],["7:10",5,"35:50"],["3:4",9,"27:36"],["6:11",2,"12:22"],["8:5",4,"32:20"],["1:4",12,"12:48"],["9:2",3,"27:6"],["5:6",8,"40:48"],["2:3",15,"30:45"]].forEach(([r,k,s])=>add(`Scale ${r} by a factor of ${k}.`,s,[r,`${Number(r.split(':')[0])+k}:${Number(r.split(':')[1])+k}`,s.split(':').reverse().join(':')],`Multiply every part by ${k}: ${r} becomes ${s}.`));
+ [[20,"2:3","$8 and $12"],[35,"2:5","$10 and $25"],[48,"5:3","$30 and $18"],[72,"1:2","$24 and $48"],[90,"4:5","$40 and $50"],[84,"3:4","$36 and $48"],[120,"2:3","$48 and $72"],[66,"5:6","$30 and $36"],[54,"7:2","$42 and $12"],[96,"5:7","$40 and $56"],[150,"3:7","$45 and $105"],[132,"4:7","$48 and $84"]].forEach(([total,r,s])=>add(`Share $${total} in the ratio ${r}.`,s,[`$${total/2} and $${total/2}`,s.split(' and ').reverse().join(' and '),`$${r.split(':')[0]} and $${r.split(':')[1]}`],`There are ${r.split(':').map(Number).reduce((a,b)=>a+b)} equal parts; find one part, then multiply by each ratio number.`));
+ [["3 blue to 2 orange","blue:total","3:5"],["4 red to 7 white","white:total","7:11"],["2 cats to 5 dogs","cats:total","2:7"],["6 adults to 3 children","children:total","3:9 = 1:3"],["5 fiction to 8 non-fiction","fiction:total","5:13"],["7 wins to 3 losses","losses:total","3:10"],["1 concentrate to 4 water","concentrate:total","1:5"],["9 boys to 11 girls","girls:total","11:20"]].forEach(([context,ask,c])=>add(`For ${context}, what is ${ask}?`,c,[context.match(/\d+.*\d+/)?.[0]?.replace(/\D+/g,':')||'1:1',c.split(':').reverse().join(':'),'1:1'],`Part-to-whole uses the named part over the sum of all parts; the ratio is ${c}.`));
+ [[500,"1:4","100 mL concentrate and 400 mL water"],[750,"2:3","300 mL concentrate and 450 mL water"],[600,"1:5","100 mL syrup and 500 mL water"],[840,"3:4","360 g ingredient A and 480 g ingredient B"],[1000,"1:9","100 mL cleaner and 900 mL water"],[450,"2:7","100 g nuts and 350 g fruit"],[360,"5:4","200 mL juice and 160 mL water"],[240,"3:5","90 g flour A and 150 g flour B"]].forEach(([total,r,c])=>add(`A ${total} unit mixture has ratio ${r}. How should it be divided?`,c,[`${total/2} and ${total/2}`,c.split(' and ').reverse().join(' and '),`${r.split(':')[0]} and ${r.split(':')[1]}`],`Add ratio parts, find one-part value, then scale each part: ${c}.`));
+ add("Which change preserves the ratio 2:5?","Multiply both parts by 3 to get 6:15.",["Add 1 to both parts to get 3:6.","Swap the parts to get 5:2.","Multiply only 2 by 3."],"Equivalent ratios scale every part by the same factor.");
+ add("Why must ratio order be stated?","3:2 and 2:3 compare the quantities in opposite orders.",["Ratios must always be increasing.","The first term is always the total.","Order matters only for equal parts."],"A ratio is an ordered comparison.");
+ add("Before comparing 2 m to 50 cm, what should be done?","Convert both quantities to compatible units.",["Add the units.","Ignore the units.","Write 2:50 immediately."],"Two metres is 200 cm, so the comparison is 200:50 = 4:1.");
+ add("What is the unit ratio equivalent to 6:15 with first part 1?","1:2.5",["1:9","1:15","2.5:1"],"Divide both parts by 6.");
+ if(q.length!==56)throw new Error(`AC9M7N08 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
+})();

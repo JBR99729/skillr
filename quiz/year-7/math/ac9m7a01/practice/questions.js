@@ -1,107 +1,17 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7a01-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "linking variables to attributes and measures being modelled when using…",
-      "recognise, represent and solve problems involving ratios",
-      "use mathematical modelling to solve practical problems, involving rational…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "interpreting and using formulas obtained from other sources; for example,…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "substituting numerical values for variables when using formulas and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "recognise and use variables to represent everyday formulas algebraically and…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "using everyday formulas and their application to contexts on Country/Place,…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "using everyday formulas and their application to contexts on Country/Place,…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  },
-  {
-    "id": "ac9m7a01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7A01: recognise and use variables to represent everyday formulas algebraically and…."
-  }
-];
+(() => {
+ const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7a01-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
+ [["C=4.5+2.2d",8,22.1],["P=2l+2w","l=8,w=5",26],["A=lw","l=12,w=7",84],["d=rt","r=60,t=2.5",150],["V=lwh","l=4,w=3,h=5",60],["p=6g+b","g=4,b=3",27],["C=12+0.8n",25,32],["T=20+5h",7,55],["m=ρV","ρ=2.5,V=8",20],["F=1.8C+32",20,68],["W=b+1.5hr","b=600,h=4,r=30",780],["A=bh/2","b=10,h=7",35],["S=50+3n",12,86],["E=pt","p=2.4,t=5",12],["C=3x+5",9,32],["D=100-4t",12,52]].forEach(([formula,vals,result])=>add(`Use ${formula} with ${typeof vals==='string'?vals:`the input value ${vals}`}. What is the output?`,result,[Number(result)+5,Number(result)-5,Number(result)*2],`Substitute values with brackets and follow operation order; the result is ${result}.`));
+ [["A=bh","A=54,b=9","h=6"],["d=rt","d=150,t=3","r=50"],["P=2l+2w","P=30,w=5","l=10"],["C=4.5+2.2d","C=26.5","d=10"],["V=lwh","V=120,l=5,w=4","h=6"],["m=ρV","m=84,V=12","ρ=7"],["p=6g+b","p=44,g=7","b=2"],["A=lw","A=96,l=12","w=8"],["E=pt","E=45,t=9","p=5"],["T=20+5h","T=65","h=9"],["S=50+3n","S=86","n=12"],["F=1.8C+32","F=77","C=25"]].forEach(([f,g,c])=>add(`Use ${f}. Given ${g}, find the unknown.`,c,[c.replace(/\d+/,n=>String(Number(n)+2)),c.replace(/\d+/,n=>String(Number(n)*2)),"0"],`Undo operations or substitute known values, then check in the original formula; ${c}.`));
+ [["A rectangle's area equals length times width","A=lw"],["A taxi costs $4.50 plus $2.20 per kilometre","C=4.5+2.2d"],["Distance equals rate times time","d=rt"],["A total has 6 points per goal plus 1 per behind","p=6g+b"],["Density equals mass divided by volume","ρ=m/V"],["A weekly wage is base wage plus 1.5 times overtime hours times rate","W=b+1.5hr"],["A triangle's area is half base times height","A=bh/2"],["A perimeter is twice length plus twice width","P=2l+2w"],["A temperature is 32 plus 1.8 times Celsius","F=32+1.8C"],["Energy equals power times time","E=pt"],["A phone plan costs $20 plus $5 per gigabyte","C=20+5g"],["A tank volume is length times width times height","V=lwh"]].forEach(([words,f])=>add(`Which formula models: ${words}?`,f,[f.replace(/[+]/g,'-'),f.replace(/[×*]/g,'+'),f.split('=').reverse().join('=')],`Assign variables to quantities and translate multiplicative and additive relationships: ${f}.`));
+ [["C=4.5+2.2d","4.5","fixed starting charge"],["C=4.5+2.2d","2.2","cost per kilometre"],["y=3x+5","3","change in y per unit x"],["y=3x+5","5","value of y when x=0"],["W=b+1.5hr","h","overtime hours"],["m=ρV","ρ","mass per unit volume"],["P=2l+2w","l","length"],["d=rt","t","time"]].forEach(([f,s,m])=>add(`In ${f}, what does ${s} represent?`,m,["the final answer","an operation sign","a quantity with no possible units"],`A formula's symbols represent specific quantities or rates; here ${s} means ${m}.`));
+ add("What does 2d mean in algebra?","2 multiplied by d",["2 plus d","the two-digit number 2d","d divided by 2"],"Adjacent number and variable notation means multiplication.");
+ add("Why should substituted negative values be placed in brackets?","Brackets preserve the value's sign and operation structure.",["They make the value positive.","Variables cannot be negative.","Brackets remove units."],"For example, 3(-2) clearly means 3 × -2.");
+ add("What is a variable?","A symbol representing a quantity that may change or be unknown.",["A decorative label only.","A fixed operation.","A number that must equal zero."],"Variables have numerical meaning and often units.");
+ add("What distinguishes a formula from one numerical example?","A formula states a general relationship for all allowed inputs.",["A formula has no variables.","An example is always more accurate.","A formula cannot have units."],"Substitution produces individual cases from a general formula.");
+ add("How should a result be checked after rearranging a formula?","Substitute it into the original formula and verify units and equality.",["Change the formula again.","Ignore the original values.","Round it to a whole number automatically."],"Back-substitution tests the rearrangement and arithmetic.");
+ add("Before substituting 250 cm into a formula using metres, what is required?","Convert 250 cm to 2.5 m.",["Use 250 unchanged.","Delete the units.","Multiply by 100 again."],"All quantities must use compatible units.");
+ add("In y=3x+5, what happens to y when x increases by 1?","y increases by 3",["y increases by 5","y doubles","y decreases by 3"],"The coefficient 3 is the constant rate of change.");
+ add("Which pair of contexts could both use y=3x+5?","A $5 fixed fee plus $3 per item, and 5 starting points plus 3 per round.",["Two unrelated totals with no fixed amount.","Only rectangles.","Any context where values decrease by 5."],"The same algebraic structure can model different quantities when meanings and units are defined.");
+ if(q.length!==56)throw new Error(`AC9M7A01 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
+})();
