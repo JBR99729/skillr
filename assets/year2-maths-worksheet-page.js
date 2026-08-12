@@ -32,7 +32,9 @@
     if (document.getElementById("skillr-year2-worksheet-css")) return;
     const style = document.createElement("style");
     style.id = "skillr-year2-worksheet-css";
-    style.textContent = `.worksheet-shell{max-width:1040px;margin:0 auto;padding:18px}.worksheet-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}.worksheet-nav a{color:#2457d6;font-weight:800;text-decoration:none}.worksheet-hero{border:1px solid #d8e2ef;border-radius:18px;background:#fff;padding:20px;box-shadow:0 8px 24px rgba(28,55,91,.08)}.worksheet-hero h1{font-size:clamp(1.45rem,3vw,2rem);margin:.25rem 0}.worksheet-meta{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.worksheet-meta span{border:1px solid #d7e3fb;background:#f7faff;border-radius:999px;padding:6px 9px;font-size:.82rem;font-weight:800}.worksheet-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.worksheet-actions a,.worksheet-actions button{border:0;border-radius:12px;padding:10px 14px;font-weight:900;text-decoration:none;cursor:pointer}.worksheet-actions .primary{background:#2457d6;color:#fff}.worksheet-actions a{background:#edf2f7;color:#173968}.worksheet-print-tip{margin-top:10px;color:#5d6c80;font-size:.9rem}.brandbar{display:flex;justify-content:space-between;gap:12px;align-items:center}.brandmark{font-weight:900;color:#2457d6}.brandmark span{color:#173968}.worksheet-question .question-prompt{margin:0}.worksheet-options{gap:10px}.fill-template{font-weight:800;color:#173968}.blank-line{display:inline-block;min-width:58px;border-bottom:2px solid #5d6c80}.match-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.match-grid p{margin:3px 0}.response-lines span{display:block;height:17px;border-bottom:1px solid #93a4ba}.watermark-grid{position:absolute;inset:0;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(5,1fr);pointer-events:none;z-index:0}.watermark-grid span{display:grid;place-items:center;transform:rotate(-24deg);font-weight:900;color:rgba(36,87,214,.045)}.worksheet-paper>*:not(.watermark-grid){position:relative;z-index:1}@media(max-width:650px){.worksheet-shell{padding:10px}.match-grid{grid-template-columns:1fr}}`;
+    style.textContent = `
+      .worksheet-shell{max-width:1040px;margin:0 auto;padding:18px}.worksheet-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}.worksheet-nav a{color:#2457d6;font-weight:800;text-decoration:none}.worksheet-hero{border:1px solid #d8e2ef;border-radius:18px;background:#fff;padding:20px;box-shadow:0 8px 24px rgba(28,55,91,.08)}.worksheet-hero h1{font-size:clamp(1.45rem,3vw,2rem);margin:.25rem 0}.worksheet-meta{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.worksheet-meta span{border:1px solid #d7e3fb;background:#f7faff;border-radius:999px;padding:6px 9px;font-size:.82rem;font-weight:800}.worksheet-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.worksheet-actions a,.worksheet-actions button{border:0;border-radius:12px;padding:10px 14px;font-weight:900;text-decoration:none;cursor:pointer}.worksheet-actions .primary{background:#2457d6;color:#fff}.worksheet-actions .secondary{background:#173968;color:#fff}.worksheet-actions a{background:#edf2f7;color:#173968}.worksheet-print-tip{margin-top:10px;color:#5d6c80;font-size:.9rem}.brandbar{display:flex;justify-content:space-between;gap:12px;align-items:center}.brandmark{font-weight:900;color:#2457d6}.brandmark span{color:#173968}.worksheet-paper{position:relative;overflow:hidden}.worksheet-paper+.worksheet-paper{margin-top:18px}.worksheet-extension{border-style:dashed!important}.worksheet-question .question-prompt{margin:0}.worksheet-options{gap:10px}.fill-template{font-weight:800;color:#173968}.blank-line{display:inline-block;min-width:58px;border-bottom:2px solid #5d6c80}.match-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.match-grid p{margin:3px 0}.response-lines span{display:block;height:17px;border-bottom:1px solid #93a4ba}.watermark-grid{position:absolute;inset:0;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(5,1fr);pointer-events:none;z-index:0}.watermark-grid span{display:grid;place-items:center;transform:rotate(-24deg);font-weight:900;color:rgba(36,87,214,.045)}.worksheet-paper>*:not(.watermark-grid){position:relative;z-index:1}.extension-note{margin:6px 0 10px;color:#5d6c80;font-size:.9rem;font-weight:700}@media(max-width:650px){.worksheet-shell{padding:10px}.match-grid{grid-template-columns:1fr}.brandbar{display:block}.brandbar small{display:block;margin-top:4px}}@media print{.worksheet-extension{break-before:page;page-break-before:always}.worksheet-actions,.worksheet-nav,.worksheet-hero{display:none!important}.worksheet-paper+.worksheet-paper{margin-top:0}}
+    `;
     document.head.appendChild(style);
   }
 
@@ -45,16 +47,24 @@
     } else if (question.type === "match") {
       response = `<div class="match-grid"><div>${(question.matchLeft || []).map((item, i) => `<p><strong>${String.fromCharCode(65 + i)}.</strong> ${esc(item)}</p>`).join("")}</div><div>${(question.matchRight || []).map((item, i) => `<p><strong>${i + 1}.</strong> ${esc(item)}</p>`).join("")}</div></div><p class="match-instruction">Matches: __________________________</p>`;
     } else {
-      response = `<div class="response-lines">${Array.from({ length: question.enrichment ? 4 : 2 }, () => "<span></span>").join("")}</div>`;
+      response = `<div class="response-lines">${Array.from({ length: question.enrichment ? 5 : 2 }, () => "<span></span>").join("")}</div>`;
     }
     return `<article class="worksheet-question${question.enrichment ? " enrichment" : ""}"><div class="question-line"><span class="question-number-text">${index + 1}.</span>${question.enrichment ? '<span class="enrichment-label">Enrichment</span>' : ""}<p class="question-prompt">${esc(question.question)}</p></div>${response}</article>`;
+  }
+
+  function paperHeader(title, subtitle = "Name: ____________________ &nbsp;&nbsp; Date: ____________") {
+    return `<div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${title}</h2></div><p>${subtitle}</p></div>`;
+  }
+
+  function watermark() {
+    return `<div class="watermark-grid" aria-hidden="true">${Array.from({ length: 15 }, () => "<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div>`;
   }
 
   function renderScreen(unit, worksheet) {
     const questions = worksheet.questions;
     const core = questions.filter((q) => !q.enrichment);
     const enrichment = questions.filter((q) => q.enrichment);
-    document.body.innerHTML = `<div class="worksheet-shell"><nav class="worksheet-nav" aria-label="Breadcrumb"><a href="/">Home</a><a href="/year2/curriculum/maths/">Year 2 Maths</a><a href="/year2/maths/${unit.slug}/">${code} topic</a></nav><header class="worksheet-hero"><div class="brandbar"><div class="brandmark">SkillrHub <span>F–10</span></div><small>Year 2 Maths • Student Worksheet</small></div><p class="eyebrow">${code} • Year 2 Maths</p><h1>${esc(worksheet.title)} Worksheet</h1><p>This worksheet is authored from the topic guide. It is not copied from Practice or Test.</p><div class="worksheet-meta"><span>8 core questions</span><span>2 enrichment questions</span><span>US Letter portrait</span><span>Preview before download</span></div><div class="worksheet-actions"><button class="primary" id="previewPdfButton" type="button">Preview PDF worksheet</button><a href="/year2/maths/${unit.slug}/">Back to topic</a><a href="/quiz/year-2/math/${code.toLowerCase()}/practice/">Open practice</a></div><div class="worksheet-print-tip">Printing tip: if this worksheet uses 2 pages, choose double-sided printing to use one sheet per student.</div></header><main id="worksheetRoot"><section class="worksheet-paper"><div class="watermark-grid" aria-hidden="true">${Array.from({ length: 15 }, () => "<span>SkillrHub F–10 • skillrhub.com</span>").join("")}</div><div class="worksheet-paper__head"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><h2>${code} — ${esc(worksheet.title)}</h2></div><p>Name: ____________________ &nbsp;&nbsp; Date: ____________</p></div><section class="core-grid">${core.map((question, i) => renderQuestion(question, i)).join("")}</section><div class="enrichment-heading">Enrichment — complete Questions 9–10 after Questions 1–8.</div><section class="enrichment-grid">${enrichment.map((question, i) => renderQuestion(question, i + core.length)).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • Year 2 Maths</span><span>skillrhub.com</span></footer></section></main></div>`;
+    document.body.innerHTML = `<div class="worksheet-shell"><nav class="worksheet-nav" aria-label="Breadcrumb"><a href="/">Home</a><a href="/year2/curriculum/maths/">Year 2 Maths</a><a href="/year2/maths/${unit.slug}/">${code} topic</a></nav><header class="worksheet-hero"><div class="brandbar"><div class="brandmark">SkillrHub <span>F–10</span></div><small>Year 2 Maths • Student Worksheet</small></div><p class="eyebrow">${code} • Year 2 Maths</p><h1>${esc(worksheet.title)} Worksheet</h1><p>This worksheet is authored from the topic guide. It is not copied from Practice or Test.</p><div class="worksheet-meta"><span>Core sheet: 8 questions</span><span>Separate enrichment extension: 2 questions</span><span>US Letter portrait</span><span>Preview before download</span></div><div class="worksheet-actions"><button class="primary" id="previewCorePdfButton" type="button">Preview core worksheet</button><button class="secondary" id="previewExtensionPdfButton" type="button">Preview enrichment extension</button><a href="/year2/maths/${unit.slug}/">Back to topic</a><a href="/quiz/year-2/math/${code.toLowerCase()}/practice/">Open practice</a></div><div class="worksheet-print-tip">Print the core worksheet for the class. Print the enrichment extension only for students who are ready.</div></header><main id="worksheetRoot"><section class="worksheet-paper worksheet-core">${watermark()}${paperHeader(`${code} — ${esc(worksheet.title)}`)}<section class="core-grid">${core.map((question, i) => renderQuestion(question, i)).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • Year 2 Maths Core Worksheet</span><span>skillrhub.com</span></footer></section><section class="worksheet-paper worksheet-extension">${watermark()}${paperHeader(`${code} — Enrichment Extension`, "Optional challenge questions") }<p class="extension-note">Use this page for students who are ready to explain, justify and create using the same topic idea.</p><section class="enrichment-grid">${enrichment.map((question, i) => renderQuestion(question, i + core.length)).join("")}</section><footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • Optional Enrichment Extension</span><span>skillrhub.com</span></footer></section></main></div>`;
   }
 
   function wrap(doc, text, width) {
@@ -71,8 +81,9 @@
     doc.setFont("helvetica", "normal"); doc.setFontSize(9);
     if (question.type === "single") {
       const options = (question.answers || []).map((answer, i) => `[${String.fromCharCode(65+i)}] ${answer}`).join("   ");
-      doc.text(wrap(doc, options, width), x + 5, cursor);
-      cursor += wrap(doc, options, width).length * 4.3 + 2;
+      const optionLines = wrap(doc, options, width);
+      doc.text(optionLines, x + 5, cursor);
+      cursor += optionLines.length * 4.3 + 2;
     } else if (question.type === "fill-blank") {
       doc.setFont("helvetica", "bold");
       doc.text(String(question.template || "").replaceAll("{{blank}}", "__________"), x + 5, cursor);
@@ -88,7 +99,7 @@
       doc.line(x + 5, cursor, x + width - 5, cursor);
       cursor += 3;
     } else {
-      const count = question.enrichment ? 4 : 2;
+      const count = question.enrichment ? 5 : 2;
       doc.setDrawColor(120,136,157);
       for (let i = 0; i < count; i++) doc.line(x + 5, cursor + i * 5.5, x + width - 5, cursor + i * 5.5);
       cursor += count * 5.5 + 2;
@@ -97,9 +108,10 @@
     return cursor + 4;
   }
 
-  async function previewPdf(unit, worksheet) {
+  async function previewPdf(unit, worksheet, mode) {
     if (!window.jspdf?.jsPDF) await loadScript("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js");
-    const button = document.getElementById("previewPdfButton");
+    const isExtension = mode === "extension";
+    const button = document.getElementById(isExtension ? "previewExtensionPdfButton" : "previewCorePdfButton");
     const original = button?.textContent;
     if (button) { button.disabled = true; button.textContent = "Preparing preview..."; }
     try {
@@ -107,29 +119,32 @@
       const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "letter", compress: true });
       const pageW = doc.internal.pageSize.getWidth(), pageH = doc.internal.pageSize.getHeight();
       const margin = 10, width = pageW - margin * 2;
+      const all = worksheet.questions;
+      const questions = isExtension ? all.filter((q) => q.enrichment) : all.filter((q) => !q.enrichment);
+      const startNumber = isExtension ? all.filter((q) => !q.enrichment).length + 1 : 1;
       let y = 34;
-      const header = () => {
+      const header = (pageNumber = 1) => {
         doc.setDrawColor(36,87,214); doc.setLineWidth(.55); doc.rect(5,5,pageW-10,pageH-10);
         doc.setFont("helvetica", "bold"); doc.setFontSize(17); doc.setTextColor(36,87,214); doc.text("SkillrHub F-10", margin, 12);
-        doc.setFontSize(11); doc.setTextColor(23,57,104); doc.text(`${code} • ${worksheet.title} Worksheet`, margin, 21);
-        doc.setFontSize(9); doc.text("Name: ______________________________", margin, 29); doc.text("Date: ______________", pageW-margin, 29, { align: "right" });
+        doc.setFontSize(11); doc.setTextColor(23,57,104); doc.text(`${code} • ${worksheet.title} ${isExtension ? "Enrichment" : "Core"}`, margin, 21);
+        doc.setFontSize(9); doc.text(isExtension ? "Optional extension" : "Name: ______________________________", margin, 29); doc.text(isExtension ? `Page ${pageNumber}` : "Date: ______________", pageW-margin, 29, { align: "right" });
         doc.setDrawColor(36,87,214); doc.line(margin, 31.5, pageW-margin, 31.5);
       };
       const footer = () => {
         doc.setDrawColor(36,87,214); doc.line(margin, pageH-13, pageW-margin, pageH-13);
-        doc.setFont("helvetica", "bold"); doc.setFontSize(8); doc.setTextColor(36,87,214); doc.text("SkillrHub F-10 • Year 2 Maths", margin, pageH-8); doc.text("skillrhub.com", pageW-margin, pageH-8, { align: "right" });
+        doc.setFont("helvetica", "bold"); doc.setFontSize(8); doc.setTextColor(36,87,214); doc.text(`SkillrHub F-10 • Year 2 Maths ${isExtension ? "Enrichment" : "Core"}`, margin, pageH-8); doc.text("skillrhub.com", pageW-margin, pageH-8, { align: "right" });
       };
       header();
-      worksheet.questions.forEach((question, index) => {
-        const estimate = 20 + (question.enrichment ? 12 : 0) + (question.type === "match" ? 8 : 0);
-        if (y + estimate > pageH - 18) { footer(); doc.addPage("letter", "portrait"); y = 34; header(); }
-        y = drawPdfQuestion(doc, question, index + 1, margin, y, width);
+      questions.forEach((question, index) => {
+        const estimate = 22 + (question.enrichment ? 18 : 0) + (question.type === "match" ? 8 : 0);
+        if (y + estimate > pageH - 18) { footer(); doc.addPage("letter", "portrait"); y = 34; header(index + 1); }
+        y = drawPdfQuestion(doc, question, startNumber + index, margin, y, width);
       });
       footer();
       const blob = doc.output("blob"), url = URL.createObjectURL(blob), link = document.createElement("a");
       link.href = url; link.target = "_blank"; link.rel = "noopener"; document.body.appendChild(link); link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 120000);
     } finally {
-      if (button) { button.disabled = false; button.textContent = original || "Preview PDF worksheet"; }
+      if (button) { button.disabled = false; button.textContent = original || (isExtension ? "Preview enrichment extension" : "Preview core worksheet"); }
     }
   }
 
@@ -142,9 +157,10 @@
       if (!unit || !worksheet) return;
       document.title = `${code} ${worksheet.title} Worksheet | SkillrHub`;
       const meta = document.querySelector('meta[name="description"]');
-      if (meta) meta.content = `${code} Year 2 Maths worksheet with 8 authored core questions and 2 enrichment questions from the topic guide.`;
+      if (meta) meta.content = `${code} Year 2 Maths worksheet with an 8-question core sheet and a separate optional 2-question enrichment extension.`;
       renderScreen(unit, worksheet);
-      document.getElementById("previewPdfButton")?.addEventListener("click", () => previewPdf(unit, worksheet));
+      document.getElementById("previewCorePdfButton")?.addEventListener("click", () => previewPdf(unit, worksheet, "core"));
+      document.getElementById("previewExtensionPdfButton")?.addEventListener("click", () => previewPdf(unit, worksheet, "extension"));
     } catch (error) {
       console.error("Skillr Year 2 Maths worksheet setup failed:", error);
     }
