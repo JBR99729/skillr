@@ -1,0 +1,51 @@
+name: Patch Year 1 finaliser cleanup
+
+on:
+  push:
+    branches:
+      - agent/year1-maths-complete-current
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: ${{ !contains(github.event.head_commit.message, '[finaliser-patched]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/year1-maths-complete-current
+          fetch-depth: 0
+
+      - name: Correct the Daily Drill filler cleanup expressions
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('.github/workflows/year1-maths-finalise.yml')
+          lines = path.read_text(encoding='utf-8').splitlines()
+          fixed = []
+          for line in lines:
+              if "text = re.sub" in line and "checks" in line:
+                  indent = line[:len(line) - len(line.lstrip())]
+                  if 'A child' in line:
+                      line = indent + "text = re.sub(r'A child checks (?:another|a new) example[.] *', '', text)"
+                  else:
+                      line = indent + "text = re.sub(r'[A-Z][A-Za-z-]* checks (?:another|a new) example[.] *', '', text)"
+              fixed.append(line)
+          path.write_text('\n'.join(fixed) + '\n', encoding='utf-8')
+          PY
+          rm -f .github/workflows/year1-maths-patch-finaliser.yml
+
+      - name: Commit the corrected one-time workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A
+          git commit -m "Correct Year 1 finaliser cleanup [finaliser-patched]"
+          git push origin HEAD:agent/year1-maths-complete-current
