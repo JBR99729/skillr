@@ -15,6 +15,13 @@
     document.head.appendChild(professionalUiScript);
   }
 
+  if (!document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
+    const mathsQuickReadScript = document.createElement("script");
+    mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=1";
+    mathsQuickReadScript.dataset.skillrFoundationMathsQuickRead = "true";
+    document.head.appendChild(mathsQuickReadScript);
+  }
+
   if (!document.querySelector('script[data-skillr-foundation-science-prototype-ui]')) {
     const sciencePrototypeScript = document.createElement("script");
     sciencePrototypeScript.src = "/assets/foundation-science-prototype-ui.js?v=1";
