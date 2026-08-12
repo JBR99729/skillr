@@ -1,1 +1,1 @@
-Run the corrected semantic SVG audit with natural scene wording and unique accessible context.
+Run the final semantic SVG audit after replacing generic example filler throughout every remaining bank.
