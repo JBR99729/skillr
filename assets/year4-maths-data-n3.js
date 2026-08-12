@@ -19,7 +19,7 @@
       activities:[
         {title:"Rounding purpose sort",text:"Choose whether nearest 10, 100 or 1 000 is suitable for different checks and explain the choice.",visual:{type:"cards",items:["weekly attendance","stadium crowd","grocery budget","distance travelled"]}},
         {title:"Estimate then calculate",text:"Estimate 2 684 + 1 937, calculate exactly and state whether the exact answer is reasonable.",visual:{type:"flow",items:["2 700 + 1 900","≈ 4 600","exact 4 621","reasonable"]}},
-        {title:"Safe shopping estimate",text:"Round prices strategically so a budget estimate does not underestimate the required money.",visual:{type:"money-model",items:[["item A",12.60,1],["item B",7.75,2]],operation:"$13 + 2 × $8",total:"about $29"]}}
+        {title:"Safe shopping estimate",text:"Round prices strategically so a budget estimate does not underestimate the required money.",visual:{type:"money-model",items:[["item A",12.60,1],["item B",7.75,2]],operation:"$13 + 2 × $8",total:"about $29"}}
       ],
       mistakes:[
         ["Always round to the same place","Choose precision based on purpose."],
