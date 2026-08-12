@@ -5,7 +5,8 @@
     ? window.skillrWorksheetQuestions
     : [];
 
-  const list = document.getElementById("worksheetQuestions");
+  const coreList = document.getElementById("coreQuestions");
+  const enrichmentList = document.getElementById("enrichmentQuestions");
   const button = document.getElementById("downloadPdfButton");
 
   function esc(value) {
@@ -33,14 +34,14 @@
         .map((item, itemIndex) => `<p><strong>${String.fromCharCode(65 + itemIndex)}.</strong> ${esc(item)}</p>`)
         .join("")}</div><div>${(question.matchRight || [])
         .map((item, itemIndex) => `<p><strong>${itemIndex + 1}.</strong> ${esc(item)}</p>`)
-        .join("")}</div></div><p class="match-instruction">Write the matching pairs: ________________________________</p>`;
+        .join("")}</div></div><p class="match-instruction">Matches: __________________________</p>`;
     } else {
-      const lineCount = question.enrichment ? 4 : 2;
+      const lineCount = question.enrichment ? 3 : 2;
       response = `<div class="response-lines">${Array.from({ length: lineCount }, () => "<span></span>").join("")}</div>`;
     }
 
     return `<article class="worksheet-question${question.enrichment ? " enrichment" : ""}">
-      <div class="question-topline"><span class="question-number">${index + 1}</span><span class="question-format">${esc(question.formatLabel || "Question")}</span>${question.enrichment ? '<span class="enrichment-label">Enrichment</span>' : ""}</div>
+      <div class="question-topline"><span class="question-number">${index + 1}</span>${question.enrichment ? '<span class="enrichment-label">Enrichment</span>' : ""}</div>
       <p class="question-prompt">${esc(question.question)}</p>
       ${question.visual ? `<div class="question-visual">${esc(question.visual)}</div>` : ""}
       ${response}
@@ -48,8 +49,10 @@
   }
 
   function renderPage() {
-    if (!list) return;
-    list.innerHTML = questions.map(renderQuestion).join("");
+    const core = questions.filter((question) => !question.enrichment);
+    const enrichment = questions.filter((question) => question.enrichment);
+    if (coreList) coreList.innerHTML = core.map((question, index) => renderQuestion(question, index)).join("");
+    if (enrichmentList) enrichmentList.innerHTML = enrichment.map((question, index) => renderQuestion(question, index + core.length)).join("");
   }
 
   function wrap(doc, text, width) {
@@ -57,127 +60,142 @@
     return Array.isArray(lines) ? lines : [String(lines)];
   }
 
-  function drawWatermark(doc, pageW, pageH) {
+  function drawRepeatedWatermark(doc, pageW, pageH) {
     try {
       doc.saveGraphicsState();
       if (doc.GState && doc.setGState) {
-        doc.setGState(new doc.GState({ opacity: 0.045 }));
+        doc.setGState(new doc.GState({ opacity: 0.06 }));
       }
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(32);
+      doc.setFontSize(17);
       doc.setTextColor(36, 87, 214);
-      doc.text("SkillrHub F-10", pageW / 2, pageH / 2, {
-        align: "center",
-        angle: 30
-      });
+      const xs = [55, 155];
+      const ys = [82, 148, 214];
+      ys.forEach((y) => xs.forEach((x) => {
+        doc.text("SkillrHub F-10 • skillrhub.com", x, y, { align: "center", angle: 28 });
+      }));
       doc.restoreGraphicsState();
     } catch {}
   }
 
-  function drawHeader(doc, pageNumber, pageW) {
-    const margin = 12;
+  function drawHeader(doc, pageW) {
+    const margin = 10;
+    doc.setFillColor(23, 57, 104);
+    doc.rect(0, 0, pageW, 25, "F");
+
     doc.setFont("helvetica", "bold");
     doc.setFontSize(18);
-    doc.setTextColor(36, 87, 214);
-    doc.text("SkillrHub F-10", margin, 13);
+    doc.setTextColor(255, 255, 255);
+    doc.text("SkillrHub F-10", margin, 10.5);
 
-    doc.setFontSize(12);
-    doc.setTextColor(23, 57, 104);
-    doc.text("AC9MFN01 - Numbers to 20 Worksheet", margin, 20);
+    doc.setFontSize(11.5);
+    doc.text("AC9MFN01 • Numbers to 20 Worksheet", margin, 18);
 
     doc.setFont("helvetica", "normal");
+    doc.setFontSize(8.2);
+    doc.setTextColor(224, 235, 255);
+    doc.text("Foundation Maths", pageW - margin, 10.5, { align: "right" });
+    doc.text("skillrhub.com", pageW - margin, 18, { align: "right" });
+
+    doc.setFont("helvetica", "bold");
     doc.setFontSize(8.5);
-    doc.setTextColor(93, 108, 128);
-    doc.text("Name: ______________________________", margin, 27);
-    doc.text("Date: ______________", pageW - margin, 27, { align: "right" });
+    doc.setTextColor(32, 48, 71);
+    doc.text("Name: ____________________________", margin, 31.5);
+    doc.text("Date: ______________", pageW - margin, 31.5, { align: "right" });
 
     doc.setDrawColor(36, 87, 214);
-    doc.setLineWidth(0.4);
-    doc.line(margin, 30, pageW - margin, 30);
-
-    doc.setFontSize(8);
-    doc.setTextColor(93, 108, 128);
-    doc.text(`Page ${pageNumber} of 2`, pageW - margin, 13, { align: "right" });
-    return 36;
+    doc.setLineWidth(0.45);
+    doc.line(margin, 34.5, pageW - margin, 34.5);
+    return 38;
   }
 
   function drawFooter(doc, pageW, pageH) {
-    const margin = 12;
-    doc.setDrawColor(216, 224, 234);
-    doc.line(margin, pageH - 12, pageW - margin, pageH - 12);
+    const margin = 10;
+    const y = pageH - 8;
+    doc.setDrawColor(190, 208, 232);
+    doc.setLineWidth(0.3);
+    doc.line(margin, y - 4.5, pageW - margin, y - 4.5);
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8);
+    doc.setFontSize(7.8);
     doc.setTextColor(36, 87, 214);
-    doc.text("skillrhub.com", pageW / 2, pageH - 7, { align: "center" });
+    doc.text("SkillrHub F-10", margin, y);
+    doc.text("skillrhub.com", pageW / 2, y, { align: "center" });
+    doc.setTextColor(93, 108, 128);
+    doc.text("AC9MFN01 • Foundation Maths", pageW - margin, y, { align: "right" });
   }
 
-  function drawQuestion(doc, question, number, x, y, width, maxHeight) {
+  function drawQuestion(doc, question, number, x, y, width, height) {
     const blue = [36, 87, 214];
+    const navy = [23, 57, 104];
     const text = [32, 48, 71];
     const muted = [93, 108, 128];
-    const border = [216, 226, 239];
-    const fill = question.enrichment ? [247, 250, 255] : [255, 255, 255];
+    const border = question.enrichment ? [174, 198, 232] : [216, 226, 239];
+    const fill = question.enrichment ? [242, 247, 255] : [255, 255, 255];
 
     doc.setFillColor(...fill);
     doc.setDrawColor(...border);
-    doc.setLineWidth(0.25);
-    doc.roundedRect(x, y, width, maxHeight, 2, 2, "FD");
+    doc.setLineWidth(question.enrichment ? 0.35 : 0.22);
+    doc.roundedRect(x, y, width, height, 1.8, 1.8, "FD");
 
+    doc.setFillColor(...navy);
+    doc.circle(x + 5, y + 5, 3.2, "F");
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(10.5);
-    doc.setTextColor(...blue);
-    doc.text(`${number}.`, x + 3, y + 5);
+    doc.setFontSize(8.2);
+    doc.setTextColor(255, 255, 255);
+    doc.text(String(number), x + 5, y + 5.9, { align: "center" });
 
-    doc.setFontSize(7.5);
-    doc.setTextColor(...muted);
-    doc.text(String(question.formatLabel || "Question").toUpperCase(), x + 11, y + 5);
+    if (question.enrichment) {
+      doc.setFontSize(6.6);
+      doc.setTextColor(...blue);
+      doc.text("ENRICHMENT", x + width - 3, y + 5.4, { align: "right" });
+    }
 
     let cursor = y + 10;
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(9.4);
+    doc.setFontSize(question.enrichment ? 8.2 : 8.0);
     doc.setTextColor(...text);
-    const prompt = wrap(doc, question.question, width - 7).slice(0, 3);
+    const prompt = wrap(doc, question.question, width - 6).slice(0, question.enrichment ? 4 : 3);
     doc.text(prompt, x + 3, cursor);
-    cursor += prompt.length * 4.2 + 1.2;
+    cursor += prompt.length * 3.5 + 1;
 
     if (question.visual) {
       doc.setFont("courier", "bold");
-      doc.setFontSize(9);
+      doc.setFontSize(8);
       doc.text(String(question.visual), x + 3, cursor);
-      cursor += 5;
+      cursor += 4;
     }
 
     doc.setFont("helvetica", "normal");
-    doc.setFontSize(8.8);
+    doc.setFontSize(7.5);
     doc.setTextColor(...text);
 
     if (question.type === "single") {
       const options = (question.answers || []).map((value, idx) => `${String.fromCharCode(65 + idx)}. ${value}`);
-      const rows = [options.slice(0, 2).join("      "), options.slice(2, 4).join("      ")].filter(Boolean);
+      const rows = [options.slice(0, 2).join("    "), options.slice(2, 4).join("    ")].filter(Boolean);
       doc.text(rows, x + 3, cursor);
     } else if (question.type === "fill-blank") {
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(10);
-      doc.text(String(question.template || "").replaceAll("{{blank}}", "__________"), x + 3, cursor);
+      doc.setFontSize(8.6);
+      doc.text(String(question.template || "").replaceAll("{{blank}}", "________"), x + 3, cursor);
     } else if (question.type === "match") {
       const left = question.matchLeft || [];
       const right = question.matchRight || [];
-      const lineCount = Math.max(left.length, right.length);
-      for (let i = 0; i < lineCount; i += 1) {
+      const count = Math.max(left.length, right.length);
+      for (let i = 0; i < count; i += 1) {
         const leftText = left[i] !== undefined ? `${String.fromCharCode(65 + i)}. ${left[i]}` : "";
         const rightText = right[i] !== undefined ? `${i + 1}. ${right[i]}` : "";
-        doc.text(leftText, x + 4, cursor + i * 4.2);
-        doc.text(rightText, x + width * 0.53, cursor + i * 4.2);
+        doc.text(leftText, x + 3, cursor + i * 3.4);
+        doc.text(rightText, x + width * 0.54, cursor + i * 3.4);
       }
-      cursor += lineCount * 4.2 + 1;
+      cursor += count * 3.4 + 0.8;
       doc.setDrawColor(...muted);
-      doc.line(x + 4, cursor, x + width - 4, cursor);
+      doc.line(x + 3, cursor, x + width - 3, cursor);
     } else {
-      const lines = question.enrichment ? 4 : 2;
+      const lineCount = question.enrichment ? 3 : 2;
       doc.setDrawColor(...muted);
-      for (let i = 0; i < lines; i += 1) {
-        const lineY = cursor + i * 5.2;
-        if (lineY < y + maxHeight - 3) doc.line(x + 4, lineY, x + width - 4, lineY);
+      for (let i = 0; i < lineCount; i += 1) {
+        const lineY = cursor + i * 5;
+        if (lineY < y + height - 2.5) doc.line(x + 3, lineY, x + width - 3, lineY);
       }
     }
   }
@@ -199,30 +217,43 @@
       const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4", compress: true });
       const pageW = doc.internal.pageSize.getWidth();
       const pageH = doc.internal.pageSize.getHeight();
-      const margin = 12;
-      const width = pageW - margin * 2;
+      const margin = 10;
+      const gap = 5;
+      const colW = (pageW - margin * 2 - gap) / 2;
 
-      drawWatermark(doc, pageW, pageH);
-      let y = drawHeader(doc, 1, pageW);
-      const firstPage = questions.slice(0, 6);
-      const coreHeight = 38;
-      firstPage.forEach((question, index) => {
-        drawQuestion(doc, question, index + 1, margin, y, width, coreHeight);
-        y += coreHeight + 3;
+      drawRepeatedWatermark(doc, pageW, pageH);
+      const top = drawHeader(doc, pageW);
+
+      const core = questions.filter((question) => !question.enrichment);
+      const enrichment = questions.filter((question) => question.enrichment);
+      const coreH = 31.2;
+      const rowGap = 3.2;
+
+      core.forEach((question, index) => {
+        const col = index % 2;
+        const row = Math.floor(index / 2);
+        const x = margin + col * (colW + gap);
+        const y = top + row * (coreH + rowGap);
+        drawQuestion(doc, question, index + 1, x, y, colW, coreH);
       });
-      drawFooter(doc, pageW, pageH);
 
-      doc.addPage("a4", "portrait");
-      drawWatermark(doc, pageW, pageH);
-      y = drawHeader(doc, 2, pageW);
-      questions.slice(6).forEach((question, localIndex) => {
-        const number = localIndex + 7;
-        const height = question.enrichment ? 61 : 38;
-        drawQuestion(doc, question, number, margin, y, width, height);
-        y += height + 4;
+      const enrichTop = top + 4 * (coreH + rowGap) + 1;
+      doc.setFillColor(232, 241, 255);
+      doc.setDrawColor(190, 208, 238);
+      doc.roundedRect(margin, enrichTop, pageW - margin * 2, 8.5, 1.5, 1.5, "FD");
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(7.7);
+      doc.setTextColor(23, 57, 104);
+      doc.text("Enrichment — complete Questions 9–10 after you have finished Questions 1–8.", margin + 3, enrichTop + 5.3);
+
+      const enrichY = enrichTop + 11.5;
+      const enrichH = 48;
+      enrichment.forEach((question, index) => {
+        const x = margin + index * (colW + gap);
+        drawQuestion(doc, question, index + 9, x, enrichY, colW, enrichH);
       });
-      drawFooter(doc, pageW, pageH);
 
+      drawFooter(doc, pageW, pageH);
       doc.save("ac9mfn01-numbers-to-20-worksheet.pdf");
     } finally {
       if (button) {
