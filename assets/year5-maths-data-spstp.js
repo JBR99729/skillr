@@ -1,0 +1,230 @@
+(() => {
+  "use strict";
+  if (!window.SkillrYear5Register) throw new Error("Year 5 curriculum base is not loaded.");
+  const mk=(s)=>({...s,activities:s.activities||[
+    {title:"Construct and annotate",text:`Build or represent ${s.title.toLowerCase()} and label the features, coordinates, data or outcomes.`,visual:s.modelVisual},
+    {title:"Compare representations",text:"Use a second representation or method and explain what each makes easier to see.",visual:s.applyVisual},
+    {title:"Investigate and justify",text:"Apply the concept to a new design, data set or chance situation and verify every condition.",visual:{type:"cards",data:(s.quick||[]).slice(0,4)}}
+  ],mastery:s.mastery||["Construct or represent accurately","Use correct vocabulary and notation","Interpret relationships","Apply to a new example","Justify and evaluate"]});
+
+  const S={
+    AC9M5SP01:mk({
+      slug:"ac9m5sp01-connect-objects-to-their-nets-and-build-objects-from-their",
+      title:"Three-dimensional Objects and Nets",
+      subtitle:"Connect faces, edges and vertices to valid two-dimensional nets",
+      desc:"connect objects to their nets and build objects from their nets using spatial and geometric reasoning",
+      learn:"Students visualise how connected faces fold into prisms and pyramids, test which edges meet and construct objects from accurate nets with suitable tabs or joins.",
+      core:"A valid net contains the correct faces connected so they fold without overlap and meet along the intended edges.",
+      modelTitle:"Fold a cube net mentally and physically",
+      modelVisual:{type:"net",label:"6 equal square faces fold to a cube"},
+      modelNote:"A cube net needs six congruent squares, but not every arrangement of six connected squares is valid. Track opposite faces and potential overlap.",
+      applyTitle:"Compare nets for prisms and pyramids",
+      applyVisual:{type:"table",data:[["object","faces required","net features"],["triangular prism","2 triangles + 3 rectangles","matching triangular ends"],["square pyramid","1 square + 4 triangles","triangles around base"],["rectangular prism","6 rectangles in opposite pairs","matching dimensions"],["cylinder","2 circles + rectangle","curved surface unwraps"]]},
+      applyNote:"Measure corresponding edge lengths before constructing. Tabs help join faces but are not mathematical faces of the solid.",
+      terms:[["net","two-dimensional arrangement of faces that folds into a 3D object"],["face","flat surface of a polyhedron"],["edge","line segment where two faces meet"]],
+      mistakes:[["Any six squares form a cube net","Some arrangements overlap or fail to close."],["Tabs counted as faces","Tabs are construction aids."],["Corresponding edges ignored","Meeting edges must have equal lengths."],["Curved surface called a face without clarification","Use surface terminology appropriate to the object."]],
+      quick:["Identify a cube net.","List faces of a triangular prism.","Track opposite faces.","Explain edge matching.","Build and check a net."],
+      questions:{
+        choice1:["How many square faces does a cube net contain?",["6","4","8","12"]],
+        fill1:["Complete the triangular-prism net.","2 triangles + {{blank}} rectangles"],
+        choice2:["Why can an arrangement of six squares fail as a cube net?",["Faces may overlap or not close when folded","A cube has no faces","Squares cannot fold","Every arrangement is valid"]],
+        explain:"Describe how to decide whether two marked faces in a cube net will become opposite or adjacent after folding.",
+        fill2:["Complete the construction check.","Edges that meet after folding must have equal {{blank}}."],
+        apply:"Design and label a net for a rectangular prism with dimensions 2 cm × 3 cm × 5 cm. Show matching face pairs.",
+        enrichment1:"Find or create two different valid cube nets and one invalid arrangement. Explain validity without physically folding first.",
+        enrichment2:"Design packaging for a product using a prism or pyramid net. Include dimensions, tabs, material area and construction constraints."
+      }
+    }),
+    AC9M5SP02:mk({
+      slug:"ac9m5sp02-and-perform-transformations-of-shapes-using-dynamic-geometric",
+      title:"Transformations of Shapes",
+      subtitle:"Perform and describe translations, reflections and rotations",
+      desc:"construct and perform transformations of shapes using dynamic geometric software, where appropriate; recognise and explain that the size and shape of an object remain unchanged after translation, reflection or rotation",
+      learn:"Students perform rigid transformations, describe direction, distance, axis or centre and angle, and explain which properties remain invariant.",
+      core:"Translation, reflection and rotation preserve length, angle size, area and shape while changing position or orientation.",
+      modelTitle:"Compare three rigid transformations",
+      modelVisual:{type:"transform",data:[["translation","slide 4 right, 2 up"],["reflection","flip across vertical line"],["rotation","turn 90° clockwise about a centre"]]},
+      modelNote:"A complete description names the transformation and its parameters. The image remains congruent to the original.",
+      applyTitle:"Use coordinates to verify invariance",
+      applyVisual:{type:"table",data:[["point","translation +3,+1","reflection in y-axis"],["(1,2)","(4,3)","(-1,2)"],["(3,1)","(6,2)","(-3,1)"],["check","same distances","same distances, reversed orientation"]]},
+      applyNote:"Dynamic software can test and animate transformations, but students should predict coordinates and properties before using it.",
+      terms:[["translation","slide moving every point the same distance and direction"],["reflection","flip across a line of reflection"],["rotation","turn through an angle about a centre"]],
+      mistakes:[["Reflection described as rotation","A reflection reverses orientation across a line."],["Different points moved different distances in a translation","Every point follows the same vector."],["Rotation centre omitted","The same angle around different centres gives different images."],["Image resized","Rigid transformations preserve size."]],
+      quick:["Translate a point.","Reflect across an axis.","Describe a 90° rotation.","Name invariant properties.","Predict before using software."],
+      questions:{
+        choice1:["Which transformation slides every point the same distance and direction?",["translation","reflection","rotation","enlargement"]],
+        fill1:["Complete the coordinate translation.","(2,3) translated +4 in x and −1 in y becomes ({{blank}},{{blank}})."],
+        choice2:["Which property changes under a reflection?",["orientation","side lengths","angle sizes","area"]],
+        explain:"Describe a rotation completely, including centre, direction and angle, and explain which properties remain unchanged.",
+        fill2:["Complete the invariance statement.","Rigid transformations preserve length, angles and {{blank}}."],
+        apply:"Transform a triangle by a translation, reflection and rotation on a coordinate grid. Record image coordinates and verify congruence.",
+        enrichment1:"Create two different transformation sequences that place a shape in the same final position. Compare intermediate images and orientation.",
+        enrichment2:"Use or describe dynamic geometry to investigate whether transformation order matters. Provide a counterexample or condition for equivalence."
+      }
+    }),
+    AC9M5SP03:mk({
+      slug:"ac9m5sp03-locate-and-move-positions-within-a-grid-coordinate-system",
+      title:"Grid Coordinates and Movement",
+      subtitle:"Locate points and describe pathways using coordinate pairs and directions",
+      desc:"locate and move positions within a grid coordinate system using coordinates and directions and describe changes to position",
+      learn:"Students read ordered coordinate pairs consistently, plot positions, follow displacement instructions and describe changes using horizontal and vertical movement.",
+      core:"An ordered pair locates a point by moving along the horizontal axis first and the vertical axis second under the stated convention.",
+      modelTitle:"Plot and connect points on a coordinate grid",
+      modelVisual:{type:"coordinate",points:[[1,1,"A"],[4,1,"B"],[4,4,"C"],[1,4,"D"]]},
+      modelNote:"A(1,1), B(4,1), C(4,4), D(1,4) form a square. Coordinates identify vertices precisely and differences reveal side lengths.",
+      applyTitle:"Describe movement as coordinate change",
+      applyVisual:{type:"table",data:[["start","movement","finish"],["(2,1)","3 right, 2 up","(5,3)"],["(5,4)","4 left, 1 down","(1,3)"],["(0,2)","same x, 3 up","(0,5)"]]},
+      applyNote:"Directions depend on axis orientation. State the start, horizontal change and vertical change, then verify the endpoint.",
+      terms:[["coordinate pair","ordered numbers locating a point"],["horizontal axis","axis read first under standard Cartesian convention"],["displacement","change in position described by direction and distance"]],
+      mistakes:[["Coordinates reversed","Read x then y."],["Cell reference confused with point coordinate","Coordinates locate intersection points under the defined system."],["Movement counted by grid lines inconsistently","Count unit intervals."],["Direction assumed without axis labels","Check positive directions and scale."]],
+      quick:["Plot (3,5).","Move (2,1) by +3,+2.","Find coordinate difference.","Explain x then y.","Describe a route."],
+      questions:{
+        choice1:["Which point is 4 units right and 3 units up from the origin?",["(4,3)","(3,4)","(7,0)","(1,1)"]],
+        fill1:["Complete the movement.","(2,1) + (3,2) = ({{blank}},{{blank}})"],
+        choice2:["What change moves (5,4) to (1,3)?",["4 left and 1 down","4 right and 1 up","1 left and 4 down","6 left"]],
+        explain:"Plot A(1,1), B(4,1), C(4,4), D(1,4) and explain how coordinates confirm the shape and side lengths.",
+        fill2:["Complete the coordinate rule.","The first coordinate gives the {{blank}} position."],
+        apply:"Create a route through five landmarks on a coordinate grid, give ordered instructions and verify the endpoint.",
+        enrichment1:"Design two routes with the same start and finish but different total distance. Compare displacement and path length.",
+        enrichment2:"Create a coordinate mystery polygon from movement clues only. Provide enough information for a unique reconstruction and proof."
+      }
+    }),
+    AC9M5ST01:mk({
+      slug:"ac9m5st01-acquire-categorical-and-discrete-or-continuous-numerical-data",
+      title:"Collecting Categorical, Discrete and Continuous Data",
+      subtitle:"Design purposeful collection methods and use digital tools responsibly",
+      desc:"acquire categorical and discrete or continuous numerical data using digital tools where appropriate; identify the mode and interpret the shape of distributions of data in context",
+      learn:"Students distinguish variable types, collect and clean data, identify the mode and describe clusters, gaps, spread and possible extremes in relation to the question.",
+      core:"The collection method, variable type and measurement precision determine what conclusions the data can support.",
+      modelTitle:"Distinguish three variable types",
+      modelVisual:{type:"table",data:[["type","example","possible values"],["categorical","transport mode","walk, bus, car"],["discrete numerical","number of siblings","0,1,2,3…"],["continuous numerical","height","any measured value in range"]]},
+      modelNote:"Discrete data are counted; continuous data are measured and can take values between recorded points depending on precision.",
+      applyTitle:"Interpret mode and distribution shape",
+      applyVisual:{type:"graph",labels:["130","135","140","145","150","155"],values:[1,3,7,8,4,2]},
+      applyNote:"The mode is the most frequent value or category. Describe concentration and spread in context without implying cause.",
+      terms:[["categorical data","labels or groups rather than numerical measurements"],["discrete data","countable numerical values"],["continuous data","measured values varying along a scale"]],
+      mistakes:[["All numbers called continuous","Counts remain discrete even when large."],["Mode assumed to exist uniquely","A data set may have several modes or none."],["Shape described without context","State what the values represent."],["Digital collection accepted without cleaning","Check duplicates, missing values and units."]],
+      quick:["Classify a variable.","Find a mode.","Describe a cluster.","Check measurement precision.","Name a cleaning step."],
+      questions:{
+        choice1:["Which variable is continuous numerical data?",["student height","number of pets","favourite colour","transport type"]],
+        fill1:["Complete the definition.","The most frequent value or category is the {{blank}}."],
+        choice2:["Which is discrete numerical data?",["number of books read","temperature","arm span","time taken"]],
+        explain:"Compare the data types and collection methods for favourite fruit, number of siblings and hand span.",
+        fill2:["Complete the cleaning step.","Before graphing, check duplicates, missing values and consistent {{blank}}."],
+        apply:"Design a digital collection table for a continuous measurement. Include precision, units, repeated measurements and data validation.",
+        enrichment1:"Create two distributions with the same mode but different spread and shape. Explain why mode alone is insufficient.",
+        enrichment2:"Evaluate how measurement rounding changes the apparent mode and shape of continuous data. Use a constructed example."
+      }
+    }),
+    AC9M5ST02:mk({
+      slug:"ac9m5st02-construct-and-interpret-line-graphs-and-line-graphs-where-part",
+      title:"Line Graphs and Discontinuous Scales",
+      subtitle:"Represent change over ordered values and critique scale choices",
+      desc:"construct and interpret line graphs and line graphs where part of the scale on the vertical axis is discontinuous; discuss the relationships represented and conclusions that can be made",
+      learn:"Students construct line graphs for ordered data, read interpolation and trends cautiously, and recognise how a broken or truncated vertical scale changes visual impact without changing the data.",
+      core:"A line graph connects values in an ordered variable; its axis scale controls how differences appear and must be read before interpreting trend.",
+      modelTitle:"Construct a temperature-over-time line graph",
+      modelVisual:{type:"table",data:[["time (min)","0","5","10","15","20"],["temperature (°C)","20","24","31","35","36"],["change","","+4","+7","+4","+1"]]},
+      modelNote:"Plot time on the horizontal axis, temperature on the vertical axis and connect points because values are ordered through time.",
+      applyTitle:"Compare full and discontinuous vertical scales",
+      applyVisual:{type:"compare",data:[["0–100 scale","small changes look modest"],["30–40 scale with break","same changes look dramatic"],["responsible use","label break clearly and discuss actual values"],["conclusion","visual steepness alone is insufficient"]]},
+      applyNote:"A discontinuous scale can reveal detail but can also exaggerate differences. Quote numerical change and inspect axis intervals.",
+      terms:[["line graph","graph connecting data values across an ordered variable"],["vertical axis","axis displaying the measured response"],["discontinuous scale","axis with an explicitly omitted interval"]],
+      mistakes:[["Categories connected as if continuous","Use line graphs only when order or continuity is meaningful."],["Axis break ignored","Inspect labels before judging steepness."],["Line assumed to prove values between points","Interpolation is an estimate unless measured."],["Trend described as cause","The graph shows relationship, not necessarily cause."]],
+      quick:["Choose axes.","Describe a trend with values.","Explain a scale break.","Estimate between points cautiously.","Limit a conclusion."],
+      questions:{
+        choice1:["Which variable belongs on the horizontal axis for temperature measured over time?",["time","temperature","graph title","units only"]],
+        fill1:["Complete the scale warning.","A broken axis can make small differences appear more {{blank}}."],
+        choice2:["Which conclusion is supported?",["Temperature rose from 20°C to 36°C over 20 minutes","Time caused all temperature change","The value at every second is known exactly","The graph proves the same pattern always occurs"]],
+        explain:"Construct or describe a line graph for the table and calculate the greatest five-minute increase.",
+        fill2:["Complete the numerical comparison.","36°C − 20°C = {{blank}}°C total increase."],
+        apply:"Compare two line graphs of the same data using different vertical scales. Explain readability, risk and responsible labelling.",
+        enrichment1:"Create a data set where a discontinuous scale is useful but potentially misleading. Design a responsible and misleading graph description.",
+        enrichment2:"Evaluate whether connecting points is appropriate for three different data sets. Justify from the nature of the horizontal variable."
+      }
+    }),
+    AC9M5ST03:mk({
+      slug:"ac9m5st03-plan-and-conduct-statistical-investigations-that-collect-nominal",
+      title:"Planning Statistical Investigations",
+      subtitle:"Collect nominal and ordinal categorical or discrete numerical data",
+      desc:"plan and conduct statistical investigations that collect nominal and ordinal categorical and discrete numerical data using digital tools where appropriate; identify and describe mode, shape and spread and interpret data in context",
+      learn:"Students formulate a statistical question, select a population and variable, distinguish nominal and ordinal categories, collect data fairly, clean and display it, then interpret mode, shape and spread with limitations.",
+      core:"A statistical investigation is a connected cycle in which the question determines the variable, method, display and defensible conclusion.",
+      modelTitle:"Plan a complete investigation cycle",
+      modelVisual:{type:"sequence",data:[["Question","What do we want to know?"],["Variable","nominal, ordinal or discrete?"],["Sample/method","who, how, one response each"],["Clean/display","check categories and totals"],["Interpret","mode, shape, spread"],["Report","conclusion and limitation"]]},
+      modelNote:"Nominal categories have no inherent order; ordinal categories have a meaningful order, such as strongly disagree to strongly agree.",
+      applyTitle:"Interpret data in context",
+      applyVisual:{type:"table",data:[["feature","example statement"],["mode","‘often’ was the most frequent response"],["shape","responses concentrated at the higher ratings"],["spread","ratings ranged from 1 to 5"],["limitation","one class, voluntary responses"],["next question","repeat across year levels"]]},
+      applyNote:"Avoid claiming causation or generalising beyond the sample. Digital tools organise and display data but do not fix a biased question or sample.",
+      terms:[["nominal data","categories with no inherent order"],["ordinal data","categories with a meaningful order"],["spread","extent to which values vary"]],
+      mistakes:[["Ordinal categories treated as equal numerical intervals","Order is meaningful, but distances may not be."],["Leading question used","Wording should not push responses."],["Sample treated as whole population","Limit the conclusion."],["Software chart chosen automatically","Select a display that fits variable and question."]],
+      quick:["Classify nominal/ordinal.","Write a statistical question.","Identify the mode.","Describe spread.","State a limitation."],
+      questions:{
+        choice1:["Which variable is ordinal categorical data?",["satisfaction rating: low, medium, high","favourite colour","number of siblings","height"]],
+        fill1:["Complete the investigation cycle.","question → collect → organise → display → interpret → {{blank}}"],
+        choice2:["Which question is least leading?",["How often do you use the library?","Don't you agree the library is excellent?","Why is the library the best?","Do you like useful and exciting libraries?"]],
+        explain:"Plan an investigation comparing a nominal variable and an ordinal variable. Explain collection and display choices.",
+        fill2:["Complete the limitation.","Results from one class should not automatically be generalised to the whole {{blank}}."],
+        apply:"Create a small data set, identify mode, describe shape and spread and write a cautious conclusion.",
+        enrichment1:"Compare two sampling methods for the same Year 5 question. Analyse fairness, practicality and likely bias.",
+        enrichment2:"Design a digital investigation dashboard while explaining why data quality and interpretation still require human reasoning."
+      }
+    }),
+    AC9M5P01:mk({
+      slug:"ac9m5p01-list-the-possible-outcomes-of-chance-experiments-involving-equally",
+      title:"Equally Likely Outcomes and Probability",
+      subtitle:"List outcomes systematically and represent probabilities from 0 to 1",
+      desc:"list the possible outcomes of chance experiments involving equally likely outcomes and compare to those which are not equally likely; represent the probability of events using fractions",
+      learn:"Students define the sample space, decide whether outcomes are equally likely and express event probability as favourable equally likely outcomes over total outcomes.",
+      core:"For equally likely outcomes, probability = number of favourable outcomes ÷ total number of possible outcomes.",
+      modelTitle:"Find probabilities for a fair six-sided die",
+      modelVisual:{type:"table",data:[["event","favourable outcomes","probability"],["roll 6","{6}","1/6"],["roll even","{2,4,6}","3/6 = 1/2"],["roll < 5","{1,2,3,4}","4/6 = 2/3"],["roll 7","none","0"]]},
+      modelNote:"The die outcomes are equally likely if the die is fair. Count each outcome once and simplify the fraction where useful.",
+      applyTitle:"Recognise when outcomes are not equally likely",
+      applyVisual:{type:"compare",data:[["fair spinner: 4 equal sectors","sector outcomes equally likely"],["spinner: sectors of unequal area","colour probabilities depend on area"],["bag: repeated colours","individual counters may be equal, colour outcomes not equal"],["everyday event","requires evidence, not simple counting"]]},
+      applyNote:"Do not use favourable/total counting unless elementary outcomes are equally likely or the probability structure is otherwise known.",
+      terms:[["sample space","set of all possible outcomes"],["equally likely","having the same probability"],["favourable outcome","outcome included in the event"]],
+      mistakes:[["Event names assumed equally likely","Repeated counters or unequal sectors change probability."],["Outcomes omitted or duplicated","List systematically."],["Probability fraction uses event names as denominator","Use total equally likely outcomes."],["Probability exceeds 1","Valid probability lies from 0 to 1."]],
+      quick:["List a die sample space.","Find P(even).","Compare equal/unequal spinners.","Write impossible/certain probabilities.","Explain favourable outcomes."],
+      questions:{
+        choice1:["What is the probability of rolling an even number on a fair die?",["1/2","1/6","2/3","3"]],
+        fill1:["Complete the sample space.","{1,2,3,4,5,{{blank}}}"],
+        choice2:["Which spinner has equally likely labelled outcomes?",["four equal sectors with one different label each","four sectors of unequal area","one colour covering half and three colours sharing half","a spinner with no defined sectors"]],
+        explain:"List outcomes and find the probability of rolling a number less than 5 on a fair die.",
+        fill2:["Complete the impossible-event probability.","P(roll 7 on a standard die) = {{blank}}"],
+        apply:"A bag contains 3 red, 2 blue and 1 green equal counter. Find colour probabilities and explain why colour outcomes are not equally likely.",
+        enrichment1:"Create two different chance devices with the same event probability but different sample spaces. Prove equivalence.",
+        enrichment2:"Design a misleading probability claim based on treating unequal outcomes as equal, then diagnose and correct it."
+      }
+    }),
+    AC9M5P02:mk({
+      slug:"ac9m5p02-conduct-repeated-chance-experiments-including-with-digital-tools",
+      title:"Repeated Chance Experiments and Expected Frequency",
+      subtitle:"Compare observed results with probability-based expectations",
+      desc:"conduct repeated chance experiments including with digital tools; identify and describe possible outcomes; compare observed frequencies to expected frequencies and discuss variation",
+      learn:"Students calculate expected frequency from probability and trial count, conduct or simulate repeated trials, compare observed frequencies and discuss natural variation and sample size.",
+      core:"Expected frequency = probability × number of trials; observed frequency will often differ, especially in smaller samples.",
+      modelTitle:"Compare expected and observed spinner results",
+      modelVisual:{type:"table",data:[["outcome","probability","expected in 80","observed"],["red","1/2","40","43"],["blue","1/4","20","18"],["green","1/4","20","19"],["total","1","80","80"]]},
+      modelNote:"The observed counts do not need to equal expectations exactly. The differences are plausible variation under repeated chance.",
+      applyTitle:"Investigate effect of sample size",
+      applyVisual:{type:"table",data:[["trials","observed red proportion"],["10","0.70"],["50","0.56"],["200","0.52"],["1 000","0.501"]]},
+      applyNote:"Larger samples often produce more stable relative frequencies, but they do not guarantee a perfect match in every run.",
+      terms:[["expected frequency","predicted count based on probability and trial total"],["observed frequency","count actually obtained"],["relative frequency","observed frequency divided by number of trials"]],
+      mistakes:[["Expected means guaranteed","It is a long-run prediction."],["Raw counts compared across different totals","Use relative frequencies."],["Unwanted trials discarded","Record all valid outcomes."],["Digital simulation accepted without checking settings","Verify probability model and number of trials."]],
+      quick:["Calculate expected frequency.","Compare observed/expected.","Find a relative frequency.","Explain sample size.","Audit simulation settings."],
+      questions:{
+        choice1:["If P(red)=1/2, what is the expected red frequency in 80 trials?",["40","80","20","1/2"]],
+        fill1:["Complete the relative frequency.","43 red in 80 trials = {{blank}}/80"],
+        choice2:["Why might observed frequency differ from expected frequency?",["chance variation","probability has no meaning","every device is unfair","expected frequency is an exact command"]],
+        explain:"Compare expected counts 40,20,20 with observed counts 43,18,19. Discuss whether the variation seems surprising.",
+        fill2:["Complete the expected-frequency formula.","expected frequency = probability × number of {{blank}}"],
+        apply:"Plan a physical and digital 200-trial experiment. Explain controls, recording, comparison and how settings will be verified.",
+        enrichment1:"Construct two trial sets with identical observed counts but different sample sizes. Compare relative frequency and evidential strength.",
+        enrichment2:"Investigate convergence across several simulated sample sizes. Explain why a larger sample supports stability without proving fairness."
+      }
+    })
+  };
+
+  window.SkillrYear5Register("maths",S,Object.keys(S));
+})();
