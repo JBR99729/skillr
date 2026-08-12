@@ -74,7 +74,7 @@
         {type:"fill-blank",question:"Complete the place-value relationship.",template:"3 600 ÷ 100 = {{blank}}"},
         {type:"single",question:"Which expression is equivalent to 24 × 30?",answers:["24 × 3 × 10","24 × 3","24 × 300","24 + 30"]},
         {type:"text",question:"Explain how place value changes when 406 is multiplied by 100."},
-        {type:"match",question:"Match each calculation to its result.",matchLeft:["32 × 200","4 800 ÷ 60","7 200 ÷ 90"],matchRight:["80","6 400","80"]},
+        {type:"match",question:"Match each calculation to its result.",matchLeft:["32 × 200","4 800 ÷ 60","7 200 ÷ 80"],matchRight:["80","6 400","90"]},
         {type:"fill-blank",question:"Complete the factorisation.",template:"35 × 40 = 35 × 4 × {{blank}}"},
         {type:"text",question:"Solve 1 260 ÷ 30 without a calculator. Show how the divisor can be factored."},
         {type:"text",question:"A student says 53 × 20 = 1 060 because they first found 53 × 2. Explain every step and confirm whether the answer is correct."},
