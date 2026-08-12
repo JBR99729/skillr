@@ -25,7 +25,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat scripts/foundation-science-rebuild-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/foundation-science-rebuild.tar.gz
+          cp scripts/foundation-science-rebuild.tar.gz /tmp/foundation-science-rebuild.tar.gz
           tar -xzf /tmp/foundation-science-rebuild.tar.gz -C .
 
       - name: Validate Science question banks
@@ -54,12 +54,8 @@ jobs:
               if (!Array.isArray(questions) || questions.length !== expected[bank]) {
                 throw new Error(`${file}: expected ${expected[bank]}, found ${questions?.length}`);
               }
-              if (new Set(questions.map(q => q.id)).size !== questions.length) {
-                throw new Error(`${file}: duplicate IDs`);
-              }
-              if (new Set(questions.map(q => q.question)).size !== questions.length) {
-                throw new Error(`${file}: duplicate prompts`);
-              }
+              if (new Set(questions.map(q => q.id)).size !== questions.length) throw new Error(`${file}: duplicate IDs`);
+              if (new Set(questions.map(q => q.question)).size !== questions.length) throw new Error(`${file}: duplicate prompts`);
               if (questions.some(q => !q.question || !q.skill || !q.explanation || q.type === 'self-check')) {
                 throw new Error(`${file}: incomplete or subjective item found`);
               }
@@ -136,7 +132,7 @@ jobs:
       - name: Remove temporary build inputs
         shell: bash
         run: |
-          rm -rf scripts/foundation-science-rebuild-b64
+          rm -f scripts/foundation-science-rebuild.tar.gz
           rm -f .github/workflows/foundation-science-build.yml
 
       - name: Commit completed rebuild
