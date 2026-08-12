@@ -19,7 +19,8 @@
     AC9M1N04:{vic:'VC2M1N04',nsw:'MA1-CSQ-01',note:'using number bonds and the relationship between addition and subtraction to solve partitioning problems'},
     AC9M1N05:{vic:'VC2M1N05',nsw:'MA1-CSQ-01 + MA1-NSM-01',note:'additive problem solving with money contexts; NSW separates additive relations and money into related Stage 1 outcomes'},
     AC9M1N06:{vic:'VC2M1N06',nsw:'MA1-FG-01',note:'forming equal groups through sharing and grouping; closest NSW Stage 1 flexible strategies outcome'},
-    AC9M1A01:{vic:'VC2M1A01',nsw:'MA1-RWN-01 + MA1-FG-01',note:'recognising and continuing number patterns including skip-counting; closest NSW Stage 1 whole-number and flexible-strategy outcomes'}
+    AC9M1A01:{vic:'VC2M1A01',nsw:'MA1-RWN-01 + MA1-FG-01',note:'recognising and continuing number patterns including skip-counting; closest NSW Stage 1 whole-number and flexible-strategy outcomes'},
+    AC9M1M01:{vic:'VC2M1M01',nsw:'MA1-GM-02',note:'measuring, comparing and ordering lengths using informal uniform units; closest NSW Stage 1 geometric-measure outcome'}
   };
   function yearLabels(meta){var y=(meta.year||'').toLowerCase();if(y==='foundation')return{vic:'Victorian Foundation',nsw:'NSW Early Stage 1',us:'US Kindergarten',uk:'England Reception'};var m=y.match(/year\s*(\d+)/);if(!m)return null;var n=Number(m[1]);return{vic:'Victorian Year '+n,nsw:'NSW '+(n<=2?'Stage 1':n<=4?'Stage 2':n<=6?'Stage 3':n<=8?'Stage 4':'Stage 5'),us:'US Grade '+n,uk:'England Year '+n};}
   function subjectTopic(meta){var s=(meta.subject||'').toLowerCase(),t=meta.title||'';if(s==='maths')return t+' maths';if(s==='science')return t+' science';if(s==='english')return t+' English';return t;}
