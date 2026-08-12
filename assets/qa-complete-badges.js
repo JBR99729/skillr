@@ -28,8 +28,8 @@
     badge.className = BADGE_CLASS;
     badge.dataset.skillrQaStatus = "complete";
     badge.textContent = "QA complete";
-    badge.title = "Content QA complete; human QA is still pending.";
-    badge.setAttribute("aria-label", "QA complete. Human quality assurance is still pending.");
+    badge.title = "Question banks and relevant Daily Drills passed content QA; human QA is still pending.";
+    badge.setAttribute("aria-label", "QA complete. Question banks and relevant Daily Drills passed content review. Human quality assurance is still pending.");
     return badge;
   }
 
