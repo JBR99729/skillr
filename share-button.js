@@ -22,10 +22,28 @@
     return fallbackCopy(window.location.href);
   }
 
-  function initShareButton() {
-    if (window.__skillrShareWidgetInitialized || !document.body) {
-      return;
+  function ensureBlogsFooterLink() {
+    var footer = document.querySelector("footer");
+    if (!footer || footer.querySelector('a[href="/blogs/"]')) return;
+
+    var nav = footer.querySelector(".footer-nav");
+    if (!nav) {
+      nav = document.createElement("nav");
+      nav.className = "footer-nav";
+      nav.setAttribute("aria-label", "Footer navigation");
+      footer.insertBefore(nav, footer.firstChild);
     }
+
+    var link = document.createElement("a");
+    link.href = "/blogs/";
+    link.textContent = "Blogs";
+    nav.insertBefore(link, nav.firstChild);
+  }
+
+  function initShareButton() {
+    if (!document.body) return;
+    ensureBlogsFooterLink();
+    if (window.__skillrShareWidgetInitialized) return;
 
     var button = document.createElement("button");
     button.className = "skillr-share-btn";
@@ -38,18 +56,14 @@
         try {
           await navigator.share({ title: document.title, url: window.location.href });
         } catch (error) {
-          if (error && error.name !== "AbortError") {
-            console.error("Could not share this page:", error);
-          }
+          if (error && error.name !== "AbortError") console.error("Could not share this page:", error);
         }
         return;
       }
 
       try {
         var copied = await copyPageLink();
-        if (!copied) {
-          throw new Error("Copy command was unavailable");
-        }
+        if (!copied) throw new Error("Copy command was unavailable");
         var label = button.querySelector(".skillr-share-label");
         if (label) {
           label.textContent = "Copied";
