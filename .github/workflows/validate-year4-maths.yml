@@ -5,8 +5,11 @@ on:
     branches: [main]
     paths:
       - "assets/year4-maths-*"
+      - "assets/curriculum-strand-coverage.js"
       - "pwa-register.js"
       - "worksheets/year4/maths/teacher-slides/live.html"
+      - "year4/maths/**/index.html"
+      - "docs/skillr-long-life-curriculum-content-standard.md"
       - ".github/workflows/validate-year4-maths.yml"
   workflow_dispatch:
 
@@ -36,10 +39,14 @@ jobs:
           node --check assets/year4-maths-render.js
           node --check assets/year4-maths-practice-quick-read.js
           node --check assets/year4-maths-worksheet-page.js
+          node --check assets/year4-maths-slide-strands.js
+          node --check assets/curriculum-strand-coverage.js
           node --check pwa-register.js
-      - name: Validate unit quality and worksheet counts
+      - name: Validate unit quality, worksheets and elaboration coverage
         run: |
           node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
           global.window = {};
           require('./assets/year4-maths-data-base.js');
           require('./assets/year4-maths-data-n1.js');
@@ -56,6 +63,7 @@ jobs:
           const order = window.SkillrYear4MathsOrder || [];
           const expected = 23;
           const codes = Object.keys(units);
+          let elaborationTotal = 0;
 
           if (codes.length !== expected) throw new Error(`Expected ${expected} Year 4 Maths units, found ${codes.length}`);
           if (order.length !== expected) throw new Error(`Order has ${order.length} codes instead of ${expected}`);
@@ -71,6 +79,14 @@ jobs:
             if (!Array.isArray(unit.mistakes) || unit.mistakes.length < 3) throw new Error(`${code}: fewer than 3 misconceptions`);
             if (!Array.isArray(unit.quick) || unit.quick.length < 4) throw new Error(`${code}: insufficient Quick Check questions`);
             if (!Array.isArray(unit.mastery) || unit.mastery.length < 4) throw new Error(`${code}: insufficient mastery criteria`);
+
+            const topicPath = path.join('year4','maths',unit.slug,'index.html');
+            if (!fs.existsSync(topicPath)) throw new Error(`${code}: topic page not found at ${topicPath}`);
+            const topicHtml = fs.readFileSync(topicPath, 'utf8');
+            if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${code}: curriculum elaboration section missing`);
+            const elaborations = [...topicHtml.matchAll(/<strong>E\d+:<\/strong>/gi)];
+            if (!elaborations.length) throw new Error(`${code}: no curriculum elaborations found in topic page`);
+            elaborationTotal += elaborations.length;
 
             const questions = unit.worksheet || [];
             const core = questions.filter((question) => !question.enrichment);
@@ -102,13 +118,17 @@ jobs:
             }
           }
 
-          console.log('Year 4 Maths content validation passed.');
+          if (elaborationTotal < expected) throw new Error(`Only ${elaborationTotal} elaborations found across ${expected} units`);
+          console.log(`Year 4 Maths content validation passed with ${elaborationTotal} curriculum elaborations preserved for teaching coverage.`);
           NODE
-      - name: Confirm route and slide wiring
+      - name: Confirm additive strand, worldwide and multi-slide wiring
         run: |
           grep -q "year4-maths-data-base.js" pwa-register.js
           grep -q "year4-maths-render.js" pwa-register.js
           grep -q "year4-maths-practice-quick-read.js" pwa-register.js
           grep -q "year4-maths-worksheet-page.js" pwa-register.js
-          grep -q "year4-maths-data-base.js" worksheets/year4/maths/teacher-slides/live.html
+          grep -q "curriculum-strand-coverage.js" pwa-register.js
+          grep -q "year4-maths-slide-strands.js" worksheets/year4/maths/teacher-slides/live.html
           grep -q "Year 4 Maths" worksheets/year4/maths/teacher-slides/live.html
+          grep -q "Worldwide audience" docs/skillr-long-life-curriculum-content-standard.md
+          grep -q "Additive improvement" docs/skillr-long-life-curriculum-content-standard.md
