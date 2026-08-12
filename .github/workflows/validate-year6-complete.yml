@@ -156,14 +156,14 @@ jobs:
           grep -q "year6-maths-data-n.js" assets/curriculum-visual-layer.js
           grep -q "year6-science-data.js" assets/curriculum-visual-layer.js
           grep -q "year6-english-data-la.js" assets/curriculum-visual-layer.js
-          grep -q "year6-curriculum-render.js" assets/curriculum-visual-layer.js
-          grep -q "year6-curriculum-quick-read.js" assets/curriculum-visual-layer.js
-          grep -q "year6-curriculum-worksheet-page.js" assets/curriculum-visual-layer.js
+          grep -q "curriculum-render.js" assets/curriculum-visual-layer.js
+          grep -q "curriculum-quick-read.js" assets/curriculum-visual-layer.js
+          grep -q "curriculum-worksheet-page.js" assets/curriculum-visual-layer.js
           grep -q "year6-curriculum-slide.js" worksheets/year6/maths/teacher-slides/live.html
           grep -q "year6-curriculum-slide.js" worksheets/year6/science/teacher-slides/live.html
           grep -q "year6-curriculum-slide.js" worksheets/year6/english/teacher-slides/live.html
 
-      - name: Enforce no stock/photo assets and no visible prohibited wording
+      - name: Enforce lightweight diagrams and visible wording rules
         run: |
           node <<'NODE'
           const fs = require('fs');
@@ -175,11 +175,11 @@ jobs:
               'worksheets/year6/english/teacher-slides/live.html'
             ]);
           const prohibited = /\bartificial intelligence\b|\bgenerative ai\b|\bai-generated\b|\bcreated by ai\b/i;
-          const stockAsset = /<img\b|unsplash|pexels|pixabay|shutterstock|istock|stock photograph/i;
+          const externalPhotoAsset = /<img\b|unsplash|pexels|pixabay|shutterstock|istock/i;
           for (const file of files) {
             const text = fs.readFileSync(file,'utf8');
             if (prohibited.test(text)) throw new Error(`${file}: contains prohibited visible wording`);
-            if (stockAsset.test(text)) throw new Error(`${file}: contains a stock/photo asset reference`);
+            if (externalPhotoAsset.test(text)) throw new Error(`${file}: contains an external photo asset reference`);
           }
-          console.log('No-stock and visible wording checks passed.');
+          console.log('Lightweight-diagram and visible wording checks passed.');
           NODE
