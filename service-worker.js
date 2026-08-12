@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v6";
-const STATIC_CACHE_NAME = "skillrhub-static-v4";
+const CACHE_NAME = "skillrhub-pwa-v7";
+const STATIC_CACHE_NAME = "skillrhub-static-v5";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -78,8 +78,7 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Quiz interaction scripts must not be served stale. A stale quiz loader can
-  // leave every control unusable even after the source has been hotfixed.
+  // Quiz interaction and live question-bank scripts must not be served stale.
   if (
     url.origin === self.location.origin &&
     request.destination === "script" &&
@@ -89,6 +88,7 @@ self.addEventListener("fetch", (event) => {
       url.pathname === "/assets/foundation-maths-practice-quick-read.js" ||
       url.pathname === "/quiz/assets/foundation-maths-rebuild.js" ||
       url.pathname === "/quiz/assets/daily-drills/foundation-rebuild-extensions.js" ||
+      url.pathname === "/quiz/assets/daily-drills/science-master-questions.js" ||
       url.pathname.endsWith("/questions.js")
     )
   ) {
