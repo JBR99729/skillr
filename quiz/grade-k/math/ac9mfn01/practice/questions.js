@@ -4,152 +4,169 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-001",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the art table: Choose the numeral that shows 3 paint brushes.",
-    "explanation": "The numeral 3 represents a collection of 3.",
+    "skill": "count arranged objects",
+    "question": "Count the dots: ● ● ● ●",
+    "explanation": "Touch each dot once: 1, 2, 3, 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
-      "5",
       "3",
-      "4"
+      "4",
+      "5",
+      "6"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-002",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "In the reading corner: A tray has 10 shells. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 10.",
+    "skill": "count scattered objects",
+    "question": "Count the scattered stars: ★   ★ ★    ★  ★",
+    "explanation": "Count each star once. There are 5.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "10",
-      "$10"
+    "type": "single",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
     ],
-    "correct": "10"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-003",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During pack-up time: Two number cards show 17 and 0. Which card has the smaller number?",
-    "explanation": "0 comes before 17 when counting.",
+    "skill": "subitise 3",
+    "question": "How many dots can you see without counting one by one?  ⚫ ⚫ ⚫",
+    "explanation": "Three dots make a familiar group of 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
-      "17",
-      "1",
-      "18"
+      "2",
+      "3",
+      "4",
+      "5"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-004",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the block shelf: Complete this counting path: 3, 4, ___, 6.",
-    "explanation": "Count forward by ones: 3, 4, 5, 6.",
+    "skill": "subitise 5",
+    "question": "How many dots are on this die face?  ⚫ ⚫ / ⚫ / ⚫ ⚫",
+    "explanation": "The four corner dots and the middle dot make 5.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
+      "4",
       "5",
-      "$5"
+      "6",
+      "7"
     ],
-    "correct": "5"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-005",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the classroom door: A number line stops at 10. Which number is immediately before 10?",
-    "explanation": "9 is one less than 10.",
+    "skill": "empty collection",
+    "question": "The plate has no counters on it. Which numeral matches the plate?",
+    "explanation": "Zero tells us there are none.",
     "printable": true,
     "type": "single",
     "answers": [
-      "10",
-      "8",
-      "11",
-      "9"
+      "0",
+      "1",
+      "2",
+      "10"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-006",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the puzzle table: Write the number that comes straight after 17.",
-    "explanation": "Counting on one from 17 gives 18.",
+    "skill": "zero after removal",
+    "question": "There were 4 blocks. All 4 were put away. How many blocks are left?",
+    "explanation": "When every block is removed, 0 remain.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "18",
-      "$18"
+    "type": "single",
+    "answers": [
+      "0",
+      "1",
+      "4",
+      "8"
     ],
-    "correct": "18"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-007",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During fruit break: Put these number cards from smallest to largest: 14, 3, 8.",
-    "explanation": "1 mark for the order 3, 8, 14.",
+    "skill": "numeral to quantity",
+    "question": "The card says 6. Which collection matches it?",
+    "explanation": "The matching collection contains 6 counters.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3, 8, 14",
-      "3",
-      "$3"
+    "type": "single",
+    "answers": [
+      "● ● ● ● ●",
+      "● ● ● ● ● ●",
+      "● ● ● ● ● ● ●",
+      "● ● ●"
     ],
-    "correct": "3, 8, 14"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-008",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "In the school garden: Find the number between 12 and 14.",
-    "explanation": "12, 13, 14 are consecutive numbers.",
+    "skill": "quantity to numeral",
+    "question": "Which numeral matches this collection? ▲ ▲ ▲ ▲ ▲ ▲ ▲",
+    "explanation": "Counting the triangles gives 7.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "12",
-      "15",
-      "13"
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-009",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the paint station: Which number is greater: 2 or 5?",
-    "explanation": "5 is farther along the counting sequence.",
+    "skill": "number name to numeral",
+    "question": "Which numeral says “nine”?",
+    "explanation": "The written number name nine matches the numeral 9.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "2",
-      "They are equal",
-      "Zero"
+      "6",
+      "7",
+      "9",
+      "19"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-010",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Beside the book tubs: From the cards 8, 10, 7, 9, which number should be first when ordering from least to greatest?",
-    "explanation": "7 is the smallest number.",
+    "skill": "numeral discrimination",
+    "question": "Point to fourteen.",
+    "explanation": "Fourteen is written 14: one ten and four ones.",
     "printable": true,
     "type": "single",
     "answers": [
-      "10",
-      "7",
-      "8",
-      "9"
+      "4",
+      "14",
+      "41",
+      "15"
     ],
     "correct": 1
   },
@@ -157,15 +174,16 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-011",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the construction mat: Choose the numeral that shows 10 crayons.",
-    "explanation": "The numeral 10 represents a collection of 10.",
+    "skill": "teen structure 11",
+    "question": "A full ten-frame and 1 extra counter show which number?",
+    "explanation": "Ten and 1 more make 11.",
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
       "10",
       "11",
-      "9"
+      "12",
+      "21"
     ],
     "correct": 1
   },
@@ -173,59 +191,67 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-012",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During morning routine: A tray has 17 spoons. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 17.",
+    "skill": "teen structure 12",
+    "question": "A bundle of 10 sticks and 2 single sticks show which number?",
+    "explanation": "One ten and 2 ones make 12.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "17",
-      "$17"
+    "type": "single",
+    "answers": [
+      "2",
+      "10",
+      "12",
+      "20"
     ],
-    "correct": "17"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-013",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the maths table: Two number cards show 3 and 7. Which card has the smaller number?",
-    "explanation": "3 comes before 7 when counting.",
+    "skill": "teen structure 13",
+    "question": "Which description shows 13?",
+    "explanation": "Thirteen is 10 and 3 more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
-      "4",
-      "8",
-      "3"
+      "1 ten and 3 ones",
+      "3 tens and 1 one",
+      "10 and 13 more",
+      "3 ones only"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-014",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the bag hooks: Complete this counting path: 10, 11, ___, 13.",
-    "explanation": "Count forward by ones: 10, 11, 12, 13.",
+    "skill": "teen structure 15",
+    "question": "A ten-frame is full. Five counters sit beside it. How many counters altogether?",
+    "explanation": "Ten plus 5 more is 15.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "12",
-      "$12"
+    "type": "single",
+    "answers": [
+      "5",
+      "10",
+      "15",
+      "20"
     ],
-    "correct": "12"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-015",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the water-play tub: A number line stops at 17. Which number is immediately before 17?",
-    "explanation": "16 is one less than 17.",
+    "skill": "teen structure 18",
+    "question": "Which picture description represents 18?",
+    "explanation": "Eighteen is one ten and 8 ones.",
     "printable": true,
     "type": "single",
     "answers": [
-      "18",
-      "16",
-      "17",
-      "15"
+      "8 counters",
+      "1 full ten-frame and 8 more",
+      "1 full ten-frame and 6 more",
+      "2 full ten-frames"
     ],
     "correct": 1
   },
@@ -233,152 +259,169 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-016",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "On the playground: Write the number that comes straight after 3.",
-    "explanation": "Counting on one from 3 gives 4.",
+    "skill": "distinguish 16 and 61",
+    "question": "Mia made 1 group of ten and 6 extra blocks. Which numeral should she choose?",
+    "explanation": "One ten and 6 ones is 16, not 61.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "4",
-      "$4"
+    "type": "single",
+    "answers": [
+      "6",
+      "16",
+      "61",
+      "10"
     ],
-    "correct": "4"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-017",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the craft shelf: Put these number cards from smallest to largest: 15, 0, 10.",
-    "explanation": "1 mark for the order 0, 10, 15.",
+    "skill": "represent 20",
+    "question": "Which model shows 20?",
+    "explanation": "Two groups of 10 make 20.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "0, 10, 15",
-      "0",
-      "$0"
+    "type": "single",
+    "answers": [
+      "1 full ten-frame",
+      "2 full ten-frames",
+      "1 full ten-frame and 2 more",
+      "2 counters"
     ],
-    "correct": "0, 10, 15"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-018",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During story time: Find the number between 1 and 3.",
-    "explanation": "1, 2, 3 are consecutive numbers.",
+    "skill": "same quantity different objects",
+    "question": "Five shells and five buttons are shown. Which statement is true?",
+    "explanation": "The kind of object does not change the number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "1",
-      "4",
-      "2"
+      "There are more shells",
+      "There are more buttons",
+      "Both groups have 5",
+      "Objects cannot be counted"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-019",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the sand tray: Which number is greater: 9 or 12?",
-    "explanation": "12 is farther along the counting sequence.",
+    "skill": "conservation spacing",
+    "question": "One row has 8 close counters. Another row has the same 8 counters spread out. Which row has more?",
+    "explanation": "Moving counters apart does not change how many there are.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Zero",
-      "12",
-      "9",
-      "They are equal"
+      "The close row",
+      "The spread row",
+      "Both have 8",
+      "We cannot tell"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-020",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the class calendar: From the cards 15, 17, 14, 16, which number should be first when ordering from least to greatest?",
-    "explanation": "14 is the smallest number.",
+    "skill": "conservation arrangement",
+    "question": "Six counters are changed from a line into a circle without adding or removing any. How many are there now?",
+    "explanation": "Rearranging a collection keeps the same quantity.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "15",
-      "16",
-      "17"
+      "5",
+      "6",
+      "7",
+      "12"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-021",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the toy kitchen: Choose the numeral that shows 17 teddy bears.",
-    "explanation": "The numeral 17 represents a collection of 17.",
+    "skill": "one more concrete",
+    "question": "There are 7 cubes. Add 1 cube. How many cubes are there now?",
+    "explanation": "One more than 7 is 8.",
     "printable": true,
     "type": "single",
     "answers": [
-      "18",
-      "16",
-      "19",
-      "17"
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-022",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During tidy-up time: A tray has 3 marbles. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 3.",
+    "skill": "one more at ten",
+    "question": "A ten-frame is full. Add 1 counter. Which number is shown?",
+    "explanation": "One more than 10 is 11.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3",
-      "$3"
+    "type": "single",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
     ],
-    "correct": "3"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-023",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the number wall: Two number cards show 10 and 14. Which card has the smaller number?",
-    "explanation": "10 comes before 14 when counting.",
+    "skill": "one more teen",
+    "question": "Leo has 18 counters and receives 1 more. How many does he have?",
+    "explanation": "Count on once from 18 to 19.",
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "11",
-      "15",
-      "10"
+      "17",
+      "18",
+      "19",
+      "20"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-024",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the window: Complete this counting path: 17, 18, ___, 20.",
-    "explanation": "Count forward by ones: 17, 18, 19, 20.",
+    "skill": "one less concrete",
+    "question": "There are 9 toy cars. Put 1 away. How many remain?",
+    "explanation": "One less than 9 is 8.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "19",
-      "$19"
+    "type": "single",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
     ],
-    "correct": "19"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-025",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the science table: A number line stops at 3. Which number is immediately before 3?",
-    "explanation": "2 is one less than 3.",
+    "skill": "one less from ten",
+    "question": "A full ten-frame loses 1 counter. How many counters remain?",
+    "explanation": "One less than 10 is 9.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
-      "2",
-      "3",
-      "1"
+      "8",
+      "9",
+      "10",
+      "11"
     ],
     "correct": 1
   },
@@ -386,60 +429,67 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-026",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During a class walk: Write the number that comes straight after 10.",
-    "explanation": "Counting on one from 10 gives 11.",
+    "skill": "one less teen",
+    "question": "Which number is one less than 17?",
+    "explanation": "Count back once from 17 to 16.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "11",
-      "$11"
+    "type": "single",
+    "answers": [
+      "16",
+      "17",
+      "18",
+      "7"
     ],
-    "correct": "11"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-027",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the music corner: Put these number cards from smallest to largest: 17, 1, 7.",
-    "explanation": "1 mark for the order 1, 7, 17.",
+    "skill": "before zero boundary",
+    "question": "Which number comes immediately before 1?",
+    "explanation": "The counting order begins 0, 1, 2.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "1, 7, 17",
+    "type": "single",
+    "answers": [
+      "0",
       "1",
-      "$1"
+      "2",
+      "10"
     ],
-    "correct": "1, 7, 17"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-028",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "On the carpet: Find the number between 5 and 7.",
-    "explanation": "5, 6, 7 are consecutive numbers.",
+    "skill": "after number",
+    "question": "Which number comes immediately after 12?",
+    "explanation": "Count forward once from 12 to 13.",
     "printable": true,
     "type": "single",
     "answers": [
-      "8",
-      "6",
-      "7",
-      "5"
+      "11",
+      "12",
+      "13",
+      "14"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-029",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the game shelf: Which number is greater: 16 or 19?",
-    "explanation": "19 is farther along the counting sequence.",
+    "skill": "between numbers",
+    "question": "Which number belongs between 14 and 16?",
+    "explanation": "The order is 14, 15, 16.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They are equal",
-      "Zero",
-      "19",
-      "16"
+      "13",
+      "14",
+      "15",
+      "17"
     ],
     "correct": 2
   },
@@ -447,168 +497,186 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-030",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During lunch: From the cards 5, 7, 4, 6, which number should be first when ordering from least to greatest?",
-    "explanation": "4 is the smallest number.",
+    "skill": "missing start",
+    "question": "Which number is missing? ___, 6, 7",
+    "explanation": "The number immediately before 6 is 5.",
     "printable": true,
     "type": "single",
     "answers": [
+      "4",
+      "5",
       "6",
-      "7",
-      "4",
-      "5"
-    ],
-    "correct": 2
-  },
-  {
-    "id": "ac9mfn01-p-031",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "question": "At the whiteboard: Choose the numeral that shows 3 feathers.",
-    "explanation": "The numeral 3 represents a collection of 3.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "5",
-      "3",
-      "4",
-      "2"
-    ],
-    "correct": 1
-  },
-  {
-    "id": "ac9mfn01-p-032",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "question": "Near the pencil pots: A tray has 10 coins. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 10.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "10",
-      "$10"
-    ],
-    "correct": "10"
-  },
-  {
-    "id": "ac9mfn01-p-033",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "question": "At the collage table: Two number cards show 17 and 0. Which card has the smaller number?",
-    "explanation": "0 comes before 17 when counting.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "1",
-      "18",
-      "0",
-      "17"
-    ],
-    "correct": 2
-  },
-  {
-    "id": "ac9mfn01-p-034",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "question": "During a partner task: Complete this counting path: 3, 4, ___, 6.",
-    "explanation": "Count forward by ones: 3, 4, 5, 6.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "ac9mfn01-p-035",
-    "curriculumCode": "AC9MFN01",
-    "bank": "practice",
-    "question": "At the dress-up corner: A number line stops at 10. Which number is immediately before 10?",
-    "explanation": "9 is one less than 10.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "11",
-      "9",
-      "10",
       "8"
     ],
     "correct": 1
   },
   {
+    "id": "ac9mfn01-p-031",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "missing end",
+    "question": "Which number is missing? 17, 18, ___",
+    "explanation": "Count forward: 17, 18, 19.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "16",
+      "18",
+      "19",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-p-032",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "missing internal sequence",
+    "question": "Complete the count: 8, 9, ___, 11, 12",
+    "explanation": "Ten comes between 9 and 11.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "7",
+      "9",
+      "10",
+      "13"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-p-033",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "count backward",
+    "question": "Which list counts backwards correctly from 5?",
+    "explanation": "Counting backwards makes each number one less.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "5, 4, 3, 2",
+      "5, 6, 7, 8",
+      "2, 3, 4, 5",
+      "5, 3, 4, 2"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ac9mfn01-p-034",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "compare quantities",
+    "question": "One plate has 6 grapes. Another has 9 grapes. Which plate has more?",
+    "explanation": "Nine is greater than 6.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "The plate with 6",
+      "The plate with 9",
+      "They are equal",
+      "Neither plate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-p-035",
+    "curriculumCode": "AC9MFN01",
+    "bank": "practice",
+    "skill": "compare numerals",
+    "question": "Which number is smaller: 13 or 18?",
+    "explanation": "Thirteen comes before 18.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "13",
+      "18",
+      "They are equal",
+      "20"
+    ],
+    "correct": 0
+  },
+  {
     "id": "ac9mfn01-p-036",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the class library: Write the number that comes straight after 17.",
-    "explanation": "Counting on one from 17 gives 18.",
+    "skill": "equal quantities",
+    "question": "A box has 7 red blocks and 7 blue blocks. Which group has fewer?",
+    "explanation": "Both groups contain 7.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "18",
-      "$18"
+    "type": "single",
+    "answers": [
+      "Red blocks",
+      "Blue blocks",
+      "Neither; they are equal",
+      "Both are zero"
     ],
-    "correct": "18"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-037",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the counting tray: Put these number cards from smallest to largest: 14, 3, 8.",
-    "explanation": "1 mark for the order 3, 8, 14.",
+    "skill": "order consecutive numbers",
+    "question": "Which order goes from smallest to largest?",
+    "explanation": "Counting order is 4, 5, 6.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3, 8, 14",
-      "3",
-      "$3"
+    "type": "single",
+    "answers": [
+      "6, 5, 4",
+      "4, 5, 6",
+      "5, 4, 6",
+      "6, 4, 5"
     ],
-    "correct": "3, 8, 14"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-038",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During an outdoor lesson: Find the number between 12 and 14.",
-    "explanation": "12, 13, 14 are consecutive numbers.",
+    "skill": "order nonconsecutive numbers",
+    "question": "Put 2, 11 and 7 in order from smallest to largest.",
+    "explanation": "Two comes first, then 7, then 11.",
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
-      "13",
-      "14",
-      "12"
+      "2, 7, 11",
+      "11, 7, 2",
+      "7, 2, 11",
+      "2, 11, 7"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-039",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the drawing table: Which number is greater: 2 or 5?",
-    "explanation": "5 is farther along the counting sequence.",
+    "skill": "order including zero",
+    "question": "Which list is ordered from smallest to largest?",
+    "explanation": "Zero is smallest, followed by 2 and 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "They are equal",
-      "Zero",
-      "5",
-      "2"
+      "5, 2, 0",
+      "0, 2, 5",
+      "2, 0, 5",
+      "0, 5, 2"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-040",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the timetable: From the cards 8, 10, 7, 9, which number should be first when ordering from least to greatest?",
-    "explanation": "7 is the smallest number.",
+    "skill": "greatest of set",
+    "question": "Which is the greatest number: 9, 19, 16, 6?",
+    "explanation": "Nineteen is farthest along the count.",
     "printable": true,
     "type": "single",
     "answers": [
-      "8",
+      "6",
       "9",
-      "10",
-      "7"
+      "16",
+      "19"
     ],
     "correct": 3
   },
@@ -616,186 +684,220 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-041",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the sorting station: Choose the numeral that shows 10 bags.",
-    "explanation": "The numeral 10 represents a collection of 10.",
+    "skill": "least of set",
+    "question": "Which is the least number: 12, 4, 20, 8?",
+    "explanation": "Four comes before the other numbers.",
     "printable": true,
     "type": "single",
     "answers": [
-      "9",
+      "4",
+      "8",
       "12",
-      "10",
-      "11"
+      "20"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-042",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During a small-group activity: A tray has 17 boxes. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 17.",
+    "skill": "number line location",
+    "question": "A number line shows 10, 11, □, 13. What belongs in the box?",
+    "explanation": "Twelve lies between 11 and 13.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "17",
-      "$17"
+    "type": "single",
+    "answers": [
+      "9",
+      "11",
+      "12",
+      "14"
     ],
-    "correct": "17"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-043",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the building area: Two number cards show 3 and 7. Which card has the smaller number?",
-    "explanation": "3 comes before 7 when counting.",
+    "skill": "number line one jump forward",
+    "question": "Start at 15 on a number line and make 1 jump forward. Where do you land?",
+    "explanation": "One forward jump lands on 16.",
     "printable": true,
     "type": "single",
     "answers": [
-      "8",
-      "3",
-      "7",
-      "4"
+      "14",
+      "15",
+      "16",
+      "17"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-044",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the class clock: Complete this counting path: 10, 11, ___, 13.",
-    "explanation": "Count forward by ones: 10, 11, 12, 13.",
+    "skill": "number line one jump back",
+    "question": "Start at 8 and make 1 jump back. Where do you land?",
+    "explanation": "One backward jump lands on 7.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "12",
-      "$12"
+    "type": "single",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "9"
     ],
-    "correct": "12"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-045",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the playdough table: A number line stops at 17. Which number is immediately before 17?",
-    "explanation": "16 is one less than 17.",
+    "skill": "number line relative position",
+    "question": "On a number line, which number is to the right of 17?",
+    "explanation": "Numbers increase as we move right.",
     "printable": true,
     "type": "single",
     "answers": [
+      "16",
       "17",
-      "15",
       "18",
-      "16"
+      "7"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-046",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During a movement break: Write the number that comes straight after 3.",
-    "explanation": "Counting on one from 3 gives 4.",
+    "skill": "first ordinal",
+    "question": "Four children line up: Ava, Ben, Chen, Dia. Who is first?",
+    "explanation": "Ava is at the front of the listed line.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "4",
-      "$4"
+    "type": "single",
+    "answers": [
+      "Ava",
+      "Ben",
+      "Chen",
+      "Dia"
     ],
-    "correct": "4"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-047",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the shape basket: Put these number cards from smallest to largest: 15, 0, 10.",
-    "explanation": "1 mark for the order 0, 10, 15.",
+    "skill": "second ordinal",
+    "question": "Four toy animals are in a row: cat, dog, duck, koala. Which is second?",
+    "explanation": "Dog comes after cat, so it is second.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "0, 10, 15",
-      "0",
-      "$0"
+    "type": "single",
+    "answers": [
+      "cat",
+      "dog",
+      "duck",
+      "koala"
     ],
-    "correct": "0, 10, 15"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-048",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the cubbies: Find the number between 1 and 3.",
-    "explanation": "1, 2, 3 are consecutive numbers.",
+    "skill": "third ordinal",
+    "question": "The cards are 3, 8, 12, 19 from left to right. Which card is third?",
+    "explanation": "The third card from the left is 12.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "2",
-      "$2"
+    "type": "single",
+    "answers": [
+      "3",
+      "8",
+      "12",
+      "19"
     ],
-    "correct": "2"
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-049",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the sticker station: Sam says 9 should come after 12 on a 0-to-20 number line. Is Sam correct? Explain.",
-    "explanation": "2 marks: 1 for 'No'; 1 for explaining that 9 is smaller/comes before 12.",
+    "skill": "last position",
+    "question": "Five runners are named Ali, Bea, Cal, Dev, Eli in finishing order. Who finished last?",
+    "explanation": "Eli is fifth and last in the given order.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "No. 9 comes before 12. 2 marks: 1 for 'No'; 1 for explaining that 9 is smaller/comes before 12.",
-    "correct": "No. 9 comes before 12."
+    "type": "single",
+    "answers": [
+      "Ali",
+      "Bea",
+      "Dev",
+      "Eli"
+    ],
+    "correct": 3
   },
   {
     "id": "ac9mfn01-p-050",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During a class discussion: Four cards show 15, 17, 14 and 16. Explain how you would arrange them in order.",
-    "explanation": "2 marks: 1 for the correct order 14, 15, 16, 17; 1 for saying they increase by 1/count forward.",
+    "skill": "position language before",
+    "question": "In the row 4, 5, 6, which number is just before 6?",
+    "explanation": "Five is immediately before 6.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "14, 15, 16, 17 2 marks: 1 for the correct order 14, 15, 16, 17; 1 for saying they increase by 1/count forward.",
-    "correct": "14, 15, 16, 17"
+    "type": "single",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-051",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the bead tray: Choose the numeral that shows 17 brushes.",
-    "explanation": "The numeral 17 represents a collection of 17.",
+    "skill": "position language after",
+    "question": "In the row 11, 12, 13, which number is just after 11?",
+    "explanation": "Twelve is immediately after 11.",
     "printable": true,
     "type": "single",
     "answers": [
-      "19",
-      "17",
-      "18",
-      "16"
+      "10",
+      "11",
+      "12",
+      "13"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "id": "ac9mfn01-p-052",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the display board: A tray has 3 puzzles. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 3.",
+    "skill": "match two representations",
+    "question": "Which pair shows the same number?",
+    "explanation": "The numeral 7 matches seven dots.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3",
-      "$3"
+    "type": "single",
+    "answers": [
+      "7 and ●●●●●●●",
+      "6 and ●●●●●",
+      "8 and ●●●●●●",
+      "9 and ●●●●●●●●"
     ],
-    "correct": "3"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-053",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the pattern table: Two number cards show 10 and 14. Which card has the smaller number?",
-    "explanation": "10 comes before 14 when counting.",
+    "skill": "detect counting error",
+    "question": "Sam counts five counters: “1, 2, 3, 5, 6.” What did Sam forget?",
+    "explanation": "The stable counting sequence goes 1, 2, 3, 4, 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
-      "10",
-      "14",
-      "11"
+      "The number 0",
+      "The number 4",
+      "The number 5",
+      "The number 7"
     ],
     "correct": 1
   },
@@ -803,43 +905,51 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn01-p-054",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "During a teacher demonstration: Complete this counting path: 17, 18, ___, 20.",
-    "explanation": "Count forward by ones: 17, 18, 19, 20.",
+    "skill": "one-to-one counting",
+    "question": "What is the best way to count a group of counters accurately?",
+    "explanation": "Touching each object once supports one-to-one counting.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "19",
-      "$19"
+    "type": "single",
+    "answers": [
+      "Touch each counter once",
+      "Say numbers as fast as possible",
+      "Count one counter twice",
+      "Guess from the space used"
     ],
-    "correct": "19"
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-055",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "At the number-card station: A number line stops at 3. State which number is immediately before 3?",
-    "explanation": "2 is one less than 3.",
+    "skill": "cardinality",
+    "question": "Nina counts “1, 2, 3, 4, 5, 6.” What does the last number tell her?",
+    "explanation": "The final count word tells how many are in the whole collection.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "2",
-      "$2"
+    "type": "single",
+    "answers": [
+      "The colour",
+      "There are 6 altogether",
+      "The first object",
+      "There are 5 altogether"
     ],
-    "correct": "2"
+    "correct": 1
   },
   {
     "id": "ac9mfn01-p-056",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
-    "question": "Near the sink: Write the number that comes straight after 10.",
-    "explanation": "Counting on one from 10 gives 11.",
+    "skill": "reasoning false claim",
+    "question": "Kai says 14 is smaller than 9 because the digit 1 is small. Which answer corrects Kai?",
+    "explanation": "Fourteen comes after 9 and represents a larger quantity.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "11",
-      "$11"
+    "type": "single",
+    "answers": [
+      "Kai is right",
+      "14 is greater than 9",
+      "14 and 9 are equal",
+      "Digits cannot show numbers"
     ],
-    "correct": "11"
+    "correct": 1
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
