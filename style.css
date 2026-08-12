@@ -1091,15 +1091,15 @@ textarea {
 }
 
 .learning-pathway {
-    margin: 20px 0 24px;
-    padding: 20px;
+    margin: 8px 0 12px;
+    padding: 12px;
     border: 1px solid #c7d2fe;
     border-radius: 12px;
     background: #eef2ff;
 }
 
 .learning-pathway__heading {
-    margin-bottom: 16px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -1121,7 +1121,7 @@ textarea {
 .learning-pathway__steps {
     display: grid;
     grid-template-columns: repeat(7, minmax(0, 1fr));
-    gap: 20px;
+    gap: 12px;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -1130,7 +1130,7 @@ textarea {
 .learning-pathway__steps li {
     position: relative;
     display: grid;
-    gap: 8px;
+    gap: 4px;
     min-width: 0;
     justify-items: center;
     color: #334155;
@@ -1139,8 +1139,8 @@ textarea {
 
 .learning-pathway__steps li:not(:last-child)::after {
     position: absolute;
-    top: 23px;
-    left: calc(50% + 30px);
+    top: 19px;
+    left: calc(50% + 26px);
     width: calc(100% - 40px);
     height: 2px;
     background: #a5b4fc;
@@ -1150,8 +1150,8 @@ textarea {
 .learning-pathway__steps li:not(:last-child)::before {
     position: absolute;
     z-index: 1;
-    top: 19px;
-    right: -12px;
+    top: 15px;
+    right: -8px;
     width: 8px;
     height: 8px;
     border-top: 2px solid #6366f1;
@@ -1164,8 +1164,8 @@ textarea {
     position: relative;
     z-index: 2;
     display: grid;
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     place-items: center;
     border: 2px solid #a5b4fc;
     border-radius: 50%;
@@ -1194,7 +1194,7 @@ textarea {
 }
 
 .learning-pathway__note {
-    margin: 16px 0 0;
+    margin: 8px 0 0;
     color: #475569;
     font-size: 0.75rem;
     font-weight: 700;
@@ -1204,7 +1204,7 @@ textarea {
 @media (max-width: 920px) {
     .learning-pathway__steps {
         grid-template-columns: repeat(4, minmax(0, 1fr));
-        row-gap: 24px;
+        row-gap: 16px;
     }
 
     .learning-pathway__steps li:nth-child(4)::after,
@@ -1215,7 +1215,7 @@ textarea {
 
 @media (max-width: 560px) {
     .learning-pathway {
-        padding: 16px;
+        padding: 12px;
     }
 
     .learning-pathway__heading {
@@ -1230,7 +1230,7 @@ textarea {
     .learning-pathway__steps li {
         grid-template-columns: 40px minmax(0, 1fr);
         gap: 12px;
-        min-height: 64px;
+        min-height: 52px;
         align-items: start;
         justify-items: start;
         text-align: left;
@@ -1246,7 +1246,7 @@ textarea {
         top: 40px;
         left: 19px;
         width: 2px;
-        height: 24px;
+        height: 12px;
     }
 
     .learning-pathway__steps li:not(:last-child)::before {
@@ -2768,9 +2768,9 @@ footer {
     grid-template-columns: 40px minmax(0, 1fr) auto;
     gap: 12px;
     max-width: 760px;
-    min-height: 64px;
-    margin: 16px auto 0;
-    padding: 12px 16px;
+    min-height: 56px;
+    margin: 10px auto 0;
+    padding: 8px 12px;
     align-items: center;
     border: 1px solid #bfdbfe;
     border-left: 4px solid #2563eb;
@@ -2825,7 +2825,7 @@ footer {
 @media (max-width: 600px) {
     .learning-pathway__dashboard {
         grid-template-columns: 32px minmax(0, 1fr);
-        padding: 12px;
+        padding: 8px 10px;
     }
 
     .learning-pathway__dashboard-action {
