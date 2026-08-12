@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v11";
-const STATIC_CACHE_NAME = "skillrhub-static-v9";
+const CACHE_NAME = "skillrhub-pwa-v12";
+const STATIC_CACHE_NAME = "skillrhub-static-v10";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -24,7 +24,6 @@ self.addEventListener("install", (event) => {
       );
     })
   );
-
   self.skipWaiting();
 });
 
@@ -40,17 +39,12 @@ self.addEventListener("activate", (event) => {
       })
     )
   );
-
   self.clients.claim();
 });
 
 self.addEventListener("fetch", (event) => {
   const request = event.request;
-
-  if (request.method !== "GET") {
-    return;
-  }
-
+  if (request.method !== "GET") return;
   const url = new URL(request.url);
 
   if (request.destination === "manifest" || url.pathname.endsWith("/manifest.webmanifest")) {
@@ -67,23 +61,20 @@ self.addEventListener("fetch", (event) => {
   }
 
   // Teacher slides are live-display resources: always require the network and never serve a cached slide page.
-  if (
-    request.mode === "navigate" &&
-    url.origin === self.location.origin &&
-    url.pathname.includes("/teacher-slides/")
-  ) {
-    event.respondWith(
-      fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html"))
-    );
+  if (request.mode === "navigate" && url.origin === self.location.origin && url.pathname.includes("/teacher-slides/")) {
+    event.respondWith(fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html")));
     return;
   }
 
-  // Quiz interaction and live question-bank scripts must not be served stale.
+  // Live loaders, question banks and active curriculum releases must not be served stale.
   if (
     url.origin === self.location.origin &&
     request.destination === "script" &&
     (
       url.pathname === "/pwa-register.js" ||
+      url.pathname === "/assets/display-only.js" ||
+      url.pathname === "/assets/year7-router.js" ||
+      url.pathname.startsWith("/assets/year7-") ||
       url.pathname === "/quiz/assets/script.js" ||
       url.pathname === "/assets/qa-complete-badges.js" ||
       url.pathname === "/assets/foundation-maths-practice-quick-read.js" ||
@@ -100,9 +91,7 @@ self.addEventListener("fetch", (event) => {
     event.respondWith(
       fetch(request, { cache: "no-store" })
         .then((response) => {
-          if (response && response.ok) {
-            caches.open(STATIC_CACHE_NAME).then((cache) => cache.put(request, response.clone()));
-          }
+          if (response && response.ok) caches.open(STATIC_CACHE_NAME).then((cache) => cache.put(request, response.clone()));
           return response;
         })
         .catch(() => caches.match(request))
@@ -110,38 +99,23 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Stale-while-revalidate for same-origin static assets to improve repeat-load UX.
-  if (
-    url.origin === self.location.origin &&
-    ["style", "script", "image", "font"].includes(request.destination)
-  ) {
+  if (url.origin === self.location.origin && ["style", "script", "image", "font"].includes(request.destination)) {
     event.respondWith(
       caches.open(STATIC_CACHE_NAME).then(async (cache) => {
         const cached = await cache.match(request);
         const networkFetch = fetch(request)
           .then((response) => {
-            if (response && response.ok) {
-              cache.put(request, response.clone());
-            }
+            if (response && response.ok) cache.put(request, response.clone());
             return response;
           })
           .catch(() => cached);
-
         return cached || networkFetch;
       })
     );
     return;
   }
 
-  /*
-   * Online-first PWA.
-   * Only page navigation receives an offline fallback.
-   * Quiz pages, Google Analytics and AdSense are not cached
-   * for offline use by this service worker.
-   */
   if (request.mode === "navigate") {
-    event.respondWith(
-      fetch(request).catch(() => caches.match("/offline.html"))
-    );
+    event.respondWith(fetch(request).catch(() => caches.match("/offline.html")));
   }
 });
