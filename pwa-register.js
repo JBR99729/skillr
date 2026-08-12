@@ -2,9 +2,13 @@
   "use strict";
 
   const path = window.location.pathname;
+  const foundationMathsPractice = /^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/practice\/?$/i.test(path);
   const foundationSciencePractice = /^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/practice\/?$/i.test(path);
   const foundationScienceWorksheet = /^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i.test(path);
   const foundationScienceTopic = /^\/foundation\/science\/ac9s/i.test(path);
+  const foundationEnglishPractice = /^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/practice\/?$/i.test(path);
+  const foundationEnglishWorksheet = /^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const foundationEnglishTopic = /^\/foundation\/english\/ac9ef/i.test(path);
 
   if (!document.querySelector('script[data-skillr-display-only]')) {
     const displayOnlyScript = document.createElement("script");
@@ -27,7 +31,7 @@
     document.head.appendChild(professionalUiScript);
   }
 
-  if (!document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
+  if (foundationMathsPractice && !document.querySelector('script[data-skillr-foundation-maths-quick-read]')) {
     const mathsQuickReadScript = document.createElement("script");
     mathsQuickReadScript.src = "/assets/foundation-maths-practice-quick-read.js?v=4";
     mathsQuickReadScript.dataset.skillrFoundationMathsQuickRead = "true";
@@ -46,6 +50,20 @@
     scienceWorksheetScript.src = "/assets/foundation-science-worksheet-page.js?v=1";
     scienceWorksheetScript.dataset.skillrFoundationScienceWorksheet = "true";
     document.head.appendChild(scienceWorksheetScript);
+  }
+
+  if (foundationEnglishPractice && !document.querySelector('script[data-skillr-foundation-english-quick-read]')) {
+    const englishQuickReadScript = document.createElement("script");
+    englishQuickReadScript.src = "/assets/foundation-english-practice-quick-read.js?v=1";
+    englishQuickReadScript.dataset.skillrFoundationEnglishQuickRead = "true";
+    document.head.appendChild(englishQuickReadScript);
+  }
+
+  if (foundationEnglishWorksheet && !document.querySelector('script[data-skillr-foundation-english-worksheet]')) {
+    const englishWorksheetScript = document.createElement("script");
+    englishWorksheetScript.src = "/assets/foundation-english-worksheet-page.js?v=1";
+    englishWorksheetScript.dataset.skillrFoundationEnglishWorksheet = "true";
+    document.head.appendChild(englishWorksheetScript);
   }
 
   const foundationMathsTopic =
@@ -88,6 +106,23 @@
       document.head.appendChild(script);
     };
     loadScienceScript(0);
+  }
+
+  if (foundationEnglishTopic && !document.querySelector('script[data-skillr-foundation-english-render]')) {
+    const englishScripts = [
+      "/assets/foundation-english-data.js?v=1",
+      "/assets/foundation-english-render.js?v=1"
+    ];
+    const loadEnglishScript = (index) => {
+      if (index >= englishScripts.length) return;
+      const script = document.createElement("script");
+      script.src = englishScripts[index];
+      script.async = false;
+      script.dataset.skillrFoundationEnglishRender = "true";
+      script.addEventListener("load", () => loadEnglishScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+    loadEnglishScript(0);
   }
 
   if (!document.querySelector('script[data-skillr-progress]')) {
