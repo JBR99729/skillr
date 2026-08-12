@@ -33,6 +33,7 @@
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
   loadScript("/assets/curriculum-strand-coverage.js?v=1");
   loadScript("/assets/qa-complete-ribbon.js?v=1");
+  loadSequence(["/assets/skillr-concept-svg.js?v=1","/assets/science-visual-layer.js?v=1","/assets/worksheet-pack-enhancer.js?v=1"]);
 
   const year3MathsData = [
     "/assets/year3-maths-data-base.js?v=1",
