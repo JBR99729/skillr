@@ -740,3 +740,40 @@
     padding: 12px;
   }
 }
+
+
+/* Compact strand overviews to roughly one quarter of their previous footprint. */
+.curriculum-panel:has(> h2[id$="-strands"]) {
+  padding: 8px 10px;
+}
+
+.curriculum-panel:has(> h2[id$="-strands"]) > h2 {
+  margin: 0 0 4px;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.curriculum-panel:has(> h2[id$="-strands"]) .subject-tile-grid {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 4px;
+  margin-top: 4px;
+}
+
+.curriculum-panel:has(> h2[id$="-strands"]) .subject-tile {
+  min-height: 0;
+  padding: 5px 8px;
+  border-radius: 8px;
+}
+
+.curriculum-panel:has(> h2[id$="-strands"]) .subject-tile h2,
+.curriculum-panel:has(> h2[id$="-strands"]) .subject-tile h3 {
+  margin: 0 0 2px;
+  font-size: 0.82rem;
+  line-height: 1.2;
+}
+
+.curriculum-panel:has(> h2[id$="-strands"]) .subject-tile p {
+  margin: 0;
+  font-size: 0.72rem;
+  line-height: 1.25;
+}
