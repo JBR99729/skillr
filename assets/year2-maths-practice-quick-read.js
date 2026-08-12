@@ -43,7 +43,10 @@
       .year2-maths-quick-visuals{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:0 0 9px}
       .year2-maths-quick-visuals figure{margin:0;border:1px solid #d9e5f5;border-radius:12px;background:#fff;padding:7px;overflow:hidden}
       .year2-maths-quick-visuals figcaption{margin-top:4px;color:#173968;font-size:.7rem;font-weight:900;text-transform:uppercase;letter-spacing:.04em}
-      .year2-maths-quick-visuals .math-model-board{padding:0;border:0;background:transparent;margin:0}.year2-maths-quick-visuals p{display:none}.year2-maths-quick-visuals .math-card-row{display:none}.year2-maths-quick-visuals .y2-base-ten{grid-template-columns:repeat(3,1fr);gap:4px;margin:0}.year2-maths-quick-visuals .y2-block{min-height:44px;border-radius:8px}.year2-maths-quick-visuals .y2-block strong{font-size:1rem}.year2-maths-quick-visuals .y2-block span{font-size:.55rem}.year2-maths-quick-visuals .y2-number-line{padding:8px;margin:0;border-radius:9px}.year2-maths-quick-visuals .y2-number-line__labels{font-size:.55rem}.year2-maths-quick-visuals .y2-chart-puzzle{gap:3px;margin:0;padding:5px}.year2-maths-quick-visuals .y2-chart-puzzle span{padding:5px 2px;font-size:.65rem}
+      .year2-maths-quick-visuals .math-model-board{padding:0;border:0;background:transparent;margin:0}.year2-maths-quick-visuals p{display:none}.year2-maths-quick-visuals .math-card-row{display:none}
+      .year2-maths-quick-visuals .y2-base-ten{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;margin:0}.year2-maths-quick-visuals .y2-block{display:grid;place-items:center;min-height:44px;border:1px solid #d8e5f4;border-radius:8px;background:#fff}.year2-maths-quick-visuals .y2-block strong{font-size:1rem;color:#2457d6}.year2-maths-quick-visuals .y2-block span{font-size:.55rem;font-weight:900;color:#49627f;text-transform:uppercase}.year2-maths-quick-visuals .y2-hundreds{background:linear-gradient(90deg,rgba(36,87,214,.08) 1px,transparent 1px),linear-gradient(rgba(36,87,214,.08) 1px,transparent 1px),#fff;background-size:8px 8px}.year2-maths-quick-visuals .y2-tens{background:repeating-linear-gradient(90deg,#fff 0 7px,#edf5ff 7px 14px)}.year2-maths-quick-visuals .y2-ones{background:radial-gradient(circle at 10px 10px,rgba(36,87,214,.22) 0 3px,transparent 4px),#fff;background-size:20px 20px}
+      .year2-maths-quick-visuals .y2-number-line{padding:8px;margin:0;border:1px solid #d9e5f5;background:#fff;border-radius:9px}.year2-maths-quick-visuals .y2-number-line__rail{position:relative;height:12px;border-bottom:3px solid #173968;margin:0 7px 4px}.year2-maths-quick-visuals .y2-number-line__rail::before,.year2-maths-quick-visuals .y2-number-line__rail::after{content:'';position:absolute;bottom:-6px;width:2px;height:10px;background:#173968}.year2-maths-quick-visuals .y2-number-line__rail::before{left:0}.year2-maths-quick-visuals .y2-number-line__rail::after{right:0}.year2-maths-quick-visuals .y2-number-line__rail span{position:absolute;bottom:-6px;width:12px;height:12px;border-radius:999px;background:#2457d6;transform:translateX(-50%)}.year2-maths-quick-visuals .y2-number-line__labels{display:flex;justify-content:space-between;font-size:.55rem;color:#49627f}
+      .year2-maths-quick-visuals .y2-chart-puzzle{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;margin:0;padding:5px;background:#eef5ff;border:1px solid #d9e5f5;border-radius:9px}.year2-maths-quick-visuals .y2-chart-puzzle span{background:#fff;border:1px solid #d9e5f5;border-radius:7px;text-align:center;padding:5px 2px;font-size:.65rem;font-weight:900;color:#173968}
       #startScreen .quiz-summary{margin:14px 0;gap:8px}
       #startScreen .quiz-summary>div{padding:10px 8px}
       #startScreen .summary-number{font-size:1.25rem}
@@ -51,14 +54,6 @@
       @media(max-width:650px){.year2-maths-quick-visuals{grid-template-columns:1fr}}
     `;
     document.head.appendChild(style);
-  }
-
-  function ensureVisualCssFromTopic() {
-    if (document.getElementById("skillr-year2-maths-css")) return;
-    const script = document.createElement("script");
-    script.src = "/assets/year2-maths-render.js?v=1";
-    script.async = false;
-    document.head.appendChild(script);
   }
 
   function solvedExample(unit) {
@@ -71,7 +66,6 @@
     const card = document.querySelector("#startScreen .start-card");
     if (!unit || !card) return false;
     ensureStyle();
-    ensureVisualCssFromTopic();
 
     const title = card.querySelector("#quizTitle");
     if (title) title.textContent = unit.title;
