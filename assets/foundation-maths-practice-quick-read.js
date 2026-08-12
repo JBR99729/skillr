@@ -49,21 +49,6 @@
     });
   }
 
-  const plain = (value) => String(value || "")
-    .replace(/<br\s*\/?\s*>/gi, " ")
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&rarr;|→/g, " → ")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  function solvedExample(data) {
-    if (data.solved_example) return data.solved_example;
-    const source = plain(data.model_html || data.apply_html || data.quick?.[0] || "");
-    if (!source) return "Work through the model once, say each step aloud, then try the next question.";
-    return source.length > 155 ? `${source.slice(0, 152).trim()}…` : source;
-  }
-
   function installStyles() {
     if (document.getElementById("skillr-maths-quick-read-style")) return;
     const style = document.createElement("style");
@@ -109,7 +94,8 @@
     const elaborationItems = (data.elaborations || []).map((item) => `<strong>${item.label}:</strong> ${item.title} — ${item.check}`);
     const items = [
       `<strong>Core idea:</strong> ${data.learn}`,
-      ...(elaborationItems.length ? elaborationItems : [`<strong>Teaching model:</strong> ${data.model_title}.`, `<strong>Solved example:</strong> ${solvedExample(data)}`, `<strong>Use it:</strong> ${data.apply_title}.`]),
+      ...elaborationItems,
+      !elaborationItems.length && data.quick?.[0] ? `<strong>Check:</strong> ${data.quick[0]}` : null,
       firstMixUp ? `<strong>Common Mix-Up:</strong> ${firstMixUp[0]} — ${firstMixUp[1]}` : null
     ].filter(Boolean);
 
