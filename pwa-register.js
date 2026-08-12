@@ -8,6 +8,26 @@
     document.head.appendChild(displayOnlyScript);
   }
 
+  if (/^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) && !window.SkillrFoundationMaths) {
+    const lessonScripts = [
+      "/assets/foundation-maths-data-number.js?v=1",
+      "/assets/foundation-maths-data-other.js?v=1",
+      "/assets/foundation-maths-render.js?v=1"
+    ];
+
+    const loadLessonScript = (index) => {
+      if (index >= lessonScripts.length) return;
+      const script = document.createElement("script");
+      script.src = lessonScripts[index];
+      script.async = false;
+      script.dataset.skillrFoundationMaths = "true";
+      script.addEventListener("load", () => loadLessonScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+
+    loadLessonScript(0);
+  }
+
   if (!document.querySelector('script[data-skillr-progress]')) {
     const progressScript = document.createElement("script");
     progressScript.src = "/assets/progress-store.js?v=3";
