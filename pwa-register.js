@@ -31,6 +31,7 @@
   loadScript("/assets/display-only.js?v=1");
   loadScript("/assets/foundation-topic-language.js?v=1");
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
+  loadScript("/assets/curriculum-strand-coverage.js?v=1");
 
   const year3MathsData = [
     "/assets/year3-maths-data-base.js?v=1",
@@ -62,16 +63,16 @@
   ];
 
   const year4MathsData = [
-    "/assets/year4-maths-data-base.js?v=3",
-    "/assets/year4-maths-data-n1.js?v=3",
-    "/assets/year4-maths-data-n2.js?v=3",
-    "/assets/year4-maths-data-n3.js?v=3",
-    "/assets/year4-maths-data-a.js?v=3",
-    "/assets/year4-maths-data-m1.js?v=3",
-    "/assets/year4-maths-data-m2.js?v=3",
-    "/assets/year4-maths-data-sp.js?v=3",
-    "/assets/year4-maths-data-st.js?v=3",
-    "/assets/year4-maths-data-p.js?v=3"
+    "/assets/year4-maths-data-base.js?v=4",
+    "/assets/year4-maths-data-n1.js?v=4",
+    "/assets/year4-maths-data-n2.js?v=4",
+    "/assets/year4-maths-data-n3.js?v=4",
+    "/assets/year4-maths-data-a.js?v=4",
+    "/assets/year4-maths-data-m1.js?v=4",
+    "/assets/year4-maths-data-m2.js?v=4",
+    "/assets/year4-maths-data-sp.js?v=4",
+    "/assets/year4-maths-data-st.js?v=4",
+    "/assets/year4-maths-data-p.js?v=4"
   ];
 
   const routes = [
@@ -112,9 +113,9 @@
     [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/(practice|test)\/?$/i, [...year3EnglishData, "/assets/year3-subject-quick-read.js?v=1"]],
     [/^\/quiz\/year-3\/english\/ac9e3[a-z0-9]+\/worksheet\/?$/i, [...year3EnglishData, "/assets/year3-subject-worksheet-page.js?v=1"]],
 
-    [/^\/year4\/maths\/ac9m4/i, [...year4MathsData, "/assets/year4-maths-render.js?v=3"]],
-    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/(practice|test)\/?$/i, [...year4MathsData, "/assets/year4-maths-practice-quick-read.js?v=3"]],
-    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/worksheet\/?$/i, [...year4MathsData, "/assets/year4-maths-worksheet-page.js?v=3"]]
+    [/^\/year4\/maths\/ac9m4/i, [...year4MathsData, "/assets/year4-maths-render.js?v=4"]],
+    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/(practice|test)\/?$/i, [...year4MathsData, "/assets/year4-maths-practice-quick-read.js?v=4"]],
+    [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/worksheet\/?$/i, [...year4MathsData, "/assets/year4-maths-worksheet-page.js?v=4"]]
   ];
 
   const foundationMathsTopic = /^\/foundation\/maths\/ac9mf/i.test(path) && !document.getElementById("teaching-lesson");
