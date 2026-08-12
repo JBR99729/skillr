@@ -33,6 +33,46 @@ jobs:
             > /tmp/year1-maths-visual-fix-tools.tar.gz
           gzip -t /tmp/year1-maths-visual-fix-tools.tar.gz
           tar -xzf /tmp/year1-maths-visual-fix-tools.tar.gz -C /tmp/year1-maths-visual-fix
+
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('/tmp/year1-maths-visual-fix/improve-year1-maths-remaining-visuals.js')
+          source = path.read_text(encoding='utf-8')
+
+          source = source.replace(
+              'const questions=load(rel).map(question=>{',
+              'const questions=load(rel).map((question,index)=>{'
+          )
+
+          source = source.replace(
+              '''function removeFiller(text) {
+            return clean(text)
+              .replace(/^[A-Z][a-z]+ checks (?:another|a new) example\.\s*/i, "")
+              .replace(/^A child checks (?:another|a new) example\.\s*/i, "");
+          }''',
+              '''function removeFiller(text) {
+            return clean(text)
+              .replace(/^([A-Z][a-z]+) checks (?:another|a new) example\.\s*/i, "$1 studies this example. ")
+              .replace(/^A child checks (?:another|a new) example\.\s*/i, "A child studies this example. ");
+          }'''
+          )
+
+          old = '''        next.imageAlt=originalAlt
+                    ? `${visual.alt} Specific example: ${short(originalAlt, 88)}`
+                    : visual.alt;'''
+          new = '''        const baseAlt=originalAlt
+                    ? `${visual.alt} Specific example: ${short(originalAlt, 88)}`
+                    : visual.alt;
+                  next.imageAlt=`${baseAlt} This is ${bank} example ${index + 1}.`;'''
+
+          if old not in source:
+              raise SystemExit('Expected imageAlt assignment was not found')
+          source = source.replace(old, new)
+
+          path.write_text(source, encoding='utf-8')
+          PY
+
           node --check /tmp/year1-maths-visual-fix/improve-year1-maths-remaining-visuals.js
           node --check /tmp/year1-maths-visual-fix/validate-year1-maths-remaining.js
           node /tmp/year1-maths-visual-fix/improve-year1-maths-remaining-visuals.js
