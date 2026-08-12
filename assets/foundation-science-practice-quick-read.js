@@ -73,7 +73,7 @@
 
     const intro = card.querySelector(".intro-text");
     if (intro) {
-      intro.textContent = "Review the same key ideas and visuals from the lesson, then start Practice.";
+      intro.textContent = "A quick recap from the lesson before you practise.";
     }
 
     let notes = card.querySelector(".pre-read-notes");
@@ -91,8 +91,15 @@
       `<div class="science-quick-visual"><img src="${esc(visual.src)}" alt="${esc(visual.alt)}"><span>${esc(visual.title)}</span></div>`
     ).join("");
     const firstMixUp = unit.mistakes?.[0];
+    const items = [
+      `<strong>Core idea:</strong> ${esc(unit.learn)}`,
+      `<strong>Teaching model:</strong> ${esc(unit.model_title)}.`,
+      `<strong>Use it:</strong> ${esc(unit.apply_title)}.`,
+      firstMixUp ? `<strong>Common Mix-Up:</strong> ${esc(firstMixUp[0])} — ${esc(firstMixUp[1])}` : null
+    ].filter(Boolean);
 
-    notes.innerHTML = `<h2>60-second Quick Read</h2><div class="science-quick-visuals${unit.visuals.length === 2 ? " two" : ""}">${visuals}</div><ul><li><strong>Core idea:</strong> ${esc(unit.learn)}</li><li><strong>Use it:</strong> ${esc(unit.apply_title)}.</li>${firstMixUp ? `<li><strong>Common mix-up:</strong> ${esc(firstMixUp[0])} — ${esc(firstMixUp[1])}</li>` : ""}</ul>`;
+    notes.innerHTML = `<h2>60-second Quick Read</h2><div class="science-quick-visuals${unit.visuals.length === 2 ? " two" : ""}">${visuals}</div><ul>${items.map((item) => `<li>${item}</li>`).join("")}</ul>`;
+    notes.dataset.skillrTopicSynced = "true";
     notes.dataset.skillrScienceQuickRead = code;
     return true;
   }
