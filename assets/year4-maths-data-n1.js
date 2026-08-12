@@ -97,8 +97,8 @@
       apply_note:"Fractions with denominators 10 or 100 connect directly to decimal place value. Related denominators can be scaled to tenths or hundredths.",
       quick_visual:{type:"hundred-grid",shaded:75,label:"3/4 = 75/100 = 0.75"},
       activities:[
-        {title:"Fraction wall reasoning",text:"Build a fraction wall and identify aligned endpoints for halves, quarters, fifths, tenths and hundredths.",visual:{type:"fraction-set",items:[[2,1,"1/2"],[4,2,"2/4"],[5,? ,""]]}},
-        {title:"Scale both parts",text:"Generate equivalents for 2/5 by multiplying numerator and denominator by 2, 5 and 10.",visual:{type:"flow",items:["2/5","×2/×2","4/10","×10/×10","20/50","40/100"]}},
+        {title:"Fraction wall reasoning",text:"Build a fraction wall and identify aligned endpoints for halves, quarters, fifths, tenths and hundredths.",visual:{type:"fraction-set",items:[[2,1,"1/2"],[4,2,"2/4"],[5,3,"3/5"],[10,6,"6/10"]]}},
+        {title:"Scale both parts",text:"Generate equivalents for 2/5 by multiplying numerator and denominator by 2, 5 and 10.",visual:{type:"flow",items:["2/5","×2/×2","4/10","×5/×5","10/25","×20/×20","40/100"]}},
         {title:"Fraction–decimal match",text:"Match common fractions to decimal representations and justify using hundredths.",visual:{type:"cards",items:["1/4 ↔ 0.25","3/5 ↔ 0.60","7/10 ↔ 0.70","9/20 ↔ 0.45"]}}
       ],
       mistakes:[
