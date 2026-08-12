@@ -12,6 +12,9 @@
   const year1MathsPracticeTest = /^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
   const year1MathsWorksheet = /^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/worksheet\/?$/i.test(path);
   const year1MathsTopic = /^\/year1\/maths\/ac9m1/i.test(path);
+  const year1SciencePracticeTest = /^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
+  const year1ScienceWorksheet = /^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const year1ScienceTopic = /^\/year1\/science\/ac9s1/i.test(path);
 
   if (!document.querySelector('script[data-skillr-display-only]')) {
     const displayOnlyScript = document.createElement("script");
@@ -81,6 +84,20 @@
     year1WorksheetScript.src = "/assets/year1-maths-worksheet-page.js?v=2";
     year1WorksheetScript.dataset.skillrYear1MathsWorksheet = "true";
     document.head.appendChild(year1WorksheetScript);
+  }
+
+  if (year1SciencePracticeTest && !document.querySelector('script[data-skillr-year1-science-quick-read]')) {
+    const year1ScienceQuickReadScript = document.createElement("script");
+    year1ScienceQuickReadScript.src = "/assets/year1-science-practice-quick-read.js?v=1";
+    year1ScienceQuickReadScript.dataset.skillrYear1ScienceQuickRead = "true";
+    document.head.appendChild(year1ScienceQuickReadScript);
+  }
+
+  if (year1ScienceWorksheet && !document.querySelector('script[data-skillr-year1-science-worksheet]')) {
+    const year1ScienceWorksheetScript = document.createElement("script");
+    year1ScienceWorksheetScript.src = "/assets/year1-science-worksheet-page.js?v=1";
+    year1ScienceWorksheetScript.dataset.skillrYear1ScienceWorksheet = "true";
+    document.head.appendChild(year1ScienceWorksheetScript);
   }
 
   const foundationMathsTopic =
@@ -157,6 +174,23 @@
       document.head.appendChild(script);
     };
     loadYear1MathsScript(0);
+  }
+
+  if (year1ScienceTopic && !document.querySelector('script[data-skillr-year1-science-render]')) {
+    const year1ScienceScripts = [
+      "/assets/year1-science-data.js?v=1",
+      "/assets/year1-science-render.js?v=1"
+    ];
+    const loadYear1ScienceScript = (index) => {
+      if (index >= year1ScienceScripts.length) return;
+      const script = document.createElement("script");
+      script.src = year1ScienceScripts[index];
+      script.async = false;
+      script.dataset.skillrYear1ScienceRender = "true";
+      script.addEventListener("load", () => loadYear1ScienceScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+    loadYear1ScienceScript(0);
   }
 
   if (!document.querySelector('script[data-skillr-progress]')) {
