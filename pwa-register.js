@@ -9,6 +9,9 @@
   const foundationEnglishPractice = /^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/practice\/?$/i.test(path);
   const foundationEnglishWorksheet = /^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet\/?$/i.test(path);
   const foundationEnglishTopic = /^\/foundation\/english\/ac9ef/i.test(path);
+  const year1MathsPracticeTest = /^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
+  const year1MathsWorksheet = /^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const year1MathsTopic = /^\/year1\/maths\/ac9m1/i.test(path);
 
   if (!document.querySelector('script[data-skillr-display-only]')) {
     const displayOnlyScript = document.createElement("script");
@@ -64,6 +67,20 @@
     englishWorksheetScript.src = "/assets/foundation-english-worksheet-page.js?v=1";
     englishWorksheetScript.dataset.skillrFoundationEnglishWorksheet = "true";
     document.head.appendChild(englishWorksheetScript);
+  }
+
+  if (year1MathsPracticeTest && !document.querySelector('script[data-skillr-year1-maths-quick-read]')) {
+    const year1QuickReadScript = document.createElement("script");
+    year1QuickReadScript.src = "/assets/year1-maths-practice-quick-read.js?v=1";
+    year1QuickReadScript.dataset.skillrYear1MathsQuickRead = "true";
+    document.head.appendChild(year1QuickReadScript);
+  }
+
+  if (year1MathsWorksheet && !document.querySelector('script[data-skillr-year1-maths-worksheet]')) {
+    const year1WorksheetScript = document.createElement("script");
+    year1WorksheetScript.src = "/assets/year1-maths-worksheet-page.js?v=1";
+    year1WorksheetScript.dataset.skillrYear1MathsWorksheet = "true";
+    document.head.appendChild(year1WorksheetScript);
   }
 
   const foundationMathsTopic =
@@ -123,6 +140,23 @@
       document.head.appendChild(script);
     };
     loadEnglishScript(0);
+  }
+
+  if (year1MathsTopic && !document.querySelector('script[data-skillr-year1-maths-render]')) {
+    const year1MathsScripts = [
+      "/assets/year1-maths-data.js?v=1",
+      "/assets/year1-maths-render.js?v=1"
+    ];
+    const loadYear1MathsScript = (index) => {
+      if (index >= year1MathsScripts.length) return;
+      const script = document.createElement("script");
+      script.src = year1MathsScripts[index];
+      script.async = false;
+      script.dataset.skillrYear1MathsRender = "true";
+      script.addEventListener("load", () => loadYear1MathsScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+    loadYear1MathsScript(0);
   }
 
   if (!document.querySelector('script[data-skillr-progress]')) {
