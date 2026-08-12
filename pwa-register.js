@@ -19,7 +19,13 @@
     year1ScienceTopic: /^\/year1\/science\/ac9s1/i.test(path),
     year2MathsPracticeTest: /^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i.test(path),
     year2MathsWorksheet: /^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i.test(path),
-    year2MathsTopic: /^\/year2\/maths\/ac9m2/i.test(path)
+    year2MathsTopic: /^\/year2\/maths\/ac9m2/i.test(path),
+    year2SciencePracticeTest: /^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/(practice|test)\/?$/i.test(path),
+    year2ScienceWorksheet: /^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/worksheet\/?$/i.test(path),
+    year2ScienceTopic: /^\/year2\/science\/ac9s2/i.test(path),
+    year2EnglishPracticeTest: /^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/(practice|test)\/?$/i.test(path),
+    year2EnglishWorksheet: /^\/quiz\/year-2\/english\/ac9e2[a-z0-9]+\/worksheet\/?$/i.test(path),
+    year2EnglishTopic: /^\/year2\/english\/ac9e2/i.test(path)
   };
 
   function loadScript(src, marker) {
@@ -125,6 +131,48 @@
       ["/assets/year2-maths-data.js?v=2", "skillrYear2MathsWorksheetDataSource"],
       ["/assets/year2-maths-data-extra.js?v=1", "skillrYear2MathsWorksheetDataExtra"],
       ["/assets/year2-maths-worksheet-page.js?v=2", "skillrYear2MathsWorksheet"]
+    ]);
+  }
+
+  if (matches.year2ScienceTopic) {
+    loadSequence([
+      ["/assets/year2-science-data.js?v=1", "skillrYear2ScienceData"],
+      ["/assets/year2-science-render.js?v=1", "skillrYear2ScienceRender"]
+    ]);
+  }
+
+  if (matches.year2SciencePracticeTest) {
+    loadSequence([
+      ["/assets/year2-science-data.js?v=1", "skillrYear2SciencePracticeData"],
+      ["/assets/year2-science-practice-quick-read.js?v=1", "skillrYear2ScienceQuickRead"]
+    ]);
+  }
+
+  if (matches.year2ScienceWorksheet) {
+    loadSequence([
+      ["/assets/year2-science-data.js?v=1", "skillrYear2ScienceWorksheetDataSource"],
+      ["/assets/year2-science-worksheet-page.js?v=1", "skillrYear2ScienceWorksheet"]
+    ]);
+  }
+
+  if (matches.year2EnglishTopic) {
+    loadSequence([
+      ["/assets/year2-english-data.js?v=1", "skillrYear2EnglishData"],
+      ["/assets/year2-english-render.js?v=1", "skillrYear2EnglishRender"]
+    ]);
+  }
+
+  if (matches.year2EnglishPracticeTest) {
+    loadSequence([
+      ["/assets/year2-english-data.js?v=1", "skillrYear2EnglishPracticeData"],
+      ["/assets/year2-english-practice-quick-read.js?v=1", "skillrYear2EnglishQuickRead"]
+    ]);
+  }
+
+  if (matches.year2EnglishWorksheet) {
+    loadSequence([
+      ["/assets/year2-english-data.js?v=1", "skillrYear2EnglishWorksheetDataSource"],
+      ["/assets/year2-english-worksheet-page.js?v=1", "skillrYear2EnglishWorksheet"]
     ]);
   }
 
