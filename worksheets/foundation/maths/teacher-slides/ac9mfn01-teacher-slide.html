@@ -3,25 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AC9MFN01 10-Minute Teacher Slide | Numbers to 20</title>
-  <meta name="description" content="A printable 10-minute AC9MFN01 teacher lesson for naming, representing and ordering numbers from 0 to 20.">
+  <title>AC9MFN01 Teacher Lesson | Numbers to 20 | SkillrHub</title>
+  <meta name="description" content="A printable SkillrHub AC9MFN01 teacher lesson for naming, representing and ordering numbers from 0 to 20.">
   <meta name="robots" content="index, follow">
   <style>
-    :root{--navy:#173968;--blue:#eef5ff;--line:#d8e2ef;--text:#203047;--muted:#5d6c80;--green:#eef8f0;--amber:#fff7e8;--paper:#ffffff}
+    :root{--brand:#2457d6;--navy:#173968;--blue:#eef5ff;--line:#d8e2ef;--text:#203047;--muted:#5d6c80;--green:#eef8f0;--amber:#fff7e8;--paper:#fff}
     *{box-sizing:border-box}
     body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--text);background:#f4f7fb;line-height:1.3}
     .toolbar{max-width:1180px;margin:14px auto 0;padding:0 18px;display:flex;justify-content:space-between;gap:10px;align-items:center}
-    .toolbar a,.toolbar button{border:1px solid #cbd8e8;background:#fff;color:var(--navy);border-radius:999px;padding:9px 13px;font-weight:700;text-decoration:none;cursor:pointer}
-    .sheet{max-width:1180px;margin:12px auto 24px;background:var(--paper);padding:18px;border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 24px rgba(28,55,91,.08)}
+    .toolbar a,.toolbar button{border:1px solid #cbd8e8;background:#fff;color:var(--brand);border-radius:999px;padding:9px 13px;font-weight:700;text-decoration:none;cursor:pointer}
+    .sheet{position:relative;isolation:isolate;overflow:hidden;max-width:1180px;margin:12px auto 24px;background:var(--paper);padding:18px;border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 24px rgba(28,55,91,.08)}
+    .watermark{position:absolute;z-index:-1;left:50%;top:52%;transform:translate(-50%,-50%) rotate(-25deg);font-weight:800;font-size:6rem;letter-spacing:.04em;color:rgba(36,87,214,.045);white-space:nowrap;user-select:none;pointer-events:none}
+    .brandbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:10px;padding:8px 12px;border:1px solid #dce6f5;border-radius:11px;background:#fff}
+    .brand{font-size:1.05rem;font-weight:800;color:var(--brand);letter-spacing:-.02em}.brand span{font-weight:700;color:var(--navy)}
+    .brandbar small{color:var(--muted);font-weight:700}
     .hero{display:grid;grid-template-columns:1.5fr 1fr;gap:14px;background:var(--navy);color:#fff;border-radius:14px;padding:16px;margin-bottom:12px}
     .eyebrow{margin:0 0 3px;font-size:.78rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;opacity:.9}
     h1{margin:0;font-size:1.8rem;line-height:1.08}.subtitle{margin:5px 0 0;font-weight:700}.goal{margin:7px 0 0;font-size:.95rem}.hero-box{border:1px solid rgba(255,255,255,.3);border-radius:11px;padding:10px;background:rgba(255,255,255,.08)}.hero-box p{margin:3px 0;font-size:.9rem}
-    .flow{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px;margin-bottom:12px}.flow span{background:var(--blue);border:1px solid #d9e7fb;border-radius:10px;padding:7px;text-align:center;font-size:.78rem;font-weight:800}.flow small{display:block;color:var(--muted);font-weight:700;margin-top:2px}
-    .grid{display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:10px}.card{border:1px solid var(--line);border-radius:12px;padding:11px;background:#fff}.card h2{margin:0 0 7px;font-size:1rem;color:var(--navy)}.card h3{margin:7px 0 4px;font-size:.9rem}.card p,.card li{font-size:.85rem}.card p{margin:4px 0}.card ul,.card ol{margin:4px 0;padding-left:1.05rem}.card li{margin:2px 0}.tag{display:inline-block;border-radius:999px;background:var(--blue);border:1px solid #d9e7fb;padding:3px 7px;font-size:.72rem;font-weight:800;margin-bottom:6px}.model{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#f8fafc;border:1px dashed #b9c7d8;border-radius:9px;padding:7px;white-space:pre-wrap;font-size:.8rem;line-height:1.45;margin:6px 0}.say{background:var(--blue);border-radius:9px;padding:7px;margin-top:6px;font-size:.84rem}.mistake{background:var(--amber)}.check{background:var(--green)}.wide{grid-column:span 2}.full{grid-column:1/-1}.check-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}.check-item{border:1px solid #dbe8de;background:#fff;border-radius:9px;padding:7px;font-size:.81rem}.footer{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-top:10px;padding-top:9px;border-top:1px solid var(--line);font-size:.82rem;color:var(--muted)}.footer strong{color:var(--navy)}
+    .flow{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px;margin-bottom:12px}.flow span{background:var(--blue);border:1px solid #d9e7fb;border-radius:10px;padding:8px;text-align:center;font-size:.8rem;font-weight:800;color:var(--navy)}
+    .grid{display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:10px}.card{border:1px solid var(--line);border-radius:12px;padding:11px;background:rgba(255,255,255,.96)}.card h2{margin:0 0 7px;font-size:1rem;color:var(--navy)}.card h3{margin:7px 0 4px;font-size:.9rem}.card p,.card li{font-size:.85rem}.card p{margin:4px 0}.card ul,.card ol{margin:4px 0;padding-left:1.05rem}.card li{margin:2px 0}.tag{display:inline-block;border-radius:999px;background:var(--blue);border:1px solid #d9e7fb;padding:3px 7px;font-size:.72rem;font-weight:800;margin-bottom:6px;color:var(--navy)}
+    .model{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#f8fafc;border:1px dashed #b9c7d8;border-radius:9px;padding:7px;white-space:pre-wrap;font-size:.8rem;line-height:1.45;margin:6px 0}.say{background:var(--blue);border-radius:9px;padding:7px;margin-top:6px;font-size:.84rem}.mistake{background:var(--amber)}.check{background:var(--green)}.wide{grid-column:span 2}.full{grid-column:1/-1}.check-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}.check-item{border:1px solid #dbe8de;background:#fff;border-radius:9px;padding:7px;font-size:.81rem}
+    .footer{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:10px;padding-top:9px;border-top:1px solid var(--line);font-size:.82rem;color:var(--muted)}.footer strong{color:var(--navy)}.footer-brand{font-weight:800;color:var(--brand)}
     @media(max-width:900px){.hero,.grid{grid-template-columns:1fr}.flow{grid-template-columns:repeat(3,1fr)}.wide,.full{grid-column:auto}.check-grid{grid-template-columns:1fr 1fr}}
-    @media(max-width:560px){.flow,.check-grid{grid-template-columns:1fr}.sheet{margin:8px;padding:12px}.toolbar{padding:0 8px}.hero{padding:13px}h1{font-size:1.5rem}}
+    @media(max-width:560px){.flow,.check-grid{grid-template-columns:1fr}.sheet{margin:8px;padding:12px}.toolbar{padding:0 8px}.hero{padding:13px}h1{font-size:1.5rem}.watermark{font-size:3.3rem}}
     @page{size:A4 landscape;margin:7mm}
-    @media print{body{background:#fff}.toolbar{display:none}.sheet{max-width:none;margin:0;padding:0;border:0;border-radius:0;box-shadow:none}.hero{padding:11px;margin-bottom:7px}.flow{margin-bottom:7px}.grid{gap:6px}.card{padding:7px}.card p,.card li{font-size:7.7pt}.card h2{font-size:9pt}.card h3{font-size:8pt}.tag{font-size:6.8pt}.model,.say,.check-item{font-size:7.3pt}.footer{font-size:7.3pt;margin-top:6px;padding-top:5px}}
+    @media print{body{background:#fff}.toolbar{display:none}.sheet{max-width:none;margin:0;padding:0;border:0;border-radius:0;box-shadow:none}.brandbar{padding:5px 8px;margin-bottom:6px}.hero{padding:11px;margin-bottom:7px}.flow{margin-bottom:7px}.grid{gap:6px}.card{padding:7px}.card p,.card li{font-size:7.7pt}.card h2{font-size:9pt}.card h3{font-size:8pt}.tag{font-size:6.8pt}.model,.say,.check-item{font-size:7.3pt}.footer{font-size:7.3pt;margin-top:6px;padding-top:5px}.watermark{color:rgba(36,87,214,.055);font-size:5.4rem}}
   </style>
 </head>
 <body>
@@ -31,32 +37,38 @@
   </div>
 
   <main class="sheet">
+    <div class="watermark" aria-hidden="true">SkillrHub F–10</div>
+    <div class="brandbar">
+      <div class="brand">SkillrHub <span>F–10</span></div>
+      <small>Foundation Maths • Teacher Lesson</small>
+    </div>
+
     <header class="hero">
       <div>
-        <p class="eyebrow">AC9MFN01 • Foundation Maths • Teacher Lesson</p>
+        <p class="eyebrow">AC9MFN01 • Foundation Maths</p>
         <h1>Numbers to 20</h1>
         <p class="subtitle">Name, represent and order numbers</p>
         <p class="goal"><strong>Learning goal:</strong> Students connect a real quantity, a visual model and a written numeral, then use number order and one more/one less from 0 to 20.</p>
       </div>
       <div class="hero-box">
-        <p><strong>Total teaching time:</strong> about 9½ minutes</p>
-        <p><strong>Materials:</strong> 12 blocks/counters, number cards 0–20, visible 0–20 number line.</p>
+        <p><strong>Materials:</strong> blocks/counters, number cards 0–20, visible 0–20 number line.</p>
         <p><strong>Core routine:</strong> Build → See → Write → Order → Apply → Check.</p>
+        <p><strong>Teach for understanding:</strong> return to objects and visuals whenever the student guesses.</p>
       </div>
     </header>
 
-    <div class="flow" aria-label="10-minute lesson sequence">
-      <span>🎯 Learn<small>0:30</small></span>
-      <span>🎨 Teach It<small>2:00</small></span>
-      <span>🔢 Order<small>1:00</small></span>
-      <span>🖐 Try It<small>2:00</small></span>
-      <span>⚠ Fix It<small>1:00</small></span>
-      <span>✏ Quick Check<small>2:30</small></span>
+    <div class="flow" aria-label="Lesson sequence">
+      <span>🎯 Learn</span>
+      <span>🎨 Teach It</span>
+      <span>🔢 Order</span>
+      <span>🖐 Try It</span>
+      <span>⚠ Fix It</span>
+      <span>✏ Quick Check</span>
     </div>
 
     <section class="grid">
       <article class="card">
-        <span class="tag">0:30 • Learn</span>
+        <span class="tag">Learn</span>
         <h2>1. State the idea</h2>
         <div class="model">Quantity ↔ Picture ↔ Numeral</div>
         <div class="say"><strong>Say:</strong> “A number can be shown with objects, a picture, or a numeral. They can all show the same amount.”</div>
@@ -64,7 +76,7 @@
       </article>
 
       <article class="card wide">
-        <span class="tag">2:00 • Teach It</span>
+        <span class="tag">Teach It</span>
         <h2>2. Build → See → Write 12</h2>
         <div class="check-grid">
           <div class="check-item"><strong>BUILD</strong><br>Give 12 blocks.<div class="model">■■■■■■■■■■ + ■■</div><strong>“12 is 10 and 2 more.”</strong></div>
@@ -77,7 +89,7 @@
       </article>
 
       <article class="card">
-        <span class="tag">1:00 • Put It in Order</span>
+        <span class="tag">Put It in Order</span>
         <h2>3. Use the number line</h2>
         <div class="model">0 — 1 — 2 — 3 — 4 — 5 — 6 — 7 — 8 — 9 — 10 — 11 — 12 — 13 — 14 — 15 — 16 — 17 — 18 — 19 — 20</div>
         <div class="model">13 ← 14 → 15</div>
@@ -86,26 +98,26 @@
       </article>
 
       <article class="card">
-        <span class="tag">2:00 • Try It</span>
-        <h2>4. Three fast activities</h2>
+        <span class="tag">Try It</span>
+        <h2>4. Three guided activities</h2>
         <ol>
           <li><strong>Fetch:</strong> “Bring me 9 paintbrushes.”</li>
           <li><strong>Card:</strong> Show 14. Ask “before?” and “after?”</li>
           <li><strong>Count:</strong> 0 → 20, then 20 → 0.</li>
         </ol>
-        <p>Make the child <strong>touch/move each object once</strong> while counting.</p>
+        <p>Have the child <strong>touch or move each object once</strong> while counting.</p>
       </article>
 
       <article class="card mistake">
-        <span class="tag">1:00 • Fix These</span>
-        <h2>5. Correct errors instantly</h2>
+        <span class="tag">Fix These</span>
+        <h2>5. Correct errors immediately</h2>
         <p>❌ <strong>Double-counting:</strong> move each object as it is counted.</p>
         <p>❌ <strong>14 written as 41:</strong> rebuild <strong>10 + 4 = 14</strong>.</p>
         <p>❌ <strong>Zero forgotten:</strong> show an empty collection and label it <strong>0</strong>.</p>
       </article>
 
       <article class="card full check">
-        <span class="tag">2:30 • Quick Check</span>
+        <span class="tag">Quick Check</span>
         <h2>6. Four mixed questions</h2>
         <div class="check-grid">
           <div class="check-item"><strong>Count</strong><div class="model">● ● ● ● ●
@@ -118,13 +130,12 @@
     </section>
 
     <footer class="footer">
-      <div><strong>30-second mastery:</strong> Can the student build a number, match it to a numeral, order it, find one more/less and explain zero?</div>
+      <div><strong>Quick mastery:</strong> Can the student build a number, match it to a numeral, order it, find one more/less and explain zero?</div>
       <div><strong>If not:</strong> return to Build → See → Write.</div>
+      <div class="footer-brand">SkillrHub F–10 • skillrhub.com</div>
     </footer>
   </main>
 
-  <script>
-    document.getElementById('printLesson').addEventListener('click', function(){ window.print(); });
-  </script>
+  <script>document.getElementById('printLesson').addEventListener('click',function(){window.print();});</script>
 </body>
 </html>
