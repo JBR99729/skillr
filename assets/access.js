@@ -6,6 +6,13 @@
    and future login or payment code can read it consistently.
    ========================================================= */
 
+if (!document.querySelector('script[data-skillr-display-only]')) {
+  const displayOnlyScript = document.createElement("script");
+  displayOnlyScript.src = "/assets/display-only.js?v=1";
+  displayOnlyScript.dataset.skillrDisplayOnly = "true";
+  document.head.appendChild(displayOnlyScript);
+}
+
 (function initialiseSkillrAccess() {
   const defaults = {
     product: "skillrhub-free-curriculum",
