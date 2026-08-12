@@ -1,0 +1,48 @@
+name: Validate visual worksheet and QA layers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/qa-complete-ribbon.js"
+      - "assets/skillr-concept-svg.js"
+      - "assets/science-visual-layer.js"
+      - "assets/worksheet-pack-enhancer.js"
+      - "pwa-register.js"
+      - ".github/workflows/validate-resource-layers.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check JavaScript syntax
+        run: |
+          node --check assets/qa-complete-ribbon.js
+          node --check assets/skillr-concept-svg.js
+          node --check assets/science-visual-layer.js
+          node --check assets/worksheet-pack-enhancer.js
+          node --check pwa-register.js
+      - name: Confirm shared wiring and wording
+        run: |
+          grep -q 'qa-complete-ribbon.js' pwa-register.js
+          grep -q 'skillr-concept-svg.js' pwa-register.js
+          grep -q 'science-visual-layer.js' pwa-register.js
+          grep -q 'worksheet-pack-enhancer.js' pwa-register.js
+          grep -q 'QA complete' assets/qa-complete-ribbon.js
+          ! grep -qi 'artificial intelligence' assets/qa-complete-ribbon.js
+          ! grep -qi 'AI complete' assets/qa-complete-ribbon.js
+      - name: Confirm worksheet-pack safeguards
+        run: |
+          grep -q 'First Nations' assets/worksheet-pack-enhancer.js
+          grep -q 'Visual Application Worksheet' assets/worksheet-pack-enhancer.js
+          grep -q 'Mixed Mastery Worksheet' assets/worksheet-pack-enhancer.js
+          grep -q 'window.print' assets/worksheet-pack-enhancer.js
+          grep -q 'SkillrConceptSvg' assets/science-visual-layer.js
