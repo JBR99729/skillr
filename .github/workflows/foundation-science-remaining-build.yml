@@ -25,8 +25,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          gzip -t scripts/foundation-science-remaining-rebuild.tar.gz
-          tar -xzf scripts/foundation-science-remaining-rebuild.tar.gz -C .
+          cat scripts/foundation-science-remaining-b64/part-* | tr -d '\n\r ' | base64 -d > /tmp/foundation-science-remaining-rebuild.tar.gz
+          gzip -t /tmp/foundation-science-remaining-rebuild.tar.gz
+          tar -xzf /tmp/foundation-science-remaining-rebuild.tar.gz -C .
           node scripts/apply-foundation-science-remaining.js
 
       - name: Validate all six curriculum codes
@@ -131,12 +132,12 @@ jobs:
           done
           node --check quiz/assets/daily-drills/science-master-questions.js
           node --check service-worker.js
-          ! grep -RniE 'rollss|both rolls\b|butterflie' quiz/grade-k/science/{ac9sfi03,ac9sfi04,ac9sfi05,ac9sfu01,ac9sfu02,ac9sfu03} quiz/assets/daily-drills/science-master-questions.js
+          ! grep -RniE 'rollss|both rolls\\b|butterflie' quiz/grade-k/science/{ac9sfi03,ac9sfi04,ac9sfi05,ac9sfu01,ac9sfu02,ac9sfu03} quiz/assets/daily-drills/science-master-questions.js
 
       - name: Remove temporary build inputs
         shell: bash
         run: |
-          rm -f scripts/foundation-science-remaining-rebuild.tar.gz
+          rm -rf scripts/foundation-science-remaining-b64
           rm -f scripts/apply-foundation-science-remaining.js
           rm -f foundation-science-remaining-source-report.json
           rm -f .github/workflows/foundation-science-remaining-build.yml
