@@ -1,0 +1,74 @@
+name: Diagnose Foundation Maths banks
+
+on:
+  push:
+    branches:
+      - agent/complete-foundation-maths-rebuild
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    if: ${{ !contains(github.event.head_commit.message, '[skip foundation-build]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/complete-foundation-maths-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Decode and inspect authored bank source
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const vm = require('vm');
+          const chunks = [1,2,3].map((n) => {
+            const text = fs.readFileSync(`quiz/assets/foundation-maths-approved-banks-${n}.js`, 'utf8');
+            const match = text.match(/Chunks\[\d+\]\s*=\s*"([A-Za-z0-9+/=]+)"/);
+            if (!match) throw new Error(`Could not read bank chunk ${n}`);
+            return match[1];
+          });
+          const source = Buffer.from(chunks.join(''), 'base64').toString('utf8');
+          const window = { location: { pathname: '/quiz/grade-k/math/ac9mfn03/practice/' } };
+          const document = {
+            readyState: 'complete',
+            addEventListener() {},
+            querySelector() { return null; },
+            querySelectorAll() { return []; }
+          };
+          const context = { window, document, console, TextDecoder, TextEncoder, URL, setTimeout, clearTimeout };
+          vm.createContext(context);
+          const before = new Set(Object.keys(window));
+          vm.runInContext(source, context, { filename: 'foundation-authored-source.js' });
+          const added = Object.keys(window).filter((key) => !before.has(key));
+          const inspect = {};
+          for (const key of Object.keys(window)) {
+            const value = window[key];
+            if (Array.isArray(value)) {
+              inspect[key] = { type: 'array', length: value.length, sampleKeys: Object.keys(value[0] || {}) };
+            } else if (value && typeof value === 'object') {
+              inspect[key] = { type: 'object', keys: Object.keys(value).slice(0,50) };
+            } else {
+              inspect[key] = { type: typeof value };
+            }
+          }
+          fs.writeFileSync('foundation-bank-diagnostics.json', JSON.stringify({
+            sourceLength: source.length,
+            sourceHead: source.slice(0,1200),
+            sourceTail: source.slice(-4000),
+            added,
+            inspect
+          }, null, 2));
+          NODE
+      - name: Commit diagnostics
+        shell: bash
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add foundation-bank-diagnostics.json
+          git commit -m "Add Foundation bank diagnostics [skip foundation-build]"
+          git push origin HEAD:agent/complete-foundation-maths-rebuild
