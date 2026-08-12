@@ -48,21 +48,18 @@
     return `mailto:${meta.supportEmail || DEFAULT_EMAIL}?subject=${subject}&body=${body}`;
   }
 
-  function wireButton(button) {
-    button.addEventListener("click", () => {
-      const meta = getPageMeta();
-      window.location.href = buildMailtoHref(meta);
-    });
-  }
-
   function createFloatingButton() {
+    if (document.querySelector("[data-report-issue], .report-issue-button")) {
+      return;
+    }
+
     const existingFloating = document.querySelector(".floating-learning-links");
     const button = document.createElement("button");
     button.type = "button";
     button.className = "report-issue-button";
+    button.dataset.reportIssue = "true";
     button.textContent = "Report issue";
     button.setAttribute("aria-label", "Report an issue with this SkillrHub page");
-    wireButton(button);
 
     if (existingFloating) {
       existingFloating.appendChild(button);
@@ -75,14 +72,16 @@
     document.body.appendChild(container);
   }
 
-  document.addEventListener("DOMContentLoaded", () => {
-    const buttons = document.querySelectorAll("[data-report-issue]");
-
-    if (buttons.length) {
-      buttons.forEach(wireButton);
+  // Delegation keeps dynamically replaced topic-page buttons working.
+  document.addEventListener("click", (event) => {
+    const button = event.target.closest?.("[data-report-issue], .report-issue-button");
+    if (!button) {
       return;
     }
 
-    createFloatingButton();
+    const meta = getPageMeta();
+    window.location.href = buildMailtoHref(meta);
   });
+
+  document.addEventListener("DOMContentLoaded", createFloatingButton);
 }());
