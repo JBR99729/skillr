@@ -27,16 +27,15 @@ jobs:
           const fs = require('fs');
           const vm = require('vm');
 
-          const chunkWindow = { __skillrFoundationBankChunks: [] };
-          const chunkContext = { window: chunkWindow };
-          vm.createContext(chunkContext);
+          const chunks = [];
           for (let n = 1; n <= 3; n += 1) {
             const text = fs.readFileSync(`quiz/assets/foundation-maths-approved-banks-${n}.js`, 'utf8');
-            vm.runInContext(text, chunkContext, { filename: `foundation-bank-chunk-${n}.js` });
-          }
-          const chunks = chunkWindow.__skillrFoundationBankChunks;
-          if (chunks.length !== 3 || chunks.some((chunk) => typeof chunk !== 'string' || !chunk.length)) {
-            throw new Error(`Expected three non-empty chunks, received ${chunks.map((x) => typeof x).join(', ')}`);
+            const assignment = text.indexOf('__skillrFoundationBankChunks');
+            const equals = text.indexOf('=', assignment);
+            const openingQuote = text.indexOf('"', equals);
+            const payload = text.slice(openingQuote + 1).match(/^([A-Za-z0-9+/=]+)/)?.[1] || '';
+            if (!payload) throw new Error(`Could not extract bank chunk ${n}`);
+            chunks.push(payload);
           }
 
           const source = Buffer.from(chunks.join(''), 'base64').toString('utf8');
