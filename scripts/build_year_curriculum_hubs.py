@@ -73,6 +73,8 @@ def nav(label: str, year_folder: str, current: str, subject: str | None = None) 
 def action_links(unit: dict) -> str:
     return f'''<div class="unit-action-row">
   <a class="primary" href="{esc(unit['url'])}">Topic guide</a>
+  <a href="{esc(unit['teacherSlideUrl'])}" target="_blank" rel="noopener">Teacher slide</a>
+  <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
   <a href="{esc(unit['practiceUrl'])}">Practice</a>
   <a href="{esc(unit['testUrl'])}">Test</a>
   <a href="{esc(unit.get('quizUrl') or unit['testUrl'].replace('/test/', '/quiz/'))}">Quiz</a>
