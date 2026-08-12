@@ -1,324 +1,411 @@
 "use strict";
-window.skillrExamQuestions = [
+window.skillrTestQuestions = [
   {
-    "id": "ac9mfn01-t-057",
+    "id": "ac9mfn01-t-001",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the picture-card table: Put these number cards from smallest to largest: 17, 1, 7.",
-    "explanation": "1 mark for the order 1, 7, 17.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "1, 7, 17",
-      "1",
-      "$1"
-    ],
-    "correct": "1, 7, 17"
-  },
-  {
-    "id": "ac9mfn01-t-058",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "During a buddy activity: Find the number between 5 and 7.",
-    "explanation": "5, 6, 7 are consecutive numbers.",
+    "skill": "count a mixed arrangement",
+    "question": "How many hearts are shown? ♥  ♥♥   ♥  ♥ ♥",
+    "explanation": "Count each heart once. There are 6.",
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
-      "5",
-      "8",
-      "6"
-    ],
-    "correct": 3
-  },
-  {
-    "id": "ac9mfn01-t-059",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "At the hoop area: Which number is greater: 16 or 19?",
-    "explanation": "19 is farther along the counting sequence.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "19",
-      "16",
-      "They are equal",
-      "Zero"
-    ],
-    "correct": 0
-  },
-  {
-    "id": "ac9mfn01-t-060",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "Near the easel: From the cards 5, 7, 4, 6, which number should be first when ordering from least to greatest?",
-    "explanation": "4 is the smallest number.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "4",
       "5",
       "6",
-      "7"
+      "7",
+      "8"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-t-002",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "subitise a ten-frame part",
+    "question": "A ten-frame has all 5 spaces filled in its top row and 2 filled below. How many counters are shown?",
+    "explanation": "Five and 2 more make 7.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-t-003",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "identify zero",
+    "question": "Which situation shows zero?",
+    "explanation": "An empty nest contains no birds, so it represents 0.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "3 birds on a fence",
+      "An empty nest",
+      "1 apple in a bowl",
+      "10 blocks in a tower"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-t-004",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "select requested quantity",
+    "question": "A teacher asks for 8 counters. Which group should you take?",
+    "explanation": "The requested group must contain exactly 8 counters.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "●●●●●●",
+      "●●●●●●●",
+      "●●●●●●●●",
+      "●●●●●●●●●"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-t-005",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "match spoken teen number",
+    "question": "Which numeral matches the number name “seventeen”?",
+    "explanation": "Seventeen is written 17.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "7",
+      "16",
+      "17",
+      "71"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-t-006",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "read teen structure",
+    "question": "A model has 1 complete group of 10 and 9 single counters. What number is represented?",
+    "explanation": "One ten and 9 ones make 19.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "9",
+      "10",
+      "19",
+      "91"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-t-007",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "choose representation of 14",
+    "question": "Which model represents 14?",
+    "explanation": "Fourteen is 10 and 4 more.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A group of 10 and 4 more",
+      "A group of 10 and 3 more",
+      "Four groups of 10",
+      "A group of 4 only"
     ],
     "correct": 0
   },
   {
-    "id": "ac9mfn01-t-061",
+    "id": "ac9mfn01-t-008",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the domino table: Write the numeral that shows 3 red tiles.",
-    "explanation": "The numeral 3 represents a collection of 3.",
+    "skill": "quantity unchanged by movement",
+    "question": "Twelve buttons are moved from a circle into two rows. None are added or removed. How many buttons are there?",
+    "explanation": "Changing the arrangement does not change the quantity.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3",
-      "$3"
-    ],
-    "correct": "3"
-  },
-  {
-    "id": "ac9mfn01-t-062",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "During a classroom game: A tray has 10 blue tiles. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 10.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
       "10",
-      "$10"
+      "11",
+      "12",
+      "14"
     ],
-    "correct": "10"
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-063",
+    "id": "ac9mfn01-t-009",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the calendar mat: Two number cards show 17 and 0. State which card has the smaller number?",
-    "explanation": "0 comes before 17 when counting.",
+    "skill": "cardinality after counting",
+    "question": "Omar points to each shell once and says “1, 2, 3, 4, 5, 6, 7, 8.” How many shells are there altogether?",
+    "explanation": "The last count word tells the total: 8.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "0",
-      "$0"
-    ],
-    "correct": "0"
-  },
-  {
-    "id": "ac9mfn01-t-064",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "Near the lunch boxes: Complete this counting path: 3, 4, ___, 6.",
-    "explanation": "Count forward by ones: 3, 4, 5, 6.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "ac9mfn01-t-065",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "At the sorting hoops: A number line stops at 10. State which number is immediately before 10?",
-    "explanation": "9 is one less than 10.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "9",
-      "$9"
-    ],
-    "correct": "9"
-  },
-  {
-    "id": "ac9mfn01-t-066",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "During a practical activity: Write the number that comes straight after 17.",
-    "explanation": "Counting on one from 17 gives 18.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "18",
-      "$18"
-    ],
-    "correct": "18"
-  },
-  {
-    "id": "ac9mfn01-t-067",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "At the counter tray: Put these number cards from smallest to largest: 14, 3, 8.",
-    "explanation": "1 mark for the order 3, 8, 14.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "3, 8, 14",
-      "3",
-      "$3"
-    ],
-    "correct": "3, 8, 14"
-  },
-  {
-    "id": "ac9mfn01-t-068",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "Near the class chart: Find the number between 12 and 14.",
-    "explanation": "12, 13, 14 are consecutive numbers.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "13",
-      "$13"
-    ],
-    "correct": "13"
-  },
-  {
-    "id": "ac9mfn01-t-069",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "At the shape mat: State which number is greater: 2 or 5?",
-    "explanation": "5 is farther along the counting sequence.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "5",
-      "$5"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "ac9mfn01-t-070",
-    "curriculumCode": "AC9MFN01",
-    "bank": "test",
-    "question": "During a quiet task: From the cards 8, 10, 7, 9, which number should be first when ordering from least to greatest?",
-    "explanation": "7 is the smallest number.",
-    "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
+    "type": "single",
+    "answers": [
       "7",
-      "$7"
+      "8",
+      "9",
+      "16"
     ],
-    "correct": "7"
+    "correct": 1
   },
   {
-    "id": "ac9mfn01-t-071",
+    "id": "ac9mfn01-t-010",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the measuring table: Write the numeral that shows 10 rain drops.",
-    "explanation": "The numeral 10 represents a collection of 10.",
+    "skill": "one more boundary",
+    "question": "What is one more than 19?",
+    "explanation": "Counting on once from 19 gives 20.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "10",
-      "$10"
+    "type": "single",
+    "answers": [
+      "18",
+      "19",
+      "20",
+      "21"
     ],
-    "correct": "10"
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-072",
+    "id": "ac9mfn01-t-011",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "Near the shelves: A tray has 17 cloud pictures. Write the number that tells how many there are.",
-    "explanation": "1 mark for writing 17.",
+    "skill": "one less boundary",
+    "question": "What is one less than 10?",
+    "explanation": "Counting back once from 10 gives 9.",
     "printable": true,
-    "type": "text",
-    "acceptedAnswers": [
-      "17",
-      "$17"
+    "type": "single",
+    "answers": [
+      "0",
+      "8",
+      "9",
+      "11"
     ],
-    "correct": "17"
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-073",
+    "id": "ac9mfn01-t-012",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the data table: Two number cards show 3 and 7. State which card has the smaller number?",
-    "explanation": "2 marks: 1 for the correct response (3); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 3 comes before 7 when counting.",
+    "skill": "two-sided neighbour reasoning",
+    "question": "Which number has 12 immediately before it and 14 immediately after it?",
+    "explanation": "The sequence is 12, 13, 14.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "3 2 marks: 1 for the correct response (3); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 3 comes before 7 when counting.",
-    "correct": "3"
+    "type": "single",
+    "answers": [
+      "11",
+      "12",
+      "13",
+      "15"
+    ],
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-074",
+    "id": "ac9mfn01-t-013",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "During a group investigation: Complete this counting path: 10, 11, ___, 13. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (12); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Count forward by ones: 10, 11, 12, 13.",
+    "skill": "complete backward sequence",
+    "question": "Complete the backward count: 16, 15, ___, 13.",
+    "explanation": "Counting back by ones gives 16, 15, 14, 13.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "12 2 marks: 1 for the correct response (12); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Count forward by ones: 10, 11, 12, 13.",
-    "correct": "12"
+    "type": "single",
+    "answers": [
+      "12",
+      "13",
+      "14",
+      "17"
+    ],
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-075",
+    "id": "ac9mfn01-t-014",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the routine board: A number line stops at 17. State which number is immediately before 17. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (16); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 16 is one less than 17.",
+    "skill": "compare close teen numbers",
+    "question": "Which statement is true?",
+    "explanation": "Nineteen comes one after 18.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "16 2 marks: 1 for the correct response (16); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 16 is one less than 17.",
-    "correct": "16"
+    "type": "single",
+    "answers": [
+      "18 is greater than 19",
+      "19 is greater than 18",
+      "18 and 19 are equal",
+      "9 is between 18 and 19"
+    ],
+    "correct": 1
   },
   {
-    "id": "ac9mfn01-t-076",
+    "id": "ac9mfn01-t-015",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "Near the toy box: Write the number that comes straight after 3. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (4); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Counting on one from 3 gives 4.",
+    "skill": "compare zero",
+    "question": "Which statement is true about 0 and 5?",
+    "explanation": "Zero represents none and is less than 5.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "4 2 marks: 1 for the correct response (4); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. Counting on one from 3 gives 4.",
-    "correct": "4"
+    "type": "single",
+    "answers": [
+      "0 is greater than 5",
+      "5 is less than 0",
+      "0 is less than 5",
+      "0 and 5 are equal"
+    ],
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-077",
+    "id": "ac9mfn01-t-016",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the position mat: Put these number cards from smallest to largest: 15, 0, 10. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (0, 10, 15); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1 mark for the order 0, 10, 15.",
+    "skill": "order four numbers",
+    "question": "Which list is ordered from least to greatest?",
+    "explanation": "The numbers increase in the order 3, 9, 15, 20.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "0, 10, 15 2 marks: 1 for the correct response (0, 10, 15); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1 mark for the order 0, 10, 15.",
-    "correct": "0, 10, 15"
+    "type": "single",
+    "answers": [
+      "3, 9, 15, 20",
+      "20, 15, 9, 3",
+      "3, 15, 9, 20",
+      "9, 3, 15, 20"
+    ],
+    "correct": 0
   },
   {
-    "id": "ac9mfn01-t-078",
+    "id": "ac9mfn01-t-017",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "During end-of-day pack-up: Find the number between 1 and 3. Explain or show how you know.",
-    "explanation": "2 marks: 1 for the correct response (2); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1, 2, 3 are consecutive numbers.",
+    "skill": "order representations",
+    "question": "Which should come first when ordering from smallest to largest?",
+    "explanation": "The quantities are 6, 4, 9 and 8; 4 is smallest.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "2 2 marks: 1 for the correct response (2); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 1, 2, 3 are consecutive numbers.",
-    "correct": "2"
+    "type": "single",
+    "answers": [
+      "A ten-frame showing 6",
+      "The numeral 4",
+      "A group of 9 dots",
+      "The number name eight"
+    ],
+    "correct": 1
   },
   {
-    "id": "ac9mfn01-t-079",
+    "id": "ac9mfn01-t-018",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "At the number-line station: Sam says 9 should come after 12 on a 0-to-20 number line. Is Sam correct? Explain.",
-    "explanation": "2 marks: 1 for the correct response (No. 9 comes before 12.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for 'No'; 1 for explaining that 9 is smaller/comes before 12.",
+    "skill": "number line hidden label",
+    "question": "A number line has equally spaced marks labelled 6, 7, □, 9. What is the hidden label?",
+    "explanation": "The marks increase by one: 6, 7, 8, 9.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "No. 9 comes before 12. 2 marks: 1 for the correct response (No. 9 comes before 12.); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for 'No'; 1 for explaining that 9 is smaller/comes before 12.",
-    "correct": "No. 9 comes before 12."
+    "type": "single",
+    "answers": [
+      "5",
+      "7",
+      "8",
+      "10"
+    ],
+    "correct": 2
   },
   {
-    "id": "ac9mfn01-t-080",
+    "id": "ac9mfn01-t-019",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
-    "question": "Near the classroom rug: Four cards show 15, 17, 14 and 16. Explain how you would arrange them in order.",
-    "explanation": "2 marks: 1 for the correct response (14, 15, 16, 17); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for the correct order 14, 15, 16, 17; 1 for saying they increase by 1/count forward.",
+    "skill": "number line direction",
+    "question": "A counter moves from 13 to 12 on a number line. Which way did it move?",
+    "explanation": "Twelve is one less than 13, so the counter moved back.",
     "printable": true,
-    "type": "self-check",
-    "modelAnswer": "14, 15, 16, 17 2 marks: 1 for the correct response (14, 15, 16, 17); 1 for a clear Foundation-appropriate explanation, drawing, matching, counting or demonstration. 2 marks: 1 for the correct order 14, 15, 16, 17; 1 for saying they increase by 1/count forward.",
-    "correct": "14, 15, 16, 17"
+    "type": "single",
+    "answers": [
+      "One step forward",
+      "One step back",
+      "Two steps forward",
+      "It did not move"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-t-020",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "ordinal from right",
+    "question": "Four shapes are in a row: ○ △ □ ★. Which shape is second from the right?",
+    "explanation": "From the right, ★ is first and □ is second.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "○",
+      "△",
+      "□",
+      "★"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "ac9mfn01-t-021",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "ordinal change",
+    "question": "Luca is third in a line. The two children ahead leave. Where is Luca now?",
+    "explanation": "With nobody ahead, Luca becomes first.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "First",
+      "Second",
+      "Third",
+      "Last"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "ac9mfn01-t-022",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "error analysis duplicated count",
+    "question": "Zara counted one counter twice and said there were 9. What can you conclude?",
+    "explanation": "Counting one object twice makes the spoken total too large.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "There are exactly 9",
+      "There are fewer than 9",
+      "There are more than 9",
+      "The counters represent zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-t-023",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "error analysis teen reversal",
+    "question": "A model shows 1 ten and 8 ones. Lee writes 81. Which numeral should Lee write?",
+    "explanation": "One ten and 8 ones make 18.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "8",
+      "18",
+      "80",
+      "81"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "ac9mfn01-t-024",
+    "curriculumCode": "AC9MFN01",
+    "bank": "test",
+    "skill": "multi-representation reasoning",
+    "question": "Which statement must be true?",
+    "explanation": "Each full ten-frame shows 10, so two show 20.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A full ten-frame shows 9",
+      "Two full ten-frames show 20",
+      "The numeral 15 shows 5",
+      "An empty frame shows 10"
+    ],
+    "correct": 1
   }
 ];
-window.quizQuestions = window.skillrExamQuestions;
