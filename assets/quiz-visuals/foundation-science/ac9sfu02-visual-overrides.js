@@ -1,13 +1,37 @@
 (() => {
   "use strict";
 
+  const styleId = "skillr-ac9sfu02-svg-visual-style";
+  if (!document.getElementById(styleId)) {
+    const style = document.createElement("style");
+    style.id = styleId;
+    style.textContent = `
+      .question-image {
+        display: block;
+        min-width: 1.3cm;
+        min-height: 1.3cm;
+        width: min(100%, 16cm);
+        height: auto;
+        max-height: none;
+        margin: 0 auto 22px;
+        object-fit: contain;
+      }
+      @media (max-width: 680px) {
+        .question-image {
+          width: 100%;
+        }
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
   const updates = {
     "ac9sfu02-p-003": {
       question: "Look at the toy top. How does it mainly move?",
       explanation: "A spinning top turns around and around its pointed base. This movement is called spinning.",
       answers: ["spins", "slides in a straight line", "bounces", "stays still"],
       correct: 0,
-      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-spinning-top.svg",
+      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-spinning-top.svg?v=20260812-svg2",
       imageAlt: "A colourful toy top turning around its pointed base, with curved arrows showing the spinning movement."
     },
     "ac9sfu02-p-015": {
@@ -15,7 +39,7 @@
       explanation: "The top turns around a point, so its movement is spinning.",
       answers: ["spinning", "rolling forward", "sliding", "bouncing"],
       correct: 0,
-      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-spinning-top.svg",
+      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-spinning-top.svg?v=20260812-svg2",
       imageAlt: "A colourful toy top turning around its pointed base, with curved arrows showing the spinning movement."
     },
     "ac9sfu02-t-005": {
@@ -28,7 +52,7 @@
         "It stays at the top even though the ramp slopes down."
       ],
       correct: 0,
-      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-block-on-ramp.svg",
+      image: "/assets/quiz-visuals/foundation-science/ac9sfu02-block-on-ramp.svg?v=20260812-svg2",
       imageAlt: "A yellow rectangular wooden block resting with a flat face on the upper part of a blue sloping ramp."
     }
   };
