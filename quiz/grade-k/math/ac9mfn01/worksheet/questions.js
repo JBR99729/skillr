@@ -40,8 +40,9 @@ window.skillrWorksheetQuestions = [
     formatLabel: "Multiple choice",
     type: "single",
     printable: true,
-    question: "Which picture represents zero?",
-    answers: ["an empty tray", "a tray with 1 counter", "a tray with 5 counters", "a tray with 10 counters"]
+    question: "Which tray shows zero objects?",
+    visual: "Tray A: [ empty ]   Tray B: [ 1 counter ]   Tray C: [ 5 counters ]   Tray D: [ 10 counters ]",
+    answers: ["Tray A", "Tray B", "Tray C", "Tray D"]
   },
   {
     id: "ac9mfn01-w-05",
