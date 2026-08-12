@@ -34,6 +34,7 @@ jobs:
           node --check assets/year7-english-data-la.js
           node --check assets/year7-english-data-le.js
           node --check assets/year7-english-data-ly.js
+          node --check assets/year7-worksheet-normalise.js
           node --check assets/year7-curriculum-render.js
           node --check assets/year7-curriculum-quick-read.js
           node --check assets/year7-curriculum-worksheet-page.js
@@ -54,6 +55,7 @@ jobs:
           require('./assets/year7-english-data-la.js');
           require('./assets/year7-english-data-le.js');
           require('./assets/year7-english-data-ly.js');
+          require('./assets/year7-worksheet-normalise.js');
 
           const checks = [
             ['Maths', window.SkillrYear7MathsData, window.SkillrYear7MathsOrder, 30],
@@ -125,6 +127,7 @@ jobs:
           require('./assets/year7-english-data-la.js');
           require('./assets/year7-english-data-le.js');
           require('./assets/year7-english-data-ly.js');
+          require('./assets/year7-worksheet-normalise.js');
 
           const subjects = [
             ['maths', 'math', window.SkillrYear7MathsData, /^AC9M7/, 30],
@@ -177,6 +180,7 @@ jobs:
           grep -q "year7-curriculum-render.js" assets/year7-router.js
           grep -q "year7-curriculum-quick-read.js" assets/year7-router.js
           grep -q "year7-curriculum-worksheet-page.js" assets/year7-router.js
+          grep -q "year7-worksheet-normalise.js" assets/year7-router.js
           grep -q "year7-maths-data-n.js" assets/year7-router.js
           grep -q "year7-science-data-u.js" assets/year7-router.js
           grep -q "year7-english-data-la.js" assets/year7-router.js
