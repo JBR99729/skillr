@@ -15,6 +15,18 @@
     "✅", "❌", "📘", "🧑‍🏫", "🌏", "🔗", "📚", "▶️", "▶", "🧭"
   ];
 
+  function currentCurriculumCode() {
+    const match = window.location.pathname.match(/(ac9mf[a-z0-9]+)/i);
+    return match ? match[1].toUpperCase() : null;
+  }
+
+  function teacherSlideUrl() {
+    const code = currentCurriculumCode();
+    return code
+      ? `/worksheets/foundation/maths/teacher-slides/live.html?code=${code}`
+      : null;
+  }
+
   function cleanText(text) {
     let value = text;
     for (const icon of ICONS) value = value.split(icon).join("");
@@ -42,8 +54,23 @@
 
   function rewriteTeacherLink() {
     if (!isFoundationMathsTopic) return;
-    document.querySelectorAll('a[href*="ac9mfn01-teacher-slide.html"]').forEach((link) => {
-      link.href = "/worksheets/foundation/maths/teacher-slides/live.html?code=AC9MFN01";
+    const url = teacherSlideUrl();
+    if (!url) return;
+
+    document.querySelectorAll(".topic-action-row a").forEach((link) => {
+      if (/^teacher slide$/i.test((link.textContent || "").trim())) {
+        link.href = url;
+        link.target = "_blank";
+        link.rel = "noopener";
+      }
+    });
+
+    document.querySelectorAll('a[href*="teacher-slide.html"], a[href*="teacher-slides/live.html"]').forEach((link) => {
+      if (link.closest("#teacher-slide") || /teacher slide/i.test(link.textContent || "")) {
+        link.href = url;
+        link.target = "_blank";
+        link.rel = "noopener";
+      }
     });
   }
 
@@ -60,10 +87,16 @@
     const headingText = "Classroom teaching slide";
     const paragraphText = "Open this classroom teaching slide for direct display on a school projector, interactive board, laptop or student device.";
     const linkText = "Open teaching slide";
+    const url = teacherSlideUrl();
 
     if (heading && heading.textContent.trim() !== headingText) heading.textContent = headingText;
     if (paragraph && paragraph.textContent.trim() !== paragraphText) paragraph.textContent = paragraphText;
-    if (link && link.textContent.trim() !== linkText) link.textContent = linkText;
+    if (link) {
+      if (link.textContent.trim() !== linkText) link.textContent = linkText;
+      if (url) link.href = url;
+      link.target = "_blank";
+      link.rel = "noopener";
+    }
   }
 
   function addTeacherWatermark() {
