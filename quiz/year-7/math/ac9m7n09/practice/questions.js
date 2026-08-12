@@ -1,107 +1,20 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9m7n09-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "find equivalent representations of rational numbers and represent rational…",
-      "round decimals to a given accuracy appropriate to the context and use…",
-      "use the 4 operations with positive rational numbers including fractions,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "compare, order and solve problems involving addition and subtraction of…",
-      "modelling additive situations involving positive and negative quantities; for…",
-      "recognise, represent and solve problems involving ratios",
-      "recognise and use variables to represent everyday formulas algebraically and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "formulate algebraic expressions using constants, variables, operations and…",
-      "solve one-variable linear equations with natural number solutions; verify the…",
-      "modelling contexts involving proportion, such as the proportion of students…",
-      "describe relationships between variables represented in graphs of functions…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "generate tables of values from visually growing patterns or the rule of a…",
-      "manipulate formulas involving several variables using digital tools, and…",
-      "solve problems involving the area of triangles and parallelograms using…",
-      "modelling financial problems involving profit and loss, credits and debits,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems, involving rational…",
-      "solve problems involving the volume of right prisms including rectangular and…",
-      "describe the relationship between π and the features of circles including the…",
-      "identify corresponding, alternate and co-interior relationships between…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
-      "modelling financial problems involving profit and loss, credits and debits,…",
-      "use mathematical modelling to solve practical problems involving ratios;…",
-      "represent objects in 2 dimensions; discuss and reason about the advantages…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "classify triangles, quadrilaterals and other polygons according to their side…",
-      "describe transformations of a set of points using coordinates in the…",
-      "modelling financial problems involving profit and loss, credits and debits,…",
-      "design and create algorithms involving a sequence of steps and decisions that…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  },
-  {
-    "id": "ac9m7n09-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "acquire data sets for discrete and continuous numerical variables and…",
-      "create different types of numerical data displays including stem-and-leaf…",
-      "plan and conduct statistical investigations involving data for discrete and…",
-      "use mathematical modelling to solve practical problems, involving rational…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M7N09: use mathematical modelling to solve practical problems, involving rational…."
-  }
-];
+(() => {
+ const q=[];let id=1;const add=(p,c,w,e)=>{const a=[String(c),...w.map(String)].filter((v,i,x)=>x.indexOf(v)===i);while(a.length<4)a.push(`Alternative ${a.length}`);q.push({id:`ac9m7n09-${String(id++).padStart(2,"0")}`,type:"single",question:p,answers:a.slice(0,4),correct:0,explanation:e});};
+ [[480,15,408],[250,20,200],[360,25,270],[120,12.5,105],[800,35,520],[75,10,67.5],[640,5,608],[1500,18,1230],[95,30,66.5],[420,22,327.6],[56,25,42],[999,10,899.1]].forEach(([price,pct,cost])=>add(`An item costs $${price} and is discounted by ${pct}%. What is the sale price?`,`$${cost.toFixed(2)}`,[`$${(price*pct/100).toFixed(2)}`,`$${(price-cost+price).toFixed(2)}`,`$${(cost+10).toFixed(2)}`],`Multiply by ${1-pct/100}; the sale price is $${cost.toFixed(2)}.`));
+ [[100,140,40],[240,300,25],[80,68,-15],[500,575,15],[320,288,-10],[150,180,20],[90,117,30],[400,340,-15],[250,275,10],[1200,1020,-15]].forEach(([cost,revenue,p])=>add(`A fundraiser costs $${cost} and earns $${revenue}. What is the percentage profit or loss?`,`${Math.abs(p)}% ${p>=0?'profit':'loss'}`,[`${Math.abs(revenue-cost)}%`,`${Math.abs(p)}% ${p>=0?'loss':'profit'}`,`${Math.abs(p)+10}%`],`Change is $${Math.abs(revenue-cost)} relative to cost $${cost}: ${Math.abs(p)}% ${p>=0?'profit':'loss'}.`));
+ [["A: 15% off $480; B: $90 off plus $25 fee","Plan A by $7"],["A: 20% off $300; B: $50 off","Plan A by $10"],["A: 10% off $800; B: $65 off","Plan A by $15"],["A: 25% off $200; B: $60 off plus $15 fee","Plan B by $5"],["A: 30% off $150; B: $35 off","Plan A by $10"],["A: 5% off $1000; B: $40 off","Plan A by $10"],["A: 12% off $500; B: $75 off plus $20 fee","Plan A by $5"],["A: 40% off $120; B: $55 off plus $10 fee","Plan A by $3"]].forEach(([p,c])=>add(`Compare these offers: ${p}. Which is cheaper?`,c,["They cost the same","The other plan by $20","Cannot decide without ignoring fees"],`Calculate every discount and fee using its correct base; ${c}.`));
+ [[-3,8,5],[4,-7,-3],[-12,19,7],[5,-13,-8],[-20,11,-9],[7,-15,-8],[0,-9,-9],[18,-25,-7]].forEach(([start,change,end])=>add(`A model starts at ${start} and changes by ${change}. What is the final value?`,end,[start-change,-end,start+change+2],`Use a signed quantity: ${start} + (${change}) = ${end}.`));
+ [[200,55,110],[480,23,110.4],[350,40,140],[1200,12.5,150],[90,60,54],[640,35,224],[750,8,60],[420,75,315]].forEach(([total,p,part])=>add(`${p}% of a group of ${total} meets a condition. How many is that?`,part,[p,total-part,part+10],`Convert ${p}% to ${p/100} and multiply by ${total}: ${part}.`));
+ add("What is the first step in a mathematical modelling problem?","Define the question, quantities, constraints and assumptions.",["Enter numbers into a spreadsheet.","Round every number.","Choose the cheapest-looking headline."],"A model must represent the actual decision and its conditions before calculation.");
+ add("Why must a discount and a dollar fee be handled separately?","They have different units and the percentage uses a specified base.",["They can always be added directly.","Fees are percentages.","Discounts never affect cost."],"Calculate each component appropriately before combining dollar amounts.");
+ add("What is sensitivity analysis?","Testing how the result changes when inputs or assumptions vary.",["Repeating the same calculation unchanged.","Deleting constraints.","Choosing only the first answer."],"Sensitivity analysis locates thresholds and tests robustness.");
+ add("When is a spreadsheet useful?","When formulas are understood and many input cases must be tested.",["To hide the mathematical relationship.","Only when no assumptions exist.","To avoid checking formulas."],"Digital tools support repeated evaluation, but formulas and meaning must remain visible.");
+ add("What makes a recommendation justified?","It states calculations, constraints, assumptions and decision criteria.",["It uses the largest number.","It omits inconvenient fees.","It applies one result universally."],"A recommendation is conditional on the evidence and model.");
+ add("Which is a constraint?","A total budget cannot exceed $500.",["The answer is interesting.","A percentage is written with %.","The calculator has a screen."],"A constraint restricts valid solutions.");
+ add("A model predicts 4.7 buses. What should the interpretation consider?","Whole buses are required, so at least 5 may be needed.",["Use exactly 4.7 physical buses.","Round down automatically.","Delete the decimal without explanation."],"Context and capacity determine appropriate rounding.");
+ add("At what price P do 15% off and $90 off plus a $25 fee break even?","$433.33 approximately",["$65","$600","$480"],"0.85P = P - 65, so 0.15P = 65 and P ≈ $433.33.");
+ add("Which model best represents a 23% attendance rate among n students?","0.23n",["23n","n + 23","n ÷ 23"],"Twenty-three percent is 23/100 = 0.23 of the total.");
+ add("Why should a financial model retain exact values until the final step?","Early rounding can change totals, thresholds or decisions.",["Money never uses decimals.","Exact values require no units.","Rounding is forbidden."],"Guard digits reduce accumulated error.");
+ if(q.length!==56)throw new Error(`AC9M7N09 expected 56 questions, found ${q.length}`);window.quizQuestions=q;
+})();
