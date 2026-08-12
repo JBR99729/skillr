@@ -1,4 +1,4 @@
-name: Diagnose Foundation Maths banks
+name: Complete Foundation Maths rebuild
 
 on:
   push:
@@ -9,8 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  diagnose:
-    if: ${{ !contains(github.event.head_commit.message, '[skip foundation-build]') }}
+  build:
+    if: ${{ !contains(github.event.head_commit.message, '[foundation-built]') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,86 +20,184 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Decode and inspect authored bank source
+
+      - name: Reconstruct and publish Foundation Maths banks
         shell: bash
         run: |
+          set -euo pipefail
+          mkdir -p quiz/assets
+          cat scripts/foundation-rebuild-b64/part-* | tr -d '\n\r ' | base64 -d | gzip -dc > quiz/assets/foundation-maths-rebuild.js
+          node --check quiz/assets/foundation-maths-rebuild.js
+          node --check quiz/assets/daily-drills/foundation-rebuild-extensions.js
+
           node <<'NODE'
           const fs = require('fs');
+          const path = require('path');
           const vm = require('vm');
 
-          const chunks = [];
-          for (let n = 1; n <= 3; n += 1) {
-            const text = fs.readFileSync(`quiz/assets/foundation-maths-approved-banks-${n}.js`, 'utf8');
-            const assignment = text.indexOf('__skillrFoundationBankChunks');
-            const equals = text.indexOf('=', assignment);
-            const openingQuote = text.indexOf('"', equals);
-            const payload = text.slice(openingQuote + 1).match(/^([A-Za-z0-9+/=]+)/)?.[1] || '';
-            if (!payload) throw new Error(`Could not extract bank chunk ${n}`);
-            chunks.push(payload);
+          const codes = [
+            'AC9MFN03','AC9MFN04','AC9MFN05','AC9MFN06','AC9MFA01',
+            'AC9MFM01','AC9MFM02','AC9MFSP01','AC9MFSP02','AC9MFST01'
+          ];
+          const generatorPath = 'quiz/assets/foundation-maths-rebuild.js';
+          const generator = fs.readFileSync(generatorPath, 'utf8').trimEnd() + '\n';
+
+          function evaluate(source, pathname) {
+            const window = { location: { pathname } };
+            const context = { window, console };
+            vm.createContext(context);
+            vm.runInContext(source, context, { filename: pathname });
+            return window;
           }
 
-          const source = Buffer.from(chunks.join(''), 'base64').toString('utf8');
-          const window = { location: { pathname: '/quiz/grade-k/math/ac9mfn03/practice/' } };
-          const document = {
-            readyState: 'complete',
-            addEventListener() {},
-            querySelector() { return null; },
-            querySelectorAll() { return []; }
-          };
-          const context = {
-            window,
-            document,
-            console,
-            TextDecoder,
-            TextEncoder,
-            URL,
-            setTimeout,
-            clearTimeout,
-            atob: (value) => Buffer.from(value, 'base64').toString('binary'),
-            btoa: (value) => Buffer.from(value, 'binary').toString('base64')
-          };
-          vm.createContext(context);
-          const before = new Set(Object.keys(window));
-          let evaluationError = null;
-          try {
-            vm.runInContext(source, context, { filename: 'foundation-authored-source.js' });
-          } catch (error) {
-            evaluationError = { name: error.name, message: error.message, stack: error.stack };
+          const baseWindow = evaluate(generator, '/quiz/grade-k/math/ac9mfn03/practice/');
+          const api = baseWindow.SkillrFoundationRebuild;
+          if (!api || typeof api.build !== 'function' || typeof api.load !== 'function') {
+            throw new Error('Foundation rebuild API was not created.');
           }
 
-          const added = Object.keys(window).filter((key) => !before.has(key));
-          const inspect = {};
-          for (const key of Object.keys(window)) {
-            const value = window[key];
-            if (Array.isArray(value)) {
-              inspect[key] = {
-                type: 'array',
-                length: value.length,
-                sampleKeys: Object.keys(value[0] || {}),
-                sample: value[0] || null
+          const report = { generatedAt: new Date().toISOString(), codes: {} };
+          for (const code of codes) {
+            const lower = code.toLowerCase();
+            report.codes[code] = {};
+            for (const [bank, count] of [['practice',56],['test',24],['quiz',100]]) {
+              const questions = api.build(code, bank, count);
+              if (questions.length !== count) throw new Error(`${code} ${bank}: expected ${count}, found ${questions.length}`);
+              if (new Set(questions.map(q => q.id)).size !== count) throw new Error(`${code} ${bank}: duplicate IDs`);
+              if (questions.some(q => !q.question || !q.type || !q.explanation)) throw new Error(`${code} ${bank}: incomplete question`);
+              if (bank === 'test' && questions.some(q => q.type === 'self-check')) throw new Error(`${code}: subjective Test item found`);
+
+              for (const question of questions) {
+                if (['single','true-false'].includes(question.type)) {
+                  if (!Array.isArray(question.answers) || !Number.isInteger(question.correct) || question.correct < 0 || question.correct >= question.answers.length) {
+                    throw new Error(`${question.id}: invalid single-choice answer`);
+                  }
+                } else if (question.type === 'multiple') {
+                  if (!Array.isArray(question.answers) || !Array.isArray(question.correct) || question.correct.some(i => !Number.isInteger(i) || i < 0 || i >= question.answers.length)) {
+                    throw new Error(`${question.id}: invalid multiple-choice answer`);
+                  }
+                } else if (question.type === 'number') {
+                  if (typeof question.correct !== 'number' || !Number.isFinite(question.correct)) throw new Error(`${question.id}: invalid number answer`);
+                } else if (question.type === 'order') {
+                  if (!Array.isArray(question.items) || !Array.isArray(question.correct) || question.items.length !== question.correct.length) {
+                    throw new Error(`${question.id}: invalid ordering answer`);
+                  }
+                } else {
+                  throw new Error(`${question.id}: unsupported question type ${question.type}`);
+                }
+              }
+              report.codes[code][bank] = {
+                count,
+                types: [...new Set(questions.map(q => q.type))],
+                visualCount: questions.filter(q => q.visual).length,
+                skillCount: new Set(questions.map(q => q.skill)).size
               };
-            } else if (value && typeof value === 'object') {
-              inspect[key] = { type: 'object', keys: Object.keys(value).slice(0, 100) };
-            } else {
-              inspect[key] = { type: typeof value };
+            }
+
+            const standalone = `${generator}\nwindow.SkillrFoundationRebuild.load(${JSON.stringify(code)});\n`;
+            const files = [
+              `quiz/grade-k/math/${lower}/questions.js`,
+              `quiz/grade-k/math/${lower}/practice/questions.js`,
+              `quiz/grade-k/math/${lower}/test/questions.js`
+            ];
+            for (const file of files) {
+              fs.mkdirSync(path.dirname(file), { recursive: true });
+              fs.writeFileSync(file, standalone);
+            }
+
+            const checks = [
+              [`quiz/grade-k/math/${lower}/practice/questions.js`, `/quiz/grade-k/math/${lower}/practice/`, 56],
+              [`quiz/grade-k/math/${lower}/test/questions.js`, `/quiz/grade-k/math/${lower}/test/`, 24],
+              [`quiz/grade-k/math/${lower}/questions.js`, `/quiz/grade-k/math/${lower}/`, 100]
+            ];
+            for (const [file, pathname, count] of checks) {
+              const result = evaluate(fs.readFileSync(file, 'utf8'), pathname);
+              if (!Array.isArray(result.quizQuestions) || result.quizQuestions.length !== count) {
+                throw new Error(`${file}: loading check expected ${count}, found ${result.quizQuestions?.length}`);
+              }
             }
           }
 
-          fs.writeFileSync('foundation-bank-diagnostics.json', JSON.stringify({
-            chunkLengths: chunks.map((chunk) => chunk.length),
-            sourceLength: source.length,
-            sourceHead: source.slice(0, 1800),
-            sourceTail: source.slice(-8000),
-            evaluationError,
-            added,
-            inspect
-          }, null, 2));
+          const drillSkills = [
+            'numbers-to-20','addition-subtraction','equal-groups-sharing',
+            'repeating-patterns','measurement-shapes-data'
+          ];
+          const drillPages = [];
+          for (const skill of drillSkills) {
+            for (const prefix of ['quiz/daily-drills/math','quiz/grade-k/daily-drills/math']) {
+              const file = `${prefix}/${skill}/index.html`;
+              if (fs.existsSync(file)) drillPages.push(file);
+            }
+          }
+          for (const file of drillPages) {
+            let html = fs.readFileSync(file, 'utf8');
+            const insertion = '<script src="/quiz/assets/foundation-maths-rebuild.js?v=1"></script>\n<script src="/quiz/assets/daily-drills/foundation-rebuild-extensions.js?v=1"></script>\n';
+            if (!html.includes('foundation-rebuild-extensions.js')) {
+              const marker = '<script src="/quiz/assets/daily-drills/daily-drill-selector.js';
+              const index = html.indexOf(marker);
+              if (index < 0) throw new Error(`${file}: daily selector script not found`);
+              html = html.slice(0, index) + insertion + html.slice(index);
+              fs.writeFileSync(file, html);
+            }
+          }
+          report.dailyDrillPages = drillPages;
+
+          const titleFixes = {
+            AC9MFN03: 'Quantify and compare collections to at least 20',
+            AC9MFM01: 'Identify and compare length, capacity, mass and duration',
+            AC9MFSP02: 'Describe position and location in familiar spaces'
+          };
+          const mathsRoot = 'foundation/maths';
+          const topicFiles = fs.readdirSync(mathsRoot, { withFileTypes: true })
+            .filter(entry => entry.isDirectory())
+            .map(entry => path.join(mathsRoot, entry.name, 'index.html'))
+            .filter(file => fs.existsSync(file));
+          report.titleFiles = [];
+          for (const [code, title] of Object.entries(titleFixes)) {
+            const candidates = topicFiles.filter(file => fs.readFileSync(file, 'utf8').includes(code));
+            if (!candidates.length) throw new Error(`${code}: topic page not found`);
+            for (const file of candidates) {
+              let html = fs.readFileSync(file, 'utf8');
+              html = html.replace(new RegExp(`<h1>${code}:[^<]*<\\/h1>`), `<h1>${code}: ${title}</h1>`);
+              html = html.replace(new RegExp(`<title>${code}[^<]*<\\/title>`), `<title>${code} ${title} | Foundation Maths Topic Guide</title>`);
+              html = html.replace(new RegExp(`(<meta property="og:title" content=")${code}[^"]*(")`), `$1${code} ${title} | Foundation Maths Topic Guide$2`);
+              fs.writeFileSync(file, html);
+              report.titleFiles.push(file);
+            }
+          }
+
+          const serviceWorkerPath = 'service-worker.js';
+          let sw = fs.readFileSync(serviceWorkerPath, 'utf8');
+          sw = sw.replace(/skillrhub-pwa-v\d+/g, 'skillrhub-pwa-v6');
+          sw = sw.replace(/skillrhub-static-v\d+/g, 'skillrhub-static-v4');
+          const oldLive = `url.pathname === "/pwa-register.js" ||\n      url.pathname === "/quiz/assets/script.js" ||\n      url.pathname === "/assets/foundation-maths-practice-quick-read.js"`;
+          const newLive = `url.pathname === "/pwa-register.js" ||\n      url.pathname === "/quiz/assets/script.js" ||\n      url.pathname === "/assets/foundation-maths-practice-quick-read.js" ||\n      url.pathname === "/quiz/assets/foundation-maths-rebuild.js" ||\n      url.pathname === "/quiz/assets/daily-drills/foundation-rebuild-extensions.js" ||\n      url.pathname.endsWith("/questions.js")`;
+          if (!sw.includes('foundation-maths-rebuild.js')) {
+            if (!sw.includes(oldLive)) throw new Error('Service-worker live-script marker not found');
+            sw = sw.replace(oldLive, newLive);
+          }
+          fs.writeFileSync(serviceWorkerPath, sw);
+
+          fs.writeFileSync('foundation-maths-rebuild-report.json', JSON.stringify(report, null, 2) + '\n');
           NODE
-      - name: Commit diagnostics
+
+          node --check quiz/assets/foundation-maths-rebuild.js
+          node --check quiz/assets/daily-drills/foundation-rebuild-extensions.js
+          node --check service-worker.js
+
+          rm -f foundation-bank-diagnostics.json
+          rm -f quiz/assets/foundation-maths-approved-banks-1.js
+          rm -f quiz/assets/foundation-maths-approved-banks-2.js
+          rm -f quiz/assets/foundation-maths-approved-banks-3.js
+          rm -rf scripts/foundation-rebuild-b64
+          rm -f .github/workflows/foundation-bank-build.yml
+
+      - name: Commit completed rebuild
         shell: bash
         run: |
+          set -euo pipefail
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add foundation-bank-diagnostics.json
-          git commit -m "Add Foundation bank diagnostics [skip foundation-build]"
+          git add -A
+          git commit -m "Complete Foundation Maths question-bank rebuild [foundation-built]"
           git push origin HEAD:agent/complete-foundation-maths-rebuild
