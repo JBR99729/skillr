@@ -6,6 +6,7 @@
   const match = location.pathname.match(/\/year2\/science\/(ac9s2[a-z0-9]+)/i);
   const code = (window.skillrPageMeta?.curriculumCode || match?.[1] || "").toUpperCase();
   const unit = UNITS[code];
+  const QA_COMPLETE = new Set(["AC9S2U01", "AC9S2U02", "AC9S2U03"]);
   if (!unit) return;
 
   const q = (selector, root = document) => root.querySelector(selector);
@@ -47,13 +48,15 @@
     const index = ORDER.indexOf(code);
     const previous = ORDER[index - 1];
     const next = ORDER[index + 1];
+    const qaBadge = QA_COMPLETE.has(code) ? '<span class="menu-badge" title="Content QA complete; human QA pending.">QA complete</span>' : '';
+    const quizLink = QA_COMPLETE.has(code) ? `<a href="/quiz/year-2/science/${code.toLowerCase()}/quiz/">Quiz</a>` : "";
 
     document.title = `${code} ${unit.title} | Year 2 Science`;
     const description = q('meta[name="description"]');
     if (description) description.content = `Teach ${code} ${unit.desc} with a visual Year 2 Science lesson, teacher slide, authored worksheet, Practice and Test.`;
 
     hero.classList.add("micro-hero");
-    hero.innerHTML = `<p class="curriculum-eyebrow">${code} • Year 2 Science</p><h1>${esc(unit.title)}</h1><p class="micro-hero__subtitle">${esc(unit.subtitle)}</p><p class="micro-hero__goal">${esc(unit.learn)}</p><div class="hero-visual">${unit.hero_visual || unit.model_html}</div><div class="topic-action-row"><a class="primary" href="#teaching-lesson">Start lesson</a><a href="/worksheets/year2/science/teacher-slides/live.html?code=${code}" target="_blank" rel="noopener">Teacher slide</a><a href="/quiz/year-2/science/${code.toLowerCase()}/worksheet/" target="_blank" rel="noopener">Worksheet</a><a href="/quiz/year-2/science/${code.toLowerCase()}/practice/">Practice</a><a href="/quiz/year-2/science/${code.toLowerCase()}/test/">Test</a></div><button class="report-issue-button" type="button" data-report-issue>Report issue</button>`;
+    hero.innerHTML = `<p class="curriculum-eyebrow">${code} • Year 2 Science ${qaBadge}</p><h1>${esc(unit.title)}</h1><p class="micro-hero__subtitle">${esc(unit.subtitle)}</p><p class="micro-hero__goal">${esc(unit.learn)}</p><div class="hero-visual">${unit.hero_visual || unit.model_html}</div><div class="topic-action-row"><a class="primary" href="#teaching-lesson">Start lesson</a><a href="/worksheets/year2/science/teacher-slides/live.html?code=${code}" target="_blank" rel="noopener">Teacher slide</a><a href="/quiz/year-2/science/${code.toLowerCase()}/worksheet/" target="_blank" rel="noopener">Worksheet</a><a href="/quiz/year-2/science/${code.toLowerCase()}/practice/">Practice</a><a href="/quiz/year-2/science/${code.toLowerCase()}/test/">Test</a>${quizLink}</div><button class="report-issue-button" type="button" data-report-issue>Report issue</button>`;
 
     const activities = unit.activities.map((activity, activityIndex) => `<div class="mini-card"><span class="mini-label">Activity ${activityIndex + 1}</span><p><strong>${esc(activity.title)}</strong></p><p>${esc(activity.text)}</p><div class="activity-visual">${activity.visual_html || ""}</div></div>`).join("");
     const mixups = unit.mistakes.map(([name, fix]) => `<div class="mini-card mistake-card"><span class="mini-label">${esc(name)}</span><p><strong>Better thinking:</strong> ${esc(fix)}</p></div>`).join("");

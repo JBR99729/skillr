@@ -1071,13 +1071,17 @@ const previousVisual =
 
 previousVisual?.remove();
 
-if (question.visual) {
+if (question.visual || question.visualHtml) {
   const visual =
     document.createElement("div");
 
   visual.id = "questionVisual";
   visual.className = "question-visual";
-  visual.textContent = question.visual;
+  if (question.visualHtml) {
+    visual.innerHTML = question.visualHtml;
+  } else {
+    visual.textContent = question.visual;
+  }
 
   elements.questionText.insertAdjacentElement(
     "afterend",
