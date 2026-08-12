@@ -17,5 +17,20 @@ document.addEventListener("DOMContentLoaded", () => {
   const retake = document.getElementById("resultRetakeLink");
   if (review) review.href = data.reviewUrl;
   if (retake) retake.href = data.retakeUrl;
-  if (!data.passed) document.getElementById("certificateButton")?.remove();
+
+  const certificateButton = document.getElementById("certificateButton");
+  if (certificateButton) {
+    const certificateEligible = Number(data.percentage) >= 75;
+    const certificateNote = document.createElement("p");
+    certificateNote.className = "certificate-eligibility-note";
+    certificateNote.textContent = certificateEligible
+      ? "Certificate unlocked — use Print certificate below."
+      : "Print certificate is available when you score 75% or higher.";
+    certificateButton.closest(".result-actions")?.insertAdjacentElement(
+      "beforebegin",
+      certificateNote
+    );
+
+    if (!certificateEligible) certificateButton.remove();
+  }
 });
