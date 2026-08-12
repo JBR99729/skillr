@@ -19,3 +19,15 @@ Non-negotiable rules:
 - The topic guide and teacher slide must use the same concept, examples, terminology and visual models.
 - Prefer one shared code-specific lesson source that renders both resources.
 - A code is not complete until it passes the release gates in the standard.
+
+
+## Locked architecture change control
+
+The Topic Guide + Teacher Slide v1 structure is frozen.
+
+- Continue using the locked structure even when producing hundreds of codes; vary the concept-specific content, illustrations and teaching progression, not the architecture.
+- Cosmetic, responsive, accessibility, overlap and correctness fixes are allowed.
+- If a request would structurally change the topic guide or teacher-slide system, stop before editing, identify the conflict and recommend retaining the approved structure.
+- Do not implement a structural change in that turn.
+- A structural change may proceed only after a later, separate user confirmation containing the exact words: `Unlock Topic Guide + Teacher Slide v1`.
+- A content or slide update is not complete unless the topic guide and teacher slide remain aligned from the same code-specific lesson specification.
