@@ -15,6 +15,13 @@
   const code = (topicMatch?.[3] || quizMatch?.[3] || new URLSearchParams(location.search).get("code") || "").toUpperCase();
   if (!code || !subject) return;
 
+  if (quizMatch?.[1]?.toLowerCase() === "grade-k" && quizMatch?.[4]?.toLowerCase() === "test" && ![...document.scripts].some((script) => script.src.includes("/assets/foundation-test-quick-read.js"))) {
+    const script = document.createElement("script");
+    script.src = "/assets/foundation-test-quick-read.js?v=1";
+    script.async = false;
+    document.head.appendChild(script);
+  }
+
   function findUnit() {
     const candidates = Object.keys(window).filter((key) => /^Skillr(?:Foundation|Year\d+).+Data$/.test(key));
     for (const key of candidates) {
