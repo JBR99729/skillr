@@ -13,13 +13,90 @@
   const normaliseSubject = (value) => value === "math" ? "maths" : String(value || "").toLowerCase();
   const subject = normaliseSubject(topicMatch?.[2] || quizMatch?.[2] || slideMatch?.[2]);
   const code = (topicMatch?.[3] || quizMatch?.[3] || new URLSearchParams(location.search).get("code") || "").toUpperCase();
+  const yearToken = topicMatch?.[1]?.toLowerCase() || quizMatch?.[1]?.toLowerCase() || slideMatch?.[1]?.toLowerCase() || "";
   if (!code || !subject) return;
 
+  function loadScript(src) {
+    return new Promise((resolve, reject) => {
+      const base = src.split("?")[0];
+      const existing = [...document.scripts].find((script) => script.src.includes(base));
+      if (existing) {
+        if (existing.dataset.skillrLoaded === "true") { resolve(); return; }
+        existing.addEventListener("load", resolve, {once:true});
+        existing.addEventListener("error", reject, {once:true});
+        setTimeout(resolve,250);
+        return;
+      }
+      const script = document.createElement("script");
+      script.src = src;
+      script.async = false;
+      script.addEventListener("load",()=>{script.dataset.skillrLoaded="true";resolve();},{once:true});
+      script.addEventListener("error",reject,{once:true});
+      document.head.appendChild(script);
+    });
+  }
+
+  function loadSequence(items) {
+    return items.reduce((promise,src)=>promise.then(()=>loadScript(src)),Promise.resolve())
+      .catch((error)=>console.error("Skillr curriculum route load failed:",error));
+  }
+
+  function dataFilesFor(year, subjectName) {
+    if (year === 5) {
+      if (subjectName === "maths") return [
+        "/assets/year5-curriculum-base.js?v=2",
+        "/assets/year5-maths-data-n1.js?v=2",
+        "/assets/year5-maths-data-n2.js?v=2",
+        "/assets/year5-maths-data-am.js?v=2",
+        "/assets/year5-maths-data-spstp.js?v=2"
+      ];
+      if (subjectName === "science") return ["/assets/year5-curriculum-base.js?v=2","/assets/year5-science-data.js?v=2"];
+      return [
+        "/assets/year5-curriculum-base.js?v=2",
+        "/assets/year5-english-data-la.js?v=2",
+        "/assets/year5-english-data-le.js?v=2",
+        "/assets/year5-english-data-ly1.js?v=2",
+        "/assets/year5-english-data-ly2.js?v=2"
+      ];
+    }
+    if (year === 6) {
+      if (subjectName === "maths") return [
+        "/assets/year6-curriculum-base.js?v=1",
+        "/assets/year6-maths-data-n.js?v=1",
+        "/assets/year6-maths-data-am.js?v=1",
+        "/assets/year6-maths-data-spstp.js?v=1"
+      ];
+      if (subjectName === "science") return ["/assets/year6-curriculum-base.js?v=1","/assets/year6-science-data.js?v=1"];
+      return [
+        "/assets/year6-curriculum-base.js?v=1",
+        "/assets/year6-english-data-la.js?v=1",
+        "/assets/year6-english-data-le.js?v=1",
+        "/assets/year6-english-data-ly.js?v=1"
+      ];
+    }
+    return [];
+  }
+
+  function loadAdvancedYearAssets() {
+    const topicYear = topicMatch ? Number(topicMatch[1].replace("year","")) : null;
+    const quizYear = quizMatch && /^year-\d+$/.test(yearToken) ? Number(yearToken.replace("year-","")) : null;
+    const year = topicYear || quizYear;
+    if (![5,6].includes(year)) return;
+    const files = dataFilesFor(year,subject);
+    if (!files.length) return;
+    const mode = quizMatch?.[4]?.toLowerCase();
+    const finalScript = topicMatch
+      ? `/assets/year${year}-curriculum-render.js?v=${year === 6 ? 1 : 2}`
+      : mode === "worksheet"
+        ? `/assets/year${year}-curriculum-worksheet-page.js?v=${year === 6 ? 1 : 2}`
+        : `/assets/year${year}-curriculum-quick-read.js?v=${year === 6 ? 1 : 2}`;
+    loadSequence([...files,finalScript]);
+  }
+
+  loadAdvancedYearAssets();
+
   if (quizMatch?.[1]?.toLowerCase() === "grade-k" && quizMatch?.[4]?.toLowerCase() === "test" && ![...document.scripts].some((script) => script.src.includes("/assets/foundation-test-quick-read.js"))) {
-    const script = document.createElement("script");
-    script.src = "/assets/foundation-test-quick-read.js?v=1";
-    script.async = false;
-    document.head.appendChild(script);
+    loadScript("/assets/foundation-test-quick-read.js?v=1");
   }
 
   function findUnit() {
@@ -42,13 +119,13 @@
   }
 
   function caption() {
-    if (subject === "science") return "Observe the model. Name the parts, describe the relationship and identify evidence that would check the explanation.";
-    if (subject === "english") return "Read the visual from left to right. Explain how the words, structure or image choices change meaning for the audience.";
-    return "Use the model to identify the quantities and relationships, then explain why the representation and strategy work.";
+    if (subject === "science") return "Observe the model. Name the parts, explain the relationship and identify evidence that would test it.";
+    if (subject === "english") return "Read the visual from left to right. Explain how the language, structure or multimodal choice shapes meaning.";
+    return "Use the model to identify quantities and relationships, then explain why the strategy or property works.";
   }
 
-  function visualHtml(current, modifier) {
-    const svg = window.SkillrConceptSvg?.render(current, subject, code);
+  function visualHtml(current,modifier) {
+    const svg = window.SkillrConceptSvg?.render(current,subject,code);
     if (!svg) return "";
     return `<div class="skillr-concept-picture skillr-concept-picture--${modifier}">${svg}<p class="skillr-concept-picture__caption">${caption()}</p></div>`;
   }
@@ -60,22 +137,22 @@
     const section = document.createElement("section");
     section.className = "lesson-part";
     section.id = "skillr-topic-concept-picture";
-    section.innerHTML = `<h3>See the concept</h3>${visualHtml(current, "topic")}`;
-    const learn = [...lesson.querySelectorAll(":scope > .lesson-part")].find((part) => /learn|learning intention/i.test(part.querySelector("h3")?.textContent || ""));
-    if (learn?.nextSibling) lesson.insertBefore(section, learn.nextSibling);
-    else lesson.insertBefore(section, lesson.firstChild);
+    section.innerHTML = `<h3>See the concept</h3>${visualHtml(current,"topic")}`;
+    const learn = [...lesson.querySelectorAll(":scope > .lesson-part")].find((part)=>/learn|learning intention/i.test(part.querySelector("h3")?.textContent || ""));
+    if (learn?.nextSibling) lesson.insertBefore(section,learn.nextSibling);
+    else lesson.insertBefore(section,lesson.firstChild);
     return true;
   }
 
   function applySlide(current) {
     const root = document.getElementById("slideRoot");
     const activePanel = root?.querySelector(".teacher-slide-panel:not([hidden])") || root;
-    const hero = activePanel?.querySelector(".hero, .strand-slide-hero");
+    const hero = activePanel?.querySelector(".hero, .strand-slide-hero, .cluster-slide-hero");
     if (!root || !hero || document.getElementById("skillr-slide-concept-picture")) return false;
     const visual = document.createElement("div");
     visual.id = "skillr-slide-concept-picture";
-    visual.innerHTML = visualHtml(current, "slide");
-    hero.insertAdjacentElement("afterend", visual);
+    visual.innerHTML = visualHtml(current,"slide");
+    hero.insertAdjacentElement("afterend",visual);
     return true;
   }
 
@@ -84,9 +161,9 @@
     if (!notes || document.getElementById("skillr-quick-concept-picture")) return false;
     const visual = document.createElement("div");
     visual.id = "skillr-quick-concept-picture";
-    visual.innerHTML = visualHtml(current, "quick");
+    visual.innerHTML = visualHtml(current,"quick");
     const heading = notes.querySelector("h2");
-    heading ? heading.insertAdjacentElement("afterend", visual) : notes.prepend(visual);
+    heading ? heading.insertAdjacentElement("afterend",visual) : notes.prepend(visual);
     return true;
   }
 
@@ -95,9 +172,9 @@
     if (!paper || document.getElementById("skillr-worksheet-concept-picture")) return false;
     const visual = document.createElement("div");
     visual.id = "skillr-worksheet-concept-picture";
-    visual.innerHTML = visualHtml(current, "worksheet");
+    visual.innerHTML = visualHtml(current,"worksheet");
     const head = paper.querySelector(".worksheet-paper__head");
-    head ? head.insertAdjacentElement("afterend", visual) : paper.prepend(visual);
+    head ? head.insertAdjacentElement("afterend",visual) : paper.prepend(visual);
     return true;
   }
 
@@ -115,6 +192,6 @@
   const observer = new MutationObserver(() => {
     if (apply()) observer.disconnect();
   });
-  observer.observe(document.documentElement, { childList: true, subtree: true });
-  setTimeout(() => observer.disconnect(), 15000);
+  observer.observe(document.documentElement,{childList:true,subtree:true});
+  setTimeout(()=>observer.disconnect(),18000);
 })();
