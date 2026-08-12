@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-08-12T18:43:57.606Z",
+  "standard": {
+    "practice": 28,
+    "test": 12,
+    "quiz": 50,
+    "totalPerCode": 90
+  },
+  "codes": {
+    "AC9M1A01": {
+      "title": "Skip-counting Pattern Sequences",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 81
+    },
+    "AC9M1A02": {
+      "title": "Repeating Patterns",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 90
+    },
+    "AC9M1M01": {
+      "title": "Comparing Length, Mass, Capacity and Duration",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 15,
+        "test": 12,
+        "quiz": 15
+      },
+      "visuals": 69
+    },
+    "AC9M1M02": {
+      "title": "Measuring Length with Informal Units",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 90
+    },
+    "AC9M1M03": {
+      "title": "Time: Years, Months, Weeks, Days and Hours",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 90
+    },
+    "AC9M1SP01": {
+      "title": "Familiar Shapes and Objects",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 84
+    },
+    "AC9M1SP02": {
+      "title": "Directions and Location",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 87
+    },
+    "AC9M1ST01": {
+      "title": "Collecting Categorical Data",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 76
+    },
+    "AC9M1ST02": {
+      "title": "Representing and Comparing Data",
+      "practice": 28,
+      "test": 12,
+      "quiz": 50,
+      "skills": {
+        "practice": 16,
+        "test": 12,
+        "quiz": 16
+      },
+      "visuals": 87
+    }
+  },
+  "totals": {
+    "practice": 252,
+    "test": 108,
+    "quiz": 450,
+    "questions": 810,
+    "visuals": 754
+  },
+  "qa": "Content QA complete; human QA pending.",
+  "dailyDrills": {
+    "total": 108,
+    "bySkill": {
+      "skip-counting-equal-groups": 12,
+      "measurement-time-space-data": 95,
+      "maths-vocabulary": 1
+    },
+    "byCode": {
+      "AC9M1A01": 12,
+      "AC9M1A02": 12,
+      "AC9M1M01": 12,
+      "AC9M1M02": 12,
+      "AC9M1M03": 12,
+      "AC9M1SP01": 12,
+      "AC9M1SP02": 12,
+      "AC9M1ST01": 12,
+      "AC9M1ST02": 12
+    }
+  },
+  "visualAudit": {
+    "updatedQuestions": 810,
+    "images": 754,
+    "semanticChecks": 754,
+    "codes": {
+      "ac9m1a01": {
+        "practice": 26,
+        "test": 10,
+        "quiz": 45
+      },
+      "ac9m1a02": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1m01": {
+        "practice": 24,
+        "test": 9,
+        "quiz": 36
+      },
+      "ac9m1m02": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1m03": {
+        "practice": 28,
+        "test": 12,
+        "quiz": 50
+      },
+      "ac9m1sp01": {
+        "practice": 26,
+        "test": 11,
+        "quiz": 47
+      },
+      "ac9m1sp02": {
+        "practice": 28,
+        "test": 11,
+        "quiz": 48
+      },
+      "ac9m1st01": {
+        "practice": 22,
+        "test": 10,
+        "quiz": 44
+      },
+      "ac9m1st02": {
+        "practice": 28,
+        "test": 11,
+        "quiz": 48
+      }
+    },
+    "standard": "Purpose-built SVGs match the object, comparison, pattern, measurement or data stimulus; minimum 1.3 cm rendered size and explicit 13 cm by 5 cm source size."
+  }
+}

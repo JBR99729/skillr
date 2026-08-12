@@ -1,936 +1,1004 @@
 "use strict";
-
-/* =========================================================
-   AC9M1ST02 — Data Displays and Pictographs
-   Year 1 Mathematics AC9M1ST02
-   Question bank: 100 questions
-   Questions shown per attempt: 5
-   ========================================================= */
-
-window.quizQuestions = [
+window.skillrQuizQuestions = [
   {
-    type: "single",
-    question: "Data Displays and Pictographs question 1: Which answer fits data displays?",
-    answers: [
-      "Data Displays 2",
-      "Data Displays 3",
-      "Data Displays 4",
+    "id": "ac9m1st02-q-001",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "select true findings",
+    "skill": "select true findings",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "multiple",
+    "question": "Ruby studies this example. Select all statements supported by the display.",
+    "explanation": "The selected statements match the shown frequencies.",
+    "answers": [
+      "A has 1 more than B",
+      "B has more than A",
+      "A has 6 responses",
+      "B has 5 responses"
     ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 4."
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● B: ● ● ● ● ● This is quiz example 1."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 2: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-002",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Leo studies this example. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 8 symbols.",
+    "correct": 8,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 🍎 🍎 🍎 🍎 🍎 This is quiz example 2."
+  },
+  {
+    "id": "ac9m1st02-q-003",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "find difference in data",
+    "skill": "find difference in data",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Kai studies this example. How many more votes does A have than B?",
+    "explanation": "6 - 4 = 2.",
+    "correct": 2,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● B: ● ● ● ● This is quiz example 3."
+  },
+  {
+    "id": "ac9m1st02-q-004",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "find frequency",
+    "skill": "find frequency",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Zoe studies this example. What is the frequency for the cat category?",
+    "explanation": "Frequency means the number of symbols: 4.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Cats: ● ● ● ● This is quiz example 4."
+  },
+  {
+    "id": "ac9m1st02-q-005",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "compare more",
+    "skill": "compare more",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Sam studies this example. Which category has more responses?",
+    "explanation": "Blue has 8; red has 6.",
+    "answers": [
+      "Red",
+      "They are equal",
+      "The display cannot be read",
+      "Blue"
+    ],
+    "correct": 3,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● ● ● Blue: ● ● ● ● ● ● ● ● This is quiz example 5."
+  },
+  {
+    "id": "ac9m1st02-q-006",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "update a display",
+    "skill": "update a display",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Omar studies this example. The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
+    "explanation": "Add one new response: 4 + 1 = 5.",
+    "correct": 5,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is quiz example 6."
+  },
+  {
+    "id": "ac9m1st02-q-007",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "equal frequencies",
+    "skill": "equal frequencies",
+    "difficulty": "core",
+    "printable": true,
+    "type": "true-false",
+    "question": "Arlo studies this example. The two categories have the same frequency.",
+    "explanation": "Both rows contain 8 symbols.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● ● This is quiz example 7."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 3: Complete the statement: Data Displays needs 4 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[4]],
-    explanation: "The answer is 4."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 4: data displays problem 4. What is 9?",
-    placeholder: "Type the number",
-    correct: 9,
-    tolerance: 0,
-    explanation: "The correct answer is 9."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 5: Which answer fits data displays?",
-    answers: [
-      "Data Displays 6",
-      "Data Displays 7",
-      "Data Displays 8",
+    "id": "ac9m1st02-q-008",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "most popular category",
+    "skill": "most popular category",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "single",
+    "question": "Mia studies this example. Which colour has the greatest frequency?",
+    "explanation": "red has the most responses.",
+    "answers": [
+      "blue",
+      "red",
+      "green",
+      "all are equal"
     ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 6."
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: red: ● ● ● ● ● ● blue: ● ● ● ● green: ● ● ● ● This is quiz example 8."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 6: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-009",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "supported finding",
+    "skill": "supported finding",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Kai studies this example. Which statement is supported by the display?",
+    "explanation": "8 is greater than 3.",
+    "answers": [
+      "B has more than A",
+      "A and B are equal",
+      "A has more than B",
+      "Everyone chose B"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● ● B: ● ● ● This is quiz example 9."
+  },
+  {
+    "id": "ac9m1st02-q-010",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "discuss a finding",
+    "skill": "discuss a finding",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Mia studies this example. Which sentence clearly discusses the data?",
+    "explanation": "The sentence compares frequencies using evidence.",
+    "answers": [
+      "A is nicer",
+      "There are 2 more A responses than B responses",
+      "The colours are pretty",
+      "No conclusion can be made"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● ● ● This is quiz example 10."
+  },
+  {
+    "id": "ac9m1st02-q-011",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "least popular category",
+    "skill": "least popular category",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Leo studies this example. Which travel category has the fewest responses?",
+    "explanation": "bus has the smallest frequency.",
+    "answers": [
+      "walk",
+      "bus",
+      "car",
+      "all are equal"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: walk: ● ● ● ● ● bus: ● ● ● ● car: ● ● ● ● ● ● ● This is quiz example 11."
+  },
+  {
+    "id": "ac9m1st02-q-012",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "complete a display",
+    "skill": "complete a display",
+    "difficulty": "application",
+    "printable": true,
+    "type": "number",
+    "question": "Lina studies this example. The table says 6 children chose bikes. 4 bike symbols are shown. How many symbols are missing?",
+    "explanation": "6 - 4 = 2.",
+    "correct": 2,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 This is quiz example 12."
+  },
+  {
+    "id": "ac9m1st02-q-013",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "identify counting error",
+    "skill": "identify counting error",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo studies this example. Sam counts 6 symbols but writes a frequency of 7. What should be corrected?",
+    "explanation": "The frequency must equal the number of shown symbols.",
+    "answers": [
+      "Add another symbol without data",
+      "Write 6",
+      "Keep 7",
+      "Remove the category name"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Category: ● ● ● ● ● ● This is quiz example 13."
+  },
+  {
+    "id": "ac9m1st02-q-014",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Mia studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "B: 7",
+      "A: 4",
+      "C: 10"
+    ],
+    "correct": [
+      "A: 4",
+      "B: 7",
+      "C: 10"
+    ],
+    "instruction": "Arrange the items in the correct order.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: order category frequencies This is quiz example 14."
+  },
+  {
+    "id": "ac9m1st02-q-015",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "digital display purpose",
+    "skill": "digital display purpose",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Zoe studies this example. Why might a digital chart be useful?",
+    "explanation": "Digital tools can represent and update collected data.",
+    "answers": [
+      "It changes the answers",
+      "It removes the need to collect data",
+      "It can organise, count and update category data clearly",
+      "It makes every category equal"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. This is quiz example 15."
+  },
+  {
+    "id": "ac9m1st02-q-016",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "one-to-one key",
+    "skill": "one-to-one key",
+    "difficulty": "application",
+    "printable": true,
+    "type": "true-false",
+    "question": "Sam uses stones. Zoe studies this example. In a one-to-one picture display, one symbol represents one data item.",
+    "explanation": "One-to-one means each symbol stands for one response.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: one-to-one key This is quiz example 16."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 7: Complete the statement: Data Displays needs 8 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[8]],
-    explanation: "The answer is 8."
+    "id": "ac9m1st02-q-017",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Omar studies this example. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 4 symbols.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 🍎 This is quiz example 17."
   },
   {
-    type: "number",
-    question: "Data Displays and Pictographs question 8: data displays problem 8. What is 17?",
-    placeholder: "Type the number",
-    correct: 17,
-    tolerance: 0,
-    explanation: "The correct answer is 17."
+    "id": "ac9m1st02-q-018",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Arlo studies this example. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 8 symbols.",
+    "correct": 8,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 🍎 🍎 🍎 🍎 🍎 This is quiz example 18."
   },
   {
-    type: "single",
-    question: "Data Displays and Pictographs question 9: Which answer fits data displays?",
-    answers: [
-      "Data Displays 10",
-      "Data Displays 11",
-      "Data Displays 12",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 11."
+    "id": "ac9m1st02-q-019",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Nina studies this example. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 3 symbols.",
+    "correct": 3,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 This is quiz example 19."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 10: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-020",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "update a display",
+    "skill": "update a display",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Ruby studies this example. The dog category has 4 symbols. One more child chooses dog. What is the new frequency?",
+    "explanation": "Add one new response: 4 + 1 = 5.",
+    "correct": 5,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● This is quiz example 20."
+  },
+  {
+    "id": "ac9m1st02-q-021",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "equal frequencies",
+    "skill": "equal frequencies",
+    "difficulty": "core",
+    "printable": true,
+    "type": "true-false",
+    "question": "Noah studies this example. The two categories have the same frequency.",
+    "explanation": "Both rows contain 6 symbols.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● Cats: ● ● ● ● ● ● This is quiz example 21."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 11: Complete the statement: Data Displays needs 2 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[2]],
-    explanation: "The answer is 2."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 12: data displays problem 12. What is 5?",
-    placeholder: "Type the number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The correct answer is 5."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 13: Which answer fits data displays?",
-    answers: [
-      "Data Displays 14",
-      "Data Displays 15",
-      "Data Displays 16",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 16."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 14: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-022",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "equal frequencies",
+    "skill": "equal frequencies",
+    "difficulty": "core",
+    "printable": true,
+    "type": "true-false",
+    "question": "Count each symbol once in this mixed-review display. The two categories have the same frequency.",
+    "explanation": "Both rows contain 7 symbols.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● ● ● ● Cats: ● ● ● ● ● ● ● This is quiz example 22."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 15: Complete the statement: Data Displays needs 6 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[6]],
-    explanation: "The answer is 6."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 16: data displays problem 16. What is 13?",
-    placeholder: "Type the number",
-    correct: 13,
-    tolerance: 0,
-    explanation: "The correct answer is 13."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 17: Which answer fits data displays?",
-    answers: [
-      "Data Displays 18",
-      "Data Displays 19",
-      "Data Displays 20",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 18."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 18: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-023",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "equal frequencies",
+    "skill": "equal frequencies",
+    "difficulty": "core",
+    "printable": true,
+    "type": "true-false",
+    "question": "Nina studies this example. The two categories have the same frequency.",
+    "explanation": "Both rows contain 3 symbols.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● Cats: ● ● ● This is quiz example 23."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 19: Complete the statement: Data Displays needs 10 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[10]],
-    explanation: "The answer is 10."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 20: data displays problem 20. What is 1?",
-    placeholder: "Type the number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "The correct answer is 1."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 21: Which answer fits data displays?",
-    answers: [
-      "Data Displays 22",
-      "Data Displays 23",
-      "Data Displays 24",
+    "id": "ac9m1st02-q-024",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "compare more",
+    "skill": "compare more",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo studies this example. Which category has more responses?",
+    "explanation": "Blue has 7; red has 5.",
+    "answers": [
+      "Red",
+      "They are equal",
+      "The display cannot be read",
+      "Blue"
     ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 23."
+    "correct": 3,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● ● Blue: ● ● ● ● ● ● ● This is quiz example 24."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 22: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-025",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "update a display",
+    "skill": "update a display",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Nina studies this example. The dog category has 3 symbols. One more child chooses dog. What is the new frequency?",
+    "explanation": "Add one new response: 3 + 1 = 4.",
+    "correct": 4,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● This is quiz example 25."
+  },
+  {
+    "id": "ac9m1st02-q-026",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "find difference in data",
+    "skill": "find difference in data",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Nina studies this example. How many more votes does A have than B?",
+    "explanation": "4 - 2 = 2.",
+    "correct": 2,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● B: ● ● This is quiz example 26."
+  },
+  {
+    "id": "ac9m1st02-q-027",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "equal frequencies",
+    "skill": "equal frequencies",
+    "difficulty": "core",
+    "printable": true,
+    "type": "true-false",
+    "question": "Omar studies this example. The two categories have the same frequency.",
+    "explanation": "Both rows contain 4 symbols.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs: ● ● ● ● Cats: ● ● ● ● This is quiz example 27."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 23: Complete the statement: Data Displays needs 4 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[4]],
-    explanation: "The answer is 4."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 24: data displays problem 24. What is 9?",
-    placeholder: "Type the number",
-    correct: 9,
-    tolerance: 0,
-    explanation: "The correct answer is 9."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 25: Which answer fits data displays?",
-    answers: [
-      "Data Displays 26",
-      "Data Displays 27",
-      "Data Displays 28",
+    "id": "ac9m1st02-q-028",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "select true findings",
+    "skill": "select true findings",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "multiple",
+    "question": "Count each symbol once in this mixed-review display. Select all statements supported by the display.",
+    "explanation": "The selected statements match the shown frequencies.",
+    "answers": [
+      "A has 3 more than B",
+      "B has more than A",
+      "A has 7 responses",
+      "B has 4 responses"
     ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 28."
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "instruction": "Select all correct answers.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● ● This is quiz example 28."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 26: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-029",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Count each symbol once in this mixed-review display. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 7 symbols.",
+    "correct": 7,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 🍎 🍎 🍎 🍎 This is quiz example 29."
+  },
+  {
+    "id": "ac9m1st02-q-030",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Arlo studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "C: 10",
+      "B: 7",
+      "A: 4"
+    ],
+    "correct": [
+      "A: 4",
+      "B: 7",
+      "C: 10"
+    ],
+    "instruction": "Arrange the items in the correct order."
+  },
+  {
+    "id": "ac9m1st02-q-031",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Omar studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "B: 6",
+      "A: 3",
+      "C: 9"
+    ],
+    "correct": [
+      "A: 3",
+      "B: 6",
+      "C: 9"
+    ],
+    "instruction": "Arrange the items in the correct order.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: order category frequencies This is quiz example 31."
+  },
+  {
+    "id": "ac9m1st02-q-032",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Leo uses beads. Ava studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "B: 6",
+      "A: 3",
+      "C: 9"
+    ],
+    "correct": [
+      "A: 3",
+      "B: 6",
+      "C: 9"
+    ],
+    "instruction": "Arrange the items in the correct order.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: order category frequencies This is quiz example 32."
+  },
+  {
+    "id": "ac9m1st02-q-033",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Nina studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "A: 2",
+      "C: 8",
+      "B: 5"
+    ],
+    "correct": [
+      "A: 2",
+      "B: 5",
+      "C: 8"
+    ],
+    "instruction": "Arrange the items in the correct order."
+  },
+  {
+    "id": "ac9m1st02-q-034",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "order category frequencies",
+    "skill": "order category frequencies",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "order",
+    "question": "Ava uses shells. Noah studies this example. Order the categories from fewest to most responses.",
+    "explanation": "Compare each frequency from smallest to largest.",
+    "items": [
+      "C: 8",
+      "A: 2",
+      "B: 5"
+    ],
+    "correct": [
+      "A: 2",
+      "B: 5",
+      "C: 8"
+    ],
+    "instruction": "Arrange the items in the correct order.",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: order category frequencies This is quiz example 34."
+  },
+  {
+    "id": "ac9m1st02-q-035",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "most popular category",
+    "skill": "most popular category",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "single",
+    "question": "Count each symbol once in this mixed-review display. Which colour has the greatest frequency?",
+    "explanation": "red has the most responses.",
+    "answers": [
+      "blue",
+      "green",
+      "red",
+      "all are equal"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: red: ● ● ● ● ● ● ● blue: ● ● green: ● ● ● ● ● This is quiz example 35."
+  },
+  {
+    "id": "ac9m1st02-q-036",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "find difference in data",
+    "skill": "find difference in data",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "Count each symbol once in this mixed-review display. How many more votes does A have than B?",
+    "explanation": "8 - 5 = 3.",
+    "correct": 3,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● ● B: ● ● ● ● ● This is quiz example 36."
+  },
+  {
+    "id": "ac9m1st02-q-037",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "discuss a finding",
+    "skill": "discuss a finding",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Count each symbol once in this mixed-review display. Which sentence clearly discusses the data?",
+    "explanation": "The sentence compares frequencies using evidence.",
+    "answers": [
+      "A is nicer",
+      "There are 4 more A responses than B responses",
+      "The colours are pretty",
+      "No conclusion can be made"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● This is quiz example 37."
+  },
+  {
+    "id": "ac9m1st02-q-038",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "identify counting error",
+    "skill": "identify counting error",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Nina counts 6 symbols but writes a frequency of 7. What should be corrected?",
+    "explanation": "The frequency must equal the number of shown symbols.",
+    "answers": [
+      "Add another symbol without data",
+      "Keep 7",
+      "Write 6",
+      "Remove the category name"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Category: ● ● ● ● ● ● This is quiz example 38."
+  },
+  {
+    "id": "ac9m1st02-q-039",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "identify counting error",
+    "skill": "identify counting error",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Lina counts 9 symbols but writes a frequency of 10. What should be corrected?",
+    "explanation": "The frequency must equal the number of shown symbols.",
+    "answers": [
+      "Write 9",
+      "Add another symbol without data",
+      "Keep 10",
+      "Remove the category name"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22499%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22499%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Category: ● ● ● ● ● ● ● ● ● This is quiz example 39."
+  },
+  {
+    "id": "ac9m1st02-q-040",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "least popular category",
+    "skill": "least popular category",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Count each symbol once in this mixed-review display. Which travel category has the fewest responses?",
+    "explanation": "bus has the smallest frequency.",
+    "answers": [
+      "walk",
+      "car",
+      "bus",
+      "all are equal"
+    ],
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: walk: ● ● ● ● ● ● bus: ● ● car: ● ● ● ● ● ● ● ● This is quiz example 40."
+  },
+  {
+    "id": "ac9m1st02-q-041",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "supported finding",
+    "skill": "supported finding",
+    "difficulty": "challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Count each symbol once in this mixed-review display. Which statement is supported by the display?",
+    "explanation": "7 is greater than 3.",
+    "answers": [
+      "B has more than A",
+      "A has more than B",
+      "A and B are equal",
+      "Everyone chose B"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: A: ● ● ● ● ● ● ● B: ● ● ● This is quiz example 41."
+  },
+  {
+    "id": "ac9m1st02-q-042",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "compare more",
+    "skill": "compare more",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Count each symbol once in this mixed-review display. Which category has more responses?",
+    "explanation": "Blue has 9; red has 7.",
+    "answers": [
+      "Blue",
+      "Red",
+      "They are equal",
+      "The display cannot be read"
+    ],
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Red: ● ● ● ● ● ● ● Blue: ● ● ● ● ● ● ● ● ● This is quiz example 42."
+  },
+  {
+    "id": "ac9m1st02-q-043",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "update a display",
+    "skill": "update a display",
+    "difficulty": "core",
+    "printable": true,
+    "type": "number",
+    "question": "The dog category has 6 symbols. One more child chooses dog. What is the new frequency?",
+    "explanation": "Add one new response: 6 + 1 = 7.",
+    "correct": 7,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Dogs before: ● ● ● ● ● ● This is quiz example 43."
+  },
+  {
+    "id": "ac9m1st02-q-044",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "identify counting error",
+    "skill": "identify counting error",
+    "difficulty": "core",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo counts 5 symbols but writes a frequency of 6. What should be corrected?",
+    "explanation": "The frequency must equal the number of shown symbols.",
+    "answers": [
+      "Add another symbol without data",
+      "Write 5",
+      "Keep 6",
+      "Remove the category name"
+    ],
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Category: ● ● ● ● ● This is quiz example 44."
+  },
+  {
+    "id": "ac9m1st02-q-045",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "complete a display",
+    "skill": "complete a display",
+    "difficulty": "application",
+    "printable": true,
+    "type": "number",
+    "question": "The table says 9 children chose bikes. 7 bike symbols are shown. How many symbols are missing?",
+    "explanation": "9 - 7 = 2.",
+    "correct": 2,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22499%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22415%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22457%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Bikes shown: 🚲 🚲 🚲 🚲 🚲 🚲 🚲 This is quiz example 45."
+  },
+  {
+    "id": "ac9m1st02-q-046",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "one-to-one key",
+    "skill": "one-to-one key",
+    "difficulty": "application",
+    "printable": true,
+    "type": "true-false",
+    "question": "Noah studies this example. In a one-to-one picture display, one symbol represents one data item.",
+    "explanation": "One-to-one means each symbol stands for one response.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: one-to-one key This is quiz example 46."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 27: Complete the statement: Data Displays needs 8 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[8]],
-    explanation: "The answer is 8."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 28: data displays problem 28. What is 17?",
-    placeholder: "Type the number",
-    correct: 17,
-    tolerance: 0,
-    explanation: "The correct answer is 17."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 29: Which answer fits data displays?",
-    answers: [
-      "Data Displays 30",
-      "Data Displays 31",
-      "Data Displays 32",
+    "id": "ac9m1st02-q-047",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "digital display purpose",
+    "skill": "digital display purpose",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Arlo uses cards. Lina studies this example. Why might a digital chart be useful?",
+    "explanation": "Digital tools can represent and update collected data.",
+    "answers": [
+      "It changes the answers",
+      "It removes the need to collect data",
+      "It can organise, count and update category data clearly",
+      "It makes every category equal"
     ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 30."
+    "correct": 2,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: digital display purpose This is quiz example 47."
   },
   {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 30: Data Displays can be checked by counting carefully.",
-    answers: [
+    "id": "ac9m1st02-q-048",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "one-to-one key",
+    "skill": "one-to-one key",
+    "difficulty": "application",
+    "printable": true,
+    "type": "true-false",
+    "question": "Ruby uses counters. Sam studies this example. In a one-to-one picture display, one symbol represents one data item.",
+    "explanation": "One-to-one means each symbol stands for one response.",
+    "answers": [
       "True",
       "False"
     ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
+    "correct": 0,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. This is quiz example 48."
   },
   {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 31: Complete the statement: Data Displays needs 2 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[2]],
-    explanation: "The answer is 2."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 32: data displays problem 32. What is 5?",
-    placeholder: "Type the number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The correct answer is 5."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 33: Which answer fits data displays?",
-    answers: [
-      "Data Displays 34",
-      "Data Displays 35",
-      "Data Displays 36",
+    "id": "ac9m1st02-q-049",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "digital display purpose",
+    "skill": "digital display purpose",
+    "difficulty": "application",
+    "printable": true,
+    "type": "single",
+    "question": "Lina uses apples. Kai studies this example. Why might a digital chart be useful?",
+    "explanation": "Digital tools can represent and update collected data.",
+    "answers": [
+      "It changes the answers",
+      "It can organise, count and update category data clearly",
+      "It removes the need to collect data",
+      "It makes every category equal"
     ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 35."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 34: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 35: Complete the statement: Data Displays needs 6 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[6]],
-    explanation: "The answer is 6."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 36: data displays problem 36. What is 13?",
-    placeholder: "Type the number",
-    correct: 13,
-    tolerance: 0,
-    explanation: "The correct answer is 13."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 37: Which answer fits data displays?",
-    answers: [
-      "Data Displays 38",
-      "Data Displays 39",
-      "Data Displays 40",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 40."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 38: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 39: Complete the statement: Data Displays needs 10 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[10]],
-    explanation: "The answer is 10."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 40: data displays problem 40. What is 1?",
-    placeholder: "Type the number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "The correct answer is 1."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 41: Which answer fits data displays?",
-    answers: [
-      "Data Displays 42",
-      "Data Displays 43",
-      "Data Displays 44",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 42."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 42: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 43: Complete the statement: Data Displays needs 4 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[4]],
-    explanation: "The answer is 4."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 44: data displays problem 44. What is 9?",
-    placeholder: "Type the number",
-    correct: 9,
-    tolerance: 0,
-    explanation: "The correct answer is 9."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 45: Which answer fits data displays?",
-    answers: [
-      "Data Displays 46",
-      "Data Displays 47",
-      "Data Displays 48",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 47."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 46: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 47: Complete the statement: Data Displays needs 8 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[8]],
-    explanation: "The answer is 8."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 48: data displays problem 48. What is 17?",
-    placeholder: "Type the number",
-    correct: 17,
-    tolerance: 0,
-    explanation: "The correct answer is 17."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 49: Which answer fits data displays?",
-    answers: [
-      "Data Displays 50",
-      "Data Displays 51",
-      "Data Displays 52",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 52."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 50: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 51: Complete the statement: Data Displays needs 2 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[2]],
-    explanation: "The answer is 2."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 52: data displays problem 52. What is 5?",
-    placeholder: "Type the number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The correct answer is 5."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 53: Which answer fits data displays?",
-    answers: [
-      "Data Displays 54",
-      "Data Displays 55",
-      "Data Displays 56",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 54."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 54: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 55: Complete the statement: Data Displays needs 6 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[6]],
-    explanation: "The answer is 6."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 56: data displays problem 56. What is 13?",
-    placeholder: "Type the number",
-    correct: 13,
-    tolerance: 0,
-    explanation: "The correct answer is 13."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 57: Which answer fits data displays?",
-    answers: [
-      "Data Displays 58",
-      "Data Displays 59",
-      "Data Displays 60",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 59."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 58: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 59: Complete the statement: Data Displays needs 10 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[10]],
-    explanation: "The answer is 10."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 60: data displays problem 60. What is 1?",
-    placeholder: "Type the number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "The correct answer is 1."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 61: Which answer fits data displays?",
-    answers: [
-      "Data Displays 62",
-      "Data Displays 63",
-      "Data Displays 64",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 64."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 62: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 63: Complete the statement: Data Displays needs 4 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[4]],
-    explanation: "The answer is 4."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 64: data displays problem 64. What is 9?",
-    placeholder: "Type the number",
-    correct: 9,
-    tolerance: 0,
-    explanation: "The correct answer is 9."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 65: Which answer fits data displays?",
-    answers: [
-      "Data Displays 66",
-      "Data Displays 67",
-      "Data Displays 68",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 66."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 66: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 67: Complete the statement: Data Displays needs 8 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[8]],
-    explanation: "The answer is 8."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 68: data displays problem 68. What is 17?",
-    placeholder: "Type the number",
-    correct: 17,
-    tolerance: 0,
-    explanation: "The correct answer is 17."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 69: Which answer fits data displays?",
-    answers: [
-      "Data Displays 70",
-      "Data Displays 71",
-      "Data Displays 72",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 71."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 70: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 71: Complete the statement: Data Displays needs 2 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[2]],
-    explanation: "The answer is 2."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 72: data displays problem 72. What is 5?",
-    placeholder: "Type the number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The correct answer is 5."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 73: Which answer fits data displays?",
-    answers: [
-      "Data Displays 74",
-      "Data Displays 75",
-      "Data Displays 76",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 76."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 74: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 75: Complete the statement: Data Displays needs 6 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[6]],
-    explanation: "The answer is 6."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 76: data displays problem 76. What is 13?",
-    placeholder: "Type the number",
-    correct: 13,
-    tolerance: 0,
-    explanation: "The correct answer is 13."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 77: Which answer fits data displays?",
-    answers: [
-      "Data Displays 78",
-      "Data Displays 79",
-      "Data Displays 80",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 78."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 78: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 79: Complete the statement: Data Displays needs 10 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[10]],
-    explanation: "The answer is 10."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 80: data displays problem 80. What is 1?",
-    placeholder: "Type the number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "The correct answer is 1."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 81: Which answer fits data displays?",
-    answers: [
-      "Data Displays 82",
-      "Data Displays 83",
-      "Data Displays 84",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 83."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 82: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 83: Complete the statement: Data Displays needs 4 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[4]],
-    explanation: "The answer is 4."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 84: data displays problem 84. What is 9?",
-    placeholder: "Type the number",
-    correct: 9,
-    tolerance: 0,
-    explanation: "The correct answer is 9."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 85: Which answer fits data displays?",
-    answers: [
-      "Data Displays 86",
-      "Data Displays 87",
-      "Data Displays 88",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 88."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 86: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 87: Complete the statement: Data Displays needs 8 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[8]],
-    explanation: "The answer is 8."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 88: data displays problem 88. What is 17?",
-    placeholder: "Type the number",
-    correct: 17,
-    tolerance: 0,
-    explanation: "The correct answer is 17."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 89: Which answer fits data displays?",
-    answers: [
-      "Data Displays 90",
-      "Data Displays 91",
-      "Data Displays 92",
-    ],
-    correct: 0,
-    explanation: "The correct answer is Data Displays 90."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 90: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 91: Complete the statement: Data Displays needs 2 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[2]],
-    explanation: "The answer is 2."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 92: data displays problem 92. What is 5?",
-    placeholder: "Type the number",
-    correct: 5,
-    tolerance: 0,
-    explanation: "The correct answer is 5."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 93: Which answer fits data displays?",
-    answers: [
-      "Data Displays 94",
-      "Data Displays 95",
-      "Data Displays 96",
-    ],
-    correct: 1,
-    explanation: "The correct answer is Data Displays 95."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 94: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 95: Complete the statement: Data Displays needs 6 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[6]],
-    explanation: "The answer is 6."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 96: data displays problem 96. What is 13?",
-    placeholder: "Type the number",
-    correct: 13,
-    tolerance: 0,
-    explanation: "The correct answer is 13."
-  },
-  {
-    type: "single",
-    question: "Data Displays and Pictographs question 97: Which answer fits data displays?",
-    answers: [
-      "Data Displays 98",
-      "Data Displays 99",
-      "Data Displays 100",
-    ],
-    correct: 2,
-    explanation: "The correct answer is Data Displays 100."
-  },
-  {
-    type: "true-false",
-    question: "Data Displays and Pictographs question 98: Data Displays can be checked by counting carefully.",
-    answers: [
-      "True",
-      "False"
-    ],
-    correct: 1,
-    explanation: "Use the clue to decide if the statement is true or false."
-  },
-  {
-    type: "fill-blank",
-    question: "Data Displays and Pictographs question 99: Complete the statement: Data Displays needs 10 objects.",
-    template: "data displays has {{blank}} objects.",
-    placeholder: "?",
-    acceptedAnswers: [[10]],
-    explanation: "The answer is 10."
-  },
-  {
-    type: "number",
-    question: "Data Displays and Pictographs question 100: data displays problem 100. What is 1?",
-    placeholder: "Type the number",
-    correct: 1,
-    tolerance: 0,
-    explanation: "The correct answer is 1."
-  },
+    "correct": 1,
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Representing and Comparing Data: digital display purpose This is quiz example 49."
+  },
+  {
+    "id": "ac9m1st02-q-050",
+    "curriculumCode": "AC9M1ST02",
+    "bank": "quiz",
+    "learningArea": "read one-to-one display",
+    "skill": "read one-to-one display",
+    "difficulty": "easy",
+    "printable": true,
+    "type": "number",
+    "question": "Noah studies this example. How many children chose apples?",
+    "explanation": "Each apple symbol represents one child, so count 6 symbols.",
+    "correct": 6,
+    "tolerance": 0,
+    "placeholder": "Type the number",
+    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20246%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%3Ctitle%20id%3D%22title%22%3ERepresenting%20and%20Comparing%20Data%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Fdesc%3E%3Cstyle%3E%0A.bg%7Bfill%3A%23f8fbff%7D.panel%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A2%7D.line%7Bstroke%3A%23173968%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bfill%3Anone%7D.thin%7Bstroke%3A%237890ad%3Bstroke-width%3A2%3Bfill%3Anone%7D.arrow%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%3Bstroke-linejoin%3Around%3Bfill%3Anone%3Bmarker-end%3Aurl(%23arrow)%7D.blue%7Bfill%3A%234dabf7%3Bstroke%3A%23173968%3Bstroke-width%3A2%7D.green%7Bfill%3A%2369db7c%3Bstroke%3A%2317643a%3Bstroke-width%3A2%7D.yellow%7Bfill%3A%23ffd43b%3Bstroke%3A%23a35d00%3Bstroke-width%3A2%7D.red%7Bfill%3A%23ff8787%3Bstroke%3A%23a61e4d%3Bstroke-width%3A2%7D.purple%7Bfill%3A%23b197fc%3Bstroke%3A%235f3dc4%3Bstroke-width%3A2%7D.white%7Bfill%3A%23fff%3Bstroke%3A%237890ad%3Bstroke-width%3A2%7D.label%7Bfont%3A800%2017px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23173968%7D.small%7Bfont%3A700%2014px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%23203047%7D.tiny%7Bfont%3A700%2011px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.caption%7Bfont%3A700%2013px%20Arial%2CHelvetica%2Csans-serif%3Bfill%3A%2340536d%7D.tally%7Bstroke%3A%232457d6%3Bstroke-width%3A5%3Bstroke-linecap%3Around%7D.grid%7Bfill%3A%23fff%3Bstroke%3A%239dbcf6%3Bstroke-width%3A1.5%7D%3C%2Fstyle%3E%3Cdefs%3E%3Cmarker%20id%3D%22arrow%22%20markerWidth%3D%2210%22%20markerHeight%3D%2210%22%20refX%3D%228%22%20refY%3D%225%22%20orient%3D%22auto%22%3E%3Cpath%20d%3D%22M0%200%20L10%205%20L0%2010%20Z%22%20fill%3D%22%232457d6%22%2F%3E%3C%2Fmarker%3E%3C%2Fdefs%3E%3Crect%20width%3D%22640%22%20height%3D%22246%22%20rx%3D%2218%22%20class%3D%22bg%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%2278%22%20class%3D%22small%22%3Ecats%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ccircle%20cx%3D%22373%22%20cy%3D%2272%22%20r%3D%2214%22%20class%3D%22blue%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22128%22%20class%3D%22small%22%3Edogs%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22122%22%20r%3D%2214%22%20class%3D%22green%22%2F%3E%3Ctext%20x%3D%2292%22%20y%3D%22178%22%20class%3D%22small%22%3Ebirds%3C%2Ftext%3E%3Ccircle%20cx%3D%22205%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22247%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22289%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ccircle%20cx%3D%22331%22%20cy%3D%22172%22%20r%3D%2214%22%20class%3D%22yellow%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22198%22%20class%3D%22tiny%22%20text-anchor%3D%22middle%22%3EKey%3A%20each%20circle%20represents%201%20response%3C%2Ftext%3E%3Crect%20x%3D%2220%22%20y%3D%22207%22%20width%3D%22600%22%20height%3D%2227%22%20rx%3D%228%22%20class%3D%22panel%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20class%3D%22caption%22%20text-anchor%3D%22middle%22%3EA%20one-to-one%20picture%20display%20uses%20one%20circle%20for%20each%20response%20in%20a%20labelled%20category.%3C%2Ftext%3E%3C%2Fsvg%3E",
+    "imageAlt": "A one-to-one picture display uses one circle for each response in a labelled category. Specific example: Apples: 🍎 🍎 🍎 🍎 🍎 🍎 This is quiz example 50."
+  }
 ];
+window.quizQuestions = window.skillrQuizQuestions;
