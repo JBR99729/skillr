@@ -36,6 +36,13 @@
     document.head.appendChild(scienceQuickReadScript);
   }
 
+  if (!document.querySelector('script[data-skillr-foundation-science-worksheet]')) {
+    const scienceWorksheetScript = document.createElement("script");
+    scienceWorksheetScript.src = "/assets/foundation-science-worksheet-page.js?v=1";
+    scienceWorksheetScript.dataset.skillrFoundationScienceWorksheet = "true";
+    document.head.appendChild(scienceWorksheetScript);
+  }
+
   const foundationMathsTopic =
     /^\/foundation\/maths\/ac9mf/i.test(window.location.pathname) &&
     !document.getElementById("teaching-lesson");
@@ -65,7 +72,8 @@
   if (foundationScienceTopic && !document.querySelector('script[data-skillr-foundation-science-render]')) {
     const scienceScripts = [
       "/assets/foundation-science-data.js?v=1",
-      "/assets/foundation-science-render.js?v=1"
+      "/assets/foundation-science-render.js?v=1",
+      "/assets/foundation-science-curriculum-scope.js?v=1"
     ];
     const loadScienceScript = (index) => {
       if (index >= scienceScripts.length) return;
