@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "examine how particular structural features and behaviours of living things…",
       "examine why advances in science are often the result of collaboration or…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions, including, as…",
       "identify physical and behavioural characteristics that enable a plant or…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "examine how particular structural features and behaviours of living things…",
       "investigating how humans have changed local landscapes and predicting the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "investigating the shadows that are formed when light is completely or…",
       "using physical or digital simulations to explore how the shape of animals’…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse and evaluate how language features are used to represent a…",
       "investigate a range of cohesive devices that condense information in texts,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how symbols in still and moving images augment meaning",
       "analysing the use of language in the coverage of a contentious issue in a…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse and evaluate how language features are used to represent a…",
       "analyse how representations of people, places, events and concepts reflect…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "comparing a range of advocacy, campaign or inspirational speeches from films…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse how vocabulary choices contribute to style, mood and tone",
       "investigate a range of cohesive devices that condense information in texts,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how symbols in still and moving images augment meaning",
       "identifying the words used to create nuanced meaning; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse how vocabulary choices contribute to style, mood and tone",
       "listen to spoken texts that have different purposes and audiences, analysing…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "identifying how the vocabulary used in a text contributes to its stylistic…",

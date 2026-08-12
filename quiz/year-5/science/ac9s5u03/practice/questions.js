@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify sources of light, recognise that light travels in a straight path…",
       "examine why advances in science are often the result of collaboration or…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions, including, as…",
       "distinguishing between natural (such as glow worms, the sun and stars) and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify sources of light, recognise that light travels in a straight path…",
       "identifying types of weathering caused by mechanical means such as by wind…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5u03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "modelling the effects of erosion on a simulated landscape and exploring…",
       "observing refraction of light using prisms or water droplets and examining…",

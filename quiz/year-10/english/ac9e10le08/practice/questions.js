@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10le08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "create and edit literary texts with a sustained “voice”, selecting and…",
       "understand how paragraph structure can be varied to create cohesion, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10le08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "evaluate the features of still and moving images, and the effects of those…",
       "experimenting with the aesthetic features that authors use in their own texts",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10le08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "create and edit literary texts with a sustained “voice”, selecting and…",
       "analyse and evaluate the aesthetic qualities of texts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10le08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse and evaluate how language features are used to implicitly or…",
       "describing choices of text structures, literary devices, language, auditory…",

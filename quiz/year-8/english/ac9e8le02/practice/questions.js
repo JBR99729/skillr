@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "share opinions about the language features, literary devices and text…",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "comparing reviews of a literary text and evaluating opinions that challenge…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "share opinions about the language features, literary devices and text…",
       "use interaction skills for identified purposes and situations, including when…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8le02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "reflecting on and evaluating opinions and arguments about aspects of literary…",

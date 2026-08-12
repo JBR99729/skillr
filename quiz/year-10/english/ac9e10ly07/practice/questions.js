@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly07-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations by…",
       "understand how paragraph structure can be varied to create cohesion, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly07-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "evaluate the features of still and moving images, and the effects of those…",
       "taking the role of a character in a reflective monologue, and considering and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly07-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations by…",
       "analyse and evaluate the aesthetic qualities of texts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly07-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "listen to spoken texts and explain the purposes and effects of text…",
       "discussing and negotiating with peers in debates and panel discussions about…",

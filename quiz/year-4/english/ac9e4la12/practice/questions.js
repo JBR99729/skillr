@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la12-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand that punctuation signals dialogue through quotation marks and that…",
       "identify how text connectives including temporal and conditional words, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la12-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how quoted (direct) and reported (indirect) speech are used",
       "identifying the use of quotation marks, capital letters, commas and boundary…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la12-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand that punctuation signals dialogue through quotation marks and that…",
       "create and edit literary texts by developing storylines, characters and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4la12-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify the characteristic features used in imaginative, informative and…",
       "using punctuated dialogue in own writing",

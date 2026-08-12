@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6p01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6p01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "recognising that the probability of an event occurring can be represented…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6p01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise that probabilities lie on numerical scales of 0 - 1 or 0% - 100%…",
       "identify the relationships between angles on a straight line, angles at a…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6p01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognise and use combinations of transformations to create tessellations and…",
       "recognising the language used to describe situations involving uncertainty,…",

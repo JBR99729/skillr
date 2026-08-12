@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how noun groups can be expanded in a variety of ways to provide a…",
       "understand how texts can be made cohesive by using the starting point of a…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand how vocabulary is used to express greater precision of meaning,…",
       "learning how to expand a description by combining a related set of nouns and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how noun groups can be expanded in a variety of ways to provide a…",
       "explain characteristic features used in imaginative, informative and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5la06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "learning how to expand a description by combining a related set of nouns and…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "select and use equipment to generate and record data with precision to obtain…",
       "use models of energy flow between the geosphere, biosphere, hydrosphere and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify patterns in synthesis, decomposition and displacement reactions and…",
       "ensuring instruments are correctly calibrated before use and planning for…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "select and use equipment to generate and record data with precision to obtain…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "using models and diagrams to represent the relationship between genes,…",
       "deciding how much data is needed to produce valid conclusions",

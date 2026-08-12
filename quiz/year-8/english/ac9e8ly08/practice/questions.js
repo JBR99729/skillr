@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "apply learnt knowledge to spell accurately and to learn new words",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "understanding the different ways complex words are constructed, and drawing…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "apply learnt knowledge to spell accurately and to learn new words",
       "identify how texts reflect contexts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8ly08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse how authors organise ideas to develop and shape meaning",
       "understanding the different ways complex words are constructed, and drawing…",

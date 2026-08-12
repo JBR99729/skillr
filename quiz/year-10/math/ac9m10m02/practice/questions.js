@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10m02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "interpret and use logarithmic scales in applied contexts involving small and…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10m02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the surface area and volume of composite objects…",
       "understanding that the logarithmic scale is calibrated in terms of order of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10m02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "interpret and use logarithmic scales in applied contexts involving small and…",
       "construct scatterplots and comment on the association between the 2 numerical…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10m02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "investigating how logarithmic scaling can be used in machine learning…",

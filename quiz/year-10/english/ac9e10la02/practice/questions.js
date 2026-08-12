@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand that language used to evaluate, implicitly or explicitly reveals…",
       "analyse and evaluate the effectiveness of particular sentence structures to…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "use an expanded technical and academic vocabulary for precision when writing…",
       "identifying explicit expressions of values when evaluating",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand that language used to evaluate, implicitly or explicitly reveals…",
       "create and edit literary texts with a sustained “voice”, selecting and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10la02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse and evaluate how language features are used to implicitly or…",
       "identifying subtle or implied values communicated through language; for…",

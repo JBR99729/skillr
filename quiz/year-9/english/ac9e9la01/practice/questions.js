@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise how language empowers relationships and roles",
       "identify how authors vary sentence structures creatively for effects, such as…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how vocabulary choices contribute to style, mood and tone",
       "identifying the various communities to which students belong and how language…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise how language empowers relationships and roles",
       "listen to spoken texts that have different purposes and audiences, analysing…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9la01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "identifying the various communities to which students belong and how language…",

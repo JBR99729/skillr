@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "multiply and divide decimals by multiples of powers of 10 without a…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "approximate numerical solutions to problems involving rational numbers and…",
       "applying place value knowledge, including that the value of the digit is 10…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "multiply and divide decimals by multiples of powers of 10 without a…",
       "compare the parallel cross-sections of objects and recognise their…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "explaining the effect of multiplying or dividing a decimal by 10, 100, 1000 ……",

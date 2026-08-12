@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise how language shapes relationships and roles",
       "examine a variety of clause structures including embedded clauses that add…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify and use vocabulary typical of academic texts",
       "understanding that group identities are formed through language that reflects…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise how language shapes relationships and roles",
       "use interaction skills for identified purposes and situations, including when…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "understanding that group identities are formed through language that reflects…",

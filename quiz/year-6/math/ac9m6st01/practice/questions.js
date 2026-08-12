@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6st01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6st01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "determining the range for a numerical data set by finding the difference…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6st01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "identify the relationships between angles on a straight line, angles at a…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6st01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognise and use combinations of transformations to create tessellations and…",
       "using technology to access data sets and graphing software to construct…",

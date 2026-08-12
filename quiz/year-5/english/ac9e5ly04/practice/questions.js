@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "navigate and read texts for specific purposes, monitoring meaning using…",
       "understand how texts can be made cohesive by using the starting point of a…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how the sequence of images in print, digital and film texts has an…",
       "using subject and technical vocabulary and concept knowledge to navigate less…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "navigate and read texts for specific purposes, monitoring meaning using…",
       "use appropriate interaction skills including paraphrasing and questioning to…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e5ly04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "using sign-posting features such as headings and subheadings, and homepages…",

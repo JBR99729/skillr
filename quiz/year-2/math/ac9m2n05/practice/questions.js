@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "multiply and divide by one-digit numbers using repeated addition, equal…",
       "add and subtract one- and two-digit numbers, representing problems using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recall and demonstrate proficiency with addition facts to 20; extend and…",
       "making and naming arrays and using bar models to solve simple multiplication…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "multiply and divide by one-digit numbers using repeated addition, equal…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "using a Think Board to solve partition and quotition division problems; for…",

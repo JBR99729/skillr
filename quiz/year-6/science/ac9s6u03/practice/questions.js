@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "investigate the transfer and transformation of energy in electrical circuits,…",
       "examine why advances in science are often the result of collaboration or…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions including, as…",
       "identifying necessary components for an electric circuit such as a source of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "investigate the transfer and transformation of energy in electrical circuits,…",
       "investigating the effect of physical conditions on the growth of bread mould…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising the role of gravity in keeping the planets in orbit around the sun",
       "examining the purpose of different components such as switches and bulbs and…",

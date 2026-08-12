@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5p02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "conduct repeated chance experiments including those with and without equally…",
       "recognise that 100% represents the complete whole and use percentages to…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5p02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving division, choosing efficient strategies and using…",
       "discussing and listing all the possible outcomes of an activity and…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5p02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "conduct repeated chance experiments including those with and without equally…",
       "estimate, construct and measure angles in degrees, using appropriate tools…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5p02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "describe and perform translations, reflections and rotations of shapes, using…",
       "comparing the results of experiments using a fair dice and one that has…",

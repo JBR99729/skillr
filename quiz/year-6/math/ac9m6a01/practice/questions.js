@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6a01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise and use rules that generate visually growing patterns and number…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6a01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "investigating patterns such as the number of tiles in a geometric pattern, or…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6a01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise and use rules that generate visually growing patterns and number…",
       "compare the parallel cross-sections of objects and recognise their…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6a01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "investigating the number of regions created by successive folds of a sheet of…",

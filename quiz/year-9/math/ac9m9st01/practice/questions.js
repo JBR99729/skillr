@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse reports of surveys in digital media and elsewhere for information on…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "investigating and evaluating statistical reports in the media and other…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse reports of surveys in digital media and elsewhere for information on…",
       "analyse how different sampling methods can affect the results of surveys and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "investigating a range of data and its sources; for example, the age of…",

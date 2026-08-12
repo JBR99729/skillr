@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify and use vocabulary typical of academic texts",
       "understand how cohesion in texts is improved by strengthening the internal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how visual texts use intertextual references to enhance and layer…",
       "identifying the vocabulary of academic report writing on a topic; for…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify and use vocabulary typical of academic texts",
       "use interaction skills for identified purposes and situations, including when…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "comparing and contrasting vocabulary choices in academic texts, considering…",

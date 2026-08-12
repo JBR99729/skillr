@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise Earth is a planet in the solar system and identify patterns in the…",
       "pose questions to explore observed simple patterns and relationships and make…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "sort and order data and information and represent patterns, including with…",
       "identifying celestial objects that can be observed in space such as the sun,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise Earth is a planet in the solar system and identify patterns in the…",
       "designing and making instruments that produce different sounds, such as…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "manipulating materials such as paper or fabric, and determining ways they can…",
       "observing that some phenomena in the sky are only visible during the day and…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "write and create texts to communicate observations, findings and ideas, using…",
       "describe how people use science in their daily lives, including using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "make and record observations, including informal measurements, using digital…",
       "using learnt scientific vocabulary and structuring texts to sequence events,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "write and create texts to communicate observations, findings and ideas, using…",
       "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "building vocabulary for describing sound, such as loudness and pitch, and…",
       "making a collage to represent and display all the ways a material can be…",

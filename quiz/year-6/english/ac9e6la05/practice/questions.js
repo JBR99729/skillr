@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how embedded clauses can expand the variety of complex sentences…",
       "understand that cohesion can be created by the intentional use of repetition,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify authors’ use of vivid, emotive vocabulary, such as metaphors,…",
       "investigating how the choice of conjunctions enables the construction of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how embedded clauses can expand the variety of complex sentences…",
       "analyse how text structures and language features work together to meet the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6la05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "creating complex sentences with embedded clauses to expand noun groups; for…",

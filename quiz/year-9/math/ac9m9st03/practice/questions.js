@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "represent the distribution of multiple data sets for numerical variables…",
       "find the gradient of a line segment, the midpoint of the line interval and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "experiment with the effects of the variation of parameters on graphs of…",
       "describing the shape of the distribution of data using terms such as…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "represent the distribution of multiple data sets for numerical variables…",
       "analyse reports of surveys in digital media and elsewhere for information on…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9st03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "constructing grouped histograms that show trends in health issues such as…",

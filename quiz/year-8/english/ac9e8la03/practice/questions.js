@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explain how texts are structured depending on their purpose and how language…",
       "examine a variety of clause structures including embedded clauses that add…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify and use vocabulary typical of academic texts",
       "recognising how texts such as critical responses to texts, expositions, text…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explain how texts are structured depending on their purpose and how language…",
       "use interaction skills for identified purposes and situations, including when…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e8la03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "explaining the structure and language features of texts such as narratives,…",

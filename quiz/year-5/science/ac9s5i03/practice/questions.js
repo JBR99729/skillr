@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use equipment to observe, measure and record data with reasonable precision,…",
       "explain observable properties of solids, liquids and gases by modelling the…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "pose investigable questions to identify patterns and test relationships and…",
       "exploring which equipment gives the most reasonable precision for the…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use equipment to observe, measure and record data with reasonable precision,…",
       "identifying types of weathering caused by mechanical means such as by wind…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s5i03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "modelling the effects of erosion on a simulated landscape and exploring…",
       "recording data in tables and diagrams or electronically as digital images and…",

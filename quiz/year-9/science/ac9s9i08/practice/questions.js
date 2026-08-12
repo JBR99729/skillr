@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i08-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "write and create texts to communicate ideas, findings and arguments…",
       "use wave and particle models to describe energy transfer through different…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i08-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "model the rearrangement of atoms in chemical reactions using a range of…",
       "comparing and contrasting scientific texts addressing similar topics for…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i08-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "write and create texts to communicate ideas, findings and arguments…",
       "analyse and connect a variety of data and information to identify and explain…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i08-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring the body’s observable responses to external stimuli (such as…",
       "planning a social media campaign to encourage young people to reduce their…",

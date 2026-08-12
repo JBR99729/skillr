@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "pose questions to explore observed simple patterns and relationships and make…",
       "describe how people use science in their daily lives, including using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "sort and order data and information and represent patterns, including with…",
       "posing questions about how to make sounds with different instruments, such…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "pose questions to explore observed simple patterns and relationships and make…",
       "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "building vocabulary for describing sound, such as loudness and pitch, and…",
       "making predictions about the relationship between vibration and sound, such…",

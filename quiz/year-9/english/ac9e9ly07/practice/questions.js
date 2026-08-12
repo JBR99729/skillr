@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly07-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations for…",
       "investigate a range of cohesive devices that condense information in texts,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly07-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how symbols in still and moving images augment meaning",
       "using graphics and text animations to accompany spoken text; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly07-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "plan, create, rehearse and deliver spoken and multimodal presentations for…",
       "analyse how representations of people, places, events and concepts reflect…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e9ly07-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse the organisation of ideas in paragraphs and extended texts, and…",
       "collaborating with peers to develop imaginative recreations of part of a text…",

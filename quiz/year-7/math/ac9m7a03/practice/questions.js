@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "solve one-variable linear equations with natural number solutions; verify the…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare, order and solve problems involving addition and subtraction of…",
       "recognising that solving an equation is a process of determining a value that…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "solve one-variable linear equations with natural number solutions; verify the…",
       "solve problems involving the volume of right prisms including rectangular and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7a03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
       "solving linear equations such as 3x+7=19 algebraically, and verifying the…",

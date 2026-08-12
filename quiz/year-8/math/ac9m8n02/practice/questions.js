@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "establish and apply the exponent laws with positive integer exponents and the…",
       "use mathematical modelling to solve practical problems involving rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "use mathematical modelling to solve applied problems involving linear…",
       "recognising the connection between exponent form and expanded form with the…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "establish and apply the exponent laws with positive integer exponents and the…",
       "identify the conditions for congruence and similarity of triangles and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "design, create and test algorithms involving a sequence of steps and…",
       "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8i04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "select and construct appropriate representations, including tables, graphs,…",
       "describe the key processes of the rock cycle, including the timescales over…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8i04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare physical and chemical changes and identify indicators of energy…",
       "using simple formulas in spreadsheets to organise and process collected data",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8i04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "select and construct appropriate representations, including tables, graphs,…",
       "analyse methods, conclusions and claims for assumptions, possible sources of…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8i04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring an augmented or virtual reality tour of a plant or animal to ‘zoom…",
       "constructing energy flow diagrams to represent energy changes in a system…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use wave and particle models to describe energy transfer through different…",
       "apply the law of conservation of energy to analyse system efficiency in terms…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how scientific knowledge is validated and refined, including the role…",
       "describing the processes underlying convection and conduction of heat in…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use wave and particle models to describe energy transfer through different…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring the body’s observable responses to external stimuli (such as…",
       "discussing the wave and particle models of energy transfer, including the…",

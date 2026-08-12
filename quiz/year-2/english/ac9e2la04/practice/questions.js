@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how texts are made cohesive by using personal and possessive…",
       "navigate print and screen texts using chapters, tables of contents, indexes,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand that images add to or multiply the meanings of a text",
       "identifying language used to build information across a text; for example,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how texts are made cohesive by using personal and possessive…",
       "use interaction skills when engaging with topics, actively listening to…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2la04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "identifying words left out that can be inferred from the surrounding text;…",

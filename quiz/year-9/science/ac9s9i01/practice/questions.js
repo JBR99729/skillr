@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "develop investigable questions, reasoned predictions and hypotheses to test…",
       "use wave and particle models to describe energy transfer through different…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "model the rearrangement of atoms in chemical reactions using a range of…",
       "discussing what is needed for a question to be investigable or a prediction…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "develop investigable questions, reasoned predictions and hypotheses to test…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9i01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring the body’s observable responses to external stimuli (such as…",
       "discussing why a scientific hypothesis has to be able to be supported or…",

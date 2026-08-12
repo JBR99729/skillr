@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "represent natural numbers in expanded notation using place value and powers…",
       "round decimals to a given accuracy appropriate to the context and use…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, represent and solve problems involving ratios",
       "investigating exponent notation for powers of 10 such as “one hundred…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "represent natural numbers in expanded notation using place value and powers…",
       "solve problems involving the volume of right prisms including rectangular and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7n03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "demonstrate that the interior angle sum of a triangle in the plane is 180°…",
       "applying and explaining the connections between place value and expanded…",

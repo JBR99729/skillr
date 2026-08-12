@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "analyse and evaluate how authors organise ideas in texts to achieve a purpose",
       "understand how paragraph structure can be varied to create cohesion, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "evaluate the features of still and moving images, and the effects of those…",
       "identifying the organisation of ideas in a text and determining the purpose…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "analyse and evaluate how authors organise ideas in texts to achieve a purpose",
       "analyse and evaluate the aesthetic qualities of texts",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e10ly04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "listen to spoken texts and explain the purposes and effects of text…",
       "comparing the organisation of ideas in political pamphlets and determining…",

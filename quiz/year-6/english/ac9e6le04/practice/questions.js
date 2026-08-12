@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explain the way authors use sound and imagery to create meaning and effect in…",
       "understand that cohesion can be created by the intentional use of repetition,…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify and explain how images, figures, tables, diagrams, maps and graphs…",
       "explaining how imagery builds emotional connections and engagement with the…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explain the way authors use sound and imagery to create meaning and effect in…",
       "analyse how text structures and language features work together to meet the…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e6le04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan, create, edit and publish written and multimodal texts whose purposes…",
       "explaining the effect of rhythm in ballads",

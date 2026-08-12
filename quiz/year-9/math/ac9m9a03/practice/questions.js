@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "find the gradient of a line segment, the midpoint of the line interval and…",
       "identify and graph quadratic functions, solve quadratic equations graphically…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems involving the volume and surface area of right prisms and…",
       "recognising that the gradient of a line is calculated using the gradient of a…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "find the gradient of a line segment, the midpoint of the line interval and…",
       "analyse how different sampling methods can affect the results of surveys and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m9a03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "plan and conduct statistical investigations involving the collection and…",
       "investigating graphical and algebraic techniques for finding the midpoint and…",

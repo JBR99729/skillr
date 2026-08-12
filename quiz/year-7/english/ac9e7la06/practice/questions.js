@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la06-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "understand how consistency of tense through verbs and verb groups achieves…",
       "understand that the cohesion of texts relies on devices that signal structure…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la06-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate the role of vocabulary in building specialist and technical…",
       "identifying and discussing how verb tense is maintained in compound, complex…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la06-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "understand how consistency of tense through verbs and verb groups achieves…",
       "explain the effect of current technology on reading, creating and responding…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7la06-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "identifying and discussing different forms of verb tenses and their use to…",

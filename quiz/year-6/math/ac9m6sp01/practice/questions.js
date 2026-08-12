@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "compare the parallel cross-sections of objects and recognise their…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "using objects made of foam or polystyrene, slice along different…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "compare the parallel cross-sections of objects and recognise their…",
       "identify the relationships between angles on a straight line, angles at a…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6sp01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "understanding that right prisms are objects where parallel cross-sections to…",

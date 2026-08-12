@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8u05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "classify different types of energy as kinetic or potential and investigate…",
       "describe the key processes of the rock cycle, including the timescales over…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8u05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how new evidence or different perspectives can lead to changes in…",
       "investigating relationships between kinetic and potential energy in a simple…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8u05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "classify different types of energy as kinetic or potential and investigate…",
       "analyse methods, conclusions and claims for assumptions, possible sources of…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s8u05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring an augmented or virtual reality tour of a plant or animal to ‘zoom…",
       "identifying where heat energy is produced as a by-product of energy transfer,…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "compare and order fractions with the same and related denominators including…",
       "solve problems involving addition and subtraction of fractions with the same…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "check and explain the reasonableness of solutions to problems including…",
       "using pattern blocks to represent equivalent fractions; selecting one block…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "compare and order fractions with the same and related denominators including…",
       "connect objects to their nets and build objects from their nets using spatial…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m5n03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "acquire, validate and represent data for nominal and ordinal categorical and…",
       "using an understanding of factors and multiples as well as equivalence to…",

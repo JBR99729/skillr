@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "understand that the cohesion of texts relies on devices that signal structure…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "analyse how techniques such as vectors, angle and/or social distance in…",
       "identifying cause and effect in explanations and how these are used to…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "explain the structure of ideas such as the use of taxonomies, cause and…",
       "create and edit literary texts that experiment with language features and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e7ly04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "analyse the ways in which language features shape meaning and vary according…",
       "identifying cause and effect in explanations and how these are used to…",

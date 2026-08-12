@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4ly02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "listen for key points and information to carry out tasks and contribute to…",
       "identify how text connectives including temporal and conditional words, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4ly02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "investigate how quoted (direct) and reported (indirect) speech are used",
       "making notes about a task, asking questions to clarify or follow up…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4ly02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "listen for key points and information to carry out tasks and contribute to…",
       "examine the use of literary devices and deliberate word play in literary…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e4ly02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify the characteristic features used in imaginative, informative and…",
       "developing speaking and listening behaviours including acknowledging and…",

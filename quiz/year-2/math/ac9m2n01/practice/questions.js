@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n01-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise, represent and order numbers to at least 1000 using physical and…",
       "multiply and divide by one-digit numbers using repeated addition, equal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n01-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recall and demonstrate proficiency with addition facts to 20; extend and…",
       "recognising missing numbers on different number lines; for example, a number…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n01-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise, represent and order numbers to at least 1000 using physical and…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n01-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "renaming numbers in different ways using knowledge of place value; for…",
       "collecting large quantities of materials for recycling; for example, ring…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise that materials can be changed physically without changing their…",
       "pose questions to explore observed simple patterns and relationships and make…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "sort and order data and information and represent patterns, including with…",
       "exploring how materials can be physically changed to suit a particular…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise that materials can be changed physically without changing their…",
       "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2u03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "building vocabulary for describing sound, such as loudness and pitch, and…",
       "creating an ‘odd one out’ game by providing samples of the same material that…",

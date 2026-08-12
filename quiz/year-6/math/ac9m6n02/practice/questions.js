@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "identify and describe the properties of prime, composite and square numbers…",
       "solve problems involving addition and subtraction of fractions using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "approximate numerical solutions to problems involving rational numbers and…",
       "using the definition of a prime number to explain why one is not a prime…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "identify and describe the properties of prime, composite and square numbers…",
       "compare the parallel cross-sections of objects and recognise their…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "identifying and describing the product of a number with itself as square; for…",

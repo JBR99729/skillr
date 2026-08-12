@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "describe the movement of Earth and other planets relative to the sun and…",
       "examine why advances in science are often the result of collaboration or…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions including, as…",
       "exploring simulations of the solar system such as a pocket solar system to…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "describe the movement of Earth and other planets relative to the sun and…",
       "investigating the effect of physical conditions on the growth of bread mould…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6u02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "constructing a real or virtual circuit to examine requirements to allow the…",
       "using virtual simulations or real-time views of Earth from space to explore…",

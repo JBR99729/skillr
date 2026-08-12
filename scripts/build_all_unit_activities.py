@@ -88,12 +88,12 @@ def make_questions(unit: dict, peer_units: list[dict]) -> list[dict]:
     peer_elabs = [trim(e["text"]) for p in peer_units if p["code"] != unit["code"] for e in p.get("elaborations", []) if e.get("questionEligible")]
     distractors = peer_desc + peer_elabs
     prompts = [
-        ("Which learning goal best matches this topic?", description),
-        ("Which classroom activity best practises this topic?", eligible[0]),
+        ("Which option best describes the skill being practised?", description),
+        ("Which task gives the best practice for this skill?", eligible[0]),
         ("Which example gives useful evidence of this learning?", eligible[min(1, len(eligible)-1)]),
         ("A student is ready to show this skill. Which task should they try?", eligible[min(2, len(eligible)-1)]),
-        ("Which statement belongs in a quick review of this topic?", description),
-        ("Which activity would a teacher choose for extra practice?", eligible[min(3, len(eligible)-1)]),
+        ("Which statement best summarises this topic?", description),
+        ("Which task would give useful extra practice?", eligible[min(3, len(eligible)-1)]),
         ("Which option stays focused on the curriculum goal?", eligible[min(4, len(eligible)-1)]),
         ("What should students be able to explain or demonstrate after this unit?", description),
     ]
@@ -114,7 +114,7 @@ def quick_notes(unit: dict) -> str:
     eligible = [trim(e["text"], 150) for e in unit.get("elaborations", []) if e.get("questionEligible")]
     points = [trim(unit["description"], 150)] + eligible[:2]
     while len(points) < 3:
-        points.append("Explain your choice and check that it matches the learning goal")
+        points.append("Explain your choice and check that it matches the skill being practised")
     return "".join(f"<li>{esc(point)}</li>" for point in points[:3])
 
 

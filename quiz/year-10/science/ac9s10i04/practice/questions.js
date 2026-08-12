@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "select and construct appropriate representations, including tables, graphs,…",
       "use models of energy flow between the geosphere, biosphere, hydrosphere and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "identify patterns in synthesis, decomposition and displacement reactions and…",
       "using spreadsheet software to carry out mathematical analyses of data",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "select and construct appropriate representations, including tables, graphs,…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s10i04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "using models and diagrams to represent the relationship between genes,…",
       "considering how the scales used for representing data affect interpretation…",

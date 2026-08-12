@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise and describe one-half as one of 2 equal parts of a whole and…",
       "multiply and divide by one-digit numbers using repeated addition, equal…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recall and demonstrate proficiency with addition facts to 20; extend and…",
       "creating halves of a range of collections sets by sharing collections into 2…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise and describe one-half as one of 2 equal parts of a whole and…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2n03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "dividing a shape into equal parts and relating the number of parts to the…",

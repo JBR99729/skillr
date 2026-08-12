@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise and read the time represented on an analog clock to the hour,…",
       "add and subtract one- and two-digit numbers, representing problems using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "recognise, describe and create additive patterns that increase or decrease by…",
       "creating an analog clock from a paper plate, showing the placement of the…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise and read the time represented on an analog clock to the hour,…",
       "acquire data for categorical variables through surveys, observation,…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m2m04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising and locating the position of pieces within hundreds chart puzzles…",
       "dividing a clockface into halves and quarters, and connecting the…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "recognise terminating and recurring decimals, using digital tools as…",
       "use mathematical modelling to solve practical problems involving rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "use mathematical modelling to solve applied problems involving linear…",
       "identifying when a fraction has a terminating decimal expansion from the…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "recognise terminating and recurring decimals, using digital tools as…",
       "identify the conditions for congruence and similarity of triangles and…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m8n03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "design, create and test algorithms involving a sequence of steps and…",
       "identifying terminating, recurring and non-terminating decimals and choosing…",

@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "represent the carbon cycle and examine how key processes including…",
       "apply the law of conservation of energy to analyse system efficiency in terms…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how scientific knowledge is validated and refined, including the role…",
       "identifying Earth as a system, describing Earth’s spheres and discussing…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "represent the carbon cycle and examine how key processes including…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring the body’s observable responses to external stimuli (such as…",
       "investigating the greenhouse effect and relating it to the role carbon…",

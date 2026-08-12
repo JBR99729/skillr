@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "read texts with phrasing and fluency, using phonic and word knowledge, and…",
       "understand how texts are made cohesive by using personal and possessive…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "understand that in sentences nouns may be extended into noun groups using…",
       "using phonic (sound-letter) and morphemic knowledge, and knowledge of…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "read texts with phrasing and fluency, using phonic and word knowledge, and…",
       "identify how similar topics and information are presented in different types…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9e2ly04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use comprehension strategies such as visualising, predicting, connecting,…",
       "monitoring own reading, self-correcting or reading back, re-reading when…",

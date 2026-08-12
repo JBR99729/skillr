@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7st02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "create different types of numerical data displays including stem-and-leaf…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7st02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare, order and solve problems involving addition and subtraction of…",
       "using ordered stem-and-leaf plots to record and display numerical data…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7st02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "create different types of numerical data displays including stem-and-leaf…",
       "solve problems involving the area of triangles and parallelograms using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7st02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify corresponding, alternate and co-interior relationships between…",
       "using mean and median to compare data sets, identifying possible outliers and…",

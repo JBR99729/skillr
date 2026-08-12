@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6m03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "interpret and use timetables and itineraries to plan activities and determine…",
       "apply knowledge of place value to add and subtract decimals, using digital…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6m03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "solve problems that require finding a familiar fraction, decimal or…",
       "planning a trip involving one or more modes of public transport",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6m03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "interpret and use timetables and itineraries to plan activities and determine…",
       "compare the parallel cross-sections of objects and recognise their…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6m03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "investigating different ways duration is represented in timetables and using…",

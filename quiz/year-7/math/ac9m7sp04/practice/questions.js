@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7sp04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "design and create algorithms involving a sequence of steps and decisions that…",
       "find equivalent representations of rational numbers and represent rational…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7sp04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "compare, order and solve problems involving addition and subtraction of…",
       "creating a classification scheme for triangles based on sides and angles,…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7sp04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "design and create algorithms involving a sequence of steps and decisions that…",
       "solve problems involving the area of triangles and parallelograms using…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m7sp04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "identify corresponding, alternate and co-interior relationships between…",
       "creating a classification scheme for regular, irregular, concave or convex…",

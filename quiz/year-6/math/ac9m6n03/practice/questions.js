@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n03-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "apply knowledge of equivalence to compare, order and represent common…",
       "solve problems involving addition and subtraction of fractions using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n03-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "approximate numerical solutions to problems involving rational numbers and…",
       "applying factors and multiples to fraction denominators, such as halves with…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n03-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "apply knowledge of equivalence to compare, order and represent common…",
       "compare the parallel cross-sections of objects and recognise their…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m6n03-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "interpret and compare data sets for ordinal and nominal categorical, discrete…",
       "comparing and ordering fractions by placing cards on a string line across the…",

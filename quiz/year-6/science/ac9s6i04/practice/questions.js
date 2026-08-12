@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6i04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "construct and use appropriate representations, including tables, graphs and…",
       "compare reversible changes, including dissolving and changes of state, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6i04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "pose investigable questions to identify patterns and test relationships and…",
       "exploring how different representations can be used to show different aspects…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6i04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "construct and use appropriate representations, including tables, graphs and…",
       "investigating the effect of physical conditions on the growth of bread mould…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6i04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising the role of gravity in keeping the planets in orbit around the sun",
       "developing a physical model of the sun and Earth using objects or role-play…",

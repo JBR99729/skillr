@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10a04-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "use mathematical modelling to solve applied problems involving growth and…",
       "recognise the connection between algebraic and graphical representations of…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10a04-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "interpret and use logarithmic scales in applied contexts involving small and…",
       "modelling situations and choosing between linear, quadratic and exponential…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10a04-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "use mathematical modelling to solve applied problems involving growth and…",
       "construct scatterplots and comment on the association between the 2 numerical…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9m10a04-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "use the language of “if ... then”, “given”, “of”, “knowing that” to describe…",
       "modelling and formulating situations involving population growths of native…",

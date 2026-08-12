@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "compare observations with predictions and others’ observations, consider if…",
       "describe how people use science in their daily lives, including using…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "make and record observations, including informal measurements, using digital…",
       "comparing their observations of changing shadow length across the day with…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "compare observations with predictions and others’ observations, consider if…",
       "viewing a time lapse video of the sun, moon, stars or a satellite’s movement…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s2i05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "building vocabulary for describing sound, such as loudness and pitch, and…",
       "comparing findings from investigations about physically changing a material,…",

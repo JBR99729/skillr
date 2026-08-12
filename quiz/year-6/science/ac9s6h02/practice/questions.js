@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h02-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "investigate how scientific knowledge is used by individuals and communities…",
       "compare reversible changes, including dissolving and changes of state, and…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h02-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "plan and conduct repeatable investigations to answer questions including, as…",
       "exploring how communities consider the impact of aquatic noise pollution when…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h02-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "investigate how scientific knowledge is used by individuals and communities…",
       "investigating the effect of physical conditions on the growth of bread mould…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s6h02-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "recognising the role of gravity in keeping the planets in orbit around the sun",
       "investigating why underground power cables were developed and how local…",

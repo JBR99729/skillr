@@ -3,7 +3,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u05-01",
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
+    "question": "Which option best describes the skill being practised?",
     "answers": [
       "apply the law of conservation of energy to analyse system efficiency in terms…",
       "use wave and particle models to describe energy transfer through different…",
@@ -16,7 +16,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u05-02",
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
+    "question": "Which task gives the best practice for this skill?",
     "answers": [
       "explain how scientific knowledge is validated and refined, including the role…",
       "explaining that the law of conservation of energy explains that total energy…",
@@ -55,7 +55,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u05-05",
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
+    "question": "Which statement best summarises this topic?",
     "answers": [
       "apply the law of conservation of energy to analyse system efficiency in terms…",
       "assess the validity and reproducibility of methods and evaluate the validity…",
@@ -68,7 +68,7 @@ window.quizQuestions = [
   {
     "id": "ac9s9u05-06",
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
+    "question": "Which task would give useful extra practice?",
     "answers": [
       "exploring the body’s observable responses to external stimuli (such as…",
       "comparing the efficiency of electricity generation from coal and other…",
