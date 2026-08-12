@@ -18,23 +18,26 @@
     .worksheet-shell{max-width:1120px;margin:0 auto;padding:18px}
     .worksheet-nav{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 16px}.worksheet-nav a{font-weight:700;text-decoration:none;color:var(--brand)}
     .worksheet-hero{background:#fff;border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:0 7px 24px rgba(28,55,91,.06)}
+    .brandbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 14px;padding:8px 11px;border:1px solid #dce6f5;border-radius:11px;background:#fff}.brandmark{font-weight:800;color:var(--brand);letter-spacing:-.02em}.brandmark span{color:var(--navy)}.brandbar small{font-weight:700;color:var(--muted)}
     .eyebrow{margin:0 0 4px;color:var(--brand);font-size:.78rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase}
     .worksheet-hero h1{margin:0;color:var(--navy);font-size:clamp(1.8rem,4vw,2.45rem)}.worksheet-hero p{max-width:760px}
     .worksheet-meta{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.worksheet-meta span{border:1px solid #d8e3f7;background:#f4f8ff;border-radius:999px;padding:5px 9px;font-size:.82rem;font-weight:700;color:#31527d}
     .worksheet-actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}.worksheet-actions button,.worksheet-actions a{border:1px solid #cbd8e8;border-radius:999px;padding:10px 14px;font-weight:800;text-decoration:none;background:#fff;color:var(--brand);cursor:pointer}.worksheet-actions .primary{background:var(--brand);color:#fff;border-color:var(--brand)}
-    .worksheet-paper{margin-top:14px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 7px 24px rgba(28,55,91,.06)}
+    .worksheet-paper{position:relative;isolation:isolate;overflow:hidden;margin-top:14px;background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 7px 24px rgba(28,55,91,.06)}
+    .worksheet-paper::before{content:"SkillrHub F–10 • skillrhub.com";position:absolute;z-index:-1;left:50%;top:48%;transform:translate(-50%,-50%) rotate(-27deg);white-space:nowrap;font:800 clamp(2rem,7vw,5.2rem)/1 Arial,Helvetica,sans-serif;letter-spacing:.035em;color:rgba(36,87,214,.045);pointer-events:none}
     .worksheet-paper__head{display:flex;justify-content:space-between;gap:16px;align-items:flex-end;padding-bottom:12px;border-bottom:2px solid #dce5f1}.worksheet-paper__head h2{margin:0;color:var(--navy)}.worksheet-paper__head p{margin:0;color:var(--muted);font-size:.9rem}
+    .paper-brand{font-weight:800;color:var(--brand);margin:0 0 3px}.paper-brand span{color:var(--navy)}
     .worksheet-questions{display:grid;gap:10px;margin-top:12px}
-    .worksheet-question{border:1px solid #e0e6ef;border-radius:12px;padding:12px;background:#fff}.worksheet-question.enrichment{background:var(--enrich);border-color:#cddbf4}
+    .worksheet-question{border:1px solid #e0e6ef;border-radius:12px;padding:12px;background:rgba(255,255,255,.96)}.worksheet-question.enrichment{background:rgba(248,250,255,.97);border-color:#cddbf4}
     .question-topline{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:6px}.question-number{display:grid;place-items:center;width:28px;height:28px;border-radius:999px;background:var(--navy);color:#fff;font-weight:800}.question-format{font-size:.75rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:#5a6f8e}.enrichment-label{margin-left:auto;border-radius:999px;background:#e9f0ff;border:1px solid #cad9f7;padding:3px 8px;font-size:.72rem;font-weight:800;color:#31527d}
     .question-prompt{margin:0 0 8px;font-weight:700}.question-visual{display:inline-block;margin:0 0 9px;padding:7px 10px;border:1px dashed #b9c7d8;border-radius:8px;background:#fafbfd;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-    .worksheet-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.worksheet-options div{border:1px solid #e3e8ef;border-radius:8px;padding:7px}.choice-box{display:inline-block;width:14px;height:14px;border:1.5px solid #66758a;border-radius:50%;vertical-align:-2px;margin-right:5px}
+    .worksheet-options{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.worksheet-options div{border:1px solid #e3e8ef;border-radius:8px;padding:7px;background:#fff}.choice-box{display:inline-block;width:14px;height:14px;border:1.5px solid #66758a;border-radius:50%;vertical-align:-2px;margin-right:5px}
     .fill-template{font-weight:800;font-size:1.05rem}.blank-line{display:inline-block;min-width:86px;border-bottom:2px solid #69788c;margin:0 5px;transform:translateY(-2px)}
-    .match-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;border:1px solid #e3e8ef;border-radius:9px;padding:9px}.match-grid p{margin:5px 0}.match-instruction{margin:8px 0 0;color:#4d607a}
+    .match-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;border:1px solid #e3e8ef;border-radius:9px;padding:9px;background:#fff}.match-grid p{margin:5px 0}.match-instruction{margin:8px 0 0;color:#4d607a}
     .response-lines{display:grid;gap:9px;margin-top:10px}.response-lines span{display:block;border-bottom:1.5px solid #8995a5;height:12px}
-    .worksheet-note{margin:14px 0 0;color:var(--muted);font-size:.88rem}
-    @media(max-width:700px){.worksheet-paper__head{display:block}.worksheet-options,.match-grid{grid-template-columns:1fr}.worksheet-shell{padding:10px}}
-    @media print{body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{margin:0;border:0;box-shadow:none;padding:0}.worksheet-question{break-inside:avoid}}
+    .worksheet-note{margin:14px 0 0;color:var(--muted);font-size:.88rem}.worksheet-footer{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:16px;padding-top:10px;border-top:1px solid var(--line);font-size:.8rem;color:var(--muted)}.worksheet-footer strong{color:var(--brand)}
+    @media(max-width:700px){.worksheet-paper__head{display:block}.worksheet-options,.match-grid{grid-template-columns:1fr}.worksheet-shell{padding:10px}.brandbar{align-items:flex-start;flex-direction:column}}
+    @media print{body{background:#fff}.worksheet-nav,.worksheet-actions,.worksheet-hero{display:none}.worksheet-shell{max-width:none;padding:0}.worksheet-paper{margin:0;border:0;box-shadow:none;padding:0}.worksheet-question{break-inside:avoid}.worksheet-paper::before{color:rgba(36,87,214,.04)}}
   </style>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-8P22BET45N");</script>
@@ -49,9 +52,10 @@
     </nav>
 
     <header class="worksheet-hero">
+      <div class="brandbar"><div class="brandmark">SkillrHub <span>F–10</span></div><small>Foundation Maths • Student Worksheet</small></div>
       <p class="eyebrow">AC9MFN01 • Foundation Maths</p>
       <h1>Numbers to 20 Worksheet</h1>
-      <p>Purpose-written from the AC9MFN01 teaching lesson. The worksheet checks quantity–numeral connections, zero, number order, one more/one less and explaining teen numbers.</p>
+      <p>Purpose-written from the AC9MFN01 teaching concept. The worksheet checks quantity–numeral connections, zero, number order, one more/one less and explaining teen numbers.</p>
       <div class="worksheet-meta">
         <span>10 questions</span>
         <span>8 core</span>
@@ -68,6 +72,7 @@
     <main class="worksheet-paper">
       <div class="worksheet-paper__head">
         <div>
+          <p class="paper-brand">SkillrHub <span>F–10</span></p>
           <p class="eyebrow">Student worksheet</p>
           <h2>AC9MFN01 — Numbers to 20</h2>
         </div>
@@ -75,6 +80,7 @@
       </div>
       <section class="worksheet-questions" id="worksheetQuestions" aria-label="Worksheet questions"></section>
       <p class="worksheet-note">Questions 9–10 are enrichment tasks. They extend the same Foundation concept through explanation and multiple representations rather than using larger or unrelated content.</p>
+      <footer class="worksheet-footer"><span><strong>SkillrHub F–10</strong> • Foundation Maths</span><span>skillrhub.com</span></footer>
     </main>
   </div>
 
