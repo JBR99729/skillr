@@ -15,6 +15,9 @@
   const year1SciencePracticeTest = /^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
   const year1ScienceWorksheet = /^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/worksheet\/?$/i.test(path);
   const year1ScienceTopic = /^\/year1\/science\/ac9s1/i.test(path);
+  const year2MathsPracticeTest = /^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i.test(path);
+  const year2MathsWorksheet = /^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i.test(path);
+  const year2MathsTopic = /^\/year2\/maths\/ac9m2/i.test(path);
 
   if (!document.querySelector('script[data-skillr-display-only]')) {
     const displayOnlyScript = document.createElement("script");
@@ -84,6 +87,20 @@
     year1WorksheetScript.src = "/assets/year1-maths-worksheet-page.js?v=2";
     year1WorksheetScript.dataset.skillrYear1MathsWorksheet = "true";
     document.head.appendChild(year1WorksheetScript);
+  }
+
+  if (year2MathsPracticeTest && !document.querySelector('script[data-skillr-year2-maths-quick-read]')) {
+    const year2QuickReadScript = document.createElement("script");
+    year2QuickReadScript.src = "/assets/year2-maths-practice-quick-read.js?v=1";
+    year2QuickReadScript.dataset.skillrYear2MathsQuickRead = "true";
+    document.head.appendChild(year2QuickReadScript);
+  }
+
+  if (year2MathsWorksheet && !document.querySelector('script[data-skillr-year2-maths-worksheet]')) {
+    const year2WorksheetScript = document.createElement("script");
+    year2WorksheetScript.src = "/assets/year2-maths-worksheet-page.js?v=1";
+    year2WorksheetScript.dataset.skillrYear2MathsWorksheet = "true";
+    document.head.appendChild(year2WorksheetScript);
   }
 
   if (year1SciencePracticeTest && !document.querySelector('script[data-skillr-year1-science-quick-read]')) {
@@ -174,6 +191,23 @@
       document.head.appendChild(script);
     };
     loadYear1MathsScript(0);
+  }
+
+  if (year2MathsTopic && !document.querySelector('script[data-skillr-year2-maths-render]')) {
+    const year2MathsScripts = [
+      "/assets/year2-maths-data.js?v=1",
+      "/assets/year2-maths-render.js?v=1"
+    ];
+    const loadYear2MathsScript = (index) => {
+      if (index >= year2MathsScripts.length) return;
+      const script = document.createElement("script");
+      script.src = year2MathsScripts[index];
+      script.async = false;
+      script.dataset.skillrYear2MathsRender = "true";
+      script.addEventListener("load", () => loadYear2MathsScript(index + 1), { once: true });
+      document.head.appendChild(script);
+    };
+    loadYear2MathsScript(0);
   }
 
   if (year1ScienceTopic && !document.querySelector('script[data-skillr-year1-science-render]')) {
