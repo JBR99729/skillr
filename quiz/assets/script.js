@@ -222,6 +222,34 @@ document.addEventListener("DOMContentLoaded", () => {
     preparationNotes?.remove();
   }
 
+  const passMarkLabel =
+    Array.from(
+      document.querySelectorAll(
+        ".quiz-summary .summary-label"
+      )
+    ).find(
+      (label) =>
+        label.textContent.trim().toLowerCase() ===
+        "pass mark"
+    );
+  const passMarkTile =
+    passMarkLabel?.closest("div");
+  const quizSummary =
+    passMarkTile?.closest(".quiz-summary");
+
+  if (passMarkTile && isPracticePage) {
+    passMarkTile.remove();
+    quizSummary?.classList.add(
+      "is-practice-summary"
+    );
+  } else if (
+    passMarkLabel &&
+    config.certificateOnPass
+  ) {
+    passMarkLabel.textContent =
+      "For certificate";
+  }
+
   const elements = {
     startScreen: document.getElementById("startScreen"),
     quizScreen: document.getElementById("quizScreen"),
