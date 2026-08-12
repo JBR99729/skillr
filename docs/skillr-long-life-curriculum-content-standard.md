@@ -31,6 +31,58 @@ A beautiful but inaccurate, ambiguous or conceptually mismatched resource fails.
 
 The 7/10 visual threshold does not permit incorrect labels, misleading proportions, unclear arrows, cropped diagrams, text overlap or unreadable text. It means the illustration may be simple and functional rather than highly polished or photorealistic.
 
+### Architecture freeze and change control
+
+The Topic Guide + Teacher Slide v1 architecture is frozen for all curriculum codes.
+
+The fixed topic-guide architecture is:
+
+1. Learning goal, success criteria, materials and useful timing.
+2. A concept-appropriate teaching progression.
+3. Embedded central visual models.
+4. A direct visual teaching explanation for every elaboration.
+5. Worked example and teacher language.
+6. Topic-specific misconceptions and rapid fixes.
+7. Immediate warm-up, activity, game or investigation.
+8. Quick mastery check.
+9. Embedded preview of the matching teacher-slide sequence.
+10. Optional formal curriculum reference layer.
+11. Worksheet, Practice and Test links.
+
+The fixed teacher-slide architecture is:
+
+1. A selectable, classroom-readable 16:9 sequence.
+2. One clear teaching purpose per slide.
+3. The same concepts, models, examples, terminology and colour meanings as the topic guide.
+4. Enough slides to teach the concept and all elaborations without shrinking everything onto one screen.
+5. A concise teacher action or phrase and an appropriate student check.
+6. Navigation back to the topic guide and onward to related resources.
+
+The number of slides and the teaching progression may vary because every code teaches a different concept. The underlying architecture and topic-guide/slide parity may not vary.
+
+#### Permitted without unlocking
+
+- cosmetic improvements to spacing, typography, colour contrast, borders, icons and non-conceptual artwork;
+- responsive-layout and projection-readability improvements;
+- overlap, clipping, accessibility and broken-link fixes;
+- corrections required for conceptual or factual accuracy;
+- unique code-specific content authored inside the locked structure.
+
+Cosmetic changes must not alter the teaching meaning, remove elaboration coverage or cause topic-guide/slide divergence.
+
+#### Structural changes require a deliberate unlock
+
+If a request would remove, replace or reorganise a locked structural element, combine the slide sequence into a dense single sheet, separate the topic guide from the slide source, or weaken any release gate:
+
+1. Stop before editing.
+2. State that Topic Guide + Teacher Slide v1 is locked.
+3. Recommend keeping the approved structure.
+4. Ask whether the user wants to explicitly unlock the standard.
+5. Do not make the structural change in the same turn.
+6. Proceed only after a later, separate confirmation using the words **Unlock Topic Guide + Teacher Slide v1**.
+
+Ordinary requests such as “change the slides”, “simplify the page”, “make a new layout” or “do it differently” do not unlock the standard.
+
 ## 1. Unique teaching for every curriculum code
 
 - Treat every curriculum code as a different teaching problem.
