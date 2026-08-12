@@ -75,6 +75,7 @@ def action_links(unit: dict) -> str:
   <a class="primary" href="{esc(unit['url'])}">Topic guide</a>
   <a href="{esc(unit['practiceUrl'])}">Practice</a>
   <a href="{esc(unit['testUrl'])}">Test</a>
+  <a href="{esc(unit.get('quizUrl') or unit['testUrl'].replace('/test/', '/quiz/'))}">Quiz</a>
 </div>'''
 
 
@@ -135,7 +136,7 @@ def build_curriculum_hubs(units: list[dict]) -> None:
             subject_path = f"{curriculum_path}{slug}/"
             subject_description = (
                 f"Browse {label} {subject_label} curriculum units with complete topic guides, "
-                "teacher slides, 8-question worksheets, practice and tests."
+                "teacher slides, worksheets, practice, tests and quizzes."
             )
             cards = "".join(unit_card(item) for item in subject_units)
             page = f'''<!DOCTYPE html>
