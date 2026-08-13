@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M2N02-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "partition_standard_form",
+    "question": "At the trading station, which partition equals 235?",
+    "audio_prompt": "At the trading station, which partition equals 235?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-001",
+      "alt_text": "At the trading station: Base-ten model of 235 with 2 hundreds, 3 tens and 5 ones."
+    },
+    "answers": [
+      {
+        "text": "200 + 30 + 5",
+        "is_correct": true
+      },
+      {
+        "text": "200 + 50 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "200 + 3 + 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "235 has 2 hundreds, 3 tens and 5 ones.",
+      "hint": "Read each digit by its place."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "regroup_ten_as_ones",
+    "question": "At the trading station, trade 1 ten for ones. How many ones is that?",
+    "audio_prompt": "At the trading station, trade 1 ten for ones. How many ones is that?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-002",
+      "alt_text": "At the trading station: One ten rod beside 10 one counters of equal total value."
+    },
+    "answers": [
+      {
+        "text": "1 one",
+        "is_correct": false
+      },
+      {
+        "text": "10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "100 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten has the same value as 10 ones.",
+      "hint": "Count the unit squares in a ten rod."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_hundred_as_tens",
+    "question": "At the trading station, which is another way to make 235?",
+    "audio_prompt": "At the trading station, which is another way to make 235?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-003",
+      "alt_text": "At the trading station: 235 represented after one hundred is traded for 10 tens."
+    },
+    "answers": [
+      {
+        "text": "1 hundreds + 4 tens + 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 hundreds + 3 tens + 15 ones",
+        "is_correct": false
+      },
+      {
+        "text": "1 hundreds + 13 tens + 5 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 235.",
+      "hint": "Take one hundred away and add ten tens."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "explain_zero_placeholder",
+    "question": "At the trading station, what does the 0 mean in 205?",
+    "audio_prompt": "At the trading station, what does the 0 mean in 205?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-004",
+      "alt_text": "At the trading station: 2 hundred blocks, no tens and 5 ones representing 205."
+    },
+    "answers": [
+      {
+        "text": "0 tens",
+        "is_correct": true
+      },
+      {
+        "text": "0 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "0 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The zero sits in the tens place, so 205 has 0 tens.",
+      "hint": "Name the columns from left to right: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "verify_nonstandard_partition",
+    "question": "At the trading station, is 235 the same value as 235?",
+    "audio_prompt": "At the trading station, is 235 the same value as 235?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-005",
+      "alt_text": "At the trading station: A regrouped model with 2 hundreds, 2 tens and 15 ones."
+    },
+    "answers": [
+      {
+        "text": "No, it is 10 more",
+        "is_correct": false
+      },
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No, it is 10 less",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten was traded for 10 ones, so the total value stays 235.",
+      "hint": "Compare the parts after regrouping, not just the number of pieces."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_tens_in_number",
+    "question": "At the trading station, how many tens are in 35 if all the ones stay separate?",
+    "audio_prompt": "At the trading station, how many tens are in 35 if all the ones stay separate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-006",
+      "alt_text": "At the trading station: 3 ten rods and 5 one counters."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "35 has 3 full tens and 5 ones.",
+      "hint": "Group the amount into tens before counting leftover ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_invalid_regrouping",
+    "question": "At the trading station, which regrouping is not equal to 235?",
+    "audio_prompt": "At the trading station, which regrouping is not equal to 235?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-007",
+      "alt_text": "At the trading station: Three place-value regroupings for 235, including one that loses a ten."
+    },
+    "answers": [
+      {
+        "text": "2 hundreds + 2 tens + 5 ones",
+        "is_correct": true
+      },
+      {
+        "text": "2 hundreds + 2 tens + 15 ones",
+        "is_correct": false
+      },
+      {
+        "text": "1 hundreds + 13 tens + 5 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
+      "hint": "Every trade must exchange equal value."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_nonstandard_grouping",
+    "question": "At the trading station, which number is 2 hundreds and 35 ones?",
+    "audio_prompt": "At the trading station, which number is 2 hundreds and 35 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-008",
+      "alt_text": "At the trading station: 2 hundreds and 35 ones regrouped to show 235."
+    },
+    "answers": [
+      {
+        "text": "208",
+        "is_correct": false
+      },
+      {
+        "text": "235",
+        "is_correct": true
+      },
+      {
+        "text": "335",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "35 ones regroup as 3 tens and 5 ones, making 235.",
+      "hint": "Make groups of 10 from the ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "partition_standard_form",
+    "question": "With base-ten blocks, which partition equals 346?",
+    "audio_prompt": "With base-ten blocks, which partition equals 346?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-009",
+      "alt_text": "With base-ten blocks: Base-ten model of 346 with 3 hundreds, 4 tens and 6 ones."
+    },
+    "answers": [
+      {
+        "text": "300 + 60 + 4",
+        "is_correct": false
+      },
+      {
+        "text": "300 + 4 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "300 + 40 + 6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "346 has 3 hundreds, 4 tens and 6 ones.",
+      "hint": "Read each digit by its place."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "regroup_ten_as_ones",
+    "question": "With base-ten blocks, trade 1 ten for ones. How many ones is that?",
+    "audio_prompt": "With base-ten blocks, trade 1 ten for ones. How many ones is that?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-010",
+      "alt_text": "With base-ten blocks: One ten rod beside 10 one counters of equal total value."
+    },
+    "answers": [
+      {
+        "text": "10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "1 one",
+        "is_correct": false
+      },
+      {
+        "text": "100 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten has the same value as 10 ones.",
+      "hint": "Count the unit squares in a ten rod."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_hundred_as_tens",
+    "question": "With base-ten blocks, which is another way to make 346?",
+    "audio_prompt": "With base-ten blocks, which is another way to make 346?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-011",
+      "alt_text": "With base-ten blocks: 346 represented after one hundred is traded for 10 tens."
+    },
+    "answers": [
+      {
+        "text": "2 hundreds + 5 tens + 6 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 hundreds + 14 tens + 6 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 hundreds + 4 tens + 16 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 346.",
+      "hint": "Take one hundred away and add ten tens."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "explain_zero_placeholder",
+    "question": "With base-ten blocks, what does the 0 mean in 306?",
+    "audio_prompt": "With base-ten blocks, what does the 0 mean in 306?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-012",
+      "alt_text": "With base-ten blocks: 3 hundred blocks, no tens and 6 ones representing 306."
+    },
+    "answers": [
+      {
+        "text": "0 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "0 ones",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The zero sits in the tens place, so 306 has 0 tens.",
+      "hint": "Name the columns from left to right: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "verify_nonstandard_partition",
+    "question": "With base-ten blocks, is 346 the same value as 346?",
+    "audio_prompt": "With base-ten blocks, is 346 the same value as 346?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-013",
+      "alt_text": "With base-ten blocks: A regrouped model with 3 hundreds, 3 tens and 16 ones."
+    },
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No, it is 10 more",
+        "is_correct": false
+      },
+      {
+        "text": "No, it is 10 less",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten was traded for 10 ones, so the total value stays 346.",
+      "hint": "Compare the parts after regrouping, not just the number of pieces."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_tens_in_number",
+    "question": "With base-ten blocks, how many tens are in 46 if all the ones stay separate?",
+    "audio_prompt": "With base-ten blocks, how many tens are in 46 if all the ones stay separate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-014",
+      "alt_text": "With base-ten blocks: 4 ten rods and 6 one counters."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "46 has 4 full tens and 6 ones.",
+      "hint": "Group the amount into tens before counting leftover ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_invalid_regrouping",
+    "question": "With base-ten blocks, which regrouping is not equal to 346?",
+    "audio_prompt": "With base-ten blocks, which regrouping is not equal to 346?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-015",
+      "alt_text": "With base-ten blocks: Three place-value regroupings for 346, including one that loses a ten."
+    },
+    "answers": [
+      {
+        "text": "3 hundreds + 3 tens + 16 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 hundreds + 14 tens + 6 ones",
+        "is_correct": false
+      },
+      {
+        "text": "3 hundreds + 3 tens + 6 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
+      "hint": "Every trade must exchange equal value."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_nonstandard_grouping",
+    "question": "With base-ten blocks, which number is 3 hundreds and 46 ones?",
+    "audio_prompt": "With base-ten blocks, which number is 3 hundreds and 46 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-016",
+      "alt_text": "With base-ten blocks: 3 hundreds and 46 ones regrouped to show 346."
+    },
+    "answers": [
+      {
+        "text": "346",
+        "is_correct": true
+      },
+      {
+        "text": "310",
+        "is_correct": false
+      },
+      {
+        "text": "446",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "46 ones regroup as 4 tens and 6 ones, making 346.",
+      "hint": "Make groups of 10 from the ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "partition_standard_form",
+    "question": "In the place-value game, which partition equals 457?",
+    "audio_prompt": "In the place-value game, which partition equals 457?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-017",
+      "alt_text": "In the place-value game: Base-ten model of 457 with 4 hundreds, 5 tens and 7 ones."
+    },
+    "answers": [
+      {
+        "text": "400 + 70 + 5",
+        "is_correct": false
+      },
+      {
+        "text": "400 + 50 + 7",
+        "is_correct": true
+      },
+      {
+        "text": "400 + 5 + 7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "457 has 4 hundreds, 5 tens and 7 ones.",
+      "hint": "Read each digit by its place."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "regroup_ten_as_ones",
+    "question": "In the place-value game, trade 1 ten for ones. How many ones is that?",
+    "audio_prompt": "In the place-value game, trade 1 ten for ones. How many ones is that?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-018",
+      "alt_text": "In the place-value game: One ten rod beside 10 one counters of equal total value."
+    },
+    "answers": [
+      {
+        "text": "1 one",
+        "is_correct": false
+      },
+      {
+        "text": "100 ones",
+        "is_correct": false
+      },
+      {
+        "text": "10 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One ten has the same value as 10 ones.",
+      "hint": "Count the unit squares in a ten rod."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_hundred_as_tens",
+    "question": "In the place-value game, which is another way to make 457?",
+    "audio_prompt": "In the place-value game, which is another way to make 457?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-019",
+      "alt_text": "In the place-value game: 457 represented after one hundred is traded for 10 tens."
+    },
+    "answers": [
+      {
+        "text": "3 hundreds + 15 tens + 7 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 hundreds + 6 tens + 7 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 hundreds + 5 tens + 17 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 457.",
+      "hint": "Take one hundred away and add ten tens."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "explain_zero_placeholder",
+    "question": "In the place-value game, what does the 0 mean in 407?",
+    "audio_prompt": "In the place-value game, what does the 0 mean in 407?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-020",
+      "alt_text": "In the place-value game: 4 hundred blocks, no tens and 7 ones representing 407."
+    },
+    "answers": [
+      {
+        "text": "0 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens",
+        "is_correct": true
+      },
+      {
+        "text": "0 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The zero sits in the tens place, so 407 has 0 tens.",
+      "hint": "Name the columns from left to right: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "verify_nonstandard_partition",
+    "question": "In the place-value game, is 457 the same value as 457?",
+    "audio_prompt": "In the place-value game, is 457 the same value as 457?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-021",
+      "alt_text": "In the place-value game: A regrouped model with 4 hundreds, 4 tens and 17 ones."
+    },
+    "answers": [
+      {
+        "text": "No, it is 10 more",
+        "is_correct": false
+      },
+      {
+        "text": "No, it is 10 less",
+        "is_correct": false
+      },
+      {
+        "text": "Yes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One ten was traded for 10 ones, so the total value stays 457.",
+      "hint": "Compare the parts after regrouping, not just the number of pieces."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_tens_in_number",
+    "question": "In the place-value game, how many tens are in 57 if all the ones stay separate?",
+    "audio_prompt": "In the place-value game, how many tens are in 57 if all the ones stay separate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-022",
+      "alt_text": "In the place-value game: 5 ten rods and 7 one counters."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "57 has 5 full tens and 7 ones.",
+      "hint": "Group the amount into tens before counting leftover ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "identify_invalid_regrouping",
+    "question": "In the place-value game, which regrouping is not equal to 457?",
+    "audio_prompt": "In the place-value game, which regrouping is not equal to 457?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-023",
+      "alt_text": "In the place-value game: Three place-value regroupings for 457, including one that loses a ten."
+    },
+    "answers": [
+      {
+        "text": "4 hundreds + 4 tens + 17 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 hundreds + 4 tens + 7 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 hundreds + 15 tens + 7 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
+      "hint": "Every trade must exchange equal value."
+    }
+  },
+  {
+    "id": "AC9M2N02-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "practice",
+    "skill": "rename_nonstandard_grouping",
+    "question": "In the place-value game, which number is 4 hundreds and 57 ones?",
+    "audio_prompt": "In the place-value game, which number is 4 hundreds and 57 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-p-024",
+      "alt_text": "In the place-value game: 4 hundreds and 57 ones regrouped to show 457."
+    },
+    "answers": [
+      {
+        "text": "412",
+        "is_correct": false
+      },
+      {
+        "text": "557",
+        "is_correct": false
+      },
+      {
+        "text": "457",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "57 ones regroup as 5 tens and 7 ones, making 457.",
+      "hint": "Make groups of 10 from the ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "partition_standard_form",
+    "question": "At the number table, which partition equals 568?",
+    "audio_prompt": "At the number table, which partition equals 568?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-001",
+      "alt_text": "At the number table: Base-ten model of 568 with 5 hundreds, 6 tens and 8 ones."
+    },
+    "answers": [
+      {
+        "text": "500 + 60 + 8",
+        "is_correct": true
+      },
+      {
+        "text": "500 + 80 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "500 + 6 + 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "568 has 5 hundreds, 6 tens and 8 ones.",
+      "hint": "Read each digit by its place."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "regroup_ten_as_ones",
+    "question": "At the number table, trade 1 ten for ones. How many ones is that?",
+    "audio_prompt": "At the number table, trade 1 ten for ones. How many ones is that?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-002",
+      "alt_text": "At the number table: One ten rod beside 10 one counters of equal total value."
+    },
+    "answers": [
+      {
+        "text": "1 one",
+        "is_correct": false
+      },
+      {
+        "text": "10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "100 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten has the same value as 10 ones.",
+      "hint": "Count the unit squares in a ten rod."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "rename_hundred_as_tens",
+    "question": "At the number table, which is another way to make 568?",
+    "audio_prompt": "At the number table, which is another way to make 568?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-003",
+      "alt_text": "At the number table: 568 represented after one hundred is traded for 10 tens."
+    },
+    "answers": [
+      {
+        "text": "4 hundreds + 7 tens + 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 hundreds + 6 tens + 18 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 hundreds + 16 tens + 8 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 568.",
+      "hint": "Take one hundred away and add ten tens."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "explain_zero_placeholder",
+    "question": "At the number table, what does the 0 mean in 508?",
+    "audio_prompt": "At the number table, what does the 0 mean in 508?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-004",
+      "alt_text": "At the number table: 5 hundred blocks, no tens and 8 ones representing 508."
+    },
+    "answers": [
+      {
+        "text": "0 tens",
+        "is_correct": true
+      },
+      {
+        "text": "0 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "0 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The zero sits in the tens place, so 508 has 0 tens.",
+      "hint": "Name the columns from left to right: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "verify_nonstandard_partition",
+    "question": "At the number table, is 568 the same value as 568?",
+    "audio_prompt": "At the number table, is 568 the same value as 568?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-005",
+      "alt_text": "At the number table: A regrouped model with 5 hundreds, 5 tens and 18 ones."
+    },
+    "answers": [
+      {
+        "text": "No, it is 10 more",
+        "is_correct": false
+      },
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No, it is 10 less",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten was traded for 10 ones, so the total value stays 568.",
+      "hint": "Compare the parts after regrouping, not just the number of pieces."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "identify_tens_in_number",
+    "question": "At the number table, how many tens are in 68 if all the ones stay separate?",
+    "audio_prompt": "At the number table, how many tens are in 68 if all the ones stay separate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-006",
+      "alt_text": "At the number table: 6 ten rods and 8 one counters."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "68 has 6 full tens and 8 ones.",
+      "hint": "Group the amount into tens before counting leftover ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "identify_invalid_regrouping",
+    "question": "At the number table, which regrouping is not equal to 568?",
+    "audio_prompt": "At the number table, which regrouping is not equal to 568?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-007",
+      "alt_text": "At the number table: Three place-value regroupings for 568, including one that loses a ten."
+    },
+    "answers": [
+      {
+        "text": "5 hundreds + 5 tens + 8 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 hundreds + 5 tens + 18 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 hundreds + 16 tens + 8 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
+      "hint": "Every trade must exchange equal value."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "rename_nonstandard_grouping",
+    "question": "At the number table, which number is 5 hundreds and 68 ones?",
+    "audio_prompt": "At the number table, which number is 5 hundreds and 68 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-008",
+      "alt_text": "At the number table: 5 hundreds and 68 ones regrouped to show 568."
+    },
+    "answers": [
+      {
+        "text": "514",
+        "is_correct": false
+      },
+      {
+        "text": "568",
+        "is_correct": true
+      },
+      {
+        "text": "668",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "68 ones regroup as 6 tens and 8 ones, making 568.",
+      "hint": "Make groups of 10 from the ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "partition_standard_form",
+    "question": "During the regrouping challenge, which partition equals 635?",
+    "audio_prompt": "During the regrouping challenge, which partition equals 635?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-009",
+      "alt_text": "During the regrouping challenge: Base-ten model of 635 with 6 hundreds, 3 tens and 5 ones."
+    },
+    "answers": [
+      {
+        "text": "600 + 50 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "600 + 3 + 5",
+        "is_correct": false
+      },
+      {
+        "text": "600 + 30 + 5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "635 has 6 hundreds, 3 tens and 5 ones.",
+      "hint": "Read each digit by its place."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "regroup_ten_as_ones",
+    "question": "During the regrouping challenge, trade 1 ten for ones. How many ones is that?",
+    "audio_prompt": "During the regrouping challenge, trade 1 ten for ones. How many ones is that?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-010",
+      "alt_text": "During the regrouping challenge: One ten rod beside 10 one counters of equal total value."
+    },
+    "answers": [
+      {
+        "text": "10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "1 one",
+        "is_correct": false
+      },
+      {
+        "text": "100 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten has the same value as 10 ones.",
+      "hint": "Count the unit squares in a ten rod."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "rename_hundred_as_tens",
+    "question": "During the regrouping challenge, which is another way to make 635?",
+    "audio_prompt": "During the regrouping challenge, which is another way to make 635?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-011",
+      "alt_text": "During the regrouping challenge: 635 represented after one hundred is traded for 10 tens."
+    },
+    "answers": [
+      {
+        "text": "5 hundreds + 4 tens + 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 hundreds + 13 tens + 5 ones",
+        "is_correct": true
+      },
+      {
+        "text": "6 hundreds + 3 tens + 15 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Regrouping 1 hundred as 10 tens keeps the total at 635.",
+      "hint": "Take one hundred away and add ten tens."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "explain_zero_placeholder",
+    "question": "During the regrouping challenge, what does the 0 mean in 605?",
+    "audio_prompt": "During the regrouping challenge, what does the 0 mean in 605?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-012",
+      "alt_text": "During the regrouping challenge: 6 hundred blocks, no tens and 5 ones representing 605."
+    },
+    "answers": [
+      {
+        "text": "0 hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "0 ones",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The zero sits in the tens place, so 605 has 0 tens.",
+      "hint": "Name the columns from left to right: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "verify_nonstandard_partition",
+    "question": "During the regrouping challenge, is 635 the same value as 635?",
+    "audio_prompt": "During the regrouping challenge, is 635 the same value as 635?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-013",
+      "alt_text": "During the regrouping challenge: A regrouped model with 6 hundreds, 2 tens and 15 ones."
+    },
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No, it is 10 more",
+        "is_correct": false
+      },
+      {
+        "text": "No, it is 10 less",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten was traded for 10 ones, so the total value stays 635.",
+      "hint": "Compare the parts after regrouping, not just the number of pieces."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "identify_tens_in_number",
+    "question": "During the regrouping challenge, how many tens are in 35 if all the ones stay separate?",
+    "audio_prompt": "During the regrouping challenge, how many tens are in 35 if all the ones stay separate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-014",
+      "alt_text": "During the regrouping challenge: 3 ten rods and 5 one counters."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "35 has 3 full tens and 5 ones.",
+      "hint": "Group the amount into tens before counting leftover ones."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "identify_invalid_regrouping",
+    "question": "During the regrouping challenge, which regrouping is not equal to 635?",
+    "audio_prompt": "During the regrouping challenge, which regrouping is not equal to 635?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-015",
+      "alt_text": "During the regrouping challenge: Three place-value regroupings for 635, including one that loses a ten."
+    },
+    "answers": [
+      {
+        "text": "6 hundreds + 2 tens + 15 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 hundreds + 13 tens + 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 hundreds + 2 tens + 5 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
+      "hint": "Every trade must exchange equal value."
+    }
+  },
+  {
+    "id": "AC9M2N02-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N02",
+    "bank": "test",
+    "skill": "rename_nonstandard_grouping",
+    "question": "During the regrouping challenge, which number is 6 hundreds and 35 ones?",
+    "audio_prompt": "During the regrouping challenge, which number is 6 hundreds and 35 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n02.svg#ac9m2n02-t-016",
+      "alt_text": "During the regrouping challenge: 6 hundreds and 35 ones regrouped to show 635."
+    },
+    "answers": [
+      {
+        "text": "635",
+        "is_correct": true
+      },
+      {
+        "text": "608",
+        "is_correct": false
+      },
+      {
+        "text": "735",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "35 ones regroup as 3 tens and 5 ones, making 635.",
+      "hint": "Make groups of 10 from the ones."
+    }
+  }
+]

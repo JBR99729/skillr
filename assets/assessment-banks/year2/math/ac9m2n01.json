@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M2N01-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "represent_three_digit_number",
+    "question": "With base-ten blocks, which number has 2 hundreds, 3 tens and 4 ones?",
+    "audio_prompt": "With base-ten blocks, which number has 2 hundreds, 3 tens and 4 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-001",
+      "alt_text": "With base-ten blocks: 2 hundred blocks, 3 ten rods and 4 one counters representing 234."
+    },
+    "answers": [
+      {
+        "text": "243",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "234",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "2 hundreds, 3 tens and 4 ones make 234.",
+      "hint": "Write the hundreds digit, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "write_expanded_form",
+    "question": "With base-ten blocks, what is 234 in expanded form?",
+    "audio_prompt": "With base-ten blocks, what is 234 in expanded form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-002",
+      "alt_text": "With base-ten blocks: Place-value blocks for 234: 2 hundreds, 3 tens and 4 ones."
+    },
+    "answers": [
+      {
+        "text": "200 + 30 + 4",
+        "is_correct": true
+      },
+      {
+        "text": "200 + 40 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "20 + 3 + 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The digits show 200, 30 and 4.",
+      "hint": "Use the place of each digit to find its value."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_three_digit_numbers",
+    "question": "With base-ten blocks, which number is greater: 234 or 242?",
+    "audio_prompt": "With base-ten blocks, which number is greater: 234 or 242?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-003",
+      "alt_text": "With base-ten blocks: The numerals 234 and 242 shown in place-value columns."
+    },
+    "answers": [
+      {
+        "text": "234",
+        "is_correct": false
+      },
+      {
+        "text": "242",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both have 2 hundreds. 242 has more tens, so it is greater.",
+      "hint": "Compare hundreds first, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "locate_number_on_number_line",
+    "question": "With base-ten blocks, which number belongs halfway between 200 and 300?",
+    "audio_prompt": "With base-ten blocks, which number belongs halfway between 200 and 300?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-004",
+      "alt_text": "With base-ten blocks: Number line from 200 to 300 with a midpoint marker."
+    },
+    "answers": [
+      {
+        "text": "205",
+        "is_correct": false
+      },
+      {
+        "text": "290",
+        "is_correct": false
+      },
+      {
+        "text": "250",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "250 is 50 more than 200 and 50 less than 300.",
+      "hint": "Half of 100 is 50."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_three_digit_numbers",
+    "question": "With base-ten blocks, put these numbers from smallest to largest: 234, 264, 134.",
+    "audio_prompt": "With base-ten blocks, put these numbers from smallest to largest: 234, 264, 134.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-005",
+      "alt_text": "With base-ten blocks: Cards labelled 234, 264, 134 ready to be ordered."
+    },
+    "answers": [
+      {
+        "text": "134, 234, 264",
+        "is_correct": true
+      },
+      {
+        "text": "264, 234, 134",
+        "is_correct": false
+      },
+      {
+        "text": "234, 134, 264",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the hundreds first. The order is 134, 234, 264.",
+      "hint": "Find the number with the fewest hundreds first."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_ten_more",
+    "question": "With base-ten blocks, what is 10 more than 234?",
+    "audio_prompt": "With base-ten blocks, what is 10 more than 234?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-006",
+      "alt_text": "With base-ten blocks: Number line showing a jump of 10 from 234 to a missing number."
+    },
+    "answers": [
+      {
+        "text": "235",
+        "is_correct": false
+      },
+      {
+        "text": "244",
+        "is_correct": true
+      },
+      {
+        "text": "334",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adding 10 increases the tens place by 1: 234 becomes 244.",
+      "hint": "Keep the hundreds and ones the same."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "interpret_zero_digit",
+    "question": "With base-ten blocks, what does the 0 mean in 204?",
+    "audio_prompt": "With base-ten blocks, what does the 0 mean in 204?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-007",
+      "alt_text": "With base-ten blocks: 2 hundred blocks, no ten rods and 4 ones for 204."
+    },
+    "answers": [
+      {
+        "text": "There are no hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "There are no ones",
+        "is_correct": false
+      },
+      {
+        "text": "There are no tens",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The 0 is in the tens place, so the number has no tens.",
+      "hint": "Read the place-value columns: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "read_three_digit_number",
+    "question": "With base-ten blocks, which numeral matches “2 hundred and 4”?",
+    "audio_prompt": "With base-ten blocks, which numeral matches “2 hundred and 4”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-008",
+      "alt_text": "With base-ten blocks: 2 hundreds, zero tens and 4 ones."
+    },
+    "answers": [
+      {
+        "text": "204",
+        "is_correct": true
+      },
+      {
+        "text": "240",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "With no tens, a zero keeps the tens place: 204.",
+      "hint": "Leave a zero in the tens column."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "represent_three_digit_number",
+    "question": "On the class number line, which number has 3 hundreds, 4 tens and 5 ones?",
+    "audio_prompt": "On the class number line, which number has 3 hundreds, 4 tens and 5 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-009",
+      "alt_text": "On the class number line: 3 hundred blocks, 4 ten rods and 5 one counters representing 345."
+    },
+    "answers": [
+      {
+        "text": "354",
+        "is_correct": false
+      },
+      {
+        "text": "345",
+        "is_correct": true
+      },
+      {
+        "text": "309",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "3 hundreds, 4 tens and 5 ones make 345.",
+      "hint": "Write the hundreds digit, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "write_expanded_form",
+    "question": "On the class number line, what is 345 in expanded form?",
+    "audio_prompt": "On the class number line, what is 345 in expanded form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-010",
+      "alt_text": "On the class number line: Place-value blocks for 345: 3 hundreds, 4 tens and 5 ones."
+    },
+    "answers": [
+      {
+        "text": "300 + 50 + 4",
+        "is_correct": false
+      },
+      {
+        "text": "30 + 4 + 5",
+        "is_correct": false
+      },
+      {
+        "text": "300 + 40 + 5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The digits show 300, 40 and 5.",
+      "hint": "Use the place of each digit to find its value."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_three_digit_numbers",
+    "question": "On the class number line, which number is greater: 345 or 353?",
+    "audio_prompt": "On the class number line, which number is greater: 345 or 353?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-011",
+      "alt_text": "On the class number line: The numerals 345 and 353 shown in place-value columns."
+    },
+    "answers": [
+      {
+        "text": "353",
+        "is_correct": true
+      },
+      {
+        "text": "345",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both have 3 hundreds. 353 has more tens, so it is greater.",
+      "hint": "Compare hundreds first, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "locate_number_on_number_line",
+    "question": "On the class number line, which number belongs halfway between 300 and 400?",
+    "audio_prompt": "On the class number line, which number belongs halfway between 300 and 400?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-012",
+      "alt_text": "On the class number line: Number line from 300 to 400 with a midpoint marker."
+    },
+    "answers": [
+      {
+        "text": "305",
+        "is_correct": false
+      },
+      {
+        "text": "350",
+        "is_correct": true
+      },
+      {
+        "text": "390",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "350 is 50 more than 300 and 50 less than 400.",
+      "hint": "Half of 100 is 50."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_three_digit_numbers",
+    "question": "On the class number line, put these numbers from smallest to largest: 345, 375, 245.",
+    "audio_prompt": "On the class number line, put these numbers from smallest to largest: 345, 375, 245.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-013",
+      "alt_text": "On the class number line: Cards labelled 345, 375, 245 ready to be ordered."
+    },
+    "answers": [
+      {
+        "text": "375, 345, 245",
+        "is_correct": false
+      },
+      {
+        "text": "345, 245, 375",
+        "is_correct": false
+      },
+      {
+        "text": "245, 345, 375",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the hundreds first. The order is 245, 345, 375.",
+      "hint": "Find the number with the fewest hundreds first."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_ten_more",
+    "question": "On the class number line, what is 10 more than 345?",
+    "audio_prompt": "On the class number line, what is 10 more than 345?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-014",
+      "alt_text": "On the class number line: Number line showing a jump of 10 from 345 to a missing number."
+    },
+    "answers": [
+      {
+        "text": "355",
+        "is_correct": true
+      },
+      {
+        "text": "346",
+        "is_correct": false
+      },
+      {
+        "text": "445",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 10 increases the tens place by 1: 345 becomes 355.",
+      "hint": "Keep the hundreds and ones the same."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "interpret_zero_digit",
+    "question": "On the class number line, what does the 0 mean in 305?",
+    "audio_prompt": "On the class number line, what does the 0 mean in 305?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-015",
+      "alt_text": "On the class number line: 3 hundred blocks, no ten rods and 5 ones for 305."
+    },
+    "answers": [
+      {
+        "text": "There are no hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "There are no tens",
+        "is_correct": true
+      },
+      {
+        "text": "There are no ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The 0 is in the tens place, so the number has no tens.",
+      "hint": "Read the place-value columns: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "read_three_digit_number",
+    "question": "On the class number line, which numeral matches “3 hundred and 5”?",
+    "audio_prompt": "On the class number line, which numeral matches “3 hundred and 5”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-016",
+      "alt_text": "On the class number line: 3 hundreds, zero tens and 5 ones."
+    },
+    "answers": [
+      {
+        "text": "350",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "305",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "With no tens, a zero keeps the tens place: 305.",
+      "hint": "Leave a zero in the tens column."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "represent_three_digit_number",
+    "question": "In the number-card game, which number has 4 hundreds, 5 tens and 6 ones?",
+    "audio_prompt": "In the number-card game, which number has 4 hundreds, 5 tens and 6 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017",
+      "alt_text": "In the number-card game: 4 hundred blocks, 5 ten rods and 6 one counters representing 456."
+    },
+    "answers": [
+      {
+        "text": "456",
+        "is_correct": true
+      },
+      {
+        "text": "465",
+        "is_correct": false
+      },
+      {
+        "text": "411",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "4 hundreds, 5 tens and 6 ones make 456.",
+      "hint": "Write the hundreds digit, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "write_expanded_form",
+    "question": "In the number-card game, what is 456 in expanded form?",
+    "audio_prompt": "In the number-card game, what is 456 in expanded form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-018",
+      "alt_text": "In the number-card game: Place-value blocks for 456: 4 hundreds, 5 tens and 6 ones."
+    },
+    "answers": [
+      {
+        "text": "400 + 60 + 5",
+        "is_correct": false
+      },
+      {
+        "text": "400 + 50 + 6",
+        "is_correct": true
+      },
+      {
+        "text": "40 + 5 + 6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The digits show 400, 50 and 6.",
+      "hint": "Use the place of each digit to find its value."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_three_digit_numbers",
+    "question": "In the number-card game, which number is greater: 456 or 464?",
+    "audio_prompt": "In the number-card game, which number is greater: 456 or 464?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-019",
+      "alt_text": "In the number-card game: The numerals 456 and 464 shown in place-value columns."
+    },
+    "answers": [
+      {
+        "text": "456",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "464",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both have 4 hundreds. 464 has more tens, so it is greater.",
+      "hint": "Compare hundreds first, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "locate_number_on_number_line",
+    "question": "In the number-card game, which number belongs halfway between 400 and 500?",
+    "audio_prompt": "In the number-card game, which number belongs halfway between 400 and 500?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-020",
+      "alt_text": "In the number-card game: Number line from 400 to 500 with a midpoint marker."
+    },
+    "answers": [
+      {
+        "text": "450",
+        "is_correct": true
+      },
+      {
+        "text": "405",
+        "is_correct": false
+      },
+      {
+        "text": "490",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "450 is 50 more than 400 and 50 less than 500.",
+      "hint": "Half of 100 is 50."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_three_digit_numbers",
+    "question": "In the number-card game, put these numbers from smallest to largest: 456, 486, 356.",
+    "audio_prompt": "In the number-card game, put these numbers from smallest to largest: 456, 486, 356.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-021",
+      "alt_text": "In the number-card game: Cards labelled 456, 486, 356 ready to be ordered."
+    },
+    "answers": [
+      {
+        "text": "486, 456, 356",
+        "is_correct": false
+      },
+      {
+        "text": "356, 456, 486",
+        "is_correct": true
+      },
+      {
+        "text": "456, 356, 486",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the hundreds first. The order is 356, 456, 486.",
+      "hint": "Find the number with the fewest hundreds first."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_ten_more",
+    "question": "In the number-card game, what is 10 more than 456?",
+    "audio_prompt": "In the number-card game, what is 10 more than 456?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-022",
+      "alt_text": "In the number-card game: Number line showing a jump of 10 from 456 to a missing number."
+    },
+    "answers": [
+      {
+        "text": "457",
+        "is_correct": false
+      },
+      {
+        "text": "556",
+        "is_correct": false
+      },
+      {
+        "text": "466",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding 10 increases the tens place by 1: 456 becomes 466.",
+      "hint": "Keep the hundreds and ones the same."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "interpret_zero_digit",
+    "question": "In the number-card game, what does the 0 mean in 406?",
+    "audio_prompt": "In the number-card game, what does the 0 mean in 406?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-023",
+      "alt_text": "In the number-card game: 4 hundred blocks, no ten rods and 6 ones for 406."
+    },
+    "answers": [
+      {
+        "text": "There are no tens",
+        "is_correct": true
+      },
+      {
+        "text": "There are no hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "There are no ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The 0 is in the tens place, so the number has no tens.",
+      "hint": "Read the place-value columns: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "read_three_digit_number",
+    "question": "In the number-card game, which numeral matches “4 hundred and 6”?",
+    "audio_prompt": "In the number-card game, which numeral matches “4 hundred and 6”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-024",
+      "alt_text": "In the number-card game: 4 hundreds, zero tens and 6 ones."
+    },
+    "answers": [
+      {
+        "text": "460",
+        "is_correct": false
+      },
+      {
+        "text": "406",
+        "is_correct": true
+      },
+      {
+        "text": "46",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "With no tens, a zero keeps the tens place: 406.",
+      "hint": "Leave a zero in the tens column."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "represent_three_digit_number",
+    "question": "At the counting table, which number has 5 hundreds, 6 tens and 7 ones?",
+    "audio_prompt": "At the counting table, which number has 5 hundreds, 6 tens and 7 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-001",
+      "alt_text": "At the counting table: 5 hundred blocks, 6 ten rods and 7 one counters representing 567."
+    },
+    "answers": [
+      {
+        "text": "576",
+        "is_correct": false
+      },
+      {
+        "text": "513",
+        "is_correct": false
+      },
+      {
+        "text": "567",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "5 hundreds, 6 tens and 7 ones make 567.",
+      "hint": "Write the hundreds digit, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "write_expanded_form",
+    "question": "At the counting table, what is 567 in expanded form?",
+    "audio_prompt": "At the counting table, what is 567 in expanded form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-002",
+      "alt_text": "At the counting table: Place-value blocks for 567: 5 hundreds, 6 tens and 7 ones."
+    },
+    "answers": [
+      {
+        "text": "500 + 60 + 7",
+        "is_correct": true
+      },
+      {
+        "text": "500 + 70 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "50 + 6 + 7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The digits show 500, 60 and 7.",
+      "hint": "Use the place of each digit to find its value."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "compare_three_digit_numbers",
+    "question": "At the counting table, which number is greater: 567 or 575?",
+    "audio_prompt": "At the counting table, which number is greater: 567 or 575?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-003",
+      "alt_text": "At the counting table: The numerals 567 and 575 shown in place-value columns."
+    },
+    "answers": [
+      {
+        "text": "567",
+        "is_correct": false
+      },
+      {
+        "text": "575",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both have 5 hundreds. 575 has more tens, so it is greater.",
+      "hint": "Compare hundreds first, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "locate_number_on_number_line",
+    "question": "At the counting table, which number belongs halfway between 500 and 600?",
+    "audio_prompt": "At the counting table, which number belongs halfway between 500 and 600?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-004",
+      "alt_text": "At the counting table: Number line from 500 to 600 with a midpoint marker."
+    },
+    "answers": [
+      {
+        "text": "505",
+        "is_correct": false
+      },
+      {
+        "text": "590",
+        "is_correct": false
+      },
+      {
+        "text": "550",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "550 is 50 more than 500 and 50 less than 600.",
+      "hint": "Half of 100 is 50."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "order_three_digit_numbers",
+    "question": "At the counting table, put these numbers from smallest to largest: 567, 597, 467.",
+    "audio_prompt": "At the counting table, put these numbers from smallest to largest: 567, 597, 467.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-005",
+      "alt_text": "At the counting table: Cards labelled 567, 597, 467 ready to be ordered."
+    },
+    "answers": [
+      {
+        "text": "467, 567, 597",
+        "is_correct": true
+      },
+      {
+        "text": "597, 567, 467",
+        "is_correct": false
+      },
+      {
+        "text": "567, 467, 597",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the hundreds first. The order is 467, 567, 597.",
+      "hint": "Find the number with the fewest hundreds first."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "find_ten_more",
+    "question": "At the counting table, what is 10 more than 567?",
+    "audio_prompt": "At the counting table, what is 10 more than 567?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-006",
+      "alt_text": "At the counting table: Number line showing a jump of 10 from 567 to a missing number."
+    },
+    "answers": [
+      {
+        "text": "568",
+        "is_correct": false
+      },
+      {
+        "text": "577",
+        "is_correct": true
+      },
+      {
+        "text": "667",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adding 10 increases the tens place by 1: 567 becomes 577.",
+      "hint": "Keep the hundreds and ones the same."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "interpret_zero_digit",
+    "question": "At the counting table, what does the 0 mean in 507?",
+    "audio_prompt": "At the counting table, what does the 0 mean in 507?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-007",
+      "alt_text": "At the counting table: 5 hundred blocks, no ten rods and 7 ones for 507."
+    },
+    "answers": [
+      {
+        "text": "There are no hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "There are no ones",
+        "is_correct": false
+      },
+      {
+        "text": "There are no tens",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The 0 is in the tens place, so the number has no tens.",
+      "hint": "Read the place-value columns: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "read_three_digit_number",
+    "question": "At the counting table, which numeral matches “5 hundred and 7”?",
+    "audio_prompt": "At the counting table, which numeral matches “5 hundred and 7”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-008",
+      "alt_text": "At the counting table: 5 hundreds, zero tens and 7 ones."
+    },
+    "answers": [
+      {
+        "text": "507",
+        "is_correct": true
+      },
+      {
+        "text": "570",
+        "is_correct": false
+      },
+      {
+        "text": "57",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "With no tens, a zero keeps the tens place: 507.",
+      "hint": "Leave a zero in the tens column."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "represent_three_digit_number",
+    "question": "In the place-value challenge, which number has 6 hundreds, 3 tens and 8 ones?",
+    "audio_prompt": "In the place-value challenge, which number has 6 hundreds, 3 tens and 8 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-009",
+      "alt_text": "In the place-value challenge: 6 hundred blocks, 3 ten rods and 8 one counters representing 638."
+    },
+    "answers": [
+      {
+        "text": "683",
+        "is_correct": false
+      },
+      {
+        "text": "638",
+        "is_correct": true
+      },
+      {
+        "text": "611",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "6 hundreds, 3 tens and 8 ones make 638.",
+      "hint": "Write the hundreds digit, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "write_expanded_form",
+    "question": "In the place-value challenge, what is 638 in expanded form?",
+    "audio_prompt": "In the place-value challenge, what is 638 in expanded form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-010",
+      "alt_text": "In the place-value challenge: Place-value blocks for 638: 6 hundreds, 3 tens and 8 ones."
+    },
+    "answers": [
+      {
+        "text": "600 + 80 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "60 + 3 + 8",
+        "is_correct": false
+      },
+      {
+        "text": "600 + 30 + 8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The digits show 600, 30 and 8.",
+      "hint": "Use the place of each digit to find its value."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "compare_three_digit_numbers",
+    "question": "In the place-value challenge, which number is greater: 638 or 646?",
+    "audio_prompt": "In the place-value challenge, which number is greater: 638 or 646?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-011",
+      "alt_text": "In the place-value challenge: The numerals 638 and 646 shown in place-value columns."
+    },
+    "answers": [
+      {
+        "text": "646",
+        "is_correct": true
+      },
+      {
+        "text": "638",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both have 6 hundreds. 646 has more tens, so it is greater.",
+      "hint": "Compare hundreds first, then tens, then ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "locate_number_on_number_line",
+    "question": "In the place-value challenge, which number belongs halfway between 600 and 700?",
+    "audio_prompt": "In the place-value challenge, which number belongs halfway between 600 and 700?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-012",
+      "alt_text": "In the place-value challenge: Number line from 600 to 700 with a midpoint marker."
+    },
+    "answers": [
+      {
+        "text": "605",
+        "is_correct": false
+      },
+      {
+        "text": "650",
+        "is_correct": true
+      },
+      {
+        "text": "690",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "650 is 50 more than 600 and 50 less than 700.",
+      "hint": "Half of 100 is 50."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "order_three_digit_numbers",
+    "question": "In the place-value challenge, put these numbers from smallest to largest: 638, 668, 538.",
+    "audio_prompt": "In the place-value challenge, put these numbers from smallest to largest: 638, 668, 538.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-013",
+      "alt_text": "In the place-value challenge: Cards labelled 638, 668, 538 ready to be ordered."
+    },
+    "answers": [
+      {
+        "text": "668, 638, 538",
+        "is_correct": false
+      },
+      {
+        "text": "638, 538, 668",
+        "is_correct": false
+      },
+      {
+        "text": "538, 638, 668",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the hundreds first. The order is 538, 638, 668.",
+      "hint": "Find the number with the fewest hundreds first."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "find_ten_more",
+    "question": "In the place-value challenge, what is 10 more than 638?",
+    "audio_prompt": "In the place-value challenge, what is 10 more than 638?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-014",
+      "alt_text": "In the place-value challenge: Number line showing a jump of 10 from 638 to a missing number."
+    },
+    "answers": [
+      {
+        "text": "648",
+        "is_correct": true
+      },
+      {
+        "text": "639",
+        "is_correct": false
+      },
+      {
+        "text": "738",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 10 increases the tens place by 1: 638 becomes 648.",
+      "hint": "Keep the hundreds and ones the same."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "interpret_zero_digit",
+    "question": "In the place-value challenge, what does the 0 mean in 608?",
+    "audio_prompt": "In the place-value challenge, what does the 0 mean in 608?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-015",
+      "alt_text": "In the place-value challenge: 6 hundred blocks, no ten rods and 8 ones for 608."
+    },
+    "answers": [
+      {
+        "text": "There are no hundreds",
+        "is_correct": false
+      },
+      {
+        "text": "There are no tens",
+        "is_correct": true
+      },
+      {
+        "text": "There are no ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The 0 is in the tens place, so the number has no tens.",
+      "hint": "Read the place-value columns: hundreds, tens, ones."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "read_three_digit_number",
+    "question": "In the place-value challenge, which numeral matches “6 hundred and 8”?",
+    "audio_prompt": "In the place-value challenge, which numeral matches “6 hundred and 8”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-t-016",
+      "alt_text": "In the place-value challenge: 6 hundreds, zero tens and 8 ones."
+    },
+    "answers": [
+      {
+        "text": "680",
+        "is_correct": false
+      },
+      {
+        "text": "68",
+        "is_correct": false
+      },
+      {
+        "text": "608",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "With no tens, a zero keeps the tens place: 608.",
+      "hint": "Leave a zero in the tens column."
+    }
+  }
+]

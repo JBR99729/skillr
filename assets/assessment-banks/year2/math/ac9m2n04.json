@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M2N04-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "add_two_digit_numbers",
+    "question": "At the sticker table, what is 24 + 13?",
+    "audio_prompt": "At the sticker table, what is 24 + 13?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-001",
+      "alt_text": "At the sticker table: Part-part-whole model for 24 plus 13."
+    },
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add tens and ones: 24 + 13 = 37.",
+      "hint": "Partition both numbers into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "subtract_two_digit_numbers",
+    "question": "At the sticker table, what is 45 − 13?",
+    "audio_prompt": "At the sticker table, what is 45 − 13?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-002",
+      "alt_text": "At the sticker table: Number sentence 45 minus 13."
+    },
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Take away 13: 45 − 13 = 32.",
+      "hint": "Subtract the tens, then the ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "partition_to_add",
+    "question": "At the sticker table, use partitioning. What is 28 + 16?",
+    "audio_prompt": "At the sticker table, use partitioning. What is 28 + 16?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-003",
+      "alt_text": "At the sticker table: Partitioned addition showing tens and ones for 28 and 16."
+    },
+    "answers": [
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "44",
+        "is_correct": true
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "28 + 16 = 20 + 10 + 14 = 44.",
+      "hint": "Add the tens, add the ones, then combine."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_take_away_problem",
+    "question": "At the sticker table, there are 42 stickers. 18 are used. How many are left?",
+    "audio_prompt": "At the sticker table, there are 42 stickers. 18 are used. How many are left?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-004",
+      "alt_text": "At the sticker table: 42 stickers with 18 crossed out as used."
+    },
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The stickers are taken away, so 42 − 18 = 24.",
+      "hint": "Start with the whole and subtract the used part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "find_missing_part",
+    "question": "At the sticker table, 17 children are inside. There are 48 children altogether. How many are outside?",
+    "audio_prompt": "At the sticker table, 17 children are inside. There are 48 children altogether. How many are outside?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-005",
+      "alt_text": "At the sticker table: Part-part-whole model with whole 48, known part 17 and a missing part."
+    },
+    "answers": [
+      {
+        "text": "31",
+        "is_correct": true
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The missing part is 48 − 17 = 31.",
+      "hint": "Use whole minus known part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "check_with_inverse",
+    "question": "At the sticker table, which number sentence checks 37 − 13 = 24?",
+    "audio_prompt": "At the sticker table, which number sentence checks 37 − 13 = 24?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-006",
+      "alt_text": "At the sticker table: Related addition and subtraction facts using 24, 13 and 37."
+    },
+    "answers": [
+      {
+        "text": "24 − 13 = 11",
+        "is_correct": false
+      },
+      {
+        "text": "24 + 13 = 37",
+        "is_correct": true
+      },
+      {
+        "text": "37 + 13 = 50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
+      "hint": "Use the answer and the amount taken away."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "use_compensation_strategy",
+    "question": "At the sticker table, which is a helpful way to solve 39 + 19?",
+    "audio_prompt": "At the sticker table, which is a helpful way to solve 39 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-007",
+      "alt_text": "At the sticker table: Number line showing a jump of 20 then one step back from 39."
+    },
+    "answers": [
+      {
+        "text": "Add 10, then take away 1",
+        "is_correct": false
+      },
+      {
+        "text": "Take away 20, then add 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add 20, then take away 1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "hint": "Use a nearby friendly number."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_joining_problem",
+    "question": "At the sticker table, a box has 24 red pencils and 13 blue pencils. How many pencils are there altogether?",
+    "audio_prompt": "At the sticker table, a box has 24 red pencils and 13 blue pencils. How many pencils are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-008",
+      "alt_text": "At the sticker table: 24 red pencils and 13 blue pencils in two groups."
+    },
+    "answers": [
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Altogether means join the groups: 24 + 13 = 37.",
+      "hint": "Look for whether the story joins or separates amounts."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "add_two_digit_numbers",
+    "question": "In the class shop, what is 31 + 15?",
+    "audio_prompt": "In the class shop, what is 31 + 15?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-009",
+      "alt_text": "In the class shop: Part-part-whole model for 31 plus 15."
+    },
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": true
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add tens and ones: 31 + 15 = 46.",
+      "hint": "Partition both numbers into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "subtract_two_digit_numbers",
+    "question": "In the class shop, what is 54 − 15?",
+    "audio_prompt": "In the class shop, what is 54 − 15?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-010",
+      "alt_text": "In the class shop: Number sentence 54 minus 15."
+    },
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "39",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Take away 15: 54 − 15 = 39.",
+      "hint": "Subtract the tens, then the ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "partition_to_add",
+    "question": "In the class shop, use partitioning. What is 32 + 17?",
+    "audio_prompt": "In the class shop, use partitioning. What is 32 + 17?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-011",
+      "alt_text": "In the class shop: Partitioned addition showing tens and ones for 32 and 17."
+    },
+    "answers": [
+      {
+        "text": "49",
+        "is_correct": true
+      },
+      {
+        "text": "39",
+        "is_correct": false
+      },
+      {
+        "text": "59",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "32 + 17 = 30 + 10 + 9 = 49.",
+      "hint": "Add the tens, add the ones, then combine."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_take_away_problem",
+    "question": "In the class shop, there are 47 stickers. 19 are used. How many are left?",
+    "audio_prompt": "In the class shop, there are 47 stickers. 19 are used. How many are left?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-012",
+      "alt_text": "In the class shop: 47 stickers with 19 crossed out as used."
+    },
+    "answers": [
+      {
+        "text": "66",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The stickers are taken away, so 47 − 19 = 28.",
+      "hint": "Start with the whole and subtract the used part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "find_missing_part",
+    "question": "In the class shop, 18 children are inside. There are 51 children altogether. How many are outside?",
+    "audio_prompt": "In the class shop, 18 children are inside. There are 51 children altogether. How many are outside?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-013",
+      "alt_text": "In the class shop: Part-part-whole model with whole 51, known part 18 and a missing part."
+    },
+    "answers": [
+      {
+        "text": "69",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "33",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The missing part is 51 − 18 = 33.",
+      "hint": "Use whole minus known part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "check_with_inverse",
+    "question": "In the class shop, which number sentence checks 46 − 15 = 31?",
+    "audio_prompt": "In the class shop, which number sentence checks 46 − 15 = 31?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-014",
+      "alt_text": "In the class shop: Related addition and subtraction facts using 31, 15 and 46."
+    },
+    "answers": [
+      {
+        "text": "31 + 15 = 46",
+        "is_correct": true
+      },
+      {
+        "text": "31 − 15 = 16",
+        "is_correct": false
+      },
+      {
+        "text": "46 + 15 = 61",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
+      "hint": "Use the answer and the amount taken away."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "use_compensation_strategy",
+    "question": "In the class shop, which is a helpful way to solve 43 + 19?",
+    "audio_prompt": "In the class shop, which is a helpful way to solve 43 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-015",
+      "alt_text": "In the class shop: Number line showing a jump of 20 then one step back from 43."
+    },
+    "answers": [
+      {
+        "text": "Add 10, then take away 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add 20, then take away 1",
+        "is_correct": true
+      },
+      {
+        "text": "Take away 20, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "hint": "Use a nearby friendly number."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_joining_problem",
+    "question": "In the class shop, a box has 31 red pencils and 15 blue pencils. How many pencils are there altogether?",
+    "audio_prompt": "In the class shop, a box has 31 red pencils and 15 blue pencils. How many pencils are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-016",
+      "alt_text": "In the class shop: 31 red pencils and 15 blue pencils in two groups."
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "56",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Altogether means join the groups: 31 + 15 = 46.",
+      "hint": "Look for whether the story joins or separates amounts."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "add_two_digit_numbers",
+    "question": "During the pencil count, what is 38 + 17?",
+    "audio_prompt": "During the pencil count, what is 38 + 17?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-017",
+      "alt_text": "During the pencil count: Part-part-whole model for 38 plus 17."
+    },
+    "answers": [
+      {
+        "text": "55",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "56",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add tens and ones: 38 + 17 = 55.",
+      "hint": "Partition both numbers into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "subtract_two_digit_numbers",
+    "question": "During the pencil count, what is 63 − 17?",
+    "audio_prompt": "During the pencil count, what is 63 − 17?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-018",
+      "alt_text": "During the pencil count: Number sentence 63 minus 17."
+    },
+    "answers": [
+      {
+        "text": "63",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Take away 17: 63 − 17 = 46.",
+      "hint": "Subtract the tens, then the ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "partition_to_add",
+    "question": "During the pencil count, use partitioning. What is 36 + 18?",
+    "audio_prompt": "During the pencil count, use partitioning. What is 36 + 18?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-019",
+      "alt_text": "During the pencil count: Partitioned addition showing tens and ones for 36 and 18."
+    },
+    "answers": [
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "36 + 18 = 30 + 10 + 14 = 54.",
+      "hint": "Add the tens, add the ones, then combine."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_take_away_problem",
+    "question": "During the pencil count, there are 52 stickers. 20 are used. How many are left?",
+    "audio_prompt": "During the pencil count, there are 52 stickers. 20 are used. How many are left?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-020",
+      "alt_text": "During the pencil count: 52 stickers with 20 crossed out as used."
+    },
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": true
+      },
+      {
+        "text": "72",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The stickers are taken away, so 52 − 20 = 32.",
+      "hint": "Start with the whole and subtract the used part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "find_missing_part",
+    "question": "During the pencil count, 19 children are inside. There are 54 children altogether. How many are outside?",
+    "audio_prompt": "During the pencil count, 19 children are inside. There are 54 children altogether. How many are outside?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-021",
+      "alt_text": "During the pencil count: Part-part-whole model with whole 54, known part 19 and a missing part."
+    },
+    "answers": [
+      {
+        "text": "73",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The missing part is 54 − 19 = 35.",
+      "hint": "Use whole minus known part."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "check_with_inverse",
+    "question": "During the pencil count, which number sentence checks 55 − 17 = 38?",
+    "audio_prompt": "During the pencil count, which number sentence checks 55 − 17 = 38?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-022",
+      "alt_text": "During the pencil count: Related addition and subtraction facts using 38, 17 and 55."
+    },
+    "answers": [
+      {
+        "text": "38 − 17 = 21",
+        "is_correct": false
+      },
+      {
+        "text": "55 + 17 = 72",
+        "is_correct": false
+      },
+      {
+        "text": "38 + 17 = 55",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
+      "hint": "Use the answer and the amount taken away."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "use_compensation_strategy",
+    "question": "During the pencil count, which is a helpful way to solve 47 + 19?",
+    "audio_prompt": "During the pencil count, which is a helpful way to solve 47 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-023",
+      "alt_text": "During the pencil count: Number line showing a jump of 20 then one step back from 47."
+    },
+    "answers": [
+      {
+        "text": "Add 20, then take away 1",
+        "is_correct": true
+      },
+      {
+        "text": "Add 10, then take away 1",
+        "is_correct": false
+      },
+      {
+        "text": "Take away 20, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "hint": "Use a nearby friendly number."
+    }
+  },
+  {
+    "id": "AC9M2N04-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "practice",
+    "skill": "solve_joining_problem",
+    "question": "During the pencil count, a box has 38 red pencils and 17 blue pencils. How many pencils are there altogether?",
+    "audio_prompt": "During the pencil count, a box has 38 red pencils and 17 blue pencils. How many pencils are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-p-024",
+      "alt_text": "During the pencil count: 38 red pencils and 17 blue pencils in two groups."
+    },
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": true
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Altogether means join the groups: 38 + 17 = 55.",
+      "hint": "Look for whether the story joins or separates amounts."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "add_two_digit_numbers",
+    "question": "In the playground story, what is 45 + 19?",
+    "audio_prompt": "In the playground story, what is 45 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-001",
+      "alt_text": "In the playground story: Part-part-whole model for 45 plus 19."
+    },
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add tens and ones: 45 + 19 = 64.",
+      "hint": "Partition both numbers into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "subtract_two_digit_numbers",
+    "question": "In the playground story, what is 72 − 19?",
+    "audio_prompt": "In the playground story, what is 72 − 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-002",
+      "alt_text": "In the playground story: Number sentence 72 minus 19."
+    },
+    "answers": [
+      {
+        "text": "53",
+        "is_correct": true
+      },
+      {
+        "text": "72",
+        "is_correct": false
+      },
+      {
+        "text": "52",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Take away 19: 72 − 19 = 53.",
+      "hint": "Subtract the tens, then the ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "partition_to_add",
+    "question": "In the playground story, use partitioning. What is 40 + 19?",
+    "audio_prompt": "In the playground story, use partitioning. What is 40 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-003",
+      "alt_text": "In the playground story: Partitioned addition showing tens and ones for 40 and 19."
+    },
+    "answers": [
+      {
+        "text": "49",
+        "is_correct": false
+      },
+      {
+        "text": "59",
+        "is_correct": true
+      },
+      {
+        "text": "69",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "40 + 19 = 40 + 10 + 9 = 59.",
+      "hint": "Add the tens, add the ones, then combine."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "solve_take_away_problem",
+    "question": "In the playground story, there are 57 stickers. 21 are used. How many are left?",
+    "audio_prompt": "In the playground story, there are 57 stickers. 21 are used. How many are left?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-004",
+      "alt_text": "In the playground story: 57 stickers with 21 crossed out as used."
+    },
+    "answers": [
+      {
+        "text": "78",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The stickers are taken away, so 57 − 21 = 36.",
+      "hint": "Start with the whole and subtract the used part."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "find_missing_part",
+    "question": "In the playground story, 20 children are inside. There are 57 children altogether. How many are outside?",
+    "audio_prompt": "In the playground story, 20 children are inside. There are 57 children altogether. How many are outside?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-005",
+      "alt_text": "In the playground story: Part-part-whole model with whole 57, known part 20 and a missing part."
+    },
+    "answers": [
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "77",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The missing part is 57 − 20 = 37.",
+      "hint": "Use whole minus known part."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "check_with_inverse",
+    "question": "In the playground story, which number sentence checks 64 − 19 = 45?",
+    "audio_prompt": "In the playground story, which number sentence checks 64 − 19 = 45?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-006",
+      "alt_text": "In the playground story: Related addition and subtraction facts using 45, 19 and 64."
+    },
+    "answers": [
+      {
+        "text": "45 − 19 = 26",
+        "is_correct": false
+      },
+      {
+        "text": "45 + 19 = 64",
+        "is_correct": true
+      },
+      {
+        "text": "64 + 19 = 83",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
+      "hint": "Use the answer and the amount taken away."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "use_compensation_strategy",
+    "question": "In the playground story, which is a helpful way to solve 51 + 19?",
+    "audio_prompt": "In the playground story, which is a helpful way to solve 51 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-007",
+      "alt_text": "In the playground story: Number line showing a jump of 20 then one step back from 51."
+    },
+    "answers": [
+      {
+        "text": "Add 10, then take away 1",
+        "is_correct": false
+      },
+      {
+        "text": "Take away 20, then add 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add 20, then take away 1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "hint": "Use a nearby friendly number."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "solve_joining_problem",
+    "question": "In the playground story, a box has 45 red pencils and 19 blue pencils. How many pencils are there altogether?",
+    "audio_prompt": "In the playground story, a box has 45 red pencils and 19 blue pencils. How many pencils are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-008",
+      "alt_text": "In the playground story: 45 red pencils and 19 blue pencils in two groups."
+    },
+    "answers": [
+      {
+        "text": "64",
+        "is_correct": true
+      },
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Altogether means join the groups: 45 + 19 = 64.",
+      "hint": "Look for whether the story joins or separates amounts."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "add_two_digit_numbers",
+    "question": "At the number-line station, what is 52 + 21?",
+    "audio_prompt": "At the number-line station, what is 52 + 21?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-009",
+      "alt_text": "At the number-line station: Part-part-whole model for 52 plus 21."
+    },
+    "answers": [
+      {
+        "text": "63",
+        "is_correct": false
+      },
+      {
+        "text": "73",
+        "is_correct": true
+      },
+      {
+        "text": "74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add tens and ones: 52 + 21 = 73.",
+      "hint": "Partition both numbers into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "subtract_two_digit_numbers",
+    "question": "At the number-line station, what is 81 − 21?",
+    "audio_prompt": "At the number-line station, what is 81 − 21?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-010",
+      "alt_text": "At the number-line station: Number sentence 81 minus 21."
+    },
+    "answers": [
+      {
+        "text": "81",
+        "is_correct": false
+      },
+      {
+        "text": "59",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Take away 21: 81 − 21 = 60.",
+      "hint": "Subtract the tens, then the ones."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "partition_to_add",
+    "question": "At the number-line station, use partitioning. What is 44 + 20?",
+    "audio_prompt": "At the number-line station, use partitioning. What is 44 + 20?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-011",
+      "alt_text": "At the number-line station: Partitioned addition showing tens and ones for 44 and 20."
+    },
+    "answers": [
+      {
+        "text": "64",
+        "is_correct": true
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      },
+      {
+        "text": "74",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "44 + 20 = 40 + 20 + 4 = 64.",
+      "hint": "Add the tens, add the ones, then combine."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "solve_take_away_problem",
+    "question": "At the number-line station, there are 62 stickers. 22 are used. How many are left?",
+    "audio_prompt": "At the number-line station, there are 62 stickers. 22 are used. How many are left?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-012",
+      "alt_text": "At the number-line station: 62 stickers with 22 crossed out as used."
+    },
+    "answers": [
+      {
+        "text": "84",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The stickers are taken away, so 62 − 22 = 40.",
+      "hint": "Start with the whole and subtract the used part."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "find_missing_part",
+    "question": "At the number-line station, 21 children are inside. There are 60 children altogether. How many are outside?",
+    "audio_prompt": "At the number-line station, 21 children are inside. There are 60 children altogether. How many are outside?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-013",
+      "alt_text": "At the number-line station: Part-part-whole model with whole 60, known part 21 and a missing part."
+    },
+    "answers": [
+      {
+        "text": "81",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "39",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The missing part is 60 − 21 = 39.",
+      "hint": "Use whole minus known part."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "check_with_inverse",
+    "question": "At the number-line station, which number sentence checks 73 − 21 = 52?",
+    "audio_prompt": "At the number-line station, which number sentence checks 73 − 21 = 52?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-014",
+      "alt_text": "At the number-line station: Related addition and subtraction facts using 52, 21 and 73."
+    },
+    "answers": [
+      {
+        "text": "52 + 21 = 73",
+        "is_correct": true
+      },
+      {
+        "text": "52 − 21 = 31",
+        "is_correct": false
+      },
+      {
+        "text": "73 + 21 = 94",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Addition checks subtraction by joining the two parts back to the whole.",
+      "hint": "Use the answer and the amount taken away."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "use_compensation_strategy",
+    "question": "At the number-line station, which is a helpful way to solve 55 + 19?",
+    "audio_prompt": "At the number-line station, which is a helpful way to solve 55 + 19?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-015",
+      "alt_text": "At the number-line station: Number line showing a jump of 20 then one step back from 55."
+    },
+    "answers": [
+      {
+        "text": "Add 10, then take away 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add 20, then take away 1",
+        "is_correct": true
+      },
+      {
+        "text": "Take away 20, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Because 19 is one less than 20, add 20 then subtract 1.",
+      "hint": "Use a nearby friendly number."
+    }
+  },
+  {
+    "id": "AC9M2N04-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N04",
+    "bank": "test",
+    "skill": "solve_joining_problem",
+    "question": "At the number-line station, a box has 52 red pencils and 21 blue pencils. How many pencils are there altogether?",
+    "audio_prompt": "At the number-line station, a box has 52 red pencils and 21 blue pencils. How many pencils are there altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n04.svg#ac9m2n04-t-016",
+      "alt_text": "At the number-line station: 52 red pencils and 21 blue pencils in two groups."
+    },
+    "answers": [
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "83",
+        "is_correct": false
+      },
+      {
+        "text": "73",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Altogether means join the groups: 52 + 21 = 73.",
+      "hint": "Look for whether the story joins or separates amounts."
+    }
+  }
+]

@@ -207,6 +207,10 @@ function listCodes(year, subject) {
   return fs.readdirSync(root, { withFileTypes: true })
     .filter(entry => entry.isDirectory() && /^ac9[a-z0-9]+$/i.test(entry.name))
     .map(entry => path.join(root, entry.name))
+    .filter(codeDir => {
+      const index = path.join(codeDir, 'index.html');
+      return !fs.existsSync(index) || !fs.readFileSync(index, 'utf8').includes('name="skillr-status" content="legacy-redirect"');
+    })
     .sort();
 }
 
