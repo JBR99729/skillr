@@ -3678,6 +3678,7 @@ pre { overflow-x: auto; }
 }
 .skillr-utility-button:hover,.skillr-utility-button:focus-visible,.skillr-qr-trigger:hover,.skillr-qr-trigger:focus-visible { border-color:#7197df; background:#eef4ff; color:#173f9e; }
 .skillr-qr-trigger { margin:4px 6px 8px 0; border-color:#8cb3f0; }
+.skillr-qr-trigger .skillr-ui-icon { width:14px; height:14px; }
 
 /* Reusable dialogs, install prompt, timer and QR card */
 .skillr-modal-layer { position:fixed; z-index:10030; inset:0; display:grid; place-items:center; padding:16px; background:rgba(8,24,48,.62); }
@@ -3808,3 +3809,14 @@ pre { overflow-x: auto; }
 .worksheet-year-grid a:hover,.worksheet-year-grid a:focus-visible { border-color:#7fa3e8; background:#f5f8ff; transform:translateY(-1px); }
 @media(max-width:820px){ .worksheet-year-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media(max-width:520px){ .worksheet-year-grid { grid-template-columns:1fr; } .worksheet-year-grid a { min-height:70px; } }
+.sitemap-hero { margin:24px 0 20px; padding:clamp(20px,4vw,36px); border:1px solid #c9d8ee; border-radius:18px; background:linear-gradient(135deg,#eef5ff 0%,#f8fbff 62%,#fff8e7 100%); }
+.sitemap-hero h1 { margin:4px 0 8px; color:#17335f; }
+.sitemap-hero p:last-child { max-width:70ch; margin-bottom:0; color:#53657d; }
+.sitemap-directory { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; margin-bottom:30px; }
+.sitemap-section { min-width:0; padding:18px; border:1px solid #d9e2ef; border-radius:14px; background:#fff; }
+.sitemap-section h2 { margin:0 0 10px; color:#17335f; font-size:1.05rem; }
+.sitemap-section ul { margin:0; padding-left:19px; }
+.sitemap-section li { margin:6px 0; line-height:1.4; }
+.sitemap-section a { overflow-wrap:anywhere; }
+@media (max-width:900px) { .sitemap-directory { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:600px) { .sitemap-directory { grid-template-columns:1fr; } .sitemap-hero { margin-top:14px; } }
