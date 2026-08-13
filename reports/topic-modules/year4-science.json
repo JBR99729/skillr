@@ -1,0 +1,35 @@
+{
+  "year": 4,
+  "subject": "Science",
+  "standard": "connected-topic-module-v1",
+  "status": "implemented-and-validated",
+  "codeCount": 12,
+  "deliverables": {
+    "topicPages": 12,
+    "coreTeacherSlides": 48,
+    "practiceSheets": 12,
+    "practiceQuestions": 108
+  },
+  "preservedContent": [
+    "Australian Curriculum descriptions and elaborations",
+    "international curriculum mappings and official references",
+    "legacy teacher-slide PDFs",
+    "authored visual models, application models, activities and misconceptions",
+    "Practice, Test, Quick Read, report-issue and navigation links"
+  ],
+  "preservationProvenance": {
+    "assets/year4-science-data.js model and application": "two topic worked examples and slide 2/3 visual models",
+    "assets/year4-science-data.js terms": "topic vocabulary and worksheet vocabulary/alignment tasks",
+    "assets/year4-science-data.js mistakes": "three priority corrections plus fourth item in optional teacher notes",
+    "assets/year4-science-data.js activities": "optional topic teacher notes and evidence-practice worksheet task",
+    "assets/year4-science-data.js enrichment prompts": "preserved optional extension prompts on topic page",
+    "legacy static topic sections": "collapsed curriculum/elaboration, international mapping, official references and legacy PDF access",
+    "quiz Practice and Test routes": "unchanged connected module links"
+  },
+  "alignmentGate": {
+    "requiredCoverage": ["taught concept", "vocabulary", "misconception correction", "worked example 1", "worked example 2", "visual terminology"],
+    "result": "PASS 12/12; each of 108 items has recognised alignment tags and source-content anchoring"
+  },
+  "printAndLinkQA": "PASS: A4 portrait contract, tier order, answer-key print page, overflow safeguards, valid SVG logo, and all topic/slide/worksheet/Practice/Test/legacy PDF targets",
+  "validation": "PASS 12/12: atomic alignment, schema, routes, 3/4/2 tiers, answer-summary-hint completeness, unique prompts, three-option keys, four slide roles, concealed response/remediation, branding, A4 print and progressive-loader integration"
+}

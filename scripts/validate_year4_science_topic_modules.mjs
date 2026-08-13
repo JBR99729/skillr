@@ -1,0 +1,77 @@
+import fs from "node:fs";
+import path from "node:path";
+import vm from "node:vm";
+
+const ROOT = path.resolve(import.meta.dirname, "..");
+const context = { window:{} };
+vm.createContext(context);
+for (const file of ["assets/year4-subject-data-base.js","assets/year4-science-data.js","assets/year4-science-topic-modules.js"]) vm.runInContext(fs.readFileSync(path.join(ROOT, file), "utf8"), context, { filename:file });
+const units = context.window.SkillrYear4ScienceData || {};
+const source = context.window.SkillrYear4ScienceTopicSource || {};
+const errors = [];
+const expect = (condition, message) => { if (!condition) errors.push(message); };
+const codes = Object.keys(source);
+const allPrompts = [];
+const allowedAlignment = new Set(["taught-concept","vocabulary","misconception-correction","worked-example-1","worked-example-2","visual-terminology","evidence-practice"]);
+expect(codes.length === 12, `Expected 12 codes, found ${codes.length}`);
+for (const code of codes) {
+  const unit = units[code];
+  expect(Boolean(unit), `${code}: missing unit`);
+  if (!unit) continue;
+  expect(unit.deepDive?.length >= 3 && unit.deepDive.every((item) => item.length > 50), `${code}: deep-dive incomplete`);
+  expect(unit.vocabulary?.length >= 4, `${code}: vocabulary incomplete`);
+  expect(unit.misconceptions?.length === 3 && unit.misconceptions.every((item) => item.correction), `${code}: misconceptions not 3 corrected items`);
+  expect(unit.workedExamples?.length === 2 && unit.workedExamples.every((item) => item.steps.length >= 3 && item.conclusion), `${code}: worked examples incomplete`);
+  expect(unit.visualAlt?.length > 40, `${code}: visual alt incomplete`);
+  expect(unit.worksheet?.length === 9, `${code}: worksheet must contain exactly 9 items`);
+  expect([1,2,3].every((tier, index) => unit.worksheet.filter((item) => item.tier === tier).length === [3,4,2][index]), `${code}: worksheet tier count is not 3/4/2`);
+  expect(unit.worksheet.map((item) => item.tier).join("") === "111222233", `${code}: worksheet tiers are not ordered 3/4/2`);
+  expect(unit.worksheet.every((item) => item.id && item.question && item.answer && item.summary && item.hint), `${code}: worksheet answer metadata incomplete`);
+  expect(unit.worksheet.filter((item) => item.options).every((item) => item.options.length === 3 && item.options[0] === item.answer), `${code}: choice count or answer key incorrect`);
+  expect(new Set(unit.worksheet.map((item) => item.question.toLowerCase())).size === 9, `${code}: duplicate worksheet prompt`);
+  expect(unit.worksheet.every((item) => item.alignment?.length && item.alignment.every((tag) => allowedAlignment.has(tag))), `${code}: missing or untaught alignment tag`);
+  const coverage = new Set(unit.worksheet.flatMap((item) => item.alignment));
+  for (const required of ["taught-concept","vocabulary","misconception-correction","worked-example-1","worked-example-2","visual-terminology"]) expect(coverage.has(required), `${code}: alignment does not cover ${required}`);
+  expect(unit.worksheet[0].question === source[code].questions.choice1[0], `${code}: Q1 is not anchored to the taught model`);
+  expect(unit.worksheet[1].question === source[code].questions.choice2[0], `${code}: Q2 is not anchored to the taught application`);
+  expect(unit.worksheet[2].question.includes(source[code].terms[0][0]), `${code}: Q3 does not assess taught vocabulary`);
+  expect(unit.worksheet[3].question.toLowerCase().includes(source[code].modelTitle.toLowerCase()), `${code}: Q4 does not assess worked example 1`);
+  expect(unit.worksheet[4].question.toLowerCase().includes(source[code].applyTitle.toLowerCase()), `${code}: Q5 does not assess worked example 2`);
+  expect(unit.worksheet[5].question.includes(source[code].mistakes[0][0]), `${code}: Q6 does not assess a taught misconception correction`);
+  expect(unit.worksheet[6].question.startsWith(source[code].activities[0][0]), `${code}: Q7 is not anchored to a taught activity`);
+  expect(unit.worksheet[7].question.includes(source[code].modelTitle) && source[code].terms.slice(0,3).every(([term]) => unit.worksheet[7].question.includes(term)), `${code}: Q8 lacks model/vocabulary alignment`);
+  expect(unit.worksheet[8].question.includes(source[code].applyTitle), `${code}: Q9 lacks application-method alignment`);
+  allPrompts.push(...unit.worksheet.map((item) => item.question.toLowerCase()));
+  const topic = path.join(ROOT, "year4", "science", unit.slug, "index.html");
+  const worksheet = path.join(ROOT, "quiz", "year-4", "science", code.toLowerCase(), "worksheet", "index.html");
+  const practice = path.join(ROOT, "quiz", "year-4", "science", code.toLowerCase(), "practice", "index.html");
+  const test = path.join(ROOT, "quiz", "year-4", "science", code.toLowerCase(), "test", "index.html");
+  const legacyPdf = path.join(ROOT, "worksheets", "year4", "science", "teacher-slides", `${code.toLowerCase()}-teacher-slide.pdf`);
+  expect(fs.existsSync(topic) && fs.readFileSync(topic, "utf8").includes("year4-science-topic-render.js"), `${code}: topic route not wired`);
+  expect(fs.existsSync(worksheet) && fs.readFileSync(worksheet, "utf8").includes("year4-science-worksheet.js"), `${code}: worksheet route not wired`);
+  expect(fs.existsSync(practice), `${code}: Practice target missing`);
+  expect(fs.existsSync(test), `${code}: Test target missing`);
+  expect(fs.existsSync(legacyPdf) && fs.statSync(legacyPdf).size > 1000, `${code}: legacy teacher PDF missing or empty`);
+}
+expect(new Set(allPrompts).size === 108, `Cross-code worksheet prompt overlap: ${108 - new Set(allPrompts).size}`);
+const slide = fs.readFileSync(path.join(ROOT, "assets/year4-science-slide.js"), "utf8");
+const topicRenderer = fs.readFileSync(path.join(ROOT, "assets/year4-science-topic-render.js"), "utf8");
+const worksheetRenderer = fs.readFileSync(path.join(ROOT, "assets/year4-science-worksheet.js"), "utf8");
+for (const role of ["Learning intention and success criteria","Concept refresher and visual clues","Guided worked example","60-second Quick Check / Turn and Talk"]) expect(slide.includes(role), `Missing slide role: ${role}`);
+expect(slide.includes("concealed-answer") && slide.includes("Expected response") && slide.includes("If students are unsure"), "Quick Check answer/remediation incomplete");
+for (const target of ["teacher-slides/live.html?code=","/worksheet/","/practice/","/test/"]) expect(topicRenderer.includes(target), `Topic renderer link missing: ${target}`);
+expect(topicRenderer.includes("Legacy teacher-slide PDF") && topicRenderer.includes("Preserved optional extension prompts"), "Preserved teaching material is not exposed");
+expect(worksheetRenderer.includes("answer-key") && worksheetRenderer.includes("Summary:") && worksheetRenderer.includes("Hint:"), "Printable answer key incomplete");
+expect(worksheetRenderer.includes("@page{size:A4 portrait") && worksheetRenderer.includes("width:210mm") && worksheetRenderer.includes("page-break-before:always"), "A4/answer-key print contract missing");
+expect(worksheetRenderer.includes("overflow-wrap:anywhere") && worksheetRenderer.includes("overflow:hidden"), "Worksheet overflow safeguards missing");
+expect(slide.includes("data-slide-role") && fs.readFileSync(path.join(ROOT, "worksheets/year4/science/teacher-slides/live.html"), "utf8").includes("overflow-wrap:anywhere"), "Slide overflow safeguard missing");
+for (const file of ["assets/year4-science-topic-render.js","assets/year4-science-slide.js","assets/year4-science-worksheet.js"]) {
+  const text = fs.readFileSync(path.join(ROOT, file), "utf8");
+  expect(text.includes("/icons/skillrhub-mark.svg"), `${file}: SkillrHub logo missing`);
+}
+const logoPath = path.join(ROOT, "icons/skillrhub-mark.svg");
+expect(fs.existsSync(logoPath) && fs.statSync(logoPath).size > 100 && /<svg\b/.test(fs.readFileSync(logoPath, "utf8")), "SkillrHub logo asset missing or invalid");
+const pwa = fs.readFileSync(path.join(ROOT, "pwa-register.js"), "utf8");
+for (const asset of ["year4-science-topic-modules.js","year4-science-topic-render.js","year4-science-worksheet.js"]) expect(pwa.includes(asset), `Progressive loader missing ${asset}`);
+if (errors.length) { console.error(errors.join("\n")); process.exit(1); }
+console.log(`PASS: Year 4 Science topic modules ${codes.length}/12; 12 topic pages, 48 core slides and 108 worksheet questions.`);
