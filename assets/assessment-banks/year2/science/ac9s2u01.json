@@ -74,12 +74,12 @@
     "curriculum_code": "AC9S2U01",
     "bank": "practice",
     "skill": "observe_sky_patterns",
-    "question": "The small rocky object shown travelling around Earth is the —",
-    "audio_prompt": "The small rocky object shown travelling around Earth is the —",
+    "question": "In a model, what small rocky object travels around Earth?",
+    "audio_prompt": "In a model, what small rocky object travels around Earth?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-003",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: The small rocky object shown travelling around Earth is the —"
+      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: In a model, what small rocky object travels around Earth?"
     },
     "answers": [
       {

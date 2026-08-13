@@ -6,12 +6,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "practice",
     "skill": "sort_and_represent_data",
-    "question": "Which rule sorts materials scientifically?",
-    "audio_prompt": "Which rule sorts materials scientifically?",
+    "question": "A class sorts classroom materials. Which rule sorts them scientifically?",
+    "audio_prompt": "A class sorts classroom materials. Which rule sorts them scientifically?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-001",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which rule sorts materials scientifically?"
+      "alt_text": "A class sorts classroom materials into groups. Question context: A class sorts classroom materials. Which rule sorts them scientifically?"
     },
     "answers": [
       {
@@ -210,12 +210,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "practice",
     "skill": "sort_and_represent_data",
-    "question": "Why use arrows in a diagram?",
-    "audio_prompt": "Why use arrows in a diagram?",
+    "question": "A diagram shows how Earth, the Sun and the Moon move. Why use arrows in a diagram?",
+    "audio_prompt": "A diagram shows how Earth, the Sun and the Moon move. Why use arrows in a diagram?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-007",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use arrows in a diagram?"
+      "alt_text": "A diagram shows movement with arrows. Question context: A diagram shows how Earth, the Sun and the Moon move. Why use arrows in a diagram?"
     },
     "answers": [
       {
@@ -244,12 +244,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "practice",
     "skill": "sort_and_represent_data",
-    "question": "What should be done before tallying leaf shapes?",
-    "audio_prompt": "What should be done before tallying leaf shapes?",
+    "question": "Before tallying leaf shapes from the school garden, what should be done?",
+    "audio_prompt": "Before tallying leaf shapes from the school garden, what should be done?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-008",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: What should be done before tallying leaf shapes?"
+      "alt_text": "A class tallies leaf shapes from the school garden. Question context: Before tallying leaf shapes from the school garden, what should be done?"
     },
     "answers": [
       {
@@ -448,12 +448,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "practice",
     "skill": "sort_and_represent_data",
-    "question": "Why order plant heights from least to greatest?",
-    "audio_prompt": "Why order plant heights from least to greatest?",
+    "question": "A class orders plant heights from least to greatest. Why do this?",
+    "audio_prompt": "A class orders plant heights from least to greatest. Why do this?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-014",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why order plant heights from least to greatest?"
+      "alt_text": "A class orders plant heights from least to greatest to compare them. Question context: A class orders plant heights from least to greatest. Why do this?"
     },
     "answers": [
       {
@@ -550,12 +550,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "practice",
     "skill": "sort_and_represent_data",
-    "question": "Why use rows for material and columns for bend/stretch?",
-    "audio_prompt": "Why use rows for material and columns for bend/stretch?",
+    "question": "A class records bend and stretch for different materials. Why use rows for material and columns for bend/stretch?",
+    "audio_prompt": "A class records bend and stretch for different materials. Why use rows for material and columns for bend/stretch?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-017",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use rows for material and columns for bend/stretch?"
+      "alt_text": "A class records bend and stretch for different materials in a table. Question context: A class records bend and stretch for different materials. Why use rows for material and columns for bend/stretch?"
     },
     "answers": [
       {
@@ -890,12 +890,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "test",
     "skill": "sort_and_represent_data",
-    "question": "Which model best shows melting over time?",
-    "audio_prompt": "Which model best shows melting over time?",
+    "question": "A class watches ice melt from morning to afternoon. Which model best shows melting over time?",
+    "audio_prompt": "A class watches ice melt from morning to afternoon. Which model best shows melting over time?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-003",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?"
+      "alt_text": "A class uses a sequence of pictures to show ice melting. Question context: A class watches ice melt from morning to afternoon. Which model best shows melting over time?"
     },
     "answers": [
       {
@@ -1162,12 +1162,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "test",
     "skill": "sort_and_represent_data",
-    "question": "Which representation best compares simple counts across three materials?",
-    "audio_prompt": "Which representation best compares simple counts across three materials?",
+    "question": "A class wants to compare simple counts across three materials. Which representation works best?",
+    "audio_prompt": "A class wants to compare simple counts across three materials. Which representation works best?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-011",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?"
+      "alt_text": "A class compares simple counts across three materials. Question context: A class wants to compare simple counts across three materials. Which representation works best?"
     },
     "answers": [
       {
@@ -1230,12 +1230,12 @@
     "curriculum_code": "AC9S2I04",
     "bank": "test",
     "skill": "sort_and_represent_data",
-    "question": "When is it reasonable to describe a data pattern?",
-    "audio_prompt": "When is it reasonable to describe a data pattern?",
+    "question": "A class has repeated leaf-length data. When is it reasonable to describe a data pattern?",
+    "audio_prompt": "A class has repeated leaf-length data. When is it reasonable to describe a data pattern?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-013",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?"
+      "alt_text": "A class reviews repeated leaf-length data. Question context: A class has repeated leaf-length data. When is it reasonable to describe a data pattern?"
     },
     "answers": [
       {
