@@ -35,12 +35,14 @@ function playQuizSound(isCorrect) {
   });
 }
 
-const CURRICULUM_READ_ALOUD_STORAGE_KEY =
-  "skillrCurriculumReadAloudEnabled";
+function isQuestionReadAloudPath(pathname) {
+  const path = String(pathname || "");
 
-function isCurriculumReadAloudPath(pathname) {
-  return /^\/quiz\/(?:grade-k|year-\d+)\/(?:math|maths|english|science)\/ac9[a-z0-9]+\/(?:practice|test)\/(?:index\.html)?$/i.test(
-    pathname
+  return (
+    /^\/quiz\//i.test(path) &&
+    !/(?:^|\/)(?:result|results|review|retake|worksheet)(?:\/|\.html?$)/i.test(
+      path
+    )
   );
 }
 
@@ -277,28 +279,13 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 
   const readAloudAvailable =
-    isCurriculumReadAloudPath(
+    isQuestionReadAloudPath(
       window.location.pathname
     ) &&
     "speechSynthesis" in window &&
     typeof window.SpeechSynthesisUtterance ===
       "function";
-  let readAloudEnabled = true;
   let readAloudControls = null;
-
-  if (readAloudAvailable) {
-    try {
-      readAloudEnabled =
-        localStorage.getItem(
-          CURRICULUM_READ_ALOUD_STORAGE_KEY
-        ) !== "false";
-    } catch (error) {
-      console.warn(
-        "Read-aloud preference could not be loaded:",
-        error
-      );
-    }
-  }
 
   if (isPracticePage) {
     config.preReadSeconds = 0;
@@ -338,12 +325,6 @@ document.addEventListener("DOMContentLoaded", () => {
     quizSummary?.classList.add(
       "is-practice-summary"
     );
-  } else if (
-    passMarkLabel &&
-    config.certificateOnPass
-  ) {
-    passMarkLabel.textContent =
-      "For certificate";
   }
 
   const elements = {
@@ -417,7 +398,7 @@ document.addEventListener("DOMContentLoaded", () => {
     certificateAttemptNote.className =
       "certificate-attempt-note";
     certificateAttemptNote.textContent =
-      `Certificate target: ${Number(config.passingPercent) || 75}% or higher unlocks printing.`;
+      `Certificate target: score above ${Number(config.passingPercent) || 75}% to unlock printing.`;
     certificateAttemptNote.style.cssText =
       "margin:.35rem 0 .75rem;font-size:.875rem;font-weight:600;color:#334155;";
     elements.quizScreen
@@ -467,25 +448,28 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  function updateReadAloudControls() {
+  function updateReadAloudControl() {
     if (!readAloudControls) {
       return;
     }
 
-    readAloudControls.toggle.textContent =
-      readAloudEnabled ? "🔊 Sound on" : "🔇 Sound off";
-    readAloudControls.toggle.setAttribute(
-      "aria-pressed",
-      String(readAloudEnabled)
+    const question =
+      activeQuestions[currentQuestionIndex];
+    const hasSpeechText = Boolean(
+      question && getQuestionSpeechText(question)
     );
-    readAloudControls.readAgain.disabled =
-      !readAloudEnabled;
+
+    readAloudControls.button.disabled =
+      !hasSpeechText;
+    readAloudControls.button.textContent =
+      hasSpeechText
+        ? "🔊 Read aloud"
+        : "🔇 Audio unavailable";
   }
 
   function readCurrentQuestion() {
     if (
-      !readAloudAvailable ||
-      !readAloudEnabled
+      !readAloudAvailable
     ) {
       return;
     }
@@ -517,60 +501,35 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
+    document.getElementById("readQuestionAloud")?.remove();
+
     const container = document.createElement("div");
-    const readAgain = document.createElement("button");
-    const toggle = document.createElement("button");
+    const button = document.createElement("button");
 
     container.className = "read-aloud-controls";
     container.setAttribute(
       "aria-label",
       "Question audio controls"
     );
-    readAgain.type = "button";
-    readAgain.className = "button button-secondary";
-    readAgain.textContent = "🔊 Read again";
-    toggle.type = "button";
-    toggle.className = "button button-secondary";
+    button.type = "button";
+    button.className = "button button-secondary";
+    button.textContent = "🔊 Read aloud";
 
-    readAgain.addEventListener(
+    button.addEventListener(
       "click",
       readCurrentQuestion
     );
-    toggle.addEventListener("click", () => {
-      readAloudEnabled = !readAloudEnabled;
 
-      try {
-        localStorage.setItem(
-          CURRICULUM_READ_ALOUD_STORAGE_KEY,
-          String(readAloudEnabled)
-        );
-      } catch (error) {
-        console.warn(
-          "Read-aloud preference could not be saved:",
-          error
-        );
-      }
-
-      updateReadAloudControls();
-
-      if (readAloudEnabled) {
-        readCurrentQuestion();
-      } else {
-        stopReadAloud();
-      }
-    });
-
-    container.append(readAgain, toggle);
+    container.append(button);
     elements.questionText.insertAdjacentElement(
       "afterend",
       container
     );
     readAloudControls = {
       container,
-      readAgain,
-      toggle
+      button
     };
-    updateReadAloudControls();
+    updateReadAloudControl();
   }
 
   function shuffleArray(items) {
@@ -1391,7 +1350,7 @@ default:
     }
 
     ensureReadAloudControls();
-    readCurrentQuestion();
+    updateReadAloudControl();
     focusFirstQuestionControl();
   }
 
@@ -3290,11 +3249,13 @@ function renderImageDragState(
             margin: 0.16in 0;
             font-size: 24px;
             line-height: 1.2;
+            overflow-wrap: anywhere;
           }
           .student {
             margin: 0.2in 0;
             font-size: 30px;
             font-weight: 800;
+            overflow-wrap: anywhere;
           }
           .score {
             font-size: 20px;
@@ -3352,7 +3313,7 @@ function renderImageDragState(
 
     if (
       !config.certificateOnPass ||
-      percentage < passingPercent
+      percentage <= passingPercent
     ) {
       return;
     }
@@ -3379,6 +3340,69 @@ function renderImageDragState(
       );
 
     actions?.appendChild(button);
+  }
+
+  function updateResultSharePrompt(percentage) {
+    document.getElementById("resultSharePrompt")?.remove();
+    const quizLabel = document.querySelector("#startScreen .eyebrow")?.textContent || "";
+    const successfulTest = /test/i.test(quizLabel) && percentage >= (Number(config.passingPercent) || 75);
+    if (percentage !== 100 && !successfulTest) return;
+
+    const actions = elements.resultScreen.querySelector(".result-actions");
+    if (!actions) return;
+    const url = window.location.href;
+    const text = "SkillrHub offers free F–10 practice, drills and printable worksheets with no learner login required.";
+    const prompt = document.createElement("section");
+    prompt.id = "resultSharePrompt";
+    prompt.className = "result-share-prompt";
+    prompt.innerHTML = '<p aria-hidden="true">🌟</p><div><h2>Help another classroom or parent</h2><p>Know a teacher or parent who would value this free learning activity?</p></div>';
+    const shareActions = document.createElement("div");
+    shareActions.className = "result-share-actions";
+    const status = document.createElement("p");
+    status.className = "result-share-status";
+    status.setAttribute("role", "status");
+
+    const copyLink = async () => {
+      if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(url);
+      else {
+        const input = document.createElement("textarea");
+        input.value = url;
+        input.style.position = "fixed";
+        input.style.opacity = "0";
+        document.body.appendChild(input);
+        input.select();
+        document.execCommand("copy");
+        input.remove();
+      }
+      status.textContent = "Link copied.";
+    };
+    const native = document.createElement("button");
+    native.type = "button";
+    native.textContent = "📲 Share";
+    native.addEventListener("click", async () => {
+      if (navigator.share) {
+        try { await navigator.share({ title: getQuizTitle(), text, url }); return; }
+        catch (error) { if (error?.name === "AbortError") return; }
+      }
+      await copyLink();
+    });
+    const whatsapp = document.createElement("a");
+    whatsapp.href = `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`;
+    whatsapp.target = "_blank";
+    whatsapp.rel = "noopener noreferrer";
+    whatsapp.textContent = "WhatsApp";
+    const facebook = document.createElement("a");
+    facebook.href = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+    facebook.target = "_blank";
+    facebook.rel = "noopener noreferrer";
+    facebook.textContent = "Facebook";
+    const copy = document.createElement("button");
+    copy.type = "button";
+    copy.textContent = "📋 Copy link";
+    copy.addEventListener("click", copyLink);
+    shareActions.append(native, whatsapp, facebook, copy);
+    prompt.append(shareActions, status);
+    actions.insertAdjacentElement("beforebegin", prompt);
   }
 
     /* =========================================================
@@ -3426,6 +3450,7 @@ function renderImageDragState(
 
     markCurrentCycleSetComplete();
     updateCertificateAction(percentage);
+    updateResultSharePrompt(percentage);
 
     const quizTitle = document.getElementById("quizTitle")?.textContent.trim() || document.title;
     const resultData = {

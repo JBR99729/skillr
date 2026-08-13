@@ -20,37 +20,65 @@ const context = vm.createContext({
 });
 
 vm.runInContext(
-  `${source}\n;globalThis.readAloudTestApi = { isCurriculumReadAloudPath, normaliseSpeechText, getQuestionSpeechText };`,
+  `${source}\n;globalThis.readAloudTestApi = { isQuestionReadAloudPath, normaliseSpeechText, getQuestionSpeechText };`,
   context
 );
 
 const {
-  isCurriculumReadAloudPath,
+  isQuestionReadAloudPath,
   normaliseSpeechText,
   getQuestionSpeechText
 } = context.readAloudTestApi;
 
 assert.equal(
-  isCurriculumReadAloudPath(
+  isQuestionReadAloudPath(
     "/quiz/grade-k/math/ac9mfn02/practice/"
   ),
   true
 );
 assert.equal(
-  isCurriculumReadAloudPath(
+  isQuestionReadAloudPath(
     "/quiz/year-2/science/ac9s2u01/test/index.html"
   ),
   true
 );
 assert.equal(
-  isCurriculumReadAloudPath(
+  isQuestionReadAloudPath(
     "/quiz/year-2/daily-drills/math/fractions/"
+  ),
+  true
+);
+assert.equal(
+  isQuestionReadAloudPath(
+    "/quiz/daily-drills/english/reading-comprehension/"
+  ),
+  true
+);
+assert.equal(
+  isQuestionReadAloudPath(
+    "/quiz/year-2/math/ac9m2n02/"
+  ),
+  true
+);
+assert.equal(
+  isQuestionReadAloudPath(
+    "/quiz/year-2/math/ac9m2n02/worksheet/"
   ),
   false
 );
 assert.equal(
-  isCurriculumReadAloudPath(
-    "/quiz/year-2/math/ac9m2n02/"
+  isQuestionReadAloudPath(
+    "/quiz/year-2/math/ac9m2n02/practice/result/"
+  ),
+  false
+);
+assert.equal(
+  isQuestionReadAloudPath("/quiz/review.html"),
+  false
+);
+assert.equal(
+  isQuestionReadAloudPath(
+    "/year2/maths/ac9m2n02-topic-guide/"
   ),
   false
 );
@@ -75,4 +103,4 @@ assert.equal(
   "How many dots are shown? Option A. 2. Option B. 3."
 );
 
-console.log("Curriculum read-aloud validation passed.");
+console.log("Question read-aloud validation passed.");

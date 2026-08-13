@@ -222,4 +222,50 @@
     isInstallAvailable: () => Boolean(deferredInstallPrompt),
     promptInstall
   };
+
+  function normalizeSharedChrome() {
+    const mainNav = document.querySelector(".main-nav");
+    const currentPath = path.replace(/index\.html$/, "");
+    if (mainNav) {
+      mainNav.replaceChildren(...[
+        ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+        ["About", "/about.html"], ["Contact", "/contact.html"]
+      ].map(([label, href]) => {
+        const link = document.createElement("a");
+        link.textContent = label;
+        link.href = href;
+        if (currentPath === href || (href.endsWith("/") && currentPath.startsWith(href) && href !== "/")) {
+          link.setAttribute("aria-current", "page");
+        }
+        return link;
+      }));
+    }
+
+    const footer = document.querySelector("footer");
+    if (footer) {
+      let footerNav = footer.querySelector(".footer-nav");
+      if (!footerNav) {
+        footerNav = document.createElement("nav");
+        footerNav.className = "footer-nav";
+        footerNav.setAttribute("aria-label", "Footer navigation");
+        footer.prepend(footerNav);
+      }
+      footerNav.replaceChildren(...[
+        ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+        ["Worksheets", "/worksheets/"], ["About", "/about.html"],
+        ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"]
+      ].map(([label, href]) => {
+        const link = document.createElement("a");
+        link.textContent = label;
+        link.href = href;
+        return link;
+      }));
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", normalizeSharedChrome, { once: true });
+  } else {
+    normalizeSharedChrome();
+  }
 })();
