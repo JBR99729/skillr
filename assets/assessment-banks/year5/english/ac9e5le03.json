@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9e5le03-p-001",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
+    "audio_prompt": "For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-001",
+      "alt_text": "A card pairs evidence from arrival at a new town with the reader effect uncertain then hopeful. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates uncertain then hopeful because selection follows the child's changing comfort.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates uncertain then hopeful only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates uncertain then hopeful: selection follows the child's changing comfort.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-002",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
+    "audio_prompt": "For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-002",
+      "alt_text": "A card pairs evidence from bushfire recovery with the reader effect resilient and collective. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates resilient and collective only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates resilient and collective because actions emphasise cooperation rather than helplessness.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-003",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
+    "audio_prompt": "For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-003",
+      "alt_text": "A card pairs evidence from river journey with the reader effect knowledgeable place. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates knowledgeable place only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates knowledgeable place because personification connects place and memory.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates knowledgeable place: personification connects place and memory.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-004",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
+    "audio_prompt": "For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-004",
+      "alt_text": "A card pairs evidence from school race with the reader effect personally meaningful. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates personally meaningful because viewpoint values persistence over winning.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates personally meaningful only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates personally meaningful: viewpoint values persistence over winning.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-005",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
+    "audio_prompt": "For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-005",
+      "alt_text": "A card pairs evidence from historic voyage with the reader effect contested. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates contested only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates contested because contrasting sources reveal different experiences.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates contested: contrasting sources reveal different experiences.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-006",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “city park”, which explanation best connects the evidence “close-ups show insects beneath busy walkers” with its effect?",
+    "audio_prompt": "For “city park”, which explanation best connects the evidence “close-ups show insects beneath busy walkers” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-006",
+      "alt_text": "A card pairs evidence from city park with the reader effect layered habitat. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates layered habitat only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates layered habitat because visual angle reveals life people overlook.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates layered habitat: visual angle reveals life people overlook.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-007",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “family feast”, which explanation best connects the evidence “each speaker remembers the same recipe differently” with its effect?",
+    "audio_prompt": "For “family feast”, which explanation best connects the evidence “each speaker remembers the same recipe differently” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-007",
+      "alt_text": "A card pairs evidence from family feast with the reader effect shared but varied. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates shared but varied because multiple viewpoints prevent one fixed memory.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates shared but varied only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates shared but varied: multiple viewpoints prevent one fixed memory.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-008",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
+    "audio_prompt": "For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-008",
+      "alt_text": "A card pairs evidence from storm evacuation with the reader effect emotional. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates emotional only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates emotional because selected detail shows what feels valuable.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates emotional: selected detail shows what feels valuable.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-009",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
+    "audio_prompt": "For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-009",
+      "alt_text": "A card pairs evidence from football final with the reader effect analytical. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates analytical only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates analytical because distance helps the narrator notice relationships.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates analytical: distance helps the narrator notice relationships.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-010",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
+    "audio_prompt": "For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-010",
+      "alt_text": "A card pairs evidence from remote landscape with the reader effect active and detailed. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates active and detailed because precise evidence avoids an empty backdrop.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates active and detailed only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates active and detailed: precise evidence avoids an empty backdrop.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-011",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
+    "audio_prompt": "For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-011",
+      "alt_text": "A card pairs evidence from market dispute with the reader effect uncertain. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates uncertain only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates uncertain because viewpoint shapes blame.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates uncertain: viewpoint shapes blame.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-012",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
+    "audio_prompt": "For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-012",
+      "alt_text": "A card pairs evidence from first day with the reader effect manageable. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates manageable only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates manageable because language reflects the narrator's coping response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates manageable: language reflects the narrator's coping response.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-013",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “old bridge”, which explanation best connects the evidence “different generations attach different stories to it” with its effect?",
+    "audio_prompt": "For “old bridge”, which explanation best connects the evidence “different generations attach different stories to it” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-013",
+      "alt_text": "A card pairs evidence from old bridge with the reader effect contested memory. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates contested memory because voices show place has multiple meanings.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates contested memory only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates contested memory: voices show place has multiple meanings.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-014",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “festival”, which explanation best connects the evidence “preparation and quiet responsibilities appear before spectacle” with its effect?",
+    "audio_prompt": "For “festival”, which explanation best connects the evidence “preparation and quiet responsibilities appear before spectacle” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-014",
+      "alt_text": "A card pairs evidence from festival with the reader effect community work. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates community work only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates community work because selection values unseen contribution.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates community work: selection values unseen contribution.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-015",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
+    "audio_prompt": "For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-015",
+      "alt_text": "A card pairs evidence from lost dog search with the reader effect dramatic perspective. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates dramatic perspective only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates dramatic perspective because image gives readers broader knowledge.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates dramatic perspective: image gives readers broader knowledge.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-016",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
+    "audio_prompt": "For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-016",
+      "alt_text": "A card pairs evidence from coastal change with the reader effect dynamic setting. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates dynamic setting because time comparison presents place as changing.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates dynamic setting only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates dynamic setting: time comparison presents place as changing.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-017",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
+    "audio_prompt": "For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-017",
+      "alt_text": "A card pairs evidence from leader's decision with the reader effect complex character. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates complex character only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates complex character because inside and outside views resist a simple label.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates complex character: inside and outside views resist a simple label.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-018",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
+    "audio_prompt": "For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-018",
+      "alt_text": "A card pairs evidence from power outage with the reader effect resourceful community. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates resourceful community only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates resourceful community because ordinary actions construct resilience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates resourceful community: ordinary actions construct resilience.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-019",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
+    "audio_prompt": "For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-019",
+      "alt_text": "A card pairs evidence from museum object with the reader effect questioned authority. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates questioned authority because viewpoint invites readers to reconsider ownership.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates questioned authority only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-020",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “migration story”, which explanation best connects the evidence “food smells trigger memories without explaining every feeling” with its effect?",
+    "audio_prompt": "For “migration story”, which explanation best connects the evidence “food smells trigger memories without explaining every feeling” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-020",
+      "alt_text": "A card pairs evidence from migration story with the reader effect layered identity. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates layered identity only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates layered identity because sensory detail suggests connection indirectly.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates layered identity: sensory detail suggests connection indirectly.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-021",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “rain event”, which explanation best connects the evidence “farmer, child and frog experience the same rain differently” with its effect?",
+    "audio_prompt": "For “rain event”, which explanation best connects the evidence “farmer, child and frog experience the same rain differently” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-021",
+      "alt_text": "A card pairs evidence from rain event with the reader effect multiple impact. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates multiple impact only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates multiple impact because parallel viewpoints show perspective depends on needs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates multiple impact: parallel viewpoints show perspective depends on needs.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-022",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
+    "audio_prompt": "For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-022",
+      "alt_text": "A card pairs evidence from playground conflict with the reader effect incomplete. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates incomplete because omitted causes make early judgement unreliable.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates incomplete only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates incomplete: omitted causes make early judgement unreliable.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-023",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “mountain climb”, which explanation best connects the evidence “low-angle images become eye-level after help arrives” with its effect?",
+    "audio_prompt": "For “mountain climb”, which explanation best connects the evidence “low-angle images become eye-level after help arrives” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-023",
+      "alt_text": "A card pairs evidence from mountain climb with the reader effect changing power. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates changing power only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates changing power because camera angle tracks vulnerability and support.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates changing power: camera angle tracks vulnerability and support.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-p-024",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “harbour morning”, which explanation best connects the evidence “workers are named through precise tasks and dialogue” with its effect?",
+    "audio_prompt": "For “harbour morning”, which explanation best connects the evidence “workers are named through precise tasks and dialogue” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-p-024",
+      "alt_text": "A card pairs evidence from harbour morning with the reader effect skilled community. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates skilled community only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates skilled community because specific portrayal avoids a faceless crowd.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates skilled community: specific portrayal avoids a faceless crowd.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-001",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “flood account”, which explanation best connects the evidence “news headline and resident's letter emphasise different details” with its effect?",
+    "audio_prompt": "For “flood account”, which explanation best connects the evidence “news headline and resident's letter emphasise different details” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-001",
+      "alt_text": "A card pairs evidence from flood account with the reader effect contrasting. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates contrasting because genre and purpose shape representation.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates contrasting only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates contrasting: genre and purpose shape representation.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-002",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “forest meeting”, which explanation best connects the evidence “animals describe a clearing as home, food source or danger” with its effect?",
+    "audio_prompt": "For “forest meeting”, which explanation best connects the evidence “animals describe a clearing as home, food source or danger” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-002",
+      "alt_text": "A card pairs evidence from forest meeting with the reader effect plural place. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates plural place only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates plural place because viewpoints construct different meanings.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates plural place: viewpoints construct different meanings.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-003",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “invention story”, which explanation best connects the evidence “mistakes and revisions receive more space than success” with its effect?",
+    "audio_prompt": "For “invention story”, which explanation best connects the evidence “mistakes and revisions receive more space than success” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-003",
+      "alt_text": "A card pairs evidence from invention story with the reader effect persistent inventor. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates persistent inventor only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates persistent inventor because selection values process.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates persistent inventor: selection values process.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-004",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “ancient event”, which explanation best connects the evidence “present-day narrator admits gaps in the family account” with its effect?",
+    "audio_prompt": "For “ancient event”, which explanation best connects the evidence “present-day narrator admits gaps in the family account” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-004",
+      "alt_text": "A card pairs evidence from ancient event with the reader effect limited memory. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates limited memory because qualification avoids claiming complete knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates limited memory only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates limited memory: qualification avoids claiming complete knowledge.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-005",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “team conflict”, which explanation best connects the evidence “captain's narration omits a teammate's earlier warning” with its effect?",
+    "audio_prompt": "For “team conflict”, which explanation best connects the evidence “captain's narration omits a teammate's earlier warning” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-005",
+      "alt_text": "A card pairs evidence from team conflict with the reader effect biased event. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates biased event only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates biased event because omission changes reader judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates biased event: omission changes reader judgement.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-006",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “island setting”, which explanation best connects the evidence “weather, routes and local names influence every decision” with its effect?",
+    "audio_prompt": "For “island setting”, which explanation best connects the evidence “weather, routes and local names influence every decision” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-006",
+      "alt_text": "A card pairs evidence from island setting with the reader effect active place. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates active place only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates active place because setting shapes events rather than decorating them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates active place: setting shapes events rather than decorating them.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-007",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “public ceremony”, which explanation best connects the evidence “backstage workers appear in silent visual panels” with its effect?",
+    "audio_prompt": "For “public ceremony”, which explanation best connects the evidence “backstage workers appear in silent visual panels” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-007",
+      "alt_text": "A card pairs evidence from public ceremony with the reader effect expanded focus. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates expanded focus because images represent contribution absent from speech.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates expanded focus only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates expanded focus: images represent contribution absent from speech.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-008",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “classroom debate”, which explanation best connects the evidence “each child uses different evidence for the same proposal” with its effect?",
+    "audio_prompt": "For “classroom debate”, which explanation best connects the evidence “each child uses different evidence for the same proposal” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-008",
+      "alt_text": "A card pairs evidence from classroom debate with the reader effect diverse reasoning. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates diverse reasoning only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates diverse reasoning because dialogue distinguishes viewpoints respectfully.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates diverse reasoning: dialogue distinguishes viewpoints respectfully.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-009",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “rescue”, which explanation best connects the evidence “rescued character plans and signals before help arrives” with its effect?",
+    "audio_prompt": "For “rescue”, which explanation best connects the evidence “rescued character plans and signals before help arrives” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-009",
+      "alt_text": "A card pairs evidence from rescue with the reader effect capable. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates capable only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates capable because actions avoid representing the person as passive.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates capable: actions avoid representing the person as passive.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-010",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “neighbourhood change”, which explanation best connects the evidence “old photographs are placed beside current voices” with its effect?",
+    "audio_prompt": "For “neighbourhood change”, which explanation best connects the evidence “old photographs are placed beside current voices” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-010",
+      "alt_text": "A card pairs evidence from neighbourhood change with the reader effect layered time. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates layered time because modes connect change and continuity.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates layered time only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates layered time: modes connect change and continuity.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-011",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “famous victory”, which explanation best connects the evidence “losing side's letter focuses on courage and cost” with its effect?",
+    "audio_prompt": "For “famous victory”, which explanation best connects the evidence “losing side's letter focuses on courage and cost” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-011",
+      "alt_text": "A card pairs evidence from famous victory with the reader effect reframed event. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates reframed event only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates reframed event because alternative viewpoint complicates celebration.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates reframed event: alternative viewpoint complicates celebration.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-012",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “country visit”, which explanation best connects the evidence “named local guide explains one family's relationship to place” with its effect?",
+    "audio_prompt": "For “country visit”, which explanation best connects the evidence “named local guide explains one family's relationship to place” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-012",
+      "alt_text": "A card pairs evidence from country visit with the reader effect specific perspective. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates specific perspective only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates specific perspective because attribution avoids cultural generalisation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates specific perspective: attribution avoids cultural generalisation.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-013",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “factory closure”, which explanation best connects the evidence “adult narrator recalls what a child misunderstood” with its effect?",
+    "audio_prompt": "For “factory closure”, which explanation best connects the evidence “adult narrator recalls what a child misunderstood” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-013",
+      "alt_text": "A card pairs evidence from factory closure with the reader effect reinterpreted memory. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates reinterpreted memory because time distance changes meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates reinterpreted memory only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates reinterpreted memory: time distance changes meaning.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-014",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “ocean crossing”, which explanation best connects the evidence “map route contrasts with a passenger's cramped view” with its effect?",
+    "audio_prompt": "For “ocean crossing”, which explanation best connects the evidence “map route contrasts with a passenger's cramped view” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-014",
+      "alt_text": "A card pairs evidence from ocean crossing with the reader effect scale contrast. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates scale contrast only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates scale contrast because modes show official journey and lived experience.",
+        "is_correct": true
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence creates scale contrast: modes show official journey and lived experience.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-015",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “council decision”, which explanation best connects the evidence “young speaker is quoted directly instead of summarised” with its effect?",
+    "audio_prompt": "For “council decision”, which explanation best connects the evidence “young speaker is quoted directly instead of summarised” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-015",
+      "alt_text": "A card pairs evidence from council decision with the reader effect agency. A three-part evidence-cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates agency only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates agency because voice positions the child as a participant.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence creates agency: voice positions the child as a participant.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  },
+  {
+    "id": "ac9e5le03-t-016",
+    "curriculum_code": "AC9E5LE03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation_through_viewpoint_and_selection",
+    "question": "For “winter town”, which explanation best connects the evidence “warm windows and shared routines counter harsh weather” with its effect?",
+    "audio_prompt": "For “winter town”, which explanation best connects the evidence “warm windows and shared routines counter harsh weather” with its effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le03.svg#ac9e5le03-t-016",
+      "alt_text": "A card pairs evidence from winter town with the reader effect connected community. A three-part text-evidence guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "It creates connected community because visual and action choices resist a bleak stereotype.",
+        "is_correct": true
+      },
+      {
+        "text": "It creates connected community only because the title is short.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers always respond in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence creates connected community: visual and action choices resist a bleak stereotype.",
+      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9e5la08-p-001",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a class meeting?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a class meeting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-001",
+      "alt_text": "A sentence from a class meeting linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      },
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-002",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a football training?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a football training?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-002",
+      "alt_text": "A sentence from a football training linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-003",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a library help desk?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a library help desk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-003",
+      "alt_text": "A sentence from a library help desk linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-004",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a family picnic?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a family picnic?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-004",
+      "alt_text": "A sentence from a family picnic linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      },
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-005",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a science group?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a science group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-005",
+      "alt_text": "A sentence from a science group linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-006",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a school assembly?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a school assembly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-006",
+      "alt_text": "A sentence from a school assembly linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      },
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-007",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a art club?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a art club?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-007",
+      "alt_text": "A sentence from a art club linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-008",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a neighbourhood clean-up?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a neighbourhood clean-up?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-008",
+      "alt_text": "A sentence from a neighbourhood clean-up linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-009",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a music rehearsal?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a music rehearsal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-009",
+      "alt_text": "A sentence from a music rehearsal linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      },
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-010",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a student council?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a student council?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-010",
+      "alt_text": "A sentence from a student council linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-011",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a museum visit?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a museum visit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-011",
+      "alt_text": "A sentence from a museum visit linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-012",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a cooking lesson?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a cooking lesson?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-012",
+      "alt_text": "A sentence from a cooking lesson linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-013",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a garden project?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a garden project?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-013",
+      "alt_text": "A sentence from a garden project linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-014",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a book discussion?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a book discussion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-014",
+      "alt_text": "A sentence from a book discussion linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-015",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a sports report?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a sports report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-015",
+      "alt_text": "A sentence from a sports report linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-016",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a weather presentation?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a weather presentation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-016",
+      "alt_text": "A sentence from a weather presentation linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      },
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-017",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a camp planning?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a camp planning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-017",
+      "alt_text": "A sentence from a camp planning linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-018",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a robotics team?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a robotics team?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-018",
+      "alt_text": "A sentence from a robotics team linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-019",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a school newsletter?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a school newsletter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-019",
+      "alt_text": "A sentence from a school newsletter linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      },
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-020",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a peer conference?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a peer conference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-020",
+      "alt_text": "A sentence from a peer conference linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-021",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a history display?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a history display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-021",
+      "alt_text": "A sentence from a history display linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      },
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-022",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a fundraising stall?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a fundraising stall?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-022",
+      "alt_text": "A sentence from a fundraising stall linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-023",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a class debate?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a class debate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-023",
+      "alt_text": "A sentence from a class debate linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-p-024",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a school excursion briefing?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a school excursion briefing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-p-024",
+      "alt_text": "A sentence from a school excursion briefing linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      },
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-001",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a community radio interview?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a community radio interview?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-001",
+      "alt_text": "A sentence from a community radio interview linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-002",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a wildlife rescue report?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a wildlife rescue report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-002",
+      "alt_text": "A sentence from a wildlife rescue report linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-003",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a town planning forum?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a town planning forum?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-003",
+      "alt_text": "A sentence from a town planning forum linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-004",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a aquarium information panel?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a aquarium information panel?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-004",
+      "alt_text": "A sentence from a aquarium information panel linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-005",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a youth theatre rehearsal?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a youth theatre rehearsal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-005",
+      "alt_text": "A sentence from a youth theatre rehearsal linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-006",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a local history podcast?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a local history podcast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-006",
+      "alt_text": "A sentence from a local history podcast linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-007",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a water-saving campaign?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a water-saving campaign?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-007",
+      "alt_text": "A sentence from a water-saving campaign linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      },
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-008",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a cycling safety workshop?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a cycling safety workshop?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-008",
+      "alt_text": "A sentence from a cycling safety workshop linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-009",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a festival program?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a festival program?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-009",
+      "alt_text": "A sentence from a festival program linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-010",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a marine research log?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a marine research log?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-010",
+      "alt_text": "A sentence from a marine research log linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      },
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-011",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a public transport survey?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a public transport survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-011",
+      "alt_text": "A sentence from a public transport survey linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-012",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "time",
+    "question": "Which sentence uses an adverbial phrase clearly to add time in a heritage walk brochure?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add time in a heritage walk brochure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-012",
+      "alt_text": "A sentence from a heritage walk brochure linked to a labelled time circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beautifully ten minutes, the team checked.",
+        "is_correct": false
+      },
+      {
+        "text": "The team checked because beside.",
+        "is_correct": false
+      },
+      {
+        "text": "After ten minutes, the team checked the water level.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear time circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-013",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "place",
+    "question": "Which sentence uses an adverbial phrase clearly to add place in a emergency drill briefing?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add place in a emergency drill briefing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-013",
+      "alt_text": "A sentence from a emergency drill briefing linked to a labelled place circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Beside the eastern fence, the seedlings grew in shade.",
+        "is_correct": true
+      },
+      {
+        "text": "Carefully the eastern fence was beside.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grew very beside shade.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear place circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-014",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "manner",
+    "question": "Which sentence uses an adverbial phrase clearly to add manner in a farmers market review?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add manner in a farmers market review?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-014",
+      "alt_text": "A sentence from a farmers market review linked to a labelled manner circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "The student measured the rope beside carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The student measured the rope extremely carefully.",
+        "is_correct": true
+      },
+      {
+        "text": "The rope extremely student measured.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The adverbial adds a clear manner circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-015",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause",
+    "question": "Which sentence uses an adverbial phrase clearly to add cause in a space exhibition talk?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add cause in a space exhibition talk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-015",
+      "alt_text": "A sentence from a space exhibition talk linked to a labelled cause circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under the rain, because ended session.",
+        "is_correct": false
+      },
+      {
+        "text": "Early was heavily the session.",
+        "is_correct": false
+      },
+      {
+        "text": "Because of the heavy rain, the outdoor session ended early.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adverbial adds a clear cause circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  },
+  {
+    "id": "ac9e5la08-t-016",
+    "curriculum_code": "AC9E5LA08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "condition",
+    "question": "Which sentence uses an adverbial phrase clearly to add condition in a river restoration proposal?",
+    "audio_prompt": "Which sentence uses an adverbial phrase clearly to add condition in a river restoration proposal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la08.svg#ac9e5la08-t-016",
+      "alt_text": "A sentence from a river restoration proposal linked to a labelled condition circumstance card. A three-part circumstance-map guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "Under equal conditions, the two materials can be compared fairly.",
+        "is_correct": true
+      },
+      {
+        "text": "Perhaps equal, the conditions compared materials.",
+        "is_correct": false
+      },
+      {
+        "text": "The materials under can fairly equal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverbial adds a clear condition circumstance without confusing what it modifies.",
+      "hint": "Ask what detail the phrase adds and which action or whole clause it modifies."
+    }
+  }
+]

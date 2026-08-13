@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "ac9e5ly06-p-001",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "cause-and-effect paragraphs",
+        "is_correct": true
+      },
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-002",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "have gradually trapped",
+        "is_correct": true
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-003",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
+    "audio_prompt": "Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-003",
+      "alt_text": "A draft layout reserves space for a labelled cross-section showing sand and plant roots. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled cross-section showing sand and plant roots",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-004",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-005",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "a position followed by reason-and-evidence paragraphs",
+        "is_correct": true
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-006",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a persuasive letter requesting safer bike racks?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a persuasive letter requesting safer bike racks?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      },
+      {
+        "text": "should be installed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-007",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a persuasive letter requesting safer bike racks?",
+    "audio_prompt": "Which visual would genuinely add meaning to a persuasive letter requesting safer bike racks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-007",
+      "alt_text": "A draft layout reserves space for a small site map marking the proposed location. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a small site map marking the proposed location",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-008",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-009",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      },
+      {
+        "text": "a sequence that builds tension toward discovery",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-010",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
+    "answers": [
+      {
+        "text": "had been fading",
+        "is_correct": true
+      },
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-011",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
+    "audio_prompt": "Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-011",
+      "alt_text": "A draft layout reserves space for a restrained illustration establishing the track. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a restrained illustration establishing the track",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-012",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-013",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning an information page comparing renewable energy sources. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning an information page comparing renewable energy sources. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "one paragraph for each source plus a comparison conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-014",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to an information page comparing renewable energy sources?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to an information page comparing renewable energy sources?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "can reliably supply",
+        "is_correct": true
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-015",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
+    "audio_prompt": "Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-015",
+      "alt_text": "A draft layout reserves space for a table comparing output and limits. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      },
+      {
+        "text": "a table comparing output and limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-016",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-017",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "problem, benefits and a practical call to action",
+        "is_correct": true
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-018",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      },
+      {
+        "text": "could greatly reduce",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-019",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
+    "audio_prompt": "Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-019",
+      "alt_text": "A draft layout reserves space for a simple before-and-after waste chart. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a simple before-and-after waste chart",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-020",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a campaign post encouraging waste-free lunches, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a campaign post encouraging waste-free lunches, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses problem, benefits and a practical call to action to develop its purpose and whether a simple before-and-after waste chart connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-021",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a report on a class seed investigation. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a report on a class seed investigation. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      },
+      {
+        "text": "question, method, results and evidence-based conclusion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-022",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a report on a class seed investigation?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a report on a class seed investigation?",
+    "answers": [
+      {
+        "text": "were measured carefully",
+        "is_correct": true
+      },
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-023",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a report on a class seed investigation?",
+    "audio_prompt": "Which visual would genuinely add meaning to a report on a class seed investigation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-p-023",
+      "alt_text": "A draft layout reserves space for a graph using labelled axes and units. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a graph using labelled axes and units",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-p-024",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a report on a class seed investigation, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a report on a class seed investigation, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses question, method, results and evidence-based conclusion to develop its purpose and whether a graph using labelled axes and units connects to the words",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-001",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a biography of a local community leader. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a biography of a local community leader. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "chronological stages grouped around major contributions",
+        "is_correct": true
+      },
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-002",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a biography of a local community leader?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a biography of a local community leader?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "continued to organise",
+        "is_correct": true
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-003",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a biography of a local community leader?",
+    "audio_prompt": "Which visual would genuinely add meaning to a biography of a local community leader?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-003",
+      "alt_text": "A draft layout reserves space for a captioned timeline with source dates. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      },
+      {
+        "text": "a captioned timeline with source dates",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-004",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a biography of a local community leader, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a biography of a local community leader, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether the text uses chronological stages grouped around major contributions to develop its purpose and whether a captioned timeline with source dates connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-005",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "criteria-based comparison paragraphs",
+        "is_correct": true
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-006",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      },
+      {
+        "text": "creates more effectively",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-007",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to a review comparing two adventure novels?",
+    "audio_prompt": "Which visual would genuinely add meaning to a review comparing two adventure novels?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-007",
+      "alt_text": "A draft layout reserves space for a concise comparison table. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "a concise comparison table",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-008",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses criteria-based comparison paragraphs to develop its purpose and whether a concise comparison table connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-009",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      },
+      {
+        "text": "numbered stages with conditions and safety advice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-010",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
+    "answers": [
+      {
+        "text": "must be positioned",
+        "is_correct": true
+      },
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-011",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
+    "audio_prompt": "Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-011",
+      "alt_text": "A draft layout reserves space for a labelled assembly diagram. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled assembly diagram",
+        "is_correct": true
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-012",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the text uses numbered stages with conditions and safety advice to develop its purpose and whether a labelled assembly diagram connects to the words",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-013",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
+    "audio_prompt": "A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
+    "answers": [
+      {
+        "text": "dated reflections shaped by the keeper's viewpoint",
+        "is_correct": true
+      },
+      {
+        "text": "Ideas placed in random order",
+        "is_correct": false
+      },
+      {
+        "text": "One unbroken paragraph containing every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposed structure makes relationships clear for the audience.",
+      "hint": "Plan what each paragraph must achieve before drafting sentences."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-014",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
+    "audio_prompt": "Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
+    "answers": [
+      {
+        "text": "did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "might have mistaken",
+        "is_correct": true
+      },
+      {
+        "text": "is very thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The verb group expresses time, modality or manner precisely.",
+      "hint": "Choose a verb group that fits both meaning and tense."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-015",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
+    "audio_prompt": "Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-015",
+      "alt_text": "A draft layout reserves space for a period map that adds setting information. A three-part cards guide supports the question."
+    },
+    "answers": [
+      {
+        "text": "an unrelated stock photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a decorative pattern repeating no information",
+        "is_correct": false
+      },
+      {
+        "text": "a period map that adds setting information",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visual extends, organises or clarifies information the audience needs.",
+      "hint": "Ask whether the visual has a clear job beyond decoration."
+    }
+  },
+  {
+    "id": "ac9e5ly06-t-016",
+    "curriculum_code": "AC9E5LY06",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_written_and_multimodal_texts",
+    "question": "During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
+    "audio_prompt": "During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
+    "answers": [
+      {
+        "text": "Whether the text uses dated reflections shaped by the keeper's viewpoint to develop its purpose and whether a period map that adds setting information connects to the words",
+        "is_correct": true
+      },
+      {
+        "text": "Whether every sentence has the same length",
+        "is_correct": false
+      },
+      {
+        "text": "Whether a spell-checker has changed every flagged word",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revision improves meaning and organisation before surface editing.",
+      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
+    }
+  }
+]

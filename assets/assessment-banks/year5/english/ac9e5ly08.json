@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "ac9e5ly08-p-001",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
+    "answers": [
+      {
+        "text": "baseline alignment",
+        "is_correct": true
+      },
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-002",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: letters drift above and below the writing line?",
+    "audio_prompt": "Which practice response best addresses this issue: letters drift above and below the writing line?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "practise one line of the affected letter pattern, then use it in a sentence",
+        "is_correct": true
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-003",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when letters drift above and below the writing line?",
+    "audio_prompt": "How should progress be measured when letters drift above and below the writing line?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-004",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
+    "audio_prompt": "When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
+    "answers": [
+      {
+        "text": "It directly develops baseline alignment and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-005",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "word spacing",
+        "is_correct": true
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-006",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: words run together during fast note-taking?",
+    "audio_prompt": "Which practice response best addresses this issue: words run together during fast note-taking?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      },
+      {
+        "text": "pause briefly between words while keeping letter movement fluent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-007",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when words run together during fast note-taking?",
+    "audio_prompt": "How should progress be measured when words run together during fast note-taking?",
+    "answers": [
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-008",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
+    "audio_prompt": "When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops word spacing and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-009",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      },
+      {
+        "text": "letter formation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-010",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: joined letters become hard to recognise?",
+    "audio_prompt": "Which practice response best addresses this issue: joined letters become hard to recognise?",
+    "answers": [
+      {
+        "text": "slow the difficult joins, check their shapes, then rebuild pace",
+        "is_correct": true
+      },
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-011",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when joined letters become hard to recognise?",
+    "audio_prompt": "How should progress be measured when joined letters become hard to recognise?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-012",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
+    "audio_prompt": "When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops letter formation and transfers the change into normal writing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-013",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that the writer presses so hard that the hand tires. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that the writer presses so hard that the hand tires. What should the writer target first?",
+    "answers": [
+      {
+        "text": "comfortable pressure",
+        "is_correct": true
+      },
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-014",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: the writer presses so hard that the hand tires?",
+    "audio_prompt": "Which practice response best addresses this issue: the writer presses so hard that the hand tires?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "relax the grip and test a lighter sustainable movement",
+        "is_correct": true
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-015",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when the writer presses so hard that the hand tires?",
+    "audio_prompt": "How should progress be measured when the writer presses so hard that the hand tires?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-016",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
+    "audio_prompt": "When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
+    "answers": [
+      {
+        "text": "It directly develops comfortable pressure and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-017",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "consistent letter size",
+        "is_correct": true
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-018",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: ascenders vary greatly in height?",
+    "audio_prompt": "Which practice response best addresses this issue: ascenders vary greatly in height?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      },
+      {
+        "text": "compare a short sample with a model and target one height pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-019",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when ascenders vary greatly in height?",
+    "audio_prompt": "How should progress be measured when ascenders vary greatly in height?",
+    "answers": [
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-020",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When ascenders vary greatly in height, why is this response useful: compare a short sample with a model and target one height pattern?",
+    "audio_prompt": "When ascenders vary greatly in height, why is this response useful: compare a short sample with a model and target one height pattern?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops consistent letter size and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-021",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that neat writing becomes extremely slow in a timed task. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that neat writing becomes extremely slow in a timed task. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      },
+      {
+        "text": "sustainable pace",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-022",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
+    "audio_prompt": "Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
+    "answers": [
+      {
+        "text": "practise short meaningful passages while preserving readability",
+        "is_correct": true
+      },
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-023",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when neat writing becomes extremely slow in a timed task?",
+    "audio_prompt": "How should progress be measured when neat writing becomes extremely slow in a timed task?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-p-024",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "fluent_joined_handwriting",
+    "question": "When neat writing becomes extremely slow in a timed task, why is this response useful: practise short meaningful passages while preserving readability?",
+    "audio_prompt": "When neat writing becomes extremely slow in a timed task, why is this response useful: practise short meaningful passages while preserving readability?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops sustainable pace and transfers the change into normal writing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-001",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that the final letters of words trail into long strokes. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that the final letters of words trail into long strokes. What should the writer target first?",
+    "answers": [
+      {
+        "text": "clear word endings",
+        "is_correct": true
+      },
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-002",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: the final letters of words trail into long strokes?",
+    "audio_prompt": "Which practice response best addresses this issue: the final letters of words trail into long strokes?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "rehearse stopping movements in words, then transfer to paragraphs",
+        "is_correct": true
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-003",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when the final letters of words trail into long strokes?",
+    "audio_prompt": "How should progress be measured when the final letters of words trail into long strokes?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-004",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "When the final letters of words trail into long strokes, why is this response useful: rehearse stopping movements in words, then transfer to paragraphs?",
+    "audio_prompt": "When the final letters of words trail into long strokes, why is this response useful: rehearse stopping movements in words, then transfer to paragraphs?",
+    "answers": [
+      {
+        "text": "It directly develops clear word endings and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-005",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that some joins make the next letter look like a different letter. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that some joins make the next letter look like a different letter. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "approved clear joins",
+        "is_correct": true
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-006",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: some joins make the next letter look like a different letter?",
+    "audio_prompt": "Which practice response best addresses this issue: some joins make the next letter look like a different letter?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      },
+      {
+        "text": "leave unsuitable pairs unjoined if the taught style allows",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-007",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when some joins make the next letter look like a different letter?",
+    "audio_prompt": "How should progress be measured when some joins make the next letter look like a different letter?",
+    "answers": [
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-008",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "When some joins make the next letter look like a different letter, why is this response useful: leave unsuitable pairs unjoined if the taught style allows?",
+    "audio_prompt": "When some joins make the next letter look like a different letter, why is this response useful: leave unsuitable pairs unjoined if the taught style allows?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops approved clear joins and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-009",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that writing begins clearly but deteriorates after one page. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that writing begins clearly but deteriorates after one page. What should the writer target first?",
+    "answers": [
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      },
+      {
+        "text": "endurance and posture",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-010",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: writing begins clearly but deteriorates after one page?",
+    "audio_prompt": "Which practice response best addresses this issue: writing begins clearly but deteriorates after one page?",
+    "answers": [
+      {
+        "text": "use brief checks of posture, grip and legibility during extended writing",
+        "is_correct": true
+      },
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-011",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when writing begins clearly but deteriorates after one page?",
+    "audio_prompt": "How should progress be measured when writing begins clearly but deteriorates after one page?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-012",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "When writing begins clearly but deteriorates after one page, why is this response useful: use brief checks of posture, grip and legibility during extended writing?",
+    "audio_prompt": "When writing begins clearly but deteriorates after one page, why is this response useful: use brief checks of posture, grip and legibility during extended writing?",
+    "answers": [
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      },
+      {
+        "text": "It directly develops endurance and posture and transfers the change into normal writing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-013",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "A handwriting sample shows that practice sheets look neat but class writing does not improve. What should the writer target first?",
+    "audio_prompt": "A handwriting sample shows that practice sheets look neat but class writing does not improve. What should the writer target first?",
+    "answers": [
+      {
+        "text": "transfer to authentic writing",
+        "is_correct": true
+      },
+      {
+        "text": "joining every letter regardless of clarity",
+        "is_correct": false
+      },
+      {
+        "text": "maximum speed with no rereading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A specific diagnosis leads to an efficient practice target.",
+      "hint": "Choose the feature that most affects readability, comfort or fluency."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-014",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "Which practice response best addresses this issue: practice sheets look neat but class writing does not improve?",
+    "audio_prompt": "Which practice response best addresses this issue: practice sheets look neat but class writing does not improve?",
+    "answers": [
+      {
+        "text": "Copy several pages as fast as possible",
+        "is_correct": false
+      },
+      {
+        "text": "move from a short pattern to words, sentences and real class notes",
+        "is_correct": true
+      },
+      {
+        "text": "Press harder and ignore discomfort",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
+      "hint": "Work accurately in a small dose before rebuilding normal pace."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-015",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "How should progress be measured when practice sheets look neat but class writing does not improve?",
+    "audio_prompt": "How should progress be measured when practice sheets look neat but class writing does not improve?",
+    "answers": [
+      {
+        "text": "Count speed only, even if letters cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the page only by how decorative it looks",
+        "is_correct": false
+      },
+      {
+        "text": "Compare readability, comfort and suitable pace before and after targeted practice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
+      "hint": "Use more than one measure and test the skill in real writing."
+    }
+  },
+  {
+    "id": "ac9e5ly08-t-016",
+    "curriculum_code": "AC9E5LY08",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "fluent_joined_handwriting",
+    "question": "When practice sheets look neat but class writing does not improve, why is this response useful: move from a short pattern to words, sentences and real class notes?",
+    "audio_prompt": "When practice sheets look neat but class writing does not improve, why is this response useful: move from a short pattern to words, sentences and real class notes?",
+    "answers": [
+      {
+        "text": "It directly develops transfer to authentic writing and transfers the change into normal writing",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees that every letter must be joined",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids the need to check whether writing remains readable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
+      "hint": "Explain the connection between the observed issue, the practice and the goal."
+    }
+  }
+]

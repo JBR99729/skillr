@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "ac9e5ly05-p-001",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "soil may have washed into the creek",
+        "is_correct": true
+      },
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inference uses the timing of rain and changed water colour while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-002",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that soil may have washed into the creek?",
+    "audio_prompt": "Which clue most directly supports the inference that soil may have washed into the creek?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the timing of rain and changed water colour",
+        "is_correct": true
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-003",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that soil may have washed into the creek. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that soil may have washed into the creek. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      },
+      {
+        "text": "check upstream conditions or later evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-004",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
+    "answers": [
+      {
+        "text": "The inference is plausible. The supporting evidence is the timing of rain and changed water colour, but the reader should check upstream conditions or later evidence",
+        "is_correct": true
+      },
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-005",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "Mira may fear being blamed",
+        "is_correct": true
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The inference uses her action and the group's question while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-006",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that Mira may fear being blamed?",
+    "audio_prompt": "Which clue most directly supports the inference that Mira may fear being blamed?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      },
+      {
+        "text": "her action and the group's question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-007",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that Mira may fear being blamed. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that Mira may fear being blamed. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "revise if another character admits tearing it",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-008",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is her action and the group's question, but the reader should revise if another character admits tearing it",
+        "is_correct": true
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-009",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      },
+      {
+        "text": "shade may have increased lunchtime use",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The inference uses the timing and the rise in use while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-010",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that shade may have increased lunchtime use?",
+    "audio_prompt": "Which clue most directly supports the inference that shade may have increased lunchtime use?",
+    "answers": [
+      {
+        "text": "the timing and the rise in use",
+        "is_correct": true
+      },
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-011",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "check weather or other changes before claiming cause",
+        "is_correct": true
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-012",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is the timing and the rise in use, but the reader should check weather or other changes before claiming cause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-013",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “The article gives survey results but does not state how many people answered.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “The article gives survey results but does not state how many people answered.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "the claim's reliability is uncertain",
+        "is_correct": true
+      },
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inference uses the missing sample size while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-014",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that the claim's reliability is uncertain?",
+    "audio_prompt": "Which clue most directly supports the inference that the claim's reliability is uncertain?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the missing sample size",
+        "is_correct": true
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-015",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      },
+      {
+        "text": "look for the method or original survey",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-016",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
+    "answers": [
+      {
+        "text": "The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey",
+        "is_correct": true
+      },
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-017",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "the character may be anxious about time",
+        "is_correct": true
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The inference uses repeated clock checks and restless movement while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-018",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that the character may be anxious about time?",
+    "audio_prompt": "Which clue most directly supports the inference that the character may be anxious about time?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      },
+      {
+        "text": "repeated clock checks and restless movement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-019",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that the character may be anxious about time. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that the character may be anxious about time. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "confirm with later dialogue or events",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-020",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “A character keeps checking the station clock and tapping one foot.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “A character keeps checking the station clock and tapping one foot.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is repeated clock checks and restless movement, but the reader should confirm with later dialogue or events",
+        "is_correct": true
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-021",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Arun may have misunderstood the desired texture",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The inference uses his action contradicts the instruction while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-022",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
+    "audio_prompt": "Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
+    "answers": [
+      {
+        "text": "his action contradicts the instruction",
+        "is_correct": true
+      },
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-023",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that Arun may have misunderstood the desired texture. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that Arun may have misunderstood the desired texture. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "reread the step and inspect the example image",
+        "is_correct": true
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-p-024",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is his action contradicts the instruction, but the reader should reread the step and inspect the example image",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-001",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “Two reports give different numbers for the same bird population.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “Two reports give different numbers for the same bird population.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "the reports may use different dates or methods",
+        "is_correct": true
+      },
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inference uses the conflicting totals while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-002",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that the reports may use different dates or methods?",
+    "audio_prompt": "Which clue most directly supports the inference that the reports may use different dates or methods?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the conflicting totals",
+        "is_correct": true
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-003",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that the reports may use different dates or methods. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that the reports may use different dates or methods. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      },
+      {
+        "text": "compare sources, dates and counting methods",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-004",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “Two reports give different numbers for the same bird population.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “Two reports give different numbers for the same bird population.”?",
+    "answers": [
+      {
+        "text": "The inference is plausible. The supporting evidence is the conflicting totals, but the reader should compare sources, dates and counting methods",
+        "is_correct": true
+      },
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-005",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “The narrator describes the empty house as breathing in the wind.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “The narrator describes the empty house as breathing in the wind.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "the language creates an eerie living presence",
+        "is_correct": true
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The inference uses personification of the house while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-006",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that the language creates an eerie living presence?",
+    "audio_prompt": "Which clue most directly supports the inference that the language creates an eerie living presence?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      },
+      {
+        "text": "personification of the house",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-007",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that the language creates an eerie living presence. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that the language creates an eerie living presence. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "compare other setting details",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-008",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “The narrator describes the empty house as breathing in the wind.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “The narrator describes the empty house as breathing in the wind.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is personification of the house, but the reader should compare other setting details",
+        "is_correct": true
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-009",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “A map legend shows one centimetre represents five kilometres.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “A map legend shows one centimetre represents five kilometres.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      },
+      {
+        "text": "a four-centimetre route represents twenty kilometres",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The inference uses the stated scale while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-010",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that a four-centimetre route represents twenty kilometres?",
+    "audio_prompt": "Which clue most directly supports the inference that a four-centimetre route represents twenty kilometres?",
+    "answers": [
+      {
+        "text": "the stated scale",
+        "is_correct": true
+      },
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-011",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that a four-centimetre route represents twenty kilometres. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that a four-centimetre route represents twenty kilometres. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "measure again if the line is curved",
+        "is_correct": true
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-012",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “A map legend shows one centimetre represents five kilometres.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “A map legend shows one centimetre represents five kilometres.”?",
+    "answers": [
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      },
+      {
+        "text": "The inference is plausible. The supporting evidence is the stated scale, but the reader should measure again if the line is curved",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-013",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Read this evidence: “The final paragraph repeats the opening image but changes darkness to dawn.” Which inference is best supported?",
+    "audio_prompt": "Read this evidence: “The final paragraph repeats the opening image but changes darkness to dawn.” Which inference is best supported?",
+    "answers": [
+      {
+        "text": "the ending suggests hope or renewal",
+        "is_correct": true
+      },
+      {
+        "text": "The opposite is certainly true",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion unrelated to the evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inference uses the changed image from darkness to dawn while remaining open to revision.",
+      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-014",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which clue most directly supports the inference that the ending suggests hope or renewal?",
+    "audio_prompt": "Which clue most directly supports the inference that the ending suggests hope or renewal?",
+    "answers": [
+      {
+        "text": "The number of words in the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the changed image from darkness to dawn",
+        "is_correct": true
+      },
+      {
+        "text": "A personal preference not mentioned in the text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The selected clue is the textual or visual anchor for the inference.",
+      "hint": "Point to evidence before explaining your reasoning."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-015",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "A reader infers that the ending suggests hope or renewal. What is the best monitoring step?",
+    "audio_prompt": "A reader infers that the ending suggests hope or renewal. What is the best monitoring step?",
+    "answers": [
+      {
+        "text": "Keep the inference even if later evidence contradicts it",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with an unsupported guess",
+        "is_correct": false
+      },
+      {
+        "text": "connect the shift to the character's outcome",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
+      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+    }
+  },
+  {
+    "id": "ac9e5ly05-t-016",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_evaluation",
+    "question": "Which response best evaluates the reasoning about “The final paragraph repeats the opening image but changes darkness to dawn.”?",
+    "audio_prompt": "Which response best evaluates the reasoning about “The final paragraph repeats the opening image but changes darkness to dawn.”?",
+    "answers": [
+      {
+        "text": "The inference is plausible. The supporting evidence is the changed image from darkness to dawn, but the reader should connect the shift to the character's outcome",
+        "is_correct": true
+      },
+      {
+        "text": "The inference must be true because it sounds interesting",
+        "is_correct": false
+      },
+      {
+        "text": "The reader should judge only whether they like the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
+      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+    }
+  }
+]
