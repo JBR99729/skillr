@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7A03-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 3x + 4 = 19. What is x?",
+    "audio_prompt": "Solve 3x + 4 = 19. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 5.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 4x + 2 = 30. What is x?",
+    "audio_prompt": "Solve 4x + 2 = 30. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 7.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 2x + 8 = 26. What is x?",
+    "audio_prompt": "Solve 2x + 8 = 26. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 9.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 5x + 1 = 31. What is x?",
+    "audio_prompt": "Solve 5x + 1 = 31. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 6.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 3x + 7 = 40. What is x?",
+    "audio_prompt": "Solve 3x + 7 = 40. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 11.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 6x + 5 = 53. What is x?",
+    "audio_prompt": "Solve 6x + 5 = 53. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 8.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 2x + 9 = 33. What is x?",
+    "audio_prompt": "Solve 2x + 9 = 33. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 12.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve 7x + 3 = 31. What is x?",
+    "audio_prompt": "Solve 7x + 3 = 31. What is x?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 4.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 4x − 3 = 21 true?",
+    "audio_prompt": "Which value makes 4x − 3 = 21 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding 3, then dividing by 4, gives x = 6; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 3x − 5 = 25 true?",
+    "audio_prompt": "Which value makes 3x − 5 = 25 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 5, then dividing by 3, gives x = 10; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 5x − 2 = 33 true?",
+    "audio_prompt": "Which value makes 5x − 2 = 33 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adding 2, then dividing by 5, gives x = 7; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 6x − 4 = 50 true?",
+    "audio_prompt": "Which value makes 6x − 4 = 50 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding 4, then dividing by 6, gives x = 9; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 2x − 7 = 17 true?",
+    "audio_prompt": "Which value makes 2x − 7 = 17 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 7, then dividing by 2, gives x = 12; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 7x − 6 = 50 true?",
+    "audio_prompt": "Which value makes 7x − 6 = 50 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adding 6, then dividing by 7, gives x = 8; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 9x − 1 = 44 true?",
+    "audio_prompt": "Which value makes 9x − 1 = 44 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding 1, then dividing by 9, gives x = 5; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value makes 4x − 8 = 36 true?",
+    "audio_prompt": "Which value makes 4x − 8 = 36 true?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 8, then dividing by 4, gives x = 11; substitution restores both sides.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A service costs $7 plus $5 per hour. The total is $47. How many hours were used?",
+    "audio_prompt": "A service costs $7 plus $5 per hour. The total is $47. How many hours were used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The equation 7 + 5h = 47 gives h = 8, and substitution checks the total.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A service costs $14 plus $6 per hour. The total is $62. How many hours were used?",
+    "audio_prompt": "A service costs $14 plus $6 per hour. The total is $62. How many hours were used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The equation 14 + 6h = 62 gives h = 8, and substitution checks the total.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A service costs $10 plus $7 per hour. The total is $73. How many hours were used?",
+    "audio_prompt": "A service costs $10 plus $7 per hour. The total is $73. How many hours were used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The equation 10 + 7h = 73 gives h = 9, and substitution checks the total.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A service costs $8 plus $4 per hour. The total is $56. How many hours were used?",
+    "audio_prompt": "A service costs $8 plus $4 per hour. The total is $56. How many hours were used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The equation 8 + 4h = 56 gives h = 12, and substitution checks the total.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A student claims x = 9 solves 3x + 5 = 29. Which check best identifies the error?",
+    "audio_prompt": "A student claims x = 9 solves 3x + 5 = 29. Which check best identifies the error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "Subtract 5 from only the right side.",
+        "is_correct": false
+      },
+      {
+        "text": "Divide the original right side by 5.",
+        "is_correct": false
+      },
+      {
+        "text": "Substitute 9; the left side becomes 32, not 29.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A student claims x = 7 solves 4x + 7 = 31. Which check best identifies the error?",
+    "audio_prompt": "A student claims x = 7 solves 4x + 7 = 31. Which check best identifies the error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "Substitute 7; the left side becomes 35, not 31.",
+        "is_correct": true
+      },
+      {
+        "text": "Subtract 7 from only the right side.",
+        "is_correct": false
+      },
+      {
+        "text": "Divide the original right side by 7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A student claims x = 11 solves 2x + 9 = 29. Which check best identifies the error?",
+    "audio_prompt": "A student claims x = 11 solves 2x + 9 = 29. Which check best identifies the error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "Subtract 9 from only the right side.",
+        "is_correct": false
+      },
+      {
+        "text": "Substitute 11; the left side becomes 31, not 29.",
+        "is_correct": true
+      },
+      {
+        "text": "Divide the original right side by 9.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A student claims x = 8 solves 5x + 4 = 39. Which check best identifies the error?",
+    "audio_prompt": "A student claims x = 8 solves 5x + 4 = 39. Which check best identifies the error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "Subtract 4 from only the right side.",
+        "is_correct": false
+      },
+      {
+        "text": "Divide the original right side by 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Substitute 8; the left side becomes 44, not 39.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 3x + 2 = 41.",
+    "audio_prompt": "Solve and verify 3x + 2 = 41.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 13; 3 × 13 + 2 equals 41.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 5x + 6 = 51.",
+    "audio_prompt": "Solve and verify 5x + 6 = 51.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 9; 5 × 9 + 6 equals 51.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 2x + 11 = 39.",
+    "audio_prompt": "Solve and verify 2x + 11 = 39.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 14; 2 × 14 + 11 equals 39.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 7x + 3 = 59.",
+    "audio_prompt": "Solve and verify 7x + 3 = 59.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 8; 7 × 8 + 3 equals 59.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 4x + 5 = 65.",
+    "audio_prompt": "Solve and verify 4x + 5 = 65.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 15; 4 × 15 + 5 equals 65.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 6x + 7 = 73.",
+    "audio_prompt": "Solve and verify 6x + 7 = 73.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 11; 6 × 11 + 7 equals 73.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 5x + 9 = 69.",
+    "audio_prompt": "Solve and verify 5x + 9 = 69.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 12; 5 × 12 + 9 equals 69.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Solve and verify 8x + 4 = 84.",
+    "audio_prompt": "Solve and verify 8x + 4 = 84.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undoing the operations gives x = 10; 8 × 10 + 4 equals 84.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value satisfies 4x − 5 = 43?",
+    "audio_prompt": "Which value satisfies 4x − 5 = 43?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Solving gives x = 12, and substituting it makes both sides 43.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value satisfies 6x − 8 = 34?",
+    "audio_prompt": "Which value satisfies 6x − 8 = 34?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Solving gives x = 7, and substituting it makes both sides 34.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value satisfies 3x − 4 = 41?",
+    "audio_prompt": "Which value satisfies 3x − 4 = 41?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Solving gives x = 15, and substituting it makes both sides 41.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "Which value satisfies 8x − 7 = 65?",
+    "audio_prompt": "Which value satisfies 8x − 7 = 65?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Solving gives x = 9, and substituting it makes both sides 65.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A club pays a fixed $14 fee plus $8 per participant. Its bill is $86. How many participants attended?",
+    "audio_prompt": "A club pays a fixed $14 fee plus $8 per participant. Its bill is $86. How many participants attended?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "14 + 8p = 86, so p = 9; the original bill verifies the solution.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A club pays a fixed $5 fee plus $10 per participant. Its bill is $95. How many participants attended?",
+    "audio_prompt": "A club pays a fixed $5 fee plus $10 per participant. Its bill is $95. How many participants attended?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "5 + 10p = 95, so p = 9; the original bill verifies the solution.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A club pays a fixed $9 fee plus $6 per participant. Its bill is $69. How many participants attended?",
+    "audio_prompt": "A club pays a fixed $9 fee plus $6 per participant. Its bill is $69. How many participants attended?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "9 + 6p = 69, so p = 10; the original bill verifies the solution.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  },
+  {
+    "id": "AC9M7A03-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "solving_and_verifying_linear_equations",
+    "question": "A club pays a fixed $12 fee plus $12 per participant. Its bill is $108. How many participants attended?",
+    "audio_prompt": "A club pays a fixed $12 fee plus $12 per participant. Its bill is $108. How many participants attended?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
+      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "12 + 12p = 108, so p = 8; the original bill verifies the solution.",
+      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+    }
+  }
+]

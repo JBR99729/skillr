@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7A02-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?",
+    "audio_prompt": "A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "18 + 7h",
+        "is_correct": true
+      },
+      {
+        "text": "25h",
+        "is_correct": false
+      },
+      {
+        "text": "18h + 7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 18 + 7h.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle has length x centimetres and width 6 centimetres. Write its perimeter. Which expression models the situation?",
+    "audio_prompt": "A rectangle has length x centimetres and width 6 centimetres. Write its perimeter. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "6x",
+        "is_correct": false
+      },
+      {
+        "text": "2x + 12",
+        "is_correct": true
+      },
+      {
+        "text": "x + 12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 2x + 12.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A team scores 3 points for each goal g and loses 2 penalty points. Which expression models the situation?",
+    "audio_prompt": "A team scores 3 points for each goal g and loses 2 penalty points. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "3(g − 2)",
+        "is_correct": false
+      },
+      {
+        "text": "g − 6",
+        "is_correct": false
+      },
+      {
+        "text": "3g − 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 3g − 2.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A box contains n packets with 8 cards in each packet and 5 loose cards. Which expression models the situation?",
+    "audio_prompt": "A box contains n packets with 8 cards in each packet and 5 loose cards. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "8n + 5",
+        "is_correct": true
+      },
+      {
+        "text": "13n",
+        "is_correct": false
+      },
+      {
+        "text": "8(n + 5)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 8n + 5.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A runner completes d kilometres on each of 4 days, then runs 3 extra kilometres. Which expression models the situation?",
+    "audio_prompt": "A runner completes d kilometres on each of 4 days, then runs 3 extra kilometres. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "7d",
+        "is_correct": false
+      },
+      {
+        "text": "4d + 3",
+        "is_correct": true
+      },
+      {
+        "text": "4(d + 3)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 4d + 3.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A cinema charges $12 per ticket t and a single $4 booking fee. Which expression models the situation?",
+    "audio_prompt": "A cinema charges $12 per ticket t and a single $4 booking fee. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "16t",
+        "is_correct": false
+      },
+      {
+        "text": "12(t + 4)",
+        "is_correct": false
+      },
+      {
+        "text": "12t + 4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 12t + 4.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A ribbon of length L centimetres is cut into 5 equal pieces. Which expression models the situation?",
+    "audio_prompt": "A ribbon of length L centimetres is cut into 5 equal pieces. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "L ÷ 5",
+        "is_correct": true
+      },
+      {
+        "text": "5 ÷ L",
+        "is_correct": false
+      },
+      {
+        "text": "L − 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to L ÷ 5.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?",
+    "audio_prompt": "A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "9 − x",
+        "is_correct": false
+      },
+      {
+        "text": "x − 9",
+        "is_correct": true
+      },
+      {
+        "text": "9x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to x − 9.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A square has side length s. Write its area. Which expression models the situation?",
+    "audio_prompt": "A square has side length s. Write its area. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "2s",
+        "is_correct": false
+      },
+      {
+        "text": "4s",
+        "is_correct": false
+      },
+      {
+        "text": "s²",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to s².",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Three consecutive whole numbers start with n. Write their sum. Which expression models the situation?",
+    "audio_prompt": "Three consecutive whole numbers start with n. Write their sum. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "3n + 3",
+        "is_correct": true
+      },
+      {
+        "text": "3n",
+        "is_correct": false
+      },
+      {
+        "text": "n + 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 3n + 3.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A phone plan includes 20 GB, then adds g gigabytes at $3 each. Write the extra-data cost only. Which expression models the situation?",
+    "audio_prompt": "A phone plan includes 20 GB, then adds g gigabytes at $3 each. Write the extra-data cost only. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "20 + 3g",
+        "is_correct": false
+      },
+      {
+        "text": "3g",
+        "is_correct": true
+      },
+      {
+        "text": "23g",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to 3g.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A tank contains v litres and drains 6 litres each minute for m minutes. Which expression models the situation?",
+    "audio_prompt": "A tank contains v litres and drains 6 litres each minute for m minutes. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "6v − m",
+        "is_correct": false
+      },
+      {
+        "text": "v − 6 − m",
+        "is_correct": false
+      },
+      {
+        "text": "v − 6m",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The fixed and variable quantities translate to v − 6m.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 4x + 3?",
+    "audio_prompt": "Which verbal description matches 4x + 3?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "4 times x, then add 3",
+        "is_correct": true
+      },
+      {
+        "text": "add 4 to x, then multiply by 3",
+        "is_correct": false
+      },
+      {
+        "text": "7 times x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The coefficient 4 multiplies x, while 3 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 7x + 5?",
+    "audio_prompt": "Which verbal description matches 7x + 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "add 7 to x, then multiply by 5",
+        "is_correct": false
+      },
+      {
+        "text": "7 times x, then add 5",
+        "is_correct": true
+      },
+      {
+        "text": "12 times x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The coefficient 7 multiplies x, while 5 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 10x + 2?",
+    "audio_prompt": "Which verbal description matches 10x + 2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "add 10 to x, then multiply by 2",
+        "is_correct": false
+      },
+      {
+        "text": "12 times x",
+        "is_correct": false
+      },
+      {
+        "text": "10 times x, then add 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The coefficient 10 multiplies x, while 2 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 12x + 6?",
+    "audio_prompt": "Which verbal description matches 12x + 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "12 times x, then add 6",
+        "is_correct": true
+      },
+      {
+        "text": "add 12 to x, then multiply by 6",
+        "is_correct": false
+      },
+      {
+        "text": "18 times x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The coefficient 12 multiplies x, while 6 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 15x + 4?",
+    "audio_prompt": "Which verbal description matches 15x + 4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "add 15 to x, then multiply by 4",
+        "is_correct": false
+      },
+      {
+        "text": "15 times x, then add 4",
+        "is_correct": true
+      },
+      {
+        "text": "19 times x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The coefficient 15 multiplies x, while 4 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which verbal description matches 18x + 7?",
+    "audio_prompt": "Which verbal description matches 18x + 7?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "add 18 to x, then multiply by 7",
+        "is_correct": false
+      },
+      {
+        "text": "25 times x",
+        "is_correct": false
+      },
+      {
+        "text": "18 times x, then add 7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The coefficient 18 multiplies x, while 7 is a separate added constant.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 2 groups of (x + 7)?",
+    "audio_prompt": "Which expression represents 2 groups of (x + 7)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "2(x + 7)",
+        "is_correct": true
+      },
+      {
+        "text": "2x + 7",
+        "is_correct": false
+      },
+      {
+        "text": "x + 14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The brackets keep x + 7 together as one group repeated 2 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 3 groups of (x + 5)?",
+    "audio_prompt": "Which expression represents 3 groups of (x + 5)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "3x + 5",
+        "is_correct": false
+      },
+      {
+        "text": "3(x + 5)",
+        "is_correct": true
+      },
+      {
+        "text": "x + 15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The brackets keep x + 5 together as one group repeated 3 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 4 groups of (x + 9)?",
+    "audio_prompt": "Which expression represents 4 groups of (x + 9)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "4x + 9",
+        "is_correct": false
+      },
+      {
+        "text": "x + 36",
+        "is_correct": false
+      },
+      {
+        "text": "4(x + 9)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The brackets keep x + 9 together as one group repeated 4 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 6 groups of (x + 3)?",
+    "audio_prompt": "Which expression represents 6 groups of (x + 3)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "6(x + 3)",
+        "is_correct": true
+      },
+      {
+        "text": "6x + 3",
+        "is_correct": false
+      },
+      {
+        "text": "x + 18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The brackets keep x + 3 together as one group repeated 6 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 8 groups of (x + 2)?",
+    "audio_prompt": "Which expression represents 8 groups of (x + 2)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "8x + 2",
+        "is_correct": false
+      },
+      {
+        "text": "8(x + 2)",
+        "is_correct": true
+      },
+      {
+        "text": "x + 16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The brackets keep x + 2 together as one group repeated 8 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Which expression represents 10 groups of (x + 4)?",
+    "audio_prompt": "Which expression represents 10 groups of (x + 4)?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "10x + 4",
+        "is_correct": false
+      },
+      {
+        "text": "x + 40",
+        "is_correct": false
+      },
+      {
+        "text": "10(x + 4)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The brackets keep x + 4 together as one group repeated 10 times.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A museum charges $9 per student s and $25 for one guide. Which expression models the situation?",
+    "audio_prompt": "A museum charges $9 per student s and $25 for one guide. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "9s + 25",
+        "is_correct": true
+      },
+      {
+        "text": "34s",
+        "is_correct": false
+      },
+      {
+        "text": "25s + 9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives 9s + 25.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A triangular flag has base b and height 10. Write its area. Which expression models the situation?",
+    "audio_prompt": "A triangular flag has base b and height 10. Write its area. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "10b",
+        "is_correct": false
+      },
+      {
+        "text": "5b",
+        "is_correct": true
+      },
+      {
+        "text": "b + 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives 5b.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A delivery travels k kilometres on each of 5 trips, then 12 kilometres to the depot. Which expression models the situation?",
+    "audio_prompt": "A delivery travels k kilometres on each of 5 trips, then 12 kilometres to the depot. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "17k",
+        "is_correct": false
+      },
+      {
+        "text": "5(k + 12)",
+        "is_correct": false
+      },
+      {
+        "text": "5k + 12",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives 5k + 12.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A number n is doubled, then 7 is subtracted. Which expression models the situation?",
+    "audio_prompt": "A number n is doubled, then 7 is subtracted. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "2n − 7",
+        "is_correct": true
+      },
+      {
+        "text": "2(n − 7)",
+        "is_correct": false
+      },
+      {
+        "text": "7 − 2n",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives 2n − 7.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "Seven identical bags share M kilograms equally. Which expression models the situation?",
+    "audio_prompt": "Seven identical bags share M kilograms equally. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "7 ÷ M",
+        "is_correct": false
+      },
+      {
+        "text": "M ÷ 7",
+        "is_correct": true
+      },
+      {
+        "text": "M − 7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives M ÷ 7.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle is 3 metres longer than its width w. Write its length. Which expression models the situation?",
+    "audio_prompt": "A rectangle is 3 metres longer than its width w. Write its length. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "3w",
+        "is_correct": false
+      },
+      {
+        "text": "w ÷ 3",
+        "is_correct": false
+      },
+      {
+        "text": "w + 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives w + 3.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A game awards 5 points per win w and 2 points per draw d. Which expression models the situation?",
+    "audio_prompt": "A game awards 5 points per win w and 2 points per draw d. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "5w + 2d",
+        "is_correct": true
+      },
+      {
+        "text": "7wd",
+        "is_correct": false
+      },
+      {
+        "text": "5d + 2w",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives 5w + 2d.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A café reduces a $p bill by a $6 voucher. Which expression models the situation?",
+    "audio_prompt": "A café reduces a $p bill by a $6 voucher. Which expression models the situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "6 − p",
+        "is_correct": false
+      },
+      {
+        "text": "p − 6",
+        "is_correct": true
+      },
+      {
+        "text": "6p",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Following the order and meaning of the quantities gives p − 6.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A student translates “6 times y, then subtract 4” as 6(y − 4). What is the correct expression?",
+    "audio_prompt": "A student translates “6 times y, then subtract 4” as 6(y − 4). What is the correct expression?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "6y − 24",
+        "is_correct": false
+      },
+      {
+        "text": "4 − 6y",
+        "is_correct": false
+      },
+      {
+        "text": "6y − 4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Only y is multiplied by 6; the separate subtraction gives 6y − 4.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A student translates “8 times y, then subtract 11” as 8(y − 11). What is the correct expression?",
+    "audio_prompt": "A student translates “8 times y, then subtract 11” as 8(y − 11). What is the correct expression?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "8y − 11",
+        "is_correct": true
+      },
+      {
+        "text": "8y − 88",
+        "is_correct": false
+      },
+      {
+        "text": "11 − 8y",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only y is multiplied by 8; the separate subtraction gives 8y − 11.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A student translates “13 times y, then subtract 5” as 13(y − 5). What is the correct expression?",
+    "audio_prompt": "A student translates “13 times y, then subtract 5” as 13(y − 5). What is the correct expression?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "13y − 65",
+        "is_correct": false
+      },
+      {
+        "text": "13y − 5",
+        "is_correct": true
+      },
+      {
+        "text": "5 − 13y",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only y is multiplied by 13; the separate subtraction gives 13y − 5.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A student translates “20 times y, then subtract 3” as 20(y − 3). What is the correct expression?",
+    "audio_prompt": "A student translates “20 times y, then subtract 3” as 20(y − 3). What is the correct expression?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "20y − 60",
+        "is_correct": false
+      },
+      {
+        "text": "3 − 20y",
+        "is_correct": false
+      },
+      {
+        "text": "20y − 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Only y is multiplied by 20; the separate subtraction gives 20y − 3.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle has width x and length x + 8. Which expression gives its perimeter?",
+    "audio_prompt": "A rectangle has width x and length x + 8. Which expression gives its perimeter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "4x + 16",
+        "is_correct": true
+      },
+      {
+        "text": "2x + 8",
+        "is_correct": false
+      },
+      {
+        "text": "x² + 8x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Perimeter is 2x + 2(x + 8) = 4x + 16.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle has width x and length x + 4. Which expression gives its perimeter?",
+    "audio_prompt": "A rectangle has width x and length x + 4. Which expression gives its perimeter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "2x + 4",
+        "is_correct": false
+      },
+      {
+        "text": "4x + 8",
+        "is_correct": true
+      },
+      {
+        "text": "x² + 4x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Perimeter is 2x + 2(x + 4) = 4x + 8.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle has width x and length x + 2. Which expression gives its perimeter?",
+    "audio_prompt": "A rectangle has width x and length x + 2. Which expression gives its perimeter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "2x + 2",
+        "is_correct": false
+      },
+      {
+        "text": "x² + 2x",
+        "is_correct": false
+      },
+      {
+        "text": "4x + 4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Perimeter is 2x + 2(x + 2) = 4x + 4.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  },
+  {
+    "id": "AC9M7A02-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "test",
+    "skill": "formulating_algebraic_expressions",
+    "question": "A rectangle has width x and length x + 6. Which expression gives its perimeter?",
+    "audio_prompt": "A rectangle has width x and length x + 6. Which expression gives its perimeter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
+      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    },
+    "answers": [
+      {
+        "text": "4x + 12",
+        "is_correct": true
+      },
+      {
+        "text": "2x + 6",
+        "is_correct": false
+      },
+      {
+        "text": "x² + 6x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Perimeter is 2x + 2(x + 6) = 4x + 12.",
+      "hint": "Translate the quantities and operations in order; check what each term represents."
+    }
+  }
+]

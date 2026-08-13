@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7A04-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?",
+    "audio_prompt": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36."
+    },
+    "answers": [
+      {
+        "text": "The cyclist stopped between hours 2 and 3.",
+        "is_correct": true
+      },
+      {
+        "text": "The cyclist travelled fastest between hours 2 and 3.",
+        "is_correct": false
+      },
+      {
+        "text": "The cyclist returned to the start.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A flat distance section means no change in position.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which interpretation is supported?",
+    "audio_prompt": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23."
+    },
+    "answers": [
+      {
+        "text": "The temperature rose throughout the whole period.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature peaked at noon.",
+        "is_correct": true
+      },
+      {
+        "text": "The temperature was lowest at 2 pm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The highest plotted value is 25 °C at noon.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which interpretation is supported?",
+    "audio_prompt": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35."
+    },
+    "answers": [
+      {
+        "text": "The tank loses 15 litres per minute.",
+        "is_correct": false
+      },
+      {
+        "text": "The loss rate changes each interval.",
+        "is_correct": false
+      },
+      {
+        "text": "The tank loses 3 litres per minute.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each 5-minute interval loses 15 L, so the rate is 15 ÷ 5 = 3 L/min.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which interpretation is supported?",
+    "audio_prompt": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115."
+    },
+    "answers": [
+      {
+        "text": "Visits increase by 25 each hour.",
+        "is_correct": true
+      },
+      {
+        "text": "Visits double each hour.",
+        "is_correct": false
+      },
+      {
+        "text": "Visits increase by 15 each hour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Successive values differ by a constant 25 visits.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A share price ($) over five days is 24, 27, 25, 29, 28. Which interpretation is supported?",
+    "audio_prompt": "A share price ($) over five days is 24, 27, 25, 29, 28. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A share price ($) over five days is 24, 27, 25, 29, 28."
+    },
+    "answers": [
+      {
+        "text": "The price rises every day.",
+        "is_correct": false
+      },
+      {
+        "text": "The greatest daily rise is from day 3 to day 4.",
+        "is_correct": true
+      },
+      {
+        "text": "The lowest price occurs on day 3.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The changes are +3, −2, +4 and −1; +4 is the greatest rise.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which interpretation is supported?",
+    "audio_prompt": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150."
+    },
+    "answers": [
+      {
+        "text": "The hiker descends between checkpoints 1 and 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Checkpoint 4 is the highest.",
+        "is_correct": false
+      },
+      {
+        "text": "The route is level between checkpoints 2 and 3.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal consecutive elevations produce a horizontal section.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which interpretation is supported?",
+    "audio_prompt": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10."
+    },
+    "answers": [
+      {
+        "text": "Thursday has the highest use.",
+        "is_correct": true
+      },
+      {
+        "text": "Use decreases every day.",
+        "is_correct": false
+      },
+      {
+        "text": "Monday and Friday have equal use.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The maximum value is 15 kWh on Thursday.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?",
+    "audio_prompt": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6."
+    },
+    "answers": [
+      {
+        "text": "The bus remains stopped after 20 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The bus travels back towards school after 20 minutes.",
+        "is_correct": true
+      },
+      {
+        "text": "The bus is farthest away after 30 minutes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance from school falls from 12 km to 6 km, indicating movement back.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which calculation best describes the overall change?",
+    "audio_prompt": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which calculation best describes the overall change?",
+    "audio_prompt": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which calculation best describes the overall change?",
+    "audio_prompt": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "-45",
+        "is_correct": true
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which calculation best describes the overall change?",
+    "audio_prompt": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      },
+      {
+        "text": "Compare final and initial values",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A share price ($) over five days is 24, 27, 25, 29, 28. Which calculation best describes the overall change?",
+    "audio_prompt": "A share price ($) over five days is 24, 27, 25, 29, 28. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A share price ($) over five days is 24, 27, 25, 29, 28."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which calculation best describes the overall change?",
+    "audio_prompt": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which calculation best describes the overall change?",
+    "audio_prompt": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which calculation best describes the overall change?",
+    "audio_prompt": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which calculation best describes the overall change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "Use the largest value only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Overall change is final value minus initial value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Two runners cover 3 km and 5 km in the same 20 minutes. Which interpretation is correct?",
+    "audio_prompt": "Two runners cover 3 km and 5 km in the same 20 minutes. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Two runners cover 3 km and 5 km in the same 20 minutes."
+    },
+    "answers": [
+      {
+        "text": "Both graphs have the same slope.",
+        "is_correct": false
+      },
+      {
+        "text": "The second runner's distance–time graph is steeper.",
+        "is_correct": true
+      },
+      {
+        "text": "The first runner's graph is steeper.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "More distance in the same time means a greater rate and steeper slope.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Two tanks drain 12 L and 20 L in the same 4 minutes. Which interpretation is correct?",
+    "audio_prompt": "Two tanks drain 12 L and 20 L in the same 4 minutes. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Two tanks drain 12 L and 20 L in the same 4 minutes."
+    },
+    "answers": [
+      {
+        "text": "The first tank's graph has the steeper downward slope.",
+        "is_correct": false
+      },
+      {
+        "text": "Both graphs are horizontal.",
+        "is_correct": false
+      },
+      {
+        "text": "The second tank's graph has the steeper downward slope.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A 20 L decrease in the same time has the greater slope magnitude.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph rises from 10 to 34 over 6 hours. Which interpretation is correct?",
+    "audio_prompt": "A graph rises from 10 to 34 over 6 hours. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A graph rises from 10 to 34 over 6 hours."
+    },
+    "answers": [
+      {
+        "text": "The average rise is 4 units per hour.",
+        "is_correct": true
+      },
+      {
+        "text": "The average rise is 6 units per hour.",
+        "is_correct": false
+      },
+      {
+        "text": "The average rise is 24 units per hour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rise is 24 units over 6 hours, so 24 ÷ 6 = 4.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A distance graph is horizontal from minute 12 to minute 18. Which interpretation is correct?",
+    "audio_prompt": "A distance graph is horizontal from minute 12 to minute 18. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A distance graph is horizontal from minute 12 to minute 18."
+    },
+    "answers": [
+      {
+        "text": "The object moves at constant non-zero speed.",
+        "is_correct": false
+      },
+      {
+        "text": "The object is stationary for 6 minutes.",
+        "is_correct": true
+      },
+      {
+        "text": "The object returns for 6 minutes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Horizontal distance means no change in position; the interval lasts 6 minutes.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A temperature graph falls from 28 °C to 16 °C in 3 hours. Which interpretation is correct?",
+    "audio_prompt": "A temperature graph falls from 28 °C to 16 °C in 3 hours. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A temperature graph falls from 28 °C to 16 °C in 3 hours."
+    },
+    "answers": [
+      {
+        "text": "The average change is −12 °C per hour.",
+        "is_correct": false
+      },
+      {
+        "text": "The average change is +4 °C per hour.",
+        "is_correct": false
+      },
+      {
+        "text": "The average change is −4 °C per hour.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The change is −12 °C over 3 hours, giving −4 °C per hour.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps. Which interpretation is correct?",
+    "audio_prompt": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps."
+    },
+    "answers": [
+      {
+        "text": "The second line is steeper.",
+        "is_correct": true
+      },
+      {
+        "text": "The first line is steeper.",
+        "is_correct": false
+      },
+      {
+        "text": "The lines have equal slope.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their rises per step are 3 and 4, so the second is steeper.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph's y-values are 5, 9, 13, 17 at equal x-steps. Which interpretation is correct?",
+    "audio_prompt": "A graph's y-values are 5, 9, 13, 17 at equal x-steps. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A graph's y-values are 5, 9, 13, 17 at equal x-steps."
+    },
+    "answers": [
+      {
+        "text": "The relationship has a decreasing rate.",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship has a constant positive rate of change.",
+        "is_correct": true
+      },
+      {
+        "text": "The graph must be horizontal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every successive y-value increases by 4.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph's y-values are 40, 32, 24, 16 at equal x-steps. Which interpretation is correct?",
+    "audio_prompt": "A graph's y-values are 40, 32, 24, 16 at equal x-steps. Which interpretation is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A graph's y-values are 40, 32, 24, 16 at equal x-steps."
+    },
+    "answers": [
+      {
+        "text": "The relationship has a positive rate.",
+        "is_correct": false
+      },
+      {
+        "text": "The rate changes each step.",
+        "is_correct": false
+      },
+      {
+        "text": "The relationship has a constant negative rate of change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Every successive y-value decreases by 8.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Rainfall (mm) from January to April is 42, 38, 61, 55. Which conclusion is best supported?",
+    "audio_prompt": "Rainfall (mm) from January to April is 42, 38, 61, 55. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Rainfall (mm) from January to April is 42, 38, 61, 55."
+    },
+    "answers": [
+      {
+        "text": "March records the most rainfall.",
+        "is_correct": true
+      },
+      {
+        "text": "Rainfall increases every month.",
+        "is_correct": false
+      },
+      {
+        "text": "April is the driest month.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "61 mm is the highest plotted value.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46. Which conclusion is best supported?",
+    "audio_prompt": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46."
+    },
+    "answers": [
+      {
+        "text": "The battery loses 18% of its remaining charge each hour.",
+        "is_correct": false
+      },
+      {
+        "text": "The battery falls at a constant 18 percentage points per hour.",
+        "is_correct": true
+      },
+      {
+        "text": "The loss rate becomes faster each hour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The equal differences are −18 percentage points.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9. Which conclusion is best supported?",
+    "audio_prompt": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9."
+    },
+    "answers": [
+      {
+        "text": "The runner returns to the start.",
+        "is_correct": false
+      },
+      {
+        "text": "The runner maintains one constant speed.",
+        "is_correct": false
+      },
+      {
+        "text": "The runner rests between 20 and 40 minutes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Distance is unchanged at 4 km during that interval.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45. Which conclusion is best supported?",
+    "audio_prompt": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45."
+    },
+    "answers": [
+      {
+        "text": "The warming rate slows over time.",
+        "is_correct": true
+      },
+      {
+        "text": "The warming rate is constant.",
+        "is_correct": false
+      },
+      {
+        "text": "The water cools after 4 minutes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The increases shrink from 12 to 9 to 6 degrees.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24. Which conclusion is best supported?",
+    "audio_prompt": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24."
+    },
+    "answers": [
+      {
+        "text": "Tuesday has the greatest sales.",
+        "is_correct": false
+      },
+      {
+        "text": "The largest rise occurs from Wednesday to Thursday.",
+        "is_correct": true
+      },
+      {
+        "text": "Sales rise each day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The daily changes are +6, −3 and +9.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35. Which conclusion is best supported?",
+    "audio_prompt": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35."
+    },
+    "answers": [
+      {
+        "text": "The drone descends after 10 seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "The drone rises fastest after 10 seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "The drone holds a constant height after 10 seconds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A horizontal section represents unchanged height.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30. Which conclusion is best supported?",
+    "audio_prompt": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30."
+    },
+    "answers": [
+      {
+        "text": "The train moves towards the station in the final interval.",
+        "is_correct": true
+      },
+      {
+        "text": "The train stops in the final interval.",
+        "is_correct": false
+      },
+      {
+        "text": "The train is farthest away at 45 minutes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The distance from the station decreases from 45 to 30 km.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23. Which conclusion is best supported?",
+    "audio_prompt": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23. Which conclusion is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23."
+    },
+    "answers": [
+      {
+        "text": "The range is 3 °C.",
+        "is_correct": false
+      },
+      {
+        "text": "The range is 5 °C.",
+        "is_correct": true
+      },
+      {
+        "text": "The range is 24 °C.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Range = maximum − minimum = 24 − 19 = 5 °C.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 2, 7, 12, 17. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 2, 7, 12, 17. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 2, 7, 12, 17."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by 5.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 30, 26, 22, 18. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 30, 26, 22, 18. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 30, 26, 22, 18."
+    },
+    "answers": [
+      {
+        "text": "-4",
+        "is_correct": true
+      },
+      {
+        "text": "-3",
+        "is_correct": false
+      },
+      {
+        "text": "-6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by -4.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 4, 10, 16, 22. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 4, 10, 16, 22. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 4, 10, 16, 22."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by 6.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 50, 42, 34, 26. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 50, 42, 34, 26. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 50, 42, 34, 26."
+    },
+    "answers": [
+      {
+        "text": "-7",
+        "is_correct": false
+      },
+      {
+        "text": "-10",
+        "is_correct": false
+      },
+      {
+        "text": "-8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by -8.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 3, 12, 21, 30. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 3, 12, 21, 30. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 3, 12, 21, 30."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by 9.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 100, 85, 70, 55. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 100, 85, 70, 55. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 100, 85, 70, 55."
+    },
+    "answers": [
+      {
+        "text": "-14",
+        "is_correct": false
+      },
+      {
+        "text": "-15",
+        "is_correct": true
+      },
+      {
+        "text": "-17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by -15.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 8, 11, 14, 17. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 8, 11, 14, 17. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 8, 11, 14, 17."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by 3.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  },
+  {
+    "id": "AC9M7A04-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "relationships_in_authentic_graphs",
+    "question": "A graph has equally spaced x-values and successive y-values 60, 48, 36, 24. What is the change in y for each step?",
+    "audio_prompt": "A graph has equally spaced x-values and successive y-values 60, 48, 36, 24. What is the change in y for each step?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
+      "alt_text": "Line graph through equally spaced points with y-values 60, 48, 36, 24."
+    },
+    "answers": [
+      {
+        "text": "-12",
+        "is_correct": true
+      },
+      {
+        "text": "-11",
+        "is_correct": false
+      },
+      {
+        "text": "-14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract consecutive y-values; each step changes by -12.",
+      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M7A05-P-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 2n + 3. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 2n + 3. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 2 tiles each step, with 3 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 2 × 5 + 3 = 13.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 3n + 1. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 3n + 1. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 3 tiles each step, with 1 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 3 × 5 + 1 = 16.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 4n + 2. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 4n + 2. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 4 tiles each step, with 2 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 4 × 5 + 2 = 22.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 5n + 4. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 5n + 4. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 5 tiles each step, with 4 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "29",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 5 × 5 + 4 = 29.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 6n + 1. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 6n + 1. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 6 tiles each step, with 1 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": true
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 6 × 5 + 1 = 31.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 7n + 3. How many tiles are in figure 5?",
+    "audio_prompt": "A pattern follows y = 7n + 3. How many tiles are in figure 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 7 tiles each step, with 3 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting n = 5 gives y = 7 × 5 + 3 = 38.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 5, 8, 11, 14 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 5, 8, 11, 14 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "3n + 2; next 17",
+        "is_correct": true
+      },
+      {
+        "text": "3n ; next 16",
+        "is_correct": false
+      },
+      {
+        "text": "n + 13; next 17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "4n ; next 22",
+        "is_correct": false
+      },
+      {
+        "text": "4n + 3; next 23",
+        "is_correct": true
+      },
+      {
+        "text": "n + 19; next 23",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 4, 9, 14, 19 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 4, 9, 14, 19 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "5n ; next 23",
+        "is_correct": false
+      },
+      {
+        "text": "n + 20; next 24",
+        "is_correct": false
+      },
+      {
+        "text": "5n − 1; next 24",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 10, 16, 22, 28 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 10, 16, 22, 28 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "6n + 4; next 34",
+        "is_correct": true
+      },
+      {
+        "text": "6n ; next 33",
+        "is_correct": false
+      },
+      {
+        "text": "n + 30; next 34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 3, 10, 17, 24 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 3, 10, 17, 24 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "7n ; next 30",
+        "is_correct": false
+      },
+      {
+        "text": "7n − 4; next 31",
+        "is_correct": true
+      },
+      {
+        "text": "n + 27; next 31",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Figures 1 to 4 contain 12, 20, 28, 36 tiles. Which rule and next value fit the pattern?",
+    "audio_prompt": "Figures 1 to 4 contain 12, 20, 28, 36 tiles. Which rule and next value fit the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "8n ; next 43",
+        "is_correct": false
+      },
+      {
+        "text": "n + 40; next 44",
+        "is_correct": false
+      },
+      {
+        "text": "8n + 4; next 44",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 2x + 5?",
+    "audio_prompt": "Which ordered pair lies on y = 2x + 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(4, 13)",
+        "is_correct": true
+      },
+      {
+        "text": "(4, 14)",
+        "is_correct": false
+      },
+      {
+        "text": "(13, 4)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting x = 4 into the rule gives y = 13.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 3x − 2?",
+    "audio_prompt": "Which ordered pair lies on y = 3x − 2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(6, 17)",
+        "is_correct": false
+      },
+      {
+        "text": "(6, 16)",
+        "is_correct": true
+      },
+      {
+        "text": "(16, 6)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting x = 6 into the rule gives y = 16.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 4x + 1?",
+    "audio_prompt": "Which ordered pair lies on y = 4x + 1?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(5, 22)",
+        "is_correct": false
+      },
+      {
+        "text": "(21, 5)",
+        "is_correct": false
+      },
+      {
+        "text": "(5, 21)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting x = 5 into the rule gives y = 21.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 5x − 3?",
+    "audio_prompt": "Which ordered pair lies on y = 5x − 3?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(3, 12)",
+        "is_correct": true
+      },
+      {
+        "text": "(3, 13)",
+        "is_correct": false
+      },
+      {
+        "text": "(12, 3)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting x = 3 into the rule gives y = 12.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 6x + 2?",
+    "audio_prompt": "Which ordered pair lies on y = 6x + 2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(2, 15)",
+        "is_correct": false
+      },
+      {
+        "text": "(2, 14)",
+        "is_correct": true
+      },
+      {
+        "text": "(14, 2)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting x = 2 into the rule gives y = 14.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Which ordered pair lies on y = 7x − 4?",
+    "audio_prompt": "Which ordered pair lies on y = 7x − 4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "(4, 25)",
+        "is_correct": false
+      },
+      {
+        "text": "(24, 4)",
+        "is_correct": false
+      },
+      {
+        "text": "(4, 24)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting x = 4 into the rule gives y = 24.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 2n + 1. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 2n + 1. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 4, y = 10",
+        "is_correct": true
+      },
+      {
+        "text": "n = 1, y = 3",
+        "is_correct": false
+      },
+      {
+        "text": "n = 2, y = 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For n = 4, the rule gives 9, not 10.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-020",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 3n + 2. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 3n + 2. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 1, y = 5",
+        "is_correct": false
+      },
+      {
+        "text": "n = 5, y = 16",
+        "is_correct": true
+      },
+      {
+        "text": "n = 2, y = 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For n = 5, the rule gives 17, not 16.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-021",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 4n + 3. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 4n + 3. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 1, y = 7",
+        "is_correct": false
+      },
+      {
+        "text": "n = 2, y = 11",
+        "is_correct": false
+      },
+      {
+        "text": "n = 3, y = 16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For n = 3, the rule gives 15, not 16.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-022",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 5n + 1. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 5n + 1. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 6, y = 32",
+        "is_correct": true
+      },
+      {
+        "text": "n = 1, y = 6",
+        "is_correct": false
+      },
+      {
+        "text": "n = 2, y = 11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For n = 6, the rule gives 31, not 32.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-023",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 6n + 2. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 6n + 2. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 1, y = 8",
+        "is_correct": false
+      },
+      {
+        "text": "n = 4, y = 27",
+        "is_correct": true
+      },
+      {
+        "text": "n = 2, y = 14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For n = 4, the rule gives 26, not 27.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-P-024",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table follows y = 7n + 4. Which entry is incorrect?",
+    "audio_prompt": "A table follows y = 7n + 4. Which entry is incorrect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "n = 1, y = 11",
+        "is_correct": false
+      },
+      {
+        "text": "n = 2, y = 18",
+        "is_correct": false
+      },
+      {
+        "text": "n = 2, y = 19",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "For n = 2, the rule gives 18, not 19.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 2n + 3. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 2n + 3. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 2 tiles each step, with 3 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 2 × 9 + 3 = 21.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 3n + 1. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 3n + 1. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 3 tiles each step, with 1 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 3 × 9 + 1 = 28.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 4n + 2. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 4n + 2. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 4 tiles each step, with 2 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 4 × 9 + 2 = 38.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 5n + 4. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 5n + 4. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 5 tiles each step, with 4 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "49",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 5 × 9 + 4 = 49.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 6n + 1. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 6n + 1. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 6 tiles each step, with 1 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": true
+      },
+      {
+        "text": "61",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 6 × 9 + 1 = 55.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A pattern follows y = 7n + 3. How many tiles are in figure 9?",
+    "audio_prompt": "A pattern follows y = 7n + 3. How many tiles are in figure 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "Growing tile figures increasing by 7 tiles each step, with 3 fixed tiles."
+    },
+    "answers": [
+      {
+        "text": "63",
+        "is_correct": false
+      },
+      {
+        "text": "73",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substituting n = 9 gives y = 7 × 9 + 3 = 66.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table lists outputs 6, 10, 14, 18 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "audio_prompt": "A table lists outputs 6, 10, 14, 18 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "4n + 2",
+        "is_correct": true
+      },
+      {
+        "text": "4n ",
+        "is_correct": false
+      },
+      {
+        "text": "5n + 2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table lists outputs 8, 13, 18, 23 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "audio_prompt": "A table lists outputs 8, 13, 18, 23 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "5n ",
+        "is_correct": false
+      },
+      {
+        "text": "5n + 3",
+        "is_correct": true
+      },
+      {
+        "text": "6n + 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table lists outputs 9, 15, 21, 27 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "audio_prompt": "A table lists outputs 9, 15, 21, 27 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "6n ",
+        "is_correct": false
+      },
+      {
+        "text": "7n + 3",
+        "is_correct": false
+      },
+      {
+        "text": "6n + 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table lists outputs 4, 12, 20, 28 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "audio_prompt": "A table lists outputs 4, 12, 20, 28 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "8n − 4",
+        "is_correct": true
+      },
+      {
+        "text": "8n ",
+        "is_correct": false
+      },
+      {
+        "text": "9n − 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "A table lists outputs 11, 18, 25, 32 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "audio_prompt": "A table lists outputs 11, 18, 25, 32 for inputs 1, 2, 3 and 4. Which rule matches every row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "7n ",
+        "is_correct": false
+      },
+      {
+        "text": "7n + 4",
+        "is_correct": true
+      },
+      {
+        "text": "8n + 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Points from y = 3x + 4 are plotted. What y-coordinate belongs to x = 8?",
+    "audio_prompt": "Points from y = 3x + 4 are plotted. What y-coordinate belongs to x = 8?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute x = 8: y = 3 × 8 + 4 = 28.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Points from y = 4x + 1 are plotted. What y-coordinate belongs to x = 9?",
+    "audio_prompt": "Points from y = 4x + 1 are plotted. What y-coordinate belongs to x = 9?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute x = 9: y = 4 × 9 + 1 = 37.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Points from y = 5x + 2 are plotted. What y-coordinate belongs to x = 7?",
+    "audio_prompt": "Points from y = 5x + 2 are plotted. What y-coordinate belongs to x = 7?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Substitute x = 7: y = 5 × 7 + 2 = 37.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Points from y = 6x + 5 are plotted. What y-coordinate belongs to x = 6?",
+    "audio_prompt": "Points from y = 6x + 5 are plotted. What y-coordinate belongs to x = 6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Substitute x = 6: y = 6 × 6 + 5 = 41.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  },
+  {
+    "id": "AC9M7A05-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "question": "Points from y = 7x + 3 are plotted. What y-coordinate belongs to x = 5?",
+    "audio_prompt": "Points from y = 7x + 3 are plotted. What y-coordinate belongs to x = 5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
+      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
+    },
+    "answers": [
+      {
+        "text": "38",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substitute x = 5: y = 7 × 5 + 3 = 38.",
+      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+    }
+  }
+]
