@@ -79,7 +79,7 @@
   
 
   <!-- Site stylesheet -->
-  <link rel="stylesheet" href="/style.css?v=20260812-14">
+  <link rel="stylesheet" href="/style.css?v=20260813-1">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -142,13 +142,18 @@
             <form class="site-search__form" role="search" action="/sitemap.html" method="get">
               <label class="site-search__label" for="site-search-input">Find a topic or curriculum code</label>
               <div class="site-search__control">
-                <span class="site-search__icon" aria-hidden="true">⌕</span>
+                <span class="site-search__icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" focusable="false">
+                    <circle cx="11" cy="11" r="6.5"></circle>
+                    <path d="m16 16 4 4"></path>
+                  </svg>
+                </span>
                 <input
                   id="site-search-input"
                   class="site-search__input"
                   name="q"
                   type="search"
-                  placeholder="Try fractions, Year 3 science or AC9M1N04"
+                  placeholder="Search topics, year levels or AC9M1N04"
                   autocomplete="off"
                   spellcheck="false"
                   aria-controls="site-search-results"
