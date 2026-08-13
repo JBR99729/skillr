@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S1I05-P-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_01",
+    "question": "For rolling the same car on tile and carpet, did the result match the prediction?",
+    "audio_prompt": "For rolling the same car on tile and carpet, did the result match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-001",
+      "alt_text": "💭 The car will travel farther on carpet.; 👀 The car travelled farther on tile.; ❌ did not match"
+    },
+    "answers": [
+      {
+        "text": "did not match",
+        "is_correct": true
+      },
+      {
+        "text": "matched",
+        "is_correct": false
+      },
+      {
+        "text": "There is no need to compare them.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prediction was “The car will travel farther on carpet.” The result was “The car travelled farther on tile.” They did not match.",
+      "hint": "Read the prediction and result separately, then compare them."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_02",
+    "question": "Which sentence reports the observed result from rolling the same car on tile and carpet?",
+    "audio_prompt": "Which sentence reports the observed result from rolling the same car on tile and carpet?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-002",
+      "alt_text": "🚗 rolling the same car on tile and carpet; 👀 result; 📝 The car travelled farther on tile."
+    },
+    "answers": [
+      {
+        "text": "The car will travel farther on carpet.",
+        "is_correct": false
+      },
+      {
+        "text": "The car travelled farther on tile.",
+        "is_correct": true
+      },
+      {
+        "text": "The result should be changed to fit the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The car travelled farther on tile. states what happened, not what was expected.",
+      "hint": "The result comes from observation or measurement after the test."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_03",
+    "question": "What should be kept the same during rolling the same car on tile and carpet?",
+    "audio_prompt": "What should be kept the same during rolling the same car on tile and carpet?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-003",
+      "alt_text": "🔒 the same car and start line; 🚗 rolling the same car on tile and carpet; ⚖️ fair comparison"
+    },
+    "answers": [
+      {
+        "text": "the result",
+        "is_correct": false
+      },
+      {
+        "text": "the prediction after seeing the answer",
+        "is_correct": false
+      },
+      {
+        "text": "the same car and start line",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the same car and start line the same makes the comparison fairer.",
+      "hint": "Change only the feature being investigated."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_04",
+    "question": "Why should rolling the same car on tile and carpet include three rolls on each surface?",
+    "audio_prompt": "Why should rolling the same car on tile and carpet include three rolls on each surface?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-004",
+      "alt_text": "🚗 rolling the same car on tile and carpet; 🔁 three rolls on each surface; 📊 compare trials"
+    },
+    "answers": [
+      {
+        "text": "Repeated observations show whether the result is consistent.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating guarantees the prediction is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the most helpful result should be kept.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeats help reveal whether a result happens consistently or varies.",
+      "hint": "Record every repeat, including surprising results."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_05",
+    "question": "Which evidence should be used when comparing the prediction and result?",
+    "audio_prompt": "Which evidence should be used when comparing the prediction and result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-005",
+      "alt_text": "📝 all six measured distances; 🔎 compare; ✅ all evidence"
+    },
+    "answers": [
+      {
+        "text": "only the result that matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "all six measured distances",
+        "is_correct": true
+      },
+      {
+        "text": "someone's favourite answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All six measured distances gives the complete evidence set.",
+      "hint": "Use all relevant recorded observations, not only one convenient result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_06",
+    "question": "After rolling the same car on tile and carpet, what should happen when the prediction did not match the result?",
+    "audio_prompt": "After rolling the same car on tile and carpet, what should happen when the prediction did not match the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-006",
+      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+    },
+    "answers": [
+      {
+        "text": "Erase the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the result without testing again.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the comparison and use the evidence for the next question.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both matches and mismatches help build better scientific ideas.",
+      "hint": "Keep the original prediction and the real result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_07",
+    "question": "Which sentence is the prediction in rolling the same car on tile and carpet?",
+    "audio_prompt": "Which sentence is the prediction in rolling the same car on tile and carpet?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-007",
+      "alt_text": "⏮️ before; 💭 The car will travel farther on carpet.; 🚗 rolling the same car on tile and carpet"
+    },
+    "answers": [
+      {
+        "text": "The car will travel farther on carpet.",
+        "is_correct": true
+      },
+      {
+        "text": "The car travelled farther on tile.",
+        "is_correct": false
+      },
+      {
+        "text": "The measurements were written in a table.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The car will travel farther on carpet. states the expected outcome before testing.",
+      "hint": "Predictions are made before the evidence is collected."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_08",
+    "question": "Why would a result that did not match still be useful in rolling the same car on tile and carpet?",
+    "audio_prompt": "Why would a result that did not match still be useful in rolling the same car on tile and carpet?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-008",
+      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+    },
+    "answers": [
+      {
+        "text": "It should be hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "It provides evidence that can improve the next prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves observations are unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A mismatch can reveal something new and guide another investigation.",
+      "hint": "Science learns from actual evidence, not only correct guesses."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_01",
+    "question": "For melting equal ice cubes in sun and shade, did the result match the prediction?",
+    "audio_prompt": "For melting equal ice cubes in sun and shade, did the result match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-009",
+      "alt_text": "💭 The ice in the sun will melt first.; 👀 The ice in the sun melted first.; ✅ matched"
+    },
+    "answers": [
+      {
+        "text": "did not match",
+        "is_correct": false
+      },
+      {
+        "text": "There is no need to compare them.",
+        "is_correct": false
+      },
+      {
+        "text": "matched",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction was “The ice in the sun will melt first.” The result was “The ice in the sun melted first.” They matched.",
+      "hint": "Read the prediction and result separately, then compare them."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_02",
+    "question": "Which sentence reports the observed result from melting equal ice cubes in sun and shade?",
+    "audio_prompt": "Which sentence reports the observed result from melting equal ice cubes in sun and shade?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-010",
+      "alt_text": "🧊 melting equal ice cubes in sun and shade; 👀 result; 📝 The ice in the sun melted first."
+    },
+    "answers": [
+      {
+        "text": "The ice in the sun melted first.",
+        "is_correct": true
+      },
+      {
+        "text": "The ice in the sun will melt first.",
+        "is_correct": false
+      },
+      {
+        "text": "The result should be changed to fit the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ice in the sun melted first. states what happened, not what was expected.",
+      "hint": "The result comes from observation or measurement after the test."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_03",
+    "question": "What should be kept the same during melting equal ice cubes in sun and shade?",
+    "audio_prompt": "What should be kept the same during melting equal ice cubes in sun and shade?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-011",
+      "alt_text": "🔒 equal ice cubes and the same start time; 🧊 melting equal ice cubes in sun and shade; ⚖️ fair comparison"
+    },
+    "answers": [
+      {
+        "text": "the result",
+        "is_correct": false
+      },
+      {
+        "text": "equal ice cubes and the same start time",
+        "is_correct": true
+      },
+      {
+        "text": "the prediction after seeing the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keeping equal ice cubes and the same start time the same makes the comparison fairer.",
+      "hint": "Change only the feature being investigated."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_04",
+    "question": "Why should melting equal ice cubes in sun and shade include three pairs of ice cubes?",
+    "audio_prompt": "Why should melting equal ice cubes in sun and shade include three pairs of ice cubes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-012",
+      "alt_text": "🧊 melting equal ice cubes in sun and shade; 🔁 three pairs of ice cubes; 📊 compare trials"
+    },
+    "answers": [
+      {
+        "text": "Repeating guarantees the prediction is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the most helpful result should be kept.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated observations show whether the result is consistent.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeats help reveal whether a result happens consistently or varies.",
+      "hint": "Record every repeat, including surprising results."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_05",
+    "question": "Which evidence should be used when comparing the prediction and result?",
+    "audio_prompt": "Which evidence should be used when comparing the prediction and result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-013",
+      "alt_text": "📝 the melting time for every cube; 🔎 compare; ✅ all evidence"
+    },
+    "answers": [
+      {
+        "text": "the melting time for every cube",
+        "is_correct": true
+      },
+      {
+        "text": "only the result that matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "someone's favourite answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The melting time for every cube gives the complete evidence set.",
+      "hint": "Use all relevant recorded observations, not only one convenient result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_06",
+    "question": "After melting equal ice cubes in sun and shade, what should happen when the prediction matched the result?",
+    "audio_prompt": "After melting equal ice cubes in sun and shade, what should happen when the prediction matched the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-014",
+      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+    },
+    "answers": [
+      {
+        "text": "Erase the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the comparison and use the evidence for the next question.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the result without testing again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both matches and mismatches help build better scientific ideas.",
+      "hint": "Keep the original prediction and the real result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_07",
+    "question": "Which sentence is the prediction in melting equal ice cubes in sun and shade?",
+    "audio_prompt": "Which sentence is the prediction in melting equal ice cubes in sun and shade?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-015",
+      "alt_text": "⏮️ before; 💭 The ice in the sun will melt first.; 🧊 melting equal ice cubes in sun and shade"
+    },
+    "answers": [
+      {
+        "text": "The ice in the sun melted first.",
+        "is_correct": false
+      },
+      {
+        "text": "The measurements were written in a table.",
+        "is_correct": false
+      },
+      {
+        "text": "The ice in the sun will melt first.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ice in the sun will melt first. states the expected outcome before testing.",
+      "hint": "Predictions are made before the evidence is collected."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_08",
+    "question": "Why would a result that did not match still be useful in melting equal ice cubes in sun and shade?",
+    "audio_prompt": "Why would a result that did not match still be useful in melting equal ice cubes in sun and shade?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-016",
+      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+    },
+    "answers": [
+      {
+        "text": "It provides evidence that can improve the next prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "It should be hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves observations are unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A mismatch can reveal something new and guide another investigation.",
+      "hint": "Science learns from actual evidence, not only correct guesses."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-017",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_01",
+    "question": "For growing two bean plants with different light, did the result match the prediction?",
+    "audio_prompt": "For growing two bean plants with different light, did the result match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-017",
+      "alt_text": "💭 The plant with more light will grow taller.; 👀 The plant with more light was shorter after one week.; ❌ did not match"
+    },
+    "answers": [
+      {
+        "text": "matched",
+        "is_correct": false
+      },
+      {
+        "text": "did not match",
+        "is_correct": true
+      },
+      {
+        "text": "There is no need to compare them.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The prediction was “The plant with more light will grow taller.” The result was “The plant with more light was shorter after one week.” They did not match.",
+      "hint": "Read the prediction and result separately, then compare them."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-018",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_02",
+    "question": "Which sentence reports the observed result from growing two bean plants with different light?",
+    "audio_prompt": "Which sentence reports the observed result from growing two bean plants with different light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-018",
+      "alt_text": "🌱 growing two bean plants with different light; 👀 result; 📝 The plant with more light was shorter after one week."
+    },
+    "answers": [
+      {
+        "text": "The plant with more light will grow taller.",
+        "is_correct": false
+      },
+      {
+        "text": "The result should be changed to fit the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant with more light was shorter after one week.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plant with more light was shorter after one week. states what happened, not what was expected.",
+      "hint": "The result comes from observation or measurement after the test."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-019",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_03",
+    "question": "What should be kept the same during growing two bean plants with different light?",
+    "audio_prompt": "What should be kept the same during growing two bean plants with different light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-019",
+      "alt_text": "🔒 the plant type, soil, pot and water; 🌱 growing two bean plants with different light; ⚖️ fair comparison"
+    },
+    "answers": [
+      {
+        "text": "the plant type, soil, pot and water",
+        "is_correct": true
+      },
+      {
+        "text": "the result",
+        "is_correct": false
+      },
+      {
+        "text": "the prediction after seeing the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeping the plant type, soil, pot and water the same makes the comparison fairer.",
+      "hint": "Change only the feature being investigated."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-020",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_04",
+    "question": "Why should growing two bean plants with different light include measurements on several days?",
+    "audio_prompt": "Why should growing two bean plants with different light include measurements on several days?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-020",
+      "alt_text": "🌱 growing two bean plants with different light; 🔁 measurements on several days; 📊 compare trials"
+    },
+    "answers": [
+      {
+        "text": "Repeating guarantees the prediction is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated observations show whether the result is consistent.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the most helpful result should be kept.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeats help reveal whether a result happens consistently or varies.",
+      "hint": "Record every repeat, including surprising results."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-021",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_05",
+    "question": "Which evidence should be used when comparing the prediction and result?",
+    "audio_prompt": "Which evidence should be used when comparing the prediction and result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-021",
+      "alt_text": "📝 all dated height measurements; 🔎 compare; ✅ all evidence"
+    },
+    "answers": [
+      {
+        "text": "only the result that matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "someone's favourite answer",
+        "is_correct": false
+      },
+      {
+        "text": "all dated height measurements",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All dated height measurements gives the complete evidence set.",
+      "hint": "Use all relevant recorded observations, not only one convenient result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-022",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_06",
+    "question": "After growing two bean plants with different light, what should happen when the prediction did not match the result?",
+    "audio_prompt": "After growing two bean plants with different light, what should happen when the prediction did not match the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-022",
+      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+    },
+    "answers": [
+      {
+        "text": "Record the comparison and use the evidence for the next question.",
+        "is_correct": true
+      },
+      {
+        "text": "Erase the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the result without testing again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both matches and mismatches help build better scientific ideas.",
+      "hint": "Keep the original prediction and the real result."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-023",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_07",
+    "question": "Which sentence is the prediction in growing two bean plants with different light?",
+    "audio_prompt": "Which sentence is the prediction in growing two bean plants with different light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-023",
+      "alt_text": "⏮️ before; 💭 The plant with more light will grow taller.; 🌱 growing two bean plants with different light"
+    },
+    "answers": [
+      {
+        "text": "The plant with more light was shorter after one week.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant with more light will grow taller.",
+        "is_correct": true
+      },
+      {
+        "text": "The measurements were written in a table.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plant with more light will grow taller. states the expected outcome before testing.",
+      "hint": "Predictions are made before the evidence is collected."
+    }
+  },
+  {
+    "id": "AC9S1I05-P-024",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "practice",
+    "skill": "ac9s1i05_08",
+    "question": "Why would a result that did not match still be useful in growing two bean plants with different light?",
+    "audio_prompt": "Why would a result that did not match still be useful in growing two bean plants with different light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-p-024",
+      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+    },
+    "answers": [
+      {
+        "text": "It should be hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves observations are unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It provides evidence that can improve the next prediction.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A mismatch can reveal something new and guide another investigation.",
+      "hint": "Science learns from actual evidence, not only correct guesses."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_01",
+    "question": "For measuring a pole's shadow in the morning and at midday, did the result match the prediction?",
+    "audio_prompt": "For measuring a pole's shadow in the morning and at midday, did the result match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-001",
+      "alt_text": "💭 The midday shadow will be shorter.; 👀 The midday shadow was shorter.; ✅ matched"
+    },
+    "answers": [
+      {
+        "text": "matched",
+        "is_correct": true
+      },
+      {
+        "text": "did not match",
+        "is_correct": false
+      },
+      {
+        "text": "There is no need to compare them.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prediction was “The midday shadow will be shorter.” The result was “The midday shadow was shorter.” They matched.",
+      "hint": "Read the prediction and result separately, then compare them."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_02",
+    "question": "Which sentence reports the observed result from measuring a pole's shadow in the morning and at midday?",
+    "audio_prompt": "Which sentence reports the observed result from measuring a pole's shadow in the morning and at midday?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-002",
+      "alt_text": "🌤️ measuring a pole's shadow in the morning and at midday; 👀 result; 📝 The midday shadow was shorter."
+    },
+    "answers": [
+      {
+        "text": "The midday shadow will be shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "The midday shadow was shorter.",
+        "is_correct": true
+      },
+      {
+        "text": "The result should be changed to fit the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The midday shadow was shorter. states what happened, not what was expected.",
+      "hint": "The result comes from observation or measurement after the test."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_03",
+    "question": "What should be kept the same during measuring a pole's shadow in the morning and at midday?",
+    "audio_prompt": "What should be kept the same during measuring a pole's shadow in the morning and at midday?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-003",
+      "alt_text": "🔒 the same pole and measuring method; 🌤️ measuring a pole's shadow in the morning and at midday; ⚖️ fair comparison"
+    },
+    "answers": [
+      {
+        "text": "the result",
+        "is_correct": false
+      },
+      {
+        "text": "the prediction after seeing the answer",
+        "is_correct": false
+      },
+      {
+        "text": "the same pole and measuring method",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping the same pole and measuring method the same makes the comparison fairer.",
+      "hint": "Change only the feature being investigated."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_04",
+    "question": "Why should measuring a pole's shadow in the morning and at midday include measurements on three sunny days?",
+    "audio_prompt": "Why should measuring a pole's shadow in the morning and at midday include measurements on three sunny days?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-004",
+      "alt_text": "🌤️ measuring a pole's shadow in the morning and at midday; 🔁 measurements on three sunny days; 📊 compare trials"
+    },
+    "answers": [
+      {
+        "text": "Repeated observations show whether the result is consistent.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating guarantees the prediction is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the most helpful result should be kept.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeats help reveal whether a result happens consistently or varies.",
+      "hint": "Record every repeat, including surprising results."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_05",
+    "question": "Which evidence should be used when comparing the prediction and result?",
+    "audio_prompt": "Which evidence should be used when comparing the prediction and result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-005",
+      "alt_text": "📝 the morning and midday lengths from every day; 🔎 compare; ✅ all evidence"
+    },
+    "answers": [
+      {
+        "text": "only the result that matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "the morning and midday lengths from every day",
+        "is_correct": true
+      },
+      {
+        "text": "someone's favourite answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The morning and midday lengths from every day gives the complete evidence set.",
+      "hint": "Use all relevant recorded observations, not only one convenient result."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_06",
+    "question": "After measuring a pole's shadow in the morning and at midday, what should happen when the prediction matched the result?",
+    "audio_prompt": "After measuring a pole's shadow in the morning and at midday, what should happen when the prediction matched the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-006",
+      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+    },
+    "answers": [
+      {
+        "text": "Erase the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the result without testing again.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the comparison and use the evidence for the next question.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both matches and mismatches help build better scientific ideas.",
+      "hint": "Keep the original prediction and the real result."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_07",
+    "question": "Which sentence is the prediction in measuring a pole's shadow in the morning and at midday?",
+    "audio_prompt": "Which sentence is the prediction in measuring a pole's shadow in the morning and at midday?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-007",
+      "alt_text": "⏮️ before; 💭 The midday shadow will be shorter.; 🌤️ measuring a pole's shadow in the morning and at midday"
+    },
+    "answers": [
+      {
+        "text": "The midday shadow will be shorter.",
+        "is_correct": true
+      },
+      {
+        "text": "The midday shadow was shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "The measurements were written in a table.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The midday shadow will be shorter. states the expected outcome before testing.",
+      "hint": "Predictions are made before the evidence is collected."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_08",
+    "question": "Why would a result that did not match still be useful in measuring a pole's shadow in the morning and at midday?",
+    "audio_prompt": "Why would a result that did not match still be useful in measuring a pole's shadow in the morning and at midday?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-008",
+      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+    },
+    "answers": [
+      {
+        "text": "It should be hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "It provides evidence that can improve the next prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves observations are unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A mismatch can reveal something new and guide another investigation.",
+      "hint": "Science learns from actual evidence, not only correct guesses."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_01",
+    "question": "For comparing how much water two towels absorb, did the result match the prediction?",
+    "audio_prompt": "For comparing how much water two towels absorb, did the result match the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-009",
+      "alt_text": "💭 The thin towel will absorb more.; 👀 The thick towel absorbed more.; ❌ did not match"
+    },
+    "answers": [
+      {
+        "text": "matched",
+        "is_correct": false
+      },
+      {
+        "text": "There is no need to compare them.",
+        "is_correct": false
+      },
+      {
+        "text": "did not match",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prediction was “The thin towel will absorb more.” The result was “The thick towel absorbed more.” They did not match.",
+      "hint": "Read the prediction and result separately, then compare them."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_02",
+    "question": "Which sentence reports the observed result from comparing how much water two towels absorb?",
+    "audio_prompt": "Which sentence reports the observed result from comparing how much water two towels absorb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-010",
+      "alt_text": "🧻 comparing how much water two towels absorb; 👀 result; 📝 The thick towel absorbed more."
+    },
+    "answers": [
+      {
+        "text": "The thick towel absorbed more.",
+        "is_correct": true
+      },
+      {
+        "text": "The thin towel will absorb more.",
+        "is_correct": false
+      },
+      {
+        "text": "The result should be changed to fit the prediction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The thick towel absorbed more. states what happened, not what was expected.",
+      "hint": "The result comes from observation or measurement after the test."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_03",
+    "question": "What should be kept the same during comparing how much water two towels absorb?",
+    "audio_prompt": "What should be kept the same during comparing how much water two towels absorb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-011",
+      "alt_text": "🔒 equal towel sizes and equal water amounts; 🧻 comparing how much water two towels absorb; ⚖️ fair comparison"
+    },
+    "answers": [
+      {
+        "text": "the result",
+        "is_correct": false
+      },
+      {
+        "text": "equal towel sizes and equal water amounts",
+        "is_correct": true
+      },
+      {
+        "text": "the prediction after seeing the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Keeping equal towel sizes and equal water amounts the same makes the comparison fairer.",
+      "hint": "Change only the feature being investigated."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_04",
+    "question": "Why should comparing how much water two towels absorb include three tests with each towel?",
+    "audio_prompt": "Why should comparing how much water two towels absorb include three tests with each towel?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-012",
+      "alt_text": "🧻 comparing how much water two towels absorb; 🔁 three tests with each towel; 📊 compare trials"
+    },
+    "answers": [
+      {
+        "text": "Repeating guarantees the prediction is correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the most helpful result should be kept.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated observations show whether the result is consistent.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeats help reveal whether a result happens consistently or varies.",
+      "hint": "Record every repeat, including surprising results."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_05",
+    "question": "Which evidence should be used when comparing the prediction and result?",
+    "audio_prompt": "Which evidence should be used when comparing the prediction and result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-013",
+      "alt_text": "📝 every measured amount of water absorbed; 🔎 compare; ✅ all evidence"
+    },
+    "answers": [
+      {
+        "text": "every measured amount of water absorbed",
+        "is_correct": true
+      },
+      {
+        "text": "only the result that matched the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "someone's favourite answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Every measured amount of water absorbed gives the complete evidence set.",
+      "hint": "Use all relevant recorded observations, not only one convenient result."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_06",
+    "question": "After comparing how much water two towels absorb, what should happen when the prediction did not match the result?",
+    "audio_prompt": "After comparing how much water two towels absorb, what should happen when the prediction did not match the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-014",
+      "alt_text": "💭 prediction; 👀 result; 💡 learn"
+    },
+    "answers": [
+      {
+        "text": "Erase the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the comparison and use the evidence for the next question.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the result without testing again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both matches and mismatches help build better scientific ideas.",
+      "hint": "Keep the original prediction and the real result."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_07",
+    "question": "Which sentence is the prediction in comparing how much water two towels absorb?",
+    "audio_prompt": "Which sentence is the prediction in comparing how much water two towels absorb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-015",
+      "alt_text": "⏮️ before; 💭 The thin towel will absorb more.; 🧻 comparing how much water two towels absorb"
+    },
+    "answers": [
+      {
+        "text": "The thick towel absorbed more.",
+        "is_correct": false
+      },
+      {
+        "text": "The measurements were written in a table.",
+        "is_correct": false
+      },
+      {
+        "text": "The thin towel will absorb more.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The thin towel will absorb more. states the expected outcome before testing.",
+      "hint": "Predictions are made before the evidence is collected."
+    }
+  },
+  {
+    "id": "AC9S1I05-T-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I05",
+    "bank": "test",
+    "skill": "ac9s1i05_08",
+    "question": "Why would a result that did not match still be useful in comparing how much water two towels absorb?",
+    "audio_prompt": "Why would a result that did not match still be useful in comparing how much water two towels absorb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i05.svg#ac9s1i05-t-016",
+      "alt_text": "❌ mismatch; 📝 evidence; ➡️ new prediction"
+    },
+    "answers": [
+      {
+        "text": "It provides evidence that can improve the next prediction.",
+        "is_correct": true
+      },
+      {
+        "text": "It should be hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves observations are unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A mismatch can reveal something new and guide another investigation.",
+      "hint": "Science learns from actual evidence, not only correct guesses."
+    }
+  }
+]

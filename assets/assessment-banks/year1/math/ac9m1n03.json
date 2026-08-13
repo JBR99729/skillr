@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "AC9M1N03-P-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_groups",
+    "question": "How many counters are shown in the equal groups? The picture has 2 groups.",
+    "audio_prompt": "How many counters are shown in the equal groups? The picture has 2 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-001",
+      "alt_text": "A grouping or number model showing: [ ● ● ] [ ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 2 groups of 2. Skip count by 2 to 4.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 5s. The number-line model starts at 10.",
+    "audio_prompt": "Complete the count by 5s. The number-line model starts at 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-002",
+      "alt_text": "A grouping or number model showing: 10 — 15 — ___ — 25 — 30."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add 5 each time, so the missing number is 20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "match_group_description_to_total",
+    "question": "Which total matches 5 equal groups of 2?",
+    "audio_prompt": "Which total matches 5 equal groups of 2?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Skip count 2 a total of 5 times to reach 10.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "full_groups_and_leftovers",
+    "question": "How many objects are there altogether? The picture has 5 full groups and 1 left over.",
+    "audio_prompt": "How many objects are there altogether? The picture has 5 full groups and 1 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-004",
+      "alt_text": "A grouping or number model showing: [ ◆ ◆ ] [ ◆ ◆ ] [ ◆ ◆ ] [ ◆ ◆ ] [ ◆ ◆ ] Left over: ◆."
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "5 full groups of 2 make 10; 1 more make 11.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "describe_grouping",
+    "question": "41 objects are grouped in 10s. Which description is correct?",
+    "audio_prompt": "41 objects are grouped in 10s. Which description is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 group and 4 left over",
+        "is_correct": false
+      },
+      {
+        "text": "4 full groups and 1 left over",
+        "is_correct": true
+      },
+      {
+        "text": "5 full groups and 0 left over",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "4×10=40, with 1 more.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "choose_efficient_grouping",
+    "question": "You need to count 70 loose counters efficiently. Which plan is most useful?",
+    "audio_prompt": "You need to count 70 loose counters efficiently. Which plan is most useful?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Make groups with different sizes",
+        "is_correct": false
+      },
+      {
+        "text": "Count the same counter many times",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups of 10 and count the extras",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "group_collection_into_tens",
+    "question": "Which grouping represents 98 objects? The picture has 9 full groups and 8 left over.",
+    "audio_prompt": "Which grouping represents 98 objects? The picture has 9 full groups and 8 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-007",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ● ● ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "9 groups of 10 and 8 singles",
+        "is_correct": true
+      },
+      {
+        "text": "10 groups of 10 and 8 singles",
+        "is_correct": false
+      },
+      {
+        "text": "8 groups of 10 and 9 singles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "9 tens make 90; 8 singles make the total 98.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_unequal_group_error",
+    "question": "Kai skip counts these bags by 5s and says 20. What is the mistake? The picture has 4 groups.",
+    "audio_prompt": "Kai skip counts these bags by 5s and says 20. What is the mistake? The picture has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-008",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ] [ ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "Skip counting cannot count equal groups",
+        "is_correct": false
+      },
+      {
+        "text": "One bag has 4, so the actual total is 19",
+        "is_correct": true
+      },
+      {
+        "text": "The bags should be counted backwards",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only equal full groups can be counted as 5 each.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "recognise_equal_groups",
+    "question": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5, 5, 5",
+        "is_correct": false
+      },
+      {
+        "text": "5, 5, 5, 5, 6, 5",
+        "is_correct": false
+      },
+      {
+        "text": "5, 5, 5, 5, 5, 5, 5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups contain the same number in every group.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "different_groupings_same_total",
+    "question": "Select both groupings that make 30. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both groupings that make 30. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "15 groups of 2, 6 groups of 5",
+        "is_correct": true
+      },
+      {
+        "text": "15 groups of 2",
+        "is_correct": false
+      },
+      {
+        "text": "15 groups of 2, 5 groups of 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each selected grouping has a total of 30.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "order_skip_count_sequence",
+    "question": "Put the count-by-5 cards in order. Which order is correct?",
+    "audio_prompt": "Put the count-by-5 cards in order. Which order is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "15 → 10 → 25 → 5 → 20",
+        "is_correct": false
+      },
+      {
+        "text": "5 → 10 → 15 → 20 → 25",
+        "is_correct": true
+      },
+      {
+        "text": "25 → 20 → 15 → 10 → 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting by 5s gives 5, 10, 15, 20, 25.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "next_skip_count",
+    "question": "What comes next when counting by 10s: 40, 50, ___?",
+    "audio_prompt": "What comes next when counting by 10s: 40, 50, ___?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add 10: 50+10=60.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "compare_grouped_collections",
+    "question": "Collection A has 2 groups of 2. Collection B has 3 groups of 2. Which has more? Picture A has 2 groups and picture B has 3 groups.",
+    "audio_prompt": "Collection A has 2 groups of 2. Collection B has 3 groups of 2. Which has more? Picture A has 2 groups and picture B has 3 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-013",
+      "alt_text": "A grouping or number model showing: A: [ ● ● ] [ ● ● ] B: [ ■ ■ ] [ ■ ■ ] [ ■ ■ ]."
+    },
+    "answers": [
+      {
+        "text": "Collection B",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The group colour decides",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "B has one more full group: 6 compared with 4.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "check_a_grouped_count",
+    "question": "Leo says 4 groups of 5 contain 20. Which check is best?",
+    "audio_prompt": "Leo says 4 groups of 5 contain 20. Which check is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count only the first group",
+        "is_correct": false
+      },
+      {
+        "text": "Count 5, 10, 15, 20",
+        "is_correct": true
+      },
+      {
+        "text": "Use the number of groups as the total",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip counting once for every equal group confirms 20.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_rows",
+    "question": "How many dots are in the equal rows? The picture has 6 rows.",
+    "audio_prompt": "How many dots are in the equal rows? The picture has 6 rows.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-015",
+      "alt_text": "A grouping or number model showing: ● ● ● ● ● ● ● ● ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "6 rows of 2 make 12.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_leftovers_separately",
+    "question": "There are 3 full groups of 5 and 4 extra objects. Which count is correct?",
+    "audio_prompt": "There are 3 full groups of 5 and 4 extra objects. Which count is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count 5s to 15, then count 4 more to 19",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the extras and stop at 15",
+        "is_correct": false
+      },
+      {
+        "text": "Start again from 1 for every group and never combine totals",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Skip count the full equal groups, then add the leftovers.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_group_size",
+    "question": "How many objects are in each equal group? The picture has 3 groups.",
+    "audio_prompt": "How many objects are in each equal group? The picture has 3 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-017",
+      "alt_text": "A grouping or number model showing: [ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ]."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every bracket contains 5 objects.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_number_of_groups",
+    "question": "How many equal groups of 10 are shown? The picture has 8 groups.",
+    "audio_prompt": "How many equal groups of 10 are shown? The picture has 8 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-018",
+      "alt_text": "A grouping or number model showing: [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ⬟ ]."
+    },
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There are 8 separate equal groups.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_groups",
+    "question": "How many stars are shown in the equal groups? The picture has 9 groups.",
+    "audio_prompt": "How many stars are shown in the equal groups? The picture has 9 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-019",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "45",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 9 groups of 5. Skip count by 5 to 45.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 10s. The number-line model starts at 10.",
+    "audio_prompt": "Complete the count by 10s. The number-line model starts at 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-020",
+      "alt_text": "A grouping or number model showing: 10 — 20 — ___ — 40 — 50."
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add 10 each time, so the missing number is 30.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "match_group_description_to_total",
+    "question": "Which total matches 3 equal groups of 5?",
+    "audio_prompt": "Which total matches 3 equal groups of 5?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Skip count 5 a total of 3 times to reach 15.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "full_groups_and_leftovers",
+    "question": "How many objects are there altogether? The picture has 3 full groups and 4 left over.",
+    "audio_prompt": "How many objects are there altogether? The picture has 3 full groups and 4 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-022",
+      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆ ◆."
+    },
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "3 full groups of 5 make 15; 4 more make 19.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "describe_grouping",
+    "question": "28 objects are grouped in 2s. Which description is correct?",
+    "audio_prompt": "28 objects are grouped in 2s. Which description is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "14 full groups and 1 left over",
+        "is_correct": false
+      },
+      {
+        "text": "14 full groups and 0 left over",
+        "is_correct": true
+      },
+      {
+        "text": "15 full groups and 0 left over",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "14×2=28, with 0 more.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "choose_efficient_grouping",
+    "question": "You need to count 69 loose counters efficiently. Which plan is most useful?",
+    "audio_prompt": "You need to count 69 loose counters efficiently. Which plan is most useful?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count the same counter many times",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from how spread out they are",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups of 10 and count the extras",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-025",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "group_collection_into_tens",
+    "question": "Which grouping represents 30 objects? The picture has 3 groups.",
+    "audio_prompt": "Which grouping represents 30 objects? The picture has 3 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-025",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "3 groups of 10 and 0 singles",
+        "is_correct": true
+      },
+      {
+        "text": "0 groups of 10 and 3 singles",
+        "is_correct": false
+      },
+      {
+        "text": "3 groups of 5 and 0 singles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "3 tens make 30; 0 singles make the total 30.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-026",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_unequal_group_error",
+    "question": "Sam skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
+    "audio_prompt": "Sam skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-026",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "All bags are equal and 40 is correct",
+        "is_correct": false
+      },
+      {
+        "text": "One bag has 9, so the actual total is 39",
+        "is_correct": true
+      },
+      {
+        "text": "Skip counting cannot count equal groups",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only equal full groups can be counted as 10 each.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-027",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "recognise_equal_groups",
+    "question": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2, 2, 2",
+        "is_correct": false
+      },
+      {
+        "text": "2, 2, 2, 2, 3, 2",
+        "is_correct": false
+      },
+      {
+        "text": "2, 2, 2, 2, 2, 2, 2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups contain the same number in every group.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-028",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "different_groupings_same_total",
+    "question": "Select both groupings that make 60. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both groupings that make 60. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "30 groups of 2, 12 groups of 5",
+        "is_correct": true
+      },
+      {
+        "text": "30 groups of 2",
+        "is_correct": false
+      },
+      {
+        "text": "30 groups of 2, 11 groups of 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each selected grouping has a total of 60.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-029",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "order_skip_count_sequence",
+    "question": "Put the count-by-10 cards in order. Which order is correct?",
+    "audio_prompt": "Put the count-by-10 cards in order. Which order is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "10 → 30 → 50 → 40 → 20",
+        "is_correct": false
+      },
+      {
+        "text": "10 → 20 → 30 → 40 → 50",
+        "is_correct": true
+      },
+      {
+        "text": "50 → 40 → 30 → 20 → 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting by 10s gives 10, 20, 30, 40, 50.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-030",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "next_skip_count",
+    "question": "What comes next when counting by 2s: 14, 16, ___?",
+    "audio_prompt": "What comes next when counting by 2s: 14, 16, ___?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add 2: 16+2=18.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-031",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "compare_grouped_collections",
+    "question": "Collection A has 3 groups of 5. Collection B has 4 groups of 5. Which has more? Picture A has 3 groups and picture B has 4 groups.",
+    "audio_prompt": "Collection A has 3 groups of 5. Collection B has 4 groups of 5. Which has more? Picture A has 3 groups and picture B has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-031",
+      "alt_text": "A grouping or number model showing: A: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ]."
+    },
+    "answers": [
+      {
+        "text": "Collection B",
+        "is_correct": true
+      },
+      {
+        "text": "Collection A",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "B has one more full group: 20 compared with 15.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-032",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "check_a_grouped_count",
+    "question": "Ava says 5 groups of 10 contain 50. Which check is best?",
+    "audio_prompt": "Ava says 5 groups of 10 contain 50. Which check is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count only the first group",
+        "is_correct": false
+      },
+      {
+        "text": "Count 10, 20, 30, 40, 50",
+        "is_correct": true
+      },
+      {
+        "text": "Use the number of groups as the total",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip counting once for every equal group confirms 50.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-033",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_rows",
+    "question": "How many dots are in the equal rows? The picture has 5 rows.",
+    "audio_prompt": "How many dots are in the equal rows? The picture has 5 rows.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-033",
+      "alt_text": "A grouping or number model showing: ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "5 rows of 3 make 15.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-034",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_leftovers_separately",
+    "question": "There are 7 full groups of 5 and 3 extra objects. Which count is correct?",
+    "audio_prompt": "There are 7 full groups of 5 and 3 extra objects. Which count is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count 5s to 35, then count 3 more to 38",
+        "is_correct": true
+      },
+      {
+        "text": "Start again from 1 for every group and never combine totals",
+        "is_correct": false
+      },
+      {
+        "text": "Count every group as 5, including the extras, to 40",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Skip count the full equal groups, then add the leftovers.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-035",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_group_size",
+    "question": "How many objects are in each equal group? The picture has 2 groups.",
+    "audio_prompt": "How many objects are in each equal group? The picture has 2 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-035",
+      "alt_text": "A grouping or number model showing: [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ]."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every bracket contains 10 objects.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-036",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_number_of_groups",
+    "question": "How many equal groups of 2 are shown? The picture has 3 groups.",
+    "audio_prompt": "How many equal groups of 2 are shown? The picture has 3 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-036",
+      "alt_text": "A grouping or number model showing: [ ⬟ ⬟ ] [ ⬟ ⬟ ] [ ⬟ ⬟ ]."
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There are 3 separate equal groups.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-037",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_groups",
+    "question": "How many leaves are shown in the equal groups? The picture has 8 groups.",
+    "audio_prompt": "How many leaves are shown in the equal groups? The picture has 8 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-037",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "80",
+        "is_correct": true
+      },
+      {
+        "text": "79",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 8 groups of 10. Skip count by 10 to 80.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-038",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 2s. The number-line model starts at 8.",
+    "audio_prompt": "Complete the count by 2s. The number-line model starts at 8.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-038",
+      "alt_text": "A grouping or number model showing: 8 — 10 — ___ — 14 — 16."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add 2 each time, so the missing number is 12.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-039",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "match_group_description_to_total",
+    "question": "Which total matches 8 equal groups of 10?",
+    "audio_prompt": "Which total matches 8 equal groups of 10?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Skip count 10 a total of 8 times to reach 80.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-040",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "full_groups_and_leftovers",
+    "question": "How many objects are there altogether? The picture has 8 full groups and 9 left over.",
+    "audio_prompt": "How many objects are there altogether? The picture has 8 full groups and 9 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-040",
+      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆."
+    },
+    "answers": [
+      {
+        "text": "89",
+        "is_correct": true
+      },
+      {
+        "text": "88",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8 full groups of 10 make 80; 9 more make 89.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-041",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "describe_grouping",
+    "question": "15 objects are grouped in 5s. Which description is correct?",
+    "audio_prompt": "15 objects are grouped in 5s. Which description is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 full groups and 0 left over",
+        "is_correct": false
+      },
+      {
+        "text": "3 full groups and 0 left over",
+        "is_correct": true
+      },
+      {
+        "text": "0 groups and 3 left over",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "3×5=15, with 0 more.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-042",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "choose_efficient_grouping",
+    "question": "You need to count 68 loose counters efficiently. Which plan is most useful?",
+    "audio_prompt": "You need to count 68 loose counters efficiently. Which plan is most useful?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guess from how spread out they are",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups with different sizes",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups of 10 and count the extras",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-043",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "group_collection_into_tens",
+    "question": "Which grouping represents 63 objects? The picture has 6 full groups and 3 left over.",
+    "audio_prompt": "Which grouping represents 63 objects? The picture has 6 full groups and 3 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-043",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "6 groups of 10 and 3 singles",
+        "is_correct": true
+      },
+      {
+        "text": "6 groups of 5 and 3 singles",
+        "is_correct": false
+      },
+      {
+        "text": "3 groups of 10 and 6 singles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 tens make 60; 3 singles make the total 63.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-044",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_unequal_group_error",
+    "question": "Leo skip counts these bags by 2s and says 8. What is the mistake? The picture has 4 groups.",
+    "audio_prompt": "Leo skip counts these bags by 2s and says 8. What is the mistake? The picture has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-044",
+      "alt_text": "A grouping or number model showing: [ ● ● ] [ ● ● ] [ ● ] [ ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "Skip counting cannot count equal groups",
+        "is_correct": false
+      },
+      {
+        "text": "One bag has 1, so the actual total is 7",
+        "is_correct": true
+      },
+      {
+        "text": "All bags are equal and 8 is correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only equal full groups can be counted as 2 each.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-045",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "recognise_equal_groups",
+    "question": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both descriptions that show equal groups. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3, 3, 3",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 3, 3, 4, 3",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 3, 3, 3, 3, 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal groups contain the same number in every group.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-046",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "different_groupings_same_total",
+    "question": "Select both groupings that make 120. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both groupings that make 120. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "60 groups of 2, 24 groups of 5",
+        "is_correct": true
+      },
+      {
+        "text": "60 groups of 2",
+        "is_correct": false
+      },
+      {
+        "text": "60 groups of 2, 23 groups of 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each selected grouping has a total of 120.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-047",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "order_skip_count_sequence",
+    "question": "Put the count-by-2 cards in order. Which order is correct?",
+    "audio_prompt": "Put the count-by-2 cards in order. Which order is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 → 8 → 10 → 6 → 2",
+        "is_correct": false
+      },
+      {
+        "text": "2 → 4 → 6 → 8 → 10",
+        "is_correct": true
+      },
+      {
+        "text": "10 → 8 → 6 → 4 → 2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting by 2s gives 2, 4, 6, 8, 10.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-048",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "next_skip_count",
+    "question": "What comes next when counting by 5s: 10, 15, ___?",
+    "audio_prompt": "What comes next when counting by 5s: 10, 15, ___?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add 5: 15+5=20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-049",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "compare_grouped_collections",
+    "question": "Collection A has 4 groups of 10. Collection B has 5 groups of 10. Which has more? Picture A has 4 groups and picture B has 5 groups.",
+    "audio_prompt": "Collection A has 4 groups of 10. Collection B has 5 groups of 10. Which has more? Picture A has 4 groups and picture B has 5 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-049",
+      "alt_text": "A grouping or number model showing: A: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ]."
+    },
+    "answers": [
+      {
+        "text": "Collection B",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The group colour decides",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "B has one more full group: 50 compared with 40.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-050",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "check_a_grouped_count",
+    "question": "Noah says 6 groups of 2 contain 12. Which check is best?",
+    "audio_prompt": "Noah says 6 groups of 2 contain 12. Which check is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count only the first group",
+        "is_correct": false
+      },
+      {
+        "text": "Count 2, 4, 6, 8, 10, 12",
+        "is_correct": true
+      },
+      {
+        "text": "Use the number of groups as the total",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip counting once for every equal group confirms 12.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-051",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_rows",
+    "question": "How many dots are in the equal rows? The picture has 4 rows.",
+    "audio_prompt": "How many dots are in the equal rows? The picture has 4 rows.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-051",
+      "alt_text": "A grouping or number model showing: ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "4 rows of 4 make 16.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-052",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_leftovers_separately",
+    "question": "There are 6 full groups of 5 and 2 extra objects. Which count is correct?",
+    "audio_prompt": "There are 6 full groups of 5 and 2 extra objects. Which count is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count 5s to 30, then count 2 more to 32",
+        "is_correct": true
+      },
+      {
+        "text": "Start again from 1 for every group and never combine totals",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the extras and stop at 30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Skip count the full equal groups, then add the leftovers.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-053",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_group_size",
+    "question": "How many objects are in each equal group? The picture has 6 groups.",
+    "audio_prompt": "How many objects are in each equal group? The picture has 6 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-053",
+      "alt_text": "A grouping or number model showing: [ ★ ★ ] [ ★ ★ ] [ ★ ★ ] [ ★ ★ ] [ ★ ★ ] [ ★ ★ ]."
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every bracket contains 2 objects.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-054",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "identify_number_of_groups",
+    "question": "How many equal groups of 5 are shown? The picture has 5 groups.",
+    "audio_prompt": "How many equal groups of 5 are shown? The picture has 5 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-054",
+      "alt_text": "A grouping or number model showing: [ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ] [ ⬟ ⬟ ⬟ ⬟ ⬟ ]."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There are 5 separate equal groups.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-055",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "count_equal_groups",
+    "question": "How many blocks are shown in the equal groups? The picture has 7 groups.",
+    "audio_prompt": "How many blocks are shown in the equal groups? The picture has 7 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-055",
+      "alt_text": "A grouping or number model showing: [ ● ● ] [ ● ● ] [ ● ● ] [ ● ● ] [ ● ● ] [ ● ● ] [ ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There are 7 groups of 2. Skip count by 2 to 14.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-P-056",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "practice",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 5s. The number-line model starts at 15.",
+    "audio_prompt": "Complete the count by 5s. The number-line model starts at 15.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-p-056",
+      "alt_text": "A grouping or number model showing: 15 — 20 — ___ — 30 — 35."
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add 5 each time, so the missing number is 25.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 10s. The number-line model starts at 20.",
+    "audio_prompt": "Complete the count by 10s. The number-line model starts at 20.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-001",
+      "alt_text": "A grouping or number model showing: 20 — 30 — ___ — 50 — 60."
+    },
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add 10 each time, so the missing number is 40.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "match_group_description_to_total",
+    "question": "Which total matches 4 equal groups of 5?",
+    "audio_prompt": "Which total matches 4 equal groups of 5?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip count 5 a total of 4 times to reach 20.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "full_groups_and_leftovers",
+    "question": "How many objects are there altogether? The picture has 4 full groups and 3 left over.",
+    "audio_prompt": "How many objects are there altogether? The picture has 4 full groups and 3 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-003",
+      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆."
+    },
+    "answers": [
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "4 full groups of 5 make 20; 3 more make 23.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "describe_grouping",
+    "question": "59 objects are grouped in 2s. Which description is correct?",
+    "audio_prompt": "59 objects are grouped in 2s. Which description is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "29 full groups and 1 left over",
+        "is_correct": true
+      },
+      {
+        "text": "1 group and 29 left over",
+        "is_correct": false
+      },
+      {
+        "text": "30 full groups and 0 left over",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "29×2=58, with 1 more.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "choose_efficient_grouping",
+    "question": "You need to count 66 loose counters efficiently. Which plan is most useful?",
+    "audio_prompt": "You need to count 66 loose counters efficiently. Which plan is most useful?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guess from how spread out they are",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups of 10 and count the extras",
+        "is_correct": true
+      },
+      {
+        "text": "Make groups with different sizes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "group_collection_into_tens",
+    "question": "Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
+    "audio_prompt": "Which grouping represents 28 objects? The picture has 2 full groups and 8 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-006",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ● ● ● ● ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "8 groups of 10 and 2 singles",
+        "is_correct": false
+      },
+      {
+        "text": "2 groups of 5 and 8 singles",
+        "is_correct": false
+      },
+      {
+        "text": "2 groups of 10 and 8 singles",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "2 tens make 20; 8 singles make the total 28.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "identify_unequal_group_error",
+    "question": "Ben skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
+    "audio_prompt": "Ben skip counts these bags by 10s and says 40. What is the mistake? The picture has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-007",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "One bag has 9, so the actual total is 39",
+        "is_correct": true
+      },
+      {
+        "text": "All bags are equal and 40 is correct",
+        "is_correct": false
+      },
+      {
+        "text": "The bags should be counted backwards",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only equal full groups can be counted as 10 each.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "recognise_equal_groups",
+    "question": "Which two cards show groups with 3 in every group? Choose the group with all the correct answers.",
+    "audio_prompt": "Which two cards show groups with 3 in every group? Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3, 3, 3",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 3, 3, 3, 3, 3, 3",
+        "is_correct": true
+      },
+      {
+        "text": "3, 3, 3, 3, 4, 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first two cards keep the group size at 3 every time.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "different_groupings_same_total",
+    "question": "Select both groupings that make 80. Choose the group with all the correct answers.",
+    "audio_prompt": "Select both groupings that make 80. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "40 groups of 2",
+        "is_correct": false
+      },
+      {
+        "text": "40 groups of 2, 15 groups of 5",
+        "is_correct": false
+      },
+      {
+        "text": "40 groups of 2, 16 groups of 5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each selected grouping has a total of 80.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "order_skip_count_sequence",
+    "question": "Put the count-by-10 cards in order. Which order is correct?",
+    "audio_prompt": "Put the count-by-10 cards in order. Which order is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "10 → 20 → 30 → 40 → 50",
+        "is_correct": true
+      },
+      {
+        "text": "40 → 50 → 20 → 30 → 10",
+        "is_correct": false
+      },
+      {
+        "text": "50 → 40 → 30 → 20 → 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Counting by 10s gives 10, 20, 30, 40, 50.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "next_skip_count",
+    "question": "What comes next when counting by 2s: 16, 18, ___?",
+    "audio_prompt": "What comes next when counting by 2s: 16, 18, ___?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add 2: 18+2=20.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "compare_grouped_collections",
+    "question": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more? Picture A has 6 groups and picture B has 7 groups.",
+    "audio_prompt": "Collection A has 6 groups of 5. Collection B has 7 groups of 5. Which has more? Picture A has 6 groups and picture B has 7 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-012",
+      "alt_text": "A grouping or number model showing: A: [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] [ ● ● ● ● ● ] B: [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ] [ ■ ■ ■ ■ ■ ]."
+    },
+    "answers": [
+      {
+        "text": "The group colour decides",
+        "is_correct": false
+      },
+      {
+        "text": "Collection A",
+        "is_correct": false
+      },
+      {
+        "text": "Collection B",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "B has one more full group: 35 compared with 30.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "check_a_grouped_count",
+    "question": "Ben says 8 groups of 10 contain 80. Which check is best?",
+    "audio_prompt": "Ben says 8 groups of 10 contain 80. Which check is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Count 10, 20, 30, 40, 50, 60, 70, 80",
+        "is_correct": true
+      },
+      {
+        "text": "Use the number of groups as the total",
+        "is_correct": false
+      },
+      {
+        "text": "Count each group as a different size",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Skip counting once for every equal group confirms 80.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "count_equal_rows",
+    "question": "How many dots are in the equal rows? The picture has 2 rows.",
+    "audio_prompt": "How many dots are in the equal rows? The picture has 2 rows.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-014",
+      "alt_text": "A grouping or number model showing: ● ● ● ●."
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "2 rows of 2 make 4.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "count_leftovers_separately",
+    "question": "There are 4 full groups of 5 and 4 extra objects. Which count is correct?",
+    "audio_prompt": "There are 4 full groups of 5 and 4 extra objects. Which count is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ignore the extras and stop at 20",
+        "is_correct": false
+      },
+      {
+        "text": "Count every group as 5, including the extras, to 25",
+        "is_correct": false
+      },
+      {
+        "text": "Count 5s to 20, then count 4 more to 24",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Skip count the full equal groups, then add the leftovers.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "identify_group_size",
+    "question": "How many objects are in each equal group? The picture has 4 groups.",
+    "audio_prompt": "How many objects are in each equal group? The picture has 4 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-016",
+      "alt_text": "A grouping or number model showing: [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ] [ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ]."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Every bracket contains 10 objects.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "identify_number_of_groups",
+    "question": "How many equal groups of 2 are shown? The picture has 2 groups.",
+    "audio_prompt": "How many equal groups of 2 are shown? The picture has 2 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-017",
+      "alt_text": "A grouping or number model showing: [ ⬟ ⬟ ] [ ⬟ ⬟ ]."
+    },
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "There are 2 separate equal groups.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "count_equal_groups",
+    "question": "How many counters are shown in the equal groups? The picture has 5 groups.",
+    "audio_prompt": "How many counters are shown in the equal groups? The picture has 5 groups.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-018",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ]."
+    },
+    "answers": [
+      {
+        "text": "49",
+        "is_correct": false
+      },
+      {
+        "text": "51",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There are 5 groups of 10. Skip count by 10 to 50.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "complete_skip_count",
+    "question": "Complete the count by 2s. The number-line model starts at 2.",
+    "audio_prompt": "Complete the count by 2s. The number-line model starts at 2.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-019",
+      "alt_text": "A grouping or number model showing: 2 — 4 — ___ — 8 — 10."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add 2 each time, so the missing number is 6.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "match_group_description_to_total",
+    "question": "Which total matches 9 equal groups of 10?",
+    "audio_prompt": "Which total matches 9 equal groups of 10?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip count 10 a total of 9 times to reach 90.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "full_groups_and_leftovers",
+    "question": "How many objects are there altogether? The picture has 2 full groups and 3 left over.",
+    "audio_prompt": "How many objects are there altogether? The picture has 2 full groups and 3 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-021",
+      "alt_text": "A grouping or number model showing: [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] [ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ] Left over: ◆ ◆ ◆."
+    },
+    "answers": [
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "2 full groups of 10 make 20; 3 more make 23.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "describe_grouping",
+    "question": "46 objects are grouped in 5s. Which description is correct?",
+    "audio_prompt": "46 objects are grouped in 5s. Which description is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "9 full groups and 1 left over",
+        "is_correct": true
+      },
+      {
+        "text": "9 full groups and 2 left over",
+        "is_correct": false
+      },
+      {
+        "text": "1 group and 9 left over",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "9×5=45, with 1 more.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "choose_efficient_grouping",
+    "question": "You need to count 65 loose counters efficiently. Which plan is most useful?",
+    "audio_prompt": "You need to count 65 loose counters efficiently. Which plan is most useful?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Guess from how spread out they are",
+        "is_correct": false
+      },
+      {
+        "text": "Make groups of 10 and count the extras",
+        "is_correct": true
+      },
+      {
+        "text": "Count the same counter many times",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1N03-T-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N03",
+    "bank": "test",
+    "skill": "group_collection_into_tens",
+    "question": "Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
+    "audio_prompt": "Which grouping represents 61 objects? The picture has 6 full groups and 1 left over.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n03.svg#ac9m1n03-t-024",
+      "alt_text": "A grouping or number model showing: [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] [ ● ● ● ● ● ● ● ● ● ● ] Left over: ●."
+    },
+    "answers": [
+      {
+        "text": "7 groups of 10 and 1 single",
+        "is_correct": false
+      },
+      {
+        "text": "6 groups of 5 and 1 single",
+        "is_correct": false
+      },
+      {
+        "text": "6 groups of 10 and 1 single",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "6 tens make 60; 1 single make the total 61.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  }
+]

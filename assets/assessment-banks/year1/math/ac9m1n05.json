@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "AC9M1N05-P-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "identify_joining_story",
+    "question": "Which operation matches this story: 7 apples are joined by 5 more apples?",
+    "audio_prompt": "Which operation matches this story: 7 apples are joined by 5 more apples?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001",
+      "alt_text": "Which operation matches this story: 7 apples are joined by 5 more apples?"
+    },
+    "answers": [
+      {
+        "text": "addition",
+        "is_correct": true
+      },
+      {
+        "text": "subtraction",
+        "is_correct": false
+      },
+      {
+        "text": "equal sharing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The collection grows because more apples join, so use addition.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "identify_separating_story",
+    "question": "Which operation matches: 14 tickets are printed and 6 are used?",
+    "audio_prompt": "Which operation matches: 14 tickets are printed and 6 are used?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "addition",
+        "is_correct": false
+      },
+      {
+        "text": "subtraction",
+        "is_correct": true
+      },
+      {
+        "text": "grouping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using tickets removes them from the available collection, so subtract.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "identify_comparison_story",
+    "question": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
+    "audio_prompt": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003",
+      "alt_text": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?"
+    },
+    "answers": [
+      {
+        "text": "the combined total",
+        "is_correct": false
+      },
+      {
+        "text": "the number of shelves",
+        "is_correct": false
+      },
+      {
+        "text": "the difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“How many more?” compares the amounts, so find 12 − 8.",
+      "hint": "Compare how much each container can hold, not only how tall it looks."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "identify_missing_start",
+    "question": "After 4 shells are added, the collection has 13. Which equation finds the starting number?",
+    "audio_prompt": "After 4 shells are added, the collection has 13. Which equation finds the starting number?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "13 − 4 = ?",
+        "is_correct": true
+      },
+      {
+        "text": "13 + 4 = ?",
+        "is_correct": false
+      },
+      {
+        "text": "4 − 13 = ?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Work backwards from the result: 13 − 4 = 9.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "read_total_bar_model",
+    "question": "The bar model shows parts 6 and 7. What is the whole?",
+    "audio_prompt": "The bar model shows parts 6 and 7. What is the whole?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-005",
+      "alt_text": "The bar model shows parts 6 and 7. What is the whole?"
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add the two parts: 6 + 7 = 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "read_missing_part_bar_model",
+    "question": "The whole is 17. One part is 9. What is the missing part?",
+    "audio_prompt": "The whole is 17. One part is 9. What is the missing part?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006",
+      "alt_text": "The whole is 17. One part is 9. What is the missing part?"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "17 − 9 = 8.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "model_joining_on_number_line",
+    "question": "A child starts at 8 and makes a jump of 6. Where does the child land?",
+    "audio_prompt": "A child starts at 8 and makes a jump of 6. Where does the child land?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007",
+      "alt_text": "A child starts at 8 and makes a jump of 6. Where does the child land?"
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8 + 6 = 14.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "model_removal_on_number_line",
+    "question": "A child starts at 16 and jumps back 7. Where does the child land?",
+    "audio_prompt": "A child starts at 16 and jumps back 7. Where does the child land?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008",
+      "alt_text": "A child starts at 16 and jumps back 7. Where does the child land?"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "16 − 7 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_join_problem",
+    "question": "There are 8 children at a table. Five more sit down. How many children are there now?",
+    "audio_prompt": "There are 8 children at a table. Five more sit down. How many children are there now?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The groups join: 8 + 5 = 13.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_separate_problem",
+    "question": "A basket has 18 oranges. Seven are used. How many remain?",
+    "audio_prompt": "A basket has 18 oranges. Seven are used. How many remain?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The basket loses 7 oranges: 18 − 7 = 11.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_comparison_problem",
+    "question": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
+    "audio_prompt": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011",
+      "alt_text": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare by subtracting: 15 − 9 = 6.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_missing_start",
+    "question": "Five birds land beside some birds. There are now 14. How many birds were there first?",
+    "audio_prompt": "Five birds land beside some birds. There are now 14. How many birds were there first?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The starting number plus 5 equals 14, so 14 − 5 = 9.",
+      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_missing_change",
+    "question": "A jar had 16 beads. Some were removed and 10 remain. How many were removed?",
+    "audio_prompt": "A jar had 16 beads. Some were removed and 10 remain. How many were removed?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The missing change is 16 − 10 = 6.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "solve_missing_result",
+    "question": "A class has 11 red folders and 7 blue folders. How many folders altogether?",
+    "audio_prompt": "A class has 11 red folders and 7 blue folders. How many folders altogether?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The two parts combine: 11 + 7 = 18.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "match_equation_to_story",
+    "question": "Which equation matches: “There were 13 ducks. Four swam away.”?",
+    "audio_prompt": "Which equation matches: “There were 13 ducks. Four swam away.”?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "13 + 4 = 17",
+        "is_correct": false
+      },
+      {
+        "text": "9 − 4 = 5",
+        "is_correct": false
+      },
+      {
+        "text": "13 − 4 = 9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Swam away means the collection decreased: 13 − 4 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "match_story_to_equation",
+    "question": "Which story matches 7 + 6 = 13?",
+    "audio_prompt": "Which story matches 7 + 6 = 13?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "7 toy cars and 6 more are joined",
+        "is_correct": true
+      },
+      {
+        "text": "13 cars and 6 are removed",
+        "is_correct": false
+      },
+      {
+        "text": "7 cars are shared by 6 children",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The equation combines two parts, 7 and 6, to make 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "count_money",
+    "question": "What is the total value of the play coins?",
+    "audio_prompt": "What is the total value of the play coins?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017",
+      "alt_text": "What is the total value of the play coins?"
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "$2 + $2 + $2 + $1 = $7.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "make_exact_payment",
+    "question": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
+    "audio_prompt": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018",
+      "alt_text": "Which two collections pay exactly $8?"
+    },
+    "answers": [
+      {
+        "text": "$2 + $2 + $2 + $2",
+        "is_correct": false
+      },
+      {
+        "text": "$2 + $2 + $2 + $2, $5 + $5",
+        "is_correct": false
+      },
+      {
+        "text": "$2 + $2 + $2 + $2, $5 + $2 + $1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four $2 coins make $8. A $5, $2 and $1 also make $8.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "combine_prices",
+    "question": "A book costs $6 and a puzzle costs $7. What is the total cost?",
+    "audio_prompt": "A book costs $6 and a puzzle costs $7. What is the total cost?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019",
+      "alt_text": "A book costs $6 and a puzzle costs $7. What is the total cost?"
+    },
+    "answers": [
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add the prices: $6 + $7 = $13.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "money_remaining",
+    "question": "Mia has $15 and spends $6. How much money remains?",
+    "audio_prompt": "Mia has $15 and spends $6. How much money remains?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020",
+      "alt_text": "Mia has $15 and spends $6. How much money remains?"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Spending decreases the amount: $15 − $6 = $9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "compare_prices",
+    "question": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
+    "audio_prompt": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021",
+      "alt_text": "A kite costs $12 and a ball costs $8. How much more does the kite cost?"
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Find the difference: $12 − $8 = $4.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "decide_enough_money",
+    "question": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
+    "audio_prompt": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022",
+      "alt_text": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?"
+    },
+    "answers": [
+      {
+        "text": "Yes, he has exactly $14",
+        "is_correct": true
+      },
+      {
+        "text": "No, he has only $12",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, he has $16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$10 + $2 + $2 = $14, exactly the price.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "choose_representation",
+    "question": "Which representation best shows a whole of 16 split into 9 and a missing part?",
+    "audio_prompt": "Which representation best shows a whole of 16 split into 9 and a missing part?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023",
+      "alt_text": "Which representation best shows a whole of 16 split into 9 and a missing part?"
+    },
+    "answers": [
+      {
+        "text": "a calendar",
+        "is_correct": false
+      },
+      {
+        "text": "a part-part-whole or bar model",
+        "is_correct": true
+      },
+      {
+        "text": "a shape pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A part-part-whole or bar model shows the known whole and parts.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "sequence_modelling_process",
+    "question": "Put the problem-solving steps in order. Which order is correct?",
+    "audio_prompt": "Put the problem-solving steps in order. Which order is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024",
+      "alt_text": "Put the problem-solving steps in order."
+    },
+    "answers": [
+      {
+        "text": "Calculate and check → Read what changes → Answer with the correct unit → Choose an operation and model",
+        "is_correct": false
+      },
+      {
+        "text": "Answer with the correct unit → Calculate and check → Choose an operation and model → Read what changes",
+        "is_correct": false
+      },
+      {
+        "text": "Read what changes → Choose an operation and model → Calculate and check → Answer with the correct unit",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Understand the story first, represent it, solve it, then state the answer clearly.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-025",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "avoid_keyword_guessing",
+    "question": "A box has 12 balls. It needs 5 more to be full. Why is addition used?",
+    "audio_prompt": "A box has 12 balls. It needs 5 more to be full. Why is addition used?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The missing balls will join the 12",
+        "is_correct": true
+      },
+      {
+        "text": "The word “more” always means subtract",
+        "is_correct": false
+      },
+      {
+        "text": "The box is losing balls",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The situation describes adding balls until the box is full; the meaning, not one keyword, chooses the operation.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-026",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "check_reasonableness",
+    "question": "A child says 9 stickers plus 6 stickers equals 3. What is the best check?",
+    "audio_prompt": "A child says 9 stickers plus 6 stickers equals 3. What is the best check?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The answer must always be smaller",
+        "is_correct": false
+      },
+      {
+        "text": "The total must be greater than 9 because a positive group was added",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Joining 6 to 9 must make the collection larger, so 3 is not reasonable.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-027",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "use_inverse_check",
+    "question": "Which equation checks 18 − 7 = 11?",
+    "audio_prompt": "Which equation checks 18 − 7 = 11?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "18 + 7 = 25",
+        "is_correct": false
+      },
+      {
+        "text": "11 − 7 = 4",
+        "is_correct": false
+      },
+      {
+        "text": "11 + 7 = 18",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add the remaining amount and the removed amount to rebuild the whole.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-P-028",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "practice",
+    "skill": "mixed_money_transaction",
+    "question": "A child has $20. They buy a game for $13. How much remains?",
+    "audio_prompt": "A child has $20. They buy a game for $13. How much remains?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028",
+      "alt_text": "A child has $20. They buy a game for $13. How much remains?"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subtract the cost from the amount available: $20 − $13 = $7.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "select_operation",
+    "question": "A bag has 9 marbles and 7 more are added. Which operation is needed?",
+    "audio_prompt": "A bag has 9 marbles and 7 more are added. Which operation is needed?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "addition",
+        "is_correct": true
+      },
+      {
+        "text": "subtraction",
+        "is_correct": false
+      },
+      {
+        "text": "sharing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The marbles join, so add.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "solve_join_story",
+    "question": "Sixteen children are in a hall. Three more enter. How many are there now?",
+    "audio_prompt": "Sixteen children are in a hall. Three more enter. How many are there now?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "16 + 3 = 19.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "solve_separate_story",
+    "question": "A tray holds 20 muffins. Eight are taken. How many remain?",
+    "audio_prompt": "A tray holds 20 muffins. Eight are taken. How many remain?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "20 − 8 = 12.",
+      "hint": "Compare how much each container can hold, not only how tall it looks."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "solve_compare_story",
+    "question": "One team has 17 points and another has 11. What is the difference?",
+    "audio_prompt": "One team has 17 points and another has 11. What is the difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-004",
+      "alt_text": "One team has 17 points and another has 11. What is the difference?"
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "17 − 11 = 6.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "find_missing_start",
+    "question": "After 6 shells are found, a collection has 15. How many were there before?",
+    "audio_prompt": "After 6 shells are found, a collection has 15. How many were there before?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "15 − 6 = 9.",
+      "hint": "Use the time order and move one step at a time."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "find_missing_change",
+    "question": "A shelf had 18 books. Now it has 12. How many books were moved?",
+    "audio_prompt": "A shelf had 18 books. Now it has 12. How many books were moved?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "18 − 12 = 6.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "match_model",
+    "question": "Which equation matches the bar model?",
+    "audio_prompt": "Which equation matches the bar model?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-007",
+      "alt_text": "Which equation matches the bar model?"
+    },
+    "answers": [
+      {
+        "text": "8 + 5 = 13",
+        "is_correct": true
+      },
+      {
+        "text": "13 + 5 = 18",
+        "is_correct": false
+      },
+      {
+        "text": "8 − 5 = 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The bar has parts 8 and 5 and whole 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "count_money",
+    "question": "What is the total value?",
+    "audio_prompt": "What is the total value?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-008",
+      "alt_text": "What is the total value?"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "$5 + $2 + $2 = $9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "total_cost",
+    "question": "A cap costs $8 and a book costs $9. What is the total?",
+    "audio_prompt": "A cap costs $8 and a book costs $9. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-009",
+      "alt_text": "A cap costs $8 and a book costs $9. What is the total?"
+    },
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "$8 + $9 = $17.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "money_left",
+    "question": "Zara has $18 and spends $11. How much remains?",
+    "audio_prompt": "Zara has $18 and spends $11. How much remains?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-t-010",
+      "alt_text": "Zara has $18 and spends $11. How much remains?"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$18 − $11 = $7.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "diagnose_operation_error",
+    "question": "A child adds in a story where 5 objects are removed. What should change?",
+    "audio_prompt": "A child adds in a story where 5 objects are removed. What should change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep addition because every story uses addition",
+        "is_correct": false
+      },
+      {
+        "text": "Use subtraction because the collection decreases",
+        "is_correct": true
+      },
+      {
+        "text": "Use multiplication",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The event removes objects, so subtraction represents the change.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "modelling_sequence",
+    "question": "Order the modelling steps. Which order is correct?",
+    "audio_prompt": "Order the modelling steps. Which order is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Solve the equation → Identify the unknown → Check the answer in the story → Draw or choose a model",
+        "is_correct": false
+      },
+      {
+        "text": "Check the answer in the story → Solve the equation → Draw or choose a model → Identify the unknown",
+        "is_correct": false
+      },
+      {
+        "text": "Identify the unknown → Draw or choose a model → Solve the equation → Check the answer in the story",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "First know what is unknown, represent it, solve, and check the result makes sense.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "solve_money_story",
+    "question": "A toy costs 10 cents. You have 6 cents. How many more cents do you need?",
+    "audio_prompt": "A toy costs 10 cents. You have 6 cents. How many more cents do you need?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 cents",
+        "is_correct": true
+      },
+      {
+        "text": "6 cents",
+        "is_correct": false
+      },
+      {
+        "text": "16 cents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Count on from 6 to 10: 7, 8, 9, 10. That is 4 more.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "choose_operation",
+    "question": "Lina has 9 shells and finds 5 more. What should she do?",
+    "audio_prompt": "Lina has 9 shells and finds 5 more. What should she do?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "subtract 5",
+        "is_correct": false
+      },
+      {
+        "text": "add 9 and 5",
+        "is_correct": true
+      },
+      {
+        "text": "ignore the 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Finding more means join the groups, so use addition.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "missing_addend",
+    "question": "What number makes 8 + ___ = 13?",
+    "audio_prompt": "What number makes 8 + ___ = 13?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Count on from 8 to 13: 9, 10, 11, 12, 13. That is 5 steps.",
+      "hint": "Start with the first amount and count on the second amount."
+    }
+  },
+  {
+    "id": "AC9M1N05-T-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N05",
+    "bank": "test",
+    "skill": "compare_money_amounts",
+    "question": "Which is more: 15 cents or 12 cents?",
+    "audio_prompt": "Which is more: 15 cents or 12 cents?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "15 cents",
+        "is_correct": true
+      },
+      {
+        "text": "12 cents",
+        "is_correct": false
+      },
+      {
+        "text": "they are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "15 is greater than 12.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    }
+  }
+]

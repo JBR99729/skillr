@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "AC9M1N02-P-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "standard_tens_and_ones",
+    "question": "Which partition matches 11?",
+    "audio_prompt": "Which partition matches 11?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 ten and 1 one",
+        "is_correct": true
+      },
+      {
+        "text": "2 tens and 1 one",
+        "is_correct": false
+      },
+      {
+        "text": "1 ten and 2 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "11 is 1 group of ten and 1 one.",
+      "hint": "Count the tens first, then count the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 27?",
+    "audio_prompt": "Which expanded form equals 27?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 + 7",
+        "is_correct": false
+      },
+      {
+        "text": "20 + 7",
+        "is_correct": true
+      },
+      {
+        "text": "20 + 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "20+7=27.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "model_to_numeral",
+    "question": "What numeral does this model show?",
+    "audio_prompt": "What numeral does this model show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-003",
+      "alt_text": "A base-ten model showing 3 tens rods and 0 ones dots."
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tens and ones combine to make 30.",
+      "hint": "Count the tens rods and ones dots, then write the numeral."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "choose_a_model",
+    "question": "Which place-value description represents 47?",
+    "audio_prompt": "Which place-value description represents 47?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 7 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 tens and 7 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 tens and 4 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "47 needs 4 tens and 7 ones.",
+      "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "exchange_one_ten",
+    "question": "48 is 4 tens and 8 ones. After exchanging one ten, which partition is equivalent?",
+    "audio_prompt": "48 is 4 tens and 8 ones. After exchanging one ten, which partition is equivalent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-005",
+      "alt_text": "A base-ten model showing 4 tens rods and 8 ones dots."
+    },
+    "answers": [
+      {
+        "text": "4 tens and 18 ones",
+        "is_correct": false
+      },
+      {
+        "text": "3 tens and 18 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 tens and 8 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten becomes 10 ones, so 3 tens and 18 ones still total 48.",
+      "hint": "Trade one ten for 10 ones. The total must stay unchanged."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "read_non_standard_partition",
+    "question": "What number is 1 ten and 15 ones?",
+    "audio_prompt": "What number is 1 ten and 15 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-006",
+      "alt_text": "A base-ten model showing 1 tens rods and 15 ones dots."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "115",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "10+15=25.",
+      "hint": "Work out the value of the tens, then add all the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "select_equivalent_partitions",
+    "question": "Which list shows three different ways to make 26?",
+    "audio_prompt": "Which list shows three different ways to make 26?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 tens and 6 ones; 1 ten and 16 ones; 0 tens and 26 ones",
+        "is_correct": true
+      },
+      {
+        "text": "2 tens and 6 ones; 1 ten and 16 ones; 2 tens and 7 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 tens and 6 ones; 2 tens and 7 ones; 0 tens and 26 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first three all recombine to 26; the last is one too many.",
+      "hint": "Check each partition by adding its tens and ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "equivalent_partitions",
+    "question": "Which place-value statement is correct?",
+    "audio_prompt": "Which place-value statement is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 6 ones has the same value as 3 tens and 15 ones.",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 6 ones has the same value as 3 tens and 16 ones.",
+        "is_correct": true
+      },
+      {
+        "text": "4 tens and 6 ones has the same value as 4 tens and 16 ones.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both partitions total 46.",
+      "hint": "One ten has the same value as 10 ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_part_whole_to_10",
+    "question": "Complete the whole: 7 + ___ = 10.",
+    "audio_prompt": "Complete the whole: 7 + ___ = 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-009",
+      "alt_text": "A ten-frame-style model with 7 filled counters and 3 empty counters."
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "7 and 3 make 10.",
+      "hint": "Count on from the first part until you reach 10."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "missing_place_value_part",
+    "question": "40 + ___ = 41. What is the missing part?",
+    "audio_prompt": "40 + ___ = 41. What is the missing part?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tens part is 40; 1 more ones make 41.",
+      "hint": "Ask what must be added to the tens number to make the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_whole_diagram",
+    "question": "What number belongs in the whole box?",
+    "audio_prompt": "What number belongs in the whole box?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-011",
+      "alt_text": "A part-part-whole diagram with parts 6 and 9 and an unknown whole."
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The whole is 6+9=15.",
+      "hint": "Add the two parts to find the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "identify_incorrect_partition",
+    "question": "Noah says 5 tens and 12 ones make 63. What is true?",
+    "audio_prompt": "Noah says 5 tens and 12 ones make 63. What is true?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The claim is correct",
+        "is_correct": false
+      },
+      {
+        "text": "Only standard partitions are allowed",
+        "is_correct": false
+      },
+      {
+        "text": "The partition makes 62, not 63",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "50+12=62.",
+      "hint": "Find the value of the tens and ones before checking the claim."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "sequence_regrouping",
+    "question": "Which list puts the steps for regrouping 64 in order?",
+    "audio_prompt": "Which list puts the steps for regrouping 64 in order?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Start with 6 tens and 4 ones → Exchange one ten for 10 ones → Finish with 5 tens and 14 ones → Check that the whole is unchanged",
+        "is_correct": true
+      },
+      {
+        "text": "Check that the whole is unchanged → Finish with 5 tens and 14 ones → Exchange one ten for 10 ones → Start with 6 tens and 4 ones",
+        "is_correct": false
+      },
+      {
+        "text": "Start with 6 tens and 4 ones → Finish with 5 tens and 14 ones → Exchange one ten for 10 ones → Check that the whole is unchanged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Begin with the standard partition, exchange one ten, then check the total.",
+      "hint": "Start with the standard partition, exchange one ten, then check the total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "find_non_equivalent_partition",
+    "question": "Which option does NOT equal 31?",
+    "audio_prompt": "Which option does NOT equal 31?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 tens and 11 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 tens and 10 ones",
+        "is_correct": true
+      },
+      {
+        "text": "0 tens and 31 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "20+10=30, so it is not equal to 31.",
+      "hint": "Calculate each option. Look for the one with a different total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "zero_ones",
+    "question": "Which partition matches 70?",
+    "audio_prompt": "Which partition matches 70?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "0 tens and 7 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 0 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 tens and 0 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "70 is made of 7 full tens and no extra ones.",
+      "hint": "A number ending in zero has zero ones in its standard partition."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "conservation_during_exchange",
+    "question": "A ten in 70 is exchanged for 10 ones. What happens to the whole?",
+    "audio_prompt": "A ten in 70 is exchanged for 10 ones. What happens to the whole?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stays 70",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 80",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Exchanging changes the representation, not the total.",
+      "hint": "An exchange changes the parts, not the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "tens_ones_reversal",
+    "question": "Lina builds 4 tens and 1 one but writes 14. Which numeral is correct?",
+    "audio_prompt": "Lina builds 4 tens and 1 one but writes 14. Which numeral is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-017",
+      "alt_text": "A base-ten model showing 4 tens rods and 1 ones dots."
+    },
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": true
+      },
+      {
+        "text": "51",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "4 tens are 40; with 1 one the numeral is 41.",
+      "hint": "Read the tens rods first. Do not reverse the two digits."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "match_equivalent_model",
+    "question": "Which second model shows the same number as 6 tens and 9 ones?",
+    "audio_prompt": "Which second model shows the same number as 6 tens and 9 ones?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "7 tens and 9 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 19 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 tens and 19 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Exchanging one ten gives 5 tens and 19 ones.",
+      "hint": "Take away one ten and add 10 ones to make an equivalent model."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "standard_tens_and_ones",
+    "question": "Which partition matches 88?",
+    "audio_prompt": "Which partition matches 88?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 8 ones",
+        "is_correct": true
+      },
+      {
+        "text": "9 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "8 tens and 9 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "88 is 8 groups of ten and 8 ones.",
+      "hint": "Count the tens first, then count the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 64?",
+    "audio_prompt": "Which expanded form equals 64?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "70 + 4",
+        "is_correct": false
+      },
+      {
+        "text": "60 + 4",
+        "is_correct": true
+      },
+      {
+        "text": "6 + 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "60+4=64.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "model_to_numeral",
+    "question": "What numeral does this model show?",
+    "audio_prompt": "What numeral does this model show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-021",
+      "alt_text": "A base-ten model showing 3 tens rods and 7 ones dots."
+    },
+    "answers": [
+      {
+        "text": "73",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tens and ones combine to make 37.",
+      "hint": "Count the tens rods and ones dots, then write the numeral."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "choose_a_model",
+    "question": "Which place-value description represents 18?",
+    "audio_prompt": "Which place-value description represents 18?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "1 ten and 8 ones",
+        "is_correct": true
+      },
+      {
+        "text": "1 ten and 9 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 tens and 8 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "18 needs 1 ten and 8 ones.",
+      "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "exchange_one_ten",
+    "question": "35 is 3 tens and 5 ones. After exchanging one ten, which partition is equivalent?",
+    "audio_prompt": "35 is 3 tens and 5 ones. After exchanging one ten, which partition is equivalent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-023",
+      "alt_text": "A base-ten model showing 3 tens rods and 5 ones dots."
+    },
+    "answers": [
+      {
+        "text": "4 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 tens and 15 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 tens and 15 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten becomes 10 ones, so 2 tens and 15 ones still total 35.",
+      "hint": "Trade one ten for 10 ones. The total must stay unchanged."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "read_non_standard_partition",
+    "question": "What number is 5 tens and 10 ones?",
+    "audio_prompt": "What number is 5 tens and 10 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-024",
+      "alt_text": "A base-ten model showing 5 tens rods and 10 ones dots."
+    },
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "510",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "50+10=60.",
+      "hint": "Work out the value of the tens, then add all the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-025",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "select_equivalent_partitions",
+    "question": "Which list shows three different ways to make 45?",
+    "audio_prompt": "Which list shows three different ways to make 45?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 5 ones; 3 tens and 15 ones; 2 tens and 25 ones",
+        "is_correct": true
+      },
+      {
+        "text": "4 tens and 5 ones; 3 tens and 15 ones; 4 tens and 6 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 5 ones; 4 tens and 6 ones; 2 tens and 25 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first three all recombine to 45; the last is one too many.",
+      "hint": "Check each partition by adding its tens and ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-026",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "equivalent_partitions",
+    "question": "Which place-value statement is correct?",
+    "audio_prompt": "Which place-value statement is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 0 ones has the same value as 7 tens and 9 ones.",
+        "is_correct": false
+      },
+      {
+        "text": "8 tens and 0 ones has the same value as 7 tens and 10 ones.",
+        "is_correct": true
+      },
+      {
+        "text": "8 tens and 0 ones has the same value as 8 tens and 10 ones.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both partitions total 80.",
+      "hint": "One ten has the same value as 10 ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-027",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_part_whole_to_10",
+    "question": "Complete the whole: 8 + ___ = 10.",
+    "audio_prompt": "Complete the whole: 8 + ___ = 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-027",
+      "alt_text": "A ten-frame-style model with 8 filled counters and 2 empty counters."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "8 and 2 make 10.",
+      "hint": "Count on from the first part until you reach 10."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-028",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "missing_place_value_part",
+    "question": "20 + ___ = 22. What is the missing part?",
+    "audio_prompt": "20 + ___ = 22. What is the missing part?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tens part is 20; 2 more ones make 22.",
+      "hint": "Ask what must be added to the tens number to make the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-029",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_whole_diagram",
+    "question": "What number belongs in the whole box?",
+    "audio_prompt": "What number belongs in the whole box?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-029",
+      "alt_text": "A part-part-whole diagram with parts 34 and 38 and an unknown whole."
+    },
+    "answers": [
+      {
+        "text": "71",
+        "is_correct": false
+      },
+      {
+        "text": "72",
+        "is_correct": true
+      },
+      {
+        "text": "73",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The whole is 34+38=72.",
+      "hint": "Add the two parts to find the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-030",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "identify_incorrect_partition",
+    "question": "Ben says 3 tens and 15 ones make 46. What is true?",
+    "audio_prompt": "Ben says 3 tens and 15 ones make 46. What is true?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The claim is correct",
+        "is_correct": false
+      },
+      {
+        "text": "Only standard partitions are allowed",
+        "is_correct": false
+      },
+      {
+        "text": "The partition makes 45, not 46",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "30+15=45.",
+      "hint": "Find the value of the tens and ones before checking the claim."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-031",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "sequence_regrouping",
+    "question": "Which list puts the steps for regrouping 41 in order?",
+    "audio_prompt": "Which list puts the steps for regrouping 41 in order?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Start with 4 tens and 1 one → Exchange one ten for 10 ones → Finish with 3 tens and 11 ones → Check that the whole is unchanged",
+        "is_correct": true
+      },
+      {
+        "text": "Check that the whole is unchanged → Finish with 3 tens and 11 ones → Exchange one ten for 10 ones → Start with 4 tens and 1 one",
+        "is_correct": false
+      },
+      {
+        "text": "Start with 4 tens and 1 one → Finish with 3 tens and 11 ones → Exchange one ten for 10 ones → Check that the whole is unchanged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Begin with the standard partition, exchange one ten, then check the total.",
+      "hint": "Start with the standard partition, exchange one ten, then check the total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-032",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "find_non_equivalent_partition",
+    "question": "Which option does NOT equal 58?",
+    "audio_prompt": "Which option does NOT equal 58?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 18 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 17 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 tens and 8 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "40+17=57, so it is not equal to 58.",
+      "hint": "Calculate each option. Look for the one with a different total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-033",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "zero_ones",
+    "question": "Which partition matches 20?",
+    "audio_prompt": "Which partition matches 20?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 tens and 10 ones",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens and 2 ones",
+        "is_correct": false
+      },
+      {
+        "text": "2 tens and 0 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "20 is made of 2 full tens and no extra ones.",
+      "hint": "A number ending in zero has zero ones in its standard partition."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-034",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "conservation_during_exchange",
+    "question": "A ten in 53 is exchanged for 10 ones. What happens to the whole?",
+    "audio_prompt": "A ten in 53 is exchanged for 10 ones. What happens to the whole?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stays 53",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 63",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 43",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Exchanging changes the representation, not the total.",
+      "hint": "An exchange changes the parts, not the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-035",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "tens_ones_reversal",
+    "question": "Sam builds 2 tens and 8 ones but writes 82. Which numeral is correct?",
+    "audio_prompt": "Sam builds 2 tens and 8 ones but writes 82. Which numeral is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-035",
+      "alt_text": "A base-ten model showing 2 tens rods and 8 ones dots."
+    },
+    "answers": [
+      {
+        "text": "82",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "2 tens are 20; with 8 ones the numeral is 28.",
+      "hint": "Read the tens rods first. Do not reverse the two digits."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-036",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "match_equivalent_model",
+    "question": "Which second model shows the same number as 7 tens and 6 ones?",
+    "audio_prompt": "Which second model shows the same number as 7 tens and 6 ones?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 6 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 6 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 16 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Exchanging one ten gives 6 tens and 16 ones.",
+      "hint": "Take away one ten and add 10 ones to make an equivalent model."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-037",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "standard_tens_and_ones",
+    "question": "Which partition matches 86?",
+    "audio_prompt": "Which partition matches 86?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 6 ones",
+        "is_correct": true
+      },
+      {
+        "text": "6 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "9 tens and 6 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "86 is 8 groups of ten and 6 ones.",
+      "hint": "Count the tens first, then count the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-038",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 11?",
+    "audio_prompt": "Which expanded form equals 11?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "10 + 2",
+        "is_correct": false
+      },
+      {
+        "text": "10 + 1",
+        "is_correct": true
+      },
+      {
+        "text": "1 + 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "10+1=11.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-039",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "model_to_numeral",
+    "question": "What numeral does this model show?",
+    "audio_prompt": "What numeral does this model show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-039",
+      "alt_text": "A base-ten model showing 4 tens rods and 4 ones dots."
+    },
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "44",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tens and ones combine to make 44.",
+      "hint": "Count the tens rods and ones dots, then write the numeral."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-040",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "choose_a_model",
+    "question": "Which place-value description represents 65?",
+    "audio_prompt": "Which place-value description represents 65?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "6 tens and 5 ones",
+        "is_correct": true
+      },
+      {
+        "text": "7 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 tens and 6 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "65 needs 6 tens and 5 ones.",
+      "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-041",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "exchange_one_ten",
+    "question": "22 is 2 tens and 2 ones. After exchanging one ten, which partition is equivalent?",
+    "audio_prompt": "22 is 2 tens and 2 ones. After exchanging one ten, which partition is equivalent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-041",
+      "alt_text": "A base-ten model showing 2 tens rods and 2 ones dots."
+    },
+    "answers": [
+      {
+        "text": "3 tens and 2 ones",
+        "is_correct": false
+      },
+      {
+        "text": "1 ten and 12 ones",
+        "is_correct": true
+      },
+      {
+        "text": "2 tens and 12 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One ten becomes 10 ones, so 1 ten and 12 ones still total 22.",
+      "hint": "Trade one ten for 10 ones. The total must stay unchanged."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-042",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "read_non_standard_partition",
+    "question": "What number is 4 tens and 15 ones?",
+    "audio_prompt": "What number is 4 tens and 15 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-042",
+      "alt_text": "A base-ten model showing 4 tens rods and 15 ones dots."
+    },
+    "answers": [
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "415",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "40+15=55.",
+      "hint": "Work out the value of the tens, then add all the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-043",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "select_equivalent_partitions",
+    "question": "Which list shows three different ways to make 64?",
+    "audio_prompt": "Which list shows three different ways to make 64?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "6 tens and 4 ones; 5 tens and 14 ones; 4 tens and 24 ones",
+        "is_correct": true
+      },
+      {
+        "text": "6 tens and 4 ones; 5 tens and 14 ones; 6 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 4 ones; 6 tens and 5 ones; 4 tens and 24 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first three all recombine to 64; the last is one too many.",
+      "hint": "Check each partition by adding its tens and ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-044",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "equivalent_partitions",
+    "question": "Which place-value statement is correct?",
+    "audio_prompt": "Which place-value statement is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 7 ones has the same value as 3 tens and 16 ones.",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 7 ones has the same value as 3 tens and 17 ones.",
+        "is_correct": true
+      },
+      {
+        "text": "4 tens and 7 ones has the same value as 4 tens and 17 ones.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both partitions total 47.",
+      "hint": "One ten has the same value as 10 ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-045",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_part_whole_to_10",
+    "question": "Complete the whole: 9 + ___ = 10.",
+    "audio_prompt": "Complete the whole: 9 + ___ = 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-045",
+      "alt_text": "A ten-frame-style model with 9 filled counters and 1 empty counters."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "9 and 1 make 10.",
+      "hint": "Count on from the first part until you reach 10."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-046",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "missing_place_value_part",
+    "question": "70 + ___ = 73. What is the missing part?",
+    "audio_prompt": "70 + ___ = 73. What is the missing part?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tens part is 70; 3 more ones make 73.",
+      "hint": "Ask what must be added to the tens number to make the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-047",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "part_whole_diagram",
+    "question": "What number belongs in the whole box?",
+    "audio_prompt": "What number belongs in the whole box?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-047",
+      "alt_text": "A part-part-whole diagram with parts 53 and 6 and an unknown whole."
+    },
+    "answers": [
+      {
+        "text": "58",
+        "is_correct": false
+      },
+      {
+        "text": "59",
+        "is_correct": true
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The whole is 53+6=59.",
+      "hint": "Add the two parts to find the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-048",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "identify_incorrect_partition",
+    "question": "Kai says 1 ten and 18 ones make 29. What is true?",
+    "audio_prompt": "Kai says 1 ten and 18 ones make 29. What is true?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The tens should be read as ones",
+        "is_correct": false
+      },
+      {
+        "text": "Only standard partitions are allowed",
+        "is_correct": false
+      },
+      {
+        "text": "The partition makes 28, not 29",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "10+18=28.",
+      "hint": "Find the value of the tens and ones before checking the claim."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-049",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "sequence_regrouping",
+    "question": "Which list puts the steps for regrouping 68 in order?",
+    "audio_prompt": "Which list puts the steps for regrouping 68 in order?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Start with 6 tens and 8 ones → Exchange one ten for 10 ones → Finish with 5 tens and 18 ones → Check that the whole is unchanged",
+        "is_correct": true
+      },
+      {
+        "text": "Check that the whole is unchanged → Finish with 5 tens and 18 ones → Exchange one ten for 10 ones → Start with 6 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "Start with 6 tens and 8 ones → Finish with 5 tens and 18 ones → Exchange one ten for 10 ones → Check that the whole is unchanged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Begin with the standard partition, exchange one ten, then check the total.",
+      "hint": "Start with the standard partition, exchange one ten, then check the total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-050",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "find_non_equivalent_partition",
+    "question": "Which option does NOT equal 85?",
+    "audio_prompt": "Which option does NOT equal 85?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 tens and 14 ones",
+        "is_correct": true
+      },
+      {
+        "text": "0 tens and 85 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "70+14=84, so it is not equal to 85.",
+      "hint": "Calculate each option. Look for the one with a different total."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-051",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "zero_ones",
+    "question": "Which partition matches 50?",
+    "audio_prompt": "Which partition matches 50?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "0 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 tens and 10 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 tens and 0 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "50 is made of 5 full tens and no extra ones.",
+      "hint": "A number ending in zero has zero ones in its standard partition."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-052",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "conservation_during_exchange",
+    "question": "A ten in 36 is exchanged for 10 ones. What happens to the whole?",
+    "audio_prompt": "A ten in 36 is exchanged for 10 ones. What happens to the whole?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stays 36",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 46",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 26",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Exchanging changes the representation, not the total.",
+      "hint": "An exchange changes the parts, not the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-053",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "tens_ones_reversal",
+    "question": "Zoe builds 7 tens and 7 ones but writes 77. Which numeral is correct?",
+    "audio_prompt": "Zoe builds 7 tens and 7 ones but writes 77. Which numeral is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-p-053",
+      "alt_text": "A base-ten model showing 7 tens rods and 7 ones dots."
+    },
+    "answers": [
+      {
+        "text": "87",
+        "is_correct": false
+      },
+      {
+        "text": "77",
+        "is_correct": true
+      },
+      {
+        "text": "76",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "7 tens are 70; with 7 ones the numeral is 77.",
+      "hint": "Read the tens rods first. Do not reverse the two digits."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-054",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "match_equivalent_model",
+    "question": "Which second model shows the same number as 8 tens and 3 ones?",
+    "audio_prompt": "Which second model shows the same number as 8 tens and 3 ones?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "7 tens and 3 ones",
+        "is_correct": false
+      },
+      {
+        "text": "9 tens and 3 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 tens and 13 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Exchanging one ten gives 7 tens and 13 ones.",
+      "hint": "Take away one ten and add 10 ones to make an equivalent model."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-055",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "standard_tens_and_ones",
+    "question": "Which partition matches 84?",
+    "audio_prompt": "Which partition matches 84?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 4 ones",
+        "is_correct": true
+      },
+      {
+        "text": "9 tens and 4 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 8 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "84 is 8 groups of ten and 4 ones.",
+      "hint": "Count the tens first, then count the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-P-056",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "practice",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 48?",
+    "audio_prompt": "Which expanded form equals 48?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "40 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "40 + 8",
+        "is_correct": true
+      },
+      {
+        "text": "50 + 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "40+8=48.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 85?",
+    "audio_prompt": "Which expanded form equals 85?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "80 + 5",
+        "is_correct": true
+      },
+      {
+        "text": "80 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "8 + 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "80+5=85.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "model_to_numeral",
+    "question": "What numeral does this model show?",
+    "audio_prompt": "What numeral does this model show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-002",
+      "alt_text": "A base-ten model showing 5 tens rods and 8 ones dots."
+    },
+    "answers": [
+      {
+        "text": "85",
+        "is_correct": false
+      },
+      {
+        "text": "58",
+        "is_correct": true
+      },
+      {
+        "text": "68",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tens and ones combine to make 58.",
+      "hint": "Count the tens rods and ones dots, then write the numeral."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "choose_a_model",
+    "question": "Which place-value description represents 83?",
+    "audio_prompt": "Which place-value description represents 83?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "9 tens and 3 ones",
+        "is_correct": false
+      },
+      {
+        "text": "8 tens and 3 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "83 needs 8 tens and 3 ones.",
+      "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "exchange_one_ten",
+    "question": "66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?",
+    "audio_prompt": "66 is 6 tens and 6 ones. After exchanging one ten, which partition is equivalent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-004",
+      "alt_text": "A base-ten model showing 6 tens rods and 6 ones dots."
+    },
+    "answers": [
+      {
+        "text": "5 tens and 16 ones",
+        "is_correct": true
+      },
+      {
+        "text": "6 tens and 16 ones",
+        "is_correct": false
+      },
+      {
+        "text": "7 tens and 6 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten becomes 10 ones, so 5 tens and 16 ones still total 66.",
+      "hint": "Trade one ten for 10 ones. The total must stay unchanged."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "read_non_standard_partition",
+    "question": "What number is 2 tens and 15 ones?",
+    "audio_prompt": "What number is 2 tens and 15 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-005",
+      "alt_text": "A base-ten model showing 2 tens rods and 15 ones dots."
+    },
+    "answers": [
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "215",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "20+15=35.",
+      "hint": "Work out the value of the tens, then add all the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "select_equivalent_partitions",
+    "question": "Which list shows three different ways to make 42?",
+    "audio_prompt": "Which list shows three different ways to make 42?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 2 ones; 3 tens and 12 ones; 4 tens and 3 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 2 ones; 4 tens and 3 ones; 2 tens and 22 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 2 ones; 3 tens and 12 ones; 2 tens and 22 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first three all recombine to 42; the last is one too many.",
+      "hint": "Check each partition by adding its tens and ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "equivalent_partitions",
+    "question": "Which place-value statement is correct?",
+    "audio_prompt": "Which place-value statement is correct?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4 tens and 8 ones has the same value as 3 tens and 18 ones.",
+        "is_correct": true
+      },
+      {
+        "text": "4 tens and 8 ones has the same value as 3 tens and 17 ones.",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 8 ones has the same value as 4 tens and 18 ones.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both partitions total 48.",
+      "hint": "One ten has the same value as 10 ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "part_part_whole_to_10",
+    "question": "Complete the whole: 2 + ___ = 10.",
+    "audio_prompt": "Complete the whole: 2 + ___ = 10.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-008",
+      "alt_text": "A ten-frame-style model with 2 filled counters and 8 empty counters."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "2 and 8 make 10.",
+      "hint": "Count on from the first part until you reach 10."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "missing_place_value_part",
+    "question": "30 + ___ = 35. What is the missing part?",
+    "audio_prompt": "30 + ___ = 35. What is the missing part?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tens part is 30; 5 more ones make 35.",
+      "hint": "Ask what must be added to the tens number to make the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "part_whole_diagram",
+    "question": "What number belongs in the whole box?",
+    "audio_prompt": "What number belongs in the whole box?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-010",
+      "alt_text": "A part-part-whole diagram with parts 10 and 23 and an unknown whole."
+    },
+    "answers": [
+      {
+        "text": "33",
+        "is_correct": true
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The whole is 10+23=33.",
+      "hint": "Add the two parts to find the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "identify_incorrect_partition",
+    "question": "Leo says 4 tens and 14 ones make 55. What is true?",
+    "audio_prompt": "Leo says 4 tens and 14 ones make 55. What is true?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The tens should be read as ones",
+        "is_correct": false
+      },
+      {
+        "text": "The partition makes 54, not 55",
+        "is_correct": true
+      },
+      {
+        "text": "Only standard partitions are allowed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "40+14=54.",
+      "hint": "Find the value of the tens and ones before checking the claim."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "sequence_regrouping",
+    "question": "Which list puts the steps for regrouping 72 in order?",
+    "audio_prompt": "Which list puts the steps for regrouping 72 in order?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check that the whole is unchanged → Finish with 6 tens and 12 ones → Exchange one ten for 10 ones → Start with 7 tens and 2 ones",
+        "is_correct": false
+      },
+      {
+        "text": "Start with 7 tens and 2 ones → Finish with 6 tens and 12 ones → Exchange one ten for 10 ones → Check that the whole is unchanged",
+        "is_correct": false
+      },
+      {
+        "text": "Start with 7 tens and 2 ones → Exchange one ten for 10 ones → Finish with 6 tens and 12 ones → Check that the whole is unchanged",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Begin with the standard partition, exchange one ten, then check the total.",
+      "hint": "Start with the standard partition, exchange one ten, then check the total."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "find_non_equivalent_partition",
+    "question": "Which option does NOT equal 69?",
+    "audio_prompt": "Which option does NOT equal 69?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5 tens and 18 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 tens and 19 ones",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens and 69 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "50+18=68, so it is not equal to 69.",
+      "hint": "Calculate each option. Look for the one with a different total."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "zero_ones",
+    "question": "Which partition matches 30?",
+    "audio_prompt": "Which partition matches 30?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 tens and 0 ones",
+        "is_correct": false
+      },
+      {
+        "text": "3 tens and 0 ones",
+        "is_correct": true
+      },
+      {
+        "text": "3 tens and 10 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "30 is made of 3 full tens and no extra ones.",
+      "hint": "A number ending in zero has zero ones in its standard partition."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "conservation_during_exchange",
+    "question": "A ten in 62 is exchanged for 10 ones. What happens to the whole?",
+    "audio_prompt": "A ten in 62 is exchanged for 10 ones. What happens to the whole?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It becomes 72",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 52",
+        "is_correct": false
+      },
+      {
+        "text": "It stays 62",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Exchanging changes the representation, not the total.",
+      "hint": "An exchange changes the parts, not the whole."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "tens_ones_reversal",
+    "question": "Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?",
+    "audio_prompt": "Ava builds 3 tens and 5 ones but writes 53. Which numeral is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-016",
+      "alt_text": "A base-ten model showing 3 tens rods and 5 ones dots."
+    },
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "3 tens are 30; with 5 ones the numeral is 35.",
+      "hint": "Read the tens rods first. Do not reverse the two digits."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "match_equivalent_model",
+    "question": "Which second model shows the same number as 2 tens and 9 ones?",
+    "audio_prompt": "Which second model shows the same number as 2 tens and 9 ones?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "3 tens and 9 ones",
+        "is_correct": false
+      },
+      {
+        "text": "1 ten and 19 ones",
+        "is_correct": true
+      },
+      {
+        "text": "2 tens and 19 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Exchanging one ten gives 1 ten and 19 ones.",
+      "hint": "Take away one ten and add 10 ones to make an equivalent model."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "standard_tens_and_ones",
+    "question": "Which partition matches 80?",
+    "audio_prompt": "Which partition matches 80?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "8 tens and 1 one",
+        "is_correct": false
+      },
+      {
+        "text": "0 tens and 8 ones",
+        "is_correct": false
+      },
+      {
+        "text": "8 tens and 0 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "80 is 8 groups of ten and 0 ones.",
+      "hint": "Count the tens first, then count the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "expanded_form",
+    "question": "Which expanded form equals 32?",
+    "audio_prompt": "Which expanded form equals 32?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "30 + 2",
+        "is_correct": true
+      },
+      {
+        "text": "30 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "40 + 2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "30+2=32.",
+      "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "model_to_numeral",
+    "question": "What numeral does this model show?",
+    "audio_prompt": "What numeral does this model show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-020",
+      "alt_text": "A base-ten model showing 6 tens rods and 5 ones dots."
+    },
+    "answers": [
+      {
+        "text": "56",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tens and ones combine to make 65.",
+      "hint": "Count the tens rods and ones dots, then write the numeral."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "choose_a_model",
+    "question": "Which place-value description represents 54?",
+    "audio_prompt": "Which place-value description represents 54?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "5 tens and 5 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 4 ones",
+        "is_correct": false
+      },
+      {
+        "text": "5 tens and 4 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "54 needs 5 tens and 4 ones.",
+      "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "exchange_one_ten",
+    "question": "53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?",
+    "audio_prompt": "53 is 5 tens and 3 ones. After exchanging one ten, which partition is equivalent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-022",
+      "alt_text": "A base-ten model showing 5 tens rods and 3 ones dots."
+    },
+    "answers": [
+      {
+        "text": "4 tens and 13 ones",
+        "is_correct": true
+      },
+      {
+        "text": "5 tens and 13 ones",
+        "is_correct": false
+      },
+      {
+        "text": "4 tens and 3 ones",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One ten becomes 10 ones, so 4 tens and 13 ones still total 53.",
+      "hint": "Trade one ten for 10 ones. The total must stay unchanged."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "read_non_standard_partition",
+    "question": "What number is 1 ten and 10 ones?",
+    "audio_prompt": "What number is 1 ten and 10 ones?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n02.svg#ac9m1n02-t-023",
+      "alt_text": "A base-ten model showing 1 tens rods and 10 ones dots."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "110",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "10+10=20.",
+      "hint": "Work out the value of the tens, then add all the ones."
+    }
+  },
+  {
+    "id": "AC9M1N02-T-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1N02",
+    "bank": "test",
+    "skill": "select_equivalent_partitions",
+    "question": "Which list shows three different ways to make 61?",
+    "audio_prompt": "Which list shows three different ways to make 61?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "6 tens and 1 one; 5 tens and 11 ones; 6 tens and 2 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 1 one; 6 tens and 2 ones; 4 tens and 21 ones",
+        "is_correct": false
+      },
+      {
+        "text": "6 tens and 1 one; 5 tens and 11 ones; 4 tens and 21 ones",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first three all recombine to 61; the last is one too many.",
+      "hint": "Check each partition by adding its tens and ones."
+    }
+  }
+]

@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "AC9M1ST01-P-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "sort_responses",
+    "question": "Sam studies this example. Which category receives the most responses?",
+    "audio_prompt": "Sam studies this example. Which category receives the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-001",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is practice example 1."
+    },
+    "answers": [
+      {
+        "text": "dog",
+        "is_correct": true
+      },
+      {
+        "text": "cat",
+        "is_correct": false
+      },
+      {
+        "text": "bird",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dog appears 3 times, more than cat or bird.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "valid_categories",
+    "question": "Omar studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "audio_prompt": "Omar studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "orange, apple",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, banana",
+        "is_correct": true
+      },
+      {
+        "text": "orange, apple, heavy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "tally_and_number",
+    "question": "Which number matches the tally for the “bus” category?",
+    "audio_prompt": "Which number matches the tally for the “bus” category?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-003",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ || This is practice example 3."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tally count is 7.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "clear_survey_question",
+    "question": "Zoe studies this example. Which question is clearest for categorical data?",
+    "audio_prompt": "Zoe studies this example. Which question is clearest for categorical data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-004",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: clear survey question This is practice example 4."
+    },
+    "answers": [
+      {
+        "text": "Which of these four books would you choose?",
+        "is_correct": true
+      },
+      {
+        "text": "Tell me everything you like",
+        "is_correct": false
+      },
+      {
+        "text": "How many centimetres tall are you?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear categorical question leads to named answer groups.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "grouped_tally_marks",
+    "question": "How many votes are recorded?",
+    "audio_prompt": "How many votes are recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-005",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ || This is practice example 5."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A crossed group represents 5, then count any extra marks.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "read_tally",
+    "question": "How many responses are shown by the tally marks?",
+    "audio_prompt": "How many responses are shown by the tally marks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-006",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ | This is practice example 6."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tally records 6 responses.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_recording_method",
+    "question": "Arlo studies this example. Which method records classroom answers quickly and clearly?",
+    "audio_prompt": "Arlo studies this example. Which method records classroom answers quickly and clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-007",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose recording method This is practice example 7."
+    },
+    "answers": [
+      {
+        "text": "tally marks beside category names",
+        "is_correct": true
+      },
+      {
+        "text": "memory only",
+        "is_correct": false
+      },
+      {
+        "text": "random scribbles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tallies organise and count responses as they are collected.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "digital_data_collection",
+    "question": "Kai studies this example. Which digital tool could help record a class survey?",
+    "audio_prompt": "Kai studies this example. Which digital tool could help record a class survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-008",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is practice example 8."
+    },
+    "answers": [
+      {
+        "text": "a random game with no record",
+        "is_correct": false
+      },
+      {
+        "text": "a simple table or form",
+        "is_correct": true
+      },
+      {
+        "text": "a blank screen only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A digital form or table can store each response by category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "overlapping_categories",
+    "question": "Ava studies this example. A travel survey has categories “car” and “vehicle”. Why is this unclear?",
+    "audio_prompt": "Ava studies this example. A travel survey has categories “car” and “vehicle”. Why is this unclear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-009",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. This is practice example 9."
+    },
+    "answers": [
+      {
+        "text": "There are too few colours",
+        "is_correct": false
+      },
+      {
+        "text": "Tallies cannot be used",
+        "is_correct": false
+      },
+      {
+        "text": "A car fits both categories",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Categories should help each answer fit clearly.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "category_and_frequency",
+    "question": "Ava studies this example. In a data table, what does frequency mean?",
+    "audio_prompt": "Ava studies this example. In a data table, what does frequency mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-010",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: category and frequency This is practice example 10."
+    },
+    "answers": [
+      {
+        "text": "How many responses are in a category",
+        "is_correct": true
+      },
+      {
+        "text": "The name of the category",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the page",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Frequency is the count for a category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "categorical_question",
+    "question": "Noah studies this example. Which question collects categorical data?",
+    "audio_prompt": "Noah studies this example. Which question collects categorical data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-011",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is practice example 11."
+    },
+    "answers": [
+      {
+        "text": "How tall are you in centimetres?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your favourite fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 4?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Favourite fruit answers belong to named categories.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "include_useful_category",
+    "question": "Zoe studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "audio_prompt": "Zoe studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-012",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. This is practice example 12."
+    },
+    "answers": [
+      {
+        "text": "Ignore the children",
+        "is_correct": false
+      },
+      {
+        "text": "Put fish under dog",
+        "is_correct": false
+      },
+      {
+        "text": "Add a fish or other category and record the answers",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Every valid response needs an appropriate category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "record_once",
+    "question": "Which statement is correct?",
+    "audio_prompt": "Which statement is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-013",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: record once This is practice example 13."
+    },
+    "answers": [
+      {
+        "text": "Nina studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": true
+      },
+      {
+        "text": "It is not true that nina studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": false
+      },
+      {
+        "text": "The larger-looking digit always tells you which answer is correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recording once prevents double counting.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "objects_as_data",
+    "question": "Ava studies this example. A class places one linking cube in a labelled cup for each vote. What does each cube represent?",
+    "audio_prompt": "Ava studies this example. A class places one linking cube in a labelled cup for each vote. What does each cube represent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-014",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: objects as data This is practice example 14."
+    },
+    "answers": [
+      {
+        "text": "five responses",
+        "is_correct": false
+      },
+      {
+        "text": "one response",
+        "is_correct": true
+      },
+      {
+        "text": "the category name",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One object can record one response.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_categories",
+    "question": "Which category set suits the question “How do you travel to school?”",
+    "audio_prompt": "Which category set suits the question “How do you travel to school?”",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "red, blue, heavy, long",
+        "is_correct": false
+      },
+      {
+        "text": "1 cm, 2 cm, 3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "walk, car, bus, bike",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The categories are possible types of answers to the question.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "response_outside_categories",
+    "question": "A travel survey has walk, car and bus. A child answers “walk”. What should happen if the answer does not fit?",
+    "audio_prompt": "A travel survey has walk, car and bus. A child answers “walk”. What should happen if the answer does not fit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-016",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is practice example 16."
+    },
+    "answers": [
+      {
+        "text": "Use or add an appropriate category such as other",
+        "is_correct": true
+      },
+      {
+        "text": "Delete the child",
+        "is_correct": false
+      },
+      {
+        "text": "Record it twice under car",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recording system should include every genuine response clearly.",
+      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-017",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "sort_responses",
+    "question": "Which category receives the most responses?",
+    "audio_prompt": "Which category receives the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-017",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is practice example 17."
+    },
+    "answers": [
+      {
+        "text": "cat",
+        "is_correct": false
+      },
+      {
+        "text": "dog",
+        "is_correct": true
+      },
+      {
+        "text": "bird",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dog appears 3 times, more than cat or bird.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-018",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "valid_categories",
+    "question": "Nina studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "audio_prompt": "Nina studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "orange, apple",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, heavy",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-019",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_recording_method",
+    "question": "Kai studies this example. Which method records classroom answers quickly and clearly?",
+    "audio_prompt": "Kai studies this example. Which method records classroom answers quickly and clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-019",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose recording method This is practice example 19."
+    },
+    "answers": [
+      {
+        "text": "tally marks beside category names",
+        "is_correct": true
+      },
+      {
+        "text": "memory only",
+        "is_correct": false
+      },
+      {
+        "text": "random scribbles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tallies organise and count responses as they are collected.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-020",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "valid_categories",
+    "question": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "audio_prompt": "For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "orange, apple",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, banana",
+        "is_correct": true
+      },
+      {
+        "text": "orange, apple, heavy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-021",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "overlapping_categories",
+    "question": "A travel survey has categories “car” and “vehicle”. Why is this unclear?",
+    "audio_prompt": "A travel survey has categories “car” and “vehicle”. Why is this unclear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-021",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. This is practice example 21."
+    },
+    "answers": [
+      {
+        "text": "There are too few colours",
+        "is_correct": false
+      },
+      {
+        "text": "Tallies cannot be used",
+        "is_correct": false
+      },
+      {
+        "text": "A car fits both categories",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Categories should help each answer fit clearly.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-022",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "record_once",
+    "question": "Which statement is correct?",
+    "audio_prompt": "Which statement is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-022",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: record once This is practice example 22."
+    },
+    "answers": [
+      {
+        "text": "Omar studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": true
+      },
+      {
+        "text": "It is not true that omar studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": false
+      },
+      {
+        "text": "The larger-looking digit always tells you which answer is correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recording once prevents double counting.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-023",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "record_once",
+    "question": "Which statement is correct?",
+    "audio_prompt": "Which statement is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-023",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: record once This is practice example 23."
+    },
+    "answers": [
+      {
+        "text": "It is not true that mia studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia studies this example. Each person's answer should be recorded exactly once.",
+        "is_correct": true
+      },
+      {
+        "text": "The larger-looking digit always tells you which answer is correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recording once prevents double counting.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-024",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_recording_method",
+    "question": "Which method records classroom answers quickly and clearly?",
+    "audio_prompt": "Which method records classroom answers quickly and clearly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "memory only",
+        "is_correct": false
+      },
+      {
+        "text": "random scribbles",
+        "is_correct": false
+      },
+      {
+        "text": "tally marks beside category names",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tallies organise and count responses as they are collected.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-025",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_categories",
+    "question": "Which category set suits the question “Which pet do you prefer?”",
+    "audio_prompt": "Which category set suits the question “Which pet do you prefer?”",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-025",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is practice example 25."
+    },
+    "answers": [
+      {
+        "text": "dog, cat, bird, fish",
+        "is_correct": true
+      },
+      {
+        "text": "red, blue, heavy, long",
+        "is_correct": false
+      },
+      {
+        "text": "1 cm, 2 cm, 3 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The categories are possible types of answers to the question.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-026",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_categories",
+    "question": "Which category set suits the question “What is your favourite fruit?”",
+    "audio_prompt": "Which category set suits the question “What is your favourite fruit?”",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-026",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is practice example 26."
+    },
+    "answers": [
+      {
+        "text": "red, blue, heavy, long",
+        "is_correct": false
+      },
+      {
+        "text": "apple, banana, orange, berries",
+        "is_correct": true
+      },
+      {
+        "text": "1 cm, 2 cm, 3 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The categories are possible types of answers to the question.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-027",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "choose_categories",
+    "question": "Which category set suits the question “Which playground activity do you choose?”",
+    "audio_prompt": "Which category set suits the question “Which playground activity do you choose?”",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "red, blue, heavy, long",
+        "is_correct": false
+      },
+      {
+        "text": "1 cm, 2 cm, 3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "slide, swings, climbing, ball games",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The categories are possible types of answers to the question.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-P-028",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "practice",
+    "skill": "response_outside_categories",
+    "question": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "audio_prompt": "A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-p-028",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is practice example 28."
+    },
+    "answers": [
+      {
+        "text": "Use or add an appropriate category such as other",
+        "is_correct": true
+      },
+      {
+        "text": "Delete the child",
+        "is_correct": false
+      },
+      {
+        "text": "Record it twice under car",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The recording system should include every genuine response clearly.",
+      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-001",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "sort_responses",
+    "question": "Arlo studies this example. Which category receives the most responses?",
+    "audio_prompt": "Arlo studies this example. Which category receives the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-001",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: dog, cat, dog, bird, cat, dog This is test example 1."
+    },
+    "answers": [
+      {
+        "text": "dog",
+        "is_correct": true
+      },
+      {
+        "text": "cat",
+        "is_correct": false
+      },
+      {
+        "text": "bird",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dog appears 3 times, more than cat or bird.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-002",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "tally_and_number",
+    "question": "Leo studies this example. Which number matches the tally for the “bus” category?",
+    "audio_prompt": "Leo studies this example. Which number matches the tally for the “bus” category?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-002",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Bus: ||||/ This is test example 2."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The tally count is 5.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-003",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "valid_categories",
+    "question": "Ava studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "audio_prompt": "Ava studies this example. For “Which lunch fruit did you bring?”, select all useful categories. Choose the group with all the correct answers.",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "orange, apple",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, heavy",
+        "is_correct": false
+      },
+      {
+        "text": "orange, apple, banana",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-004",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "grouped_tally_marks",
+    "question": "Read the new category record independently. How many votes are recorded?",
+    "audio_prompt": "Read the new category record independently. How many votes are recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-004",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ ||||/ This is test example 4."
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A crossed group represents 5, then count any extra marks.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-005",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "choose_categories",
+    "question": "Arlo studies this example. Which category set suits the question “What is your favourite fruit?”",
+    "audio_prompt": "Arlo studies this example. Which category set suits the question “What is your favourite fruit?”",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-005",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: choose categories This is test example 5."
+    },
+    "answers": [
+      {
+        "text": "red, blue, heavy, long",
+        "is_correct": false
+      },
+      {
+        "text": "apple, banana, orange, berries",
+        "is_correct": true
+      },
+      {
+        "text": "1 cm, 2 cm, 3 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The categories are possible types of answers to the question.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-006",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "choose_recording_method",
+    "question": "Omar studies this example. Which method records classroom answers quickly and clearly?",
+    "audio_prompt": "Omar studies this example. Which method records classroom answers quickly and clearly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "memory only",
+        "is_correct": false
+      },
+      {
+        "text": "random scribbles",
+        "is_correct": false
+      },
+      {
+        "text": "tally marks beside category names",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tallies organise and count responses as they are collected.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-007",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "read_tally",
+    "question": "Read the new category record independently. How many responses are shown by the tally marks?",
+    "audio_prompt": "Read the new category record independently. How many responses are shown by the tally marks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-007",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: ||||/ |||| This is test example 7."
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tally records 9 responses.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-008",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "response_outside_categories",
+    "question": "Omar studies this example. A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "audio_prompt": "Omar studies this example. A travel survey has walk, car and bus. A child answers “train”. What should happen if the answer does not fit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-008",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: response outside categories This is test example 8."
+    },
+    "answers": [
+      {
+        "text": "Delete the child",
+        "is_correct": false
+      },
+      {
+        "text": "Use or add an appropriate category such as other",
+        "is_correct": true
+      },
+      {
+        "text": "Record it twice under car",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The recording system should include every genuine response clearly.",
+      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-009",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "clear_survey_question",
+    "question": "Lina studies this example. Which question is clearest for categorical data?",
+    "audio_prompt": "Lina studies this example. Which question is clearest for categorical data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-009",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. This is test example 9."
+    },
+    "answers": [
+      {
+        "text": "Tell me everything you like",
+        "is_correct": false
+      },
+      {
+        "text": "How many centimetres tall are you?",
+        "is_correct": false
+      },
+      {
+        "text": "Which of these four books would you choose?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clear categorical question leads to named answer groups.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-010",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "digital_data_collection",
+    "question": "Omar studies this example. Which digital tool could help record a class survey?",
+    "audio_prompt": "Omar studies this example. Which digital tool could help record a class survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-010",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: digital data collection This is test example 10."
+    },
+    "answers": [
+      {
+        "text": "a simple table or form",
+        "is_correct": true
+      },
+      {
+        "text": "a random game with no record",
+        "is_correct": false
+      },
+      {
+        "text": "a blank screen only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A digital form or table can store each response by category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-011",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "categorical_question",
+    "question": "Ruby studies this example. Which question collects categorical data?",
+    "audio_prompt": "Ruby studies this example. Which question collects categorical data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-011",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. Specific example: Collecting Categorical Data: categorical question This is test example 11."
+    },
+    "answers": [
+      {
+        "text": "How tall are you in centimetres?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your favourite fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "What is 8 + 4?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Favourite fruit answers belong to named categories.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-012",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "include_useful_category",
+    "question": "Lina studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "audio_prompt": "Lina studies this example. A pet survey lists dog, cat and bird. Several children answer fish. What should the recorder do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1st01.svg#ac9m1st01-t-012",
+      "alt_text": "A labelled tally table records each survey response once in the correct category. This is test example 12."
+    },
+    "answers": [
+      {
+        "text": "Ignore the children",
+        "is_correct": false
+      },
+      {
+        "text": "Put fish under dog",
+        "is_correct": false
+      },
+      {
+        "text": "Add a fish or other category and record the answers",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Every valid response needs an appropriate category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-013",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "categorical_data",
+    "question": "Which question collects favourite fruit data?",
+    "audio_prompt": "Which question collects favourite fruit data?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What is your favourite fruit?",
+        "is_correct": true
+      },
+      {
+        "text": "How tall are you?",
+        "is_correct": false
+      },
+      {
+        "text": "How many steps did you take?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Favourite fruit has categories like apple, banana and orange.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-014",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "sort_categories",
+    "question": "Where should a blue button go in a colour sort?",
+    "audio_prompt": "Where should a blue button go in a colour sort?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "red group",
+        "is_correct": false
+      },
+      {
+        "text": "blue group",
+        "is_correct": true
+      },
+      {
+        "text": "round group only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A blue button belongs in the blue group.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-015",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "collect_data_fairly",
+    "question": "What should each student do in a class vote?",
+    "audio_prompt": "What should each student do in a class vote?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "vote many times",
+        "is_correct": false
+      },
+      {
+        "text": "copy a friend",
+        "is_correct": false
+      },
+      {
+        "text": "choose once",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A fair class vote counts one choice from each student.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  },
+  {
+    "id": "AC9M1ST01-T-016",
+    "subject": "math",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9M1ST01",
+    "bank": "test",
+    "skill": "choose_category",
+    "question": "Which is a category for pet data?",
+    "audio_prompt": "Which is a category for pet data?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "dog",
+        "is_correct": true
+      },
+      {
+        "text": "five",
+        "is_correct": false
+      },
+      {
+        "text": "heavy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dog is a type of pet, so it can be a category.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    }
+  }
+]

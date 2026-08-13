@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S1I06-P-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_01",
+    "question": "Which title clearly tells the topic of a leaf observation?",
+    "audio_prompt": "Which title clearly tells the topic of a leaf observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-001",
+      "alt_text": "🍃 a leaf observation; 📰 What We Observed on the Leaf; 👥 classmates"
+    },
+    "answers": [
+      {
+        "text": "What We Observed on the Leaf",
+        "is_correct": true
+      },
+      {
+        "text": "My Favourite Things",
+        "is_correct": false
+      },
+      {
+        "text": "Something Happened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "What We Observed on the Leaf names the investigation or observation clearly.",
+      "hint": "A good title tells the audience what the science communication is about."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_02",
+    "question": "Which sentence is a precise observation to share?",
+    "audio_prompt": "Which sentence is a precise observation to share?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-002",
+      "alt_text": "🍃 a leaf observation; 👀 observation; 💬 The leaf had three brown spots."
+    },
+    "answers": [
+      {
+        "text": "It was really nice.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf had three brown spots.",
+        "is_correct": true
+      },
+      {
+        "text": "I think it happened because of magic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The leaf had three brown spots. gives specific evidence.",
+      "hint": "Include what was seen or measured, with a number or unit when useful."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_03",
+    "question": "Which label would be useful on a diagram for a leaf observation?",
+    "audio_prompt": "Which label would be useful on a diagram for a leaf observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-003",
+      "alt_text": "🍃 a leaf observation; 🏷️ jagged edge; ➡️ label line"
+    },
+    "answers": [
+      {
+        "text": "best part",
+        "is_correct": false
+      },
+      {
+        "text": "mystery thing",
+        "is_correct": false
+      },
+      {
+        "text": "jagged edge",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Jagged edge names a relevant visible feature or setup part.",
+      "hint": "A diagram label should point to something the audience needs to identify."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_04",
+    "question": "Which finding uses evidence from a leaf observation?",
+    "audio_prompt": "Which finding uses evidence from a leaf observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-004",
+      "alt_text": "📝 records; 🔎 compare; ✅ The leaf had more brown spots on Friday than Monday."
+    },
+    "answers": [
+      {
+        "text": "The leaf had more brown spots on Friday than Monday.",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone must like the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The first guess was correct because it was first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The leaf had more brown spots on Friday than Monday. communicates a result supported by observations.",
+      "hint": "A finding tells what the evidence showed."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_05",
+    "question": "Which unit makes the record clear for a leaf observation?",
+    "audio_prompt": "Which unit makes the record clear for a leaf observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-005",
+      "alt_text": "🔢 number; 🏷️ spots; 🍃 a leaf observation"
+    },
+    "answers": [
+      {
+        "text": "goodness",
+        "is_correct": false
+      },
+      {
+        "text": "spots",
+        "is_correct": true
+      },
+      {
+        "text": "favourites",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Spots tells the audience what was counted or measured.",
+      "hint": "Write the number together with what the number measures."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_06",
+    "question": "How should results about a leaf observation be shared with classmates?",
+    "audio_prompt": "How should results about a leaf observation be shared with classmates?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-006",
+      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    },
+    "answers": [
+      {
+        "text": "Use unexplained marks with no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell only an opinion and hide the observations.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear structure helps classmates understand the evidence.",
+      "hint": "Show what was investigated, what was observed and what was found."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_07",
+    "question": "What should come first when explaining a leaf observation?",
+    "audio_prompt": "What should come first when explaining a leaf observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-007",
+      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    },
+    "answers": [
+      {
+        "text": "Say what was investigated or observed.",
+        "is_correct": true
+      },
+      {
+        "text": "Announce that every prediction was correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a conclusion before naming the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The audience first needs to know what the communication is about.",
+      "hint": "Use the order: topic, evidence, finding."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_08",
+    "question": "Why should a science communication about a leaf observation include evidence?",
+    "audio_prompt": "Why should a science communication about a leaf observation include evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-008",
+      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    },
+    "answers": [
+      {
+        "text": "So the page has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "So the audience can understand how the finding was reached.",
+        "is_correct": true
+      },
+      {
+        "text": "So opinions look like measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence connects the observation or test to the finding.",
+      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    }
+  },
+  {
+    "id": "AC9S1I06-P-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_01",
+    "question": "Which title clearly tells the topic of a toy-car ramp test?",
+    "audio_prompt": "Which title clearly tells the topic of a toy-car ramp test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-009",
+      "alt_text": "🚗 a toy-car ramp test; 📰 How Far the Toy Car Travelled; 👥 another Year 1 class"
+    },
+    "answers": [
+      {
+        "text": "My Favourite Things",
+        "is_correct": false
+      },
+      {
+        "text": "Something Happened",
+        "is_correct": false
+      },
+      {
+        "text": "How Far the Toy Car Travelled",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How Far the Toy Car Travelled names the investigation or observation clearly.",
+      "hint": "A good title tells the audience what the science communication is about."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_02",
+    "question": "Which sentence is a precise observation to share?",
+    "audio_prompt": "Which sentence is a precise observation to share?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-010",
+      "alt_text": "🚗 a toy-car ramp test; 👀 observation; 💬 The car travelled 70 centimetres."
+    },
+    "answers": [
+      {
+        "text": "The car travelled 70 centimetres.",
+        "is_correct": true
+      },
+      {
+        "text": "It was really nice.",
+        "is_correct": false
+      },
+      {
+        "text": "I think it happened because of magic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The car travelled 70 centimetres. gives specific evidence.",
+      "hint": "Include what was seen or measured, with a number or unit when useful."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_03",
+    "question": "Which label would be useful on a diagram for a toy-car ramp test?",
+    "audio_prompt": "Which label would be useful on a diagram for a toy-car ramp test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-011",
+      "alt_text": "🚗 a toy-car ramp test; 🏷️ start line; ➡️ label line"
+    },
+    "answers": [
+      {
+        "text": "best part",
+        "is_correct": false
+      },
+      {
+        "text": "start line",
+        "is_correct": true
+      },
+      {
+        "text": "mystery thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Start line names a relevant visible feature or setup part.",
+      "hint": "A diagram label should point to something the audience needs to identify."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_04",
+    "question": "Which finding uses evidence from a toy-car ramp test?",
+    "audio_prompt": "Which finding uses evidence from a toy-car ramp test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-012",
+      "alt_text": "📝 records; 🔎 compare; ✅ The car travelled farther on tile than carpet."
+    },
+    "answers": [
+      {
+        "text": "Everyone must like the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The first guess was correct because it was first.",
+        "is_correct": false
+      },
+      {
+        "text": "The car travelled farther on tile than carpet.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The car travelled farther on tile than carpet. communicates a result supported by observations.",
+      "hint": "A finding tells what the evidence showed."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_05",
+    "question": "Which unit makes the record clear for a toy-car ramp test?",
+    "audio_prompt": "Which unit makes the record clear for a toy-car ramp test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-013",
+      "alt_text": "🔢 number; 🏷️ centimetres; 🚗 a toy-car ramp test"
+    },
+    "answers": [
+      {
+        "text": "centimetres",
+        "is_correct": true
+      },
+      {
+        "text": "goodness",
+        "is_correct": false
+      },
+      {
+        "text": "favourites",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Centimetres tells the audience what was counted or measured.",
+      "hint": "Write the number together with what the number measures."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_06",
+    "question": "How should results about a toy-car ramp test be shared with another Year 1 class?",
+    "audio_prompt": "How should results about a toy-car ramp test be shared with another Year 1 class?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-014",
+      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    },
+    "answers": [
+      {
+        "text": "Use unexplained marks with no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Tell only an opinion and hide the observations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Clear structure helps another Year 1 class understand the evidence.",
+      "hint": "Show what was investigated, what was observed and what was found."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_07",
+    "question": "What should come first when explaining a toy-car ramp test?",
+    "audio_prompt": "What should come first when explaining a toy-car ramp test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-015",
+      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    },
+    "answers": [
+      {
+        "text": "Announce that every prediction was correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a conclusion before naming the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Say what was investigated or observed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The audience first needs to know what the communication is about.",
+      "hint": "Use the order: topic, evidence, finding."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_08",
+    "question": "Why should a science communication about a toy-car ramp test include evidence?",
+    "audio_prompt": "Why should a science communication about a toy-car ramp test include evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-016",
+      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    },
+    "answers": [
+      {
+        "text": "So the audience can understand how the finding was reached.",
+        "is_correct": true
+      },
+      {
+        "text": "So the page has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "So opinions look like measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence connects the observation or test to the finding.",
+      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    }
+  },
+  {
+    "id": "AC9S1I06-P-017",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_01",
+    "question": "Which title clearly tells the topic of a bean plant record?",
+    "audio_prompt": "Which title clearly tells the topic of a bean plant record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-017",
+      "alt_text": "🌱 a bean plant record; 📰 Our Bean Plant Growth; 👥 families"
+    },
+    "answers": [
+      {
+        "text": "My Favourite Things",
+        "is_correct": false
+      },
+      {
+        "text": "Our Bean Plant Growth",
+        "is_correct": true
+      },
+      {
+        "text": "Something Happened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Our Bean Plant Growth names the investigation or observation clearly.",
+      "hint": "A good title tells the audience what the science communication is about."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-018",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_02",
+    "question": "Which sentence is a precise observation to share?",
+    "audio_prompt": "Which sentence is a precise observation to share?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-018",
+      "alt_text": "🌱 a bean plant record; 👀 observation; 💬 The plant was 12 cubes tall on Tuesday."
+    },
+    "answers": [
+      {
+        "text": "It was really nice.",
+        "is_correct": false
+      },
+      {
+        "text": "I think it happened because of magic.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant was 12 cubes tall on Tuesday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plant was 12 cubes tall on Tuesday. gives specific evidence.",
+      "hint": "Include what was seen or measured, with a number or unit when useful."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-019",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_03",
+    "question": "Which label would be useful on a diagram for a bean plant record?",
+    "audio_prompt": "Which label would be useful on a diagram for a bean plant record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-019",
+      "alt_text": "🌱 a bean plant record; 🏷️ new leaf; ➡️ label line"
+    },
+    "answers": [
+      {
+        "text": "new leaf",
+        "is_correct": true
+      },
+      {
+        "text": "best part",
+        "is_correct": false
+      },
+      {
+        "text": "mystery thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "New leaf names a relevant visible feature or setup part.",
+      "hint": "A diagram label should point to something the audience needs to identify."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-020",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_04",
+    "question": "Which finding uses evidence from a bean plant record?",
+    "audio_prompt": "Which finding uses evidence from a bean plant record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-020",
+      "alt_text": "📝 records; 🔎 compare; ✅ The plant grew 3 cubes during the week."
+    },
+    "answers": [
+      {
+        "text": "Everyone must like the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew 3 cubes during the week.",
+        "is_correct": true
+      },
+      {
+        "text": "The first guess was correct because it was first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plant grew 3 cubes during the week. communicates a result supported by observations.",
+      "hint": "A finding tells what the evidence showed."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-021",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_05",
+    "question": "Which unit makes the record clear for a bean plant record?",
+    "audio_prompt": "Which unit makes the record clear for a bean plant record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-021",
+      "alt_text": "🔢 number; 🏷️ cubes; 🌱 a bean plant record"
+    },
+    "answers": [
+      {
+        "text": "goodness",
+        "is_correct": false
+      },
+      {
+        "text": "favourites",
+        "is_correct": false
+      },
+      {
+        "text": "cubes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cubes tells the audience what was counted or measured.",
+      "hint": "Write the number together with what the number measures."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-022",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_06",
+    "question": "How should results about a bean plant record be shared with families?",
+    "audio_prompt": "How should results about a bean plant record be shared with families?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-022",
+      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    },
+    "answers": [
+      {
+        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Use unexplained marks with no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell only an opinion and hide the observations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clear structure helps families understand the evidence.",
+      "hint": "Show what was investigated, what was observed and what was found."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-023",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_07",
+    "question": "What should come first when explaining a bean plant record?",
+    "audio_prompt": "What should come first when explaining a bean plant record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-023",
+      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    },
+    "answers": [
+      {
+        "text": "Announce that every prediction was correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Say what was investigated or observed.",
+        "is_correct": true
+      },
+      {
+        "text": "Give a conclusion before naming the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The audience first needs to know what the communication is about.",
+      "hint": "Use the order: topic, evidence, finding."
+    }
+  },
+  {
+    "id": "AC9S1I06-P-024",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "practice",
+    "skill": "ac9s1i06_08",
+    "question": "Why should a science communication about a bean plant record include evidence?",
+    "audio_prompt": "Why should a science communication about a bean plant record include evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-p-024",
+      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    },
+    "answers": [
+      {
+        "text": "So the page has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "So opinions look like measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "So the audience can understand how the finding was reached.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evidence connects the observation or test to the finding.",
+      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    }
+  },
+  {
+    "id": "AC9S1I06-T-001",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_01",
+    "question": "Which title clearly tells the topic of a week of weather observations?",
+    "audio_prompt": "Which title clearly tells the topic of a week of weather observations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-001",
+      "alt_text": "🌦️ a week of weather observations; 📰 Our Week of Weather; 👥 the school assembly"
+    },
+    "answers": [
+      {
+        "text": "Our Week of Weather",
+        "is_correct": true
+      },
+      {
+        "text": "My Favourite Things",
+        "is_correct": false
+      },
+      {
+        "text": "Something Happened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Our Week of Weather names the investigation or observation clearly.",
+      "hint": "A good title tells the audience what the science communication is about."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-002",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_02",
+    "question": "Which sentence is a precise observation to share?",
+    "audio_prompt": "Which sentence is a precise observation to share?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-002",
+      "alt_text": "🌦️ a week of weather observations; 👀 observation; 💬 Four days were sunny."
+    },
+    "answers": [
+      {
+        "text": "It was really nice.",
+        "is_correct": false
+      },
+      {
+        "text": "Four days were sunny.",
+        "is_correct": true
+      },
+      {
+        "text": "I think it happened because of magic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Four days were sunny. gives specific evidence.",
+      "hint": "Include what was seen or measured, with a number or unit when useful."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-003",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_03",
+    "question": "Which label would be useful on a diagram for a week of weather observations?",
+    "audio_prompt": "Which label would be useful on a diagram for a week of weather observations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-003",
+      "alt_text": "🌦️ a week of weather observations; 🏷️ rainy day; ➡️ label line"
+    },
+    "answers": [
+      {
+        "text": "best part",
+        "is_correct": false
+      },
+      {
+        "text": "mystery thing",
+        "is_correct": false
+      },
+      {
+        "text": "rainy day",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rainy day names a relevant visible feature or setup part.",
+      "hint": "A diagram label should point to something the audience needs to identify."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-004",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_04",
+    "question": "Which finding uses evidence from a week of weather observations?",
+    "audio_prompt": "Which finding uses evidence from a week of weather observations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-004",
+      "alt_text": "📝 records; 🔎 compare; ✅ Sunny was the most common weather this week."
+    },
+    "answers": [
+      {
+        "text": "Sunny was the most common weather this week.",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone must like the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The first guess was correct because it was first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sunny was the most common weather this week. communicates a result supported by observations.",
+      "hint": "A finding tells what the evidence showed."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-005",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_05",
+    "question": "Which unit makes the record clear for a week of weather observations?",
+    "audio_prompt": "Which unit makes the record clear for a week of weather observations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-005",
+      "alt_text": "🔢 number; 🏷️ days; 🌦️ a week of weather observations"
+    },
+    "answers": [
+      {
+        "text": "goodness",
+        "is_correct": false
+      },
+      {
+        "text": "days",
+        "is_correct": true
+      },
+      {
+        "text": "favourites",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Days tells the audience what was counted or measured.",
+      "hint": "Write the number together with what the number measures."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-006",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_06",
+    "question": "How should results about a week of weather observations be shared with the school assembly?",
+    "audio_prompt": "How should results about a week of weather observations be shared with the school assembly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-006",
+      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    },
+    "answers": [
+      {
+        "text": "Use unexplained marks with no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Tell only an opinion and hide the observations.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear structure helps the school assembly understand the evidence.",
+      "hint": "Show what was investigated, what was observed and what was found."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-007",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_07",
+    "question": "What should come first when explaining a week of weather observations?",
+    "audio_prompt": "What should come first when explaining a week of weather observations?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-007",
+      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    },
+    "answers": [
+      {
+        "text": "Say what was investigated or observed.",
+        "is_correct": true
+      },
+      {
+        "text": "Announce that every prediction was correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a conclusion before naming the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The audience first needs to know what the communication is about.",
+      "hint": "Use the order: topic, evidence, finding."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-008",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_08",
+    "question": "Why should a science communication about a week of weather observations include evidence?",
+    "audio_prompt": "Why should a science communication about a week of weather observations include evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-008",
+      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    },
+    "answers": [
+      {
+        "text": "So the page has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "So the audience can understand how the finding was reached.",
+        "is_correct": true
+      },
+      {
+        "text": "So opinions look like measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence connects the observation or test to the finding.",
+      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    }
+  },
+  {
+    "id": "AC9S1I06-T-009",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_01",
+    "question": "Which title clearly tells the topic of a materials bending test?",
+    "audio_prompt": "Which title clearly tells the topic of a materials bending test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-009",
+      "alt_text": "📎 a materials bending test; 📰 Which Materials Bent?; 👥 a visiting teacher"
+    },
+    "answers": [
+      {
+        "text": "My Favourite Things",
+        "is_correct": false
+      },
+      {
+        "text": "Something Happened",
+        "is_correct": false
+      },
+      {
+        "text": "Which Materials Bent?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Which Materials Bent? names the investigation or observation clearly.",
+      "hint": "A good title tells the audience what the science communication is about."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-010",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_02",
+    "question": "Which sentence is a precise observation to share?",
+    "audio_prompt": "Which sentence is a precise observation to share?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-010",
+      "alt_text": "📎 a materials bending test; 👀 observation; 💬 The plastic strip bent and the wooden stick did not."
+    },
+    "answers": [
+      {
+        "text": "The plastic strip bent and the wooden stick did not.",
+        "is_correct": true
+      },
+      {
+        "text": "It was really nice.",
+        "is_correct": false
+      },
+      {
+        "text": "I think it happened because of magic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The plastic strip bent and the wooden stick did not. gives specific evidence.",
+      "hint": "Include what was seen or measured, with a number or unit when useful."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-011",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_03",
+    "question": "Which label would be useful on a diagram for a materials bending test?",
+    "audio_prompt": "Which label would be useful on a diagram for a materials bending test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-011",
+      "alt_text": "📎 a materials bending test; 🏷️ flexible material; ➡️ label line"
+    },
+    "answers": [
+      {
+        "text": "best part",
+        "is_correct": false
+      },
+      {
+        "text": "flexible material",
+        "is_correct": true
+      },
+      {
+        "text": "mystery thing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Flexible material names a relevant visible feature or setup part.",
+      "hint": "A diagram label should point to something the audience needs to identify."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-012",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_04",
+    "question": "Which finding uses evidence from a materials bending test?",
+    "audio_prompt": "Which finding uses evidence from a materials bending test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-012",
+      "alt_text": "📝 records; 🔎 compare; ✅ Two of the three plastic strips bent."
+    },
+    "answers": [
+      {
+        "text": "Everyone must like the result.",
+        "is_correct": false
+      },
+      {
+        "text": "The first guess was correct because it was first.",
+        "is_correct": false
+      },
+      {
+        "text": "Two of the three plastic strips bent.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two of the three plastic strips bent. communicates a result supported by observations.",
+      "hint": "A finding tells what the evidence showed."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-013",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_05",
+    "question": "Which unit makes the record clear for a materials bending test?",
+    "audio_prompt": "Which unit makes the record clear for a materials bending test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-013",
+      "alt_text": "🔢 number; 🏷️ strips; 📎 a materials bending test"
+    },
+    "answers": [
+      {
+        "text": "strips",
+        "is_correct": true
+      },
+      {
+        "text": "goodness",
+        "is_correct": false
+      },
+      {
+        "text": "favourites",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strips tells the audience what was counted or measured.",
+      "hint": "Write the number together with what the number measures."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-014",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_06",
+    "question": "How should results about a materials bending test be shared with a visiting teacher?",
+    "audio_prompt": "How should results about a materials bending test be shared with a visiting teacher?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-014",
+      "alt_text": "📰 title; 🖼️ labelled visual; 💬 finding"
+    },
+    "answers": [
+      {
+        "text": "Use unexplained marks with no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a clear title, labelled visual and evidence sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Tell only an opinion and hide the observations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Clear structure helps a visiting teacher understand the evidence.",
+      "hint": "Show what was investigated, what was observed and what was found."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-015",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_07",
+    "question": "What should come first when explaining a materials bending test?",
+    "audio_prompt": "What should come first when explaining a materials bending test?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-015",
+      "alt_text": "1️⃣ topic; 2️⃣ evidence; 3️⃣ finding"
+    },
+    "answers": [
+      {
+        "text": "Announce that every prediction was correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a conclusion before naming the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Say what was investigated or observed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The audience first needs to know what the communication is about.",
+      "hint": "Use the order: topic, evidence, finding."
+    }
+  },
+  {
+    "id": "AC9S1I06-T-016",
+    "subject": "science",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9S1I06",
+    "bank": "test",
+    "skill": "ac9s1i06_08",
+    "question": "Why should a science communication about a materials bending test include evidence?",
+    "audio_prompt": "Why should a science communication about a materials bending test include evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-science-ac9s1i06.svg#ac9s1i06-t-016",
+      "alt_text": "👀 evidence; ➡️ supports; 💡 finding"
+    },
+    "answers": [
+      {
+        "text": "So the audience can understand how the finding was reached.",
+        "is_correct": true
+      },
+      {
+        "text": "So the page has more words.",
+        "is_correct": false
+      },
+      {
+        "text": "So opinions look like measurements.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence connects the observation or test to the finding.",
+      "hint": "Ask: What did we see, count or measure that supports this finding?"
+    }
+  }
+]

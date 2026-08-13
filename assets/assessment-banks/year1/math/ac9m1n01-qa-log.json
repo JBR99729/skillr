@@ -1,0 +1,65 @@
+{
+  "curriculum_code": "AC9M1N01",
+  "scope": {
+    "practice": 56,
+    "test": 24,
+    "total": 80
+  },
+  "automated_fixes": {
+    "options_standardised_to_three": 80,
+    "explanations_split_into_summary_and_hint": 80,
+    "audio_prompts_added_for_system_tts": 80,
+    "ascii_visuals_replaced_with_svg_metadata": 35,
+    "answer_positions_rebalanced": 53
+  },
+  "significant_conceptual_fixes": [
+    {
+      "skill": "number_representations_in_cultures",
+      "count": 4,
+      "change": "Replaced binary true/false wording with three conceptually distinct statements that separate representation from quantity."
+    },
+    {
+      "skill": "look_alike_numerals",
+      "count": 4,
+      "change": "Removed the implausible distractor 'Digit order never matters' and retained place-value misconceptions."
+    },
+    {
+      "skill": "compare_numbers",
+      "count": 4,
+      "change": "Removed the generic 'longer numeral' distractor and used reversed comparison/equality misconceptions."
+    },
+    {
+      "skill": "numeric_and_order_responses",
+      "count": 35,
+      "change": "Converted typed-number and ordering prompts to accessible three-choice items with near-neighbour or sequence-order misconceptions."
+    }
+  ],
+  "internal_quality_scores": {
+    "method": "Each item was scored against correctness, curriculum alignment, age-appropriate wording, distractor authenticity, uniqueness, feedback usefulness and accessibility metadata.",
+    "minimum": 9,
+    "average": 9.4,
+    "below_9_count": 0
+  },
+  "flagged_for_awareness": [
+    {
+      "ids": [
+        "AC9M1N01-P-015",
+        "AC9M1N01-P-033",
+        "AC9M1N01-P-051",
+        "AC9M1N01-T-014"
+      ],
+      "reason": "The original binary culture-and-number-representation statements were rebuilt as three-choice conceptual items because the original format could not support credible Year 1 distractors."
+    },
+    {
+      "ids": [
+        "AC9M1N01-P-018",
+        "AC9M1N01-P-036",
+        "AC9M1N01-P-054",
+        "AC9M1N01-T-017"
+      ],
+      "reason": "The original number-line visual printed the answer beside the marked point. Each item was rebuilt with a five-step line, a hidden centre value and adjacent-number misconception distractors."
+    }
+  ],
+  "manual_review_required": [],
+  "status": "ready_for_validation"
+}

@@ -6,14 +6,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "combine visible parts",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
-    "explanation": "8 + 5 = 13. Make 10 by moving 2 from the group of 5: 10 + 3 = 13.",
-    "correct": 13,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E8%20and%205%20make%2013%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETen-frame%20counters%20showing%208%20and%205%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22166%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Crect%20x%3D%22370%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22583%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22370%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22466%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%20and%205%20make%2013%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
+    "visual": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-001",
+      "alt_text": "The blue frame shows 8 counters and the gold frame shows 5. How many counters are there altogether?"
+    },
+    "answers": [
+      "13",
+      "12",
+      "14"
+    ],
+    "correct": 0,
+    "explanation": "8 + 5 = 13. Make 10 by moving 2 from the group of 5: 10 + 3 = 13.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "8 + 5 = 13. Make 10 by moving 2 from the group of 5: 10 + 3 = 13.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-002",
@@ -21,14 +35,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "complete ten",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "The whole is 10. One part is 7. What is the missing part?",
-    "explanation": "7 needs 3 more to make 10.",
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20missing%20part%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2010%20with%20parts%207%20and%20%3F%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20missing%20part%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The whole is 10. One part is 7. What is the missing part?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "The whole is 10. One part is 7. What is the missing part?",
+    "visual": "The whole is 10. One part is 7. What is the missing part?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 10. One part is 7. What is the missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-002",
+      "alt_text": "The whole is 10. One part is 7. What is the missing part?"
+    },
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "7 needs 3 more to make 10.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "7 needs 3 more to make 10.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-003",
@@ -38,16 +66,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which number sentence matches the two groups being joined?",
-    "explanation": "Joining the groups means addition: 6 + 4 = 10.",
+    "audioPrompt": "Which number sentence matches the two groups being joined?",
+    "visual": "Which number sentence matches the two groups being joined?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which number sentence matches the two groups being joined?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-003",
+      "alt_text": "Which number sentence matches the two groups being joined?"
+    },
     "answers": [
-      "6 + 4 = 10",
       "10 − 4 = 6",
       "6 − 4 = 2",
-      "4 − 6 = 2"
+      "6 + 4 = 10"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Ejoin%20the%20parts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETen-frame%20counters%20showing%206%20and%204%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22166%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Crect%20x%3D%22370%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22370%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22466%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ejoin%20the%20parts%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which number sentence matches the two groups being joined?"
+    "correct": 2,
+    "explanation": "Joining the groups means addition: 6 + 4 = 10.\nHint: Make equal groups or equal parts, then check that each one has the same amount.",
+    "structuredExplanation": {
+      "summary": "Joining the groups means addition: 6 + 4 = 10.",
+      "hint": "Make equal groups or equal parts, then check that each one has the same amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-004",
@@ -57,16 +95,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "There are 14 counters. Five are removed. Which number sentence matches?",
-    "explanation": "Removing a part means subtraction: 14 − 5 = 9.",
+    "audioPrompt": "There are 14 counters. Five are removed. Which number sentence matches?",
+    "visual": "There are 14 counters. Five are removed. Which number sentence matches?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 14 counters. Five are removed. Which number sentence matches?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-004",
+      "alt_text": "There are 14 counters. Five are removed. Which number sentence matches?"
+    },
     "answers": [
       "14 − 5 = 9",
       "14 + 5 = 19",
-      "9 − 5 = 4",
-      "5 + 5 = 10"
+      "9 − 5 = 4"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E14%20counters,%20then%20remove%205%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E14%20counters%20and%205%20counters%20are%20removed%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%20counters,%20then%20remove%205%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22327%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22369%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22411%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22453%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22145%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2238%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%E2%88%92%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3C%2Fsvg%3E",
-    "imageAlt": "There are 14 counters. Five are removed. Which number sentence matches?"
+    "explanation": "Removing a part means subtraction: 14 − 5 = 9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Removing a part means subtraction: 14 − 5 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-005",
@@ -74,14 +122,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "count on",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
-    "explanation": "The jumps add 7 altogether: 6 + 4 + 3 = 13.",
-    "correct": 13,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECount%20on%20from%206%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECount%20on%20from%206%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Cline%20x1%3D%22132.5%22%20y1%3D%22147%22%20x2%3D%22132.5%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22132.5%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cline%20x1%3D%22195.0%22%20y1%3D%22147%22%20x2%3D%22195.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22195.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22257.5%22%20y1%3D%22147%22%20x2%3D%22257.5%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22257.5%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%22147%22%20x2%3D%22320.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22382.5%22%20y1%3D%22147%22%20x2%3D%22382.5%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22382.5%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22445.0%22%20y1%3D%22147%22%20x2%3D%22445.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22445.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22507.5%22%20y1%3D%22147%22%20x2%3D%22507.5%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22507.5%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cpath%20d%3D%22M%2070.0%20150%20Q%20195.0%20110%20320.0%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22320.0,150%20308.0,143%20310.0,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22195.0%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%2B4%3C%2Ftext%3E%3Cpath%20d%3D%22M%20320.0%20150%20Q%20413.75%2098%20507.5%20150%22%20fill%3D%22none%22%20stroke%3D%22%23f97316%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22507.5,150%20495.5,143%20497.5,156%22%20fill%3D%22%23f97316%22%2F%3E%3Ctext%20x%3D%22413.75%22%20y%3D%22103%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23f97316%22%20text-anchor%3D%22middle%22%3E%2B3%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECount%20on%20from%206%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
+    "visual": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-005",
+      "alt_text": "Follow the jumps from 6: jump 4 to 10, then 3 more. Where do you land?"
+    },
+    "answers": [
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 1,
+    "explanation": "The jumps add 7 altogether: 6 + 4 + 3 = 13.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "The jumps add 7 altogether: 6 + 4 + 3 = 13.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-006",
@@ -89,14 +151,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "count back",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Start at 15 and count back 4. What is the answer?",
-    "explanation": "Counting back four steps gives 14, 13, 12, 11.",
-    "correct": 11,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECount%20back%20from%2015%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECount%20back%20from%2015%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22153.33333333333331%22%20y1%3D%22147%22%20x2%3D%22153.33333333333331%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22153.33333333333331%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22236.66666666666666%22%20y1%3D%22147%22%20x2%3D%22236.66666666666666%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22236.66666666666666%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%22147%22%20x2%3D%22320.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22403.3333333333333%22%20y1%3D%22147%22%20x2%3D%22403.3333333333333%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22403.3333333333333%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cline%20x1%3D%22486.6666666666667%22%20y1%3D%22147%22%20x2%3D%22486.6666666666667%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22486.6666666666667%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E16%3C%2Ftext%3E%3Cpath%20d%3D%22M%20486.6666666666667%20150%20Q%20320.0%20110%20153.33333333333331%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22153.33333333333331,150%20141.33333333333331,143%20143.33333333333331,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%E2%88%924%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECount%20back%20from%2015%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Start at 15 and count back 4. What is the answer?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Start at 15 and count back 4. What is the answer?",
+    "visual": "Start at 15 and count back 4. What is the answer?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Start at 15 and count back 4. What is the answer?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-006",
+      "alt_text": "Start at 15 and count back 4. What is the answer?"
+    },
+    "answers": [
+      "10",
+      "12",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "Counting back four steps gives 14, 13, 12, 11.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Counting back four steps gives 14, 13, 12, 11.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-007",
@@ -106,16 +182,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which split makes 9 + 6 easiest?",
-    "explanation": "Split 6 into 1 and 5. Then 9 + 1 = 10 and 10 + 5 = 15.",
+    "audioPrompt": "Which split makes 9 + 6 easiest?",
+    "visual": "Which split makes 9 + 6 easiest?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which split makes 9 + 6 easiest?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-007",
+      "alt_text": "Which split makes 9 + 6 easiest?"
+    },
     "answers": [
       "9 + 1 + 5",
       "9 + 3 + 3",
-      "6 + 6 + 6",
-      "10 + 6 + 1"
+      "6 + 6 + 6"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ESplit%206%20to%20make%20ten%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%206%20with%20parts%201%20and%205%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E1%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ESplit%206%20to%20make%20ten%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which split makes 9 + 6 easiest?"
+    "explanation": "Split 6 into 1 and 5. Then 9 + 1 = 10 and 10 + 5 = 15.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Split 6 into 1 and 5. Then 9 + 1 = 10 and 10 + 5 = 15.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-008",
@@ -123,14 +209,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "make ten",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Use the ten-frames to solve 8 + 7.",
-    "explanation": "Move 2 from 7 to fill the first frame: 10 + 5 = 15.",
-    "correct": 15,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Emake%20ten%20first%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETen-frame%20counters%20showing%208%20and%207%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22166%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Crect%20x%3D%22370%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22583%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22370%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22466%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Emake%20ten%20first%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Use the ten-frames to solve 8 + 7.",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Use the ten-frames to solve 8 + 7.",
+    "visual": "Use the ten-frames to solve 8 + 7.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Use the ten-frames to solve 8 + 7.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-008",
+      "alt_text": "Use the ten-frames to solve 8 + 7."
+    },
+    "answers": [
+      "14",
+      "15",
+      "16"
+    ],
+    "correct": 1,
+    "explanation": "Move 2 from 7 to fill the first frame: 10 + 5 = 15.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Move 2 from 7 to fill the first frame: 10 + 5 = 15.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-009",
@@ -138,14 +238,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "use doubles",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "What is double 7?",
-    "explanation": "A double has two equal parts: 7 + 7 = 14.",
-    "correct": 14,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Edouble%207%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETen-frame%20counters%20showing%207%20and%207%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22166%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Crect%20x%3D%22370%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22583%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22370%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22466%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Edouble%207%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "What is double 7?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "What is double 7?",
+    "visual": "What is double 7?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is double 7?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-009",
+      "alt_text": "What is double 7?"
+    },
+    "answers": [
+      "13",
+      "15",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "A double has two equal parts: 7 + 7 = 14.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "A double has two equal parts: 7 + 7 = 14.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-010",
@@ -155,16 +269,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which idea helps solve 6 + 7?",
-    "explanation": "6 + 7 is one more than double 6: 12 + 1 = 13.",
+    "audioPrompt": "Which idea helps solve 6 + 7?",
+    "visual": "Which idea helps solve 6 + 7?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which idea helps solve 6 + 7?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-010",
+      "alt_text": "Which idea helps solve 6 + 7?"
+    },
     "answers": [
       "Double 6, then add 1",
       "Double 7, then add 7",
-      "Make 6 smaller by 6",
-      "Count back from 7"
+      "Make 6 smaller by 6"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ENear%20double%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E6%20%2B%206%20%2B%201%20equals%206%20%2B%207%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2236%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ENear%20double%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Crect%20x%3D%22360%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22175%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%20%2B%206%20%2B%201%3C%2Ftext%3E%3Ctext%20x%3D%22465%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%20%2B%207%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3D%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which idea helps solve 6 + 7?"
+    "explanation": "6 + 7 is one more than double 6: 12 + 1 = 13.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "6 + 7 is one more than double 6: 12 + 1 = 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-011",
@@ -172,14 +296,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "partition subtraction",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
-    "explanation": "13 − 3 = 10 and 10 − 2 = 8.",
-    "correct": 8,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EPartition%205%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EPartition%205%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cline%20x1%3D%22141.42857142857144%22%20y1%3D%22147%22%20x2%3D%22141.42857142857144%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22141.42857142857144%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22212.85714285714286%22%20y1%3D%22147%22%20x2%3D%22212.85714285714286%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22212.85714285714286%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22284.2857142857143%22%20y1%3D%22147%22%20x2%3D%22284.2857142857143%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22284.2857142857143%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22355.7142857142857%22%20y1%3D%22147%22%20x2%3D%22355.7142857142857%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22355.7142857142857%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22427.14285714285717%22%20y1%3D%22147%22%20x2%3D%22427.14285714285717%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22427.14285714285717%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22498.57142857142856%22%20y1%3D%22147%22%20x2%3D%22498.57142857142856%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22498.57142857142856%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cpath%20d%3D%22M%20498.57142857142856%20150%20Q%20391.42857142857144%20110%20284.2857142857143%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22284.2857142857143,150%20272.2857142857143,143%20274.2857142857143,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22391.42857142857144%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%E2%88%923%3C%2Ftext%3E%3Cpath%20d%3D%22M%20284.2857142857143%20150%20Q%20212.85714285714286%2098%20141.42857142857144%20150%22%20fill%3D%22none%22%20stroke%3D%22%23f97316%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22141.42857142857144,150%20129.42857142857144,143%20131.42857142857144,156%22%20fill%3D%22%23f97316%22%2F%3E%3Ctext%20x%3D%22212.85714285714286%22%20y%3D%22103%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23f97316%22%20text-anchor%3D%22middle%22%3E%E2%88%922%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EPartition%205%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
+    "visual": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-011",
+      "alt_text": "Solve 13 − 5 by subtracting 3 to reach 10, then subtracting 2 more."
+    },
+    "answers": [
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "13 − 3 = 10 and 10 − 2 = 8.\nHint: Show the starting amount, take away the given part, then count what remains.",
+    "structuredExplanation": {
+      "summary": "13 − 3 = 10 and 10 − 2 = 8.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-012",
@@ -189,16 +327,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which strategy correctly solves 18 − 9?",
-    "explanation": "Subtract 10, then add 1 back because 9 is one less than 10.",
+    "audioPrompt": "Which strategy correctly solves 18 − 9?",
+    "visual": "Which strategy correctly solves 18 − 9?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which strategy correctly solves 18 − 9?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-012",
+      "alt_text": "Which strategy correctly solves 18 − 9?"
+    },
     "answers": [
-      "18 − 10 + 1 = 9",
       "18 − 10 − 1 = 7",
       "18 + 9 = 27",
-      "9 − 8 = 1"
+      "18 − 10 + 1 = 9"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ESubtract%209%20efficiently%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E18%20%E2%88%92%2010%20%2B%201%20equals%2018%20%E2%88%92%209%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2236%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ESubtract%209%20efficiently%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Crect%20x%3D%22360%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22175%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E18%20%E2%88%92%2010%20%2B%201%3C%2Ftext%3E%3Ctext%20x%3D%22465%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E18%20%E2%88%92%209%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3D%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which strategy correctly solves 18 − 9?"
+    "correct": 2,
+    "explanation": "Subtract 10, then add 1 back because 9 is one less than 10.\nHint: Show the starting amount, take away the given part, then count what remains.",
+    "structuredExplanation": {
+      "summary": "Subtract 10, then add 1 back because 9 is one less than 10.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-013",
@@ -208,16 +356,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Because 7 + 8 = 15, which subtraction fact is also true?",
-    "explanation": "Addition and subtraction are related. Removing one part from 15 leaves the other part.",
+    "audioPrompt": "Because 7 + 8 = 15, which subtraction fact is also true?",
+    "visual": "Because 7 + 8 = 15, which subtraction fact is also true?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Because 7 + 8 = 15, which subtraction fact is also true?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-013",
+      "alt_text": "Because 7 + 8 = 15, which subtraction fact is also true?"
+    },
     "answers": [
       "15 − 7 = 8",
       "15 − 8 = 6",
-      "8 − 7 = 15",
-      "7 − 15 = 8"
+      "8 − 7 = 15"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ERelated%20facts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2015%20with%20parts%207%20and%208%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ERelated%20facts%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Because 7 + 8 = 15, which subtraction fact is also true?"
+    "explanation": "Addition and subtraction are related. Removing one part from 15 leaves the other part.\nHint: Show the starting amount, take away the given part, then count what remains.",
+    "structuredExplanation": {
+      "summary": "Addition and subtraction are related. Removing one part from 15 leaves the other part.",
+      "hint": "Show the starting amount, take away the given part, then count what remains."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-014",
@@ -225,22 +383,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "fact family",
     "printable": true,
-    "type": "multiple",
-    "question": "Which two facts belong to the same fact family as 6 + 9 = 15?",
-    "explanation": "The same whole and parts make 9 + 6 = 15 and 15 − 6 = 9.",
+    "type": "single",
+    "question": "Which two facts belong to the same fact family as 6 + 9 = 15? Choose the group with all the correct answers.",
+    "audioPrompt": "Which two facts belong to the same fact family as 6 + 9 = 15? Choose the group with all the correct answers.",
+    "visual": "Which two facts belong to the same fact family as 6 + 9 = 15?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which two facts belong to the same fact family as 6 + 9 = 15?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-014",
+      "alt_text": "Which two facts belong to the same fact family as 6 + 9 = 15?"
+    },
     "answers": [
       "9 + 6 = 15",
-      "15 − 6 = 9",
-      "15 + 6 = 21",
-      "9 − 6 = 3"
+      "9 + 6 = 15, 15 − 6 = 9",
+      "9 + 6 = 15, 15 + 6 = 21"
     ],
-    "correct": [
-      0,
-      1
-    ],
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E6,%209%20and%2015%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2015%20with%20parts%206%20and%209%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6,%209%20and%2015%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which two facts belong to the same fact family as 6 + 9 = 15?",
-    "instruction": "Select all correct answers."
+    "correct": 1,
+    "explanation": "The same whole and parts make 9 + 6 = 15 and 15 − 6 = 9.\nHint: Line up the ends and compare how far each object reaches.",
+    "structuredExplanation": {
+      "summary": "The same whole and parts make 9 + 6 = 15 and 15 − 6 = 9.",
+      "hint": "Line up the ends and compare how far each object reaches."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-015",
@@ -248,14 +412,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "missing addend",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "What number makes the equation true: ___ + 8 = 17?",
-    "explanation": "The missing part is 9 because 9 + 8 = 17.",
-    "correct": 9,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20other%20part%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2017%20with%20parts%208%20and%20%3F%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20other%20part%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "What number makes the equation true: ___ + 8 = 17?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "What number makes the equation true: ___ + 8 = 17?",
+    "visual": "What number makes the equation true: ___ + 8 = 17?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number makes the equation true: ___ + 8 = 17?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-015",
+      "alt_text": "What number makes the equation true: ___ + 8 = 17?"
+    },
+    "answers": [
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "The missing part is 9 because 9 + 8 = 17.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "The missing part is 9 because 9 + 8 = 17.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-016",
@@ -263,14 +441,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "missing subtrahend",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "What number is missing: 16 − ___ = 9?",
-    "explanation": "The removed part is 7 because 9 + 7 = 16.",
-    "correct": 7,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20removed%20part%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2016%20with%20parts%209%20and%20%3F%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E16%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20removed%20part%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "What number is missing: 16 − ___ = 9?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "What number is missing: 16 − ___ = 9?",
+    "visual": "What number is missing: 16 − ___ = 9?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What number is missing: 16 − ___ = 9?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-016",
+      "alt_text": "What number is missing: 16 − ___ = 9?"
+    },
+    "answers": [
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "The removed part is 7 because 9 + 7 = 16.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The removed part is 7 because 9 + 7 = 16.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-017",
@@ -278,14 +470,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "compare quantities",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
-    "explanation": "Find the difference: 14 − 8 = 6.",
-    "correct": 6,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECompare%20the%20amounts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3Ered%20tower%20has%2014%3B%20blue%20tower%20has%208%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECompare%20the%20amounts%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Ered%20tower%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%2265%22%20width%3D%22252%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Eblue%20tower%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%22145%22%20width%3D%22144%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22292%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22264%22%20y1%3D%22205%22%20x2%3D%22372%22%20y2%3D%22205%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22318.0%22%20y%3D%22232%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%238b5cf6%22%20text-anchor%3D%22middle%22%3Edifference%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
+    "visual": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-017",
+      "alt_text": "A red tower has 14 cubes and a blue tower has 8. How many more cubes are in the red tower?"
+    },
+    "answers": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "Find the difference: 14 − 8 = 6.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "Find the difference: 14 − 8 = 6.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-018",
@@ -293,14 +499,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "balance equal sign",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Complete the balance: 7 + 5 = 8 + ___.",
-    "explanation": "7 + 5 = 12, so the other side must also equal 12. 8 + 4 = 12.",
-    "correct": 4,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EBoth%20sides%20must%20match%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E7%20%2B%205%20equals%208%20%2B%20%3F%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2236%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EBoth%20sides%20must%20match%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Crect%20x%3D%22360%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22175%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%20%2B%205%3C%2Ftext%3E%3Ctext%20x%3D%22465%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%20%2B%20%3F%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3D%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Complete the balance: 7 + 5 = 8 + ___.",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Complete the balance: 7 + 5 = 8 + ___.",
+    "visual": "Complete the balance: 7 + 5 = 8 + ___.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Complete the balance: 7 + 5 = 8 + ___.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-018",
+      "alt_text": "Complete the balance: 7 + 5 = 8 + ___."
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "7 + 5 = 12, so the other side must also equal 12. 8 + 4 = 12.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "7 + 5 = 12, so the other side must also equal 12. 8 + 4 = 12.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-019",
@@ -310,33 +530,55 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which strategy is most efficient for 9 + 8?",
-    "explanation": "Making ten uses a known benchmark: 9 + 1 + 7 = 17.",
+    "audioPrompt": "Which strategy is most efficient for 9 + 8?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "Make ten: 9 + 1 + 7",
       "Count every object from 1",
-      "Subtract 8 from 9",
-      "Double 9 and add 8"
+      "Subtract 8 from 9"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "Making ten uses a known benchmark: 9 + 1 + 7 = 17.\nHint: Read the labels first, then count or compare the marks in the matching category.",
+    "structuredExplanation": {
+      "summary": "Making ten uses a known benchmark: 9 + 1 + 7 = 17.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-020",
     "curriculumCode": "AC9M1N04",
     "bank": "practice",
-    "skill": "use place-value fact",
+    "skill": "use place value fact",
     "printable": true,
     "type": "single",
     "question": "Which is the quickest correct way to solve 18 − 10?",
-    "explanation": "Subtracting 10 removes one group of ten, leaving 8.",
+    "audioPrompt": "Which is the quickest correct way to solve 18 − 10?",
+    "visual": "Which is the quickest correct way to solve 18 − 10?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which is the quickest correct way to solve 18 − 10?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-020",
+      "alt_text": "Which is the quickest correct way to solve 18 − 10?"
+    },
     "answers": [
-      "Remove one ten to get 8",
       "Count back eighteen steps",
-      "Add 10 to 18",
-      "Remove 8 to get 10"
+      "Remove one ten to get 8",
+      "Add 10 to 18"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E18%20is%2010%20and%208%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ETen-frame%20counters%20showing%2010%20and%208%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2291%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22118%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22139%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22187%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22214%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22235%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22262%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22283%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22166%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Crect%20x%3D%22370%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22535%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%2270%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22583%22%20cy%3D%2291%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22370%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22391%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22418%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22439%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22466%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22487%22%20cy%3D%22139%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22514%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Crect%20x%3D%22562%22%20y%3D%22118%22%20width%3D%2242%22%20height%3D%2242%22%20rx%3D%227%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%237890ad%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22466%22%20y%3D%22190%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22226%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E18%20is%2010%20and%208%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which is the quickest correct way to solve 18 − 10?"
+    "correct": 1,
+    "explanation": "Subtracting 10 removes one group of ten, leaving 8.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Subtracting 10 removes one group of ten, leaving 8.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-021",
@@ -344,14 +586,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "join story",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
-    "explanation": "The frogs join, so add: 5 + 7 = 12.",
-    "correct": 12,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Efrogs%20join%20the%20group%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E5%20counters%20and%207%20counters%20are%20joined%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Efrogs%20join%20the%20group%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22145%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2238%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%2B%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22327%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3C%2Fsvg%3E",
-    "imageAlt": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
+    "visual": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-021",
+      "alt_text": "Five frogs are on a log. Seven more frogs climb on. How many frogs are on the log now?"
+    },
+    "answers": [
+      "11",
+      "13",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "The frogs join, so add: 5 + 7 = 12.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "The frogs join, so add: 5 + 7 = 12.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-022",
@@ -359,29 +615,57 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "separate story",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "There are 16 pencils. Six are put away. How many pencils remain?",
-    "explanation": "Putting pencils away decreases the collection: 16 − 6 = 10.",
-    "correct": 10,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Eremove%206%20pencils%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E16%20counters%20and%206%20counters%20are%20removed%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eremove%206%20pencils%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22327%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22369%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22411%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22453%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%22134%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22145%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2238%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%E2%88%92%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3C%2Fsvg%3E",
-    "imageAlt": "There are 16 pencils. Six are put away. How many pencils remain?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "There are 16 pencils. Six are put away. How many pencils remain?",
+    "visual": "There are 16 pencils. Six are put away. How many pencils remain?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"There are 16 pencils. Six are put away. How many pencils remain?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-022",
+      "alt_text": "There are 16 pencils. Six are put away. How many pencils remain?"
+    },
+    "answers": [
+      "10",
+      "9",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "Putting pencils away decreases the collection: 16 − 6 = 10.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Putting pencils away decreases the collection: 16 − 6 = 10.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-023",
     "curriculumCode": "AC9M1N04",
     "bank": "practice",
-    "skill": "missing-part story",
+    "skill": "missing part story",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
-    "explanation": "The whole is 18 and one part is 11. The other part is 18 − 11 = 7.",
-    "correct": 7,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3Eblue%20and%20green%20parts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2018%20with%20parts%2011%20and%20%3F%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E18%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eblue%20and%20green%20parts%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
+    "visual": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-023",
+      "alt_text": "A box holds 18 crayons. Eleven are blue and the rest are green. How many are green?"
+    },
+    "answers": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "The whole is 18 and one part is 11. The other part is 18 − 11 = 7.\nHint: Compare how much each container can hold, not only how tall it looks.",
+    "structuredExplanation": {
+      "summary": "The whole is 18 and one part is 11. The other part is 18 − 11 = 7.",
+      "hint": "Compare how much each container can hold, not only how tall it looks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-024",
@@ -389,16 +673,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "check calculation",
     "printable": true,
-    "type": "true-false",
-    "question": "A child says 12 − 5 = 5. Is the statement true?",
-    "explanation": "12 − 5 = 7. You can check because 7 + 5 = 12.",
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "A child says 12 − 5 = 5. Is the statement true?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child says 12 − 5 = 5. Is the statement true?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-024",
+      "alt_text": "A child says 12 − 5 = 5. Is the statement true?"
+    },
     "answers": [
-      "True",
-      "False"
+      "A child says 12 − 5 = 5. Is the statement true?",
+      "The larger-looking digit always tells you which answer is correct.",
+      "12 − 5 = 7. You can check because 7 + 5 = 12."
     ],
-    "correct": 1,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECheck%20the%20parts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EWhole%2012%20with%20parts%205%20and%207%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ccircle%20cx%3D%22320%22%20cy%3D%2272%22%20r%3D%2248%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23d97706%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2280%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22295%22%20y1%3D%22112%22%20x2%3D%22205%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22345%22%20y1%3D%22112%22%20x2%3D%22435%22%20y2%3D%22158%22%20stroke%3D%22%23173968%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22190%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%2F%3E%3Ccircle%20cx%3D%22450%22%20cy%3D%22183%22%20r%3D%2245%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22190%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Ctext%20x%3D%22450%22%20y%3D%22192%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2227%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECheck%20the%20parts%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A child says 12 − 5 = 5. Is the statement true?"
+    "correct": 2,
+    "explanation": "12 − 5 = 7. You can check because 7 + 5 = 12.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "12 − 5 = 7. You can check because 7 + 5 = 12.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-025",
@@ -408,16 +704,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
-    "explanation": "Counting back by ones after 12 should give 11, not 10.",
+    "audioPrompt": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
+    "visual": "Mia counts back from 14: 14, 13, 12, 10. What happened?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia counts back from 14: 14, 13, 12, 10. What happened?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-025\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-025",
+      "alt_text": "Mia counts back from 14: 14, 13, 12, 10. What happened?"
+    },
     "answers": [
       "11 was skipped",
       "12 was counted twice",
-      "The count changed to adding",
-      "Nothing is wrong"
+      "The count changed to adding"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20skipped%20number%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFind%20the%20skipped%20number%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22153.33333333333331%22%20y1%3D%22147%22%20x2%3D%22153.33333333333331%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22153.33333333333331%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22236.66666666666666%22%20y1%3D%22147%22%20x2%3D%22236.66666666666666%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22236.66666666666666%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22320.0%22%20y1%3D%22147%22%20x2%3D%22320.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22403.3333333333333%22%20y1%3D%22147%22%20x2%3D%22403.3333333333333%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22403.3333333333333%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22486.6666666666667%22%20y1%3D%22147%22%20x2%3D%22486.6666666666667%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22486.6666666666667%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M%20486.6666666666667%20150%20Q%20445.0%20110%20403.3333333333333%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22403.3333333333333,150%20391.3333333333333,143%20393.3333333333333,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22445.0%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%E2%88%921%3C%2Ftext%3E%3Cpath%20d%3D%22M%20403.3333333333333%20150%20Q%20361.66666666666663%2098%20320.0%20150%22%20fill%3D%22none%22%20stroke%3D%22%23f97316%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22320.0,150%20308.0,143%20310.0,156%22%20fill%3D%22%23f97316%22%2F%3E%3Ctext%20x%3D%22361.66666666666663%22%20y%3D%22103%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23f97316%22%20text-anchor%3D%22middle%22%3E%E2%88%921%3C%2Ftext%3E%3Cpath%20d%3D%22M%20320.0%20150%20Q%20236.66666666666666%2086%20153.33333333333331%20150%22%20fill%3D%22none%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22153.33333333333331,150%20141.33333333333331,143%20143.33333333333331,156%22%20fill%3D%22%238b5cf6%22%2F%3E%3Ctext%20x%3D%22236.66666666666666%22%20y%3D%2291%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%238b5cf6%22%20text-anchor%3D%22middle%22%3Ewrong%20jump%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20skipped%20number%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Mia counts back from 14: 14, 13, 12, 10. What happened?"
+    "explanation": "Counting back by ones after 12 should give 11, not 10.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Counting back by ones after 12 should give 11, not 10.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-026",
@@ -427,41 +733,55 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which model does NOT show 13?",
-    "explanation": "9 + 5 = 14, so it does not show 13.",
+    "audioPrompt": "Which model does NOT show 13?",
+    "visual": "Which model does NOT show 13?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which model does NOT show 13?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-026\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-026",
+      "alt_text": "Which model does NOT show 13?"
+    },
     "answers": [
       "10 and 3",
-      "7 and 6",
-      "8 and 5",
-      "9 and 5"
+      "9 and 5",
+      "7 and 6"
     ],
-    "correct": 3,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECheck%20the%20whole%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECheck%20the%20whole%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECheck%20the%20whole%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22100%22%20width%3D%22321.42857142857144%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22230.71428571428572%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Crect%20x%3D%22391.42857142857144%22%20y%3D%22100%22%20width%3D%22178.57142857142858%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22480.7142857142857%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E5%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%2282%22%20x2%3D%22570%22%20y2%3D%2282%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270%22%20y1%3D%2276%22%20x2%3D%2270%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22570%22%20y1%3D%2276%22%20x2%3D%22570%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ewhole%20%3D%2014%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which model does NOT show 13?"
+    "correct": 1,
+    "explanation": "9 + 5 = 14, so it does not show 13.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "9 + 5 = 14, so it does not show 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-027",
     "curriculumCode": "AC9M1N04",
     "bank": "practice",
-    "skill": "sequence make-ten strategy",
+    "skill": "sequence make ten strategy",
     "printable": true,
-    "type": "order",
-    "question": "Put the steps for 8 + 7 in order.",
-    "explanation": "Make ten by first finding the part that fills 8 to 10.",
-    "correct": [
-      "Split 7 into 2 and 5",
-      "Add 2 to 8 to make 10",
-      "Add the leftover 5",
-      "State 15"
+    "type": "single",
+    "question": "Put the steps for 8 + 7 in order. Which order is correct?",
+    "audioPrompt": "Put the steps for 8 + 7 in order. Which order is correct?",
+    "visual": "Put the steps for 8 + 7 in order.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the steps for 8 + 7 in order.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-027\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-027",
+      "alt_text": "Put the steps for 8 + 7 in order."
+    },
+    "answers": [
+      "Add the leftover 5 → Split 7 into 2 and 5 → State 15 → Add 2 to 8 to make 10",
+      "State 15 → Add the leftover 5 → Add 2 to 8 to make 10 → Split 7 into 2 and 5",
+      "Split 7 into 2 and 5 → Add 2 to 8 to make 10 → Add the leftover 5 → State 15"
     ],
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E8%20%2B%207%20strategy%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3Esplit%207Then%20make%2010Then%20add%205Then%2015%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%20%2B%207%20strategy%3C%2Ftext%3E%3Crect%20x%3D%2260.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22115.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E1%3C%2Ftext%3E%3Ctext%20x%3D%22115.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Esplit%207%3C%2Ftext%3E%3Cline%20x1%3D%22173.0%22%20y1%3D%22118%22%20x2%3D%22192.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22192.0,118%20182.0,112%20182.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22190.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22245.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22245.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Emake%2010%3C%2Ftext%3E%3Cline%20x1%3D%22303.0%22%20y1%3D%22118%22%20x2%3D%22322.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22322.0,118%20312.0,112%20312.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22320.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22375.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Ctext%20x%3D%22375.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eadd%205%3C%2Ftext%3E%3Cline%20x1%3D%22433.0%22%20y1%3D%22118%22%20x2%3D%22452.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22452.0,118%20442.0,112%20442.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22450.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22505.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ctext%20x%3D%22505.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Put the steps for 8 + 7 in order.",
-    "items": [
-      "Add the leftover 5",
-      "Split 7 into 2 and 5",
-      "State 15",
-      "Add 2 to 8 to make 10"
-    ],
-    "instruction": "Use the arrows to put the steps in order."
+    "correct": 2,
+    "explanation": "Make ten by first finding the part that fills 8 to 10.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Make ten by first finding the part that fills 8 to 10.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n04-p-028",
@@ -471,16 +791,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which expression has the same value as 6 + 8?",
-    "explanation": "6 + 8 = 14 and 7 + 7 = 14. Both show the same total.",
+    "audioPrompt": "Which expression has the same value as 6 + 8?",
+    "visual": "Which expression has the same value as 6 + 8?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which expression has the same value as 6 + 8?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-028\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n04.svg#ac9m1n04-p-028",
+      "alt_text": "Which expression has the same value as 6 + 8?"
+    },
     "answers": [
       "7 + 7",
       "6 + 7",
-      "8 + 8",
-      "14 + 1"
+      "8 + 8"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ESame%20total%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E6%20%2B%208%20equals%207%20%2B%207%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2236%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ESame%20total%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%223%22%2F%3E%3Crect%20x%3D%22360%22%20y%3D%2280%22%20width%3D%22210%22%20height%3D%2280%22%20rx%3D%2214%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%2332945b%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22175%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%20%2B%208%3C%2Ftext%3E%3Ctext%20x%3D%22465%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%20%2B%207%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22130%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2236%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3D%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which expression has the same value as 6 + 8?"
+    "explanation": "6 + 8 = 14 and 7 + 7 = 14. Both show the same total.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "6 + 8 = 14 and 7 + 7 = 14. Both show the same total.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

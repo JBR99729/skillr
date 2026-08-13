@@ -8,16 +8,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which operation matches this story: 7 apples are joined by 5 more apples?",
-    "explanation": "The collection grows because more apples join, so use addition.",
+    "audioPrompt": "Which operation matches this story: 7 apples are joined by 5 more apples?",
+    "visual": "Which operation matches this story: 7 apples are joined by 5 more apples?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which operation matches this story: 7 apples are joined by 5 more apples?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-001",
+      "alt_text": "Which operation matches this story: 7 apples are joined by 5 more apples?"
+    },
     "answers": [
       "addition",
       "subtraction",
-      "equal sharing",
-      "measurement"
+      "equal sharing"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E7%20apples%20joined%20by%205%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3E7%20counters%20and%205%20counters%20are%20joined%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%20apples%20joined%20by%205%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22285%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22327%22%20cy%3D%2292%22%20r%3D%2214%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22145%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2238%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%2B%3C%2Ftext%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22117%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22159%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22201%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%22243%22%20cy%3D%22178%22%20r%3D%2214%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%2F%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which operation matches this story: 7 apples are joined by 5 more apples?"
+    "explanation": "The collection grows because more apples join, so use addition.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "The collection grows because more apples join, so use addition.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-002",
@@ -27,14 +37,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which operation matches: 14 tickets are printed and 6 are used?",
-    "explanation": "Using tickets removes them from the available collection, so subtract.",
+    "audioPrompt": "Which operation matches: 14 tickets are printed and 6 are used?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "subtraction",
       "addition",
-      "grouping",
-      "counting by tens only"
+      "subtraction",
+      "grouping"
     ],
-    "correct": 0
+    "correct": 1,
+    "explanation": "Using tickets removes them from the available collection, so subtract.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Using tickets removes them from the available collection, so subtract.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-003",
@@ -44,16 +66,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
-    "explanation": "“How many more?” compares the amounts, so find 12 − 8.",
+    "audioPrompt": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
+    "visual": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-003",
+      "alt_text": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?"
+    },
     "answers": [
-      "the difference",
       "the combined total",
       "the number of shelves",
-      "a repeated pattern"
+      "the difference"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECompare%20the%20amounts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3Etop%20shelf%20has%2012%3B%20bottom%20shelf%20has%208%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECompare%20the%20amounts%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Etop%20shelf%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%2265%22%20width%3D%22216%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22364%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3Ebottom%20shelf%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%22145%22%20width%3D%22144%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22292%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22264%22%20y1%3D%22205%22%20x2%3D%22336%22%20y2%3D%22205%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22300.0%22%20y%3D%22232%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%238b5cf6%22%20text-anchor%3D%22middle%22%3Edifference%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Two shelves hold 12 and 8 books. The question asks “how many more?” What should you find?"
+    "correct": 2,
+    "explanation": "“How many more?” compares the amounts, so find 12 − 8.\nHint: Compare how much each container can hold, not only how tall it looks.",
+    "structuredExplanation": {
+      "summary": "“How many more?” compares the amounts, so find 12 − 8.",
+      "hint": "Compare how much each container can hold, not only how tall it looks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-004",
@@ -63,14 +95,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "After 4 shells are added, the collection has 13. Which equation finds the starting number?",
-    "explanation": "Work backwards from the result: 13 − 4 = 9.",
+    "audioPrompt": "After 4 shells are added, the collection has 13. Which equation finds the starting number?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "13 − 4 = ?",
       "13 + 4 = ?",
-      "4 − 13 = ?",
-      "4 + 13 = ?"
+      "4 − 13 = ?"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "Work backwards from the result: 13 − 4 = 9.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "Work backwards from the result: 13 − 4 = 9.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-005",
@@ -78,29 +122,57 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "read total bar model",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "The bar model shows parts 6 and 7. What is the whole?",
-    "explanation": "Add the two parts: 6 + 7 = 13.",
-    "correct": 13,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20whole%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFind%20the%20whole%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20whole%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22100%22%20width%3D%22230.76923076923077%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22185.3846153846154%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E6%3C%2Ftext%3E%3Crect%20x%3D%22300.7692307692308%22%20y%3D%22100%22%20width%3D%22269.2307692307692%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22435.38461538461536%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E7%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%2282%22%20x2%3D%22570%22%20y2%3D%2282%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270%22%20y1%3D%2276%22%20x2%3D%2270%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22570%22%20y1%3D%2276%22%20x2%3D%22570%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ewhole%20%3D%2013%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The bar model shows parts 6 and 7. What is the whole?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "The bar model shows parts 6 and 7. What is the whole?",
+    "visual": "The bar model shows parts 6 and 7. What is the whole?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The bar model shows parts 6 and 7. What is the whole?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-005",
+      "alt_text": "The bar model shows parts 6 and 7. What is the whole?"
+    },
+    "answers": [
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 1,
+    "explanation": "Add the two parts: 6 + 7 = 13.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Add the two parts: 6 + 7 = 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-006",
     "curriculumCode": "AC9M1N05",
     "bank": "practice",
-    "skill": "read missing-part bar model",
+    "skill": "read missing part bar model",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "The whole is 17. One part is 9. What is the missing part?",
-    "explanation": "17 − 9 = 8.",
-    "correct": 8,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EFind%20the%20missing%20part%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EFind%20the%20missing%20part%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EFind%20the%20missing%20part%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22100%22%20width%3D%22450.0%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22295.0%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Crect%20x%3D%22520.0%22%20y%3D%22100%22%20width%3D%2250.0%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22545.0%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%2282%22%20x2%3D%22570%22%20y2%3D%2282%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270%22%20y1%3D%2276%22%20x2%3D%2270%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22570%22%20y1%3D%2276%22%20x2%3D%22570%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ewhole%20%3D%2017%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "The whole is 17. One part is 9. What is the missing part?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "The whole is 17. One part is 9. What is the missing part?",
+    "visual": "The whole is 17. One part is 9. What is the missing part?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The whole is 17. One part is 9. What is the missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-006",
+      "alt_text": "The whole is 17. One part is 9. What is the missing part?"
+    },
+    "answers": [
+      "7",
+      "9",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "17 − 9 = 8.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "17 − 9 = 8.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-007",
@@ -108,14 +180,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "model joining on number line",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A child starts at 8 and makes a jump of 6. Where does the child land?",
-    "explanation": "8 + 6 = 14.",
-    "correct": 14,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EJoin%20by%20counting%20on%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EJoin%20by%20counting%20on%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22141.42857142857144%22%20y1%3D%22147%22%20x2%3D%22141.42857142857144%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22141.42857142857144%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22212.85714285714286%22%20y1%3D%22147%22%20x2%3D%22212.85714285714286%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22212.85714285714286%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22284.2857142857143%22%20y1%3D%22147%22%20x2%3D%22284.2857142857143%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22284.2857142857143%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22355.7142857142857%22%20y1%3D%22147%22%20x2%3D%22355.7142857142857%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22355.7142857142857%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22427.14285714285717%22%20y1%3D%22147%22%20x2%3D%22427.14285714285717%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22427.14285714285717%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22498.57142857142856%22%20y1%3D%22147%22%20x2%3D%22498.57142857142856%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22498.57142857142856%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cpath%20d%3D%22M%2070.0%20150%20Q%20141.42857142857144%20110%20212.85714285714286%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22212.85714285714286,150%20200.85714285714286,143%20202.85714285714286,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22141.42857142857144%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%2B2%3C%2Ftext%3E%3Cpath%20d%3D%22M%20212.85714285714286%20150%20Q%20355.7142857142857%2098%20498.57142857142856%20150%22%20fill%3D%22none%22%20stroke%3D%22%23f97316%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22498.57142857142856,150%20486.57142857142856,143%20488.57142857142856,156%22%20fill%3D%22%23f97316%22%2F%3E%3Ctext%20x%3D%22355.7142857142857%22%20y%3D%22103%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23f97316%22%20text-anchor%3D%22middle%22%3E%2B4%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EJoin%20by%20counting%20on%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A child starts at 8 and makes a jump of 6. Where does the child land?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A child starts at 8 and makes a jump of 6. Where does the child land?",
+    "visual": "A child starts at 8 and makes a jump of 6. Where does the child land?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 8 and makes a jump of 6. Where does the child land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-007",
+      "alt_text": "A child starts at 8 and makes a jump of 6. Where does the child land?"
+    },
+    "answers": [
+      "14",
+      "13",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "8 + 6 = 14.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "8 + 6 = 14.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-008",
@@ -123,14 +209,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "model removal on number line",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A child starts at 16 and jumps back 7. Where does the child land?",
-    "explanation": "16 − 7 = 9.",
-    "correct": 9,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ERemove%20by%20counting%20back%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ERemove%20by%20counting%20back%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Cline%20x1%3D%2270%22%20y1%3D%22155%22%20x2%3D%22570%22%20y2%3D%22155%22%20stroke%3D%22%23173968%22%20stroke-width%3D%225%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270.0%22%20y1%3D%22147%22%20x2%3D%2270.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%2270.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E8%3C%2Ftext%3E%3Cline%20x1%3D%22125.55555555555554%22%20y1%3D%22147%22%20x2%3D%22125.55555555555554%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22125.55555555555554%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22181.1111111111111%22%20y1%3D%22147%22%20x2%3D%22181.1111111111111%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22181.1111111111111%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E10%3C%2Ftext%3E%3Cline%20x1%3D%22236.66666666666666%22%20y1%3D%22147%22%20x2%3D%22236.66666666666666%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22236.66666666666666%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E11%3C%2Ftext%3E%3Cline%20x1%3D%22292.2222222222222%22%20y1%3D%22147%22%20x2%3D%22292.2222222222222%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22292.2222222222222%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E12%3C%2Ftext%3E%3Cline%20x1%3D%22347.77777777777777%22%20y1%3D%22147%22%20x2%3D%22347.77777777777777%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22347.77777777777777%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E13%3C%2Ftext%3E%3Cline%20x1%3D%22403.3333333333333%22%20y1%3D%22147%22%20x2%3D%22403.3333333333333%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22403.3333333333333%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E14%3C%2Ftext%3E%3Cline%20x1%3D%22458.8888888888889%22%20y1%3D%22147%22%20x2%3D%22458.8888888888889%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22458.8888888888889%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Cline%20x1%3D%22514.4444444444443%22%20y1%3D%22147%22%20x2%3D%22514.4444444444443%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22514.4444444444443%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E16%3C%2Ftext%3E%3Cline%20x1%3D%22570.0%22%20y1%3D%22147%22%20x2%3D%22570.0%22%20y2%3D%22163%22%20stroke%3D%22%23173968%22%20stroke-width%3D%222%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22570.0%22%20y%3D%22187%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E17%3C%2Ftext%3E%3Cpath%20d%3D%22M%20514.4444444444443%20150%20Q%20347.7777777777777%20110%20181.1111111111111%20150%22%20fill%3D%22none%22%20stroke%3D%22%233b82f6%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22181.1111111111111,150%20169.1111111111111,143%20171.1111111111111,156%22%20fill%3D%22%233b82f6%22%2F%3E%3Ctext%20x%3D%22347.7777777777777%22%20y%3D%22115%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%233b82f6%22%20text-anchor%3D%22middle%22%3E%E2%88%926%3C%2Ftext%3E%3Cpath%20d%3D%22M%20181.1111111111111%20150%20Q%20153.33333333333331%2098%20125.55555555555554%20150%22%20fill%3D%22none%22%20stroke%3D%22%23f97316%22%20stroke-width%3D%226%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22125.55555555555554,150%20113.55555555555554,143%20115.55555555555554,156%22%20fill%3D%22%23f97316%22%2F%3E%3Ctext%20x%3D%22153.33333333333331%22%20y%3D%22103%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%23f97316%22%20text-anchor%3D%22middle%22%3E%E2%88%921%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ERemove%20by%20counting%20back%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A child starts at 16 and jumps back 7. Where does the child land?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A child starts at 16 and jumps back 7. Where does the child land?",
+    "visual": "A child starts at 16 and jumps back 7. Where does the child land?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child starts at 16 and jumps back 7. Where does the child land?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-008",
+      "alt_text": "A child starts at 16 and jumps back 7. Where does the child land?"
+    },
+    "answers": [
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "16 − 7 = 9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "16 − 7 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-009",
@@ -138,12 +238,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve join problem",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "There are 8 children at a table. Five more sit down. How many children are there now?",
-    "explanation": "The groups join: 8 + 5 = 13.",
-    "correct": 13,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "There are 8 children at a table. Five more sit down. How many children are there now?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "12",
+      "14",
+      "13"
+    ],
+    "correct": 2,
+    "explanation": "The groups join: 8 + 5 = 13.\nHint: Read the labels first, then count or compare the marks in the matching category.",
+    "structuredExplanation": {
+      "summary": "The groups join: 8 + 5 = 13.",
+      "hint": "Read the labels first, then count or compare the marks in the matching category."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-010",
@@ -151,12 +267,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve separate problem",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A basket has 18 oranges. Seven are used. How many remain?",
-    "explanation": "The basket loses 7 oranges: 18 − 7 = 11.",
-    "correct": 11,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A basket has 18 oranges. Seven are used. How many remain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "11",
+      "10",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "The basket loses 7 oranges: 18 − 7 = 11.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The basket loses 7 oranges: 18 − 7 = 11.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-011",
@@ -164,14 +296,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve comparison problem",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
-    "explanation": "Compare by subtracting: 15 − 9 = 6.",
-    "correct": 6,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECompare%20the%20amounts%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ELeo%20has%2015%3B%20Ana%20has%209%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2235%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECompare%20the%20amounts%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3ELeo%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%2265%22%20width%3D%22270%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%233b82f6%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22418%22%20y%3D%2292%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E15%3C%2Ftext%3E%3Ctext%20x%3D%2270%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22start%22%3EAna%3C%2Ftext%3E%3Crect%20x%3D%22120%22%20y%3D%22145%22%20width%3D%22162%22%20height%3D%2240%22%20rx%3D%228%22%20fill%3D%22%23f59e0b%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22310%22%20y%3D%22172%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2220%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Cline%20x1%3D%22282%22%20y1%3D%22205%22%20x2%3D%22390%22%20y2%3D%22205%22%20stroke%3D%22%238b5cf6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22336.0%22%20y%3D%22232%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2216%22%20font-weight%3D%22700%22%20fill%3D%22%238b5cf6%22%20text-anchor%3D%22middle%22%3Edifference%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
+    "visual": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-011",
+      "alt_text": "Leo has 15 blocks. Ana has 9. How many more blocks does Leo have?"
+    },
+    "answers": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "Compare by subtracting: 15 − 9 = 6.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "Compare by subtracting: 15 − 9 = 6.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-012",
@@ -179,12 +325,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve missing start",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Five birds land beside some birds. There are now 14. How many birds were there first?",
-    "explanation": "The starting number plus 5 equals 14, so 14 − 5 = 9.",
-    "correct": 9,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Five birds land beside some birds. There are now 14. How many birds were there first?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "The starting number plus 5 equals 14, so 14 − 5 = 9.\nHint: Count the sides, corners or faces, then match those features to the shape.",
+    "structuredExplanation": {
+      "summary": "The starting number plus 5 equals 14, so 14 − 5 = 9.",
+      "hint": "Count the sides, corners or faces, then match those features to the shape."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-013",
@@ -192,12 +354,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve missing change",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A jar had 16 beads. Some were removed and 10 remain. How many were removed?",
-    "explanation": "The missing change is 16 − 10 = 6.",
-    "correct": 6,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A jar had 16 beads. Some were removed and 10 remain. How many were removed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "6",
+      "5",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "The missing change is 16 − 10 = 6.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The missing change is 16 − 10 = 6.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-014",
@@ -205,12 +383,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "solve missing result",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A class has 11 red folders and 7 blue folders. How many folders altogether?",
-    "explanation": "The two parts combine: 11 + 7 = 18.",
-    "correct": 18,
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A class has 11 red folders and 7 blue folders. How many folders altogether?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "17",
+      "18",
+      "19"
+    ],
+    "correct": 1,
+    "explanation": "The two parts combine: 11 + 7 = 18.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "The two parts combine: 11 + 7 = 18.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-015",
@@ -220,14 +414,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which equation matches: “There were 13 ducks. Four swam away.”?",
-    "explanation": "Swam away means the collection decreased: 13 − 4 = 9.",
+    "audioPrompt": "Which equation matches: “There were 13 ducks. Four swam away.”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "13 − 4 = 9",
       "13 + 4 = 17",
       "9 − 4 = 5",
-      "4 + 4 = 8"
+      "13 − 4 = 9"
     ],
-    "correct": 0
+    "correct": 2,
+    "explanation": "Swam away means the collection decreased: 13 − 4 = 9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Swam away means the collection decreased: 13 − 4 = 9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-016",
@@ -237,14 +443,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which story matches 7 + 6 = 13?",
-    "explanation": "The equation combines two parts, 7 and 6, to make 13.",
+    "audioPrompt": "Which story matches 7 + 6 = 13?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "7 toy cars and 6 more are joined",
       "13 cars and 6 are removed",
-      "7 cars are shared by 6 children",
-      "13 cars are compared with 13 cars"
+      "7 cars are shared by 6 children"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "The equation combines two parts, 7 and 6, to make 13.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "The equation combines two parts, 7 and 6, to make 13.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-017",
@@ -252,14 +470,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "count money",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "What is the total value of the play coins?",
-    "explanation": "$2 + $2 + $2 + $1 = $7.",
-    "correct": 7,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECount%20the%20coins%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECoins%20showing%20%242,%20%242,%20%242,%20%241%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECount%20the%20coins%3C%2Ftext%3E%3Ccircle%20cx%3D%22185.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22185.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22275.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22275.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22365.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22365.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22455.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23fbbf24%22%20stroke%3D%22%237c4a03%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22455.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%241%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22210%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ecount%20the%20value%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "What is the total value of the play coins?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "What is the total value of the play coins?",
+    "visual": "What is the total value of the play coins?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"What is the total value of the play coins?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-017",
+      "alt_text": "What is the total value of the play coins?"
+    },
+    "answers": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "$2 + $2 + $2 + $1 = $7.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "$2 + $2 + $2 + $1 = $7.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-018",
@@ -267,22 +499,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "make exact payment",
     "printable": true,
-    "type": "multiple",
-    "question": "Which two collections pay exactly $8?",
-    "explanation": "Four $2 coins make $8. A $5, $2 and $1 also make $8.",
+    "type": "single",
+    "question": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
+    "audioPrompt": "Which two collections pay exactly $8? Choose the group with all the correct answers.",
+    "visual": "Which two collections pay exactly $8?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which two collections pay exactly $8?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-018",
+      "alt_text": "Which two collections pay exactly $8?"
+    },
     "answers": [
       "$2 + $2 + $2 + $2",
-      "$5 + $2 + $1",
-      "$5 + $5",
-      "$2 + $2 + $1"
+      "$2 + $2 + $2 + $2, $5 + $5",
+      "$2 + $2 + $2 + $2, $5 + $2 + $1"
     ],
-    "correct": [
-      0,
-      1
-    ],
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EOne%20way%20to%20pay%20%248%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECoins%20showing%20%242,%20%242,%20%242,%20%242%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EOne%20way%20to%20pay%20%248%3C%2Ftext%3E%3Ccircle%20cx%3D%22185.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22185.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22275.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22275.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22365.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22365.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22455.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22455.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22210%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ecount%20the%20value%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which two collections pay exactly $8?",
-    "instruction": "Select all correct answers."
+    "correct": 2,
+    "explanation": "Four $2 coins make $8. A $5, $2 and $1 also make $8.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Four $2 coins make $8. A $5, $2 and $1 also make $8.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-019",
@@ -290,14 +528,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "combine prices",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A book costs $6 and a puzzle costs $7. What is the total cost?",
-    "explanation": "Add the prices: $6 + $7 = $13.",
-    "correct": 13,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECombine%20two%20prices%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20book%20costs%20%246,%20puzzle%20costs%20%247%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECombine%20two%20prices%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ebook%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%246%3C%2Ftext%3E%3Crect%20x%3D%22248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Epuzzle%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%247%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A book costs $6 and a puzzle costs $7. What is the total cost?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A book costs $6 and a puzzle costs $7. What is the total cost?",
+    "visual": "A book costs $6 and a puzzle costs $7. What is the total cost?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A book costs $6 and a puzzle costs $7. What is the total cost?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-019",
+      "alt_text": "A book costs $6 and a puzzle costs $7. What is the total cost?"
+    },
+    "answers": [
+      "13",
+      "12",
+      "14"
+    ],
+    "correct": 0,
+    "explanation": "Add the prices: $6 + $7 = $13.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "Add the prices: $6 + $7 = $13.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-020",
@@ -305,14 +557,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "money remaining",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "Mia has $15 and spends $6. How much money remains?",
-    "explanation": "Spending decreases the amount: $15 − $6 = $9.",
-    "correct": 9,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EMoney%20after%20buying%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20item%20costs%20%246%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EMoney%20after%20buying%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eitem%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%246%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22218%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EMoney%20available%3A%20%2415%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Mia has $15 and spends $6. How much money remains?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "Mia has $15 and spends $6. How much money remains?",
+    "visual": "Mia has $15 and spends $6. How much money remains?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Mia has $15 and spends $6. How much money remains?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-020",
+      "alt_text": "Mia has $15 and spends $6. How much money remains?"
+    },
+    "answers": [
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "Spending decreases the amount: $15 − $6 = $9.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Spending decreases the amount: $15 − $6 = $9.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-021",
@@ -320,14 +586,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "compare prices",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
-    "explanation": "Find the difference: $12 − $8 = $4.",
-    "correct": 4,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3ECompare%20prices%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20kite%20costs%20%2412,%20ball%20costs%20%248%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3ECompare%20prices%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ekite%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%2412%3C%2Ftext%3E%3Crect%20x%3D%22248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eball%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%248%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
+    "visual": "A kite costs $12 and a ball costs $8. How much more does the kite cost?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A kite costs $12 and a ball costs $8. How much more does the kite cost?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-021",
+      "alt_text": "A kite costs $12 and a ball costs $8. How much more does the kite cost?"
+    },
+    "answers": [
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Find the difference: $12 − $8 = $4.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "Find the difference: $12 − $8 = $4.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-022",
@@ -337,16 +617,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
-    "explanation": "$10 + $2 + $2 = $14, exactly the price.",
+    "audioPrompt": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
+    "visual": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-022",
+      "alt_text": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?"
+    },
     "answers": [
       "Yes, he has exactly $14",
       "No, he has only $12",
-      "Yes, he has $16",
-      "No, because coins cannot be combined"
+      "Yes, he has $16"
     ],
     "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3E%2410%20note%20plus%20these%20coins%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3ECoins%20showing%20%242,%20%242%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2234%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%2410%20note%20plus%20these%20coins%3C%2Ftext%3E%3Ccircle%20cx%3D%22275.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22275.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ccircle%20cx%3D%22365.0%22%20cy%3D%22125%22%20r%3D%2234%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%224%22%2F%3E%3Ctext%20x%3D%22365.0%22%20y%3D%22133%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%242%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22210%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ecount%20the%20value%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A toy costs $14. Noah has $10 and two $2 coins. Does he have enough?"
+    "explanation": "$10 + $2 + $2 = $14, exactly the price.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "$10 + $2 + $2 = $14, exactly the price.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-023",
@@ -356,16 +646,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which representation best shows a whole of 16 split into 9 and a missing part?",
-    "explanation": "A part-part-whole or bar model shows the known whole and parts.",
+    "audioPrompt": "Which representation best shows a whole of 16 split into 9 and a missing part?",
+    "visual": "Which representation best shows a whole of 16 split into 9 and a missing part?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Which representation best shows a whole of 16 split into 9 and a missing part?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-023",
+      "alt_text": "Which representation best shows a whole of 16 split into 9 and a missing part?"
+    },
     "answers": [
-      "a part-part-whole or bar model",
       "a calendar",
-      "a shape pattern",
-      "a weather chart"
+      "a part-part-whole or bar model",
+      "a shape pattern"
     ],
-    "correct": 0,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EChoose%20a%20useful%20model%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EChoose%20a%20useful%20model%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2242%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EChoose%20a%20useful%20model%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22100%22%20width%3D%22450.0%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22295.0%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E9%3C%2Ftext%3E%3Crect%20x%3D%22520.0%22%20y%3D%22100%22%20width%3D%2250.0%22%20height%3D%2272%22%20rx%3D%220%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22545.0%22%20y%3D%22144%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2222%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3E%3F%3C%2Ftext%3E%3Cline%20x1%3D%2270%22%20y1%3D%2282%22%20x2%3D%22570%22%20y2%3D%2282%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%2270%22%20y1%3D%2276%22%20x2%3D%2270%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Cline%20x1%3D%22570%22%20y1%3D%2276%22%20x2%3D%22570%22%20y2%3D%2288%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%2F%3E%3Ctext%20x%3D%22320%22%20y%3D%2272%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Ewhole%20%3D%2016%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Which representation best shows a whole of 16 split into 9 and a missing part?"
+    "correct": 1,
+    "explanation": "A part-part-whole or bar model shows the known whole and parts.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "A part-part-whole or bar model shows the known whole and parts.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-024",
@@ -373,24 +673,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "sequence modelling process",
     "printable": true,
-    "type": "order",
-    "question": "Put the problem-solving steps in order.",
-    "explanation": "Understand the story first, represent it, solve it, then state the answer clearly.",
-    "correct": [
-      "Read what changes",
-      "Choose an operation and model",
-      "Calculate and check",
-      "Answer with the correct unit"
+    "type": "single",
+    "question": "Put the problem-solving steps in order. Which order is correct?",
+    "audioPrompt": "Put the problem-solving steps in order. Which order is correct?",
+    "visual": "Put the problem-solving steps in order.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put the problem-solving steps in order.\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-024",
+      "alt_text": "Put the problem-solving steps in order."
+    },
+    "answers": [
+      "Calculate and check → Read what changes → Answer with the correct unit → Choose an operation and model",
+      "Answer with the correct unit → Calculate and check → Choose an operation and model → Read what changes",
+      "Read what changes → Choose an operation and model → Calculate and check → Answer with the correct unit"
     ],
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EModel%20a%20story%20problem%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EreadThen%20modelThen%20solveThen%20label%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EModel%20a%20story%20problem%3C%2Ftext%3E%3Crect%20x%3D%2260.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23dbeafe%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22115.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E1%3C%2Ftext%3E%3Ctext%20x%3D%22115.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Eread%3C%2Ftext%3E%3Cline%20x1%3D%22173.0%22%20y1%3D%22118%22%20x2%3D%22192.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22192.0,118%20182.0,112%20182.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22190.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23dcfce7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22245.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E2%3C%2Ftext%3E%3Ctext%20x%3D%22245.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Emodel%3C%2Ftext%3E%3Cline%20x1%3D%22303.0%22%20y1%3D%22118%22%20x2%3D%22322.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22322.0,118%20312.0,112%20312.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22320.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23fef3c7%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22375.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E3%3C%2Ftext%3E%3Ctext%20x%3D%22375.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Esolve%3C%2Ftext%3E%3Cline%20x1%3D%22433.0%22%20y1%3D%22118%22%20x2%3D%22452.0%22%20y2%3D%22118%22%20stroke%3D%22%232457d6%22%20stroke-width%3D%224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpolygon%20points%3D%22452.0,118%20442.0,112%20442.0,124%22%20fill%3D%22%232457d6%22%2F%3E%3Crect%20x%3D%22450.0%22%20y%3D%2282%22%20width%3D%22110.0%22%20height%3D%2272%22%20rx%3D%2212%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22505.0%22%20y%3D%22112%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E4%3C%2Ftext%3E%3Ctext%20x%3D%22505.0%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Elabel%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "Put the problem-solving steps in order.",
-    "items": [
-      "Calculate and check",
-      "Read what changes",
-      "Answer with the correct unit",
-      "Choose an operation and model"
-    ],
-    "instruction": "Use the arrows to put the steps in order."
+    "correct": 2,
+    "explanation": "Understand the story first, represent it, solve it, then state the answer clearly.\nHint: Find what changes or repeats each time, then use the same rule once more.",
+    "structuredExplanation": {
+      "summary": "Understand the story first, represent it, solve it, then state the answer clearly.",
+      "hint": "Find what changes or repeats each time, then use the same rule once more."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-025",
@@ -400,14 +704,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "A box has 12 balls. It needs 5 more to be full. Why is addition used?",
-    "explanation": "The situation describes adding balls until the box is full; the meaning, not one keyword, chooses the operation.",
+    "audioPrompt": "A box has 12 balls. It needs 5 more to be full. Why is addition used?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
       "The missing balls will join the 12",
       "The word “more” always means subtract",
-      "The box is losing balls",
-      "Colour decides the operation"
+      "The box is losing balls"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "The situation describes adding balls until the box is full; the meaning, not one keyword, chooses the operation.\nHint: Start with the first amount and count on the second amount.",
+    "structuredExplanation": {
+      "summary": "The situation describes adding balls until the box is full; the meaning, not one keyword, chooses the operation.",
+      "hint": "Start with the first amount and count on the second amount."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-026",
@@ -417,14 +733,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "A child says 9 stickers plus 6 stickers equals 3. What is the best check?",
-    "explanation": "Joining 6 to 9 must make the collection larger, so 3 is not reasonable.",
+    "audioPrompt": "A child says 9 stickers plus 6 stickers equals 3. What is the best check?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The total must be greater than 9 because a positive group was added",
       "The answer must always be smaller",
-      "Ignore the story",
-      "Replace addition with sharing"
+      "The total must be greater than 9 because a positive group was added",
+      "Ignore the story"
     ],
-    "correct": 0
+    "correct": 1,
+    "explanation": "Joining 6 to 9 must make the collection larger, so 3 is not reasonable.\nHint: Count each amount carefully, then compare the two totals.",
+    "structuredExplanation": {
+      "summary": "Joining 6 to 9 must make the collection larger, so 3 is not reasonable.",
+      "hint": "Count each amount carefully, then compare the two totals."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-027",
@@ -434,14 +762,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "question": "Which equation checks 18 − 7 = 11?",
-    "explanation": "Add the remaining amount and the removed amount to rebuild the whole.",
+    "audioPrompt": "Which equation checks 18 − 7 = 11?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "11 + 7 = 18",
       "18 + 7 = 25",
       "11 − 7 = 4",
-      "7 + 7 = 14"
+      "11 + 7 = 18"
     ],
-    "correct": 0
+    "correct": 2,
+    "explanation": "Add the remaining amount and the removed amount to rebuild the whole.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Add the remaining amount and the removed amount to rebuild the whole.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9m1n05-p-028",
@@ -449,14 +789,28 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "skill": "mixed money transaction",
     "printable": true,
-    "type": "number",
+    "type": "single",
     "question": "A child has $20. They buy a game for $13. How much remains?",
-    "explanation": "Subtract the cost from the amount available: $20 − $13 = $7.",
-    "correct": 7,
-    "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2213cm%22%20height%3D%225cm%22%20viewBox%3D%220%200%20640%20250%22%20role%3D%22img%22%20aria-labelledby%3D%22title%20desc%22%3E%0A%3Ctitle%20id%3D%22title%22%3EMoney%20left%20after%20a%20purchase%3C%2Ftitle%3E%3Cdesc%20id%3D%22desc%22%3EShop%20items%3A%20game%20costs%20%2413%3C%2Fdesc%3E%0A%3Crect%20width%3D%22640%22%20height%3D%22250%22%20rx%3D%2224%22%20fill%3D%22%23f8fbff%22%2F%3E%0A%3Ctext%20x%3D%22320%22%20y%3D%2230%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2223%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EMoney%20left%20after%20a%20purchase%3C%2Ftext%3E%3Crect%20x%3D%2248%22%20y%3D%2265%22%20width%3D%22144%22%20height%3D%2296%22%20rx%3D%2214%22%20fill%3D%22%23fee2e2%22%20stroke%3D%22%23173968%22%20stroke-width%3D%223%22%2F%3E%3Ctext%20x%3D%22120%22%20y%3D%22102%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2218%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3Egame%3C%2Ftext%3E%3Ctext%20x%3D%22120%22%20y%3D%22140%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2224%22%20font-weight%3D%22700%22%20fill%3D%22%232457d6%22%20text-anchor%3D%22middle%22%3E%2413%3C%2Ftext%3E%3Ctext%20x%3D%22320%22%20y%3D%22218%22%20font-family%3D%22Arial,Helvetica,sans-serif%22%20font-size%3D%2221%22%20font-weight%3D%22700%22%20fill%3D%22%23173968%22%20text-anchor%3D%22middle%22%3EMoney%20available%3A%20%2420%3C%2Ftext%3E%3C%2Fsvg%3E",
-    "imageAlt": "A child has $20. They buy a game for $13. How much remains?",
-    "tolerance": 0,
-    "placeholder": "Type the number"
+    "audioPrompt": "A child has $20. They buy a game for $13. How much remains?",
+    "visual": "A child has $20. They buy a game for $13. How much remains?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child has $20. They buy a game for $13. How much remains?\"><use href=\"/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-maths-ac9m1n05.svg#ac9m1n05-p-028",
+      "alt_text": "A child has $20. They buy a game for $13. How much remains?"
+    },
+    "answers": [
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "Subtract the cost from the amount available: $20 − $13 = $7.\nHint: Use the picture or numbers to test each answer, then choose the one that matches exactly.",
+    "structuredExplanation": {
+      "summary": "Subtract the cost from the amount available: $20 − $13 = $7.",
+      "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
