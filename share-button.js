@@ -92,11 +92,22 @@
     });
   }
 
+  function loadFirstVisitOnboarding() {
+    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
+    if (document.querySelector('script[data-skillr-onboarding]')) return;
+    var script = document.createElement("script");
+    script.src = "/assets/first-visit-onboarding.js?v=20260814-1";
+    script.defer = true;
+    script.setAttribute("data-skillr-onboarding", "");
+    document.body.appendChild(script);
+  }
+
   function initSiteHelpers() {
     if (!document.body) return;
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
     initSharePrompts();
+    loadFirstVisitOnboarding();
   }
 
   window.SkillrShare = shareSkillrHub;
