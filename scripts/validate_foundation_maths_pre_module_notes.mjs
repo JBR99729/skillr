@@ -203,7 +203,7 @@ for (const marker of [
 }
 assert(/\.pre-module-section p,\s*\.pre-module-section li\s*\{[^}]*overflow-wrap:\s*anywhere/s.test(styles), "Visible refresher prose must wrap instead of truncating");
 assert(!/\.pre-module-card\s*\{[^}]*overflow:\s*hidden/s.test(styles), "Refresher card must not hide overflowing content");
-assert(serviceWorker.includes('url.pathname === "/quiz/assets/foundation-maths-pre-module-notes.js"'), "Mandatory note data must use the critical network-first service-worker path");
+assert(serviceWorker.includes('url.pathname.endsWith("-pre-module-notes.js")'), "Mandatory note data must use the critical network-first service-worker path");
 
 if (errors.length) {
   errors.forEach((error) => console.error(`FAIL ${error}`));

@@ -14,6 +14,7 @@ on:
       - "assets/foundation-*.js"
       - "scripts/validate_foundation_maths_pre_module_notes.mjs"
       - "scripts/validate_foundation_maths_pre_module_flow.mjs"
+      - "scripts/validate_pre_module_flow.mjs"
       - "scripts/validate_curriculum_read_aloud.mjs"
       - "scripts/build_foundation_maths_live_routes.py"
       - "service-worker.js"
@@ -32,6 +33,7 @@ on:
       - "assets/foundation-*.js"
       - "scripts/validate_foundation_maths_pre_module_notes.mjs"
       - "scripts/validate_foundation_maths_pre_module_flow.mjs"
+      - "scripts/validate_pre_module_flow.mjs"
       - "scripts/validate_curriculum_read_aloud.mjs"
       - "scripts/build_foundation_maths_live_routes.py"
       - "service-worker.js"
@@ -54,6 +56,8 @@ jobs:
         run: |
           node --check quiz/assets/foundation-maths-pre-module-notes.js
           node --check quiz/assets/script.js
+          node --check scripts/validate_foundation_maths_pre_module_flow.mjs
+          node --check scripts/validate_pre_module_flow.mjs
           node --check service-worker.js
 
       - name: Validate Foundation Maths pre-module notes and launch wiring
