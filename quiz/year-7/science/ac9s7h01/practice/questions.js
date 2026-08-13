@@ -1,107 +1,28 @@
 "use strict";
-window.quizQuestions = [
-  {
-    "id": "ac9s7h01-01",
-    "type": "single",
-    "question": "Which option best describes the skill being practised?",
-    "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "investigate and represent balanced and unbalanced forces, including…",
-      "use particle theory to describe the arrangement of particles in a substance,…",
-      "use a particle model to describe differences between pure substances and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-02",
-    "type": "single",
-    "question": "Which task gives the best practice for this skill?",
-    "answers": [
-      "investigate how cultural perspectives and world views influence the…",
-      "exploring how scientists are re-examining the relationships between organisms…",
-      "examine how proposed scientific responses to contemporary issues may impact…",
-      "explore the role of science communication in informing individual viewpoints…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "develop investigable questions, reasoned predictions and hypotheses to…",
-      "plan and conduct reproducible investigations to answer questions and test…",
-      "researching developments in the understanding of astronomy, such as the…",
-      "select and use equipment to generate and record data with precision, using…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "select and construct appropriate representations, including tables, graphs,…",
-      "analyse data and information to describe patterns, trends and relationships…",
-      "analyse methods, conclusions and claims for assumptions, possible sources of…",
-      "investigating how aeronautical engineers’ understanding of the nature of the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-05",
-    "type": "single",
-    "question": "Which statement best summarises this topic?",
-    "answers": [
-      "explain how new evidence or different perspectives can lead to changes in…",
-      "construct evidence-based arguments to support conclusions or evaluate claims…",
-      "write and create texts to communicate ideas, findings and arguments for…",
-      "observing and identifying the similarities and differences of particular…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-06",
-    "type": "single",
-    "question": "Which task would give useful extra practice?",
-    "answers": [
-      "creating and modifying a dichotomous key to classify organisms into groups…",
-      "investigating how aeronautical engineers’ understanding of the nature of the…",
-      "naming and classifying species using scientific conventions from the Linnaean…",
-      "considering the reasons for classifying living things, such as identification…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "examining how biological classification has changed over time through…",
-      "using provided dichotomous keys to identify organisms surveyed on a field trip",
-      "investigating how aeronautical engineers’ understanding of the nature of the…",
-      "analysing food webs to show feeding relationships between organisms in an…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  },
-  {
-    "id": "ac9s7h01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "modelling how energy flows into and out of an ecosystem via the pathways of…",
-      "predicting the effects on local ecosystems when living things such…",
-      "examining how events such as seasonal changes, destruction of habitat or…",
-      "explain how new evidence or different perspectives can lead to changes in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S7H01: explain how new evidence or different perspectives can lead to changes in…."
-  }
+const q=(id,question,answers,correct,explanation)=>({id,type:"single",question,answers,correct,explanation});
+window.quizQuestions=[
+q("ac9s7h01-p01","Early astronomers predicted eclipses from repeated observations. Later models explained why eclipses occur. What best shows how scientific knowledge changed?",["The explanation improved when a model accounted for more evidence.","Scientists stopped using observations once a model existed.","The first explanation became correct because it was older.","Eclipses changed because scientists described them differently."],0,"Scientific explanations are refined when new models explain existing and new evidence more successfully."),
+q("ac9s7h01-p02","Two frog populations look almost identical, so they were once classified as one species. DNA evidence later shows they are genetically distinct. What is the best scientific response?",["Ignore the DNA because appearance is easier to observe.","Reconsider the classification using the new genetic evidence.","Keep the old classification because scientific names never change.","Classify them by habitat only."],1,"Classification can be revised when new evidence reveals relationships that were not visible from appearance alone."),
+q("ac9s7h01-p03","A medicine was first thought to work because most patients improved. A later controlled trial shows the same recovery rate in patients who did not receive it. What should scientists conclude?",["The medicine must work because some patients improved.","The controlled trial is irrelevant because it came later.","The earlier claim needs revision because stronger evidence does not support it.","Both claims are equally reliable regardless of method."],2,"Better-controlled evidence can overturn an earlier conclusion that was based on weaker evidence."),
+q("ac9s7h01-p04","A fossil is discovered with features of two groups previously thought to be unrelated. What would scientists most reasonably do?",["Discard the fossil because it conflicts with the current model.","Change all classifications immediately without further study.","Assume the fossil is fake until proven otherwise.","Compare the fossil with other evidence and test whether relationships should be revised."],3,"New evidence should be tested against existing evidence before scientific relationships are revised."),
+q("ac9s7h01-p05","Why can two scientific teams reach different interpretations from the same dataset?",["They may use different assumptions or models when interpreting incomplete evidence.","One team must always be dishonest.","Scientific evidence has no role in conclusions.","Data automatically gives only one possible explanation."],0,"Evidence constrains explanations, but assumptions, models and uncertainty can lead to different interpretations."),
+q("ac9s7h01-p06","A satellite records a planet's orbit more precisely than earlier telescopes. The new measurements do not fit the old predicted path. What is the strongest reason to revisit the model?",["New measurements are newer, so they are automatically correct.","The model should be tested against the more precise evidence.","Older measurements should be deleted.","Models are opinions and do not need evidence."],1,"Models are evaluated by how well their predictions match reliable evidence, especially when measurement improves."),
+q("ac9s7h01-p07","A school text says stomach ulcers are mainly caused by stress. New research repeatedly finds a bacterium in many ulcer patients and successful treatment with antibiotics. What does this illustrate?",["Scientific ideas cannot change once printed.","A new claim is accepted as soon as one scientist suggests it.","Repeated evidence can lead to revision of an accepted explanation.","Stress was never studied scientifically."],2,"Consistent evidence from multiple studies can cause an accepted scientific explanation to be revised."),
+q("ac9s7h01-p08","A short wildlife survey misses a seasonal behaviour recorded in 20 years of carefully dated volunteer observations. What is the most scientific response?",["Reject the long-term records because volunteers collected them.","Use only the short survey because it is recent.","Assume both sources must give identical results.","Compare both evidence sets and examine their methods, duration and reliability."],3,"Different evidence sources can contribute useful observations when their quality and limitations are evaluated."),
+q("ac9s7h01-p09","Which feature makes new evidence more likely to change a scientific explanation?",["It is reproducible and directly relevant to the explanation.","It is popular on social media.","It agrees with a scientist's personal preference.","It comes from a single unrecorded observation."],0,"Relevant, reproducible evidence has greater weight than popularity or unsupported opinion."),
+q("ac9s7h01-p10","Scientists once grouped whales with fish because both live in water. Evidence from anatomy, reproduction and DNA supports grouping whales with mammals. Why?",["Habitat is always the strongest classification evidence.","Multiple independent lines of evidence support the mammal relationship.","Whales changed from fish into mammals recently.","Classification is based only on body size."],1,"Converging evidence from several sources provides a stronger basis for classification."),
+q("ac9s7h01-p11","A researcher proposes that a comet returns every 60 years. Historical records show appearances roughly 75 years apart. What should happen next?",["Keep the 60-year claim because it was proposed scientifically.","Choose whichever interval sounds simpler.","Revise or reject the claim unless further evidence supports it.","Average 60 and 75 without explanation."],2,"Predictions must be compared with evidence; disagreement should trigger revision or further testing."),
+q("ac9s7h01-p12","A model explains most observations but fails in one extreme condition. What is the best next step?",["Throw away all scientific models.","Ignore the failed condition.","Assume the observation is wrong.","Investigate the mismatch and test whether the model needs limits or revision."],3,"Unexpected results can reveal where a model is incomplete."),
+q("ac9s7h01-p13","Why is peer review useful when scientific knowledge is changing?",["Other experts can check methods, reasoning and whether conclusions match the evidence.","It guarantees every published idea is permanently correct.","It replaces the need for experiments.","It allows majority opinion to override data."],0,"Peer review can identify weaknesses in methods and reasoning before claims are accepted more widely."),
+q("ac9s7h01-p14","A new microscope reveals structures inside cells that could not be seen before. How can technology affect scientific knowledge?",["Technology only changes how results are presented.","Better tools can provide new evidence that leads to refined explanations.","Technology makes previous evidence worthless.","Scientific knowledge changes only when terminology changes."],1,"New technology can extend observation and measurement, producing evidence unavailable earlier."),
+q("ac9s7h01-p15","One climate dataset covers 3 years; another covers 80 years using calibrated instruments. They suggest different long-term trends. Which is generally more useful for a long-term claim?",["The 3-year dataset because it is shorter.","Whichever dataset has the larger individual values.","The 80-year calibrated dataset because it better represents long-term variation.","Both are equally informative for all questions."],2,"Evidence should match the timescale of the claim; long calibrated records are stronger for long-term trends."),
+q("ac9s7h01-p16","A scientist's explanation is challenged by a team with detailed observations of a local ecosystem collected over many years. What should determine whether the explanation changes?",["The scientist's job title.","Which group speaks more confidently.","Which team collected the data first.","How well the combined evidence supports or contradicts the explanation."],3,"Scientific revision should depend on the quality and relevance of evidence, not status or seniority."),
+q("ac9s7h01-p17","Which statement best describes scientific knowledge?",["It is evidence-based and can be refined when better evidence or explanations emerge.","It changes randomly whenever scientists disagree.","It is a collection of facts that can never be revised.","It is based mainly on personal beliefs."],0,"Scientific knowledge is durable but provisional: it can be refined when evidence warrants change."),
+q("ac9s7h01-p18","A study is repeated by three independent teams and all obtain a different result from the original study. What should scientists do?",["Keep the original conclusion because it was first.","Reassess the original claim and investigate why results differ.","Average all conclusions without checking methods.","Stop studying the question because disagreement is unscientific."],1,"Independent replication is an important test of reliability and may expose weaknesses in an original claim."),
+q("ac9s7h01-p19","Why might an old scientific model remain useful even after a more accurate model is developed?",["Older models are always easier, so accuracy does not matter.","The newer model must be wrong if the older one still works.","The older model may still make sufficiently accurate predictions within a limited range.","Scientific models cannot be replaced."],2,"A model can remain useful within known limits even when a more complete model exists."),
+q("ac9s7h01-p20","A new species classification is proposed from one unusual photograph. What additional evidence would most strengthen the proposal?",["A more dramatic photograph.","A vote from students.","A longer species name.","Repeated observations plus anatomical or genetic evidence."],3,"Independent and converging evidence strengthens classification claims."),
+q("ac9s7h01-p21","Which situation is the clearest example of a change in scientific knowledge caused by new evidence?",["A planet's estimated mass is revised after more precise measurements.","A science book changes its cover design.","A researcher uses a new font in a graph.","A laboratory moves to another building."],0,"Scientific knowledge changes when evidence leads to a revised measurement, explanation or model."),
+q("ac9s7h01-p22","A team claims a bird species has declined because of one unusually quiet morning survey. What is the main weakness?",["Birds cannot be counted scientifically.","The evidence is too limited to support a population trend.","Population size never changes.","Morning surveys are always invalid."],1,"A population trend requires repeated, representative observations rather than a single snapshot."),
+q("ac9s7h01-p23","Two models explain the same observations, but only one correctly predicts what happens in a new experiment. Which model gains stronger support?",["The older model.","The more complicated model.","The model whose prediction matched the new evidence.","Both models equally, because prediction does not matter."],2,"Successful prediction of new evidence is a strong test of a scientific model."),
+q("ac9s7h01-p24","Why should scientists record uncertainty when reporting measurements?",["To make results look less certain than they are.","Because uncertainty proves the experiment failed.","So any conclusion can be defended.","Because knowing measurement limits helps judge whether evidence truly supports a difference."],3,"Measurement uncertainty helps scientists decide whether apparent differences are meaningful.")
 ];
