@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9s5u01-p-001",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "During a habitat survey, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "audio_prompt": "During a habitat survey, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-001",
+      "alt_text": "During a habitat survey: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-002",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "At the school science table, which explanation best links a possum feeding at night to survival?",
+    "audio_prompt": "At the school science table, which explanation best links a possum feeding at night to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-002",
+      "alt_text": "At the school science table: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces daytime heat exposure",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-003",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "While examining a creek, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "audio_prompt": "While examining a creek, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-003",
+      "alt_text": "While examining a creek: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-004",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "In a classroom investigation, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "audio_prompt": "In a classroom investigation, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-004",
+      "alt_text": "In a classroom investigation: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-005",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "During a garden observation, which explanation best links a possum feeding at night to survival?",
+    "audio_prompt": "During a garden observation, which explanation best links a possum feeding at night to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-005",
+      "alt_text": "During a garden observation: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces daytime heat exposure",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-006",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "At the coastal field station, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "audio_prompt": "At the coastal field station, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-006",
+      "alt_text": "At the coastal field station: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-007",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "While comparing samples, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "audio_prompt": "While comparing samples, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-007",
+      "alt_text": "While comparing samples: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-008",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "In the school laboratory, which explanation best links a penguin's thick feather layer to survival?",
+    "audio_prompt": "In the school laboratory, which explanation best links a penguin's thick feather layer to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-008",
+      "alt_text": "In the school laboratory: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces heat loss",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-009",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "During a weather study, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "audio_prompt": "During a weather study, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-009",
+      "alt_text": "During a weather study: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-010",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "At the wildlife centre, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "audio_prompt": "At the wildlife centre, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-010",
+      "alt_text": "At the wildlife centre: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-011",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "While reviewing a data table, which explanation best links a penguin's thick feather layer to survival?",
+    "audio_prompt": "While reviewing a data table, which explanation best links a penguin's thick feather layer to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-011",
+      "alt_text": "While reviewing a data table: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces heat loss",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-012",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "In a materials investigation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "audio_prompt": "In a materials investigation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-012",
+      "alt_text": "In a materials investigation: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-013",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "During an outdoor observation, students observe a possum feeding at night. How should this adaptation be classified?",
+    "audio_prompt": "During an outdoor observation, students observe a possum feeding at night. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-013",
+      "alt_text": "During an outdoor observation: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-014",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "At the community science fair, which explanation best links birds migrating when food becomes scarce to survival?",
+    "audio_prompt": "At the community science fair, which explanation best links birds migrating when food becomes scarce to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-014",
+      "alt_text": "At the community science fair: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "helps them reach seasonal food",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-015",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "While planning a fair test, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "audio_prompt": "While planning a fair test, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-015",
+      "alt_text": "While planning a fair test: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-016",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "In a digital science journal, students observe a possum feeding at night. How should this adaptation be classified?",
+    "audio_prompt": "In a digital science journal, students observe a possum feeding at night. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-016",
+      "alt_text": "In a digital science journal: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-017",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "During a light investigation, which explanation best links birds migrating when food becomes scarce to survival?",
+    "audio_prompt": "During a light investigation, which explanation best links birds migrating when food becomes scarce to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-017",
+      "alt_text": "During a light investigation: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "helps them reach seasonal food",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-018",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "At the local wetland, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "audio_prompt": "At the local wetland, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-018",
+      "alt_text": "At the local wetland: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-019",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "While checking another group's method, students observe a penguin's thick feather layer. How should this adaptation be classified?",
+    "audio_prompt": "While checking another group's method, students observe a penguin's thick feather layer. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-019",
+      "alt_text": "While checking another group's method: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-020",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "In a model-building lesson, which explanation best links a mangrove's wide roots to survival?",
+    "audio_prompt": "In a model-building lesson, which explanation best links a mangrove's wide roots to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-020",
+      "alt_text": "In a model-building lesson: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "supports the plant in soft mud",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-021",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "During a temperature investigation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a desert plant's waxy leaf surface.",
+    "audio_prompt": "During a temperature investigation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a desert plant's waxy leaf surface.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-021",
+      "alt_text": "During a temperature investigation: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-022",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "classify_an_adaptation",
+    "question": "At the environmental centre, students observe a penguin's thick feather layer. How should this adaptation be classified?",
+    "audio_prompt": "At the environmental centre, students observe a penguin's thick feather layer. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-022",
+      "alt_text": "At the environmental centre: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-023",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_an_adaptation",
+    "question": "While preparing a science report, which explanation best links a mangrove's wide roots to survival?",
+    "audio_prompt": "While preparing a science report, which explanation best links a mangrove's wide roots to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-023",
+      "alt_text": "While preparing a science report: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "supports the plant in soft mud",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-p-024",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "In a research discussion, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a desert plant's waxy leaf surface.",
+    "audio_prompt": "In a research discussion, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a desert plant's waxy leaf surface.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-p-024",
+      "alt_text": "In a research discussion: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-001",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "During a desert field study, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "audio_prompt": "During a desert field study, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-001",
+      "alt_text": "During a desert field study: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-002",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_an_adaptation",
+    "question": "At a marine research centre, which explanation best links a possum feeding at night to survival?",
+    "audio_prompt": "At a marine research centre, which explanation best links a possum feeding at night to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-002",
+      "alt_text": "At a marine research centre: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces daytime heat exposure",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-003",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "While examining a riverbank, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "audio_prompt": "While examining a riverbank, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-003",
+      "alt_text": "While examining a riverbank: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-004",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "In an independent investigation, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "audio_prompt": "In an independent investigation, students observe a lizard sheltering under rock at midday. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-004",
+      "alt_text": "In an independent investigation: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-005",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_an_adaptation",
+    "question": "During a forest survey, which explanation best links a possum feeding at night to survival?",
+    "audio_prompt": "During a forest survey, which explanation best links a possum feeding at night to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-005",
+      "alt_text": "During a forest survey: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces daytime heat exposure",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-006",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "At a regional science exhibition, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "audio_prompt": "At a regional science exhibition, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is birds migrating when food becomes scarce.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-006",
+      "alt_text": "At a regional science exhibition: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-007",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "While analysing unfamiliar evidence, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "audio_prompt": "While analysing unfamiliar evidence, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-007",
+      "alt_text": "While analysing unfamiliar evidence: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-008",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_an_adaptation",
+    "question": "In a testing laboratory, which explanation best links a penguin's thick feather layer to survival?",
+    "audio_prompt": "In a testing laboratory, which explanation best links a penguin's thick feather layer to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-008",
+      "alt_text": "In a testing laboratory: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces heat loss",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-009",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "During a landscape study, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "audio_prompt": "During a landscape study, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-009",
+      "alt_text": "During a landscape study: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-010",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "At a conservation project, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "audio_prompt": "At a conservation project, students observe a desert plant's waxy leaf surface. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-010",
+      "alt_text": "At a conservation project: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "structural feature",
+        "is_correct": true
+      },
+      {
+        "text": "behaviour",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is a physical characteristic of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-011",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_an_adaptation",
+    "question": "While auditing a results table, which explanation best links a penguin's thick feather layer to survival?",
+    "audio_prompt": "While auditing a results table, which explanation best links a penguin's thick feather layer to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-011",
+      "alt_text": "While auditing a results table: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "reduces heat loss",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-012",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "In a design evaluation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "audio_prompt": "In a design evaluation, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a mangrove's wide roots.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-012",
+      "alt_text": "In a design evaluation: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-013",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "During a mountain field study, students observe a possum feeding at night. How should this adaptation be classified?",
+    "audio_prompt": "During a mountain field study, students observe a possum feeding at night. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-013",
+      "alt_text": "During a mountain field study: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-014",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_an_adaptation",
+    "question": "At a public science forum, which explanation best links birds migrating when food becomes scarce to survival?",
+    "audio_prompt": "At a public science forum, which explanation best links birds migrating when food becomes scarce to survival?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-014",
+      "alt_text": "At a public science forum: explain an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "it guarantees survival in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "helps them reach seasonal food",
+        "is_correct": true
+      },
+      {
+        "text": "the organism chose to develop it during one day",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The feature or behaviour can improve success under the stated habitat conditions.",
+      "hint": "Link the environmental challenge to a mechanism, not just appearance."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-015",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "evaluate_adaptation_evidence",
+    "question": "While reviewing a new procedure, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "audio_prompt": "While reviewing a new procedure, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is a lizard sheltering under rock at midday.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-015",
+      "alt_text": "While reviewing a new procedure: evaluate adaptation evidence, shown as a three-step evidence reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "one photograph with no comparison",
+        "is_correct": false
+      },
+      {
+        "text": "a vote on which feature looks best",
+        "is_correct": false
+      },
+      {
+        "text": "repeated observations comparing access, protection or survival under relevant conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated comparative observations provide stronger evidence than appearance or opinion.",
+      "hint": "Look for repeated evidence tied to the proposed survival mechanism."
+    }
+  },
+  {
+    "id": "ac9s5u01-t-016",
+    "curriculum_code": "AC9S5U01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "test",
+    "skill": "classify_an_adaptation",
+    "question": "In a multimedia science presentation, students observe a possum feeding at night. How should this adaptation be classified?",
+    "audio_prompt": "In a multimedia science presentation, students observe a possum feeding at night. How should this adaptation be classified?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u01.svg#ac9s5u01-t-016",
+      "alt_text": "In a multimedia science presentation: classify an adaptation, shown as a three-step organism reasoning pathway."
+    },
+    "answers": [
+      {
+        "text": "behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "structural feature",
+        "is_correct": false
+      },
+      {
+        "text": "temporary weather condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example is an action of the organism.",
+      "hint": "Ask whether it is something the organism does or a body feature."
+    }
+  }
+]
