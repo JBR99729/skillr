@@ -2,11 +2,30 @@
 (() => {
   const LEVELS = ["easy","easy","core","core","core","application","application","challenge"];
   const YN = y => y === "F" ? 0 : Number(y);
-  const q = (year, skill, set, pos, type, question, extra={}) => ({
-    id:`m-${year}-${skill}-s${set+1}-q${pos+1}`,
-    year, subject:"math", skill, set,
-    difficulty:LEVELS[pos], type, question, ...extra
-  });
+  const q = (year, skill, set, pos, type, question, extra={}) => {
+    const item={
+      id:`m-${year}-${skill}-s${set+1}-q${pos+1}`,
+      year, subject:"math", skill, set,
+      difficulty:LEVELS[pos], type, question, ...extra
+    };
+    item.audioPrompt=item.audioPrompt||question;
+    item.hint=item.hint||({
+      single:"Work out the idea first, then compare every choice.",
+      "true-false":"Check the whole statement before deciding.",
+      number:"Work step by step and enter only the number.",
+      text:"Use the precise mathematical word or value.",
+      "fill-blank":"Read the complete sentence with each possible value.",
+      multiple:"Check every choice because more than one can be correct.",
+      order:"Work out each value before arranging the items."
+    }[type]||"Use the information in the question and check your answer.");
+    if(type==="single"&&Array.isArray(item.answers)&&item.answers.length===3&&Number.isInteger(item.correct)){
+      const target=(set*8+pos)%3;
+      const shift=(item.correct-target+3)%3;
+      item.answers=[...item.answers.slice(shift),...item.answers.slice(0,shift)];
+      item.correct=target;
+    }
+    return item;
+  };
   const topicMeta = (year, skill) =>
     window.SkillrDailyCatalog?.years?.[year]?.math?.find(t => t.id === skill || t.slug === skill);
   const support = (year, skill) => window.SkillrMathQuickReview?.[year]?.[skill];

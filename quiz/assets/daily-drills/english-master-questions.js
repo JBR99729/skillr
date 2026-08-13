@@ -3,10 +3,28 @@
   const DATA = window.SkillrEnglishData || {};
   const LEVELS=["easy","easy","core","core","core","application","application","stretch"];
   const YN=y=>y==="F"?0:Number(y);
-  const Q=(year,skill,set,pos,type,question,extra={})=>({
-    id:`e-${year}-${skill}-s${set+1}-q${pos+1}`,
-    year,subject:"english",skill,set,difficulty:LEVELS[pos],type,question,...extra
-  });
+  const Q=(year,skill,set,pos,type,question,extra={})=>{
+    const item={
+      id:`e-${year}-${skill}-s${set+1}-q${pos+1}`,
+      year,subject:"english",skill,set,difficulty:LEVELS[pos],type,question,...extra
+    };
+    item.audioPrompt=item.audioPrompt||question;
+    item.hint=item.hint||({
+      single:"Read the whole sentence or passage clue, then compare every choice.",
+      "true-false":"Check the exact wording before deciding.",
+      text:"Use the precise word requested by the question.",
+      "fill-blank":"Read the complete sentence aloud and check its meaning.",
+      multiple:"Check each choice separately because more than one can be correct.",
+      order:"Use meaning and sequence clues to arrange the items."
+    }[type]||"Return to the text and use the strongest clue.");
+    if(type==="single"&&Array.isArray(item.answers)&&item.answers.length===3&&Number.isInteger(item.correct)){
+      const target=(set*8+pos)%3;
+      const shift=(item.correct-target+3)%3;
+      item.answers=[...item.answers.slice(shift),...item.answers.slice(0,shift)];
+      item.correct=target;
+    }
+    return item;
+  };
 
   const MIN_WORDS={F:32,"1":48,"2":68,"3":88,"4":108,"5":128,"6":148,"7":168,"8":188,"9":218,"10":248};
 
