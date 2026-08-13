@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A new research proposal for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A new research proposal for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: Plant roots grow into joints in a footpath rock. Which explanation best accounts for the evidence? Focus 15: plant roots grow into?",
+    "audioPrompt": "During the new research proposal, students observe: Plant roots grow into joints in a footpath rock. Which explanation best accounts for the evidence? Focus 15: plant roots grow into?",
+    "visual": "Rocks Record Their Formation observation card stating: Plant roots grow into joints in a footpath rock.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Plant roots grow into joints in a footpath rock.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-001",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A new research proposal for Rocks Record Their Formation reports that igneous. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Plant roots grow into joints in a footpath rock."
     },
     "answers": [
-      "The evidence supports igneous, sedimentary and metamorphic rocks form through different processes, but it does not prove that every case will be identical",
-      "Every rock follows one fixed circular path; the same outcome must therefore occur in every setting",
-      "A confident opinion about igneous is stronger than measured or documented evidence"
+      "Root growth can mechanically widen existing cracks",
+      "Roots melt rock into magma",
+      "Roots cause deep metamorphism"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Root growth can mechanically widen existing cracks.\nHint: Identify the physical force.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Root growth can mechanically widen existing cracks.",
+      "hint": "Identify the physical force."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a cross-school data comparison, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a cross-school data comparison, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: A river slows on entering a lake and drops sand. Which explanation best accounts for the evidence? Focus 16: a river slows on?",
+    "audioPrompt": "During the cross-school data comparison, students observe: A river slows on entering a lake and drops sand. Which explanation best accounts for the evidence? Focus 16: a river slows on?",
+    "visual": "Rocks Record Their Formation observation card stating: A river slows on entering a lake and drops sand.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A river slows on entering a lake and drops sand.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-002",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a cross-school data comparison, the evidence states, “Sandstone contains visible grains in layers”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A river slows on entering a lake and drops sand."
     },
     "answers": [
-      "All rock-cycle changes take the same time; one matching observation makes this explanation certain",
-      "Observable properties provide evidence of formation; this interpretation can be checked against further evidence",
-      "Igneous is the only relevant feature, so no mechanism or consequence needs explaining"
+      "The sand melts in still water",
+      "Reduced water speed causes deposition",
+      "Slower water increases erosion"
     ],
     "correct": 1,
-    "explanation": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Reduced water speed causes deposition.\nHint: Link carrying capacity to speed.",
     "structuredExplanation": {
-      "summary": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Reduced water speed causes deposition.",
+      "hint": "Link carrying capacity to speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a technology evaluation panel, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a technology evaluation panel, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: Quartz grains survive transport better than softer minerals. Which explanation best accounts for the evidence? Focus 17: quartz grains survive transport?",
+    "audioPrompt": "During the technology evaluation panel, students observe: Quartz grains survive transport better than softer minerals. Which explanation best accounts for the evidence? Focus 17: quartz grains survive transport?",
+    "visual": "Rocks Record Their Formation observation card stating: Quartz grains survive transport better than softer minerals.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Quartz grains survive transport better than softer minerals.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-003",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a technology evaluation panel, the evidence states, “Rock-cycle processes span short events to geological timescales and influence uses”. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Quartz grains survive transport better than softer minerals."
     },
     "answers": [
-      "Every rock follows one fixed circular path; the wider pattern does not need to be considered",
-      "Metamorphic caused the result because the two occurred together once",
-      "The observation supports the idea that rock-cycle processes span short events to geological timescales and influence uses, within the limits of the investigation"
+      "Quartz is newly created by rivers",
+      "Soft minerals become quartz",
+      "Differential weathering enriches durable quartz in sediment"
     ],
     "correct": 2,
-    "explanation": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Differential weathering enriches durable quartz in sediment.\nHint: Compare mineral resistance.",
     "structuredExplanation": {
-      "summary": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Differential weathering enriches durable quartz in sediment.",
+      "hint": "Compare mineral resistance."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a science exhibition caption, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a science exhibition caption, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: A delta grows outward over decades. Which explanation best accounts for the evidence? Focus 18: a delta grows outward?",
+    "audioPrompt": "During the science exhibition caption, students observe: A delta grows outward over decades. Which explanation best accounts for the evidence? Focus 18: a delta grows outward?",
+    "visual": "Rocks Record Their Formation observation card stating: A delta grows outward over decades.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A delta grows outward over decades.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-004",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a science exhibition caption, students compare metamorphic with weathering and melting. The evidence states, “Its layered”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A delta grows outward over decades."
     },
     "answers": [
-      "The model links metamorphic with weathering and melting, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Repeated sediment deposition builds new land",
+      "Subduction raises loose mud",
+      "Magma freezes into every delta layer"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Repeated sediment deposition builds new land.\nHint: Track sediment where flow slows.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Repeated sediment deposition builds new land.",
+      "hint": "Track sediment where flow slows."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a policy evidence hearing, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a policy evidence hearing, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: Buried rock is uplifted before it can melt. Which explanation best accounts for the evidence? Focus 19: buried rock is uplifted?",
+    "audioPrompt": "During the policy evidence hearing, students observe: Buried rock is uplifted before it can melt. Which explanation best accounts for the evidence? Focus 19: buried rock is uplifted?",
+    "visual": "Rocks Record Their Formation observation card stating: Buried rock is uplifted before it can melt.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Buried rock is uplifted before it can melt.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-005",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a policy evidence hearing, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Buried rock is uplifted before it can melt."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that observable properties provide evidence of formation",
-      "Several conditions can change together and the result can still be attributed to weathering and melting alone"
+      "It must remain buried forever",
+      "It may be exposed and weathered into sediment",
+      "Uplift turns it directly into magma"
     ],
     "correct": 1,
-    "explanation": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It may be exposed and weathered into sediment.\nHint: Rock-cycle routes depend on conditions.",
     "structuredExplanation": {
-      "summary": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It may be exposed and weathered into sediment.",
+      "hint": "Rock-cycle routes depend on conditions."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A controlled follow-up investigation for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A controlled follow-up investigation for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: Sedimentary rock is heated and compressed but remains solid. Which explanation best accounts for the evidence? Focus 20: sedimentary rock is heated?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: Sedimentary rock is heated and compressed but remains solid. Which explanation best accounts for the evidence? Focus 20: sedimentary rock is heated?",
+    "visual": "Rocks Record Their Formation observation card stating: Sedimentary rock is heated and compressed but remains solid.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Sedimentary rock is heated and compressed but remains solid.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-006",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A controlled follow-up investigation for Rocks Record Their Formation reports that observable properties provide evidence of formation. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Sedimentary rock is heated and compressed but remains solid."
     },
     "answers": [
-      "All rock-cycle changes take the same time; the same outcome must therefore occur in every setting",
-      "A confident opinion about igneous is stronger than measured or documented evidence",
-      "The evidence supports rock-cycle processes span short events to geological timescales and influence uses, but it does not prove that every case will be identical"
+      "It becomes lava without melting",
+      "It stays unchanged under all pressure",
+      "It can become metamorphic rock"
     ],
     "correct": 2,
-    "explanation": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It can become metamorphic rock.\nHint: No melting means metamorphism is possible.",
     "structuredExplanation": {
-      "summary": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It can become metamorphic rock.",
+      "hint": "No melting means metamorphism is possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Deposition”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Deposition”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a model limitations review, the evidence states, “Deposition”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a model limitations review, the evidence states, “Deposition”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: Metamorphic rock reaches temperatures above its melting point. Which explanation best accounts for the evidence? Focus 21: metamorphic rock reaches temperatures?",
+    "audioPrompt": "During the model limitations review, students observe: Metamorphic rock reaches temperatures above its melting point. Which explanation best accounts for the evidence? Focus 21: metamorphic rock reaches temperatures?",
+    "visual": "Rocks Record Their Formation observation card stating: Metamorphic rock reaches temperatures above its melting point.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Metamorphic rock reaches temperatures above its melting point.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-007",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a model limitations review, the evidence states, “Deposition”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Metamorphic rock reaches temperatures above its melting point."
     },
     "answers": [
-      "Igneous, sedimentary and metamorphic rocks form through different processes; this interpretation can be checked against further evidence",
-      "Every rock follows one fixed circular path; one matching observation makes this explanation certain",
-      "Igneous is the only relevant feature, so no mechanism or consequence needs explaining"
+      "It forms magma that may later crystallise",
+      "It becomes loose sediment immediately",
+      "It turns directly into a fossil"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It forms magma that may later crystallise.\nHint: Follow the change of state.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It forms magma that may later crystallise.",
+      "hint": "Follow the change of state."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During an ethics committee discussion, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During an ethics committee discussion, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: A volcanic ash layer lies between two sedimentary beds. Which explanation best accounts for the evidence? Focus 22: a volcanic ash layer?",
+    "audioPrompt": "During the ethics committee discussion, students observe: A volcanic ash layer lies between two sedimentary beds. Which explanation best accounts for the evidence? Focus 22: a volcanic ash layer?",
+    "visual": "Rocks Record Their Formation observation card stating: A volcanic ash layer lies between two sedimentary beds.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A volcanic ash layer lies between two sedimentary beds.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-008",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During an ethics committee discussion, the evidence states, “Trace several possible routes through the network”. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A volcanic ash layer lies between two sedimentary beds."
     },
     "answers": [
-      "All rock-cycle changes take the same time; the wider pattern does not need to be considered",
-      "The observation supports the idea that observable properties provide evidence of formation, within the limits of the investigation",
-      "Metamorphic caused the result because the two occurred together once"
+      "The ash proves both beds are igneous",
+      "The ash can mark a time horizon across separated sites",
+      "Every ash grain has a different age"
     ],
     "correct": 1,
-    "explanation": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The ash can mark a time horizon across separated sites.\nHint: Use a widespread event as a marker.",
     "structuredExplanation": {
-      "summary": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The ash can mark a time horizon across separated sites.",
+      "hint": "Use a widespread event as a marker."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a coastal field station report, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a coastal field station report, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: Lower undisturbed sedimentary layers contain older fossils. Which explanation best accounts for the evidence? Focus 23: lower undisturbed sedimentary layers?",
+    "audioPrompt": "During the coastal field station report, students observe: Lower undisturbed sedimentary layers contain older fossils. Which explanation best accounts for the evidence? Focus 23: lower undisturbed sedimentary layers?",
+    "visual": "Rocks Record Their Formation observation card stating: Lower undisturbed sedimentary layers contain older fossils.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Lower undisturbed sedimentary layers contain older fossils.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-009",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a coastal field station report, students compare metamorphic with weathering and melting. The evidence states, “Igneous”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Lower undisturbed sedimentary layers contain older fossils."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links metamorphic with weathering and melting, so it can explain the relationship while still having limits"
+      "Lower layers are always warmer and therefore younger",
+      "Fossils move downward to older-looking layers",
+      "Superposition indicates lower layers formed first"
     ],
     "correct": 2,
-    "explanation": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Superposition indicates lower layers formed first.\nHint: Assume the sequence is undisturbed.",
     "structuredExplanation": {
-      "summary": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Superposition indicates lower layers formed first.",
+      "hint": "Assume the sequence is undisturbed."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a renewable-energy trial, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a renewable-energy trial, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: A pebble inside conglomerate is older than the surrounding cement. Which explanation best accounts for the evidence? Focus 24: a pebble inside conglomerate?",
+    "audioPrompt": "During the renewable-energy trial, students observe: A pebble inside conglomerate is older than the surrounding cement. Which explanation best accounts for the evidence? Focus 24: a pebble inside conglomerate?",
+    "visual": "Rocks Record Their Formation observation card stating: A pebble inside conglomerate is older than the surrounding cement.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A pebble inside conglomerate is older than the surrounding cement.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-010",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a renewable-energy trial, the evidence states, “Sandstone contains visible grains in layers”. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A pebble inside conglomerate is older than the surrounding cement."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that igneous, sedimentary and metamorphic rocks form through different processes",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to weathering and melting alone"
+      "The fragment existed before the rock containing it formed",
+      "Cement formed first and grew the pebble",
+      "Both ages must be identical"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The fragment existed before the rock containing it formed.\nHint: Use the principle of inclusions.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The fragment existed before the rock containing it formed.",
+      "hint": "Use the principle of inclusions."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A hospital innovation briefing for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A hospital innovation briefing for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: A fault offsets sandstone but is covered by unbroken shale. Which explanation best accounts for the evidence? Focus 25: a fault offsets sandstone?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: A fault offsets sandstone but is covered by unbroken shale. Which explanation best accounts for the evidence? Focus 25: a fault offsets sandstone?",
+    "visual": "Rocks Record Their Formation observation card stating: A fault offsets sandstone but is covered by unbroken shale.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A fault offsets sandstone but is covered by unbroken shale.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-011",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A hospital innovation briefing for Rocks Record Their Formation reports that rock-cycle processes span short events to geological timescales and influence uses. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A fault offsets sandstone but is covered by unbroken shale."
     },
     "answers": [
-      "Every rock follows one fixed circular path; the same outcome must therefore occur in every setting",
-      "The evidence supports observable properties provide evidence of formation, but it does not prove that every case will be identical",
-      "A confident opinion about igneous is stronger than measured or documented evidence"
+      "Faulting occurred after the shale",
+      "Faulting occurred after sandstone and before shale",
+      "All three formed simultaneously"
     ],
     "correct": 1,
-    "explanation": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Faulting occurred after sandstone and before shale.\nHint: Bracket the event using cross-cutting.",
     "structuredExplanation": {
-      "summary": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Faulting occurred after sandstone and before shale.",
+      "hint": "Bracket the event using cross-cutting."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "cycle igneous",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Its layered”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Its layered”. Which interpretation is best supported?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a geological survey update, the evidence states, “Its layered”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a geological survey update, the evidence states, “Its layered”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: Acid rain wears limestone faster than granite. Which explanation best accounts for the evidence? Focus 26: acid rain wears limestone?",
+    "audioPrompt": "During the geological survey update, students observe: Acid rain wears limestone faster than granite. Which explanation best accounts for the evidence? Focus 26: acid rain wears limestone?",
+    "visual": "Rocks Record Their Formation observation card stating: Acid rain wears limestone faster than granite.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: Acid rain wears limestone faster than granite.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-012",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is igneous. Question context: In a geological survey update, the evidence states, “Its layered”. Which interpretation is best supported?"
+      "alt_text": "Rocks Record Their Formation observation card stating: Acid rain wears limestone faster than granite."
     },
     "answers": [
-      "All rock-cycle changes take the same time; one matching observation makes this explanation certain",
-      "Igneous is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Rock-cycle processes span short events to geological timescales and influence uses; this interpretation can be checked against further evidence"
+      "All rocks weather at identical rates",
+      "Granite is protected only by its colour",
+      "Mineral composition affects chemical-weathering rate"
     ],
     "correct": 2,
-    "explanation": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Mineral composition affects chemical-weathering rate.\nHint: Compare reactivity, not appearance.",
     "structuredExplanation": {
-      "summary": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about igneous, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Mineral composition affects chemical-weathering rate.",
+      "hint": "Compare reactivity, not appearance."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "cycle sedimentary",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a materials-testing laboratory, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a materials-testing laboratory, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: A desert rock flakes after repeated hot days and cold nights. Which explanation best accounts for the evidence? Focus 27: a desert rock flakes?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: A desert rock flakes after repeated hot days and cold nights. Which explanation best accounts for the evidence? Focus 27: a desert rock flakes?",
+    "visual": "Rocks Record Their Formation observation card stating: A desert rock flakes after repeated hot days and cold nights.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A desert rock flakes after repeated hot days and cold nights.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-013",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is sedimentary. Question context: During a materials-testing laboratory, the evidence states, “Contrast rapid eruption and cooling with slow burial and metamorphism”. Which response applies the cycle model most accurately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A desert rock flakes after repeated hot days and cold nights."
     },
     "answers": [
-      "The observation supports the idea that igneous, sedimentary and metamorphic rocks form through different processes, within the limits of the investigation",
-      "Every rock follows one fixed circular path; the wider pattern does not need to be considered",
-      "Metamorphic caused the result because the two occurred together once"
+      "Thermal expansion and contraction can cause physical breakdown",
+      "Temperature cycles always melt rock",
+      "Cold chemically creates flakes"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Thermal expansion and contraction can cause physical breakdown.\nHint: Think repeated stress without new substances.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about sedimentary, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Thermal expansion and contraction can cause physical breakdown.",
+      "hint": "Think repeated stress without new substances."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "cycle metamorphic",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a documentary planning session, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a documentary planning session, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: A rock-cycle diagram has no energy sources. Which explanation best accounts for the evidence? Focus 28: a rock-cycle diagram has?",
+    "audioPrompt": "During the documentary planning session, students observe: A rock-cycle diagram has no energy sources. Which explanation best accounts for the evidence? Focus 28: a rock-cycle diagram has?",
+    "visual": "Rocks Record Their Formation observation card stating: A rock-cycle diagram has no energy sources.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A rock-cycle diagram has no energy sources.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-014",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is metamorphic. Question context: In a documentary planning session, students compare metamorphic with weathering and melting. The evidence states, “Observable properties provide evidence of formation”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A rock-cycle diagram has no energy sources."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links metamorphic with weathering and melting, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Add only moonlight for every process",
+      "Add solar energy for surface processes and Earth's heat for internal processes",
+      "Remove weathering and melting"
     ],
     "correct": 1,
-    "explanation": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Add solar energy for surface processes and Earth's heat for internal processes.\nHint: Different processes have different drivers.",
     "structuredExplanation": {
-      "summary": "Observable properties provide evidence of formation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about metamorphic, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Add solar energy for surface processes and Earth's heat for internal processes.",
+      "hint": "Different processes have different drivers."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "cycle weathering and melting",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a national data-set review, the evidence states, “Deposition”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a national data-set review, the evidence states, “Deposition”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: A sediment sample is well sorted by grain size. Which explanation best accounts for the evidence? Focus 29: a sediment sample is?",
+    "audioPrompt": "During the national data-set review, students observe: A sediment sample is well sorted by grain size. Which explanation best accounts for the evidence? Focus 29: a sediment sample is?",
+    "visual": "Rocks Record Their Formation observation card stating: A sediment sample is well sorted by grain size.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A sediment sample is well sorted by grain size.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-015",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is weathering and melting. Question context: During a national data-set review, the evidence states, “Deposition”. What is the strongest scientific response to this result?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A sediment sample is well sorted by grain size."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to weathering and melting alone",
-      "Repeated evidence can support the conclusion that rock-cycle processes span short events to geological timescales and influence uses"
+      "All grains crystallised together underground",
+      "Pressure changed every grain to one size",
+      "A consistent transporting medium likely selected similar grains"
     ],
     "correct": 2,
-    "explanation": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A consistent transporting medium likely selected similar grains.\nHint: Sorting reflects transport and deposition.",
     "structuredExplanation": {
-      "summary": "Rock-cycle processes span short events to geological timescales and influence uses. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about weathering and melting, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A consistent transporting medium likely selected similar grains.",
+      "hint": "Sorting reflects transport and deposition."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "cycle time and properties",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
-    "visual": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A final evidence conference for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A final evidence conference for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: A metamorphic rock preserves distorted fossils. Which explanation best accounts for the evidence? Focus 30: a metamorphic rock preserves?",
+    "audioPrompt": "During the final evidence conference, students observe: A metamorphic rock preserves distorted fossils. Which explanation best accounts for the evidence? Focus 30: a metamorphic rock preserves?",
+    "visual": "Rocks Record Their Formation observation card stating: A metamorphic rock preserves distorted fossils.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks Record Their Formation observation card stating: A metamorphic rock preserves distorted fossils.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u04.svg#ac9s8u04-t-016",
-      "alt_text": "Rocks Record Their Formation evidence model linking igneous, sedimentary, metamorphic, weathering and melting, time and properties. The highlighted stage is time and properties. Question context: A final evidence conference for Rocks Record Their Formation reports that trace several possible routes through the network. Which revision would make the reasoning most reliable?"
+      "alt_text": "Rocks Record Their Formation observation card stating: A metamorphic rock preserves distorted fossils."
     },
     "answers": [
-      "The evidence supports igneous, sedimentary and metamorphic rocks form through different processes, but it does not prove that every case will be identical",
-      "All rock-cycle changes take the same time; the same outcome must therefore occur in every setting",
-      "A confident opinion about igneous is stronger than measured or documented evidence"
+      "The parent sedimentary rock changed without complete melting",
+      "Fossils crystallised directly from magma",
+      "The rock never experienced heat or pressure"
     ],
     "correct": 0,
-    "explanation": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The parent sedimentary rock changed without complete melting.\nHint: Preservation rules out complete melting.",
     "structuredExplanation": {
-      "summary": "Igneous, sedimentary and metamorphic rocks form through different processes. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about time and properties, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The parent sedimentary rock changed without complete melting.",
+      "hint": "Preservation rules out complete melting."
     },
     "qualitySchema": "production-v1"
   }

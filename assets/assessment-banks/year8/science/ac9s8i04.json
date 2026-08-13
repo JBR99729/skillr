@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_data_type",
-    "question": "In a class investigation, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: Water temperature is measured every minute while a beaker cools. Which representation best reveals change over time?",
+    "audio_prompt": "During a class investigation, students observe: Water temperature is measured every minute while a beaker cools. Which representation best reveals change over time?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-001",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a class investigation, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Water temperature is measured every minute while a beaker cools."
     },
     "answers": [
       {
-        "text": "Representation choice depends on data type and question; this interpretation can be checked against further evidence",
+        "text": "A line graph with time on the horizontal axis and temperature with units on the vertical axis",
         "is_correct": true
       },
       {
-        "text": "Any graph type can show the same data; one matching observation makes this explanation certain",
+        "text": "A pie chart showing each temperature as a share of the total",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "An unlabelled picture of the beaker",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A line graph clearly shows how a continuous measurement changes with time.",
+      "hint": "Time is the independent variable and belongs on the horizontal axis."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_table",
-    "question": "During a museum evidence display, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?",
+    "question": "During a museum evidence display, students observe: A survey records the number of students choosing four transport types. Which display supports category comparison?",
+    "audio_prompt": "During a museum evidence display, students observe: A survey records the number of students choosing four transport types. Which display supports category comparison?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-002",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a museum evidence display, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A survey records the number of students choosing four transport types."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; the wider pattern does not need to be considered",
+        "text": "A continuous line joining transport categories in arbitrary order",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that conventions make tables and graphs interpretable, within the limits of the investigation",
+        "text": "A bar graph with separated bars and a labelled frequency axis",
         "is_correct": true
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "A scatter plot requiring two numerical variables",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Separated bars compare frequencies across distinct categories.",
+      "hint": "The transport types are categories, not a continuous scale."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_graph",
-    "question": "In a field-team briefing, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Plant height is compared with fertiliser concentration across 30 pots. Which representation best shows their relationship?",
+    "audio_prompt": "During a field-team briefing, students observe: Plant height is compared with fertiliser concentration across 30 pots. Which representation best shows their relationship?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-003",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In a field-team briefing, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Plant height is compared with fertiliser concentration across 30 pots."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "A pie chart of all heights added together",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "A decorative drawing of the tallest plant only",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "A scatter plot of concentration against height, with a trend line if justified",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter plot reveals association between two numerical variables.",
+      "hint": "Both variables are measured numbers."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_model_or_equation",
-    "question": "During a laboratory notebook, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: A graph starts its vertical axis at 98 and makes a rise from 99 to 100 look enormous. How should the graph be presented responsibly?",
+    "audio_prompt": "During a laboratory notebook, students observe: A graph starts its vertical axis at 98 and makes a rise from 99 to 100 look enormous. How should the graph be presented responsibly?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-004",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a laboratory notebook, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A graph starts its vertical axis at 98 and makes a rise from 99 to 100 look enormous."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that representation choice depends on data type and question",
+        "text": "Clearly mark the truncated axis and explain the small absolute difference",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Hide the axis labels so viewers focus on the shape",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "Claim the quantity doubled because the bar looks twice as tall",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Truncated axes require clear signalling because they visually magnify differences.",
+      "hint": "Compare the visual change with the actual values."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_strength_and_limitation",
-    "question": "A community science meeting for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: A table lists distance in one column and power output in another. Which heading pair makes the data interpretable?",
+    "audio_prompt": "During a community science meeting, students observe: A table lists distance in one column and power output in another. Which heading pair makes the data interpretable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-005",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A community science meeting for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A table lists distance in one column and power output in another."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; the same outcome must therefore occur in every setting",
+        "text": "Input and result, with no units",
         "is_correct": false
       },
       {
-        "text": "The evidence supports conventions make tables and graphs interpretable, but it does not prove that every case will be identical",
+        "text": "Distance from lamp (cm) and power output (mW)",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "Centimetres and milliwatts, with no variable names",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Table headings identify both the measured variable and its unit.",
+      "hint": "A reader needs to know what was measured and how it was measured."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_data_type",
-    "question": "In a digital model review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: A particle model shows gas particles as coloured circles with arrows. Which note states a useful limitation?",
+    "audio_prompt": "During a digital model review, students observe: A particle model shows gas particles as coloured circles with arrows. Which note states a useful limitation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-006",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a digital model review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A particle model shows gas particles as coloured circles with arrows."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; one matching observation makes this explanation certain",
+        "text": "The diagram proves gas particles are coloured circles",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Because it is simplified, the model has no scientific use",
         "is_correct": false
       },
       {
-        "text": "Every representation highlights some relationships and hides others; this interpretation can be checked against further evidence",
+        "text": "The arrows show motion direction, but particle size, spacing and speed are not necessarily to scale",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Models can reveal a relationship while simplifying scale and appearance.",
+      "hint": "State what the model helps show and what it does not reproduce literally."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_table",
-    "question": "During a student research poster, the evidence states, “Match continuous”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Match continuous”. Which response applies the representation model most accurately?",
+    "question": "During a student research poster, students observe: Rainfall across a catchment is recorded at 20 mapped stations. Which representation best reveals spatial variation?",
+    "audio_prompt": "During a student research poster, students observe: Rainfall across a catchment is recorded at 20 mapped stations. Which representation best reveals spatial variation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-007",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a student research poster, the evidence states, “Match continuous”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Rainfall across a catchment is recorded at 20 mapped stations."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that representation choice depends on data type and question, within the limits of the investigation",
+        "text": "A map using a labelled colour scale or proportional symbols at station locations",
         "is_correct": true
       },
       {
-        "text": "Any graph type can show the same data; the wider pattern does not need to be considered",
+        "text": "An alphabetical list that removes every location",
         "is_correct": false
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "A pie chart that combines all stations into one total",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A mapped display preserves location and shows spatial patterns.",
+      "hint": "Choose a representation that keeps geographic position."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_graph",
-    "question": "In an engineering design check, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Two classes have the same mean test result but very different spreads. Which display reveals the difference hidden by the mean?",
+    "audio_prompt": "During an engineering design check, students observe: Two classes have the same mean test result but very different spreads. Which display reveals the difference hidden by the mean?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-008",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In an engineering design check, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Two classes have the same mean test result but very different spreads."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "One bar for each class mean only",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "Side-by-side dot plots or box plots on the same scale",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Two unrelated diagrams with different unlabelled scales",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Distribution plots show spread and clustering that a mean alone conceals.",
+      "hint": "The display must show individual values or distribution summaries."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_model_or_equation",
-    "question": "During a data-team discussion, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A graph has points at uneven time intervals of 0, 1, 5 and 20 minutes. How should positions on the time axis be spaced?",
+    "audio_prompt": "During a data-team discussion, students observe: A graph has points at uneven time intervals of 0, 1, 5 and 20 minutes. How should positions on the time axis be spaced?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-009",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a data-team discussion, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A graph has points at uneven time intervals of 0, 1, 5 and 20 minutes."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Equally spaced because there are four readings",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "Placed in order of result size rather than time",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that every representation highlights some relationships and hides others",
+        "text": "In proportion to the actual time intervals",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A numerical axis uses a consistent scale so distance represents quantity.",
+      "hint": "The gap from 5 to 20 minutes should be larger than from 0 to 1."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_strength_and_limitation",
-    "question": "A school science report for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: A complex ecosystem diagram includes every species and hides the energy pathway under study. Which revision improves the model for this purpose?",
+    "audio_prompt": "During a school science report, students observe: A complex ecosystem diagram includes every species and hides the energy pathway under study. Which revision improves the model for this purpose?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-010",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A school science report for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: A complex ecosystem diagram includes every species and hides the energy pathway under study."
     },
     "answers": [
       {
-        "text": "The evidence supports representation choice depends on data type and question, but it does not prove that every case will be identical",
+        "text": "Retain the relevant organisms and labelled energy-flow arrows, and state what was omitted",
         "is_correct": true
       },
       {
-        "text": "A model is useful only if it is realistic; the same outcome must therefore occur in every setting",
+        "text": "Add more decorative organisms until no pathway is visible",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "Remove arrow directions because all species exchange energy equally",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A purposeful model highlights the target relationship and discloses simplifications.",
+      "hint": "Select detail according to the question the model must answer."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_data_type",
-    "question": "In a council evidence summary, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: Study 11 records paired numerical values for water temperature and dissolving time. Which representation will most clearly reveal the relationship? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: Study 11 records paired numerical values for water temperature and dissolving time. Which representation will most clearly reveal the relationship? Use the water temperature and sugar dissolving time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-011",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a council evidence summary, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 11 records paired numerical values for water temperature and dissolving time."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; one matching observation makes this explanation certain",
+        "text": "For water temperature and sugar dissolving time: Combine all water temperature and dissolving time values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Conventions make tables and graphs interpretable; this interpretation can be checked against further evidence",
+        "text": "For water temperature and sugar dissolving time: Plot water temperature on a labelled horizontal axis and dissolving time on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For water temperature and sugar dissolving time: Plot dissolving time without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between water temperature and dissolving time. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Put the changed or explanatory variable, water temperature, on the horizontal axis. Apply this to water temperature and sugar dissolving time."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_table",
-    "question": "During a peer-review conversation, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?",
+    "question": "During a peer-review conversation, students observe: Study 12 records paired numerical values for ramp angle and travel time. Which representation will most clearly reveal the relationship? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: Study 12 records paired numerical values for ramp angle and travel time. Which representation will most clearly reveal the relationship? Use the ramp angle and toy-car travel time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-012",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a peer-review conversation, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 12 records paired numerical values for ramp angle and travel time."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; the wider pattern does not need to be considered",
+        "text": "For ramp angle and toy-car travel time: Combine all ramp angle and travel time values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For ramp angle and toy-car travel time: Plot travel time without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that every representation highlights some relationships and hides others, within the limits of the investigation",
+        "text": "For ramp angle and toy-car travel time: Plot ramp angle on a labelled horizontal axis and travel time on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between ramp angle and travel time. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Put the changed or explanatory variable, ramp angle, on the horizontal axis. Apply this to ramp angle and toy-car travel time."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_graph",
-    "question": "In an environmental monitoring project, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: Study 13 records paired numerical values for light intensity and bubbles per minute. Which representation will most clearly reveal the relationship? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: Study 13 records paired numerical values for light intensity and bubbles per minute. Which representation will most clearly reveal the relationship? Use the light intensity and pondweed bubble rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-013",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In an environmental monitoring project, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 13 records paired numerical values for light intensity and bubbles per minute."
     },
     "answers": [
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For light intensity and pondweed bubble rate: Plot light intensity on a labelled horizontal axis and bubbles per minute on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For light intensity and pondweed bubble rate: Combine all light intensity and bubbles per minute values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For light intensity and pondweed bubble rate: Plot bubbles per minute without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between light intensity and bubbles per minute. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Put the changed or explanatory variable, light intensity, on the horizontal axis. Apply this to light intensity and pondweed bubble rate."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_model_or_equation",
-    "question": "During a medical research case, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: Study 14 records paired numerical values for soil type and height after 14 days. Which representation will most clearly reveal the relationship? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: Study 14 records paired numerical values for soil type and height after 14 days. Which representation will most clearly reveal the relationship? Use the soil type and bean-seedling height evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-014",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a medical research case, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 14 records paired numerical values for soil type and height after 14 days."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For soil type and bean-seedling height: Combine all soil type and height after 14 days values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that conventions make tables and graphs interpretable",
+        "text": "For soil type and bean-seedling height: Plot soil type on a labelled horizontal axis and height after 14 days on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For soil type and bean-seedling height: Plot height after 14 days without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between soil type and height after 14 days. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Put the changed or explanatory variable, soil type, on the horizontal axis. Apply this to soil type and bean-seedling height."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_strength_and_limitation",
-    "question": "A science-news fact check for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: Study 15 records paired numerical values for wire length and current. Which representation will most clearly reveal the relationship? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: Study 15 records paired numerical values for wire length and current. Which representation will most clearly reveal the relationship? Use the wire length and electrical current evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-015",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A science-news fact check for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 15 records paired numerical values for wire length and current."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; the same outcome must therefore occur in every setting",
+        "text": "For wire length and electrical current: Combine all wire length and current values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For wire length and electrical current: Plot current without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The evidence supports every representation highlights some relationships and hides others, but it does not prove that every case will be identical",
+        "text": "For wire length and electrical current: Plot wire length on a labelled horizontal axis and current on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between wire length and current. This conclusion concerns wire length and electrical current.",
+      "hint": "Put the changed or explanatory variable, wire length, on the horizontal axis. Apply this to wire length and electrical current."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_data_type",
-    "question": "In a classroom model test, the evidence states, “Representation choice depends on data type and question”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Representation choice depends on data type and question”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: Study 16 records paired numerical values for exercise duration and recovery time. Which representation will most clearly reveal the relationship? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: Study 16 records paired numerical values for exercise duration and recovery time. Which representation will most clearly reveal the relationship? Use the exercise duration and pulse recovery evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-016",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a classroom model test, the evidence states, “Representation choice depends on data type and question”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 16 records paired numerical values for exercise duration and recovery time."
     },
     "answers": [
       {
-        "text": "Representation choice depends on data type and question; this interpretation can be checked against further evidence",
+        "text": "For exercise duration and pulse recovery: Plot exercise duration on a labelled horizontal axis and recovery time on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "A model is useful only if it is realistic; one matching observation makes this explanation certain",
+        "text": "For exercise duration and pulse recovery: Combine all exercise duration and recovery time values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For exercise duration and pulse recovery: Plot recovery time without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between exercise duration and recovery time. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Put the changed or explanatory variable, exercise duration, on the horizontal axis. Apply this to exercise duration and pulse recovery."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_table",
-    "question": "During a regional planning workshop, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which response applies the representation model most accurately?",
+    "question": "During a regional planning workshop, students observe: Study 17 records paired numerical values for salt concentration and floating height. Which representation will most clearly reveal the relationship? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: Study 17 records paired numerical values for salt concentration and floating height. Which representation will most clearly reveal the relationship? Use the salt concentration and egg buoyancy evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-017",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a regional planning workshop, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 17 records paired numerical values for salt concentration and floating height."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; the wider pattern does not need to be considered",
+        "text": "For salt concentration and egg buoyancy: Combine all salt concentration and floating height values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that conventions make tables and graphs interpretable, within the limits of the investigation",
+        "text": "For salt concentration and egg buoyancy: Plot salt concentration on a labelled horizontal axis and floating height on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For salt concentration and egg buoyancy: Plot floating height without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between salt concentration and floating height. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Put the changed or explanatory variable, salt concentration, on the horizontal axis. Apply this to salt concentration and egg buoyancy."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_graph",
-    "question": "In an equipment selection task, students compare graph with model or equation. The evidence states, “Every representation highlights some relationships and hides others”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare graph with model or equation. The evidence states, “Every representation highlights some relationships and hides others”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: Study 18 records paired numerical values for insulation material and temperature loss. Which representation will most clearly reveal the relationship? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: Study 18 records paired numerical values for insulation material and temperature loss. Which representation will most clearly reveal the relationship? Use the insulation material and cooling evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-018",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In an equipment selection task, students compare graph with model or equation. The evidence states, “Every representation highlights some relationships and hides others”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 18 records paired numerical values for insulation material and temperature loss."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For insulation material and cooling: Combine all insulation material and temperature loss values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For insulation material and cooling: Plot temperature loss without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For insulation material and cooling: Plot insulation material on a labelled horizontal axis and temperature loss on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between insulation material and temperature loss. This conclusion concerns insulation material and cooling.",
+      "hint": "Put the changed or explanatory variable, insulation material, on the horizontal axis. Apply this to insulation material and cooling."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_model_or_equation",
-    "question": "During a public information draft, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: Study 19 records paired numerical values for exposed surface area and mass of water lost. Which representation will most clearly reveal the relationship? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: Study 19 records paired numerical values for exposed surface area and mass of water lost. Which representation will most clearly reveal the relationship? Use the surface area and evaporation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-019",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a public information draft, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 19 records paired numerical values for exposed surface area and mass of water lost."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that representation choice depends on data type and question",
+        "text": "For surface area and evaporation: Plot exposed surface area on a labelled horizontal axis and mass of water lost on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For surface area and evaporation: Combine all exposed surface area and mass of water lost values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For surface area and evaporation: Plot mass of water lost without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between exposed surface area and mass of water lost. This conclusion concerns surface area and evaporation.",
+      "hint": "Put the changed or explanatory variable, exposed surface area, on the horizontal axis. Apply this to surface area and evaporation."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_strength_and_limitation",
-    "question": "An independent replication study for Choose a Representation That Reveals the Pattern reports that evaluate whether it makes the target relationship visible and note what it omits. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Choose a Representation That Reveals the Pattern reports that evaluate whether it makes the target relationship visible and note what it omits. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: Study 20 records paired numerical values for pH and time to digest starch. Which representation will most clearly reveal the relationship? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: Study 20 records paired numerical values for pH and time to digest starch. Which representation will most clearly reveal the relationship? Use the pH and amylase activity evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-020",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: An independent replication study for Choose a Representation That Reveals the Pattern reports that evaluate whether it makes the target relationship visible and note what it omits. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 20 records paired numerical values for pH and time to digest starch."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; the same outcome must therefore occur in every setting",
+        "text": "For pH and amylase activity: Combine all pH and time to digest starch values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The evidence supports conventions make tables and graphs interpretable, but it does not prove that every case will be identical",
+        "text": "For pH and amylase activity: Plot pH on a labelled horizontal axis and time to digest starch on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For pH and amylase activity: Plot time to digest starch without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between pH and time to digest starch. This conclusion concerns pH and amylase activity.",
+      "hint": "Put the changed or explanatory variable, pH, on the horizontal axis. Apply this to pH and amylase activity."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_data_type",
-    "question": "In a risk-assessment meeting, the evidence states, “Conventions make tables and graphs interpretable”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Conventions make tables and graphs interpretable”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: Study 21 records paired numerical values for drop height and crater diameter. Which representation will most clearly reveal the relationship? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: Study 21 records paired numerical values for drop height and crater diameter. Which representation will most clearly reveal the relationship? Use the drop height and crater diameter evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-021",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a risk-assessment meeting, the evidence states, “Conventions make tables and graphs interpretable”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 21 records paired numerical values for drop height and crater diameter."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; one matching observation makes this explanation certain",
+        "text": "For drop height and crater diameter: Combine all drop height and crater diameter values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For drop height and crater diameter: Plot crater diameter without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "Every representation highlights some relationships and hides others; this interpretation can be checked against further evidence",
+        "text": "For drop height and crater diameter: Plot drop height on a labelled horizontal axis and crater diameter on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between drop height and crater diameter. This conclusion concerns drop height and crater diameter.",
+      "hint": "Put the changed or explanatory variable, drop height, on the horizontal axis. Apply this to drop height and crater diameter."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_table",
-    "question": "During a graph interpretation task, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which response applies the representation model most accurately?",
+    "question": "During a graph interpretation task, students observe: Study 22 records paired numerical values for fertiliser concentration and change in frond number. Which representation will most clearly reveal the relationship? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: Study 22 records paired numerical values for fertiliser concentration and change in frond number. Which representation will most clearly reveal the relationship? Use the fertiliser concentration and duckweed growth evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-022",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a graph interpretation task, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 22 records paired numerical values for fertiliser concentration and change in frond number."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that representation choice depends on data type and question, within the limits of the investigation",
+        "text": "For fertiliser concentration and duckweed growth: Plot fertiliser concentration on a labelled horizontal axis and change in frond number on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "A model is useful only if it is realistic; the wider pattern does not need to be considered",
+        "text": "For fertiliser concentration and duckweed growth: Combine all fertiliser concentration and change in frond number values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For fertiliser concentration and duckweed growth: Plot change in frond number without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between fertiliser concentration and change in frond number. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Put the changed or explanatory variable, fertiliser concentration, on the horizontal axis. Apply this to fertiliser concentration and duckweed growth."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_graph",
-    "question": "In a claim-evidence-reasoning response, students compare graph with model or equation. The evidence states, “Match continuous”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare graph with model or equation. The evidence states, “Match continuous”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: Study 23 records paired numerical values for blade length and rotations per minute. Which representation will most clearly reveal the relationship? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: Study 23 records paired numerical values for blade length and rotations per minute. Which representation will most clearly reveal the relationship? Use the blade length and paper-turbine rotation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-023",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In a claim-evidence-reasoning response, students compare graph with model or equation. The evidence states, “Match continuous”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 23 records paired numerical values for blade length and rotations per minute."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For blade length and paper-turbine rotation: Combine all blade length and rotations per minute values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For blade length and paper-turbine rotation: Plot blade length on a labelled horizontal axis and rotations per minute on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For blade length and paper-turbine rotation: Plot rotations per minute without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between blade length and rotations per minute. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Put the changed or explanatory variable, blade length, on the horizontal axis. Apply this to blade length and paper-turbine rotation."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "practice",
     "skill": "representation_model_or_equation",
-    "question": "During a scientific-method audit, the evidence states, “Representation choice depends on data type and question”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Representation choice depends on data type and question”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: Study 24 records paired numerical values for detergent concentration and drops held on a coin. Which representation will most clearly reveal the relationship? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: Study 24 records paired numerical values for detergent concentration and drops held on a coin. Which representation will most clearly reveal the relationship? Use the detergent concentration and surface tension evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-p-024",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a scientific-method audit, the evidence states, “Representation choice depends on data type and question”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 24 records paired numerical values for detergent concentration and drops held on a coin."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For detergent concentration and surface tension: Combine all detergent concentration and drops held on a coin values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For detergent concentration and surface tension: Plot drops held on a coin without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that every representation highlights some relationships and hides others",
+        "text": "For detergent concentration and surface tension: Plot detergent concentration on a labelled horizontal axis and drops held on a coin on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between detergent concentration and drops held on a coin. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Put the changed or explanatory variable, detergent concentration, on the horizontal axis. Apply this to detergent concentration and surface tension."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_strength_and_limitation",
-    "question": "A new research proposal for Choose a Representation That Reveals the Pattern reports that representation choice depends on data type and question. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Choose a Representation That Reveals the Pattern reports that representation choice depends on data type and question. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: Study 25 records paired numerical values for speaker frequency and reported pitch. Which representation will most clearly reveal the relationship? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: Study 25 records paired numerical values for speaker frequency and reported pitch. Which representation will most clearly reveal the relationship? Use the sound frequency and perceived pitch evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-001",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A new research proposal for Choose a Representation That Reveals the Pattern reports that representation choice depends on data type and question. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 25 records paired numerical values for speaker frequency and reported pitch."
     },
     "answers": [
       {
-        "text": "The evidence supports representation choice depends on data type and question, but it does not prove that every case will be identical",
+        "text": "For sound frequency and perceived pitch: Plot speaker frequency on a labelled horizontal axis and reported pitch on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Any graph type can show the same data; the same outcome must therefore occur in every setting",
+        "text": "For sound frequency and perceived pitch: Combine all speaker frequency and reported pitch values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For sound frequency and perceived pitch: Plot reported pitch without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between speaker frequency and reported pitch. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Put the changed or explanatory variable, speaker frequency, on the horizontal axis. Apply this to sound frequency and perceived pitch."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_data_type",
-    "question": "In a cross-school data comparison, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: Study 26 records paired numerical values for acid concentration and gas volume per minute. Which representation will most clearly reveal the relationship? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: Study 26 records paired numerical values for acid concentration and gas volume per minute. Which representation will most clearly reveal the relationship? Use the acid concentration and reaction rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-002",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a cross-school data comparison, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 26 records paired numerical values for acid concentration and gas volume per minute."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; one matching observation makes this explanation certain",
+        "text": "For acid concentration and reaction rate: Combine all acid concentration and gas volume per minute values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Conventions make tables and graphs interpretable; this interpretation can be checked against further evidence",
+        "text": "For acid concentration and reaction rate: Plot acid concentration on a labelled horizontal axis and gas volume per minute on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For acid concentration and reaction rate: Plot gas volume per minute without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between acid concentration and gas volume per minute. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Put the changed or explanatory variable, acid concentration, on the horizontal axis. Apply this to acid concentration and reaction rate."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_table",
-    "question": "During a technology evaluation panel, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?",
+    "question": "During the technology evaluation panel, students observe: Study 27 records paired numerical values for percentage shade cover and soil moisture after six hours. Which representation will most clearly reveal the relationship? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: Study 27 records paired numerical values for percentage shade cover and soil moisture after six hours. Which representation will most clearly reveal the relationship? Use the shade cover and soil moisture evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-003",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a technology evaluation panel, the evidence states, “Every representation highlights some relationships and hides others”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 27 records paired numerical values for percentage shade cover and soil moisture after six hours."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; the wider pattern does not need to be considered",
+        "text": "For shade cover and soil moisture: Combine all percentage shade cover and soil moisture after six hours values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For shade cover and soil moisture: Plot soil moisture after six hours without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that every representation highlights some relationships and hides others, within the limits of the investigation",
+        "text": "For shade cover and soil moisture: Plot percentage shade cover on a labelled horizontal axis and soil moisture after six hours on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between percentage shade cover and soil moisture after six hours. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Put the changed or explanatory variable, percentage shade cover, on the horizontal axis. Apply this to shade cover and soil moisture."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_graph",
-    "question": "In a science exhibition caption, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: Study 28 records paired numerical values for magnet separation and force reading. Which representation will most clearly reveal the relationship? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: Study 28 records paired numerical values for magnet separation and force reading. Which representation will most clearly reveal the relationship? Use the magnet distance and force evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-004",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In a science exhibition caption, students compare graph with model or equation. The evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 28 records paired numerical values for magnet separation and force reading."
     },
     "answers": [
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For magnet distance and force: Plot magnet separation on a labelled horizontal axis and force reading on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For magnet distance and force: Combine all magnet separation and force reading values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For magnet distance and force: Plot force reading without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between magnet separation and force reading. This conclusion concerns magnet distance and force.",
+      "hint": "Put the changed or explanatory variable, magnet separation, on the horizontal axis. Apply this to magnet distance and force."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_model_or_equation",
-    "question": "During a policy evidence hearing, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: Study 29 records paired numerical values for water depth and wave travel time. Which representation will most clearly reveal the relationship? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: Study 29 records paired numerical values for water depth and wave travel time. Which representation will most clearly reveal the relationship? Use the water depth and wave speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-005",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a policy evidence hearing, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 29 records paired numerical values for water depth and wave travel time."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For water depth and wave speed: Combine all water depth and wave travel time values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that conventions make tables and graphs interpretable",
+        "text": "For water depth and wave speed: Plot water depth on a labelled horizontal axis and wave travel time on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For water depth and wave speed: Plot wave travel time without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between water depth and wave travel time. This conclusion concerns water depth and wave speed.",
+      "hint": "Put the changed or explanatory variable, water depth, on the horizontal axis. Apply this to water depth and wave speed."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_strength_and_limitation",
-    "question": "A controlled follow-up investigation for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: Study 30 records paired numerical values for antibiotic concentration and inhibition-zone diameter. Which representation will most clearly reveal the relationship? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: Study 30 records paired numerical values for antibiotic concentration and inhibition-zone diameter. Which representation will most clearly reveal the relationship? Use the antibiotic concentration and inhibition zone evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-006",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A controlled follow-up investigation for Choose a Representation That Reveals the Pattern reports that conventions make tables and graphs interpretable. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 30 records paired numerical values for antibiotic concentration and inhibition-zone diameter."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; the same outcome must therefore occur in every setting",
+        "text": "For antibiotic concentration and inhibition zone: Combine all antibiotic concentration and inhibition-zone diameter values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For antibiotic concentration and inhibition zone: Plot inhibition-zone diameter without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The evidence supports every representation highlights some relationships and hides others, but it does not prove that every case will be identical",
+        "text": "For antibiotic concentration and inhibition zone: Plot antibiotic concentration on a labelled horizontal axis and inhibition-zone diameter on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between antibiotic concentration and inhibition-zone diameter. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Put the changed or explanatory variable, antibiotic concentration, on the horizontal axis. Apply this to antibiotic concentration and inhibition zone."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_data_type",
-    "question": "In a model limitations review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: Study 31 records paired numerical values for ripeness stage and titration volume. Which representation will most clearly reveal the relationship? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: Study 31 records paired numerical values for ripeness stage and titration volume. Which representation will most clearly reveal the relationship? Use the fruit ripeness and vitamin C evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-007",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a model limitations review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 31 records paired numerical values for ripeness stage and titration volume."
     },
     "answers": [
       {
-        "text": "Representation choice depends on data type and question; this interpretation can be checked against further evidence",
+        "text": "For fruit ripeness and vitamin C: Plot ripeness stage on a labelled horizontal axis and titration volume on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Any graph type can show the same data; one matching observation makes this explanation certain",
+        "text": "For fruit ripeness and vitamin C: Combine all ripeness stage and titration volume values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For fruit ripeness and vitamin C: Plot titration volume without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between ripeness stage and titration volume. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Put the changed or explanatory variable, ripeness stage, on the horizontal axis. Apply this to fruit ripeness and vitamin C."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_table",
-    "question": "During an ethics committee discussion, the evidence states, “Match continuous”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Match continuous”. Which response applies the representation model most accurately?",
+    "question": "During the ethics committee discussion, students observe: Study 32 records paired numerical values for roof colour and inside temperature rise. Which representation will most clearly reveal the relationship? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: Study 32 records paired numerical values for roof colour and inside temperature rise. Which representation will most clearly reveal the relationship? Use the roof colour and model-house temperature evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-008",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During an ethics committee discussion, the evidence states, “Match continuous”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 32 records paired numerical values for roof colour and inside temperature rise."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; the wider pattern does not need to be considered",
+        "text": "For roof colour and model-house temperature: Combine all roof colour and inside temperature rise values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that conventions make tables and graphs interpretable, within the limits of the investigation",
+        "text": "For roof colour and model-house temperature: Plot roof colour on a labelled horizontal axis and inside temperature rise on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For roof colour and model-house temperature: Plot inside temperature rise without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between roof colour and inside temperature rise. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Put the changed or explanatory variable, roof colour, on the horizontal axis. Apply this to roof colour and model-house temperature."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_graph",
-    "question": "In a coastal field station report, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: Study 33 records paired numerical values for salt concentration and germination percentage. Which representation will most clearly reveal the relationship? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: Study 33 records paired numerical values for salt concentration and germination percentage. Which representation will most clearly reveal the relationship? Use the salinity and seed germination evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-009",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In a coastal field station report, students compare graph with model or equation. The evidence states, “Representation choice depends on data type and question”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 33 records paired numerical values for salt concentration and germination percentage."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For salinity and seed germination: Combine all salt concentration and germination percentage values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For salinity and seed germination: Plot germination percentage without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For salinity and seed germination: Plot salt concentration on a labelled horizontal axis and germination percentage on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between salt concentration and germination percentage. This conclusion concerns salinity and seed germination.",
+      "hint": "Put the changed or explanatory variable, salt concentration, on the horizontal axis. Apply this to salinity and seed germination."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_model_or_equation",
-    "question": "During a renewable-energy trial, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: Study 34 records paired numerical values for applied load and bridge deflection. Which representation will most clearly reveal the relationship? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: Study 34 records paired numerical values for applied load and bridge deflection. Which representation will most clearly reveal the relationship? Use the load and bridge deflection evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-010",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a renewable-energy trial, the evidence states, “Distance from a lamp is the independent variable and goes on the horizontal axis”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 34 records paired numerical values for applied load and bridge deflection."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that representation choice depends on data type and question",
+        "text": "For load and bridge deflection: Plot applied load on a labelled horizontal axis and bridge deflection on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For load and bridge deflection: Combine all applied load and bridge deflection values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For load and bridge deflection: Plot bridge deflection without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between applied load and bridge deflection. This conclusion concerns load and bridge deflection.",
+      "hint": "Put the changed or explanatory variable, applied load, on the horizontal axis. Apply this to load and bridge deflection."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_strength_and_limitation",
-    "question": "A hospital innovation briefing for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: Study 35 records paired numerical values for wind speed and plant mass loss. Which representation will most clearly reveal the relationship? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: Study 35 records paired numerical values for wind speed and plant mass loss. Which representation will most clearly reveal the relationship? Use the wind speed and transpiration evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-011",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A hospital innovation briefing for Choose a Representation That Reveals the Pattern reports that every representation highlights some relationships and hides others. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 35 records paired numerical values for wind speed and plant mass loss."
     },
     "answers": [
       {
-        "text": "Any graph type can show the same data; the same outcome must therefore occur in every setting",
+        "text": "For wind speed and transpiration: Combine all wind speed and plant mass loss values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The evidence supports conventions make tables and graphs interpretable, but it does not prove that every case will be identical",
+        "text": "For wind speed and transpiration: Plot wind speed on a labelled horizontal axis and plant mass loss on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For wind speed and transpiration: Plot plant mass loss without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between wind speed and plant mass loss. This conclusion concerns wind speed and transpiration.",
+      "hint": "Put the changed or explanatory variable, wind speed, on the horizontal axis. Apply this to wind speed and transpiration."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_data_type",
-    "question": "In a geological survey update, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: Study 36 records paired numerical values for solute particle size and dissolving time. Which representation will most clearly reveal the relationship? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: Study 36 records paired numerical values for solute particle size and dissolving time. Which representation will most clearly reveal the relationship? Use the particle size and dissolving evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-012",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is data type. Question context: In a geological survey update, the evidence states, “A scatter graph reveals the relationship more clearly than a decorative chart”. Which interpretation is best supported?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 36 records paired numerical values for solute particle size and dissolving time."
     },
     "answers": [
       {
-        "text": "A model is useful only if it is realistic; one matching observation makes this explanation certain",
+        "text": "For particle size and dissolving: Combine all solute particle size and dissolving time values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Data type is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For particle size and dissolving: Plot dissolving time without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "Every representation highlights some relationships and hides others; this interpretation can be checked against further evidence",
+        "text": "For particle size and dissolving: Plot solute particle size on a labelled horizontal axis and dissolving time on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data type, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between solute particle size and dissolving time. This conclusion concerns particle size and dissolving.",
+      "hint": "Put the changed or explanatory variable, solute particle size, on the horizontal axis. Apply this to particle size and dissolving."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_table",
-    "question": "During a materials-testing laboratory, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: Study 37 records paired numerical values for string length and period. Which representation will most clearly reveal the relationship? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: Study 37 records paired numerical values for string length and period. Which representation will most clearly reveal the relationship? Use the string length and pendulum period evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-013",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is table. Question context: During a materials-testing laboratory, the evidence states, “Evaluate whether it makes the target relationship visible and note what it omits”. Which response applies the representation model most accurately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 37 records paired numerical values for string length and period."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that representation choice depends on data type and question, within the limits of the investigation",
+        "text": "For string length and pendulum period: Plot string length on a labelled horizontal axis and period on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "Any graph type can show the same data; the wider pattern does not need to be considered",
+        "text": "For string length and pendulum period: Combine all string length and period values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Graph caused the result because the two occurred together once",
+        "text": "For string length and pendulum period: Plot period without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about table, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between string length and period. This conclusion concerns string length and pendulum period.",
+      "hint": "Put the changed or explanatory variable, string length, on the horizontal axis. Apply this to string length and pendulum period."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_graph",
-    "question": "In a documentary planning session, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: Study 38 records paired numerical values for battery temperature and motor rotations per minute. Which representation will most clearly reveal the relationship? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: Study 38 records paired numerical values for battery temperature and motor rotations per minute. Which representation will most clearly reveal the relationship? Use the battery temperature and motor speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-014",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is graph. Question context: In a documentary planning session, students compare graph with model or equation. The evidence states, “Conventions make tables and graphs interpretable”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 38 records paired numerical values for battery temperature and motor rotations per minute."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For battery temperature and motor speed: Combine all battery temperature and motor rotations per minute values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "The model links graph with model or equation, so it can explain the relationship while still having limits",
+        "text": "For battery temperature and motor speed: Plot battery temperature on a labelled horizontal axis and motor rotations per minute on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For battery temperature and motor speed: Plot motor rotations per minute without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Conventions make tables and graphs interpretable. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about graph, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between battery temperature and motor rotations per minute. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Put the changed or explanatory variable, battery temperature, on the horizontal axis. Apply this to battery temperature and motor speed."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_model_or_equation",
-    "question": "During a national data-set review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: Study 39 records paired numerical values for stream velocity and largest transported grain. Which representation will most clearly reveal the relationship? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: Study 39 records paired numerical values for stream velocity and largest transported grain. Which representation will most clearly reveal the relationship? Use the stream velocity and sediment size evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-015",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is model or equation. Question context: During a national data-set review, the evidence states, “Solar-cell power is the dependent variable and goes on the vertical axis with units”. What is the strongest scientific response to this result?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 39 records paired numerical values for stream velocity and largest transported grain."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For stream velocity and sediment size: Combine all stream velocity and largest transported grain values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to model or equation alone",
+        "text": "For stream velocity and sediment size: Plot largest transported grain without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that every representation highlights some relationships and hides others",
+        "text": "For stream velocity and sediment size: Plot stream velocity on a labelled horizontal axis and largest transported grain on a labelled vertical axis using honest scales and units",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every representation highlights some relationships and hides others. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about model or equation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between stream velocity and largest transported grain. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Put the changed or explanatory variable, stream velocity, on the horizontal axis. Apply this to stream velocity and sediment size."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8I04",
     "bank": "test",
     "skill": "representation_strength_and_limitation",
-    "question": "A final evidence conference for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: Study 40 records paired numerical values for leaf area exposed and oxygen production rate. Which representation will most clearly reveal the relationship? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: Study 40 records paired numerical values for leaf area exposed and oxygen production rate. Which representation will most clearly reveal the relationship? Use the leaf area and photosynthesis evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i04.svg#ac9s8i04-t-016",
-      "alt_text": "Choose a Representation That Reveals the Pattern evidence model linking data type, table, graph, model or equation, strength and limitation. The highlighted stage is strength and limitation. Question context: A final evidence conference for Choose a Representation That Reveals the Pattern reports that match continuous. Which revision would make the reasoning most reliable?"
+      "alt_text": "Choose a Representation That Reveals the Pattern observation card stating: Study 40 records paired numerical values for leaf area exposed and oxygen production rate."
     },
     "answers": [
       {
-        "text": "The evidence supports representation choice depends on data type and question, but it does not prove that every case will be identical",
+        "text": "For leaf area and photosynthesis: Plot leaf area exposed on a labelled horizontal axis and oxygen production rate on a labelled vertical axis using honest scales and units",
         "is_correct": true
       },
       {
-        "text": "A model is useful only if it is realistic; the same outcome must therefore occur in every setting",
+        "text": "For leaf area and photosynthesis: Combine all leaf area exposed and oxygen production rate values into one decorative pie chart",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data type is stronger than measured or documented evidence",
+        "text": "For leaf area and photosynthesis: Plot oxygen production rate without labels and adjust the scale to make the preferred result look large",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Representation choice depends on data type and question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about strength and limitation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scatter or line graph can reveal the measured relationship between leaf area exposed and oxygen production rate. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Put the changed or explanatory variable, leaf area exposed, on the horizontal axis. Apply this to leaf area and photosynthesis."
     }
   }
 ]

@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Build an Evidence-Based Argument reports that arguments distinguish claim. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Build an Evidence-Based Argument reports that arguments distinguish claim. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A new research proposal for Build an Evidence-Based Argument reports that arguments distinguish claim. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A new research proposal for Build an Evidence-Based Argument reports that arguments distinguish claim. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: A source claims a universal rule about sound frequency and perceived pitch from a small test with poorly reported volume, speaker, room and listener procedure. Which argument uses this evidence appropriately? Use the sound frequency and perceived pitch evidence.",
+    "audioPrompt": "During the new research proposal, students observe: A source claims a universal rule about sound frequency and perceived pitch from a small test with poorly reported volume, speaker, room and listener procedure. Which argument uses this evidence appropriately? Use the sound frequency and perceived pitch evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about sound frequency and perceived pitch from a small test with poorly reported volume, speaker, room and listener procedure.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about sound frequency and perceived pitch from a small test with poorly reported volume, speaker, room and listener procedure.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-001",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A new research proposal for Build an Evidence-Based Argument reports that arguments distinguish claim. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about sound frequency and perceived pitch from a small test with poorly reported volume, speaker, room and listener procedure."
     },
     "answers": [
-      "The evidence supports arguments distinguish claim, evidence and reasoning, but it does not prove that every case will be identical",
-      "More sources automatically means stronger evidence; the same outcome must therefore occur in every setting",
-      "A confident opinion about claim is stronger than measured or documented evidence"
+      "For sound frequency and perceived pitch: Report the observed speaker frequency-reported pitch relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For sound frequency and perceived pitch: Call the rule universal because one source reported it",
+      "For sound frequency and perceived pitch: Reject all sound frequency and perceived pitch evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a sound frequency and perceived pitch claim to source quality and tested conditions. This conclusion concerns sound frequency and perceived pitch.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to sound frequency and perceived pitch.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a sound frequency and perceived pitch claim to source quality and tested conditions. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to sound frequency and perceived pitch."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a cross-school data comparison, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a cross-school data comparison, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: A source claims a universal rule about acid concentration and reaction rate from a small test with poorly reported carbonate mass, surface area and temperature. Which argument uses this evidence appropriately? Use the acid concentration and reaction rate evidence.",
+    "audioPrompt": "During the cross-school data comparison, students observe: A source claims a universal rule about acid concentration and reaction rate from a small test with poorly reported carbonate mass, surface area and temperature. Which argument uses this evidence appropriately? Use the acid concentration and reaction rate evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about acid concentration and reaction rate from a small test with poorly reported carbonate mass, surface area and temperature.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about acid concentration and reaction rate from a small test with poorly reported carbonate mass, surface area and temperature.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-002",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a cross-school data comparison, the evidence states, “Claim: Battery A lasts longer under the tested load”. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about acid concentration and reaction rate from a small test with poorly reported carbonate mass, surface area and temperature."
     },
     "answers": [
-      "A quotation is reasoning; one matching observation makes this explanation certain",
-      "Evidence quality and competing explanations are evaluated; this interpretation can be checked against further evidence",
-      "Claim is the only relevant feature, so no mechanism or consequence needs explaining"
+      "For acid concentration and reaction rate: Call the rule universal because one source reported it",
+      "For acid concentration and reaction rate: Report the observed acid concentration-gas volume per minute relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For acid concentration and reaction rate: Reject all acid concentration and reaction rate evidence because this one source has limitations"
     ],
     "correct": 1,
-    "explanation": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a acid concentration and reaction rate claim to source quality and tested conditions. This conclusion concerns acid concentration and reaction rate.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to acid concentration and reaction rate.",
     "structuredExplanation": {
-      "summary": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a acid concentration and reaction rate claim to source quality and tested conditions. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to acid concentration and reaction rate."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a technology evaluation panel, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a technology evaluation panel, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: A source claims a universal rule about shade cover and soil moisture from a small test with poorly reported soil mass, container, starting water and airflow. Which argument uses this evidence appropriately? Use the shade cover and soil moisture evidence.",
+    "audioPrompt": "During the technology evaluation panel, students observe: A source claims a universal rule about shade cover and soil moisture from a small test with poorly reported soil mass, container, starting water and airflow. Which argument uses this evidence appropriately? Use the shade cover and soil moisture evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about shade cover and soil moisture from a small test with poorly reported soil mass, container, starting water and airflow.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about shade cover and soil moisture from a small test with poorly reported soil mass, container, starting water and airflow.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-003",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a technology evaluation panel, the evidence states, “Sources and culturally governed information are used with attribution and protocol”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about shade cover and soil moisture from a small test with poorly reported soil mass, container, starting water and airflow."
     },
     "answers": [
-      "More sources automatically means stronger evidence; the wider pattern does not need to be considered",
-      "Evidence caused the result because the two occurred together once",
-      "The observation supports the idea that sources and culturally governed information are used with attribution and protocol, within the limits of the investigation"
+      "For shade cover and soil moisture: Call the rule universal because one source reported it",
+      "For shade cover and soil moisture: Reject all shade cover and soil moisture evidence because this one source has limitations",
+      "For shade cover and soil moisture: Report the observed percentage shade cover-soil moisture after six hours relationship only for the tested conditions and seek transparent, independent evidence before generalising"
     ],
     "correct": 2,
-    "explanation": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a shade cover and soil moisture claim to source quality and tested conditions. This conclusion concerns shade cover and soil moisture.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to shade cover and soil moisture.",
     "structuredExplanation": {
-      "summary": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a shade cover and soil moisture claim to source quality and tested conditions. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to shade cover and soil moisture."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a science exhibition caption, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a science exhibition caption, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: A source claims a universal rule about magnet distance and force from a small test with poorly reported magnets, alignment and measurement device. Which argument uses this evidence appropriately? Use the magnet distance and force evidence.",
+    "audioPrompt": "During the science exhibition caption, students observe: A source claims a universal rule about magnet distance and force from a small test with poorly reported magnets, alignment and measurement device. Which argument uses this evidence appropriately? Use the magnet distance and force evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about magnet distance and force from a small test with poorly reported magnets, alignment and measurement device.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about magnet distance and force from a small test with poorly reported magnets, alignment and measurement device.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-004",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a science exhibition caption, students compare evidence with reasoning. The evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about magnet distance and force from a small test with poorly reported magnets, alignment and measurement device."
     },
     "answers": [
-      "The model links evidence with reasoning, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "For magnet distance and force: Report the observed magnet separation-force reading relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For magnet distance and force: Call the rule universal because one source reported it",
+      "For magnet distance and force: Reject all magnet distance and force evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a magnet distance and force claim to source quality and tested conditions. This conclusion concerns magnet distance and force.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to magnet distance and force.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a magnet distance and force claim to source quality and tested conditions. This conclusion concerns magnet distance and force.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to magnet distance and force."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a policy evidence hearing, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a policy evidence hearing, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: A source claims a universal rule about water depth and wave speed from a small test with poorly reported tray, wave source, distance and water temperature. Which argument uses this evidence appropriately? Use the water depth and wave speed evidence.",
+    "audioPrompt": "During the policy evidence hearing, students observe: A source claims a universal rule about water depth and wave speed from a small test with poorly reported tray, wave source, distance and water temperature. Which argument uses this evidence appropriately? Use the water depth and wave speed evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about water depth and wave speed from a small test with poorly reported tray, wave source, distance and water temperature.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about water depth and wave speed from a small test with poorly reported tray, wave source, distance and water temperature.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-005",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a policy evidence hearing, the evidence states, “Explain how the evidence supports or weakens the claim”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about water depth and wave speed from a small test with poorly reported tray, wave source, distance and water temperature."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that evidence quality and competing explanations are evaluated",
-      "Several conditions can change together and the result can still be attributed to reasoning alone"
+      "For water depth and wave speed: Call the rule universal because one source reported it",
+      "For water depth and wave speed: Report the observed water depth-wave travel time relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For water depth and wave speed: Reject all water depth and wave speed evidence because this one source has limitations"
     ],
     "correct": 1,
-    "explanation": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a water depth and wave speed claim to source quality and tested conditions. This conclusion concerns water depth and wave speed.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to water depth and wave speed.",
     "structuredExplanation": {
-      "summary": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a water depth and wave speed claim to source quality and tested conditions. This conclusion concerns water depth and wave speed.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to water depth and wave speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Build an Evidence-Based Argument reports that evidence quality and competing explanations are evaluated. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Build an Evidence-Based Argument reports that evidence quality and competing explanations are evaluated. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A controlled follow-up investigation for Build an Evidence-Based Argument reports that evidence quality and competing explanations are evaluated. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A controlled follow-up investigation for Build an Evidence-Based Argument reports that evidence quality and competing explanations are evaluated. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: A source claims a universal rule about antibiotic concentration and inhibition zone from a small test with poorly reported bacterial strain, agar, disc size and incubation. Which argument uses this evidence appropriately? Use the antibiotic concentration and inhibition zone evidence.",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: A source claims a universal rule about antibiotic concentration and inhibition zone from a small test with poorly reported bacterial strain, agar, disc size and incubation. Which argument uses this evidence appropriately? Use the antibiotic concentration and inhibition zone evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about antibiotic concentration and inhibition zone from a small test with poorly reported bacterial strain, agar, disc size and incubation.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about antibiotic concentration and inhibition zone from a small test with poorly reported bacterial strain, agar, disc size and incubation.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-006",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A controlled follow-up investigation for Build an Evidence-Based Argument reports that evidence quality and competing explanations are evaluated. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about antibiotic concentration and inhibition zone from a small test with poorly reported bacterial strain, agar, disc size and incubation."
     },
     "answers": [
-      "A quotation is reasoning; the same outcome must therefore occur in every setting",
-      "A confident opinion about claim is stronger than measured or documented evidence",
-      "The evidence supports sources and culturally governed information are used with attribution and protocol, but it does not prove that every case will be identical"
+      "For antibiotic concentration and inhibition zone: Call the rule universal because one source reported it",
+      "For antibiotic concentration and inhibition zone: Reject all antibiotic concentration and inhibition zone evidence because this one source has limitations",
+      "For antibiotic concentration and inhibition zone: Report the observed antibiotic concentration-inhibition-zone diameter relationship only for the tested conditions and seek transparent, independent evidence before generalising"
     ],
     "correct": 2,
-    "explanation": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a antibiotic concentration and inhibition zone claim to source quality and tested conditions. This conclusion concerns antibiotic concentration and inhibition zone.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to antibiotic concentration and inhibition zone.",
     "structuredExplanation": {
-      "summary": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a antibiotic concentration and inhibition zone claim to source quality and tested conditions. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to antibiotic concentration and inhibition zone."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a model limitations review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a model limitations review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: A source claims a universal rule about fruit ripeness and vitamin C from a small test with poorly reported fruit variety, sample mass and extraction method. Which argument uses this evidence appropriately? Use the fruit ripeness and vitamin C evidence.",
+    "audioPrompt": "During the model limitations review, students observe: A source claims a universal rule about fruit ripeness and vitamin C from a small test with poorly reported fruit variety, sample mass and extraction method. Which argument uses this evidence appropriately? Use the fruit ripeness and vitamin C evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about fruit ripeness and vitamin C from a small test with poorly reported fruit variety, sample mass and extraction method.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about fruit ripeness and vitamin C from a small test with poorly reported fruit variety, sample mass and extraction method.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-007",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a model limitations review, the evidence states, “Use repeated discharge times”. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about fruit ripeness and vitamin C from a small test with poorly reported fruit variety, sample mass and extraction method."
     },
     "answers": [
-      "Arguments distinguish claim, evidence and reasoning; this interpretation can be checked against further evidence",
-      "More sources automatically means stronger evidence; one matching observation makes this explanation certain",
-      "Claim is the only relevant feature, so no mechanism or consequence needs explaining"
+      "For fruit ripeness and vitamin C: Report the observed ripeness stage-titration volume relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For fruit ripeness and vitamin C: Call the rule universal because one source reported it",
+      "For fruit ripeness and vitamin C: Reject all fruit ripeness and vitamin C evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a fruit ripeness and vitamin C claim to source quality and tested conditions. This conclusion concerns fruit ripeness and vitamin C.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to fruit ripeness and vitamin C.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a fruit ripeness and vitamin C claim to source quality and tested conditions. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to fruit ripeness and vitamin C."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During an ethics committee discussion, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During an ethics committee discussion, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: A source claims a universal rule about roof colour and model-house temperature from a small test with poorly reported house model, lamp distance, material and time. Which argument uses this evidence appropriately? Use the roof colour and model-house temperature evidence.",
+    "audioPrompt": "During the ethics committee discussion, students observe: A source claims a universal rule about roof colour and model-house temperature from a small test with poorly reported house model, lamp distance, material and time. Which argument uses this evidence appropriately? Use the roof colour and model-house temperature evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about roof colour and model-house temperature from a small test with poorly reported house model, lamp distance, material and time.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about roof colour and model-house temperature from a small test with poorly reported house model, lamp distance, material and time.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-008",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During an ethics committee discussion, the evidence states, “Prioritise relevance”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about roof colour and model-house temperature from a small test with poorly reported house model, lamp distance, material and time."
     },
     "answers": [
-      "A quotation is reasoning; the wider pattern does not need to be considered",
-      "The observation supports the idea that evidence quality and competing explanations are evaluated, within the limits of the investigation",
-      "Evidence caused the result because the two occurred together once"
+      "For roof colour and model-house temperature: Call the rule universal because one source reported it",
+      "For roof colour and model-house temperature: Report the observed roof colour-inside temperature rise relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For roof colour and model-house temperature: Reject all roof colour and model-house temperature evidence because this one source has limitations"
     ],
     "correct": 1,
-    "explanation": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a roof colour and model-house temperature claim to source quality and tested conditions. This conclusion concerns roof colour and model-house temperature.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to roof colour and model-house temperature.",
     "structuredExplanation": {
-      "summary": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a roof colour and model-house temperature claim to source quality and tested conditions. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to roof colour and model-house temperature."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a coastal field station report, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a coastal field station report, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: A source claims a universal rule about salinity and seed germination from a small test with poorly reported seed type, seed number, temperature and time. Which argument uses this evidence appropriately? Use the salinity and seed germination evidence.",
+    "audioPrompt": "During the coastal field station report, students observe: A source claims a universal rule about salinity and seed germination from a small test with poorly reported seed type, seed number, temperature and time. Which argument uses this evidence appropriately? Use the salinity and seed germination evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about salinity and seed germination from a small test with poorly reported seed type, seed number, temperature and time.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about salinity and seed germination from a small test with poorly reported seed type, seed number, temperature and time.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-009",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a coastal field station report, students compare evidence with reasoning. The evidence states, “Arguments distinguish claim”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about salinity and seed germination from a small test with poorly reported seed type, seed number, temperature and time."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links evidence with reasoning, so it can explain the relationship while still having limits"
+      "For salinity and seed germination: Call the rule universal because one source reported it",
+      "For salinity and seed germination: Reject all salinity and seed germination evidence because this one source has limitations",
+      "For salinity and seed germination: Report the observed salt concentration-germination percentage relationship only for the tested conditions and seek transparent, independent evidence before generalising"
     ],
     "correct": 2,
-    "explanation": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a salinity and seed germination claim to source quality and tested conditions. This conclusion concerns salinity and seed germination.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to salinity and seed germination.",
     "structuredExplanation": {
-      "summary": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a salinity and seed germination claim to source quality and tested conditions. This conclusion concerns salinity and seed germination.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to salinity and seed germination."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a renewable-energy trial, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a renewable-energy trial, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: A source claims a universal rule about load and bridge deflection from a small test with poorly reported bridge design, material, span and load position. Which argument uses this evidence appropriately? Use the load and bridge deflection evidence.",
+    "audioPrompt": "During the renewable-energy trial, students observe: A source claims a universal rule about load and bridge deflection from a small test with poorly reported bridge design, material, span and load position. Which argument uses this evidence appropriately? Use the load and bridge deflection evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about load and bridge deflection from a small test with poorly reported bridge design, material, span and load position.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about load and bridge deflection from a small test with poorly reported bridge design, material, span and load position.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-010",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a renewable-energy trial, the evidence states, “Claim: Battery A lasts longer under the tested load”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about load and bridge deflection from a small test with poorly reported bridge design, material, span and load position."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that arguments distinguish claim, evidence and reasoning",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to reasoning alone"
+      "For load and bridge deflection: Report the observed applied load-bridge deflection relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For load and bridge deflection: Call the rule universal because one source reported it",
+      "For load and bridge deflection: Reject all load and bridge deflection evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a load and bridge deflection claim to source quality and tested conditions. This conclusion concerns load and bridge deflection.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to load and bridge deflection.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a load and bridge deflection claim to source quality and tested conditions. This conclusion concerns load and bridge deflection.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to load and bridge deflection."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A hospital innovation briefing for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A hospital innovation briefing for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: A source claims a universal rule about wind speed and transpiration from a small test with poorly reported plant species, leaf area, light, temperature and time. Which argument uses this evidence appropriately? Use the wind speed and transpiration evidence.",
+    "audioPrompt": "During the hospital innovation briefing, students observe: A source claims a universal rule about wind speed and transpiration from a small test with poorly reported plant species, leaf area, light, temperature and time. Which argument uses this evidence appropriately? Use the wind speed and transpiration evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about wind speed and transpiration from a small test with poorly reported plant species, leaf area, light, temperature and time.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about wind speed and transpiration from a small test with poorly reported plant species, leaf area, light, temperature and time.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-011",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A hospital innovation briefing for Build an Evidence-Based Argument reports that sources and culturally governed information are used with attribution and protocol. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about wind speed and transpiration from a small test with poorly reported plant species, leaf area, light, temperature and time."
     },
     "answers": [
-      "More sources automatically means stronger evidence; the same outcome must therefore occur in every setting",
-      "The evidence supports evidence quality and competing explanations are evaluated, but it does not prove that every case will be identical",
-      "A confident opinion about claim is stronger than measured or documented evidence"
+      "For wind speed and transpiration: Call the rule universal because one source reported it",
+      "For wind speed and transpiration: Report the observed wind speed-plant mass loss relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For wind speed and transpiration: Reject all wind speed and transpiration evidence because this one source has limitations"
     ],
     "correct": 1,
-    "explanation": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a wind speed and transpiration claim to source quality and tested conditions. This conclusion concerns wind speed and transpiration.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to wind speed and transpiration.",
     "structuredExplanation": {
-      "summary": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a wind speed and transpiration claim to source quality and tested conditions. This conclusion concerns wind speed and transpiration.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to wind speed and transpiration."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "argument claim",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a geological survey update, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a geological survey update, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: A source claims a universal rule about particle size and dissolving from a small test with poorly reported solute mass, water volume, temperature and stirring. Which argument uses this evidence appropriately? Use the particle size and dissolving evidence.",
+    "audioPrompt": "During the geological survey update, students observe: A source claims a universal rule about particle size and dissolving from a small test with poorly reported solute mass, water volume, temperature and stirring. Which argument uses this evidence appropriately? Use the particle size and dissolving evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about particle size and dissolving from a small test with poorly reported solute mass, water volume, temperature and stirring.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about particle size and dissolving from a small test with poorly reported solute mass, water volume, temperature and stirring.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-012",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is claim. Question context: In a geological survey update, the evidence states, “Reasoning explains why the data support the limited tested claim and what remains uncertain”. Which interpretation is best supported?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about particle size and dissolving from a small test with poorly reported solute mass, water volume, temperature and stirring."
     },
     "answers": [
-      "A quotation is reasoning; one matching observation makes this explanation certain",
-      "Claim is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Sources and culturally governed information are used with attribution and protocol; this interpretation can be checked against further evidence"
+      "For particle size and dissolving: Call the rule universal because one source reported it",
+      "For particle size and dissolving: Reject all particle size and dissolving evidence because this one source has limitations",
+      "For particle size and dissolving: Report the observed solute particle size-dissolving time relationship only for the tested conditions and seek transparent, independent evidence before generalising"
     ],
     "correct": 2,
-    "explanation": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a particle size and dissolving claim to source quality and tested conditions. This conclusion concerns particle size and dissolving.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to particle size and dissolving.",
     "structuredExplanation": {
-      "summary": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about claim, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a particle size and dissolving claim to source quality and tested conditions. This conclusion concerns particle size and dissolving.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to particle size and dissolving."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "argument source quality",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a materials-testing laboratory, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a materials-testing laboratory, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: A source claims a universal rule about string length and pendulum period from a small test with poorly reported bob mass, release angle and timing method. Which argument uses this evidence appropriately? Use the string length and pendulum period evidence.",
+    "audioPrompt": "During the materials-testing laboratory, students observe: A source claims a universal rule about string length and pendulum period from a small test with poorly reported bob mass, release angle and timing method. Which argument uses this evidence appropriately? Use the string length and pendulum period evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about string length and pendulum period from a small test with poorly reported bob mass, release angle and timing method.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about string length and pendulum period from a small test with poorly reported bob mass, release angle and timing method.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-013",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is source quality. Question context: During a materials-testing laboratory, the evidence states, “Explain how the evidence supports or weakens the claim”. Which response applies the argument model most accurately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about string length and pendulum period from a small test with poorly reported bob mass, release angle and timing method."
     },
     "answers": [
-      "The observation supports the idea that arguments distinguish claim, evidence and reasoning, within the limits of the investigation",
-      "More sources automatically means stronger evidence; the wider pattern does not need to be considered",
-      "Evidence caused the result because the two occurred together once"
+      "For string length and pendulum period: Report the observed string length-period relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For string length and pendulum period: Call the rule universal because one source reported it",
+      "For string length and pendulum period: Reject all string length and pendulum period evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a string length and pendulum period claim to source quality and tested conditions. This conclusion concerns string length and pendulum period.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to string length and pendulum period.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about source quality, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a string length and pendulum period claim to source quality and tested conditions. This conclusion concerns string length and pendulum period.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to string length and pendulum period."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "argument evidence",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a documentary planning session, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a documentary planning session, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: A source claims a universal rule about battery temperature and motor speed from a small test with poorly reported battery type, motor, circuit and load. Which argument uses this evidence appropriately? Use the battery temperature and motor speed evidence.",
+    "audioPrompt": "During the documentary planning session, students observe: A source claims a universal rule about battery temperature and motor speed from a small test with poorly reported battery type, motor, circuit and load. Which argument uses this evidence appropriately? Use the battery temperature and motor speed evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about battery temperature and motor speed from a small test with poorly reported battery type, motor, circuit and load.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about battery temperature and motor speed from a small test with poorly reported battery type, motor, circuit and load.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-014",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is evidence. Question context: In a documentary planning session, students compare evidence with reasoning. The evidence states, “Evidence quality and competing explanations are evaluated”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about battery temperature and motor speed from a small test with poorly reported battery type, motor, circuit and load."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links evidence with reasoning, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "For battery temperature and motor speed: Call the rule universal because one source reported it",
+      "For battery temperature and motor speed: Report the observed battery temperature-motor rotations per minute relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For battery temperature and motor speed: Reject all battery temperature and motor speed evidence because this one source has limitations"
     ],
     "correct": 1,
-    "explanation": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a battery temperature and motor speed claim to source quality and tested conditions. This conclusion concerns battery temperature and motor speed.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to battery temperature and motor speed.",
     "structuredExplanation": {
-      "summary": "Evidence quality and competing explanations are evaluated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about evidence, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a battery temperature and motor speed claim to source quality and tested conditions. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to battery temperature and motor speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "argument reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a national data-set review, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a national data-set review, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: A source claims a universal rule about stream velocity and sediment size from a small test with poorly reported channel width, water depth and sediment mixture. Which argument uses this evidence appropriately? Use the stream velocity and sediment size evidence.",
+    "audioPrompt": "During the national data-set review, students observe: A source claims a universal rule about stream velocity and sediment size from a small test with poorly reported channel width, water depth and sediment mixture. Which argument uses this evidence appropriately? Use the stream velocity and sediment size evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about stream velocity and sediment size from a small test with poorly reported channel width, water depth and sediment mixture.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about stream velocity and sediment size from a small test with poorly reported channel width, water depth and sediment mixture.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-015",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is reasoning. Question context: During a national data-set review, the evidence states, “Use repeated discharge times”. What is the strongest scientific response to this result?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about stream velocity and sediment size from a small test with poorly reported channel width, water depth and sediment mixture."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to reasoning alone",
-      "Repeated evidence can support the conclusion that sources and culturally governed information are used with attribution and protocol"
+      "For stream velocity and sediment size: Call the rule universal because one source reported it",
+      "For stream velocity and sediment size: Reject all stream velocity and sediment size evidence because this one source has limitations",
+      "For stream velocity and sediment size: Report the observed stream velocity-largest transported grain relationship only for the tested conditions and seek transparent, independent evidence before generalising"
     ],
     "correct": 2,
-    "explanation": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a stream velocity and sediment size claim to source quality and tested conditions. This conclusion concerns stream velocity and sediment size.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to stream velocity and sediment size.",
     "structuredExplanation": {
-      "summary": "Sources and culturally governed information are used with attribution and protocol. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about reasoning, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a stream velocity and sediment size claim to source quality and tested conditions. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to stream velocity and sediment size."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "argument ethical citation and conclusion",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
-    "visual": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A final evidence conference for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A final evidence conference for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: A source claims a universal rule about leaf area and photosynthesis from a small test with poorly reported plant species, light intensity, carbon dioxide and temperature. Which argument uses this evidence appropriately? Use the leaf area and photosynthesis evidence.",
+    "audioPrompt": "During the final evidence conference, students observe: A source claims a universal rule about leaf area and photosynthesis from a small test with poorly reported plant species, light intensity, carbon dioxide and temperature. Which argument uses this evidence appropriately? Use the leaf area and photosynthesis evidence.",
+    "visual": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about leaf area and photosynthesis from a small test with poorly reported plant species, light intensity, carbon dioxide and temperature.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Build an Evidence-Based Argument observation card stating: A source claims a universal rule about leaf area and photosynthesis from a small test with poorly reported plant species, light intensity, carbon dioxide and temperature.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i07.svg#ac9s8i07-t-016",
-      "alt_text": "Build an Evidence-Based Argument evidence model linking claim, source quality, evidence, reasoning, ethical citation and conclusion. The highlighted stage is ethical citation and conclusion. Question context: A final evidence conference for Build an Evidence-Based Argument reports that prioritise relevance. Which revision would make the reasoning most reliable?"
+      "alt_text": "Build an Evidence-Based Argument observation card stating: A source claims a universal rule about leaf area and photosynthesis from a small test with poorly reported plant species, light intensity, carbon dioxide and temperature."
     },
     "answers": [
-      "The evidence supports arguments distinguish claim, evidence and reasoning, but it does not prove that every case will be identical",
-      "A quotation is reasoning; the same outcome must therefore occur in every setting",
-      "A confident opinion about claim is stronger than measured or documented evidence"
+      "For leaf area and photosynthesis: Report the observed leaf area exposed-oxygen production rate relationship only for the tested conditions and seek transparent, independent evidence before generalising",
+      "For leaf area and photosynthesis: Call the rule universal because one source reported it",
+      "For leaf area and photosynthesis: Reject all leaf area and photosynthesis evidence because this one source has limitations"
     ],
     "correct": 0,
-    "explanation": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "An evidence-based argument matches the scope of a leaf area and photosynthesis claim to source quality and tested conditions. This conclusion concerns leaf area and photosynthesis.\nHint: Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to leaf area and photosynthesis.",
     "structuredExplanation": {
-      "summary": "Arguments distinguish claim, evidence and reasoning. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical citation and conclusion, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An evidence-based argument matches the scope of a leaf area and photosynthesis claim to source quality and tested conditions. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Limit the claim and evaluate the evidence rather than choosing certainty or dismissal. Apply this to leaf area and photosynthesis."
     },
     "qualitySchema": "production-v1"
   }

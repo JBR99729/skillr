@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A new research proposal for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A new research proposal for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: Kidney tubules have folded membranes rich in transport proteins. How does this suit reabsorption?",
+    "audioPrompt": "During the new research proposal, students observe: Kidney tubules have folded membranes rich in transport proteins. How does this suit reabsorption?",
+    "visual": "From Cells to Organ Systems observation card stating: Kidney tubules have folded membranes rich in transport proteins.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: Kidney tubules have folded membranes rich in transport proteins.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-001",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A new research proposal for From Cells to Organ Systems reports that biological organisation proceeds from specialised cells to tissues. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems observation card stating: Kidney tubules have folded membranes rich in transport proteins."
     },
     "answers": [
-      "The evidence supports biological organisation proceeds from specialised cells to tissues, organs and systems, but it does not prove that every case will be identical",
-      "An organ works alone; the same outcome must therefore occur in every setting",
-      "A confident opinion about specialised cell is stronger than measured or documented evidence"
+      "Large membrane area supports selective movement of useful substances",
+      "Folds make urine flow backward",
+      "Proteins turn tubules into bones"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Large membrane area supports selective movement of useful substances\nHint: Relate membrane area to exchange.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Large membrane area supports selective movement of useful substances",
+      "hint": "Relate membrane area to exchange."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a cross-school data comparison, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a cross-school data comparison, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: A patient's kidneys remove urea poorly. How can this affect other systems?",
+    "audioPrompt": "During the cross-school data comparison, students observe: A patient's kidneys remove urea poorly. How can this affect other systems?",
+    "visual": "From Cells to Organ Systems observation card stating: A patient's kidneys remove urea poorly.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A patient's kidneys remove urea poorly.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-002",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a cross-school data comparison, the evidence states, “Alveoli have thin walls and a large surface area”. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A patient's kidneys remove urea poorly."
     },
     "answers": [
-      "All cells in an organ are the same; one matching observation makes this explanation certain",
-      "Structure at each level supports function; this interpretation can be checked against further evidence",
-      "Specialised cell is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Urea remains only inside kidneys",
+      "Waste accumulates in blood and can disrupt cells throughout the body",
+      "The digestive tract turns urea into oxygen"
     ],
     "correct": 1,
-    "explanation": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Waste accumulates in blood and can disrupt cells throughout the body\nHint: Blood links organs and waste removal.",
     "structuredExplanation": {
-      "summary": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Waste accumulates in blood and can disrupt cells throughout the body",
+      "hint": "Blood links organs and waste removal."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a technology evaluation panel, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a technology evaluation panel, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: During dehydration, kidneys produce a smaller volume of concentrated urine. What organism-level benefit follows?",
+    "audioPrompt": "During the technology evaluation panel, students observe: During dehydration, kidneys produce a smaller volume of concentrated urine. What organism-level benefit follows?",
+    "visual": "From Cells to Organ Systems observation card stating: During dehydration, kidneys produce a smaller volume of concentrated urine.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: During dehydration, kidneys produce a smaller volume of concentrated urine.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-003",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a technology evaluation panel, the evidence states, “A change at one level can affect survival of the whole organism”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: During dehydration, kidneys produce a smaller volume of concentrated urine."
     },
     "answers": [
-      "An organ works alone; the wider pattern does not need to be considered",
-      "Organ caused the result because the two occurred together once",
-      "The observation supports the idea that a change at one level can affect survival of the whole organism, within the limits of the investigation"
+      "More water is lost to cool the kidneys",
+      "Blood stops transporting solutes",
+      "More water is retained for body cells and circulation"
     ],
     "correct": 2,
-    "explanation": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "More water is retained for body cells and circulation\nHint: Connect kidney adjustment to water balance.",
     "structuredExplanation": {
-      "summary": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "More water is retained for body cells and circulation",
+      "hint": "Connect kidney adjustment to water balance."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a science exhibition caption, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a science exhibition caption, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: A nephron model is drawn as one straight tube. Which limitation matters?",
+    "audioPrompt": "During the science exhibition caption, students observe: A nephron model is drawn as one straight tube. Which limitation matters?",
+    "visual": "From Cells to Organ Systems observation card stating: A nephron model is drawn as one straight tube.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A nephron model is drawn as one straight tube.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-004",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a science exhibition caption, students compare organ with organ system. The evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A nephron model is drawn as one straight tube."
     },
     "answers": [
-      "The model links organ with organ system, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "It omits specialised regions and nearby capillaries used in filtration and reabsorption",
+      "Real nephrons contain no cells",
+      "Straight drawings cannot show flow direction"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It omits specialised regions and nearby capillaries used in filtration and reabsorption\nHint: Identify structures required for the function.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It omits specialised regions and nearby capillaries used in filtration and reabsorption",
+      "hint": "Identify structures required for the function."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a policy evidence hearing, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a policy evidence hearing, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: A spinal nerve is cut while the leg muscles remain intact. Why may movement fail?",
+    "audioPrompt": "During the policy evidence hearing, students observe: A spinal nerve is cut while the leg muscles remain intact. Why may movement fail?",
+    "visual": "From Cells to Organ Systems observation card stating: A spinal nerve is cut while the leg muscles remain intact.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A spinal nerve is cut while the leg muscles remain intact.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-005",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a policy evidence hearing, the evidence states, “Compare specialised cell types and the jobs they perform”. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A spinal nerve is cut while the leg muscles remain intact."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that structure at each level supports function",
-      "Several conditions can change together and the result can still be attributed to organ system alone"
+      "Muscle cells lose all mitochondria immediately",
+      "Signals cannot travel effectively between the nervous system and muscles",
+      "Bones stop supporting the leg"
     ],
     "correct": 1,
-    "explanation": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Signals cannot travel effectively between the nervous system and muscles\nHint: Trace communication to response.",
     "structuredExplanation": {
-      "summary": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Signals cannot travel effectively between the nervous system and muscles",
+      "hint": "Trace communication to response."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A controlled follow-up investigation for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A controlled follow-up investigation for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: Receptors in skin detect heat and impulses reach the brain. Which sequence represents organisation?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: Receptors in skin detect heat and impulses reach the brain. Which sequence represents organisation?",
+    "visual": "From Cells to Organ Systems observation card stating: Receptors in skin detect heat and impulses reach the brain.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: Receptors in skin detect heat and impulses reach the brain.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-006",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A controlled follow-up investigation for From Cells to Organ Systems reports that structure at each level supports function. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems observation card stating: Receptors in skin detect heat and impulses reach the brain."
     },
     "answers": [
-      "All cells in an organ are the same; the same outcome must therefore occur in every setting",
-      "A confident opinion about specialised cell is stronger than measured or documented evidence",
-      "The evidence supports a change at one level can affect survival of the whole organism, but it does not prove that every case will be identical"
+      "The nervous system is contained inside one receptor",
+      "Heat travels as blood through nerves",
+      "Receptor cells act in tissue within an organ linked to the nervous system"
     ],
     "correct": 2,
-    "explanation": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Receptor cells act in tissue within an organ linked to the nervous system\nHint: Follow the hierarchy and signal pathway.",
     "structuredExplanation": {
-      "summary": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Receptor cells act in tissue within an organ linked to the nervous system",
+      "hint": "Follow the hierarchy and signal pathway."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a model limitations review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a model limitations review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: An endocrine gland releases a hormone into blood. How does it reach a distant target organ?",
+    "audioPrompt": "During the model limitations review, students observe: An endocrine gland releases a hormone into blood. How does it reach a distant target organ?",
+    "visual": "From Cells to Organ Systems observation card stating: An endocrine gland releases a hormone into blood.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: An endocrine gland releases a hormone into blood.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-007",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a model limitations review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems observation card stating: An endocrine gland releases a hormone into blood."
     },
     "answers": [
-      "Biological organisation proceeds from specialised cells to tissues, organs and systems; this interpretation can be checked against further evidence",
-      "An organ works alone; one matching observation makes this explanation certain",
-      "Specialised cell is the only relevant feature, so no mechanism or consequence needs explaining"
+      "The circulatory system transports it to cells with matching receptors",
+      "Nerves turn the hormone into oxygen",
+      "The gland physically moves to the target"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "The circulatory system transports it to cells with matching receptors\nHint: Connect endocrine and circulatory systems.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The circulatory system transports it to cells with matching receptors",
+      "hint": "Connect endocrine and circulatory systems."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During an ethics committee discussion, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During an ethics committee discussion, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: Insulin is present but target cells lack working insulin receptors. Why can regulation still fail?",
+    "audioPrompt": "During the ethics committee discussion, students observe: Insulin is present but target cells lack working insulin receptors. Why can regulation still fail?",
+    "visual": "From Cells to Organ Systems observation card stating: Insulin is present but target cells lack working insulin receptors.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: Insulin is present but target cells lack working insulin receptors.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-008",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During an ethics committee discussion, the evidence states, “Trace its inputs”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: Insulin is present but target cells lack working insulin receptors."
     },
     "answers": [
-      "All cells in an organ are the same; the wider pattern does not need to be considered",
-      "The observation supports the idea that structure at each level supports function, within the limits of the investigation",
-      "Organ caused the result because the two occurred together once"
+      "The pancreas stops being an organ",
+      "Cells cannot respond properly to the chemical signal",
+      "Receptors digest glucose in the stomach"
     ],
     "correct": 1,
-    "explanation": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Cells cannot respond properly to the chemical signal\nHint: A signal needs receptive target cells.",
     "structuredExplanation": {
-      "summary": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Cells cannot respond properly to the chemical signal",
+      "hint": "A signal needs receptive target cells."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a coastal field station report, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a coastal field station report, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: A skeleton model shows joints fixed with glue. Which function can it not represent well?",
+    "audioPrompt": "During the coastal field station report, students observe: A skeleton model shows joints fixed with glue. Which function can it not represent well?",
+    "visual": "From Cells to Organ Systems observation card stating: A skeleton model shows joints fixed with glue.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A skeleton model shows joints fixed with glue.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-009",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a coastal field station report, students compare organ with organ system. The evidence states, “Biological organisation proceeds from specialised cells to tissues”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A skeleton model shows joints fixed with glue."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links organ with organ system, so it can explain the relationship while still having limits"
+      "Protection of the brain by the skull",
+      "Support provided by rigid bones",
+      "Movement produced where bones meet at movable joints"
     ],
     "correct": 2,
-    "explanation": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Movement produced where bones meet at movable joints\nHint: Identify what the fixed feature prevents.",
     "structuredExplanation": {
-      "summary": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Movement produced where bones meet at movable joints",
+      "hint": "Identify what the fixed feature prevents."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a renewable-energy trial, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a renewable-energy trial, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: A tendon is torn between muscle and bone. Why is limb movement weakened?",
+    "audioPrompt": "During the renewable-energy trial, students observe: A tendon is torn between muscle and bone. Why is limb movement weakened?",
+    "visual": "From Cells to Organ Systems observation card stating: A tendon is torn between muscle and bone.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A tendon is torn between muscle and bone.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-010",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a renewable-energy trial, the evidence states, “Alveoli have thin walls and a large surface area”. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A tendon is torn between muscle and bone."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that biological organisation proceeds from specialised cells to tissues, organs and systems",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to organ system alone"
+      "Muscle force is not transferred effectively to the bone",
+      "The bone can no longer produce nerve impulses",
+      "Tendons normally make red blood cells"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Muscle force is not transferred effectively to the bone\nHint: Trace force from muscle to skeleton.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Muscle force is not transferred effectively to the bone",
+      "hint": "Trace force from muscle to skeleton."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A hospital innovation briefing for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A hospital innovation briefing for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: Cartilage at a knee joint becomes thin. Which effect is likely?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: Cartilage at a knee joint becomes thin. Which effect is likely?",
+    "visual": "From Cells to Organ Systems observation card stating: Cartilage at a knee joint becomes thin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: Cartilage at a knee joint becomes thin.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-011",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A hospital innovation briefing for From Cells to Organ Systems reports that a change at one level can affect survival of the whole organism. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems observation card stating: Cartilage at a knee joint becomes thin."
     },
     "answers": [
-      "An organ works alone; the same outcome must therefore occur in every setting",
-      "The evidence supports structure at each level supports function, but it does not prove that every case will be identical",
-      "A confident opinion about specialised cell is stronger than measured or documented evidence"
+      "The knee absorbs more nutrients from food",
+      "More friction and less cushioning occur between moving bones",
+      "The cartilage pumps blood faster"
     ],
     "correct": 1,
-    "explanation": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "More friction and less cushioning occur between moving bones\nHint: Use cartilage's joint role.",
     "structuredExplanation": {
-      "summary": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "More friction and less cushioning occur between moving bones",
+      "hint": "Use cartilage's joint role."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "system specialised cell",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a geological survey update, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a geological survey update, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: A plant root system is small after prolonged soil compaction. How can shoot growth be affected?",
+    "audioPrompt": "During the geological survey update, students observe: A plant root system is small after prolonged soil compaction. How can shoot growth be affected?",
+    "visual": "From Cells to Organ Systems observation card stating: A plant root system is small after prolonged soil compaction.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A plant root system is small after prolonged soil compaction.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-012",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is specialised cell. Question context: In a geological survey update, the evidence states, “Damaged alveoli reduce oxygen transfer and affect the whole respiratory system”. Which interpretation is best supported?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A plant root system is small after prolonged soil compaction."
     },
     "answers": [
-      "All cells in an organ are the same; one matching observation makes this explanation certain",
-      "Specialised cell is the only relevant feature, so no mechanism or consequence needs explaining",
-      "A change at one level can affect survival of the whole organism; this interpretation can be checked against further evidence"
+      "Roots and shoots function independently",
+      "Compaction increases leaf gas exchange",
+      "Reduced water and mineral uptake limits processes in leaves and growing tissues"
     ],
     "correct": 2,
-    "explanation": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Reduced water and mineral uptake limits processes in leaves and growing tissues\nHint: Trace resources from root to shoot.",
     "structuredExplanation": {
-      "summary": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about specialised cell, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Reduced water and mineral uptake limits processes in leaves and growing tissues",
+      "hint": "Trace resources from root to shoot."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "system tissue",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a materials-testing laboratory, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a materials-testing laboratory, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: Leaves wilt although soil is moist because xylem vessels are air-blocked. What does this show?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: Leaves wilt although soil is moist because xylem vessels are air-blocked. What does this show?",
+    "visual": "From Cells to Organ Systems observation card stating: Leaves wilt although soil is moist because xylem vessels are air-blocked.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: Leaves wilt although soil is moist because xylem vessels are air-blocked.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-013",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is tissue. Question context: During a materials-testing laboratory, the evidence states, “Compare specialised cell types and the jobs they perform”. Which response applies the system model most accurately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: Leaves wilt although soil is moist because xylem vessels are air-blocked."
     },
     "answers": [
-      "The observation supports the idea that biological organisation proceeds from specialised cells to tissues, organs and systems, within the limits of the investigation",
-      "An organ works alone; the wider pattern does not need to be considered",
-      "Organ caused the result because the two occurred together once"
+      "Available water must also be transported through the plant",
+      "Wilting proves roots absorbed no water",
+      "Phloem alone controls cell-wall strength"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Available water must also be transported through the plant\nHint: Separate resource availability from delivery.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about tissue, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Available water must also be transported through the plant",
+      "hint": "Separate resource availability from delivery."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "system organ",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a documentary planning session, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a documentary planning session, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: A fish gill has many filaments and lamellae supplied with blood. How does this structure support the system?",
+    "audioPrompt": "During the documentary planning session, students observe: A fish gill has many filaments and lamellae supplied with blood. How does this structure support the system?",
+    "visual": "From Cells to Organ Systems observation card stating: A fish gill has many filaments and lamellae supplied with blood.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A fish gill has many filaments and lamellae supplied with blood.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-014",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ. Question context: In a documentary planning session, students compare organ with organ system. The evidence states, “Structure at each level supports function”. Which conclusion uses evidence appropriately?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A fish gill has many filaments and lamellae supplied with blood."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links organ with organ system, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Filaments grind food",
+      "Large surface area permits gas exchange that supplies respiring tissues",
+      "Lamellae produce blood cells from water"
     ],
     "correct": 1,
-    "explanation": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Large surface area permits gas exchange that supplies respiring tissues\nHint: Link exchange surface to circulation.",
     "structuredExplanation": {
-      "summary": "Structure at each level supports function. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Large surface area permits gas exchange that supplies respiring tissues",
+      "hint": "Link exchange surface to circulation."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "system organ system",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a national data-set review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a national data-set review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: A model lung is a balloon inside a bottle pulled by a rubber sheet. What can the sheet represent?",
+    "audioPrompt": "During the national data-set review, students observe: A model lung is a balloon inside a bottle pulled by a rubber sheet. What can the sheet represent?",
+    "visual": "From Cells to Organ Systems observation card stating: A model lung is a balloon inside a bottle pulled by a rubber sheet.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: A model lung is a balloon inside a bottle pulled by a rubber sheet.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-015",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is organ system. Question context: During a national data-set review, the evidence states, “These structures shorten diffusion distance and increase gas exchange”. What is the strongest scientific response to this result?"
+      "alt_text": "From Cells to Organ Systems observation card stating: A model lung is a balloon inside a bottle pulled by a rubber sheet."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to organ system alone",
-      "Repeated evidence can support the conclusion that a change at one level can affect survival of the whole organism"
+      "Alveolar diffusion into capillaries",
+      "Oxygen binding chemically to haemoglobin",
+      "Diaphragm movement changing chest volume and air pressure"
     ],
     "correct": 2,
-    "explanation": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Diaphragm movement changing chest volume and air pressure\nHint: State what the mechanical model can show.",
     "structuredExplanation": {
-      "summary": "A change at one level can affect survival of the whole organism. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about organ system, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Diaphragm movement changing chest volume and air pressure",
+      "hint": "State what the mechanical model can show."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "system survival",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
-    "visual": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A final evidence conference for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A final evidence conference for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: The bottle-lung model uses one large balloon instead of millions of alveoli. Which limitation follows?",
+    "audioPrompt": "During the final evidence conference, students observe: The bottle-lung model uses one large balloon instead of millions of alveoli. Which limitation follows?",
+    "visual": "From Cells to Organ Systems observation card stating: The bottle-lung model uses one large balloon instead of millions of alveoli.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"From Cells to Organ Systems observation card stating: The bottle-lung model uses one large balloon instead of millions of alveoli.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u02.svg#ac9s8u02-t-016",
-      "alt_text": "From Cells to Organ Systems evidence model linking specialised cell, tissue, organ, organ system, survival. The highlighted stage is survival. Question context: A final evidence conference for From Cells to Organ Systems reports that trace its inputs. Which revision would make the reasoning most reliable?"
+      "alt_text": "From Cells to Organ Systems observation card stating: The bottle-lung model uses one large balloon instead of millions of alveoli."
     },
     "answers": [
-      "The evidence supports biological organisation proceeds from specialised cells to tissues, organs and systems, but it does not prove that every case will be identical",
-      "All cells in an organ are the same; the same outcome must therefore occur in every setting",
-      "A confident opinion about specialised cell is stronger than measured or documented evidence"
+      "It cannot represent the enormous exchange surface or fine air-blood boundary",
+      "It proves lungs contain no air",
+      "It exaggerates diaphragm movement only"
     ],
     "correct": 0,
-    "explanation": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "It cannot represent the enormous exchange surface or fine air-blood boundary\nHint: Compare model scale with real lung structure.",
     "structuredExplanation": {
-      "summary": "Biological organisation proceeds from specialised cells to tissues, organs and systems. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about survival, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "It cannot represent the enormous exchange surface or fine air-blood boundary",
+      "hint": "Compare model scale with real lung structure."
     },
     "qualitySchema": "production-v1"
   }

@@ -15,6 +15,19 @@ const GENERIC = [
   /which option stays focused on the curriculum goal/i,
   /what should students be able to explain or demonstrate after this unit/i,
   /this matches AC9/i,
+  /which interpretation is best supported\??$/i,
+  /which response applies the .+ model most accurately\??$/i,
+  /which conclusion uses evidence appropriately\??$/i,
+  /what is the strongest scientific response to this result\??$/i,
+  /which revision would make the reasoning most reliable\??$/i,
+];
+const GENERIC_CHOICES = [
+  /this interpretation can be checked against further evidence/i,
+  /within the limits of the investigation/i,
+  /while still having limits/i,
+  /does not prove that every case will be identical/i,
+  /conflicting results should be removed because only results matching the prediction are useful/i,
+  /a confident opinion .+ is stronger than measured or documented evidence/i,
 ];
 
 const normalise = (value) => String(value ?? "")
@@ -151,6 +164,8 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
     const positions = [0, 0, 0];
     const localIds = new Set();
     const localPrompts = new Set();
+    const localEvidence = new Set();
+    const stemFamilies = new Map();
     for (const [offset, item] of banks[mode].entries()) {
       const tag = `${mode} item ${offset + 1}`;
       const prompt = normalise(item.question);
@@ -159,12 +174,19 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
       else { localIds.add(id); globalIds.add(id); }
       if (!prompt || localPrompts.has(prompt) || globalPrompts.has(prompt)) add(code, `${tag} duplicate/missing prompt`);
       else { localPrompts.add(prompt); globalPrompts.add(prompt); }
+      const evidenceMatch = String(item.question).match(/students observe:\s*(.+?)\.\s*[^.?!]+[?]/i);
+      if (evidenceMatch) {
+        const evidence = normalise(evidenceMatch[1]);
+        if (localEvidence.has(evidence)) add(code, `${tag} repeated authored evidence scenario`);
+        localEvidence.add(evidence);
+      }
       if (GENERIC.some((pattern) => pattern.test(String(item.question)) || pattern.test(String(item.explanation)))) add(code, `${tag} generic curriculum prompt`);
       if (/\.\.\.|…/.test(String(item.question)) || answers(item).some((choice) => /\.\.\.|…/.test(String(choice?.text ?? choice)))) add(code, `${tag} truncated text`);
       if (/\b(?:and|or|of|to|with|including|such as|the)\.(?:[”"']?\s|$)/i.test(String(item.question))) add(code, `${tag} sentence fragment`);
       if (/[.!?][”"']?\.(?:\s|$)/.test(String(item.question))) add(code, `${tag} doubled punctuation`);
       if (item.audio_prompt !== item.question && item.audioPrompt !== item.question) add(code, `${tag} missing/mismatched audio prompt`);
       const choices = answers(item);
+      if (choices.some((choice) => GENERIC_CHOICES.some((pattern) => pattern.test(String(choice?.text ?? choice))))) add(code, `${tag} generic reasoning choice`);
       if (choices.length !== 3) add(code, `${tag} does not have 3 choices`);
       if (new Set(choices.map((choice) => normalise(choice?.text ?? choice))).size !== choices.length) add(code, `${tag} duplicate choice text`);
       const correct = correctIndex(item, choices);
@@ -180,7 +202,13 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
         if (!fs.existsSync(file)) add(code, `${tag} missing visual asset`);
         else if (symbol && !fs.readFileSync(file, "utf8").includes(`id="${symbol}"`)) add(code, `${tag} missing SVG symbol`);
       }
+      const family = normalise(item.question)
+        .replace(/\b\d+(?:\.\d+)?\b/g, "#")
+        .replace(/“[^”]+”/g, "evidence")
+        .replace(/\b(?:class|museum|field|laboratory|community|digital|student|engineering|data|school|council|peer|environmental|medical|science|classroom|regional|equipment|public|independent|risk|graph|claim|new|cross|technology|policy|controlled|coastal|renewable|hospital|geological|materials|documentary|national|final)[a-z ]{0,32}\b/g, "context");
+      stemFamilies.set(family, (stemFamilies.get(family) ?? 0) + 1);
     }
+    if ([...stemFamilies.values()].some((count) => count > 3)) add(code, `${mode} repeated stem family`);
     if (banks[mode].length >= (mode === "practice" ? 24 : 16) && Math.max(...positions) - Math.min(...positions) > 1) add(code, `${mode} correct positions unbalanced`);
   }
 }

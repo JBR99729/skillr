@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_data_set",
-    "question": "In a class investigation, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: Solar-cell power generally rises from 20 to 100 light units, except one low result at 80 units. Which analysis is most defensible?",
+    "audio_prompt": "During a class investigation, students observe: Solar-cell power generally rises from 20 to 100 light units, except one low result at 80 units. Which analysis is most defensible?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-001",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a class investigation, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Solar-cell power generally rises from 20 to 100 light units, except one low result at 80 units."
     },
     "answers": [
       {
-        "text": "Patterns and trends are described with direction and evidence; this interpretation can be checked against further evidence",
+        "text": "Report the overall positive relationship and investigate the anomalous 80-unit result",
         "is_correct": true
       },
       {
-        "text": "An anomaly should be deleted; one matching observation makes this explanation certain",
+        "text": "Delete the low result without mentioning it",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Say there is no pattern because one point differs",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis reports the main trend while examining rather than hiding anomalies.",
+      "hint": "Describe both the broad direction and the unusual point."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_pattern",
-    "question": "During a museum evidence display, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
+    "question": "During a museum evidence display, students observe: Ice-melt times are 12, 13, 12, 14 and 37 minutes under the same condition. What is the best next step?",
+    "audio_prompt": "During a museum evidence display, students observe: Ice-melt times are 12, 13, 12, 14 and 37 minutes under the same condition. What is the best next step?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-002",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a museum evidence display, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Ice-melt times are 12, 13, 12, 14 and 37 minutes under the same condition."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; the wider pattern does not need to be considered",
+        "text": "Remove 37 solely because it changes the mean",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that anomalies are identified and investigated, within the limits of the investigation",
+        "text": "Check the 37-minute trial for a procedural or recording difference and repeat if justified",
         "is_correct": true
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "Conclude that all melt times are random",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "An outlier prompts a documented check before exclusion or repetition.",
+      "hint": "Look for a specific reason the unusual trial differed."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_trend",
-    "question": "In a field-team briefing, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: Cities with more firefighters often have greater fire damage. Why does this correlation not show that firefighters cause damage?",
+    "audio_prompt": "During a field-team briefing, students observe: Cities with more firefighters often have greater fire damage. Why does this correlation not show that firefighters cause damage?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-003",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a field-team briefing, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Cities with more firefighters often have greater fire damage."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Any positive correlation proves the first variable causes the second",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Fire damage cannot be measured numerically",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "Larger fires can cause both more damage and deployment of more firefighters",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A third factor can explain why two variables change together.",
+      "hint": "Ask what might cause both observed quantities to increase."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_relationship",
-    "question": "During a laboratory notebook, the evidence states, “Check design”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Check design”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: Plant growth rises from 0 to 4 grams of fertiliser, then falls at 8 grams. Which statement describes the pattern?",
+    "audio_prompt": "During a laboratory notebook, students observe: Plant growth rises from 0 to 4 grams of fertiliser, then falls at 8 grams. Which statement describes the pattern?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-004",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a laboratory notebook, the evidence states, “Check design”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Plant growth rises from 0 to 4 grams of fertiliser, then falls at 8 grams."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that patterns and trends are described with direction and evidence",
+        "text": "Growth increases to an apparent optimum, then decreases at the highest dose",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "More fertiliser always produces more growth",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "Fertiliser has no relationship with growth because the trend is not a straight line",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Scientific relationships may be curved and include an optimum rather than a constant trend.",
+      "hint": "Describe what happens before and after the peak."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_anomaly_and_explanation",
-    "question": "A community science meeting for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: A treatment group averages 18 cm and a control group 17 cm, but both range from 10 to 25 cm. What limits a strong conclusion?",
+    "audio_prompt": "During a community science meeting, students observe: A treatment group averages 18 cm and a control group 17 cm, but both range from 10 to 25 cm. What limits a strong conclusion?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-005",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A community science meeting for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: A treatment group averages 18 cm and a control group 17 cm, but both range from 10 to 25 cm."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; the same outcome must therefore occur in every setting",
+        "text": "Any one-centimetre mean difference proves the treatment works",
         "is_correct": false
       },
       {
-        "text": "The evidence supports anomalies are identified and investigated, but it does not prove that every case will be identical",
+        "text": "The difference in means is small compared with the overlapping variation",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "Ranges should be ignored whenever means are available",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Group difference should be interpreted alongside spread and overlap.",
+      "hint": "Compare the mean gap with variation within each group."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_data_set",
-    "question": "In a digital model review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: Every fifth quadrat along one path contains fewer weeds toward the shaded end. Which conclusion stays within the evidence?",
+    "audio_prompt": "During a digital model review, students observe: Every fifth quadrat along one path contains fewer weeds toward the shaded end. Which conclusion stays within the evidence?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-006",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a digital model review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Every fifth quadrat along one path contains fewer weeds toward the shaded end."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; one matching observation makes this explanation certain",
+        "text": "Shade is proven to kill every weed species everywhere",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "The data show weeds caused the trees to grow",
         "is_correct": false
       },
       {
-        "text": "Causal claims require more than correlation; this interpretation can be checked against further evidence",
+        "text": "Along this path, weed abundance decreased as shade increased",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A conclusion should match the sampled location, variables and observational design.",
+      "hint": "Avoid extending one transect to all habitats or claiming causation."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_pattern",
-    "question": "During a student research poster, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
+    "question": "During a student research poster, students observe: Reaction time improves over five repeated attempts with the same participants. Which alternative explanation should be considered?",
+    "audio_prompt": "During a student research poster, students observe: Reaction time improves over five repeated attempts with the same participants. Which alternative explanation should be considered?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-007",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a student research poster, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Reaction time improves over five repeated attempts with the same participants."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that patterns and trends are described with direction and evidence, within the limits of the investigation",
+        "text": "Participants may improve through practice rather than because of the intended treatment",
         "is_correct": true
       },
       {
-        "text": "An anomaly should be deleted; the wider pattern does not need to be considered",
+        "text": "Repeated measurements can never show a trend",
         "is_correct": false
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "The last result is automatically the only valid result",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Practice effects can create a time trend unrelated to the treatment.",
+      "hint": "Consider what participants learn during repeated trials."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_trend",
-    "question": "In an engineering design check, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: Bacterial colony counts are 42, 39 and 45 for control plates, and 3, 5 and 4 for treated plates. Which pattern is supported?",
+    "audio_prompt": "During an engineering design check, students observe: Bacterial colony counts are 42, 39 and 45 for control plates, and 3, 5 and 4 for treated plates. Which pattern is supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-008",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In an engineering design check, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Bacterial colony counts are 42, 39 and 45 for control plates, and 3, 5 and 4 for treated plates."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "The treatment eliminates every bacterium in all environments",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "Treated plates consistently have far fewer colonies under the tested conditions",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The groups are equivalent because neither set has identical repeats",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "The repeated values support a large group difference while the conclusion remains conditional.",
+      "hint": "Compare the ranges, then limit the claim to this test."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_relationship",
-    "question": "During a data-team discussion, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: Monthly temperature and electricity use rise together in summer but separate in winter. Which analysis is useful?",
+    "audio_prompt": "During a data-team discussion, students observe: Monthly temperature and electricity use rise together in summer but separate in winter. Which analysis is useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-009",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a data-team discussion, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Monthly temperature and electricity use rise together in summer but separate in winter."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Fit one causal claim to every month regardless of the changed pattern",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "Discard winter because it conflicts with the summer relationship",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that causal claims require more than correlation",
+        "text": "Describe the seasonal relationship and test other influences such as heating type and daylight",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Changing patterns can signal additional variables or mechanisms.",
+      "hint": "Use the conflicting season to refine the explanation."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_anomaly_and_explanation",
-    "question": "A school science report for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: A graph appears to show a steep increase, but the vertical scale covers only 50.0 to 50.5. What should the analyst do?",
+    "audio_prompt": "During a school science report, students observe: A graph appears to show a steep increase, but the vertical scale covers only 50.0 to 50.5. What should the analyst do?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-010",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A school science report for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: A graph appears to show a steep increase, but the vertical scale covers only 50.0 to 50.5."
     },
     "answers": [
       {
-        "text": "The evidence supports patterns and trends are described with direction and evidence, but it does not prove that every case will be identical",
+        "text": "Quantify the actual change and consider whether it is meaningful relative to uncertainty",
         "is_correct": true
       },
       {
-        "text": "Two variables moving together proves causation; the same outcome must therefore occur in every setting",
+        "text": "Describe the increase as huge because the line is steep",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "Ignore axis values and use only the line angle",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Trend size depends on numerical scale and measurement uncertainty, not visual steepness alone.",
+      "hint": "Read the values before judging the effect."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_data_set",
-    "question": "In a council evidence summary, the evidence states, “Check shading”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Check shading”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: Results from study 11 show an overall water temperature-dissolving time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: Results from study 11 show an overall water temperature-dissolving time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the water temperature and sugar dissolving time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-011",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a council evidence summary, the evidence states, “Check shading”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 11 show an overall water temperature-dissolving time pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; one matching observation makes this explanation certain",
+        "text": "For water temperature and sugar dissolving time: Delete the unusual dissolving time value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Anomalies are identified and investigated; this interpretation can be checked against further evidence",
+        "text": "For water temperature and sugar dissolving time: Describe the direction and size of the water temperature-dissolving time pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For water temperature and sugar dissolving time: Claim water temperature certainly causes dissolving time because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of water temperature and sugar dissolving time includes trend, variation, anomalies and limits on causal claims. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to water temperature and sugar dissolving time."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_pattern",
-    "question": "During a peer-review conversation, the evidence states, “Check design”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Check design”. Which response applies the data model most accurately?",
+    "question": "During a peer-review conversation, students observe: Results from study 12 show an overall ramp angle-travel time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: Results from study 12 show an overall ramp angle-travel time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the ramp angle and toy-car travel time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-012",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a peer-review conversation, the evidence states, “Check design”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 12 show an overall ramp angle-travel time pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; the wider pattern does not need to be considered",
+        "text": "For ramp angle and toy-car travel time: Delete the unusual travel time value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For ramp angle and toy-car travel time: Claim ramp angle certainly causes travel time because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that causal claims require more than correlation, within the limits of the investigation",
+        "text": "For ramp angle and toy-car travel time: Describe the direction and size of the ramp angle-travel time pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of ramp angle and toy-car travel time includes trend, variation, anomalies and limits on causal claims. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to ramp angle and toy-car travel time."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_trend",
-    "question": "In an environmental monitoring project, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: Results from study 13 show an overall light intensity-bubbles per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: Results from study 13 show an overall light intensity-bubbles per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the light intensity and pondweed bubble rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-013",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In an environmental monitoring project, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 13 show an overall light intensity-bubbles per minute pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For light intensity and pondweed bubble rate: Describe the direction and size of the light intensity-bubbles per minute pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For light intensity and pondweed bubble rate: Delete the unusual bubbles per minute value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For light intensity and pondweed bubble rate: Claim light intensity certainly causes bubbles per minute because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of light intensity and pondweed bubble rate includes trend, variation, anomalies and limits on causal claims. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to light intensity and pondweed bubble rate."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_relationship",
-    "question": "During a medical research case, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: Results from study 14 show an overall soil type-height after 14 days pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: Results from study 14 show an overall soil type-height after 14 days pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the soil type and bean-seedling height evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-014",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a medical research case, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 14 show an overall soil type-height after 14 days pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For soil type and bean-seedling height: Delete the unusual height after 14 days value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that anomalies are identified and investigated",
+        "text": "For soil type and bean-seedling height: Describe the direction and size of the soil type-height after 14 days pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For soil type and bean-seedling height: Claim soil type certainly causes height after 14 days because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of soil type and bean-seedling height includes trend, variation, anomalies and limits on causal claims. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to soil type and bean-seedling height."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_anomaly_and_explanation",
-    "question": "A science-news fact check for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: Results from study 15 show an overall wire length-current pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: Results from study 15 show an overall wire length-current pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the wire length and electrical current evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-015",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A science-news fact check for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 15 show an overall wire length-current pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; the same outcome must therefore occur in every setting",
+        "text": "For wire length and electrical current: Delete the unusual current value without reporting it",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For wire length and electrical current: Claim wire length certainly causes current because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The evidence supports causal claims require more than correlation, but it does not prove that every case will be identical",
+        "text": "For wire length and electrical current: Describe the direction and size of the wire length-current pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of wire length and electrical current includes trend, variation, anomalies and limits on causal claims. This conclusion concerns wire length and electrical current.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to wire length and electrical current."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_data_set",
-    "question": "In a classroom model test, the evidence states, “Patterns and trends are described with direction and evidence”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Patterns and trends are described with direction and evidence”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: Results from study 16 show an overall exercise duration-recovery time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: Results from study 16 show an overall exercise duration-recovery time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the exercise duration and pulse recovery evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-016",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a classroom model test, the evidence states, “Patterns and trends are described with direction and evidence”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 16 show an overall exercise duration-recovery time pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Patterns and trends are described with direction and evidence; this interpretation can be checked against further evidence",
+        "text": "For exercise duration and pulse recovery: Describe the direction and size of the exercise duration-recovery time pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Two variables moving together proves causation; one matching observation makes this explanation certain",
+        "text": "For exercise duration and pulse recovery: Delete the unusual recovery time value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For exercise duration and pulse recovery: Claim exercise duration certainly causes recovery time because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of exercise duration and pulse recovery includes trend, variation, anomalies and limits on causal claims. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to exercise duration and pulse recovery."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_pattern",
-    "question": "During a regional planning workshop, the evidence states, “Solar output generally rises with light intensity”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “Solar output generally rises with light intensity”. Which response applies the data model most accurately?",
+    "question": "During a regional planning workshop, students observe: Results from study 17 show an overall salt concentration-floating height pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: Results from study 17 show an overall salt concentration-floating height pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the salt concentration and egg buoyancy evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-017",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a regional planning workshop, the evidence states, “Solar output generally rises with light intensity”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 17 show an overall salt concentration-floating height pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; the wider pattern does not need to be considered",
+        "text": "For salt concentration and egg buoyancy: Delete the unusual floating height value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that anomalies are identified and investigated, within the limits of the investigation",
+        "text": "For salt concentration and egg buoyancy: Describe the direction and size of the salt concentration-floating height pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For salt concentration and egg buoyancy: Claim salt concentration certainly causes floating height because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of salt concentration and egg buoyancy includes trend, variation, anomalies and limits on causal claims. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to salt concentration and egg buoyancy."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_trend",
-    "question": "In an equipment selection task, students compare trend with relationship. The evidence states, “Causal claims require more than correlation”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare trend with relationship. The evidence states, “Causal claims require more than correlation”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: Results from study 18 show an overall insulation material-temperature loss pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: Results from study 18 show an overall insulation material-temperature loss pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the insulation material and cooling evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-018",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In an equipment selection task, students compare trend with relationship. The evidence states, “Causal claims require more than correlation”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 18 show an overall insulation material-temperature loss pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For insulation material and cooling: Delete the unusual temperature loss value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For insulation material and cooling: Claim insulation material certainly causes temperature loss because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For insulation material and cooling: Describe the direction and size of the insulation material-temperature loss pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of insulation material and cooling includes trend, variation, anomalies and limits on causal claims. This conclusion concerns insulation material and cooling.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to insulation material and cooling."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_relationship",
-    "question": "During a public information draft, the evidence states, “Check shading”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “Check shading”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: Results from study 19 show an overall exposed surface area-mass of water lost pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: Results from study 19 show an overall exposed surface area-mass of water lost pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the surface area and evaporation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-019",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a public information draft, the evidence states, “Check shading”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 19 show an overall exposed surface area-mass of water lost pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that patterns and trends are described with direction and evidence",
+        "text": "For surface area and evaporation: Describe the direction and size of the exposed surface area-mass of water lost pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For surface area and evaporation: Delete the unusual mass of water lost value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For surface area and evaporation: Claim exposed surface area certainly causes mass of water lost because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of surface area and evaporation includes trend, variation, anomalies and limits on causal claims. This conclusion concerns surface area and evaporation.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to surface area and evaporation."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_anomaly_and_explanation",
-    "question": "An independent replication study for Find Patterns Without Ignoring Anomalies reports that check design. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Find Patterns Without Ignoring Anomalies reports that check design. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: Results from study 20 show an overall pH-time to digest starch pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: Results from study 20 show an overall pH-time to digest starch pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the pH and amylase activity evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-020",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: An independent replication study for Find Patterns Without Ignoring Anomalies reports that check design. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 20 show an overall pH-time to digest starch pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; the same outcome must therefore occur in every setting",
+        "text": "For pH and amylase activity: Delete the unusual time to digest starch value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The evidence supports anomalies are identified and investigated, but it does not prove that every case will be identical",
+        "text": "For pH and amylase activity: Describe the direction and size of the pH-time to digest starch pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For pH and amylase activity: Claim pH certainly causes time to digest starch because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of pH and amylase activity includes trend, variation, anomalies and limits on causal claims. This conclusion concerns pH and amylase activity.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to pH and amylase activity."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_data_set",
-    "question": "In a risk-assessment meeting, the evidence states, “Anomalies are identified and investigated”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Anomalies are identified and investigated”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: Results from study 21 show an overall drop height-crater diameter pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: Results from study 21 show an overall drop height-crater diameter pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the drop height and crater diameter evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-021",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a risk-assessment meeting, the evidence states, “Anomalies are identified and investigated”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 21 show an overall drop height-crater diameter pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; one matching observation makes this explanation certain",
+        "text": "For drop height and crater diameter: Delete the unusual crater diameter value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For drop height and crater diameter: Claim drop height certainly causes crater diameter because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "Causal claims require more than correlation; this interpretation can be checked against further evidence",
+        "text": "For drop height and crater diameter: Describe the direction and size of the drop height-crater diameter pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of drop height and crater diameter includes trend, variation, anomalies and limits on causal claims. This conclusion concerns drop height and crater diameter.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to drop height and crater diameter."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_pattern",
-    "question": "During a graph interpretation task, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which response applies the data model most accurately?",
+    "question": "During a graph interpretation task, students observe: Results from study 22 show an overall fertiliser concentration-change in frond number pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: Results from study 22 show an overall fertiliser concentration-change in frond number pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the fertiliser concentration and duckweed growth evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-022",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a graph interpretation task, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 22 show an overall fertiliser concentration-change in frond number pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that patterns and trends are described with direction and evidence, within the limits of the investigation",
+        "text": "For fertiliser concentration and duckweed growth: Describe the direction and size of the fertiliser concentration-change in frond number pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Two variables moving together proves causation; the wider pattern does not need to be considered",
+        "text": "For fertiliser concentration and duckweed growth: Delete the unusual change in frond number value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For fertiliser concentration and duckweed growth: Claim fertiliser concentration certainly causes change in frond number because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of fertiliser concentration and duckweed growth includes trend, variation, anomalies and limits on causal claims. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to fertiliser concentration and duckweed growth."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_trend",
-    "question": "In a claim-evidence-reasoning response, students compare trend with relationship. The evidence states, “Investigate it and justify any treatment transparently”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare trend with relationship. The evidence states, “Investigate it and justify any treatment transparently”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: Results from study 23 show an overall blade length-rotations per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: Results from study 23 show an overall blade length-rotations per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the blade length and paper-turbine rotation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-023",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a claim-evidence-reasoning response, students compare trend with relationship. The evidence states, “Investigate it and justify any treatment transparently”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 23 show an overall blade length-rotations per minute pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For blade length and paper-turbine rotation: Delete the unusual rotations per minute value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For blade length and paper-turbine rotation: Describe the direction and size of the blade length-rotations per minute pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For blade length and paper-turbine rotation: Claim blade length certainly causes rotations per minute because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of blade length and paper-turbine rotation includes trend, variation, anomalies and limits on causal claims. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to blade length and paper-turbine rotation."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "practice",
     "skill": "data_relationship",
-    "question": "During a scientific-method audit, the evidence states, “Patterns and trends are described with direction and evidence”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Patterns and trends are described with direction and evidence”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: Results from study 24 show an overall detergent concentration-drops held on a coin pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: Results from study 24 show an overall detergent concentration-drops held on a coin pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the detergent concentration and surface tension evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-p-024",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a scientific-method audit, the evidence states, “Patterns and trends are described with direction and evidence”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 24 show an overall detergent concentration-drops held on a coin pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For detergent concentration and surface tension: Delete the unusual drops held on a coin value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For detergent concentration and surface tension: Claim detergent concentration certainly causes drops held on a coin because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that causal claims require more than correlation",
+        "text": "For detergent concentration and surface tension: Describe the direction and size of the detergent concentration-drops held on a coin pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of detergent concentration and surface tension includes trend, variation, anomalies and limits on causal claims. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to detergent concentration and surface tension."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_anomaly_and_explanation",
-    "question": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: Results from study 25 show an overall speaker frequency-reported pitch pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: Results from study 25 show an overall speaker frequency-reported pitch pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the sound frequency and perceived pitch evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-001",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 25 show an overall speaker frequency-reported pitch pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The evidence supports patterns and trends are described with direction and evidence, but it does not prove that every case will be identical",
+        "text": "For sound frequency and perceived pitch: Describe the direction and size of the speaker frequency-reported pitch pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "An anomaly should be deleted; the same outcome must therefore occur in every setting",
+        "text": "For sound frequency and perceived pitch: Delete the unusual reported pitch value without reporting it",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For sound frequency and perceived pitch: Claim speaker frequency certainly causes reported pitch because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of sound frequency and perceived pitch includes trend, variation, anomalies and limits on causal claims. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to sound frequency and perceived pitch."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_data_set",
-    "question": "In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: Results from study 26 show an overall acid concentration-gas volume per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: Results from study 26 show an overall acid concentration-gas volume per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the acid concentration and reaction rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-002",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 26 show an overall acid concentration-gas volume per minute pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; one matching observation makes this explanation certain",
+        "text": "For acid concentration and reaction rate: Delete the unusual gas volume per minute value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Anomalies are identified and investigated; this interpretation can be checked against further evidence",
+        "text": "For acid concentration and reaction rate: Describe the direction and size of the acid concentration-gas volume per minute pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For acid concentration and reaction rate: Claim acid concentration certainly causes gas volume per minute because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of acid concentration and reaction rate includes trend, variation, anomalies and limits on causal claims. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to acid concentration and reaction rate."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_pattern",
-    "question": "During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
+    "question": "During the technology evaluation panel, students observe: Results from study 27 show an overall percentage shade cover-soil moisture after six hours pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: Results from study 27 show an overall percentage shade cover-soil moisture after six hours pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the shade cover and soil moisture evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-003",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 27 show an overall percentage shade cover-soil moisture after six hours pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; the wider pattern does not need to be considered",
+        "text": "For shade cover and soil moisture: Delete the unusual soil moisture after six hours value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For shade cover and soil moisture: Claim percentage shade cover certainly causes soil moisture after six hours because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that causal claims require more than correlation, within the limits of the investigation",
+        "text": "For shade cover and soil moisture: Describe the direction and size of the percentage shade cover-soil moisture after six hours pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of shade cover and soil moisture includes trend, variation, anomalies and limits on causal claims. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to shade cover and soil moisture."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_trend",
-    "question": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: Results from study 28 show an overall magnet separation-force reading pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: Results from study 28 show an overall magnet separation-force reading pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the magnet distance and force evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-004",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 28 show an overall magnet separation-force reading pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For magnet distance and force: Describe the direction and size of the magnet separation-force reading pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For magnet distance and force: Delete the unusual force reading value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For magnet distance and force: Claim magnet separation certainly causes force reading because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of magnet distance and force includes trend, variation, anomalies and limits on causal claims. This conclusion concerns magnet distance and force.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to magnet distance and force."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_relationship",
-    "question": "During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: Results from study 29 show an overall water depth-wave travel time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: Results from study 29 show an overall water depth-wave travel time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the water depth and wave speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-005",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 29 show an overall water depth-wave travel time pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For water depth and wave speed: Delete the unusual wave travel time value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that anomalies are identified and investigated",
+        "text": "For water depth and wave speed: Describe the direction and size of the water depth-wave travel time pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For water depth and wave speed: Claim water depth certainly causes wave travel time because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of water depth and wave speed includes trend, variation, anomalies and limits on causal claims. This conclusion concerns water depth and wave speed.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to water depth and wave speed."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_anomaly_and_explanation",
-    "question": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: Results from study 30 show an overall antibiotic concentration-inhibition-zone diameter pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: Results from study 30 show an overall antibiotic concentration-inhibition-zone diameter pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the antibiotic concentration and inhibition zone evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-006",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 30 show an overall antibiotic concentration-inhibition-zone diameter pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; the same outcome must therefore occur in every setting",
+        "text": "For antibiotic concentration and inhibition zone: Delete the unusual inhibition-zone diameter value without reporting it",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For antibiotic concentration and inhibition zone: Claim antibiotic concentration certainly causes inhibition-zone diameter because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The evidence supports causal claims require more than correlation, but it does not prove that every case will be identical",
+        "text": "For antibiotic concentration and inhibition zone: Describe the direction and size of the antibiotic concentration-inhibition-zone diameter pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of antibiotic concentration and inhibition zone includes trend, variation, anomalies and limits on causal claims. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to antibiotic concentration and inhibition zone."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_data_set",
-    "question": "In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: Results from study 31 show an overall ripeness stage-titration volume pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: Results from study 31 show an overall ripeness stage-titration volume pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the fruit ripeness and vitamin C evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-007",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 31 show an overall ripeness stage-titration volume pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Patterns and trends are described with direction and evidence; this interpretation can be checked against further evidence",
+        "text": "For fruit ripeness and vitamin C: Describe the direction and size of the ripeness stage-titration volume pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "An anomaly should be deleted; one matching observation makes this explanation certain",
+        "text": "For fruit ripeness and vitamin C: Delete the unusual titration volume value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For fruit ripeness and vitamin C: Claim ripeness stage certainly causes titration volume because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of fruit ripeness and vitamin C includes trend, variation, anomalies and limits on causal claims. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to fruit ripeness and vitamin C."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_pattern",
-    "question": "During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
+    "question": "During the ethics committee discussion, students observe: Results from study 32 show an overall roof colour-inside temperature rise pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: Results from study 32 show an overall roof colour-inside temperature rise pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the roof colour and model-house temperature evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-008",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 32 show an overall roof colour-inside temperature rise pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; the wider pattern does not need to be considered",
+        "text": "For roof colour and model-house temperature: Delete the unusual inside temperature rise value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that anomalies are identified and investigated, within the limits of the investigation",
+        "text": "For roof colour and model-house temperature: Describe the direction and size of the roof colour-inside temperature rise pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For roof colour and model-house temperature: Claim roof colour certainly causes inside temperature rise because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of roof colour and model-house temperature includes trend, variation, anomalies and limits on causal claims. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to roof colour and model-house temperature."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_trend",
-    "question": "In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: Results from study 33 show an overall salt concentration-germination percentage pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: Results from study 33 show an overall salt concentration-germination percentage pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the salinity and seed germination evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-009",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 33 show an overall salt concentration-germination percentage pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For salinity and seed germination: Delete the unusual germination percentage value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For salinity and seed germination: Claim salt concentration certainly causes germination percentage because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For salinity and seed germination: Describe the direction and size of the salt concentration-germination percentage pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of salinity and seed germination includes trend, variation, anomalies and limits on causal claims. This conclusion concerns salinity and seed germination.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to salinity and seed germination."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_relationship",
-    "question": "During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: Results from study 34 show an overall applied load-bridge deflection pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: Results from study 34 show an overall applied load-bridge deflection pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the load and bridge deflection evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-010",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 34 show an overall applied load-bridge deflection pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that patterns and trends are described with direction and evidence",
+        "text": "For load and bridge deflection: Describe the direction and size of the applied load-bridge deflection pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For load and bridge deflection: Delete the unusual bridge deflection value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For load and bridge deflection: Claim applied load certainly causes bridge deflection because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of load and bridge deflection includes trend, variation, anomalies and limits on causal claims. This conclusion concerns load and bridge deflection.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to load and bridge deflection."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_anomaly_and_explanation",
-    "question": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: Results from study 35 show an overall wind speed-plant mass loss pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: Results from study 35 show an overall wind speed-plant mass loss pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the wind speed and transpiration evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-011",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 35 show an overall wind speed-plant mass loss pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "An anomaly should be deleted; the same outcome must therefore occur in every setting",
+        "text": "For wind speed and transpiration: Delete the unusual plant mass loss value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The evidence supports anomalies are identified and investigated, but it does not prove that every case will be identical",
+        "text": "For wind speed and transpiration: Describe the direction and size of the wind speed-plant mass loss pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For wind speed and transpiration: Claim wind speed certainly causes plant mass loss because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of wind speed and transpiration includes trend, variation, anomalies and limits on causal claims. This conclusion concerns wind speed and transpiration.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to wind speed and transpiration."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_data_set",
-    "question": "In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: Results from study 36 show an overall solute particle size-dissolving time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: Results from study 36 show an overall solute particle size-dissolving time pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the particle size and dissolving evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-012",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 36 show an overall solute particle size-dissolving time pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Two variables moving together proves causation; one matching observation makes this explanation certain",
+        "text": "For particle size and dissolving: Delete the unusual dissolving time value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Data set is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For particle size and dissolving: Claim solute particle size certainly causes dissolving time because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "Causal claims require more than correlation; this interpretation can be checked against further evidence",
+        "text": "For particle size and dissolving: Describe the direction and size of the solute particle size-dissolving time pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about data set, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of particle size and dissolving includes trend, variation, anomalies and limits on causal claims. This conclusion concerns particle size and dissolving.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to particle size and dissolving."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_pattern",
-    "question": "During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: Results from study 37 show an overall string length-period pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: Results from study 37 show an overall string length-period pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the string length and pendulum period evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-013",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 37 show an overall string length-period pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that patterns and trends are described with direction and evidence, within the limits of the investigation",
+        "text": "For string length and pendulum period: Describe the direction and size of the string length-period pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "An anomaly should be deleted; the wider pattern does not need to be considered",
+        "text": "For string length and pendulum period: Delete the unusual period value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Trend caused the result because the two occurred together once",
+        "text": "For string length and pendulum period: Claim string length certainly causes period because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about pattern, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of string length and pendulum period includes trend, variation, anomalies and limits on causal claims. This conclusion concerns string length and pendulum period.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to string length and pendulum period."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_trend",
-    "question": "In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: Results from study 38 show an overall battery temperature-motor rotations per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: Results from study 38 show an overall battery temperature-motor rotations per minute pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the battery temperature and motor speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-014",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 38 show an overall battery temperature-motor rotations per minute pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For battery temperature and motor speed: Delete the unusual motor rotations per minute value without reporting it",
         "is_correct": false
       },
       {
-        "text": "The model links trend with relationship, so it can explain the relationship while still having limits",
+        "text": "For battery temperature and motor speed: Describe the direction and size of the battery temperature-motor rotations per minute pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For battery temperature and motor speed: Claim battery temperature certainly causes motor rotations per minute because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Anomalies are identified and investigated. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about trend, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of battery temperature and motor speed includes trend, variation, anomalies and limits on causal claims. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to battery temperature and motor speed."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_relationship",
-    "question": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: Results from study 39 show an overall stream velocity-largest transported grain pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: Results from study 39 show an overall stream velocity-largest transported grain pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the stream velocity and sediment size evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-015",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 39 show an overall stream velocity-largest transported grain pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For stream velocity and sediment size: Delete the unusual largest transported grain value without reporting it",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to relationship alone",
+        "text": "For stream velocity and sediment size: Claim stream velocity certainly causes largest transported grain because most points follow a pattern",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that causal claims require more than correlation",
+        "text": "For stream velocity and sediment size: Describe the direction and size of the stream velocity-largest transported grain pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Causal claims require more than correlation. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about relationship, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of stream velocity and sediment size includes trend, variation, anomalies and limits on causal claims. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to stream velocity and sediment size."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8I05",
     "bank": "test",
     "skill": "data_anomaly_and_explanation",
-    "question": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: Results from study 40 show an overall leaf area exposed-oxygen production rate pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: Results from study 40 show an overall leaf area exposed-oxygen production rate pattern with one point away from the trend. Which analysis treats the full data set responsibly? Use the leaf area and photosynthesis evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-016",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies observation card stating: Results from study 40 show an overall leaf area exposed-oxygen production rate pattern with one point away from the trend."
     },
     "answers": [
       {
-        "text": "The evidence supports patterns and trends are described with direction and evidence, but it does not prove that every case will be identical",
+        "text": "For leaf area and photosynthesis: Describe the direction and size of the leaf area exposed-oxygen production rate pattern, identify the unusual point, and check a scientific or procedural explanation",
         "is_correct": true
       },
       {
-        "text": "Two variables moving together proves causation; the same outcome must therefore occur in every setting",
+        "text": "For leaf area and photosynthesis: Delete the unusual oxygen production rate value without reporting it",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about data set is stronger than measured or documented evidence",
+        "text": "For leaf area and photosynthesis: Claim leaf area exposed certainly causes oxygen production rate because most points follow a pattern",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Patterns and trends are described with direction and evidence. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about anomaly and explanation, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Analysis of leaf area and photosynthesis includes trend, variation, anomalies and limits on causal claims. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Report the main pattern and investigate the point that differs. Apply this to leaf area and photosynthesis."
     }
   }
 ]

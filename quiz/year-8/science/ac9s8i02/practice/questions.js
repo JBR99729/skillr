@@ -7,25 +7,25 @@ window.skillrPracticeQuestions = [
     "skill": "method question and variables",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, the evidence states, “To test light intensity and solar-cell output”. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, the evidence states, “To test light intensity and solar-cell output”. Which interpretation is best supported?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a class investigation, the evidence states, “To test light intensity and solar-cell output”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a class investigation, the evidence states, “To test light intensity and solar-cell output”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-001\"></use></svg>",
+    "question": "During a class investigation, students observe: A class will test how pendulum length affects period. Which plan gives a reproducible independent variable?",
+    "audioPrompt": "During a class investigation, students observe: A class will test how pendulum length affects period. Which plan gives a reproducible independent variable?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A class will test how pendulum length affects period.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A class will test how pendulum length affects period.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-001",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a class investigation, the evidence states, “To test light intensity and solar-cell output”. Which interpretation is best supported?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A class will test how pendulum length affects period."
     },
     "answers": [
-      "Plans align variables, method and evidence with the question; this interpretation can be checked against further evidence",
-      "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
-      "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Measure pivot-to-centre-of-bob lengths of 20, 40, 60 and 80 centimetres",
+      "Use short, medium and long strings chosen by each group",
+      "Change the string length and bob mass together"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible plan defines exact values and changes one intended variable.\nHint: Choose measured lengths that another class can copy.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible plan defines exact values and changes one intended variable.",
+      "hint": "Choose measured lengths that another class can copy."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrPracticeQuestions = [
     "skill": "method repeatable method",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which response applies the method model most accurately?",
-    "audioPrompt": "During a museum evidence display, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which response applies the method model most accurately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a museum evidence display, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which response applies the method model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a museum evidence display, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which response applies the method model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-002\"></use></svg>",
+    "question": "During a museum evidence display, students observe: Students compare dissolving time at four water temperatures. Which control is most important for a fair comparison?",
+    "audioPrompt": "During a museum evidence display, students observe: Students compare dissolving time at four water temperatures. Which control is most important for a fair comparison?",
+    "visual": "Plan a Reproducible Investigation observation card stating: Students compare dissolving time at four water temperatures.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: Students compare dissolving time at four water temperatures.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-002",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a museum evidence display, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which response applies the method model most accurately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: Students compare dissolving time at four water temperatures."
     },
     "answers": [
-      "A risk list is a risk assessment; the wider pattern does not need to be considered",
-      "The observation supports the idea that assumptions and sources of risk are explicit, within the limits of the investigation",
-      "Control and assumption caused the result because the two occurred together once"
+      "Use a different solute at each temperature",
+      "Use the same solute mass, particle size, water volume and stirring method each time",
+      "Stop timing each trial when the observer expects it to finish"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Controls prevent other factors from explaining differences in dissolving time.\nHint: Keep everything except water temperature consistent.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Controls prevent other factors from explaining differences in dissolving time.",
+      "hint": "Keep everything except water temperature consistent."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrPracticeQuestions = [
     "skill": "method control and assumption",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which conclusion uses evidence appropriately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-003\"></use></svg>",
+    "question": "During a field-team briefing, students observe: A method says, ‘Heat the liquid and record what happens’. Which revision makes the method repeatable?",
+    "audioPrompt": "During a field-team briefing, students observe: A method says, ‘Heat the liquid and record what happens’. Which revision makes the method repeatable?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A method says, ‘Heat the liquid and record what happens’.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A method says, ‘Heat the liquid and record what happens’.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-003",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A method says, ‘Heat the liquid and record what happens’."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits"
+      "Add more scientific words without adding quantities",
+      "Let each group decide its own endpoint after heating",
+      "State the liquid volume, heating power, time intervals, measurements and stopping point"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Repeatable methods specify quantities, equipment, timing and endpoints.\nHint: Ask whether another group could reproduce each action.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Repeatable methods specify quantities, equipment, timing and endpoints.",
+      "hint": "Ask whether another group could reproduce each action."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrPracticeQuestions = [
     "skill": "method risk and ethics",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, the evidence states, “Link hazard → possible harm → control → residual risk”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, the evidence states, “Link hazard → possible harm → control → residual risk”. What is the strongest scientific response to this result?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a laboratory notebook, the evidence states, “Link hazard → possible harm → control → residual risk”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a laboratory notebook, the evidence states, “Link hazard → possible harm → control → residual risk”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, students observe: A lamp used in a solar-cell test becomes hot enough to burn skin. Which risk assessment is complete?",
+    "audioPrompt": "During a laboratory notebook, students observe: A lamp used in a solar-cell test becomes hot enough to burn skin. Which risk assessment is complete?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A lamp used in a solar-cell test becomes hot enough to burn skin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A lamp used in a solar-cell test becomes hot enough to burn skin.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-004",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a laboratory notebook, the evidence states, “Link hazard → possible harm → control → residual risk”. What is the strongest scientific response to this result?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A lamp used in a solar-cell test becomes hot enough to burn skin."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that plans align variables, method and evidence with the question",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to risk and ethics alone"
+      "Hot lamp could burn skin; use a guard, allow cooling and switch off before adjustment",
+      "Lamp: medium risk",
+      "Be careful because laboratory equipment can be dangerous"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A risk assessment links a hazard to harm and a practical control.\nHint: Find hazard, consequence and control in one response.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A risk assessment links a hazard to harm and a practical control.",
+      "hint": "Find hazard, consequence and control in one response."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrPracticeQuestions = [
     "skill": "method country place protocol",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-005\"></use></svg>",
+    "question": "During a community science meeting, students observe: Students propose collecting biological material from a culturally significant site. What must the plan include before sampling?",
+    "audioPrompt": "During a community science meeting, students observe: Students propose collecting biological material from a culturally significant site. What must the plan include before sampling?",
+    "visual": "Plan a Reproducible Investigation observation card stating: Students propose collecting biological material from a culturally significant site.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: Students propose collecting biological material from a culturally significant site.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-005",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: Students propose collecting biological material from a culturally significant site."
     },
     "answers": [
-      "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
-      "The evidence supports assumptions and sources of risk are explicit, but it does not prove that every case will be identical",
-      "A confident opinion about question and variables is stronger than measured or documented evidence"
+      "Collect first because school science automatically has permission",
+      "Seek guidance and permission from the appropriate custodians and follow place-specific protocols",
+      "Avoid recording the source so cultural responsibilities do not apply"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Authority and Country or Place protocols shape whether and how sampling may occur.\nHint: Scientific interest does not replace permission.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Authority and Country or Place protocols shape whether and how sampling may occur.",
+      "hint": "Scientific interest does not replace permission."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrPracticeQuestions = [
     "skill": "method question and variables",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, the evidence states, “Keep cell angle”. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, the evidence states, “Keep cell angle”. Which interpretation is best supported?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a digital model review, the evidence states, “Keep cell angle”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a digital model review, the evidence states, “Keep cell angle”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-006\"></use></svg>",
+    "question": "During a digital model review, students observe: A group repeats one uncontrolled trial ten times. Which evaluation of the plan is correct?",
+    "audioPrompt": "During a digital model review, students observe: A group repeats one uncontrolled trial ten times. Which evaluation of the plan is correct?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A group repeats one uncontrolled trial ten times.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A group repeats one uncontrolled trial ten times.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-006",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a digital model review, the evidence states, “Keep cell angle”. Which interpretation is best supported?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A group repeats one uncontrolled trial ten times."
     },
     "answers": [
-      "A risk list is a risk assessment; one matching observation makes this explanation certain",
-      "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Ethical and cultural protocols shape whether and how an investigation proceeds; this interpretation can be checked against further evidence"
+      "Ten repeats automatically make every variable controlled",
+      "Repeats are unnecessary whenever the first result matches the prediction",
+      "Repetition estimates variation, but it cannot repair a systematic unfairness in the method"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Replication improves evidence about variation but does not remove confounding variables.\nHint: Separate consistency from fairness.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Replication improves evidence about variation but does not remove confounding variables.",
+      "hint": "Separate consistency from fairness."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrPracticeQuestions = [
     "skill": "method repeatable method",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, the evidence states, “Control relevant variables before repetition”. Which response applies the method model most accurately?",
-    "audioPrompt": "During a student research poster, the evidence states, “Control relevant variables before repetition”. Which response applies the method model most accurately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a student research poster, the evidence states, “Control relevant variables before repetition”. Which response applies the method model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a student research poster, the evidence states, “Control relevant variables before repetition”. Which response applies the method model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-007\"></use></svg>",
+    "question": "During a student research poster, students observe: To compare insulation, students use cups with different sizes and lids. Which redesign isolates insulation material?",
+    "audioPrompt": "During a student research poster, students observe: To compare insulation, students use cups with different sizes and lids. Which redesign isolates insulation material?",
+    "visual": "Plan a Reproducible Investigation observation card stating: To compare insulation, students use cups with different sizes and lids.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: To compare insulation, students use cups with different sizes and lids.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-007",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a student research poster, the evidence states, “Control relevant variables before repetition”. Which response applies the method model most accurately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: To compare insulation, students use cups with different sizes and lids."
     },
     "answers": [
-      "The observation supports the idea that plans align variables, method and evidence with the question, within the limits of the investigation",
-      "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
-      "Control and assumption caused the result because the two occurred together once"
+      "Use identical lidded cups, equal water volumes and starting temperatures, changing only the insulation",
+      "Use more hot water in the cup with thinner insulation",
+      "Remove every lid so evaporation differs between trials"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A fair design changes insulation while controlling container and water conditions.\nHint: Only insulation should differ.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A fair design changes insulation while controlling container and water conditions.",
+      "hint": "Only insulation should differ."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrPracticeQuestions = [
     "skill": "method control and assumption",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables”. Which conclusion uses evidence appropriately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an engineering design check, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an engineering design check, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-008\"></use></svg>",
+    "question": "During an engineering design check, students observe: A field survey may disturb nesting birds. Which method reduces ethical impact while answering the question?",
+    "audioPrompt": "During an engineering design check, students observe: A field survey may disturb nesting birds. Which method reduces ethical impact while answering the question?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A field survey may disturb nesting birds.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A field survey may disturb nesting birds.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-008",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an engineering design check, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A field survey may disturb nesting birds."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Approach nests closely so counts are easier",
+      "Observe from a set distance for fixed periods and stop if birds show disturbance",
+      "Move eggs briefly because no animal is being killed"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Ethical methods minimise disturbance and include clear stopping rules.\nHint: Choose non-invasive observations and a welfare trigger.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Ethical methods minimise disturbance and include clear stopping rules.",
+      "hint": "Choose non-invasive observations and a welfare trigger."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrPracticeQuestions = [
     "skill": "method risk and ethics",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, the evidence states, “To test light intensity and solar-cell output”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, the evidence states, “To test light intensity and solar-cell output”. What is the strongest scientific response to this result?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a data-team discussion, the evidence states, “To test light intensity and solar-cell output”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a data-team discussion, the evidence states, “To test light intensity and solar-cell output”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-009\"></use></svg>",
+    "question": "During a data-team discussion, students observe: A student assumes lamp distance is a measure of light intensity. How should this assumption be handled?",
+    "audioPrompt": "During a data-team discussion, students observe: A student assumes lamp distance is a measure of light intensity. How should this assumption be handled?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A student assumes lamp distance is a measure of light intensity.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A student assumes lamp distance is a measure of light intensity.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-009",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a data-team discussion, the evidence states, “To test light intensity and solar-cell output”. What is the strongest scientific response to this result?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A student assumes lamp distance is a measure of light intensity."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to risk and ethics alone",
-      "Repeated evidence can support the conclusion that ethical and cultural protocols shape whether and how an investigation proceeds"
+      "Hide the assumption because plans should appear certain",
+      "Treat distance and intensity as identical under all conditions",
+      "Record the assumption and, if possible, measure intensity with a light sensor at each distance"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Plans state important assumptions and test them where practical.\nHint: Replace a proxy with a direct measurement if possible.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Plans state important assumptions and test them where practical.",
+      "hint": "Replace a proxy with a direct measurement if possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrPracticeQuestions = [
     "skill": "method country place protocol",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Plan a Reproducible Investigation reports that ethical and cultural protocols shape whether and how an investigation proceeds. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Plan a Reproducible Investigation reports that ethical and cultural protocols shape whether and how an investigation proceeds. Which revision would make the reasoning most reliable?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A school science report for Plan a Reproducible Investigation reports that ethical and cultural protocols shape whether and how an investigation proceeds. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A school science report for Plan a Reproducible Investigation reports that ethical and cultural protocols shape whether and how an investigation proceeds. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-010\"></use></svg>",
+    "question": "During a school science report, students observe: A class has time for twelve plant pots to compare two fertilisers. Which allocation best reduces position bias?",
+    "audioPrompt": "During a school science report, students observe: A class has time for twelve plant pots to compare two fertilisers. Which allocation best reduces position bias?",
+    "visual": "Plan a Reproducible Investigation observation card stating: A class has time for twelve plant pots to compare two fertilisers.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A class has time for twelve plant pots to compare two fertilisers.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-010",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A school science report for Plan a Reproducible Investigation reports that ethical and cultural protocols shape whether and how an investigation proceeds. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A class has time for twelve plant pots to compare two fertilisers."
     },
     "answers": [
-      "The evidence supports plans align variables, method and evidence with the question, but it does not prove that every case will be identical",
-      "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
-      "A confident opinion about question and variables is stronger than measured or documented evidence"
+      "Randomly assign six similar pots to each treatment and rotate their bench positions",
+      "Put one treatment beside the window and the other beside the door",
+      "Let students choose treatments after seeing plant size"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Random allocation and balanced positions reduce systematic differences between groups.\nHint: Prevent starting condition or location from favouring a treatment.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Random allocation and balanced positions reduce systematic differences between groups.",
+      "hint": "Prevent starting condition or location from favouring a treatment."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrPracticeQuestions = [
     "skill": "method question and variables",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which interpretation is best supported?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a council evidence summary, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a council evidence summary, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-011\"></use></svg>",
+    "question": "During a council evidence summary, students observe: A team plans a study of water temperature and sugar dissolving time, but its draft changes several conditions. Which method decision makes study 11 fair and reproducible? Use the water temperature and sugar dissolving time evidence.",
+    "audioPrompt": "During a council evidence summary, students observe: A team plans a study of water temperature and sugar dissolving time, but its draft changes several conditions. Which method decision makes study 11 fair and reproducible? Use the water temperature and sugar dissolving time evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of water temperature and sugar dissolving time, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of water temperature and sugar dissolving time, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-011",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a council evidence summary, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. Which interpretation is best supported?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of water temperature and sugar dissolving time, but its draft changes several conditions."
     },
     "answers": [
-      "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
-      "Assumptions and sources of risk are explicit; this interpretation can be checked against further evidence",
-      "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining"
+      "For water temperature and sugar dissolving time: Change water temperature and sugar mass, grain size, water volume and stirring together, then attribute the result to water temperature",
+      "For water temperature and sugar dissolving time: Set measured values for water temperature, measure dissolving time consistently, and hold sugar mass, grain size, water volume and stirring constant",
+      "For water temperature and sugar dissolving time: Let each group choose how to measure dissolving time after seeing its results"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible water temperature and sugar dissolving time plan defines the test, measurement and relevant controls. This conclusion concerns water temperature and sugar dissolving time.\nHint: Only water temperature should explain a change in dissolving time. Apply this to water temperature and sugar dissolving time.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible water temperature and sugar dissolving time plan defines the test, measurement and relevant controls. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Only water temperature should explain a change in dissolving time. Apply this to water temperature and sugar dissolving time."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrPracticeQuestions = [
     "skill": "method repeatable method",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, the evidence states, “Link hazard → possible harm → control → residual risk”. Which response applies the method model most accurately?",
-    "audioPrompt": "During a peer-review conversation, the evidence states, “Link hazard → possible harm → control → residual risk”. Which response applies the method model most accurately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a peer-review conversation, the evidence states, “Link hazard → possible harm → control → residual risk”. Which response applies the method model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a peer-review conversation, the evidence states, “Link hazard → possible harm → control → residual risk”. Which response applies the method model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, students observe: A team plans a study of ramp angle and toy-car travel time, but its draft changes several conditions. Which method decision makes study 12 fair and reproducible? Use the ramp angle and toy-car travel time evidence.",
+    "audioPrompt": "During a peer-review conversation, students observe: A team plans a study of ramp angle and toy-car travel time, but its draft changes several conditions. Which method decision makes study 12 fair and reproducible? Use the ramp angle and toy-car travel time evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of ramp angle and toy-car travel time, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of ramp angle and toy-car travel time, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-012",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a peer-review conversation, the evidence states, “Link hazard → possible harm → control → residual risk”. Which response applies the method model most accurately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of ramp angle and toy-car travel time, but its draft changes several conditions."
     },
     "answers": [
-      "A risk list is a risk assessment; the wider pattern does not need to be considered",
-      "Control and assumption caused the result because the two occurred together once",
-      "The observation supports the idea that ethical and cultural protocols shape whether and how an investigation proceeds, within the limits of the investigation"
+      "For ramp angle and toy-car travel time: Change ramp angle and car, surface, distance and release method together, then attribute the result to ramp angle",
+      "For ramp angle and toy-car travel time: Let each group choose how to measure travel time after seeing its results",
+      "For ramp angle and toy-car travel time: Set measured values for ramp angle, measure travel time consistently, and hold car, surface, distance and release method constant"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible ramp angle and toy-car travel time plan defines the test, measurement and relevant controls. This conclusion concerns ramp angle and toy-car travel time.\nHint: Only ramp angle should explain a change in travel time. Apply this to ramp angle and toy-car travel time.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible ramp angle and toy-car travel time plan defines the test, measurement and relevant controls. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Only ramp angle should explain a change in travel time. Apply this to ramp angle and toy-car travel time."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrPracticeQuestions = [
     "skill": "method control and assumption",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit”. Which conclusion uses evidence appropriately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-013\"></use></svg>",
+    "question": "During an environmental monitoring project, students observe: A team plans a study of light intensity and pondweed bubble rate, but its draft changes several conditions. Which method decision makes study 13 fair and reproducible? Use the light intensity and pondweed bubble rate evidence.",
+    "audioPrompt": "During an environmental monitoring project, students observe: A team plans a study of light intensity and pondweed bubble rate, but its draft changes several conditions. Which method decision makes study 13 fair and reproducible? Use the light intensity and pondweed bubble rate evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of light intensity and pondweed bubble rate, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of light intensity and pondweed bubble rate, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-013",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of light intensity and pondweed bubble rate, but its draft changes several conditions."
     },
     "answers": [
-      "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "For light intensity and pondweed bubble rate: Set measured values for light intensity, measure bubbles per minute consistently, and hold pondweed length, water and temperature constant",
+      "For light intensity and pondweed bubble rate: Change light intensity and pondweed length, water and temperature together, then attribute the result to light intensity",
+      "For light intensity and pondweed bubble rate: Let each group choose how to measure bubbles per minute after seeing its results"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible light intensity and pondweed bubble rate plan defines the test, measurement and relevant controls. This conclusion concerns light intensity and pondweed bubble rate.\nHint: Only light intensity should explain a change in bubbles per minute. Apply this to light intensity and pondweed bubble rate.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible light intensity and pondweed bubble rate plan defines the test, measurement and relevant controls. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Only light intensity should explain a change in bubbles per minute. Apply this to light intensity and pondweed bubble rate."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrPracticeQuestions = [
     "skill": "method risk and ethics",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, the evidence states, “Keep cell angle”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, the evidence states, “Keep cell angle”. What is the strongest scientific response to this result?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a medical research case, the evidence states, “Keep cell angle”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a medical research case, the evidence states, “Keep cell angle”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-014\"></use></svg>",
+    "question": "During a medical research case, students observe: A team plans a study of soil type and bean-seedling height, but its draft changes several conditions. Which method decision makes study 14 fair and reproducible? Use the soil type and bean-seedling height evidence.",
+    "audioPrompt": "During a medical research case, students observe: A team plans a study of soil type and bean-seedling height, but its draft changes several conditions. Which method decision makes study 14 fair and reproducible? Use the soil type and bean-seedling height evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of soil type and bean-seedling height, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of soil type and bean-seedling height, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-014",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a medical research case, the evidence states, “Keep cell angle”. What is the strongest scientific response to this result?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of soil type and bean-seedling height, but its draft changes several conditions."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that assumptions and sources of risk are explicit",
-      "Several conditions can change together and the result can still be attributed to risk and ethics alone"
+      "For soil type and bean-seedling height: Change soil type and seed variety, water, pot and light together, then attribute the result to soil type",
+      "For soil type and bean-seedling height: Set measured values for soil type, measure height after 14 days consistently, and hold seed variety, water, pot and light constant",
+      "For soil type and bean-seedling height: Let each group choose how to measure height after 14 days after seeing its results"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible soil type and bean-seedling height plan defines the test, measurement and relevant controls. This conclusion concerns soil type and bean-seedling height.\nHint: Only soil type should explain a change in height after 14 days. Apply this to soil type and bean-seedling height.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible soil type and bean-seedling height plan defines the test, measurement and relevant controls. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Only soil type should explain a change in height after 14 days. Apply this to soil type and bean-seedling height."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrPracticeQuestions = [
     "skill": "method country place protocol",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Plan a Reproducible Investigation reports that control relevant variables before repetition. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Plan a Reproducible Investigation reports that control relevant variables before repetition. Which revision would make the reasoning most reliable?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A science-news fact check for Plan a Reproducible Investigation reports that control relevant variables before repetition. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A science-news fact check for Plan a Reproducible Investigation reports that control relevant variables before repetition. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-015\"></use></svg>",
+    "question": "During a science-news fact check, students observe: A team plans a study of wire length and electrical current, but its draft changes several conditions. Which method decision makes study 15 fair and reproducible? Use the wire length and electrical current evidence.",
+    "audioPrompt": "During a science-news fact check, students observe: A team plans a study of wire length and electrical current, but its draft changes several conditions. Which method decision makes study 15 fair and reproducible? Use the wire length and electrical current evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of wire length and electrical current, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of wire length and electrical current, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-015",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A science-news fact check for Plan a Reproducible Investigation reports that control relevant variables before repetition. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of wire length and electrical current, but its draft changes several conditions."
     },
     "answers": [
-      "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
-      "A confident opinion about question and variables is stronger than measured or documented evidence",
-      "The evidence supports ethical and cultural protocols shape whether and how an investigation proceeds, but it does not prove that every case will be identical"
+      "For wire length and electrical current: Change wire length and wire material, thickness, voltage and temperature together, then attribute the result to wire length",
+      "For wire length and electrical current: Let each group choose how to measure current after seeing its results",
+      "For wire length and electrical current: Set measured values for wire length, measure current consistently, and hold wire material, thickness, voltage and temperature constant"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible wire length and electrical current plan defines the test, measurement and relevant controls. This conclusion concerns wire length and electrical current.\nHint: Only wire length should explain a change in current. Apply this to wire length and electrical current.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible wire length and electrical current plan defines the test, measurement and relevant controls. This conclusion concerns wire length and electrical current.",
+      "hint": "Only wire length should explain a change in current. Apply this to wire length and electrical current."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrPracticeQuestions = [
     "skill": "method question and variables",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, the evidence states, “Plans align variables”. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, the evidence states, “Plans align variables”. Which interpretation is best supported?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a classroom model test, the evidence states, “Plans align variables”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a classroom model test, the evidence states, “Plans align variables”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-016\"></use></svg>",
+    "question": "During a classroom model test, students observe: A team plans a study of exercise duration and pulse recovery, but its draft changes several conditions. Which method decision makes study 16 fair and reproducible? Use the exercise duration and pulse recovery evidence.",
+    "audioPrompt": "During a classroom model test, students observe: A team plans a study of exercise duration and pulse recovery, but its draft changes several conditions. Which method decision makes study 16 fair and reproducible? Use the exercise duration and pulse recovery evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of exercise duration and pulse recovery, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of exercise duration and pulse recovery, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-016",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a classroom model test, the evidence states, “Plans align variables”. Which interpretation is best supported?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of exercise duration and pulse recovery, but its draft changes several conditions."
     },
     "answers": [
-      "Plans align variables, method and evidence with the question; this interpretation can be checked against further evidence",
-      "A risk list is a risk assessment; one matching observation makes this explanation certain",
-      "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining"
+      "For exercise duration and pulse recovery: Set measured values for exercise duration, measure recovery time consistently, and hold participant, intensity and measurement method constant",
+      "For exercise duration and pulse recovery: Change exercise duration and participant, intensity and measurement method together, then attribute the result to exercise duration",
+      "For exercise duration and pulse recovery: Let each group choose how to measure recovery time after seeing its results"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible exercise duration and pulse recovery plan defines the test, measurement and relevant controls. This conclusion concerns exercise duration and pulse recovery.\nHint: Only exercise duration should explain a change in recovery time. Apply this to exercise duration and pulse recovery.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible exercise duration and pulse recovery plan defines the test, measurement and relevant controls. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Only exercise duration should explain a change in recovery time. Apply this to exercise duration and pulse recovery."
     },
     "qualitySchema": "production-v1"
   },
@@ -471,25 +471,25 @@ window.skillrPracticeQuestions = [
     "skill": "method repeatable method",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, the evidence states, “To test light intensity and solar-cell output”. Which response applies the method model most accurately?",
-    "audioPrompt": "During a regional planning workshop, the evidence states, “To test light intensity and solar-cell output”. Which response applies the method model most accurately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a regional planning workshop, the evidence states, “To test light intensity and solar-cell output”. Which response applies the method model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a regional planning workshop, the evidence states, “To test light intensity and solar-cell output”. Which response applies the method model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, students observe: A team plans a study of salt concentration and egg buoyancy, but its draft changes several conditions. Which method decision makes study 17 fair and reproducible? Use the salt concentration and egg buoyancy evidence.",
+    "audioPrompt": "During a regional planning workshop, students observe: A team plans a study of salt concentration and egg buoyancy, but its draft changes several conditions. Which method decision makes study 17 fair and reproducible? Use the salt concentration and egg buoyancy evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of salt concentration and egg buoyancy, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of salt concentration and egg buoyancy, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-017",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a regional planning workshop, the evidence states, “To test light intensity and solar-cell output”. Which response applies the method model most accurately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of salt concentration and egg buoyancy, but its draft changes several conditions."
     },
     "answers": [
-      "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
-      "The observation supports the idea that assumptions and sources of risk are explicit, within the limits of the investigation",
-      "Control and assumption caused the result because the two occurred together once"
+      "For salt concentration and egg buoyancy: Change salt concentration and egg, water volume, container and temperature together, then attribute the result to salt concentration",
+      "For salt concentration and egg buoyancy: Set measured values for salt concentration, measure floating height consistently, and hold egg, water volume, container and temperature constant",
+      "For salt concentration and egg buoyancy: Let each group choose how to measure floating height after seeing its results"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible salt concentration and egg buoyancy plan defines the test, measurement and relevant controls. This conclusion concerns salt concentration and egg buoyancy.\nHint: Only salt concentration should explain a change in floating height. Apply this to salt concentration and egg buoyancy.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible salt concentration and egg buoyancy plan defines the test, measurement and relevant controls. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Only salt concentration should explain a change in floating height. Apply this to salt concentration and egg buoyancy."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,25 +500,25 @@ window.skillrPracticeQuestions = [
     "skill": "method control and assumption",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which conclusion uses evidence appropriately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-018\"></use></svg>",
+    "question": "During an equipment selection task, students observe: A team plans a study of insulation material and cooling, but its draft changes several conditions. Which method decision makes study 18 fair and reproducible? Use the insulation material and cooling evidence.",
+    "audioPrompt": "During an equipment selection task, students observe: A team plans a study of insulation material and cooling, but its draft changes several conditions. Which method decision makes study 18 fair and reproducible? Use the insulation material and cooling evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of insulation material and cooling, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of insulation material and cooling, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-018",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of insulation material and cooling, but its draft changes several conditions."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits"
+      "For insulation material and cooling: Change insulation material and cup, water volume, starting temperature and time together, then attribute the result to insulation material",
+      "For insulation material and cooling: Let each group choose how to measure temperature loss after seeing its results",
+      "For insulation material and cooling: Set measured values for insulation material, measure temperature loss consistently, and hold cup, water volume, starting temperature and time constant"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible insulation material and cooling plan defines the test, measurement and relevant controls. This conclusion concerns insulation material and cooling.\nHint: Only insulation material should explain a change in temperature loss. Apply this to insulation material and cooling.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible insulation material and cooling plan defines the test, measurement and relevant controls. This conclusion concerns insulation material and cooling.",
+      "hint": "Only insulation material should explain a change in temperature loss. Apply this to insulation material and cooling."
     },
     "qualitySchema": "production-v1"
   },
@@ -529,25 +529,25 @@ window.skillrPracticeQuestions = [
     "skill": "method risk and ethics",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. What is the strongest scientific response to this result?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a public information draft, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a public information draft, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-019\"></use></svg>",
+    "question": "During a public information draft, students observe: A team plans a study of surface area and evaporation, but its draft changes several conditions. Which method decision makes study 19 fair and reproducible? Use the surface area and evaporation evidence.",
+    "audioPrompt": "During a public information draft, students observe: A team plans a study of surface area and evaporation, but its draft changes several conditions. Which method decision makes study 19 fair and reproducible? Use the surface area and evaporation evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of surface area and evaporation, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of surface area and evaporation, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-019",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a public information draft, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat risks”. What is the strongest scientific response to this result?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of surface area and evaporation, but its draft changes several conditions."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that plans align variables, method and evidence with the question",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to risk and ethics alone"
+      "For surface area and evaporation: Set measured values for exposed surface area, measure mass of water lost consistently, and hold water volume, temperature, airflow and time constant",
+      "For surface area and evaporation: Change exposed surface area and water volume, temperature, airflow and time together, then attribute the result to exposed surface area",
+      "For surface area and evaporation: Let each group choose how to measure mass of water lost after seeing its results"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible surface area and evaporation plan defines the test, measurement and relevant controls. This conclusion concerns surface area and evaporation.\nHint: Only exposed surface area should explain a change in mass of water lost. Apply this to surface area and evaporation.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible surface area and evaporation plan defines the test, measurement and relevant controls. This conclusion concerns surface area and evaporation.",
+      "hint": "Only exposed surface area should explain a change in mass of water lost. Apply this to surface area and evaporation."
     },
     "qualitySchema": "production-v1"
   },
@@ -558,25 +558,25 @@ window.skillrPracticeQuestions = [
     "skill": "method country place protocol",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Plan a Reproducible Investigation reports that link hazard → possible harm → control → residual risk. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Plan a Reproducible Investigation reports that link hazard → possible harm → control → residual risk. Which revision would make the reasoning most reliable?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: An independent replication study for Plan a Reproducible Investigation reports that link hazard → possible harm → control → residual risk. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: An independent replication study for Plan a Reproducible Investigation reports that link hazard → possible harm → control → residual risk. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-020\"></use></svg>",
+    "question": "During an independent replication study, students observe: A team plans a study of pH and amylase activity, but its draft changes several conditions. Which method decision makes study 20 fair and reproducible? Use the pH and amylase activity evidence.",
+    "audioPrompt": "During an independent replication study, students observe: A team plans a study of pH and amylase activity, but its draft changes several conditions. Which method decision makes study 20 fair and reproducible? Use the pH and amylase activity evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of pH and amylase activity, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of pH and amylase activity, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-020",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: An independent replication study for Plan a Reproducible Investigation reports that link hazard → possible harm → control → residual risk. Which revision would make the reasoning most reliable?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of pH and amylase activity, but its draft changes several conditions."
     },
     "answers": [
-      "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
-      "The evidence supports assumptions and sources of risk are explicit, but it does not prove that every case will be identical",
-      "A confident opinion about question and variables is stronger than measured or documented evidence"
+      "For pH and amylase activity: Change pH and enzyme amount, starch concentration and temperature together, then attribute the result to pH",
+      "For pH and amylase activity: Set measured values for pH, measure time to digest starch consistently, and hold enzyme amount, starch concentration and temperature constant",
+      "For pH and amylase activity: Let each group choose how to measure time to digest starch after seeing its results"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible pH and amylase activity plan defines the test, measurement and relevant controls. This conclusion concerns pH and amylase activity.\nHint: Only pH should explain a change in time to digest starch. Apply this to pH and amylase activity.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible pH and amylase activity plan defines the test, measurement and relevant controls. This conclusion concerns pH and amylase activity.",
+      "hint": "Only pH should explain a change in time to digest starch. Apply this to pH and amylase activity."
     },
     "qualitySchema": "production-v1"
   },
@@ -587,25 +587,25 @@ window.skillrPracticeQuestions = [
     "skill": "method question and variables",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, the evidence states, “Assumptions and sources of risk are explicit”. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Assumptions and sources of risk are explicit”. Which interpretation is best supported?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a risk-assessment meeting, the evidence states, “Assumptions and sources of risk are explicit”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a risk-assessment meeting, the evidence states, “Assumptions and sources of risk are explicit”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-021\"></use></svg>",
+    "question": "During a risk-assessment meeting, students observe: A team plans a study of drop height and crater diameter, but its draft changes several conditions. Which method decision makes study 21 fair and reproducible? Use the drop height and crater diameter evidence.",
+    "audioPrompt": "During a risk-assessment meeting, students observe: A team plans a study of drop height and crater diameter, but its draft changes several conditions. Which method decision makes study 21 fair and reproducible? Use the drop height and crater diameter evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of drop height and crater diameter, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of drop height and crater diameter, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-021",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a risk-assessment meeting, the evidence states, “Assumptions and sources of risk are explicit”. Which interpretation is best supported?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of drop height and crater diameter, but its draft changes several conditions."
     },
     "answers": [
-      "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
-      "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Ethical and cultural protocols shape whether and how an investigation proceeds; this interpretation can be checked against further evidence"
+      "For drop height and crater diameter: Change drop height and ball, sand depth and release position together, then attribute the result to drop height",
+      "For drop height and crater diameter: Let each group choose how to measure crater diameter after seeing its results",
+      "For drop height and crater diameter: Set measured values for drop height, measure crater diameter consistently, and hold ball, sand depth and release position constant"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible drop height and crater diameter plan defines the test, measurement and relevant controls. This conclusion concerns drop height and crater diameter.\nHint: Only drop height should explain a change in crater diameter. Apply this to drop height and crater diameter.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible drop height and crater diameter plan defines the test, measurement and relevant controls. This conclusion concerns drop height and crater diameter.",
+      "hint": "Only drop height should explain a change in crater diameter. Apply this to drop height and crater diameter."
     },
     "qualitySchema": "production-v1"
   },
@@ -616,25 +616,25 @@ window.skillrPracticeQuestions = [
     "skill": "method repeatable method",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “Keep cell angle”. Which response applies the method model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “Keep cell angle”. Which response applies the method model most accurately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a graph interpretation task, the evidence states, “Keep cell angle”. Which response applies the method model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a graph interpretation task, the evidence states, “Keep cell angle”. Which response applies the method model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, students observe: A team plans a study of fertiliser concentration and duckweed growth, but its draft changes several conditions. Which method decision makes study 22 fair and reproducible? Use the fertiliser concentration and duckweed growth evidence.",
+    "audioPrompt": "During a graph interpretation task, students observe: A team plans a study of fertiliser concentration and duckweed growth, but its draft changes several conditions. Which method decision makes study 22 fair and reproducible? Use the fertiliser concentration and duckweed growth evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of fertiliser concentration and duckweed growth, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of fertiliser concentration and duckweed growth, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-022",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a graph interpretation task, the evidence states, “Keep cell angle”. Which response applies the method model most accurately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of fertiliser concentration and duckweed growth, but its draft changes several conditions."
     },
     "answers": [
-      "The observation supports the idea that plans align variables, method and evidence with the question, within the limits of the investigation",
-      "A risk list is a risk assessment; the wider pattern does not need to be considered",
-      "Control and assumption caused the result because the two occurred together once"
+      "For fertiliser concentration and duckweed growth: Set measured values for fertiliser concentration, measure change in frond number consistently, and hold starting fronds, light, water and time constant",
+      "For fertiliser concentration and duckweed growth: Change fertiliser concentration and starting fronds, light, water and time together, then attribute the result to fertiliser concentration",
+      "For fertiliser concentration and duckweed growth: Let each group choose how to measure change in frond number after seeing its results"
     ],
     "correct": 0,
-    "explanation": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible fertiliser concentration and duckweed growth plan defines the test, measurement and relevant controls. This conclusion concerns fertiliser concentration and duckweed growth.\nHint: Only fertiliser concentration should explain a change in change in frond number. Apply this to fertiliser concentration and duckweed growth.",
     "structuredExplanation": {
-      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible fertiliser concentration and duckweed growth plan defines the test, measurement and relevant controls. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Only fertiliser concentration should explain a change in change in frond number. Apply this to fertiliser concentration and duckweed growth."
     },
     "qualitySchema": "production-v1"
   },
@@ -645,25 +645,25 @@ window.skillrPracticeQuestions = [
     "skill": "method control and assumption",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Control relevant variables before repetition”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Control relevant variables before repetition”. Which conclusion uses evidence appropriately?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Control relevant variables before repetition”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Control relevant variables before repetition”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-023\"></use></svg>",
+    "question": "During a claim-evidence-reasoning response, students observe: A team plans a study of blade length and paper-turbine rotation, but its draft changes several conditions. Which method decision makes study 23 fair and reproducible? Use the blade length and paper-turbine rotation evidence.",
+    "audioPrompt": "During a claim-evidence-reasoning response, students observe: A team plans a study of blade length and paper-turbine rotation, but its draft changes several conditions. Which method decision makes study 23 fair and reproducible? Use the blade length and paper-turbine rotation evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of blade length and paper-turbine rotation, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of blade length and paper-turbine rotation, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-023",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Control relevant variables before repetition”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of blade length and paper-turbine rotation, but its draft changes several conditions."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "For blade length and paper-turbine rotation: Change blade length and paper, blade number, fan distance and airflow together, then attribute the result to blade length",
+      "For blade length and paper-turbine rotation: Set measured values for blade length, measure rotations per minute consistently, and hold paper, blade number, fan distance and airflow constant",
+      "For blade length and paper-turbine rotation: Let each group choose how to measure rotations per minute after seeing its results"
     ],
     "correct": 1,
-    "explanation": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible blade length and paper-turbine rotation plan defines the test, measurement and relevant controls. This conclusion concerns blade length and paper-turbine rotation.\nHint: Only blade length should explain a change in rotations per minute. Apply this to blade length and paper-turbine rotation.",
     "structuredExplanation": {
-      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible blade length and paper-turbine rotation plan defines the test, measurement and relevant controls. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Only blade length should explain a change in rotations per minute. Apply this to blade length and paper-turbine rotation."
     },
     "qualitySchema": "production-v1"
   },
@@ -674,25 +674,25 @@ window.skillrPracticeQuestions = [
     "skill": "method risk and ethics",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, the evidence states, “Plans align variables”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, the evidence states, “Plans align variables”. What is the strongest scientific response to this result?",
-    "visual": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a scientific-method audit, the evidence states, “Plans align variables”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a scientific-method audit, the evidence states, “Plans align variables”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, students observe: A team plans a study of detergent concentration and surface tension, but its draft changes several conditions. Which method decision makes study 24 fair and reproducible? Use the detergent concentration and surface tension evidence.",
+    "audioPrompt": "During a scientific-method audit, students observe: A team plans a study of detergent concentration and surface tension, but its draft changes several conditions. Which method decision makes study 24 fair and reproducible? Use the detergent concentration and surface tension evidence.",
+    "visual": "Plan a Reproducible Investigation observation card stating: A team plans a study of detergent concentration and surface tension, but its draft changes several conditions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plan a Reproducible Investigation observation card stating: A team plans a study of detergent concentration and surface tension, but its draft changes several conditions.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-024",
-      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a scientific-method audit, the evidence states, “Plans align variables”. What is the strongest scientific response to this result?"
+      "alt_text": "Plan a Reproducible Investigation observation card stating: A team plans a study of detergent concentration and surface tension, but its draft changes several conditions."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to risk and ethics alone",
-      "Repeated evidence can support the conclusion that ethical and cultural protocols shape whether and how an investigation proceeds"
+      "For detergent concentration and surface tension: Change detergent concentration and dropper, coin, drop height and water volume together, then attribute the result to detergent concentration",
+      "For detergent concentration and surface tension: Let each group choose how to measure drops held on a coin after seeing its results",
+      "For detergent concentration and surface tension: Set measured values for detergent concentration, measure drops held on a coin consistently, and hold dropper, coin, drop height and water volume constant"
     ],
     "correct": 2,
-    "explanation": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "A reproducible detergent concentration and surface tension plan defines the test, measurement and relevant controls. This conclusion concerns detergent concentration and surface tension.\nHint: Only detergent concentration should explain a change in drops held on a coin. Apply this to detergent concentration and surface tension.",
     "structuredExplanation": {
-      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible detergent concentration and surface tension plan defines the test, measurement and relevant controls. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Only detergent concentration should explain a change in drops held on a coin. Apply this to detergent concentration and surface tension."
     },
     "qualitySchema": "production-v1"
   }

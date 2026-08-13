@@ -6,31 +6,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_purpose",
-    "question": "In a class investigation, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?",
+    "question": "During a class investigation, students observe: A laboratory report must allow another class to repeat an investigation. Which method sentence is most suitable?",
+    "audio_prompt": "During a class investigation, students observe: A laboratory report must allow another class to repeat an investigation. Which method sentence is most suitable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-001",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a class investigation, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A laboratory report must allow another class to repeat an investigation."
     },
     "answers": [
       {
-        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "text": "Heat 100 mL of water at 200 W and record temperature every 30 seconds for 5 minutes",
         "is_correct": true
       },
       {
-        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "text": "We heated some water for a while and it got hotter",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "The amazing water experiment worked perfectly",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A reproducible report uses precise quantities, units and sequence.",
+      "hint": "Choose details another investigator can follow."
     }
   },
   {
@@ -40,31 +40,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_audience",
-    "question": "During a museum evidence display, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?",
+    "question": "During a museum evidence display, students observe: A bushfire-smoke alert is written for the general public. Which message preserves accuracy and supports action?",
+    "audio_prompt": "During a museum evidence display, students observe: A bushfire-smoke alert is written for the general public. Which message preserves accuracy and supports action?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-002",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a museum evidence display, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A bushfire-smoke alert is written for the general public."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "text": "The air is poison and everyone who goes outside will become ill",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "text": "Particle levels are high today; people with breathing conditions should follow health advice and limit strenuous outdoor activity",
         "is_correct": true
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "PM2.5 exceeded the threshold, with no explanation or action",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Public communication combines accurate risk language with clear, audience-relevant action.",
+      "hint": "Avoid both exaggeration and unexplained technical shorthand."
     }
   },
   {
@@ -74,31 +74,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_scientific_content",
-    "question": "In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?",
+    "question": "During a field-team briefing, students observe: A graph shows a small uncertain increase in sea temperature. Which caption communicates the result honestly?",
+    "audio_prompt": "During a field-team briefing, students observe: A graph shows a small uncertain increase in sea temperature. Which caption communicates the result honestly?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-003",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A graph shows a small uncertain increase in sea temperature."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Ocean temperature has definitely surged",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "The graph proves temperature did not change because uncertainty exists",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "Mean temperature increased slightly; error bars overlap, so the size of the change remains uncertain",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A scientific caption states the pattern and its uncertainty without overclaiming.",
+      "hint": "Mention both the direction and what the error bars limit."
     }
   },
   {
@@ -108,31 +108,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_language_and_structure",
-    "question": "During a laboratory notebook, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, students observe: The same result must appear in a journal-style report and a Year 5 classroom poster. What should change between the texts?",
+    "audio_prompt": "During a laboratory notebook, students observe: The same result must appear in a journal-style report and a Year 5 classroom poster. What should change between the texts?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-004",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a laboratory notebook, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: The same result must appear in a journal-style report and a Year 5 classroom poster."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "text": "Vocabulary, detail and structure may change, while the data relationship and conclusion remain accurate",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Remove evidence from the poster because younger readers need only opinions",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "Change the conclusion so each audience hears what it prefers",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Audience adaptation changes presentation, not the scientific meaning.",
+      "hint": "Simplify expression while preserving evidence and conclusion."
     }
   },
   {
@@ -142,31 +142,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A community science meeting for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A community science meeting for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?",
+    "question": "During a community science meeting, students observe: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific. Which revision principle is best?",
+    "audio_prompt": "During a community science meeting, students observe: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific. Which revision principle is best?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-005",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A community science meeting for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "text": "Passive voice is compulsory in every scientific sentence",
         "is_correct": false
       },
       {
-        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "text": "Choose active or passive voice according to clarity and whether the actor or process is the focus",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "Active voice makes any scientific statement false",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Scientific voice is selected for clarity and purpose, not as a prestige rule.",
+      "hint": "Ask what the reader needs to focus on."
     }
   },
   {
@@ -176,31 +176,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_purpose",
-    "question": "In a digital model review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?",
+    "question": "During a digital model review, students observe: An infographic compares household energy sources. Which visual feature improves interpretation rather than decoration?",
+    "audio_prompt": "During a digital model review, students observe: An infographic compares household energy sources. Which visual feature improves interpretation rather than decoration?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-006",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a digital model review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: An infographic compares household energy sources."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "text": "Three-dimensional icons whose volume exaggerates small differences",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "Colours with no legend and values from unlabelled years",
         "is_correct": false
       },
       {
-        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "text": "Bars using a common zero baseline, labelled units and a cited data year",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Effective visuals use honest scale, labels and source context.",
+      "hint": "Readers should compare values without visual distortion."
     }
   },
   {
@@ -210,31 +210,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_audience",
-    "question": "During a student research poster, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?",
+    "question": "During a student research poster, students observe: A 20-second oral briefing reports a water test. Which structure suits the purpose?",
+    "audio_prompt": "During a student research poster, students observe: A 20-second oral briefing reports a water test. Which structure suits the purpose?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-007",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a student research poster, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A 20-second oral briefing reports a water test."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "text": "Lead with the key finding, give one supporting value and state the practical implication and limitation",
         "is_correct": true
       },
       {
-        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "text": "Read every raw measurement without naming the finding",
         "is_correct": false
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "Give the recommendation but hide the evidence and uncertainty",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A short briefing prioritises a finding, essential evidence and responsible qualification.",
+      "hint": "Keep the evidence-to-action chain visible."
     }
   },
   {
@@ -244,31 +244,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_scientific_content",
-    "question": "In an engineering design check, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?",
+    "question": "During an engineering design check, students observe: A website animation shows how particles move when a solid melts. Which accessibility addition is most useful?",
+    "audio_prompt": "During an engineering design check, students observe: A website animation shows how particles move when a solid melts. Which accessibility addition is most useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-008",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an engineering design check, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A website animation shows how particles move when a solid melts."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "Rely on colour alone to show every change",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "Provide a text description of particle arrangement and motion, plus controls usable by keyboard",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "Autoplay rapidly because all users interpret motion the same way",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Accessible science communication provides equivalent meaning and usable controls.",
+      "hint": "Ensure the scientific relationship is available without sight or a mouse."
     }
   },
   {
@@ -278,31 +278,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_language_and_structure",
-    "question": "During a data-team discussion, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, students observe: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association. Which headline is accurate?",
+    "audio_prompt": "During a data-team discussion, students observe: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association. Which headline is accurate?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-009",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a data-team discussion, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "Screens certainly destroy sleep for everyone",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "Study finds nothing because an association is not causation",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "text": "Study finds an association between greater screen use and shorter sleep in the surveyed group",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "A headline should match the study design, effect and sampled population.",
+      "hint": "Replace causal certainty with the observed association."
     }
   },
   {
@@ -312,31 +312,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A school science report for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?",
+    "question": "During a school science report, students observe: A report includes a table copied from another study. What makes its use transparent?",
+    "audio_prompt": "During a school science report, students observe: A report includes a table copied from another study. What makes its use transparent?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-010",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A school science report for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A report includes a table copied from another study."
     },
     "answers": [
       {
-        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "text": "Give a clear source, retain headings and units, and explain why the table is relevant",
         "is_correct": true
       },
       {
-        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "text": "Remove the citation and present the data as newly collected",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "Keep the citation but alter units without noting the conversion",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Transparent communication lets readers trace evidence and interpret it in context.",
+      "hint": "Preserve provenance, meaning and measurement conventions."
     }
   },
   {
@@ -346,31 +346,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_purpose",
-    "question": "In a council evidence summary, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?",
+    "question": "During a council evidence summary, students observe: A team must communicate results from study 11 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: A team must communicate results from study 11 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water temperature and sugar dissolving time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-011",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a council evidence summary, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 11 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "text": "For water temperature and sugar dissolving time: Remove the dissolving time evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific conventions, units and evidence remain accurate; this interpretation can be checked against further evidence",
+        "text": "For water temperature and sugar dissolving time: Adapt vocabulary and detail, but keep the measured water temperature-dissolving time relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For water temperature and sugar dissolving time: Change the water temperature-dissolving time conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of water temperature and sugar dissolving time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to water temperature and sugar dissolving time."
     }
   },
   {
@@ -380,31 +380,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_audience",
-    "question": "During a peer-review conversation, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a peer-review conversation, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?",
+    "question": "During a peer-review conversation, students observe: A team must communicate results from study 12 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: A team must communicate results from study 12 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the ramp angle and toy-car travel time evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-012",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a peer-review conversation, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 12 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "text": "For ramp angle and toy-car travel time: Remove the travel time evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For ramp angle and toy-car travel time: Change the ramp angle-travel time conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that digital and visual features clarify rather than decorate, within the limits of the investigation",
+        "text": "For ramp angle and toy-car travel time: Adapt vocabulary and detail, but keep the measured ramp angle-travel time relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of ramp angle and toy-car travel time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to ramp angle and toy-car travel time."
     }
   },
   {
@@ -414,31 +414,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_scientific_content",
-    "question": "In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?",
+    "question": "During an environmental monitoring project, students observe: A team must communicate results from study 13 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: A team must communicate results from study 13 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the light intensity and pondweed bubble rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-013",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 13 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For light intensity and pondweed bubble rate: Adapt vocabulary and detail, but keep the measured light intensity-bubbles per minute relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For light intensity and pondweed bubble rate: Remove the bubbles per minute evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For light intensity and pondweed bubble rate: Change the light intensity-bubbles per minute conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of light intensity and pondweed bubble rate can change form while preserving evidence, meaning and uncertainty. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to light intensity and pondweed bubble rate."
     }
   },
   {
@@ -448,31 +448,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_language_and_structure",
-    "question": "During a medical research case, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, students observe: A team must communicate results from study 14 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: A team must communicate results from study 14 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the soil type and bean-seedling height evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-014",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a medical research case, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 14 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For soil type and bean-seedling height: Remove the height after 14 days evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that scientific conventions, units and evidence remain accurate",
+        "text": "For soil type and bean-seedling height: Adapt vocabulary and detail, but keep the measured soil type-height after 14 days relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For soil type and bean-seedling height: Change the soil type-height after 14 days conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of soil type and bean-seedling height can change form while preserving evidence, meaning and uncertainty. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to soil type and bean-seedling height."
     }
   },
   {
@@ -482,31 +482,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A science-news fact check for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?",
+    "question": "During a science-news fact check, students observe: A team must communicate results from study 15 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: A team must communicate results from study 15 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wire length and electrical current evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-015",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A science-news fact check for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 15 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "text": "For wire length and electrical current: Remove the current evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For wire length and electrical current: Change the wire length-current conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The evidence supports digital and visual features clarify rather than decorate, but it does not prove that every case will be identical",
+        "text": "For wire length and electrical current: Adapt vocabulary and detail, but keep the measured wire length-current relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of wire length and electrical current can change form while preserving evidence, meaning and uncertainty. This conclusion concerns wire length and electrical current.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to wire length and electrical current."
     }
   },
   {
@@ -516,31 +516,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_purpose",
-    "question": "In a classroom model test, the evidence states, “Content selection matches purpose and audience”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Content selection matches purpose and audience”. Which interpretation is best supported?",
+    "question": "During a classroom model test, students observe: A team must communicate results from study 16 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: A team must communicate results from study 16 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the exercise duration and pulse recovery evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-016",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a classroom model test, the evidence states, “Content selection matches purpose and audience”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 16 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "text": "For exercise duration and pulse recovery: Adapt vocabulary and detail, but keep the measured exercise duration-recovery time relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "text": "For exercise duration and pulse recovery: Remove the recovery time evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For exercise duration and pulse recovery: Change the exercise duration-recovery time conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of exercise duration and pulse recovery can change form while preserving evidence, meaning and uncertainty. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to exercise duration and pulse recovery."
     }
   },
   {
@@ -550,31 +550,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_audience",
-    "question": "During a regional planning workshop, the evidence states, “A laboratory report needs reproducible method”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a regional planning workshop, the evidence states, “A laboratory report needs reproducible method”. Which response applies the communication model most accurately?",
+    "question": "During a regional planning workshop, students observe: A team must communicate results from study 17 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: A team must communicate results from study 17 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salt concentration and egg buoyancy evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-017",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a regional planning workshop, the evidence states, “A laboratory report needs reproducible method”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 17 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "text": "For salt concentration and egg buoyancy: Remove the floating height evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "text": "For salt concentration and egg buoyancy: Adapt vocabulary and detail, but keep the measured salt concentration-floating height relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For salt concentration and egg buoyancy: Change the salt concentration-floating height conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of salt concentration and egg buoyancy can change form while preserving evidence, meaning and uncertainty. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to salt concentration and egg buoyancy."
     }
   },
   {
@@ -584,31 +584,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_scientific_content",
-    "question": "In an equipment selection task, students compare scientific content with language and structure. The evidence states, “Digital and visual features clarify rather than decorate”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare scientific content with language and structure. The evidence states, “Digital and visual features clarify rather than decorate”. Which conclusion uses evidence appropriately?",
+    "question": "During an equipment selection task, students observe: A team must communicate results from study 18 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: A team must communicate results from study 18 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the insulation material and cooling evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-018",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an equipment selection task, students compare scientific content with language and structure. The evidence states, “Digital and visual features clarify rather than decorate”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 18 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For insulation material and cooling: Remove the temperature loss evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For insulation material and cooling: Change the insulation material-temperature loss conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For insulation material and cooling: Adapt vocabulary and detail, but keep the measured insulation material-temperature loss relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of insulation material and cooling can change form while preserving evidence, meaning and uncertainty. This conclusion concerns insulation material and cooling.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to insulation material and cooling."
     }
   },
   {
@@ -618,31 +618,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_language_and_structure",
-    "question": "During a public information draft, the evidence states, “Both preserve the science while changing structure”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, the evidence states, “Both preserve the science while changing structure”. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, students observe: A team must communicate results from study 19 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: A team must communicate results from study 19 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the surface area and evaporation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-019",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a public information draft, the evidence states, “Both preserve the science while changing structure”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 19 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "text": "For surface area and evaporation: Adapt vocabulary and detail, but keep the measured exposed surface area-mass of water lost relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For surface area and evaporation: Remove the mass of water lost evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For surface area and evaporation: Change the exposed surface area-mass of water lost conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of surface area and evaporation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns surface area and evaporation.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to surface area and evaporation."
     }
   },
   {
@@ -652,31 +652,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_visual_or_digital_feature",
-    "question": "An independent replication study for Communicate Science for a Purpose reports that choose active or passive voice according to clarity. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Communicate Science for a Purpose reports that choose active or passive voice according to clarity. Which revision would make the reasoning most reliable?",
+    "question": "During an independent replication study, students observe: A team must communicate results from study 20 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: A team must communicate results from study 20 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the pH and amylase activity evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-020",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: An independent replication study for Communicate Science for a Purpose reports that choose active or passive voice according to clarity. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 20 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "text": "For pH and amylase activity: Remove the time to digest starch evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "text": "For pH and amylase activity: Adapt vocabulary and detail, but keep the measured pH-time to digest starch relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For pH and amylase activity: Change the pH-time to digest starch conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of pH and amylase activity can change form while preserving evidence, meaning and uncertainty. This conclusion concerns pH and amylase activity.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to pH and amylase activity."
     }
   },
   {
@@ -686,31 +686,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_purpose",
-    "question": "In a risk-assessment meeting, the evidence states, “Scientific conventions”. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Scientific conventions”. Which interpretation is best supported?",
+    "question": "During a risk-assessment meeting, students observe: A team must communicate results from study 21 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: A team must communicate results from study 21 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the drop height and crater diameter evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-021",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a risk-assessment meeting, the evidence states, “Scientific conventions”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 21 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "text": "For drop height and crater diameter: Remove the crater diameter evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For drop height and crater diameter: Change the drop height-crater diameter conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "text": "For drop height and crater diameter: Adapt vocabulary and detail, but keep the measured drop height-crater diameter relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of drop height and crater diameter can change form while preserving evidence, meaning and uncertainty. This conclusion concerns drop height and crater diameter.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to drop height and crater diameter."
     }
   },
   {
@@ -720,31 +720,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_audience",
-    "question": "During a graph interpretation task, the evidence states, “A public energy infographic needs accurate comparisons”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “A public energy infographic needs accurate comparisons”. Which response applies the communication model most accurately?",
+    "question": "During a graph interpretation task, students observe: A team must communicate results from study 22 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: A team must communicate results from study 22 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fertiliser concentration and duckweed growth evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-022",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a graph interpretation task, the evidence states, “A public energy infographic needs accurate comparisons”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 22 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "text": "For fertiliser concentration and duckweed growth: Adapt vocabulary and detail, but keep the measured fertiliser concentration-change in frond number relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "text": "For fertiliser concentration and duckweed growth: Remove the change in frond number evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For fertiliser concentration and duckweed growth: Change the fertiliser concentration-change in frond number conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of fertiliser concentration and duckweed growth can change form while preserving evidence, meaning and uncertainty. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to fertiliser concentration and duckweed growth."
     }
   },
   {
@@ -754,31 +754,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_scientific_content",
-    "question": "In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which conclusion uses evidence appropriately?",
+    "question": "During a claim-evidence-reasoning response, students observe: A team must communicate results from study 23 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A team must communicate results from study 23 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the blade length and paper-turbine rotation evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-023",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 23 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For blade length and paper-turbine rotation: Remove the rotations per minute evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For blade length and paper-turbine rotation: Adapt vocabulary and detail, but keep the measured blade length-rotations per minute relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For blade length and paper-turbine rotation: Change the blade length-rotations per minute conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of blade length and paper-turbine rotation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to blade length and paper-turbine rotation."
     }
   },
   {
@@ -788,31 +788,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "practice",
     "skill": "communication_language_and_structure",
-    "question": "During a scientific-method audit, the evidence states, “Content selection matches purpose and audience”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Content selection matches purpose and audience”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, students observe: A team must communicate results from study 24 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: A team must communicate results from study 24 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the detergent concentration and surface tension evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-024",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a scientific-method audit, the evidence states, “Content selection matches purpose and audience”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 24 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For detergent concentration and surface tension: Remove the drops held on a coin evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For detergent concentration and surface tension: Change the detergent concentration-drops held on a coin conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "text": "For detergent concentration and surface tension: Adapt vocabulary and detail, but keep the measured detergent concentration-drops held on a coin relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of detergent concentration and surface tension can change form while preserving evidence, meaning and uncertainty. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to detergent concentration and surface tension."
     }
   },
   {
@@ -822,31 +822,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A new research proposal for Communicate Science for a Purpose reports that content selection matches purpose and audience. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Communicate Science for a Purpose reports that content selection matches purpose and audience. Which revision would make the reasoning most reliable?",
+    "question": "During the new research proposal, students observe: A team must communicate results from study 25 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: A team must communicate results from study 25 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the sound frequency and perceived pitch evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-001",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A new research proposal for Communicate Science for a Purpose reports that content selection matches purpose and audience. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 25 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "text": "For sound frequency and perceived pitch: Adapt vocabulary and detail, but keep the measured speaker frequency-reported pitch relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "text": "For sound frequency and perceived pitch: Remove the reported pitch evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For sound frequency and perceived pitch: Change the speaker frequency-reported pitch conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of sound frequency and perceived pitch can change form while preserving evidence, meaning and uncertainty. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to sound frequency and perceived pitch."
     }
   },
   {
@@ -856,31 +856,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_purpose",
-    "question": "In a cross-school data comparison, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?",
+    "question": "During the cross-school data comparison, students observe: A team must communicate results from study 26 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: A team must communicate results from study 26 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the acid concentration and reaction rate evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-002",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a cross-school data comparison, the evidence states, “A laboratory report needs reproducible method”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 26 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "text": "For acid concentration and reaction rate: Remove the gas volume per minute evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific conventions, units and evidence remain accurate; this interpretation can be checked against further evidence",
+        "text": "For acid concentration and reaction rate: Adapt vocabulary and detail, but keep the measured acid concentration-gas volume per minute relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For acid concentration and reaction rate: Change the acid concentration-gas volume per minute conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of acid concentration and reaction rate can change form while preserving evidence, meaning and uncertainty. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to acid concentration and reaction rate."
     }
   },
   {
@@ -890,31 +890,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_audience",
-    "question": "During a technology evaluation panel, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?",
+    "question": "During the technology evaluation panel, students observe: A team must communicate results from study 27 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: A team must communicate results from study 27 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the shade cover and soil moisture evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-003",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a technology evaluation panel, the evidence states, “Digital and visual features clarify rather than decorate”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 27 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "text": "For shade cover and soil moisture: Remove the soil moisture after six hours evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For shade cover and soil moisture: Change the percentage shade cover-soil moisture after six hours conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that digital and visual features clarify rather than decorate, within the limits of the investigation",
+        "text": "For shade cover and soil moisture: Adapt vocabulary and detail, but keep the measured percentage shade cover-soil moisture after six hours relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of shade cover and soil moisture can change form while preserving evidence, meaning and uncertainty. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to shade cover and soil moisture."
     }
   },
   {
@@ -924,31 +924,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_scientific_content",
-    "question": "In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?",
+    "question": "During the science exhibition caption, students observe: A team must communicate results from study 28 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: A team must communicate results from study 28 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the magnet distance and force evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-004",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 28 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For magnet distance and force: Adapt vocabulary and detail, but keep the measured magnet separation-force reading relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For magnet distance and force: Remove the force reading evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For magnet distance and force: Change the magnet separation-force reading conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of magnet distance and force can change form while preserving evidence, meaning and uncertainty. This conclusion concerns magnet distance and force.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to magnet distance and force."
     }
   },
   {
@@ -958,31 +958,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_language_and_structure",
-    "question": "During a policy evidence hearing, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?",
+    "question": "During the policy evidence hearing, students observe: A team must communicate results from study 29 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: A team must communicate results from study 29 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water depth and wave speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-005",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a policy evidence hearing, the evidence states, “Choose active or passive voice according to clarity”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 29 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For water depth and wave speed: Remove the wave travel time evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that scientific conventions, units and evidence remain accurate",
+        "text": "For water depth and wave speed: Adapt vocabulary and detail, but keep the measured water depth-wave travel time relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For water depth and wave speed: Change the water depth-wave travel time conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of water depth and wave speed can change form while preserving evidence, meaning and uncertainty. This conclusion concerns water depth and wave speed.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to water depth and wave speed."
     }
   },
   {
@@ -992,31 +992,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A controlled follow-up investigation for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?",
+    "question": "During the controlled follow-up investigation, students observe: A team must communicate results from study 30 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A team must communicate results from study 30 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the antibiotic concentration and inhibition zone evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-006",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A controlled follow-up investigation for Communicate Science for a Purpose reports that scientific conventions. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 30 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "text": "For antibiotic concentration and inhibition zone: Remove the inhibition-zone diameter evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For antibiotic concentration and inhibition zone: Change the antibiotic concentration-inhibition-zone diameter conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The evidence supports digital and visual features clarify rather than decorate, but it does not prove that every case will be identical",
+        "text": "For antibiotic concentration and inhibition zone: Adapt vocabulary and detail, but keep the measured antibiotic concentration-inhibition-zone diameter relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of antibiotic concentration and inhibition zone can change form while preserving evidence, meaning and uncertainty. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to antibiotic concentration and inhibition zone."
     }
   },
   {
@@ -1026,31 +1026,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_purpose",
-    "question": "In a model limitations review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?",
+    "question": "During the model limitations review, students observe: A team must communicate results from study 31 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: A team must communicate results from study 31 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fruit ripeness and vitamin C evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-007",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a model limitations review, the evidence states, “A public energy infographic needs accurate comparisons”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 31 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "text": "For fruit ripeness and vitamin C: Adapt vocabulary and detail, but keep the measured ripeness stage-titration volume relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "text": "For fruit ripeness and vitamin C: Remove the titration volume evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For fruit ripeness and vitamin C: Change the ripeness stage-titration volume conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of fruit ripeness and vitamin C can change form while preserving evidence, meaning and uncertainty. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to fruit ripeness and vitamin C."
     }
   },
   {
@@ -1060,31 +1060,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_audience",
-    "question": "During an ethics committee discussion, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?",
+    "question": "During the ethics committee discussion, students observe: A team must communicate results from study 32 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: A team must communicate results from study 32 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the roof colour and model-house temperature evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-008",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During an ethics committee discussion, the evidence states, “Keep the scientific relationship and adapt vocabulary and structure”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 32 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "text": "For roof colour and model-house temperature: Remove the inside temperature rise evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "text": "For roof colour and model-house temperature: Adapt vocabulary and detail, but keep the measured roof colour-inside temperature rise relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For roof colour and model-house temperature: Change the roof colour-inside temperature rise conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of roof colour and model-house temperature can change form while preserving evidence, meaning and uncertainty. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to roof colour and model-house temperature."
     }
   },
   {
@@ -1094,31 +1094,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_scientific_content",
-    "question": "In a coastal field station report, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?",
+    "question": "During the coastal field station report, students observe: A team must communicate results from study 33 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: A team must communicate results from study 33 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salinity and seed germination evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-009",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a coastal field station report, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 33 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For salinity and seed germination: Remove the germination percentage evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For salinity and seed germination: Change the salt concentration-germination percentage conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For salinity and seed germination: Adapt vocabulary and detail, but keep the measured salt concentration-germination percentage relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of salinity and seed germination can change form while preserving evidence, meaning and uncertainty. This conclusion concerns salinity and seed germination.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to salinity and seed germination."
     }
   },
   {
@@ -1128,31 +1128,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_language_and_structure",
-    "question": "During a renewable-energy trial, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?",
+    "question": "During the renewable-energy trial, students observe: A team must communicate results from study 34 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: A team must communicate results from study 34 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the load and bridge deflection evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-010",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a renewable-energy trial, the evidence states, “A laboratory report needs reproducible method”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 34 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "text": "For load and bridge deflection: Adapt vocabulary and detail, but keep the measured applied load-bridge deflection relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For load and bridge deflection: Remove the bridge deflection evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For load and bridge deflection: Change the applied load-bridge deflection conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of load and bridge deflection can change form while preserving evidence, meaning and uncertainty. This conclusion concerns load and bridge deflection.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to load and bridge deflection."
     }
   },
   {
@@ -1162,31 +1162,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A hospital innovation briefing for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?",
+    "question": "During the hospital innovation briefing, students observe: A team must communicate results from study 35 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A team must communicate results from study 35 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wind speed and transpiration evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-011",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A hospital innovation briefing for Communicate Science for a Purpose reports that digital and visual features clarify rather than decorate. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 35 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "text": "For wind speed and transpiration: Remove the plant mass loss evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "text": "For wind speed and transpiration: Adapt vocabulary and detail, but keep the measured wind speed-plant mass loss relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For wind speed and transpiration: Change the wind speed-plant mass loss conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of wind speed and transpiration can change form while preserving evidence, meaning and uncertainty. This conclusion concerns wind speed and transpiration.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to wind speed and transpiration."
     }
   },
   {
@@ -1196,31 +1196,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_purpose",
-    "question": "In a geological survey update, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?",
+    "question": "During the geological survey update, students observe: A team must communicate results from study 36 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: A team must communicate results from study 36 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the particle size and dissolving evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-012",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a geological survey update, the evidence states, “Both preserve the science while changing structure”. Which interpretation is best supported?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 36 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "text": "For particle size and dissolving: Remove the dissolving time evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "text": "For particle size and dissolving: Change the solute particle size-dissolving time conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "text": "For particle size and dissolving: Adapt vocabulary and detail, but keep the measured solute particle size-dissolving time relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of particle size and dissolving can change form while preserving evidence, meaning and uncertainty. This conclusion concerns particle size and dissolving.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to particle size and dissolving."
     }
   },
   {
@@ -1230,31 +1230,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_audience",
-    "question": "During a materials-testing laboratory, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?",
+    "question": "During the materials-testing laboratory, students observe: A team must communicate results from study 37 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A team must communicate results from study 37 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the string length and pendulum period evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-013",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a materials-testing laboratory, the evidence states, “Choose active or passive voice according to clarity”. Which response applies the communication model most accurately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 37 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "text": "For string length and pendulum period: Adapt vocabulary and detail, but keep the measured string length-period relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "text": "For string length and pendulum period: Remove the period evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Scientific content caused the result because the two occurred together once",
+        "text": "For string length and pendulum period: Change the string length-period conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of string length and pendulum period can change form while preserving evidence, meaning and uncertainty. This conclusion concerns string length and pendulum period.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to string length and pendulum period."
     }
   },
   {
@@ -1264,31 +1264,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_scientific_content",
-    "question": "In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?",
+    "question": "During the documentary planning session, students observe: A team must communicate results from study 38 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: A team must communicate results from study 38 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the battery temperature and motor speed evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-014",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Scientific conventions”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 38 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "text": "For battery temperature and motor speed: Remove the motor rotations per minute evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "text": "For battery temperature and motor speed: Adapt vocabulary and detail, but keep the measured battery temperature-motor rotations per minute relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "text": "For battery temperature and motor speed: Change the battery temperature-motor rotations per minute conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of battery temperature and motor speed can change form while preserving evidence, meaning and uncertainty. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to battery temperature and motor speed."
     }
   },
   {
@@ -1298,31 +1298,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_language_and_structure",
-    "question": "During a national data-set review, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?",
+    "question": "During the national data-set review, students observe: A team must communicate results from study 39 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: A team must communicate results from study 39 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the stream velocity and sediment size evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-015",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a national data-set review, the evidence states, “A public energy infographic needs accurate comparisons”. What is the strongest scientific response to this result?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 39 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "text": "For stream velocity and sediment size: Remove the largest transported grain evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "text": "For stream velocity and sediment size: Change the stream velocity-largest transported grain conclusion to suit what each audience wants to hear",
         "is_correct": false
       },
       {
-        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "text": "For stream velocity and sediment size: Adapt vocabulary and detail, but keep the measured stream velocity-largest transported grain relationship, units, uncertainty and source consistent",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of stream velocity and sediment size can change form while preserving evidence, meaning and uncertainty. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to stream velocity and sediment size."
     }
   },
   {
@@ -1332,31 +1332,31 @@
     "curriculum_code": "AC9S8I08",
     "bank": "test",
     "skill": "communication_visual_or_digital_feature",
-    "question": "A final evidence conference for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?",
+    "question": "During the final evidence conference, students observe: A team must communicate results from study 40 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: A team must communicate results from study 40 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the leaf area and photosynthesis evidence.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-016",
-      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A final evidence conference for Communicate Science for a Purpose reports that keep the scientific relationship and adapt vocabulary and structure. Which revision would make the reasoning most reliable?"
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 40 to students and laboratory researchers."
     },
     "answers": [
       {
-        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "text": "For leaf area and photosynthesis: Adapt vocabulary and detail, but keep the measured leaf area exposed-oxygen production rate relationship, units, uncertainty and source consistent",
         "is_correct": true
       },
       {
-        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "text": "For leaf area and photosynthesis: Remove the oxygen production rate evidence for students and give only an opinion",
         "is_correct": false
       },
       {
-        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "text": "For leaf area and photosynthesis: Change the leaf area exposed-oxygen production rate conclusion to suit what each audience wants to hear",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Communication of leaf area and photosynthesis can change form while preserving evidence, meaning and uncertainty. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to leaf area and photosynthesis."
     }
   }
 ]

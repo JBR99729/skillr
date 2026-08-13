@@ -7,25 +7,25 @@ window.skillrTestQuestions = [
     "skill": "decision ethical environmental social and economic trade off",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Evaluate Scientific Responses reports that scientific knowledge informs responses but does not make value decisions alone. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Evaluate Scientific Responses reports that scientific knowledge informs responses but does not make value decisions alone. Which revision would make the reasoning most reliable?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A new research proposal for Evaluate Scientific Responses reports that scientific knowledge informs responses but does not make value decisions alone. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A new research proposal for Evaluate Scientific Responses reports that scientific knowledge informs responses but does not make value decisions alone. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-001\"></use></svg>",
+    "question": "During the new research proposal, students observe: A recycling plant creates local jobs but increases truck traffic and noise. Which stakeholder analysis is needed?",
+    "audioPrompt": "During the new research proposal, students observe: A recycling plant creates local jobs but increases truck traffic and noise. Which stakeholder analysis is needed?",
+    "visual": "Evaluate Scientific Responses observation card stating: A recycling plant creates local jobs but increases truck traffic and noise.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A recycling plant creates local jobs but increases truck traffic and noise.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-001",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A new research proposal for Evaluate Scientific Responses reports that scientific knowledge informs responses but does not make value decisions alone. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A recycling plant creates local jobs but increases truck traffic and noise."
     },
     "answers": [
-      "The evidence supports scientific knowledge informs responses but does not make value decisions alone, but it does not prove that every case will be identical",
-      "The scientifically possible option must be the best option; the same outcome must therefore occur in every setting",
-      "A confident opinion about scientific response is stronger than measured or documented evidence"
+      "Compare community burdens and benefits, including where each occurs",
+      "Count jobs and ignore every other effect",
+      "Assume all residents experience identical outcomes"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Compare community burdens and benefits, including where each occurs\nHint: Map distribution, not just totals.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Compare community burdens and benefits, including where each occurs",
+      "hint": "Map distribution, not just totals."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +36,25 @@ window.skillrTestQuestions = [
     "skill": "decision scientific response",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “An earthquake early-warning system can give people seconds to act”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “An earthquake early-warning system can give people seconds to act”. Which interpretation is best supported?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a cross-school data comparison, the evidence states, “An earthquake early-warning system can give people seconds to act”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a cross-school data comparison, the evidence states, “An earthquake early-warning system can give people seconds to act”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-002\"></use></svg>",
+    "question": "During the cross-school data comparison, students observe: Cloud seeding is proposed during drought with uncertain rainfall effects. Which recommendation handles uncertainty?",
+    "audioPrompt": "During the cross-school data comparison, students observe: Cloud seeding is proposed during drought with uncertain rainfall effects. Which recommendation handles uncertainty?",
+    "visual": "Evaluate Scientific Responses observation card stating: Cloud seeding is proposed during drought with uncertain rainfall effects.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: Cloud seeding is proposed during drought with uncertain rainfall effects.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-002",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a cross-school data comparison, the evidence states, “An earthquake early-warning system can give people seconds to act”. Which interpretation is best supported?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: Cloud seeding is proposed during drought with uncertain rainfall effects."
     },
     "answers": [
-      "Listing pros and cons is analysis; one matching observation makes this explanation certain",
-      "Consequences can differ among stakeholders and over time; this interpretation can be checked against further evidence",
-      "Scientific response is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Guarantee success to gain support",
+      "Use transparent trials and monitoring without promising rainfall",
+      "Assume uncertainty means it cannot be studied"
     ],
     "correct": 1,
-    "explanation": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Use transparent trials and monitoring without promising rainfall\nHint: Match claims and safeguards to evidence.",
     "structuredExplanation": {
-      "summary": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Use transparent trials and monitoring without promising rainfall",
+      "hint": "Match claims and safeguards to evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +65,25 @@ window.skillrTestQuestions = [
     "skill": "decision benefit",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, the evidence states, “Recommendations should acknowledge evidence”. Which response applies the decision model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, the evidence states, “Recommendations should acknowledge evidence”. Which response applies the decision model most accurately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a technology evaluation panel, the evidence states, “Recommendations should acknowledge evidence”. Which response applies the decision model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a technology evaluation panel, the evidence states, “Recommendations should acknowledge evidence”. Which response applies the decision model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-003\"></use></svg>",
+    "question": "During the technology evaluation panel, students observe: A school installs air filters after smoke events. Which evaluation shows effectiveness?",
+    "audioPrompt": "During the technology evaluation panel, students observe: A school installs air filters after smoke events. Which evaluation shows effectiveness?",
+    "visual": "Evaluate Scientific Responses observation card stating: A school installs air filters after smoke events.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A school installs air filters after smoke events.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-003",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a technology evaluation panel, the evidence states, “Recommendations should acknowledge evidence”. Which response applies the decision model most accurately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A school installs air filters after smoke events."
     },
     "answers": [
-      "The scientifically possible option must be the best option; the wider pattern does not need to be considered",
-      "Risk caused the result because the two occurred together once",
-      "The observation supports the idea that recommendations should acknowledge evidence, uncertainty and trade-offs, within the limits of the investigation"
+      "Ask students whether the units look scientific",
+      "Measure outdoor temperature once",
+      "Compare indoor particles before and after under similar smoke conditions"
     ],
     "correct": 2,
-    "explanation": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Compare indoor particles before and after under similar smoke conditions\nHint: Measure the intended outcome fairly.",
     "structuredExplanation": {
-      "summary": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Compare indoor particles before and after under similar smoke conditions",
+      "hint": "Measure the intended outcome fairly."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +94,25 @@ window.skillrTestQuestions = [
     "skill": "decision risk",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare risk with stakeholder. The evidence states, “A justified response weighs evidence”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare risk with stakeholder. The evidence states, “A justified response weighs evidence”. Which conclusion uses evidence appropriately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a science exhibition caption, students compare risk with stakeholder. The evidence states, “A justified response weighs evidence”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a science exhibition caption, students compare risk with stakeholder. The evidence states, “A justified response weighs evidence”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-004\"></use></svg>",
+    "question": "During the science exhibition caption, students observe: A forest is cleared for a biofuel crop. Why is 'renewable' insufficient evaluation?",
+    "audioPrompt": "During the science exhibition caption, students observe: A forest is cleared for a biofuel crop. Why is 'renewable' insufficient evaluation?",
+    "visual": "Evaluate Scientific Responses observation card stating: A forest is cleared for a biofuel crop.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A forest is cleared for a biofuel crop.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-004",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a science exhibition caption, students compare risk with stakeholder. The evidence states, “A justified response weighs evidence”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A forest is cleared for a biofuel crop."
     },
     "answers": [
-      "The model links risk with stakeholder, so it can explain the relationship while still having limits",
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Land-use emissions, biodiversity, food competition and regrowth time also matter",
+      "Renewable resources have no limits",
+      "Biofuel always emits more than coal"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Land-use emissions, biodiversity, food competition and regrowth time also matter\nHint: Use a life-cycle and land-use view.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Land-use emissions, biodiversity, food competition and regrowth time also matter",
+      "hint": "Use a life-cycle and land-use view."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,25 @@ window.skillrTestQuestions = [
     "skill": "decision stakeholder",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, the evidence states, “Connect each consequence to evidence and a stakeholder”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, the evidence states, “Connect each consequence to evidence and a stakeholder”. What is the strongest scientific response to this result?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a policy evidence hearing, the evidence states, “Connect each consequence to evidence and a stakeholder”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a policy evidence hearing, the evidence states, “Connect each consequence to evidence and a stakeholder”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-005\"></use></svg>",
+    "question": "During the policy evidence hearing, students observe: A medical database could improve diagnosis but contains identifiable records. What balance is required?",
+    "audioPrompt": "During the policy evidence hearing, students observe: A medical database could improve diagnosis but contains identifiable records. What balance is required?",
+    "visual": "Evaluate Scientific Responses observation card stating: A medical database could improve diagnosis but contains identifiable records.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A medical database could improve diagnosis but contains identifiable records.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-005",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a policy evidence hearing, the evidence states, “Connect each consequence to evidence and a stakeholder”. What is the strongest scientific response to this result?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A medical database could improve diagnosis but contains identifiable records."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Repeated evidence can support the conclusion that consequences can differ among stakeholders and over time",
-      "Several conditions can change together and the result can still be attributed to stakeholder alone"
+      "Make all records public for faster research",
+      "Research benefit against privacy, consent, security and misuse risks",
+      "Ban all health data analysis"
     ],
     "correct": 1,
-    "explanation": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Research benefit against privacy, consent, security and misuse risks\nHint: Look for protections proportionate to benefit and risk.",
     "structuredExplanation": {
-      "summary": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Research benefit against privacy, consent, security and misuse risks",
+      "hint": "Look for protections proportionate to benefit and risk."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +152,25 @@ window.skillrTestQuestions = [
     "skill": "decision ethical environmental social and economic trade off",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Evaluate Scientific Responses reports that consequences can differ among stakeholders and over time. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Evaluate Scientific Responses reports that consequences can differ among stakeholders and over time. Which revision would make the reasoning most reliable?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A controlled follow-up investigation for Evaluate Scientific Responses reports that consequences can differ among stakeholders and over time. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A controlled follow-up investigation for Evaluate Scientific Responses reports that consequences can differ among stakeholders and over time. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-006\"></use></svg>",
+    "question": "During the controlled follow-up investigation, students observe: A mineral exploration project promises jobs on Indigenous land. What is required beyond environmental testing?",
+    "audioPrompt": "During the controlled follow-up investigation, students observe: A mineral exploration project promises jobs on Indigenous land. What is required beyond environmental testing?",
+    "visual": "Evaluate Scientific Responses observation card stating: A mineral exploration project promises jobs on Indigenous land.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A mineral exploration project promises jobs on Indigenous land.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-006",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A controlled follow-up investigation for Evaluate Scientific Responses reports that consequences can differ among stakeholders and over time. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A mineral exploration project promises jobs on Indigenous land."
     },
     "answers": [
-      "Listing pros and cons is analysis; the same outcome must therefore occur in every setting",
-      "A confident opinion about scientific response is stronger than measured or documented evidence",
-      "The evidence supports recommendations should acknowledge evidence, uncertainty and trade-offs, but it does not prove that every case will be identical"
+      "A national advertisement",
+      "Proof that jobs erase cultural impacts",
+      "Free, prior and informed consent and respect for cultural authority"
     ],
     "correct": 2,
-    "explanation": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Free, prior and informed consent and respect for cultural authority\nHint: Technical approval is not community consent.",
     "structuredExplanation": {
-      "summary": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Free, prior and informed consent and respect for cultural authority",
+      "hint": "Technical approval is not community consent."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,25 @@ window.skillrTestQuestions = [
     "skill": "decision scientific response",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “It may reduce harm but requires reliable infrastructure”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “It may reduce harm but requires reliable infrastructure”. Which interpretation is best supported?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a model limitations review, the evidence states, “It may reduce harm but requires reliable infrastructure”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a model limitations review, the evidence states, “It may reduce harm but requires reliable infrastructure”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-007\"></use></svg>",
+    "question": "During the model limitations review, students observe: A smart meter reduces peak electricity use but records household activity patterns. Which hidden cost needs governance?",
+    "audioPrompt": "During the model limitations review, students observe: A smart meter reduces peak electricity use but records household activity patterns. Which hidden cost needs governance?",
+    "visual": "Evaluate Scientific Responses observation card stating: A smart meter reduces peak electricity use but records household activity patterns.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A smart meter reduces peak electricity use but records household activity patterns.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-007",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a model limitations review, the evidence states, “It may reduce harm but requires reliable infrastructure”. Which interpretation is best supported?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A smart meter reduces peak electricity use but records household activity patterns."
     },
     "answers": [
-      "Scientific knowledge informs responses but does not make value decisions alone; this interpretation can be checked against further evidence",
-      "The scientifically possible option must be the best option; one matching observation makes this explanation certain",
-      "Scientific response is the only relevant feature, so no mechanism or consequence needs explaining"
+      "Privacy and control of detailed usage data",
+      "Electricity stops being measurable",
+      "Meters create energy from data"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Privacy and control of detailed usage data\nHint: Consider information produced by the solution.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Privacy and control of detailed usage data",
+      "hint": "Consider information produced by the solution."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +210,25 @@ window.skillrTestQuestions = [
     "skill": "decision benefit",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Separate technical feasibility from values”. Which response applies the decision model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Separate technical feasibility from values”. Which response applies the decision model most accurately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During an ethics committee discussion, the evidence states, “Separate technical feasibility from values”. Which response applies the decision model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During an ethics committee discussion, the evidence states, “Separate technical feasibility from values”. Which response applies the decision model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-008\"></use></svg>",
+    "question": "During the ethics committee discussion, students observe: A predator-control program protects native wildlife but causes animal-welfare concerns. What makes a recommendation defensible?",
+    "audioPrompt": "During the ethics committee discussion, students observe: A predator-control program protects native wildlife but causes animal-welfare concerns. What makes a recommendation defensible?",
+    "visual": "Evaluate Scientific Responses observation card stating: A predator-control program protects native wildlife but causes animal-welfare concerns.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A predator-control program protects native wildlife but causes animal-welfare concerns.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-008",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During an ethics committee discussion, the evidence states, “Separate technical feasibility from values”. Which response applies the decision model most accurately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A predator-control program protects native wildlife but causes animal-welfare concerns."
     },
     "answers": [
-      "Listing pros and cons is analysis; the wider pattern does not need to be considered",
-      "The observation supports the idea that consequences can differ among stakeholders and over time, within the limits of the investigation",
-      "Risk caused the result because the two occurred together once"
+      "Ignore welfare because conservation is scientific",
+      "Compare ecological outcomes, welfare evidence and less harmful effective methods",
+      "Stop conservation because any control causes concern"
     ],
     "correct": 1,
-    "explanation": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Compare ecological outcomes, welfare evidence and less harmful effective methods\nHint: Evaluate effectiveness and ethical cost.",
     "structuredExplanation": {
-      "summary": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Compare ecological outcomes, welfare evidence and less harmful effective methods",
+      "hint": "Evaluate effectiveness and ethical cost."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,25 @@ window.skillrTestQuestions = [
     "skill": "decision risk",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare risk with stakeholder. The evidence states, “Scientific knowledge informs responses but does not make value decisions alone”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare risk with stakeholder. The evidence states, “Scientific knowledge informs responses but does not make value decisions alone”. Which conclusion uses evidence appropriately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a coastal field station report, students compare risk with stakeholder. The evidence states, “Scientific knowledge informs responses but does not make value decisions alone”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a coastal field station report, students compare risk with stakeholder. The evidence states, “Scientific knowledge informs responses but does not make value decisions alone”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-009\"></use></svg>",
+    "question": "During the coastal field station report, students observe: A nuclear plant has low operational carbon emissions and long-lived waste. Which statement is balanced?",
+    "audioPrompt": "During the coastal field station report, students observe: A nuclear plant has low operational carbon emissions and long-lived waste. Which statement is balanced?",
+    "visual": "Evaluate Scientific Responses observation card stating: A nuclear plant has low operational carbon emissions and long-lived waste.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A nuclear plant has low operational carbon emissions and long-lived waste.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-009",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a coastal field station report, students compare risk with stakeholder. The evidence states, “Scientific knowledge informs responses but does not make value decisions alone”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A nuclear plant has low operational carbon emissions and long-lived waste."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The most detailed diagram is always best, even when it hides the relationship being tested",
-      "The model links risk with stakeholder, so it can explain the relationship while still having limits"
+      "Low carbon means no environmental risk",
+      "Waste proves there can be no climate benefit",
+      "Climate benefits must be weighed with cost, safety, waste and time scales"
     ],
     "correct": 2,
-    "explanation": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Climate benefits must be weighed with cost, safety, waste and time scales\nHint: Hold multiple evidenced impacts together.",
     "structuredExplanation": {
-      "summary": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Climate benefits must be weighed with cost, safety, waste and time scales",
+      "hint": "Hold multiple evidenced impacts together."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +268,25 @@ window.skillrTestQuestions = [
     "skill": "decision stakeholder",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “An earthquake early-warning system can give people seconds to act”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “An earthquake early-warning system can give people seconds to act”. What is the strongest scientific response to this result?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a renewable-energy trial, the evidence states, “An earthquake early-warning system can give people seconds to act”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a renewable-energy trial, the evidence states, “An earthquake early-warning system can give people seconds to act”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-010\"></use></svg>",
+    "question": "During the renewable-energy trial, students observe: A facial-recognition system speeds access but misidentifies some demographic groups more often. What should policy require?",
+    "audioPrompt": "During the renewable-energy trial, students observe: A facial-recognition system speeds access but misidentifies some demographic groups more often. What should policy require?",
+    "visual": "Evaluate Scientific Responses observation card stating: A facial-recognition system speeds access but misidentifies some demographic groups more often.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A facial-recognition system speeds access but misidentifies some demographic groups more often.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-010",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a renewable-energy trial, the evidence states, “An earthquake early-warning system can give people seconds to act”. What is the strongest scientific response to this result?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A facial-recognition system speeds access but misidentifies some demographic groups more often."
     },
     "answers": [
-      "Repeated evidence can support the conclusion that scientific knowledge informs responses but does not make value decisions alone",
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to stakeholder alone"
+      "Independent accuracy audits, appeal paths and limits on high-risk use",
+      "Use it because average accuracy is high",
+      "Ban appeals so decisions remain efficient"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Independent accuracy audits, appeal paths and limits on high-risk use\nHint: Evaluate unequal errors and accountability.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Independent accuracy audits, appeal paths and limits on high-risk use",
+      "hint": "Evaluate unequal errors and accountability."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,25 @@ window.skillrTestQuestions = [
     "skill": "decision ethical environmental social and economic trade off",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Evaluate Scientific Responses reports that recommendations should acknowledge evidence. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Evaluate Scientific Responses reports that recommendations should acknowledge evidence. Which revision would make the reasoning most reliable?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A hospital innovation briefing for Evaluate Scientific Responses reports that recommendations should acknowledge evidence. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A hospital innovation briefing for Evaluate Scientific Responses reports that recommendations should acknowledge evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-011\"></use></svg>",
+    "question": "During the hospital innovation briefing, students observe: A flood buyback moves households from risk zones. Which social effect needs planning?",
+    "audioPrompt": "During the hospital innovation briefing, students observe: A flood buyback moves households from risk zones. Which social effect needs planning?",
+    "visual": "Evaluate Scientific Responses observation card stating: A flood buyback moves households from risk zones.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A flood buyback moves households from risk zones.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-011",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A hospital innovation briefing for Evaluate Scientific Responses reports that recommendations should acknowledge evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A flood buyback moves households from risk zones."
     },
     "answers": [
-      "The scientifically possible option must be the best option; the same outcome must therefore occur in every setting",
-      "The evidence supports consequences can differ among stakeholders and over time, but it does not prove that every case will be identical",
-      "A confident opinion about scientific response is stronger than measured or documented evidence"
+      "Flood maps become unnecessary",
+      "Loss of community networks and unequal ability to find replacement housing",
+      "Moving a house removes all emotional impacts"
     ],
     "correct": 1,
-    "explanation": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Loss of community networks and unequal ability to find replacement housing\nHint: Relocation affects more than physical risk.",
     "structuredExplanation": {
-      "summary": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Loss of community networks and unequal ability to find replacement housing",
+      "hint": "Relocation affects more than physical risk."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +326,25 @@ window.skillrTestQuestions = [
     "skill": "decision scientific response",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “A justified response weighs evidence”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “A justified response weighs evidence”. Which interpretation is best supported?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a geological survey update, the evidence states, “A justified response weighs evidence”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a geological survey update, the evidence states, “A justified response weighs evidence”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-012\"></use></svg>",
+    "question": "During the geological survey update, students observe: An invasive-species gene drive could spread beyond a release area. Why does reversibility matter?",
+    "audioPrompt": "During the geological survey update, students observe: An invasive-species gene drive could spread beyond a release area. Why does reversibility matter?",
+    "visual": "Evaluate Scientific Responses observation card stating: An invasive-species gene drive could spread beyond a release area.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: An invasive-species gene drive could spread beyond a release area.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-012",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is scientific response. Question context: In a geological survey update, the evidence states, “A justified response weighs evidence”. Which interpretation is best supported?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: An invasive-species gene drive could spread beyond a release area."
     },
     "answers": [
-      "Listing pros and cons is analysis; one matching observation makes this explanation certain",
-      "Scientific response is the only relevant feature, so no mechanism or consequence needs explaining",
-      "Recommendations should acknowledge evidence, uncertainty and trade-offs; this interpretation can be checked against further evidence"
+      "Genes remain inside property boundaries",
+      "Any effective technology is automatically reversible",
+      "Wide, persistent effects may be difficult to recall if harms appear"
     ],
     "correct": 2,
-    "explanation": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Wide, persistent effects may be difficult to recall if harms appear\nHint: Consider control after release.",
     "structuredExplanation": {
-      "summary": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about scientific response, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Wide, persistent effects may be difficult to recall if harms appear",
+      "hint": "Consider control after release."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,25 @@ window.skillrTestQuestions = [
     "skill": "decision benefit",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Connect each consequence to evidence and a stakeholder”. Which response applies the decision model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Connect each consequence to evidence and a stakeholder”. Which response applies the decision model most accurately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a materials-testing laboratory, the evidence states, “Connect each consequence to evidence and a stakeholder”. Which response applies the decision model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a materials-testing laboratory, the evidence states, “Connect each consequence to evidence and a stakeholder”. Which response applies the decision model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-013\"></use></svg>",
+    "question": "During the materials-testing laboratory, students observe: A compost scheme cuts landfill methane but households receive confusing rules. What affects real-world success?",
+    "audioPrompt": "During the materials-testing laboratory, students observe: A compost scheme cuts landfill methane but households receive confusing rules. What affects real-world success?",
+    "visual": "Evaluate Scientific Responses observation card stating: A compost scheme cuts landfill methane but households receive confusing rules.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A compost scheme cuts landfill methane but households receive confusing rules.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-013",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is benefit. Question context: During a materials-testing laboratory, the evidence states, “Connect each consequence to evidence and a stakeholder”. Which response applies the decision model most accurately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A compost scheme cuts landfill methane but households receive confusing rules."
     },
     "answers": [
-      "The observation supports the idea that scientific knowledge informs responses but does not make value decisions alone, within the limits of the investigation",
-      "The scientifically possible option must be the best option; the wider pattern does not need to be considered",
-      "Risk caused the result because the two occurred together once"
+      "Clear access, participation behaviour and contamination rates",
+      "Only compost chemistry",
+      "Whether bins have matching colours"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Clear access, participation behaviour and contamination rates\nHint: Implementation links science to outcomes.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about benefit, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Clear access, participation behaviour and contamination rates",
+      "hint": "Implementation links science to outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +384,25 @@ window.skillrTestQuestions = [
     "skill": "decision risk",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare risk with stakeholder. The evidence states, “Consequences can differ among stakeholders and over time”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare risk with stakeholder. The evidence states, “Consequences can differ among stakeholders and over time”. Which conclusion uses evidence appropriately?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a documentary planning session, students compare risk with stakeholder. The evidence states, “Consequences can differ among stakeholders and over time”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a documentary planning session, students compare risk with stakeholder. The evidence states, “Consequences can differ among stakeholders and over time”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-014\"></use></svg>",
+    "question": "During the documentary planning session, students observe: A wearable health monitor gives early warnings but produces false alarms. Which evidence should users receive?",
+    "audioPrompt": "During the documentary planning session, students observe: A wearable health monitor gives early warnings but produces false alarms. Which evidence should users receive?",
+    "visual": "Evaluate Scientific Responses observation card stating: A wearable health monitor gives early warnings but produces false alarms.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A wearable health monitor gives early warnings but produces false alarms.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-014",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is risk. Question context: In a documentary planning session, students compare risk with stakeholder. The evidence states, “Consequences can differ among stakeholders and over time”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A wearable health monitor gives early warnings but produces false alarms."
     },
     "answers": [
-      "The model is a literal copy of reality, so assumptions and omitted features do not matter",
-      "The model links risk with stakeholder, so it can explain the relationship while still having limits",
-      "The most detailed diagram is always best, even when it hides the relationship being tested"
+      "Only examples where it worked",
+      "Sensitivity, false-alarm rate, limits and what action to take",
+      "A promise that sensors replace diagnosis"
     ],
     "correct": 1,
-    "explanation": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Sensitivity, false-alarm rate, limits and what action to take\nHint: Communicate both benefit and error.",
     "structuredExplanation": {
-      "summary": "Consequences can differ among stakeholders and over time. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about risk, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Sensitivity, false-alarm rate, limits and what action to take",
+      "hint": "Communicate both benefit and error."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,25 @@ window.skillrTestQuestions = [
     "skill": "decision stakeholder",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “It may reduce harm but requires reliable infrastructure”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “It may reduce harm but requires reliable infrastructure”. What is the strongest scientific response to this result?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a national data-set review, the evidence states, “It may reduce harm but requires reliable infrastructure”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a national data-set review, the evidence states, “It may reduce harm but requires reliable infrastructure”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-015\"></use></svg>",
+    "question": "During the national data-set review, students observe: Artificial reef blocks attract fish near a tourist coast. What must researchers distinguish?",
+    "audioPrompt": "During the national data-set review, students observe: Artificial reef blocks attract fish near a tourist coast. What must researchers distinguish?",
+    "visual": "Evaluate Scientific Responses observation card stating: Artificial reef blocks attract fish near a tourist coast.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: Artificial reef blocks attract fish near a tourist coast.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-015",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is stakeholder. Question context: During a national data-set review, the evidence states, “It may reduce harm but requires reliable infrastructure”. What is the strongest scientific response to this result?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: Artificial reef blocks attract fish near a tourist coast."
     },
     "answers": [
-      "Conflicting results should be removed because only results matching the prediction are useful",
-      "Several conditions can change together and the result can still be attributed to stakeholder alone",
-      "Repeated evidence can support the conclusion that recommendations should acknowledge evidence, uncertainty and trade-offs"
+      "More visible fish always means more fish overall",
+      "Tourism cannot affect reef decisions",
+      "Whether the blocks increase total populations or merely concentrate existing fish"
     ],
     "correct": 2,
-    "explanation": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Whether the blocks increase total populations or merely concentrate existing fish\nHint: Concentration and production differ.",
     "structuredExplanation": {
-      "summary": "Recommendations should acknowledge evidence, uncertainty and trade-offs. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about stakeholder, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Whether the blocks increase total populations or merely concentrate existing fish",
+      "hint": "Concentration and production differ."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +442,25 @@ window.skillrTestQuestions = [
     "skill": "decision ethical environmental social and economic trade off",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Evaluate Scientific Responses reports that separate technical feasibility from values. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Evaluate Scientific Responses reports that separate technical feasibility from values. Which revision would make the reasoning most reliable?",
-    "visual": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A final evidence conference for Evaluate Scientific Responses reports that separate technical feasibility from values. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A final evidence conference for Evaluate Scientific Responses reports that separate technical feasibility from values. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-016\"></use></svg>",
+    "question": "During the final evidence conference, students observe: A city bans gas appliances in new homes. Which evaluation is broad enough?",
+    "audioPrompt": "During the final evidence conference, students observe: A city bans gas appliances in new homes. Which evaluation is broad enough?",
+    "visual": "Evaluate Scientific Responses observation card stating: A city bans gas appliances in new homes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Evaluate Scientific Responses observation card stating: A city bans gas appliances in new homes.\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8h03.svg#ac9s8h03-t-016",
-      "alt_text": "Evaluate Scientific Responses evidence model linking scientific response, benefit, risk, stakeholder, ethical, environmental, social and economic trade-off. The highlighted stage is ethical, environmental, social and economic trade-off. Question context: A final evidence conference for Evaluate Scientific Responses reports that separate technical feasibility from values. Which revision would make the reasoning most reliable?"
+      "alt_text": "Evaluate Scientific Responses observation card stating: A city bans gas appliances in new homes."
     },
     "answers": [
-      "The evidence supports scientific knowledge informs responses but does not make value decisions alone, but it does not prove that every case will be identical",
-      "Listing pros and cons is analysis; the same outcome must therefore occur in every setting",
-      "A confident opinion about scientific response is stronger than measured or documented evidence"
+      "Emissions, health, grid readiness, household costs and support for affected workers",
+      "Only cooking speed",
+      "Whether gas has a scientific name"
     ],
     "correct": 0,
-    "explanation": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.\nHint: Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations.",
+    "explanation": "Emissions, health, grid readiness, household costs and support for affected workers\nHint: Assess transition as well as target benefit.",
     "structuredExplanation": {
-      "summary": "Scientific knowledge informs responses but does not make value decisions alone. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
-      "hint": "Identify what the evidence shows about ethical, environmental, social and economic trade-off, then reject choices that assume, exaggerate or ignore limitations."
+      "summary": "Emissions, health, grid readiness, household costs and support for affected workers",
+      "hint": "Assess transition as well as target benefit."
     },
     "qualitySchema": "production-v1"
   }
