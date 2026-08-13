@@ -3692,15 +3692,6 @@ pre { overflow-x: auto; }
 .sample h2 { margin:0 0 5px; color:#17335f; }
 .sample>p { margin:0; color:#627086; }
 
-/* Remembered high-contrast projector mode */
-.skillr-projector-mode body { background:#071525!important; color:#f8fbff!important; }
-.skillr-projector-mode .container,.skillr-projector-mode main,.skillr-projector-mode footer { color:#f8fbff; }
-.skillr-projector-mode :is(.home-hero,.learning-pathway,.curriculum-stage,.curriculum-year-row,.blog-card,.panel,.stat-card,.skill-summary,.overall-result,.progress-header,.features-summary-container,.feature-col,.sample,.contact-help-card,.contact-email-card,.quiz-card,.screen,.daily-card) { border-color:#54749f!important; background:#102744!important; color:#fff!important; box-shadow:none!important; }
-.skillr-projector-mode :is(h1,h2,h3,h4,strong,p,small,span,li,label) { color:inherit; }
-.skillr-projector-mode a { color:#9fc8ff; }
-.skillr-projector-mode :is(input,select,textarea,button) { border-color:#7f9fc8; }
-.skillr-projector-mode .skillr-utility-button { background:#17395f; color:#fff; }
-
 /* Compact common content spacing */
 .page-hero { margin-block:10px 18px; }
 .content-section { margin-block:18px; }

@@ -265,7 +265,6 @@
   }
 
   const TIMER_KEY = "skillrBreakTimerV1";
-  const PROJECTOR_KEY = "skillrProjectorModeV1";
   const INSTALL_DISMISS_KEY = "skillrPwaBannerDismissedAt";
   let timerCheckId = null;
 
@@ -428,19 +427,6 @@
     panel.querySelector(".skillr-modal-close").focus();
   }
 
-  function projectorEnabled() {
-    try { return localStorage.getItem(PROJECTOR_KEY) === "1"; } catch (_) { return false; }
-  }
-
-  function applyProjectorMode(enabled) {
-    document.documentElement.classList.toggle("skillr-projector-mode", enabled);
-    try { localStorage.setItem(PROJECTOR_KEY, enabled ? "1" : "0"); } catch (_) {}
-    document.querySelectorAll("[data-skillr-projector]").forEach((button) => {
-      button.innerHTML = enabled ? "☀️ <span>Standard</span>" : "🌙 <span>Projector</span>";
-      button.setAttribute("aria-pressed", String(enabled));
-    });
-  }
-
   function makeUtilityButton(kind, label, icon) {
     const button = document.createElement("button");
     button.type = "button";
@@ -449,25 +435,26 @@
     button.innerHTML = `${icon} <span>${label}</span>`;
     if (kind === "install") button.addEventListener("click", () => handleInstall(button));
     if (kind === "timer") button.addEventListener("click", () => showTimerPanel(button));
-    if (kind === "projector") button.addEventListener("click", () => applyProjectorMode(!projectorEnabled()));
     return button;
   }
 
   function setupUtilityControls() {
-    applyProjectorMode(projectorEnabled());
+    // Remove the retired Projector Mode state from devices that previously used it.
+    document.documentElement.classList.remove("skillr-projector-mode");
+    try { localStorage.removeItem("skillrProjectorModeV1"); } catch (_) {}
     const headerHost = document.querySelector(".site-header__links, .main-nav, .dashboard-nav");
     if (headerHost && !headerHost.querySelector(".skillr-header-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-header-tools";
       if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "📲"));
-      tools.append(makeUtilityButton("timer", "Timer", "⏰"), makeUtilityButton("projector", "Projector", "🌙"));
+      tools.append(makeUtilityButton("timer", "Timer", "⏰"));
       headerHost.appendChild(tools);
     }
     const footer = document.querySelector("footer");
     if (footer && !footer.querySelector(".skillr-footer-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-footer-tools";
-      tools.append(makeUtilityButton("install", "Install app", "📲"), makeUtilityButton("timer", "Break timer", "⏰"), makeUtilityButton("projector", "Projector mode", "🌙"));
+      tools.append(makeUtilityButton("install", "Install app", "📲"), makeUtilityButton("timer", "Break timer", "⏰"));
       footer.appendChild(tools);
     }
     updateTimerLabels();
