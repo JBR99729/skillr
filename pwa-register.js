@@ -508,9 +508,7 @@
   }
 
   function isQrCardPage() {
-    return /\/teacher-slides\//i.test(path) ||
-      /\/(?:foundation|year\d+)\/(?:maths|science|english)\/ac9/i.test(path) ||
-      /\/quiz\/.+\/(?:practice|test|worksheet)\/?$/i.test(path) ||
+    return /\/quiz\/.+\/(?:practice|test|worksheet)\/?$/i.test(path) ||
       /\/daily-drills\//i.test(path);
   }
 
@@ -563,8 +561,8 @@
     trigger.className = "skillr-qr-trigger";
     trigger.innerHTML = '<span aria-hidden="true">▦</span> QR card';
     trigger.addEventListener("click", () => showQrCard(trigger));
-    const host = document.querySelector(".toolbar, .quiz-breadcrumb, .curriculum-actions, .topic-action-row, .worksheet-nav, .quiz-header");
-    (host || document.querySelector("main"))?.prepend(trigger);
+    const host = document.querySelector(".quiz-breadcrumb, .worksheet-nav, .quiz-header");
+    host?.prepend(trigger);
   }
 
   function setupSlideKeyboard() {
