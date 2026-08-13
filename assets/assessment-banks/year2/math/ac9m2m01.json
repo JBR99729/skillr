@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M2M01-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_length",
+    "question": "At the art table, a pencil is 4 paperclips long. A brush is 7 paperclips long. Which is longer?",
+    "audio_prompt": "At the art table, a pencil is 4 paperclips long. A brush is 7 paperclips long. Which is longer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-001",
+      "alt_text": "At the art table: A pencil measuring 4 paperclips and a brush measuring 7 paperclips."
+    },
+    "answers": [
+      {
+        "text": "The brush",
+        "is_correct": true
+      },
+      {
+        "text": "The pencil",
+        "is_correct": false
+      },
+      {
+        "text": "They are the same length",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The brush measures 7 paperclips and the pencil measures 4. 7 is greater than 4.",
+      "hint": "Compare the number of equal paperclips."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "measure_with_uniform_units",
+    "question": "At the art table, which is the fair way to measure a book with blocks?",
+    "audio_prompt": "At the art table, which is the fair way to measure a book with blocks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-002",
+      "alt_text": "At the art table: Equal blocks placed end to end along a book with no gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Use big and small blocks together",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal blocks with no gaps",
+        "is_correct": true
+      },
+      {
+        "text": "Leave gaps between the blocks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal blocks placed end to end give a fair measure.",
+      "hint": "Check that every unit is the same size and touches the next one."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_capacity",
+    "question": "At the art table, a jug holds 7 cups. A bottle holds 4 cups. Which holds more?",
+    "audio_prompt": "At the art table, a jug holds 7 cups. A bottle holds 4 cups. Which holds more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-003",
+      "alt_text": "At the art table: A jug labelled 7 cups and a bottle labelled 4 cups."
+    },
+    "answers": [
+      {
+        "text": "The bottle",
+        "is_correct": false
+      },
+      {
+        "text": "They hold the same amount",
+        "is_correct": false
+      },
+      {
+        "text": "The jug",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The jug holds 7 cups, which is more than 4 cups.",
+      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_mass",
+    "question": "At the art table, a lunchbox balances with 7 cubes. An apple balances with 4 cubes. Which is heavier?",
+    "audio_prompt": "At the art table, a lunchbox balances with 7 cubes. An apple balances with 4 cubes. Which is heavier?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-004",
+      "alt_text": "At the art table: A lunchbox with a mass of 7 cubes and an apple with a mass of 4 cubes."
+    },
+    "answers": [
+      {
+        "text": "The lunchbox",
+        "is_correct": true
+      },
+      {
+        "text": "The apple",
+        "is_correct": false
+      },
+      {
+        "text": "They have the same mass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The lunchbox needs 7 equal cubes to balance, so it has more mass than the apple with 4.",
+      "hint": "The heavier object balances with more of the same cubes."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "choose_informal_unit",
+    "question": "At the art table, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "audio_prompt": "At the art table, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-005",
+      "alt_text": "At the art table: A tiny button beside small beads and large books."
+    },
+    "answers": [
+      {
+        "text": "Large books",
+        "is_correct": false
+      },
+      {
+        "text": "Small beads",
+        "is_correct": true
+      },
+      {
+        "text": "A mix of beads and books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Small equal beads fit the tiny length more closely.",
+      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "explain_unit_size",
+    "question": "At the art table, sam measures a ribbon as 7 cubes. Lee measures the same ribbon as 10 tiny counters. Why are the numbers different?",
+    "audio_prompt": "At the art table, sam measures a ribbon as 7 cubes. Lee measures the same ribbon as 10 tiny counters. Why are the numbers different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-006",
+      "alt_text": "At the art table: The same ribbon measured with 7 large cubes and 10 small counters."
+    },
+    "answers": [
+      {
+        "text": "The ribbon changed length",
+        "is_correct": false
+      },
+      {
+        "text": "Lee counted backwards",
+        "is_correct": false
+      },
+      {
+        "text": "The units are different sizes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Smaller units are needed more times, so the count can be larger.",
+      "hint": "The object stays the same. Compare the size of each measuring unit."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "select_mass_tool",
+    "question": "At the art table, which tool helps compare how heavy two classroom objects are?",
+    "audio_prompt": "At the art table, which tool helps compare how heavy two classroom objects are?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-007",
+      "alt_text": "At the art table: A balance scale with one object on each side."
+    },
+    "answers": [
+      {
+        "text": "A balance scale",
+        "is_correct": true
+      },
+      {
+        "text": "A calendar",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A balance scale compares mass by showing which side is heavier.",
+      "hint": "Think about a tool with two sides that can tip."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "identify_measurement_error",
+    "question": "At the art table, a row of 4 tiles has one gap between two tiles. Is 4 tiles a fair length measure?",
+    "audio_prompt": "At the art table, a row of 4 tiles has one gap between two tiles. Is 4 tiles a fair length measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-008",
+      "alt_text": "At the art table: A row of equal tiles with a visible gap between the middle tiles."
+    },
+    "answers": [
+      {
+        "text": "Yes, gaps do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "No, the gap makes it unfair",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, because all tiles are colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
+      "hint": "Units must touch end to end."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_length",
+    "question": "In the reading corner, a pencil is 5 paperclips long. A brush is 8 paperclips long. Which is longer?",
+    "audio_prompt": "In the reading corner, a pencil is 5 paperclips long. A brush is 8 paperclips long. Which is longer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-009",
+      "alt_text": "In the reading corner: A pencil measuring 5 paperclips and a brush measuring 8 paperclips."
+    },
+    "answers": [
+      {
+        "text": "The pencil",
+        "is_correct": false
+      },
+      {
+        "text": "They are the same length",
+        "is_correct": false
+      },
+      {
+        "text": "The brush",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The brush measures 8 paperclips and the pencil measures 5. 8 is greater than 5.",
+      "hint": "Compare the number of equal paperclips."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "measure_with_uniform_units",
+    "question": "In the reading corner, which is the fair way to measure a book with blocks?",
+    "audio_prompt": "In the reading corner, which is the fair way to measure a book with blocks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-010",
+      "alt_text": "In the reading corner: Equal blocks placed end to end along a book with no gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Use equal blocks with no gaps",
+        "is_correct": true
+      },
+      {
+        "text": "Use big and small blocks together",
+        "is_correct": false
+      },
+      {
+        "text": "Leave gaps between the blocks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equal blocks placed end to end give a fair measure.",
+      "hint": "Check that every unit is the same size and touches the next one."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_capacity",
+    "question": "In the reading corner, a jug holds 8 cups. A bottle holds 5 cups. Which holds more?",
+    "audio_prompt": "In the reading corner, a jug holds 8 cups. A bottle holds 5 cups. Which holds more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-011",
+      "alt_text": "In the reading corner: A jug labelled 8 cups and a bottle labelled 5 cups."
+    },
+    "answers": [
+      {
+        "text": "The bottle",
+        "is_correct": false
+      },
+      {
+        "text": "The jug",
+        "is_correct": true
+      },
+      {
+        "text": "They hold the same amount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The jug holds 8 cups, which is more than 5 cups.",
+      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_mass",
+    "question": "In the reading corner, a lunchbox balances with 8 cubes. An apple balances with 5 cubes. Which is heavier?",
+    "audio_prompt": "In the reading corner, a lunchbox balances with 8 cubes. An apple balances with 5 cubes. Which is heavier?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-012",
+      "alt_text": "In the reading corner: A lunchbox with a mass of 8 cubes and an apple with a mass of 5 cubes."
+    },
+    "answers": [
+      {
+        "text": "The apple",
+        "is_correct": false
+      },
+      {
+        "text": "They have the same mass",
+        "is_correct": false
+      },
+      {
+        "text": "The lunchbox",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The lunchbox needs 8 equal cubes to balance, so it has more mass than the apple with 5.",
+      "hint": "The heavier object balances with more of the same cubes."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "choose_informal_unit",
+    "question": "In the reading corner, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "audio_prompt": "In the reading corner, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-013",
+      "alt_text": "In the reading corner: A tiny button beside small beads and large books."
+    },
+    "answers": [
+      {
+        "text": "Small beads",
+        "is_correct": true
+      },
+      {
+        "text": "Large books",
+        "is_correct": false
+      },
+      {
+        "text": "A mix of beads and books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Small equal beads fit the tiny length more closely.",
+      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "explain_unit_size",
+    "question": "In the reading corner, sam measures a ribbon as 8 cubes. Lee measures the same ribbon as 11 tiny counters. Why are the numbers different?",
+    "audio_prompt": "In the reading corner, sam measures a ribbon as 8 cubes. Lee measures the same ribbon as 11 tiny counters. Why are the numbers different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-014",
+      "alt_text": "In the reading corner: The same ribbon measured with 8 large cubes and 11 small counters."
+    },
+    "answers": [
+      {
+        "text": "The ribbon changed length",
+        "is_correct": false
+      },
+      {
+        "text": "The units are different sizes",
+        "is_correct": true
+      },
+      {
+        "text": "Lee counted backwards",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Smaller units are needed more times, so the count can be larger.",
+      "hint": "The object stays the same. Compare the size of each measuring unit."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "select_mass_tool",
+    "question": "In the reading corner, which tool helps compare how heavy two classroom objects are?",
+    "audio_prompt": "In the reading corner, which tool helps compare how heavy two classroom objects are?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-015",
+      "alt_text": "In the reading corner: A balance scale with one object on each side."
+    },
+    "answers": [
+      {
+        "text": "A calendar",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      },
+      {
+        "text": "A balance scale",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A balance scale compares mass by showing which side is heavier.",
+      "hint": "Think about a tool with two sides that can tip."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "identify_measurement_error",
+    "question": "In the reading corner, a row of 5 tiles has one gap between two tiles. Is 5 tiles a fair length measure?",
+    "audio_prompt": "In the reading corner, a row of 5 tiles has one gap between two tiles. Is 5 tiles a fair length measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-016",
+      "alt_text": "In the reading corner: A row of equal tiles with a visible gap between the middle tiles."
+    },
+    "answers": [
+      {
+        "text": "No, the gap makes it unfair",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, gaps do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because all tiles are colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
+      "hint": "Units must touch end to end."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_length",
+    "question": "At the water station, a pencil is 6 paperclips long. A brush is 9 paperclips long. Which is longer?",
+    "audio_prompt": "At the water station, a pencil is 6 paperclips long. A brush is 9 paperclips long. Which is longer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-017",
+      "alt_text": "At the water station: A pencil measuring 6 paperclips and a brush measuring 9 paperclips."
+    },
+    "answers": [
+      {
+        "text": "The pencil",
+        "is_correct": false
+      },
+      {
+        "text": "The brush",
+        "is_correct": true
+      },
+      {
+        "text": "They are the same length",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The brush measures 9 paperclips and the pencil measures 6. 9 is greater than 6.",
+      "hint": "Compare the number of equal paperclips."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "measure_with_uniform_units",
+    "question": "At the water station, which is the fair way to measure a book with blocks?",
+    "audio_prompt": "At the water station, which is the fair way to measure a book with blocks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-018",
+      "alt_text": "At the water station: Equal blocks placed end to end along a book with no gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Use big and small blocks together",
+        "is_correct": false
+      },
+      {
+        "text": "Leave gaps between the blocks",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal blocks with no gaps",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal blocks placed end to end give a fair measure.",
+      "hint": "Check that every unit is the same size and touches the next one."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_capacity",
+    "question": "At the water station, a jug holds 9 cups. A bottle holds 6 cups. Which holds more?",
+    "audio_prompt": "At the water station, a jug holds 9 cups. A bottle holds 6 cups. Which holds more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-019",
+      "alt_text": "At the water station: A jug labelled 9 cups and a bottle labelled 6 cups."
+    },
+    "answers": [
+      {
+        "text": "The jug",
+        "is_correct": true
+      },
+      {
+        "text": "The bottle",
+        "is_correct": false
+      },
+      {
+        "text": "They hold the same amount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The jug holds 9 cups, which is more than 6 cups.",
+      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "compare_mass",
+    "question": "At the water station, a lunchbox balances with 9 cubes. An apple balances with 6 cubes. Which is heavier?",
+    "audio_prompt": "At the water station, a lunchbox balances with 9 cubes. An apple balances with 6 cubes. Which is heavier?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-020",
+      "alt_text": "At the water station: A lunchbox with a mass of 9 cubes and an apple with a mass of 6 cubes."
+    },
+    "answers": [
+      {
+        "text": "The apple",
+        "is_correct": false
+      },
+      {
+        "text": "The lunchbox",
+        "is_correct": true
+      },
+      {
+        "text": "They have the same mass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The lunchbox needs 9 equal cubes to balance, so it has more mass than the apple with 6.",
+      "hint": "The heavier object balances with more of the same cubes."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "choose_informal_unit",
+    "question": "At the water station, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "audio_prompt": "At the water station, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-021",
+      "alt_text": "At the water station: A tiny button beside small beads and large books."
+    },
+    "answers": [
+      {
+        "text": "Large books",
+        "is_correct": false
+      },
+      {
+        "text": "A mix of beads and books",
+        "is_correct": false
+      },
+      {
+        "text": "Small beads",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Small equal beads fit the tiny length more closely.",
+      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "explain_unit_size",
+    "question": "At the water station, sam measures a ribbon as 9 cubes. Lee measures the same ribbon as 12 tiny counters. Why are the numbers different?",
+    "audio_prompt": "At the water station, sam measures a ribbon as 9 cubes. Lee measures the same ribbon as 12 tiny counters. Why are the numbers different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-022",
+      "alt_text": "At the water station: The same ribbon measured with 9 large cubes and 12 small counters."
+    },
+    "answers": [
+      {
+        "text": "The units are different sizes",
+        "is_correct": true
+      },
+      {
+        "text": "The ribbon changed length",
+        "is_correct": false
+      },
+      {
+        "text": "Lee counted backwards",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Smaller units are needed more times, so the count can be larger.",
+      "hint": "The object stays the same. Compare the size of each measuring unit."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "select_mass_tool",
+    "question": "At the water station, which tool helps compare how heavy two classroom objects are?",
+    "audio_prompt": "At the water station, which tool helps compare how heavy two classroom objects are?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-023",
+      "alt_text": "At the water station: A balance scale with one object on each side."
+    },
+    "answers": [
+      {
+        "text": "A calendar",
+        "is_correct": false
+      },
+      {
+        "text": "A balance scale",
+        "is_correct": true
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A balance scale compares mass by showing which side is heavier.",
+      "hint": "Think about a tool with two sides that can tip."
+    }
+  },
+  {
+    "id": "AC9M2M01-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "practice",
+    "skill": "identify_measurement_error",
+    "question": "At the water station, a row of 6 tiles has one gap between two tiles. Is 6 tiles a fair length measure?",
+    "audio_prompt": "At the water station, a row of 6 tiles has one gap between two tiles. Is 6 tiles a fair length measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-p-024",
+      "alt_text": "At the water station: A row of equal tiles with a visible gap between the middle tiles."
+    },
+    "answers": [
+      {
+        "text": "Yes, gaps do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because all tiles are colourful",
+        "is_correct": false
+      },
+      {
+        "text": "No, the gap makes it unfair",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
+      "hint": "Units must touch end to end."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_length",
+    "question": "In the lunch area, a pencil is 7 paperclips long. A brush is 10 paperclips long. Which is longer?",
+    "audio_prompt": "In the lunch area, a pencil is 7 paperclips long. A brush is 10 paperclips long. Which is longer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-001",
+      "alt_text": "In the lunch area: A pencil measuring 7 paperclips and a brush measuring 10 paperclips."
+    },
+    "answers": [
+      {
+        "text": "The brush",
+        "is_correct": true
+      },
+      {
+        "text": "The pencil",
+        "is_correct": false
+      },
+      {
+        "text": "They are the same length",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The brush measures 10 paperclips and the pencil measures 7. 10 is greater than 7.",
+      "hint": "Compare the number of equal paperclips."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "measure_with_uniform_units",
+    "question": "In the lunch area, which is the fair way to measure a book with blocks?",
+    "audio_prompt": "In the lunch area, which is the fair way to measure a book with blocks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-002",
+      "alt_text": "In the lunch area: Equal blocks placed end to end along a book with no gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Use big and small blocks together",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal blocks with no gaps",
+        "is_correct": true
+      },
+      {
+        "text": "Leave gaps between the blocks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal blocks placed end to end give a fair measure.",
+      "hint": "Check that every unit is the same size and touches the next one."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_capacity",
+    "question": "In the lunch area, a jug holds 10 cups. A bottle holds 7 cups. Which holds more?",
+    "audio_prompt": "In the lunch area, a jug holds 10 cups. A bottle holds 7 cups. Which holds more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-003",
+      "alt_text": "In the lunch area: A jug labelled 10 cups and a bottle labelled 7 cups."
+    },
+    "answers": [
+      {
+        "text": "The bottle",
+        "is_correct": false
+      },
+      {
+        "text": "They hold the same amount",
+        "is_correct": false
+      },
+      {
+        "text": "The jug",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The jug holds 10 cups, which is more than 7 cups.",
+      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_mass",
+    "question": "In the lunch area, a lunchbox balances with 10 cubes. An apple balances with 7 cubes. Which is heavier?",
+    "audio_prompt": "In the lunch area, a lunchbox balances with 10 cubes. An apple balances with 7 cubes. Which is heavier?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-004",
+      "alt_text": "In the lunch area: A lunchbox with a mass of 10 cubes and an apple with a mass of 7 cubes."
+    },
+    "answers": [
+      {
+        "text": "The lunchbox",
+        "is_correct": true
+      },
+      {
+        "text": "The apple",
+        "is_correct": false
+      },
+      {
+        "text": "They have the same mass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The lunchbox needs 10 equal cubes to balance, so it has more mass than the apple with 7.",
+      "hint": "The heavier object balances with more of the same cubes."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "choose_informal_unit",
+    "question": "In the lunch area, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "audio_prompt": "In the lunch area, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-005",
+      "alt_text": "In the lunch area: A tiny button beside small beads and large books."
+    },
+    "answers": [
+      {
+        "text": "Large books",
+        "is_correct": false
+      },
+      {
+        "text": "Small beads",
+        "is_correct": true
+      },
+      {
+        "text": "A mix of beads and books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Small equal beads fit the tiny length more closely.",
+      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "explain_unit_size",
+    "question": "In the lunch area, sam measures a ribbon as 10 cubes. Lee measures the same ribbon as 13 tiny counters. Why are the numbers different?",
+    "audio_prompt": "In the lunch area, sam measures a ribbon as 10 cubes. Lee measures the same ribbon as 13 tiny counters. Why are the numbers different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-006",
+      "alt_text": "In the lunch area: The same ribbon measured with 10 large cubes and 13 small counters."
+    },
+    "answers": [
+      {
+        "text": "The ribbon changed length",
+        "is_correct": false
+      },
+      {
+        "text": "Lee counted backwards",
+        "is_correct": false
+      },
+      {
+        "text": "The units are different sizes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Smaller units are needed more times, so the count can be larger.",
+      "hint": "The object stays the same. Compare the size of each measuring unit."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "select_mass_tool",
+    "question": "In the lunch area, which tool helps compare how heavy two classroom objects are?",
+    "audio_prompt": "In the lunch area, which tool helps compare how heavy two classroom objects are?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-007",
+      "alt_text": "In the lunch area: A balance scale with one object on each side."
+    },
+    "answers": [
+      {
+        "text": "A balance scale",
+        "is_correct": true
+      },
+      {
+        "text": "A calendar",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A balance scale compares mass by showing which side is heavier.",
+      "hint": "Think about a tool with two sides that can tip."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "identify_measurement_error",
+    "question": "In the lunch area, a row of 7 tiles has one gap between two tiles. Is 7 tiles a fair length measure?",
+    "audio_prompt": "In the lunch area, a row of 7 tiles has one gap between two tiles. Is 7 tiles a fair length measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-008",
+      "alt_text": "In the lunch area: A row of equal tiles with a visible gap between the middle tiles."
+    },
+    "answers": [
+      {
+        "text": "Yes, gaps do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "No, the gap makes it unfair",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, because all tiles are colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
+      "hint": "Units must touch end to end."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_length",
+    "question": "At the science table, a pencil is 8 paperclips long. A brush is 11 paperclips long. Which is longer?",
+    "audio_prompt": "At the science table, a pencil is 8 paperclips long. A brush is 11 paperclips long. Which is longer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-009",
+      "alt_text": "At the science table: A pencil measuring 8 paperclips and a brush measuring 11 paperclips."
+    },
+    "answers": [
+      {
+        "text": "The pencil",
+        "is_correct": false
+      },
+      {
+        "text": "They are the same length",
+        "is_correct": false
+      },
+      {
+        "text": "The brush",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The brush measures 11 paperclips and the pencil measures 8. 11 is greater than 8.",
+      "hint": "Compare the number of equal paperclips."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "measure_with_uniform_units",
+    "question": "At the science table, which is the fair way to measure a book with blocks?",
+    "audio_prompt": "At the science table, which is the fair way to measure a book with blocks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-010",
+      "alt_text": "At the science table: Equal blocks placed end to end along a book with no gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Use equal blocks with no gaps",
+        "is_correct": true
+      },
+      {
+        "text": "Use big and small blocks together",
+        "is_correct": false
+      },
+      {
+        "text": "Leave gaps between the blocks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equal blocks placed end to end give a fair measure.",
+      "hint": "Check that every unit is the same size and touches the next one."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_capacity",
+    "question": "At the science table, a jug holds 11 cups. A bottle holds 8 cups. Which holds more?",
+    "audio_prompt": "At the science table, a jug holds 11 cups. A bottle holds 8 cups. Which holds more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-011",
+      "alt_text": "At the science table: A jug labelled 11 cups and a bottle labelled 8 cups."
+    },
+    "answers": [
+      {
+        "text": "The bottle",
+        "is_correct": false
+      },
+      {
+        "text": "The jug",
+        "is_correct": true
+      },
+      {
+        "text": "They hold the same amount",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The jug holds 11 cups, which is more than 8 cups.",
+      "hint": "Capacity tells how much a container can hold. Compare the cup counts."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "compare_mass",
+    "question": "At the science table, a lunchbox balances with 11 cubes. An apple balances with 8 cubes. Which is heavier?",
+    "audio_prompt": "At the science table, a lunchbox balances with 11 cubes. An apple balances with 8 cubes. Which is heavier?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-012",
+      "alt_text": "At the science table: A lunchbox with a mass of 11 cubes and an apple with a mass of 8 cubes."
+    },
+    "answers": [
+      {
+        "text": "The apple",
+        "is_correct": false
+      },
+      {
+        "text": "They have the same mass",
+        "is_correct": false
+      },
+      {
+        "text": "The lunchbox",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The lunchbox needs 11 equal cubes to balance, so it has more mass than the apple with 8.",
+      "hint": "The heavier object balances with more of the same cubes."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "choose_informal_unit",
+    "question": "At the science table, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "audio_prompt": "At the science table, you need to measure a tiny button. Which unit will give the most accurate answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-013",
+      "alt_text": "At the science table: A tiny button beside small beads and large books."
+    },
+    "answers": [
+      {
+        "text": "Small beads",
+        "is_correct": true
+      },
+      {
+        "text": "Large books",
+        "is_correct": false
+      },
+      {
+        "text": "A mix of beads and books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Small equal beads fit the tiny length more closely.",
+      "hint": "Choose a unit that is smaller than the object and can repeat without gaps."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "explain_unit_size",
+    "question": "At the science table, sam measures a ribbon as 11 cubes. Lee measures the same ribbon as 14 tiny counters. Why are the numbers different?",
+    "audio_prompt": "At the science table, sam measures a ribbon as 11 cubes. Lee measures the same ribbon as 14 tiny counters. Why are the numbers different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-014",
+      "alt_text": "At the science table: The same ribbon measured with 11 large cubes and 14 small counters."
+    },
+    "answers": [
+      {
+        "text": "The ribbon changed length",
+        "is_correct": false
+      },
+      {
+        "text": "The units are different sizes",
+        "is_correct": true
+      },
+      {
+        "text": "Lee counted backwards",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Smaller units are needed more times, so the count can be larger.",
+      "hint": "The object stays the same. Compare the size of each measuring unit."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "select_mass_tool",
+    "question": "At the science table, which tool helps compare how heavy two classroom objects are?",
+    "audio_prompt": "At the science table, which tool helps compare how heavy two classroom objects are?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-015",
+      "alt_text": "At the science table: A balance scale with one object on each side."
+    },
+    "answers": [
+      {
+        "text": "A calendar",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      },
+      {
+        "text": "A balance scale",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A balance scale compares mass by showing which side is heavier.",
+      "hint": "Think about a tool with two sides that can tip."
+    }
+  },
+  {
+    "id": "AC9M2M01-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M01",
+    "bank": "test",
+    "skill": "identify_measurement_error",
+    "question": "At the science table, a row of 8 tiles has one gap between two tiles. Is 8 tiles a fair length measure?",
+    "audio_prompt": "At the science table, a row of 8 tiles has one gap between two tiles. Is 8 tiles a fair length measure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m01.svg#ac9m2m01-t-016",
+      "alt_text": "At the science table: A row of equal tiles with a visible gap between the middle tiles."
+    },
+    "answers": [
+      {
+        "text": "No, the gap makes it unfair",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, gaps do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because all tiles are colourful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A gap leaves part of the length unmeasured, so the result is not fair.",
+      "hint": "Units must touch end to end."
+    }
+  }
+]

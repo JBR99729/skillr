@@ -26,7 +26,7 @@ for (const [index, item] of items.entries()) {
   ].join("|");
   if (prompts.has(promptKey)) errors.push(`${where}: duplicate prompt with ${prompts.get(promptKey)}`);
   prompts.set(promptKey, where);
-  if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${where}: Year 1 item must have exactly 3 answers`);
+  if (!Array.isArray(item.answers) || item.answers.length !== 3) errors.push(`${where}: early-years item must have exactly 3 answers`);
   if (new Set((item.answers || []).map((answer) => String(answer.text).trim().toLowerCase())).size !== (item.answers || []).length) errors.push(`${where}: duplicate answer choices`);
   const correct = (item.answers || []).filter((answer) => answer.is_correct);
   if (correct.length !== 1) errors.push(`${where}: expected exactly one correct answer`);

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M2M03-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_later",
+    "question": "On the class calendar, the class visit is on the 2nd. What date is one week later?",
+    "audio_prompt": "On the class calendar, the class visit is on the 2nd. What date is one week later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-001",
+      "alt_text": "On the class calendar: Calendar with the 2nd and 9th highlighted one week apart."
+    },
+    "answers": [
+      {
+        "text": "8th",
+        "is_correct": false
+      },
+      {
+        "text": "10th",
+        "is_correct": false
+      },
+      {
+        "text": "9th",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One week is 7 days, so 2 + 7 = 9.",
+      "hint": "Move down one full week on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "count_days_between_dates",
+    "question": "On the class calendar, how many days are between the 2nd and the 5th?",
+    "audio_prompt": "On the class calendar, how many days are between the 2nd and the 5th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-002",
+      "alt_text": "On the class calendar: Calendar with the 2nd and 5th highlighted."
+    },
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Count the jumps after the 2nd: there are 3 days to the 5th.",
+      "hint": "Do not count the starting date as a jump."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "move_forward_on_week",
+    "question": "On the class calendar, today is Monday. What day is 3 days later?",
+    "audio_prompt": "On the class calendar, today is Monday. What day is 3 days later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-003",
+      "alt_text": "On the class calendar: A row of weekday cards starting on Monday with 3 forward jumps."
+    },
+    "answers": [
+      {
+        "text": "Tuesday",
+        "is_correct": false
+      },
+      {
+        "text": "Thursday",
+        "is_correct": true
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Move forward 3 days from Monday.",
+      "hint": "Use one jump for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "distinguish_date_and_day",
+    "question": "On the class calendar, which is a date?",
+    "audio_prompt": "On the class calendar, which is a date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-004",
+      "alt_text": "On the class calendar: May calendar with the 5th highlighted."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch",
+        "is_correct": false
+      },
+      {
+        "text": "5th of May",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A date gives a number and a month: 5th of May.",
+      "hint": "A day name is not a full date."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "solve_calendar_event_problem",
+    "question": "On the class calendar, the library day is the 2nd. Sports day is 3 days later. What is the sports date?",
+    "audio_prompt": "On the class calendar, the library day is the 2nd. Sports day is 3 days later. What is the sports date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-005",
+      "alt_text": "On the class calendar: Calendar with library day on the 2nd and sports day on the 5th."
+    },
+    "answers": [
+      {
+        "text": "5th",
+        "is_correct": true
+      },
+      {
+        "text": "6th",
+        "is_correct": false
+      },
+      {
+        "text": "4th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Starting after the 2nd, count 3 jumps to reach the 5th.",
+      "hint": "Put your finger on the start, then move once for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "choose_calendar_counting_method",
+    "question": "On the class calendar, which method correctly counts days from the 2nd to the 5th?",
+    "audio_prompt": "On the class calendar, which method correctly counts days from the 2nd to the 5th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-006",
+      "alt_text": "On the class calendar: Calendar showing 3 jumps between two highlighted dates."
+    },
+    "answers": [
+      {
+        "text": "Count the 2nd as jump 1",
+        "is_correct": false
+      },
+      {
+        "text": "Start after the 2nd and count 3 jumps",
+        "is_correct": true
+      },
+      {
+        "text": "Count backwards from the 2nd",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Days between dates are counted as jumps after the starting date.",
+      "hint": "Trace the spaces from one date to the next."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_before",
+    "question": "On the class calendar, a camp starts on the 9th. What date was one week before?",
+    "audio_prompt": "On the class calendar, a camp starts on the 9th. What date was one week before?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-007",
+      "alt_text": "On the class calendar: Calendar with two dates one week apart, ending on the 9th."
+    },
+    "answers": [
+      {
+        "text": "3rd",
+        "is_correct": false
+      },
+      {
+        "text": "8th",
+        "is_correct": false
+      },
+      {
+        "text": "2nd",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One week before means move back 7 days, to the 2nd.",
+      "hint": "Move up one row on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "identify_next_calendar_day",
+    "question": "On the class calendar, the 5th is a Friday. What day is the 6th?",
+    "audio_prompt": "On the class calendar, the 5th is a Friday. What day is the 6th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-008",
+      "alt_text": "On the class calendar: Two neighbouring calendar dates, the 5th and 6th."
+    },
+    "answers": [
+      {
+        "text": "Saturday",
+        "is_correct": true
+      },
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The day after Friday is Saturday.",
+      "hint": "Move one day forward in the weekday order."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_later",
+    "question": "For library week, the class visit is on the 4th. What date is one week later?",
+    "audio_prompt": "For library week, the class visit is on the 4th. What date is one week later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-009",
+      "alt_text": "For library week: Calendar with the 4th and 11th highlighted one week apart."
+    },
+    "answers": [
+      {
+        "text": "10th",
+        "is_correct": false
+      },
+      {
+        "text": "11th",
+        "is_correct": true
+      },
+      {
+        "text": "12th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One week is 7 days, so 4 + 7 = 11.",
+      "hint": "Move down one full week on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "count_days_between_dates",
+    "question": "For library week, how many days are between the 4th and the 8th?",
+    "audio_prompt": "For library week, how many days are between the 4th and the 8th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-010",
+      "alt_text": "For library week: Calendar with the 4th and 8th highlighted."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Count the jumps after the 4th: there are 4 days to the 8th.",
+      "hint": "Do not count the starting date as a jump."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "move_forward_on_week",
+    "question": "For library week, today is Monday. What day is 4 days later?",
+    "audio_prompt": "For library week, today is Monday. What day is 4 days later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-011",
+      "alt_text": "For library week: A row of weekday cards starting on Monday with 4 forward jumps."
+    },
+    "answers": [
+      {
+        "text": "Friday",
+        "is_correct": true
+      },
+      {
+        "text": "Wednesday",
+        "is_correct": false
+      },
+      {
+        "text": "Saturday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Move forward 4 days from Monday.",
+      "hint": "Use one jump for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "distinguish_date_and_day",
+    "question": "For library week, which is a date?",
+    "audio_prompt": "For library week, which is a date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-012",
+      "alt_text": "For library week: May calendar with the 8th highlighted."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "8th of May",
+        "is_correct": true
+      },
+      {
+        "text": "After lunch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A date gives a number and a month: 8th of May.",
+      "hint": "A day name is not a full date."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "solve_calendar_event_problem",
+    "question": "For library week, the library day is the 4th. Sports day is 4 days later. What is the sports date?",
+    "audio_prompt": "For library week, the library day is the 4th. Sports day is 4 days later. What is the sports date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-013",
+      "alt_text": "For library week: Calendar with library day on the 4th and sports day on the 8th."
+    },
+    "answers": [
+      {
+        "text": "9th",
+        "is_correct": false
+      },
+      {
+        "text": "7th",
+        "is_correct": false
+      },
+      {
+        "text": "8th",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Starting after the 4th, count 4 jumps to reach the 8th.",
+      "hint": "Put your finger on the start, then move once for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "choose_calendar_counting_method",
+    "question": "For library week, which method correctly counts days from the 4th to the 8th?",
+    "audio_prompt": "For library week, which method correctly counts days from the 4th to the 8th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-014",
+      "alt_text": "For library week: Calendar showing 4 jumps between two highlighted dates."
+    },
+    "answers": [
+      {
+        "text": "Start after the 4th and count 4 jumps",
+        "is_correct": true
+      },
+      {
+        "text": "Count the 4th as jump 1",
+        "is_correct": false
+      },
+      {
+        "text": "Count backwards from the 4th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Days between dates are counted as jumps after the starting date.",
+      "hint": "Trace the spaces from one date to the next."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_before",
+    "question": "For library week, a camp starts on the 11th. What date was one week before?",
+    "audio_prompt": "For library week, a camp starts on the 11th. What date was one week before?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-015",
+      "alt_text": "For library week: Calendar with two dates one week apart, ending on the 11th."
+    },
+    "answers": [
+      {
+        "text": "5th",
+        "is_correct": false
+      },
+      {
+        "text": "4th",
+        "is_correct": true
+      },
+      {
+        "text": "10th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One week before means move back 7 days, to the 4th.",
+      "hint": "Move up one row on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "identify_next_calendar_day",
+    "question": "For library week, the 8th is a Friday. What day is the 9th?",
+    "audio_prompt": "For library week, the 8th is a Friday. What day is the 9th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-016",
+      "alt_text": "For library week: Two neighbouring calendar dates, the 8th and 9th."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      },
+      {
+        "text": "Saturday",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The day after Friday is Saturday.",
+      "hint": "Move one day forward in the weekday order."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_later",
+    "question": "Before the school visit, the class visit is on the 6th. What date is one week later?",
+    "audio_prompt": "Before the school visit, the class visit is on the 6th. What date is one week later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-017",
+      "alt_text": "Before the school visit: Calendar with the 6th and 13th highlighted one week apart."
+    },
+    "answers": [
+      {
+        "text": "13th",
+        "is_correct": true
+      },
+      {
+        "text": "12th",
+        "is_correct": false
+      },
+      {
+        "text": "14th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One week is 7 days, so 6 + 7 = 13.",
+      "hint": "Move down one full week on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "count_days_between_dates",
+    "question": "Before the school visit, how many days are between the 6th and the 11th?",
+    "audio_prompt": "Before the school visit, how many days are between the 6th and the 11th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-018",
+      "alt_text": "Before the school visit: Calendar with the 6th and 11th highlighted."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Count the jumps after the 6th: there are 5 days to the 11th.",
+      "hint": "Do not count the starting date as a jump."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "move_forward_on_week",
+    "question": "Before the school visit, today is Monday. What day is 5 days later?",
+    "audio_prompt": "Before the school visit, today is Monday. What day is 5 days later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-019",
+      "alt_text": "Before the school visit: A row of weekday cards starting on Monday with 5 forward jumps."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Sunday",
+        "is_correct": false
+      },
+      {
+        "text": "Saturday",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Move forward 5 days from Monday.",
+      "hint": "Use one jump for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "distinguish_date_and_day",
+    "question": "Before the school visit, which is a date?",
+    "audio_prompt": "Before the school visit, which is a date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-020",
+      "alt_text": "Before the school visit: May calendar with the 11th highlighted."
+    },
+    "answers": [
+      {
+        "text": "11th of May",
+        "is_correct": true
+      },
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A date gives a number and a month: 11th of May.",
+      "hint": "A day name is not a full date."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "solve_calendar_event_problem",
+    "question": "Before the school visit, the library day is the 6th. Sports day is 5 days later. What is the sports date?",
+    "audio_prompt": "Before the school visit, the library day is the 6th. Sports day is 5 days later. What is the sports date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-021",
+      "alt_text": "Before the school visit: Calendar with library day on the 6th and sports day on the 11th."
+    },
+    "answers": [
+      {
+        "text": "12th",
+        "is_correct": false
+      },
+      {
+        "text": "11th",
+        "is_correct": true
+      },
+      {
+        "text": "10th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Starting after the 6th, count 5 jumps to reach the 11th.",
+      "hint": "Put your finger on the start, then move once for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "choose_calendar_counting_method",
+    "question": "Before the school visit, which method correctly counts days from the 6th to the 11th?",
+    "audio_prompt": "Before the school visit, which method correctly counts days from the 6th to the 11th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-022",
+      "alt_text": "Before the school visit: Calendar showing 5 jumps between two highlighted dates."
+    },
+    "answers": [
+      {
+        "text": "Count the 6th as jump 1",
+        "is_correct": false
+      },
+      {
+        "text": "Count backwards from the 6th",
+        "is_correct": false
+      },
+      {
+        "text": "Start after the 6th and count 5 jumps",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Days between dates are counted as jumps after the starting date.",
+      "hint": "Trace the spaces from one date to the next."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "find_date_one_week_before",
+    "question": "Before the school visit, a camp starts on the 13th. What date was one week before?",
+    "audio_prompt": "Before the school visit, a camp starts on the 13th. What date was one week before?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-023",
+      "alt_text": "Before the school visit: Calendar with two dates one week apart, ending on the 13th."
+    },
+    "answers": [
+      {
+        "text": "6th",
+        "is_correct": true
+      },
+      {
+        "text": "7th",
+        "is_correct": false
+      },
+      {
+        "text": "12th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One week before means move back 7 days, to the 6th.",
+      "hint": "Move up one row on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "practice",
+    "skill": "identify_next_calendar_day",
+    "question": "Before the school visit, the 11th is a Friday. What day is the 12th?",
+    "audio_prompt": "Before the school visit, the 11th is a Friday. What day is the 12th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-p-024",
+      "alt_text": "Before the school visit: Two neighbouring calendar dates, the 11th and 12th."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Saturday",
+        "is_correct": true
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The day after Friday is Saturday.",
+      "hint": "Move one day forward in the weekday order."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "find_date_one_week_later",
+    "question": "For sports week, the class visit is on the 8th. What date is one week later?",
+    "audio_prompt": "For sports week, the class visit is on the 8th. What date is one week later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-001",
+      "alt_text": "For sports week: Calendar with the 8th and 15th highlighted one week apart."
+    },
+    "answers": [
+      {
+        "text": "14th",
+        "is_correct": false
+      },
+      {
+        "text": "16th",
+        "is_correct": false
+      },
+      {
+        "text": "15th",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One week is 7 days, so 8 + 7 = 15.",
+      "hint": "Move down one full week on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "count_days_between_dates",
+    "question": "For sports week, how many days are between the 8th and the 14th?",
+    "audio_prompt": "For sports week, how many days are between the 8th and the 14th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-002",
+      "alt_text": "For sports week: Calendar with the 8th and 14th highlighted."
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Count the jumps after the 8th: there are 6 days to the 14th.",
+      "hint": "Do not count the starting date as a jump."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "move_forward_on_week",
+    "question": "For sports week, today is Monday. What day is 6 days later?",
+    "audio_prompt": "For sports week, today is Monday. What day is 6 days later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-003",
+      "alt_text": "For sports week: A row of weekday cards starting on Monday with 6 forward jumps."
+    },
+    "answers": [
+      {
+        "text": "Friday",
+        "is_correct": false
+      },
+      {
+        "text": "Sunday",
+        "is_correct": true
+      },
+      {
+        "text": "Monday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Move forward 6 days from Monday.",
+      "hint": "Use one jump for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "distinguish_date_and_day",
+    "question": "For sports week, which is a date?",
+    "audio_prompt": "For sports week, which is a date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-004",
+      "alt_text": "For sports week: May calendar with the 14th highlighted."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "After lunch",
+        "is_correct": false
+      },
+      {
+        "text": "14th of May",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A date gives a number and a month: 14th of May.",
+      "hint": "A day name is not a full date."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "solve_calendar_event_problem",
+    "question": "For sports week, the library day is the 8th. Sports day is 6 days later. What is the sports date?",
+    "audio_prompt": "For sports week, the library day is the 8th. Sports day is 6 days later. What is the sports date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-005",
+      "alt_text": "For sports week: Calendar with library day on the 8th and sports day on the 14th."
+    },
+    "answers": [
+      {
+        "text": "14th",
+        "is_correct": true
+      },
+      {
+        "text": "15th",
+        "is_correct": false
+      },
+      {
+        "text": "13th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Starting after the 8th, count 6 jumps to reach the 14th.",
+      "hint": "Put your finger on the start, then move once for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "choose_calendar_counting_method",
+    "question": "For sports week, which method correctly counts days from the 8th to the 14th?",
+    "audio_prompt": "For sports week, which method correctly counts days from the 8th to the 14th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-006",
+      "alt_text": "For sports week: Calendar showing 6 jumps between two highlighted dates."
+    },
+    "answers": [
+      {
+        "text": "Count the 8th as jump 1",
+        "is_correct": false
+      },
+      {
+        "text": "Start after the 8th and count 6 jumps",
+        "is_correct": true
+      },
+      {
+        "text": "Count backwards from the 8th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Days between dates are counted as jumps after the starting date.",
+      "hint": "Trace the spaces from one date to the next."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "find_date_one_week_before",
+    "question": "For sports week, a camp starts on the 15th. What date was one week before?",
+    "audio_prompt": "For sports week, a camp starts on the 15th. What date was one week before?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-007",
+      "alt_text": "For sports week: Calendar with two dates one week apart, ending on the 15th."
+    },
+    "answers": [
+      {
+        "text": "9th",
+        "is_correct": false
+      },
+      {
+        "text": "14th",
+        "is_correct": false
+      },
+      {
+        "text": "8th",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One week before means move back 7 days, to the 8th.",
+      "hint": "Move up one row on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "identify_next_calendar_day",
+    "question": "For sports week, the 14th is a Friday. What day is the 15th?",
+    "audio_prompt": "For sports week, the 14th is a Friday. What day is the 15th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-008",
+      "alt_text": "For sports week: Two neighbouring calendar dates, the 14th and 15th."
+    },
+    "answers": [
+      {
+        "text": "Saturday",
+        "is_correct": true
+      },
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The day after Friday is Saturday.",
+      "hint": "Move one day forward in the weekday order."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "find_date_one_week_later",
+    "question": "On the camp calendar, the class visit is on the 10th. What date is one week later?",
+    "audio_prompt": "On the camp calendar, the class visit is on the 10th. What date is one week later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-009",
+      "alt_text": "On the camp calendar: Calendar with the 10th and 17th highlighted one week apart."
+    },
+    "answers": [
+      {
+        "text": "16th",
+        "is_correct": false
+      },
+      {
+        "text": "17th",
+        "is_correct": true
+      },
+      {
+        "text": "18th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One week is 7 days, so 10 + 7 = 17.",
+      "hint": "Move down one full week on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "count_days_between_dates",
+    "question": "On the camp calendar, how many days are between the 10th and the 13th?",
+    "audio_prompt": "On the camp calendar, how many days are between the 10th and the 13th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-010",
+      "alt_text": "On the camp calendar: Calendar with the 10th and 13th highlighted."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Count the jumps after the 10th: there are 3 days to the 13th.",
+      "hint": "Do not count the starting date as a jump."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "move_forward_on_week",
+    "question": "On the camp calendar, today is Monday. What day is 3 days later?",
+    "audio_prompt": "On the camp calendar, today is Monday. What day is 3 days later?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-011",
+      "alt_text": "On the camp calendar: A row of weekday cards starting on Monday with 3 forward jumps."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": true
+      },
+      {
+        "text": "Tuesday",
+        "is_correct": false
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Move forward 3 days from Monday.",
+      "hint": "Use one jump for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "distinguish_date_and_day",
+    "question": "On the camp calendar, which is a date?",
+    "audio_prompt": "On the camp calendar, which is a date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-012",
+      "alt_text": "On the camp calendar: May calendar with the 13th highlighted."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "13th of May",
+        "is_correct": true
+      },
+      {
+        "text": "After lunch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A date gives a number and a month: 13th of May.",
+      "hint": "A day name is not a full date."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "solve_calendar_event_problem",
+    "question": "On the camp calendar, the library day is the 10th. Sports day is 3 days later. What is the sports date?",
+    "audio_prompt": "On the camp calendar, the library day is the 10th. Sports day is 3 days later. What is the sports date?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-013",
+      "alt_text": "On the camp calendar: Calendar with library day on the 10th and sports day on the 13th."
+    },
+    "answers": [
+      {
+        "text": "14th",
+        "is_correct": false
+      },
+      {
+        "text": "12th",
+        "is_correct": false
+      },
+      {
+        "text": "13th",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Starting after the 10th, count 3 jumps to reach the 13th.",
+      "hint": "Put your finger on the start, then move once for each day."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "choose_calendar_counting_method",
+    "question": "On the camp calendar, which method correctly counts days from the 10th to the 13th?",
+    "audio_prompt": "On the camp calendar, which method correctly counts days from the 10th to the 13th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-014",
+      "alt_text": "On the camp calendar: Calendar showing 3 jumps between two highlighted dates."
+    },
+    "answers": [
+      {
+        "text": "Start after the 10th and count 3 jumps",
+        "is_correct": true
+      },
+      {
+        "text": "Count the 10th as jump 1",
+        "is_correct": false
+      },
+      {
+        "text": "Count backwards from the 10th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Days between dates are counted as jumps after the starting date.",
+      "hint": "Trace the spaces from one date to the next."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "find_date_one_week_before",
+    "question": "On the camp calendar, a camp starts on the 17th. What date was one week before?",
+    "audio_prompt": "On the camp calendar, a camp starts on the 17th. What date was one week before?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-015",
+      "alt_text": "On the camp calendar: Calendar with two dates one week apart, ending on the 17th."
+    },
+    "answers": [
+      {
+        "text": "11th",
+        "is_correct": false
+      },
+      {
+        "text": "10th",
+        "is_correct": true
+      },
+      {
+        "text": "16th",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One week before means move back 7 days, to the 10th.",
+      "hint": "Move up one row on the calendar."
+    }
+  },
+  {
+    "id": "AC9M2M03-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2M03",
+    "bank": "test",
+    "skill": "identify_next_calendar_day",
+    "question": "On the camp calendar, the 13th is a Friday. What day is the 14th?",
+    "audio_prompt": "On the camp calendar, the 13th is a Friday. What day is the 14th?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2m03.svg#ac9m2m03-t-016",
+      "alt_text": "On the camp calendar: Two neighbouring calendar dates, the 13th and 14th."
+    },
+    "answers": [
+      {
+        "text": "Thursday",
+        "is_correct": false
+      },
+      {
+        "text": "Friday",
+        "is_correct": false
+      },
+      {
+        "text": "Saturday",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The day after Friday is Saturday.",
+      "hint": "Move one day forward in the weekday order."
+    }
+  }
+]
