@@ -1,6 +1,6 @@
 # Year 1–10 live assessment-bank audit
 
-Generated: 2026-08-13T09:14:39.631Z
+Generated: 2026-08-13T09:37:46.953Z
 
 ## Release baseline
 
@@ -12,19 +12,19 @@ Generated: 2026-08-13T09:14:39.631Z
 ## Overall result
 
 - Curriculum codes checked: **628**
-- Passing the 24/16 count-and-separation baseline: **25**
-- Passing all automated quality signals: **25**
+- Passing the 24/16 count-and-separation baseline: **55**
+- Passing all automated quality signals: **55**
 - Practice and Test sharing one source: **460**
-- Below 24 Practice: **594**
-- Below 16 dedicated Test: **603**
+- Below 24 Practice: **564**
+- Below 16 dedicated Test: **573**
 - Codes containing generic curriculum-description items: **451**
-- Codes containing visibly truncated prompts/options: **457**
-- Codes missing structured summary + hint feedback: **588**
-- Year 1–2 codes missing audio metadata: **72**
+- Codes containing visibly truncated prompts/options: **452**
+- Codes missing structured summary + hint feedback: **558**
+- Year 1–2 codes missing audio metadata: **42**
 - Pages without a loadable Practice or Test bank: **15**
-- Minimum additional Practice items needed: **9,624**
-- Minimum additional dedicated Test items needed: **8,624**
-- Minimum new items required for the baseline: **18,248**
+- Minimum additional Practice items needed: **9,144**
+- Minimum additional dedicated Test items needed: **8,384**
+- Minimum new items required for the baseline: **17,528**
 
 ## Results by year and subject
 
@@ -32,7 +32,7 @@ Generated: 2026-08-13T09:14:39.631Z
 | ---: | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1 | math | 15 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 1 | science | 10 | 10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 1 | english | 30 | 0 | 0 | 30 | 30 | 480 | 240 | 0 | 5 | 30 |
+| 1 | english | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2 | math | 20 | 0 | 18 | 20 | 20 | 336 | 320 | 18 | 18 | 18 |
 | 2 | science | 10 | 0 | 0 | 10 | 10 | 240 | 160 | 0 | 0 | 0 |
 | 2 | english | 27 | 0 | 24 | 27 | 27 | 456 | 432 | 24 | 24 | 24 |

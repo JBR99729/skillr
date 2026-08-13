@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LY03-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_01_answer",
+    "question": "Which response would correctly identify an informative text?",
+    "audio_prompt": "Which response would correctly identify an informative text?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-001",
+      "alt_text": "📖 Identify an informative text; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Informative",
+        "is_correct": true
+      },
+      {
+        "text": "imaginative",
+        "is_correct": false
+      },
+      {
+        "text": "persuasive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Informative This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_01_strategy",
+    "question": "Which tip would help you identify an informative text?",
+    "audio_prompt": "Which tip would help you identify an informative text?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-002",
+      "alt_text": "🧠 Identify an informative text; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Some texts inform or persuade instead.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_02_answer",
+    "question": "Which response would correctly match types and features?",
+    "audio_prompt": "Which response would correctly match types and features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-003",
+      "alt_text": "📖 Match types and features; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Each type matched correctly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each type matched correctly This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_02_strategy",
+    "question": "Which tip would help you match types and features?",
+    "audio_prompt": "Which tip would help you match types and features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-004",
+      "alt_text": "🧠 Match types and features; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_03_answer",
+    "question": "Which response would correctly sort same-topic cards?",
+    "audio_prompt": "Which response would correctly sort same-topic cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-005",
+      "alt_text": "📖 Sort same-topic cards; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "carry an umbrella",
+        "is_correct": false
+      },
+      {
+        "text": "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive",
+        "is_correct": true
+      },
+      {
+        "text": "Story ↔ informative; facts ↔ persuasive; recommendation/reason ↔ imaginative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_03_strategy",
+    "question": "Which tip would help you sort same-topic cards?",
+    "audio_prompt": "Which tip would help you sort same-topic cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-006",
+      "alt_text": "🧠 Sort same-topic cards; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for persuasive and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_04_answer",
+    "question": "Which response would correctly state a similarity?",
+    "audio_prompt": "Which response would correctly state a similarity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-007",
+      "alt_text": "📖 State a similarity; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_04_strategy",
+    "question": "Which tip would help you state a similarity?",
+    "audio_prompt": "Which tip would help you state a similarity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-008",
+      "alt_text": "🧠 State a similarity; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can compare differences.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can compare differences.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_05_answer",
+    "question": "Which response would correctly order comparison thinking?",
+    "audio_prompt": "Which response would correctly order comparison thinking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-009",
+      "alt_text": "📖 Order comparison thinking; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "cite difference → note similarity → Name/identify types and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Name/identify types and purpose → note similarity → cite difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Name/identify types and purpose → note similarity → cite difference This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_05_strategy",
+    "question": "Which tip would help you order comparison thinking?",
+    "audio_prompt": "Which tip would help you order comparison thinking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-010",
+      "alt_text": "🧠 Order comparison thinking; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing text comparison.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing text comparison.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_06_answer",
+    "question": "Which response would correctly draw three covers?",
+    "audio_prompt": "Which response would correctly draw three covers?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-011",
+      "alt_text": "📖 Draw three covers; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_06_strategy",
+    "question": "Which tip would help you draw three covers?",
+    "audio_prompt": "Which tip would help you draw three covers?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-012",
+      "alt_text": "🧠 Draw three covers; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Use same, different, both, but.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_07_answer",
+    "question": "Which response would correctly explain factual persuasion?",
+    "audio_prompt": "Which response would correctly explain factual persuasion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-013",
+      "alt_text": "📖 Explain factual persuasion; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "It calls for a behaviour/choice and uses the fact as a reason",
+        "is_correct": true
+      },
+      {
+        "text": "Refill your bottle to reduce waste",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It calls for a behaviour/choice and uses the fact as a reason This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_07_strategy",
+    "question": "Which tip would help you explain factual persuasion?",
+    "audio_prompt": "Which tip would help you explain factual persuasion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-014",
+      "alt_text": "🧠 Explain factual persuasion; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_08_answer",
+    "question": "Write one imaginative and one informative opening about a storm. Explain the language difference.",
+    "audio_prompt": "Write one imaginative and one informative opening about a storm. Explain the language difference.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-015",
+      "alt_text": "📖 Compare openings; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Imaginative opening creates character/event/mood",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Imaginative opening creates character/event/mood This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_08_strategy",
+    "question": "Which tip would help you compare openings?",
+    "audio_prompt": "Which tip would help you compare openings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-016",
+      "alt_text": "🧠 Compare openings; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for persuasive and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_01_answer",
+    "question": "Which words show persuasion in 'Choose the shaded path because it is cooler'?",
+    "audio_prompt": "Which words show persuasion in 'Choose the shaded path because it is cooler'?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-017",
+      "alt_text": "📖 Recognise persuasive wording; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose the shaded path because it is cooler",
+        "is_correct": false
+      },
+      {
+        "text": "'Choose' states desired action and 'because it is cooler' gives a reason",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Choose' states desired action and 'because it is cooler' gives a reason This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_01_strategy",
+    "question": "Which tip would help you recognise persuasive wording?",
+    "audio_prompt": "Which tip would help you recognise persuasive wording?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-018",
+      "alt_text": "🧠 Recognise persuasive wording; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can compare differences.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can compare differences.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_02_answer",
+    "question": "Which response would correctly match shared and unique features?",
+    "audio_prompt": "Which response would correctly match shared and unique features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-019",
+      "alt_text": "📖 Match shared and unique features; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All three matched correctly",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All three matched correctly This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_02_strategy",
+    "question": "Which tip would help you match shared and unique features?",
+    "audio_prompt": "Which tip would help you match shared and unique features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-020",
+      "alt_text": "🧠 Match shared and unique features; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Separating shared from type-specific features.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Separating shared from type-specific features.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_03_answer",
+    "question": "Which response would correctly sequence a type decision?",
+    "audio_prompt": "Which response would correctly sequence a type decision?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-021",
+      "alt_text": "📖 Sequence a type decision; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "name type/evidence → decide purpose → notice clues → Read",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Read → notice clues → decide purpose → name type/evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read → notice clues → decide purpose → name type/evidence This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_03_strategy",
+    "question": "Which tip would help you sequence a type decision?",
+    "audio_prompt": "Which tip would help you sequence a type decision?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-022",
+      "alt_text": "🧠 Sequence a type decision; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Opinion can be agreed or disagreed with.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Opinion can be agreed or disagreed with.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_04_answer",
+    "question": "How might a frog image differ in a story and a factual report?",
+    "audio_prompt": "How might a frog image differ in a story and a factual report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-023",
+      "alt_text": "📖 Compare image use; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Story image develops character/event/mood; report image shows accurate features/labels",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Story image develops character/event/mood; report image shows accurate features/labels This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "practice",
+    "skill": "ac9e1ly03_04_strategy",
+    "question": "Which tip would help you compare image use?",
+    "audio_prompt": "Which tip would help you compare image use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-p-024",
+      "alt_text": "🧠 Compare image use; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_01_answer",
+    "question": "Which response would correctly demonstrate three voices?",
+    "audio_prompt": "Which response would correctly demonstrate three voices?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001",
+      "alt_text": "📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Three clearly different sentences suited to narrative, factual and opinion/action purposes",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three clearly different sentences suited to narrative, factual and opinion/action purposes This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_01_strategy",
+    "question": "Which tip would help you demonstrate three voices?",
+    "audio_prompt": "Which tip would help you demonstrate three voices?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002",
+      "alt_text": "🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Some texts inform or persuade instead.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Some texts inform or persuade instead.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_02_answer",
+    "question": "Which response would correctly draw a comparison table?",
+    "audio_prompt": "Which response would correctly draw a comparison table?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-003",
+      "alt_text": "📖 Draw a comparison table; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Nine suitable entries organised accurately",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Nine suitable entries organised accurately This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_02_strategy",
+    "question": "Which tip would help you draw a comparison table?",
+    "audio_prompt": "Which tip would help you draw a comparison table?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-004",
+      "alt_text": "🧠 Draw a comparison table; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_03_answer",
+    "question": "Which response would correctly correct a type label?",
+    "audio_prompt": "Which response would correctly correct a type label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-005",
+      "alt_text": "📖 Correct a type label; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "You should adopt this pet because it is gentle",
+        "is_correct": false
+      },
+      {
+        "text": "It is persuasive because it recommends action and supports it with a reason, though it may contain information",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It is persuasive because it recommends action and supports it with a reason, though it may contain information This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_03_strategy",
+    "question": "Which tip would help you correct a type label?",
+    "audio_prompt": "Which tip would help you correct a type label?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-006",
+      "alt_text": "🧠 Correct a type label; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for persuasive and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_04_answer",
+    "question": "Which response would correctly analyse a blended page?",
+    "audio_prompt": "Which response would correctly analyse a blended page?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-007",
+      "alt_text": "📖 Analyse a blended page; 🔎 similar; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Imaginative story/entertain",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Imaginative story/entertain This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_04_strategy",
+    "question": "Which tip would help you analyse a blended page?",
+    "audio_prompt": "Which tip would help you analyse a blended page?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-008",
+      "alt_text": "🧠 Analyse a blended page; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can compare differences.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can compare differences.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-009",
+      "alt_text": "📖 Rule; 🔎 different; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Imaginative texts create characters and events",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Imaginative texts create characters and events This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-010",
+      "alt_text": "🧠 Rule; ➡️ Name text type; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-011",
+      "alt_text": "📖 Worked example; 🔎 imaginative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the worked example for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the worked example for this English skill This matches the task.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Find features; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Use same, different, both, but.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use same, different, both, but.",
+      "hint": "Use same, different, both, but."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_07_answer",
+    "question": "Which statement correctly explains this comparison strategy?",
+    "audio_prompt": "Which statement correctly explains this comparison strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-013",
+      "alt_text": "📖 Comparison strategy; 🔎 informative; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Name a shared feature, then compare purpose, organisation, language and evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name a shared feature, then compare purpose, organisation, language and evidence. This matches the task.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_07_strategy",
+    "question": "Which tip would help you comparison strategy?",
+    "audio_prompt": "Which tip would help you comparison strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-014",
+      "alt_text": "🧠 Comparison strategy; ➡️ Compare purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
+      "hint": "Some texts inform or persuade instead."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-015",
+      "alt_text": "📖 Common trap; 🔎 persuasive; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat an opinion as a fact.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Persuasive texts may include facts, but those facts are selected to support a viewpoint or action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Persuasive texts may include facts, but those facts are selected to support a viewpoint or action. This matches the task.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  },
+  {
+    "id": "AC9E1LY03-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY03",
+    "bank": "test",
+    "skill": "ac9e1ly03_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for persuasive and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use same, different, both, but.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every text as a story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for persuasive and check the whole example.",
+      "hint": "Opinion can be agreed or disagreed with."
+    }
+  }
+]

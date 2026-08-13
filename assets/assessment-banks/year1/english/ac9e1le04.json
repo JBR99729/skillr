@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LE04-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_01_answer",
+    "question": "Which pair uses alliteration: silver snake or silver moon?",
+    "audio_prompt": "Which pair uses alliteration: silver snake or silver moon?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-001",
+      "alt_text": "📖 Find alliteration; 🔎 rhyme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Silver snake; both begin with /s/",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Silver snake; both begin with /s/ This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_01_strategy",
+    "question": "Which tip would help you find alliteration?",
+    "audio_prompt": "Which tip would help you find alliteration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-002",
+      "alt_text": "🧠 Find alliteration; ➡️ Listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for same sound, not just same spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_02_answer",
+    "question": "Which response would correctly match sound patterns?",
+    "audio_prompt": "Which response would correctly match sound patterns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-003",
+      "alt_text": "📖 Match sound patterns; 🔎 alliteration; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Goat/boat ↔ alliteration; wild wind ↔ sound word/pattern; tick-tock ↔ rhyme",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Goat/boat ↔ rhyme; wild wind ↔ alliteration; tick-tock ↔ sound word/pattern This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_02_strategy",
+    "question": "Which tip would help you match sound patterns?",
+    "audio_prompt": "Which tip would help you match sound patterns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-004",
+      "alt_text": "🧠 Match sound patterns; ➡️ Find sound pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_03_answer",
+    "question": "Which response would correctly perform a line?",
+    "audio_prompt": "Which response would correctly perform a line?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-005",
+      "alt_text": "📖 Perform a line; 🔎 beat; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Softly, slowly, snowflakes spin",
+        "is_correct": false
+      },
+      {
+        "text": "Performs clearly and identifies /s/ repetition",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Performs clearly and identifies /s/ repetition This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_03_strategy",
+    "question": "Which tip would help you perform a line?",
+    "audio_prompt": "Which tip would help you perform a line?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-006",
+      "alt_text": "🧠 Perform a line; ➡️ Imitate; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for beat and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for beat and check the whole example.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_04_answer",
+    "question": "Which response would correctly invent a rhyme?",
+    "audio_prompt": "Which response would correctly invent a rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-007",
+      "alt_text": "📖 Invent a rhyme; 🔎 chant; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A meaningful line ending in night, light, flight or another true rhyme",
+        "is_correct": true
+      },
+      {
+        "text": "I see a bright red kite",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A meaningful line ending in night, light, flight or another true rhyme This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_04_strategy",
+    "question": "Which tip would help you invent a rhyme?",
+    "audio_prompt": "Which tip would help you invent a rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-008",
+      "alt_text": "🧠 Invent a rhyme; ➡️ Invent; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can invent pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can invent pattern.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_05_answer",
+    "question": "Which response would correctly order a chant?",
+    "audio_prompt": "Which response would correctly order a chant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-009",
+      "alt_text": "📖 Order a chant; 🔎 song; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Two identical clap-clap-stomp units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two identical clap-clap-stomp units This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_05_strategy",
+    "question": "Which tip would help you order a chant?",
+    "audio_prompt": "Which tip would help you order a chant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-010",
+      "alt_text": "🧠 Order a chant; ➡️ Perform; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing an imitated chant pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing an imitated chant pattern.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_06_answer",
+    "question": "Which response would correctly draw sound images?",
+    "audio_prompt": "Which response would correctly draw sound images?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-011",
+      "alt_text": "📖 Draw sound images; 🔎 rhyme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "pitter-patter",
+        "is_correct": false
+      },
+      {
+        "text": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled",
+        "is_correct": true
+      },
+      {
+        "text": "boom",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Images match soft repeated rain and sudden loud thunder; sound qualities labelled This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_06_strategy",
+    "question": "Which tip would help you draw sound images?",
+    "audio_prompt": "Which tip would help you draw sound images?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-012",
+      "alt_text": "🧠 Draw sound images; ➡️ Listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Say it aloud to hear the pattern.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say it aloud to hear the pattern.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_07_answer",
+    "question": "What feeling or pace might 'Quick quails quiver and quake' create? Use one sound clue.",
+    "audio_prompt": "What feeling or pace might 'Quick quails quiver and quake' create? Use one sound clue.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-013",
+      "alt_text": "📖 Discuss effect; 🔎 alliteration; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words",
+        "is_correct": true
+      },
+      {
+        "text": "Quick quails quiver and quake",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plausible quick/nervous/playful effect supported by repeated /qu/ and short words This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_07_strategy",
+    "question": "Which tip would help you discuss effect?",
+    "audio_prompt": "Which tip would help you discuss effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-014",
+      "alt_text": "🧠 Discuss effect; ➡️ Find sound pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_08_answer",
+    "question": "Which response would correctly invent a sound pattern?",
+    "audio_prompt": "Which response would correctly invent a sound pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-015",
+      "alt_text": "📖 Invent a sound pattern; 🔎 beat; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "At least three initial sounds match and phrase remains understandable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "At least three initial sounds match and phrase remains understandable This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_08_strategy",
+    "question": "Which tip would help you invent a sound pattern?",
+    "audio_prompt": "Which tip would help you invent a sound pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-016",
+      "alt_text": "🧠 Invent a sound pattern; ➡️ Imitate; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for beat and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for beat and check the whole example.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_01_answer",
+    "question": "Do moon and spoon rhyme? State the shared ending sound.",
+    "audio_prompt": "Do moon and spoon rhyme? State the shared ending sound.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-017",
+      "alt_text": "📖 Hear end sounds; 🔎 chant; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; both end with /oon/",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Yes; both end with /oon/ This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_01_strategy",
+    "question": "Which tip would help you hear end sounds?",
+    "audio_prompt": "Which tip would help you hear end sounds?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-018",
+      "alt_text": "🧠 Hear end sounds; ➡️ Invent; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can invent pattern.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can invent pattern.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_02_answer",
+    "question": "Which response would correctly match lines and mood?",
+    "audio_prompt": "Which response would correctly match lines and mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-019",
+      "alt_text": "📖 Match lines and mood; 🔎 song; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each line matches a supported sound-created mood",
+        "is_correct": true
+      },
+      {
+        "text": "hush, hush, sleepy night",
+        "is_correct": false
+      },
+      {
+        "text": "bang-clang-crash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each line matches a supported sound-created mood This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_02_strategy",
+    "question": "Which tip would help you match lines and mood?",
+    "audio_prompt": "Which tip would help you match lines and mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-020",
+      "alt_text": "🧠 Match lines and mood; ➡️ Perform; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Connecting sound pattern with mood.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connecting sound pattern with mood.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_03_answer",
+    "question": "Which response would correctly sequence a rhyme scheme?",
+    "audio_prompt": "Which response would correctly sequence a rhyme scheme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-021",
+      "alt_text": "📖 Sequence a rhyme scheme; 🔎 rhyme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Cat, moon, hat, spoon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cat, moon, hat, spoon This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_03_strategy",
+    "question": "Which tip would help you sequence a rhyme scheme?",
+    "audio_prompt": "Which tip would help you sequence a rhyme scheme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-022",
+      "alt_text": "🧠 Sequence a rhyme scheme; ➡️ Listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Rhyme is usually ending sound.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rhyme is usually ending sound.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_04_answer",
+    "question": "Which response would correctly complete alliteration?",
+    "audio_prompt": "Which response would correctly complete alliteration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-023",
+      "alt_text": "📖 Complete alliteration; 🔎 alliteration; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "big fox",
+        "is_correct": false
+      },
+      {
+        "text": "fast fox, furry fox or friendly fox",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "fast fox, furry fox or friendly fox This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "ac9e1le04_04_strategy",
+    "question": "Which tip would help you complete alliteration?",
+    "audio_prompt": "Which tip would help you complete alliteration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-p-024",
+      "alt_text": "🧠 Complete alliteration; ➡️ Find sound pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_01_answer",
+    "question": "Which response would correctly demonstrate imitation?",
+    "audio_prompt": "Which response would correctly demonstrate imitation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
+      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Accurately imitates twice and creates a clearly stated variation",
+        "is_correct": true
+      },
+      {
+        "text": "tap-tap-pause",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Accurately imitates twice and creates a clearly stated variation This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_01_strategy",
+    "question": "Which tip would help you demonstrate imitation?",
+    "audio_prompt": "Which tip would help you demonstrate imitation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
+      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for same sound, not just same spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listen for same sound, not just same spelling.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_02_answer",
+    "question": "Which response would correctly draw rhyme pairs?",
+    "audio_prompt": "Which response would correctly draw rhyme pairs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-003",
+      "alt_text": "📖 Draw rhyme pairs; 🔎 alliteration; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Two pairs have matching spoken end sounds and labels",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two pairs have matching spoken end sounds and labels This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_02_strategy",
+    "question": "Which tip would help you draw rhyme pairs?",
+    "audio_prompt": "Which tip would help you draw rhyme pairs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-004",
+      "alt_text": "🧠 Draw rhyme pairs; ➡️ Find sound pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_03_answer",
+    "question": "Which response would correctly correct false alliteration?",
+    "audio_prompt": "Which response would correctly correct false alliteration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-005",
+      "alt_text": "📖 Correct false alliteration; 🔎 beat; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "giant goat",
+        "is_correct": false
+      },
+      {
+        "text": "Giant starts /j/ while goat starts /g/, so initial sounds differ",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Giant starts /j/ while goat starts /g/, so initial sounds differ This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_03_strategy",
+    "question": "Which tip would help you correct false alliteration?",
+    "audio_prompt": "Which tip would help you correct false alliteration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-006",
+      "alt_text": "🧠 Correct false alliteration; ➡️ Imitate; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for beat and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for beat and check the whole example.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_04_answer",
+    "question": "Which response would correctly create and discuss a verse?",
+    "audio_prompt": "Which response would correctly create and discuss a verse?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-007",
+      "alt_text": "📖 Create and discuss a verse; 🔎 chant; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All three features are present, accurately named and contribute to a coherent mini-verse",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All three features are present, accurately named and contribute to a coherent mini-verse This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_04_strategy",
+    "question": "Which tip would help you create and discuss a verse?",
+    "audio_prompt": "Which tip would help you create and discuss a verse?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-008",
+      "alt_text": "🧠 Create and discuss a verse; ➡️ Invent; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can invent pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can invent pattern.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-009",
+      "alt_text": "📖 Rule; 🔎 song; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Rhyme matches ending sounds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rhyme matches ending sounds This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-010",
+      "alt_text": "🧠 Rule; ➡️ Perform; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-011",
+      "alt_text": "📖 Worked example; 🔎 rhyme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "'Busy bees buzz by' repeats /b/ for alliteration. 'Bee/tree' rhyme because their final sounds match.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Busy bees buzz by' repeats /b/ for alliteration. 'Bee/tree' rhyme because their final sounds match. This matches the task.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Say it aloud to hear the pattern.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say it aloud to hear the pattern.",
+      "hint": "Say it aloud to hear the pattern."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_07_answer",
+    "question": "Which statement correctly explains this listening strategy?",
+    "audio_prompt": "Which statement correctly explains this listening strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-013",
+      "alt_text": "📖 Listening strategy; 🔎 alliteration; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use the listening strategy for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the listening strategy for this English skill This matches the task.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_07_strategy",
+    "question": "Which tip would help you listening strategy?",
+    "audio_prompt": "Which tip would help you listening strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-014",
+      "alt_text": "🧠 Listening strategy; ➡️ Find sound pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Listen → Find sound pattern → Imitate → Invent → Perform.",
+      "hint": "Listen for same sound, not just same spelling."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-015",
+      "alt_text": "📖 Common trap; 🔎 beat; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose a word with the same first sound instead of a rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Alliteration uses sound, not just a repeated written letter: city and cat start with different sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Alliteration uses sound, not just a repeated written letter: city and cat start with different sounds. This matches the task.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  },
+  {
+    "id": "AC9E1LE04-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "ac9e1le04_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Imitate; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for beat and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out performance.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen for same sound, not just same spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for beat and check the whole example.",
+      "hint": "Rhyme is usually ending sound."
+    }
+  }
+]

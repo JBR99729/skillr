@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LE02-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_01_answer",
+    "question": "Which response would correctly name a connection?",
+    "audio_prompt": "Which response would correctly name a connection?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-001",
+      "alt_text": "📖 Name a connection; 🔎 connection; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event",
+        "is_correct": true
+      },
+      {
+        "text": "Learning a new skill, practising, falling safely or receiving help; experience relates to the event",
+        "is_correct": false
+      },
+      {
+        "text": "Learning a new skill, practising, falling safely or receiving help; discussion relates to the event",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_01_strategy",
+    "question": "Which tip would help you name a connection?",
+    "audio_prompt": "Which tip would help you name a connection?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-002",
+      "alt_text": "🧠 Name a connection; ➡️ Listen/read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Add your thought, feeling or connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_02_answer",
+    "question": "Which response would correctly match events and connections?",
+    "audio_prompt": "Which response would correctly match events and connections?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-003",
+      "alt_text": "📖 Match events and connections; 🔎 feeling; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Each story event matches its relevant experience category",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each story event matches its relevant experience category This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_02_strategy",
+    "question": "Which tip would help you match events and connections?",
+    "audio_prompt": "Which tip would help you match events and connections?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-004",
+      "alt_text": "🧠 Match events and connections; ➡️ Notice part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_03_answer",
+    "question": "Which response would correctly share a safe oral response?",
+    "audio_prompt": "Which response would correctly share a safe oral response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-005",
+      "alt_text": "📖 Share a safe oral response; 🔎 thought; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Names feeling, gives appropriate connection and explains the link",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Names feeling, gives appropriate connection and explains the link This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_03_strategy",
+    "question": "Which tip would help you share a safe oral response?",
+    "audio_prompt": "Which tip would help you share a safe oral response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-006",
+      "alt_text": "🧠 Share a safe oral response; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for thought and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_04_answer",
+    "question": "Which response would correctly complete a connection sentence?",
+    "audio_prompt": "Which response would correctly complete a connection sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-007",
+      "alt_text": "📖 Complete a connection sentence; 🔎 experience; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A coherent event and reason connected to rain/indoor activity or feeling",
+        "is_correct": true
+      },
+      {
+        "text": "The rainy-day story reminds me of __ because __",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A coherent event and reason connected to rain/indoor activity or feeling This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_04_strategy",
+    "question": "Which tip would help you complete a connection sentence?",
+    "audio_prompt": "Which tip would help you complete a connection sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-008",
+      "alt_text": "🧠 Complete a connection sentence; ➡️ Explain response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use text evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use text evidence.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_05_answer",
+    "question": "Which response would correctly order a thoughtful response?",
+    "audio_prompt": "Which response would correctly order a thoughtful response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-009",
+      "alt_text": "📖 Order a thoughtful response; 🔎 discussion; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "insight about character → compare → experience → Text event",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Text event → experience → compare → insight about character",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Text event → experience → compare → insight about character This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_05_strategy",
+    "question": "Which tip would help you order a thoughtful response?",
+    "audio_prompt": "Which tip would help you order a thoughtful response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-010",
+      "alt_text": "🧠 Order a thoughtful response; ➡️ Listen/read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing an evidence-connected literary response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing an evidence-connected literary response.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_06_answer",
+    "question": "Which response would correctly draw text and self panels?",
+    "audio_prompt": "Which response would correctly draw text and self panels?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-011",
+      "alt_text": "📖 Draw text and self panels; 🔎 connection; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Both panels are clear and one meaningful similarity is labelled",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both panels are clear and one meaningful similarity is labelled This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_06_strategy",
+    "question": "Which tip would help you draw text and self panels?",
+    "audio_prompt": "Which tip would help you draw text and self panels?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-012",
+      "alt_text": "🧠 Draw text and self panels; ➡️ Notice part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen first, then respond.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listen first, then respond.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_07_answer",
+    "question": "Which response would correctly check relevance?",
+    "audio_prompt": "Which response would correctly check relevance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-013",
+      "alt_text": "📖 Check relevance; 🔎 feeling; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_07_strategy",
+    "question": "Which tip would help you check relevance?",
+    "audio_prompt": "Which tip would help you check relevance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-014",
+      "alt_text": "🧠 Check relevance; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_08_answer",
+    "question": "Which response would correctly respect a different response?",
+    "audio_prompt": "Which response would correctly respect a different response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-015",
+      "alt_text": "📖 Respect a different response; 🔎 thought; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_08_strategy",
+    "question": "Which tip would help you respect a different response?",
+    "audio_prompt": "Which tip would help you respect a different response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-016",
+      "alt_text": "🧠 Respect a different response; ➡️ Explain response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for thought and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_01_answer",
+    "question": "Which response would correctly infer through experience?",
+    "audio_prompt": "Which response would correctly infer through experience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-017",
+      "alt_text": "📖 Infer through experience; 🔎 experience; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "It can explain effort, nerves, improvement or pride, linked to repeated practice",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can explain effort, nerves, improvement or pride, linked to repeated practice This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_01_strategy",
+    "question": "Which tip would help you infer through experience?",
+    "audio_prompt": "Which tip would help you infer through experience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-018",
+      "alt_text": "🧠 Infer through experience; ➡️ Listen/read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use text evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use text evidence.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_02_answer",
+    "question": "Which response would correctly match response starters?",
+    "audio_prompt": "Which response would correctly match response starters?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-019",
+      "alt_text": "📖 Match response starters; 🔎 discussion; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight",
+        "is_correct": true
+      },
+      {
+        "text": "Both ___",
+        "is_correct": false
+      },
+      {
+        "text": "Unlike ___",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_02_strategy",
+    "question": "Which tip would help you match response starters?",
+    "audio_prompt": "Which tip would help you match response starters?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-020",
+      "alt_text": "🧠 Match response starters; ➡️ Notice part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Using comparative language in literary discussion.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using comparative language in literary discussion.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_03_answer",
+    "question": "Which response would correctly sequence an empathetic reply?",
+    "audio_prompt": "Which response would correctly sequence an empathetic reply?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-021",
+      "alt_text": "📖 Sequence an empathetic reply; 🔎 connection; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "add idea → note difference respectfully → refer/acknowledge → Listen",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen → refer/acknowledge → note difference respectfully → add idea",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listen → refer/acknowledge → note difference respectfully → add idea This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_03_strategy",
+    "question": "Which tip would help you sequence an empathetic reply?",
+    "audio_prompt": "Which tip would help you sequence an empathetic reply?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-022",
+      "alt_text": "🧠 Sequence an empathetic reply; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Name the part of the text that made the connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_04_answer",
+    "question": "Which response would correctly explain changed understanding?",
+    "audio_prompt": "Which response would correctly explain changed understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-023",
+      "alt_text": "📖 Explain changed understanding; 🔎 feeling; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "May notice the character's feelings/need for inclusion and interpret actions with empathy",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "May notice the character's feelings/need for inclusion and interpret actions with empathy This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "practice",
+    "skill": "ac9e1le02_04_strategy",
+    "question": "Which tip would help you explain changed understanding?",
+    "audio_prompt": "Which tip would help you explain changed understanding?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-p-024",
+      "alt_text": "🧠 Explain changed understanding; ➡️ Explain response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_01_answer",
+    "question": "Which response would correctly demonstrate two connections?",
+    "audio_prompt": "Which response would correctly demonstrate two connections?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001",
+      "alt_text": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Two distinct, relevant connections with brief explanations",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two distinct, relevant connections with brief explanations This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_01_strategy",
+    "question": "Which tip would help you demonstrate two connections?",
+    "audio_prompt": "Which tip would help you demonstrate two connections?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002",
+      "alt_text": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Add your thought, feeling or connection.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_02_answer",
+    "question": "Which response would correctly draw similarity and difference?",
+    "audio_prompt": "Which response would correctly draw similarity and difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-003",
+      "alt_text": "📖 Draw similarity and difference; 🔎 feeling; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Meaningful shared feature and contrast are clearly tied to the two events",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Meaningful shared feature and contrast are clearly tied to the two events This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_02_strategy",
+    "question": "Which tip would help you draw similarity and difference?",
+    "audio_prompt": "Which tip would help you draw similarity and difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-004",
+      "alt_text": "🧠 Draw similarity and difference; ➡️ Notice part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_03_answer",
+    "question": "Which response would correctly repair an overclaim?",
+    "audio_prompt": "Which response would correctly repair an overclaim?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-005",
+      "alt_text": "📖 Repair an overclaim; 🔎 thought; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The character must feel exactly as I did",
+        "is_correct": false
+      },
+      {
+        "text": "Connection suggests possibilities, but character evidence and different circumstances matter",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connection suggests possibilities, but character evidence and different circumstances matter This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_03_strategy",
+    "question": "Which tip would help you repair an overclaim?",
+    "audio_prompt": "Which tip would help you repair an overclaim?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-006",
+      "alt_text": "🧠 Repair an overclaim; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for thought and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_04_answer",
+    "question": "Which response would correctly build a complete response?",
+    "audio_prompt": "Which response would correctly build a complete response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-007",
+      "alt_text": "📖 Build a complete response; 🔎 experience; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All five elements are present and relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All five elements are present and relevant This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_04_strategy",
+    "question": "Which tip would help you build a complete response?",
+    "audio_prompt": "Which tip would help you build a complete response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-008",
+      "alt_text": "🧠 Build a complete response; ➡️ Explain response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use text evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use text evidence.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-009",
+      "alt_text": "📖 Rule; 🔎 discussion; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the rule for this English skill",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the rule for this English skill This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-010",
+      "alt_text": "🧠 Rule; ➡️ Listen/read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-011",
+      "alt_text": "📖 Worked example; 🔎 connection; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "'The character felt nervous on the first day",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The character felt nervous on the first day This matches the task.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Notice part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen first, then respond.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listen first, then respond.",
+      "hint": "Listen first, then respond."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_07_answer",
+    "question": "Which statement correctly explains this discussion language?",
+    "audio_prompt": "Which statement correctly explains this discussion language?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-013",
+      "alt_text": "📖 Discussion language; 🔎 feeling; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use This reminds me of ___ , Both ___ , Unlike ___ , and I understand the character because ___",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use This reminds me of ___ , Both ___ , Unlike ___ , and I understand the character because ___ This matches the task.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_07_strategy",
+    "question": "Which tip would help you discussion language?",
+    "audio_prompt": "Which tip would help you discussion language?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-014",
+      "alt_text": "🧠 Discussion language; ➡️ Connect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "hint": "Add your thought, feeling or connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-015",
+      "alt_text": "📖 Common trap; 🔎 thought; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Give a connection that is too vague.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "A connection must help discuss the text; sharing an unrelated memory does not explain character or event.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A connection must help discuss the text; sharing an unrelated memory does not explain character or event. This matches the task.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  },
+  {
+    "id": "AC9E1LE02-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE02",
+    "bank": "test",
+    "skill": "ac9e1le02_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Explain response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for thought and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not listen first, then respond.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out your thought, feeling or connection.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for thought and check the whole example.",
+      "hint": "Name the part of the text that made the connection."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LY10-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_01_answer",
+    "question": "Which response would correctly add an initial sound?",
+    "audio_prompt": "Which response would correctly add an initial sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-001",
+      "alt_text": "📖 Add an initial sound; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Cat",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cat This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_01_strategy",
+    "question": "Which tip would help you add an initial sound?",
+    "audio_prompt": "Which tip would help you add an initial sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-002",
+      "alt_text": "🧠 Add an initial sound; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the sounds aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_02_answer",
+    "question": "Which response would correctly match changes and words?",
+    "audio_prompt": "Which response would correctly match changes and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-003",
+      "alt_text": "📖 Match changes and words; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Stop minus /s/ ↔ tap; map /m/→/t/ ↔ spin; /s/+pin ↔ top",
+        "is_correct": false
+      },
+      {
+        "text": "/t/ ↔ tap; /s/+pin ↔ spin → Stop minus /s/ ↔ top; map /m/",
+        "is_correct": false
+      },
+      {
+        "text": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_02_strategy",
+    "question": "Which tip would help you match changes and words?",
+    "audio_prompt": "Which tip would help you match changes and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-004",
+      "alt_text": "🧠 Match changes and words; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_03_answer",
+    "question": "Which response would correctly move a middle-sound token?",
+    "audio_prompt": "Which response would correctly move a middle-sound token?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-005",
+      "alt_text": "📖 Move a middle-sound token; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Cot; /k/ /o/ /t/",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cot; /k/ /o/ /t/ This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_03_strategy",
+    "question": "Which tip would help you move a middle-sound token?",
+    "audio_prompt": "Which tip would help you move a middle-sound token?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-006",
+      "alt_text": "🧠 Move a middle-sound token; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for substitute and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_04_answer",
+    "question": "Which response would correctly change a final sound?",
+    "audio_prompt": "Which response would correctly change a final sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-007",
+      "alt_text": "📖 Change a final sound; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Mat",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mat This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_04_strategy",
+    "question": "Which tip would help you change a final sound?",
+    "audio_prompt": "Which tip would help you change a final sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-008",
+      "alt_text": "🧠 Change a final sound; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can change initial sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can change initial sounds.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_05_answer",
+    "question": "Which response would correctly order a deletion?",
+    "audio_prompt": "Which response would correctly order a deletion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-009",
+      "alt_text": "📖 Order a deletion; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "top → blend /t o p/ → identify/remove /s/ → Say stop",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Say stop → identify/remove /s/ → blend /t o p/ → top",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say stop → identify/remove /s/ → blend /t o p/ → top This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_05_strategy",
+    "question": "Which tip would help you order a deletion?",
+    "audio_prompt": "Which tip would help you order a deletion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-010",
+      "alt_text": "🧠 Order a deletion; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing initial-phoneme deletion.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing initial-phoneme deletion.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_06_answer",
+    "question": "Which response would correctly draw sound-change boxes?",
+    "audio_prompt": "Which response would correctly draw sound-change boxes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-011",
+      "alt_text": "📖 Draw sound-change boxes; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Shows /p/ /i/ /n/ changing only middle to /a/; pan",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Shows /p/ /i/ /n/ changing only middle to /a/; pan This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_06_strategy",
+    "question": "Which tip would help you draw sound-change boxes?",
+    "audio_prompt": "Which tip would help you draw sound-change boxes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-012",
+      "alt_text": "🧠 Draw sound-change boxes; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise start, middle and end positions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_07_answer",
+    "question": "Which response would correctly identify changed position?",
+    "audio_prompt": "Which response would correctly identify changed position?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-013",
+      "alt_text": "📖 Identify changed position; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Final position; /n/ changed to /m/",
+        "is_correct": true
+      },
+      {
+        "text": "substitute position; /n/ changed to /m/",
+        "is_correct": false
+      },
+      {
+        "text": "initial position; /n/ changed to /m/",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Final position; /n/ changed to /m/ This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_07_strategy",
+    "question": "Which tip would help you identify changed position?",
+    "audio_prompt": "Which tip would help you identify changed position?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-014",
+      "alt_text": "🧠 Identify changed position; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_08_answer",
+    "question": "Which response would correctly make three new words?",
+    "audio_prompt": "Which response would correctly make three new words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-015",
+      "alt_text": "📖 Make three new words; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Three valid examples such as can, pin and pat, with only named position changed each time",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three valid examples such as can, pin and pat, with only named position changed each time This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_08_strategy",
+    "question": "Which tip would help you make three new words?",
+    "audio_prompt": "Which tip would help you make three new words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-016",
+      "alt_text": "🧠 Make three new words; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for substitute and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_01_answer",
+    "question": "Which response would correctly delete a final sound?",
+    "audio_prompt": "Which response would correctly delete a final sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-017",
+      "alt_text": "📖 Delete a final sound; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "farm",
+        "is_correct": false
+      },
+      {
+        "text": "Far",
+        "is_correct": true
+      },
+      {
+        "text": "m",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Far This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_01_strategy",
+    "question": "Which tip would help you delete a final sound?",
+    "audio_prompt": "Which tip would help you delete a final sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-018",
+      "alt_text": "🧠 Delete a final sound; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can change initial sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can change initial sounds.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_02_answer",
+    "question": "Which response would correctly match medial substitutions?",
+    "audio_prompt": "Which response would correctly match medial substitutions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-019",
+      "alt_text": "📖 Match medial substitutions; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_02_strategy",
+    "question": "Which tip would help you match medial substitutions?",
+    "audio_prompt": "Which tip would help you match medial substitutions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-020",
+      "alt_text": "🧠 Match medial substitutions; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Exploring medial phoneme changes including a possible nonword.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Exploring medial phoneme changes including a possible nonword.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_03_answer",
+    "question": "Which response would correctly sequence sound addition?",
+    "audio_prompt": "Which response would correctly sequence sound addition?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-021",
+      "alt_text": "📖 Sequence sound addition; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "blend plant → add/identify initial /p/ → Say lant",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Say lant → add/identify initial /p/ → blend plant",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say lant → add/identify initial /p/ → blend plant This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_03_strategy",
+    "question": "Which tip would help you sequence sound addition?",
+    "audio_prompt": "Which tip would help you sequence sound addition?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-022",
+      "alt_text": "🧠 Sequence sound addition; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change only the sound named.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change only the sound named.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_04_answer",
+    "question": "Which response would correctly substitute in a cluster word?",
+    "audio_prompt": "Which response would correctly substitute in a cluster word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-023",
+      "alt_text": "📖 Substitute in a cluster word; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip, using /s/ /k/ /i/ /p/",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Skip, using /s/ /k/ /i/ /p/ This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "practice",
+    "skill": "ac9e1ly10_04_strategy",
+    "question": "Which tip would help you substitute in a cluster word?",
+    "audio_prompt": "Which tip would help you substitute in a cluster word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-p-024",
+      "alt_text": "🧠 Substitute in a cluster word; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_01_answer",
+    "question": "Which response would correctly demonstrate a sound chain?",
+    "audio_prompt": "Which response would correctly demonstrate a sound chain?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
+      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
+        "is_correct": true
+      },
+      {
+        "text": "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_01_strategy",
+    "question": "Which tip would help you demonstrate a sound chain?",
+    "audio_prompt": "Which tip would help you demonstrate a sound chain?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
+      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the sounds aloud.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_02_answer",
+    "question": "Which response would correctly draw addition and deletion?",
+    "audio_prompt": "Which response would correctly draw addition and deletion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003",
+      "alt_text": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+        "is_correct": false
+      },
+      {
+        "text": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_02_strategy",
+    "question": "Which tip would help you draw addition and deletion?",
+    "audio_prompt": "Which tip would help you draw addition and deletion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004",
+      "alt_text": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_03_answer",
+    "question": "Which response would correctly correct a two-sound change?",
+    "audio_prompt": "Which response would correctly correct a two-sound change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005",
+      "alt_text": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
+        "is_correct": false
+      },
+      {
+        "text": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_03_strategy",
+    "question": "Which tip would help you correct a two-sound change?",
+    "audio_prompt": "Which tip would help you correct a two-sound change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006",
+      "alt_text": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for substitute and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_04_answer",
+    "question": "Which response would correctly solve a manipulation set?",
+    "audio_prompt": "Which response would correctly solve a manipulation set?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007",
+      "alt_text": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named",
+        "is_correct": true
+      },
+      {
+        "text": "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_04_strategy",
+    "question": "Which tip would help you solve a manipulation set?",
+    "audio_prompt": "Which tip would help you solve a manipulation set?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008",
+      "alt_text": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can change initial sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can change initial sounds.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-009",
+      "alt_text": "📖 Rule; 🔎 final; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the rule for this English skill",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the rule for this English skill This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-010",
+      "alt_text": "🧠 Rule; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-011",
+      "alt_text": "📖 Worked example; 🔎 add; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the middle /i/ in pin to /e/: /p/ /e/ /n/ makes pen. Only the medial phoneme changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change the middle /i/ in pin to /e/: /p/ /e/ /n/ makes pen. Only the medial phoneme changes. This matches the task.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Change sound; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise start, middle and end positions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_07_answer",
+    "question": "Which statement correctly explains this sound strategy?",
+    "audio_prompt": "Which statement correctly explains this sound strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-013",
+      "alt_text": "📖 Sound strategy; 🔎 delete; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Say the word, map one token per sound, change the named token, then blend the new sounds and check the word.",
+        "is_correct": true
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Say the word, map one token per sound, change the named token, then blend the new sounds and check the word. This matches the task.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_07_strategy",
+    "question": "Which tip would help you sound strategy?",
+    "audio_prompt": "Which tip would help you sound strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-014",
+      "alt_text": "🧠 Sound strategy; ➡️ Say new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "hint": "Say the sounds aloud."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-015",
+      "alt_text": "📖 Common trap; 🔎 substitute; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Change more than one sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change only the named phoneme; replacing or reordering extra sounds creates a different task.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change only the named phoneme; replacing or reordering extra sounds creates a different task. This matches the task.",
+      "hint": "Change only the sound named."
+    }
+  },
+  {
+    "id": "AC9E1LY10-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY10",
+    "bank": "test",
+    "skill": "ac9e1ly10_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Check meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for substitute and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Forget middle/final sounds.",
+        "is_correct": false
+      },
+      {
+        "text": "Change letters silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for substitute and check the whole example.",
+      "hint": "Change only the sound named."
+    }
+  }
+]

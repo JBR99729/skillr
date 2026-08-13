@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LA06-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_01_answer",
+    "question": "Is 'Birds sing.' a complete simple sentence? Explain briefly.",
+    "audio_prompt": "Is 'Birds sing.' a complete simple sentence? Explain briefly.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-001",
+      "alt_text": "📖 Identify a complete sentence; 🔎 who/what; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Yes; Birds names who/what and sing tells what they do",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; Birds names what happened and sing tells what they do",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; Birds names complete idea and sing tells what they do",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Yes; Birds names who/what and sing tells what they do This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_01_strategy",
+    "question": "Which tip would help you identify a complete sentence?",
+    "audio_prompt": "Which tip would help you identify a complete sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-002",
+      "alt_text": "🧠 Identify a complete sentence; ➡️ Choose idea; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the person, place or thing doing the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add the person, place or thing doing the action.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_02_answer",
+    "question": "Which response would correctly match sentence parts?",
+    "audio_prompt": "Which response would correctly match sentence parts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-003",
+      "alt_text": "📖 Match sentence parts; 🔎 what happened; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Dog ↔ are wet; shoes ↔ falls; rain ↔ barks",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_02_strategy",
+    "question": "Which tip would help you match sentence parts?",
+    "audio_prompt": "Which tip would help you match sentence parts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-004",
+      "alt_text": "🧠 Match sentence parts; ➡️ Say sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_03_answer",
+    "question": "Which response would correctly build one sentence?",
+    "audio_prompt": "Which response would correctly build one sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-005",
+      "alt_text": "📖 Build one sentence; 🔎 complete idea; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The silver fish",
+        "is_correct": false
+      },
+      {
+        "text": "'The silver fish swims quickly.' with complete meaning",
+        "is_correct": true
+      },
+      {
+        "text": "swims quickly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The silver fish swims quickly.' with complete meaning This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_03_strategy",
+    "question": "Which tip would help you build one sentence?",
+    "audio_prompt": "Which tip would help you build one sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-006",
+      "alt_text": "🧠 Build one sentence; ➡️ Check it makes sense; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for complete idea and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for complete idea and check the whole example.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_04_answer",
+    "question": "Which response would correctly repair a fragment?",
+    "audio_prompt": "Which response would correctly repair a fragment?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-007",
+      "alt_text": "📖 Repair a fragment; 🔎 full stop; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'A rabbit waits beside the tall tree.'",
+        "is_correct": true
+      },
+      {
+        "text": "Beside the tall tree",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "'A rabbit waits beside the tall tree.' This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_04_strategy",
+    "question": "Which tip would help you repair a fragment?",
+    "audio_prompt": "Which tip would help you repair a fragment?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-008",
+      "alt_text": "🧠 Repair a fragment; ➡️ Add boundary punctuation; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use boundary punctuation.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_05_answer",
+    "question": "Which response would correctly order a sentence?",
+    "audio_prompt": "Which response would correctly order a sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-009",
+      "alt_text": "📖 Order a sentence; 🔎 who/what; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "The bird sings softly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The bird sings softly. This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_05_strategy",
+    "question": "Which tip would help you order a sentence?",
+    "audio_prompt": "Which tip would help you order a sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-010",
+      "alt_text": "🧠 Order a sentence; ➡️ Choose idea; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing words into a grammatical simple sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing words into a grammatical simple sentence.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_06_answer",
+    "question": "Which response would correctly draw sentence meaning?",
+    "audio_prompt": "Which response would correctly draw sentence meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-011",
+      "alt_text": "📖 Draw sentence meaning; 🔎 what happened; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The puppy carries a red sock",
+        "is_correct": false
+      },
+      {
+        "text": "Drawing matches one event; puppy labelled who/what and carries sock labelled action",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Drawing matches one event; puppy labelled who/what and carries sock labelled action This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_06_strategy",
+    "question": "Which tip would help you draw sentence meaning?",
+    "audio_prompt": "Which tip would help you draw sentence meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-012",
+      "alt_text": "🧠 Draw sentence meaning; ➡️ Say sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with a capital and end with punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Start with a capital and end with punctuation.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_07_answer",
+    "question": "Which response would correctly find two events?",
+    "audio_prompt": "Which response would correctly find two events?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-013",
+      "alt_text": "📖 Find two events; 🔎 complete idea; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Bell rang; children ran",
+        "is_correct": true
+      },
+      {
+        "text": "The bell rang and the children ran",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bell rang; children ran This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_07_strategy",
+    "question": "Which tip would help you find two events?",
+    "audio_prompt": "Which tip would help you find two events?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-014",
+      "alt_text": "🧠 Find two events; ➡️ Check it makes sense; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_08_answer",
+    "question": "Which response would correctly create from a picture?",
+    "audio_prompt": "Which response would correctly create from a picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-015",
+      "alt_text": "📖 Create from a picture; 🔎 full stop; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "'Mina waters the plant.' with subject and verb, capital and full stop",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "'Mina waters the plant.' with subject and verb, capital and full stop This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_08_strategy",
+    "question": "Which tip would help you create from a picture?",
+    "audio_prompt": "Which tip would help you create from a picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-016",
+      "alt_text": "🧠 Create from a picture; ➡️ Add boundary punctuation; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for full stop and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for full stop and check the whole example.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_01_answer",
+    "question": "Why is 'Because the rain stopped' incomplete when it stands alone?",
+    "audio_prompt": "Why is 'Because the rain stopped' incomplete when it stands alone?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-017",
+      "alt_text": "📖 Check an incomplete clause; 🔎 who/what; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Because the rain stopped",
+        "is_correct": false
+      },
+      {
+        "text": "Because signals that another idea is needed; the clause does not complete the relationship by itself",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Because signals that another idea is needed; the clause does not complete the relationship by itself This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_01_strategy",
+    "question": "Which tip would help you check an incomplete clause?",
+    "audio_prompt": "Which tip would help you check an incomplete clause?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-018",
+      "alt_text": "🧠 Check an incomplete clause; ➡️ Choose idea; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use boundary punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use boundary punctuation.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_02_answer",
+    "question": "Which response would correctly match beginnings and endings?",
+    "audio_prompt": "Which response would correctly match beginnings and endings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-019",
+      "alt_text": "📖 Match beginnings and endings; 🔎 what happened; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each subject matches a grammatical meaningful predicate",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each subject matches a grammatical meaningful predicate This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_02_strategy",
+    "question": "Which tip would help you match beginnings and endings?",
+    "audio_prompt": "Which tip would help you match beginnings and endings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-020",
+      "alt_text": "🧠 Match beginnings and endings; ➡️ Say sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Forming complete simple sentences.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Forming complete simple sentences.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_03_answer",
+    "question": "Which response would correctly sequence with details?",
+    "audio_prompt": "Which response would correctly sequence with details?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-021",
+      "alt_text": "📖 Sequence with details; 🔎 complete idea; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "The sleepy cat rests after lunch.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sleepy cat rests after lunch. This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_03_strategy",
+    "question": "Which tip would help you sequence with details?",
+    "audio_prompt": "Which tip would help you sequence with details?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-022",
+      "alt_text": "🧠 Sequence with details; ➡️ Check it makes sense; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Keep one clear event or idea.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep one clear event or idea.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_04_answer",
+    "question": "Which response would correctly remove an extra event?",
+    "audio_prompt": "Which response would correctly remove an extra event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-023",
+      "alt_text": "📖 Remove an extra event; 🔎 full stop; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The train stopped and people got off",
+        "is_correct": false
+      },
+      {
+        "text": "'The train stopped.' or another one-event train clause",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The train stopped.' or another one-event train clause This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "practice",
+    "skill": "ac9e1la06_04_strategy",
+    "question": "Which tip would help you remove an extra event?",
+    "audio_prompt": "Which tip would help you remove an extra event?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-p-024",
+      "alt_text": "🧠 Remove an extra event; ➡️ Add boundary punctuation; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_01_answer",
+    "question": "Which response would correctly demonstrate complete and incomplete?",
+    "audio_prompt": "Which response would correctly demonstrate complete and incomplete?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001",
+      "alt_text": "📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Complete example expresses who/what plus event/state; fragment lacks a necessary part",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Complete example expresses who/what plus event/state; fragment lacks a necessary part This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_01_strategy",
+    "question": "Which tip would help you demonstrate complete and incomplete?",
+    "audio_prompt": "Which tip would help you demonstrate complete and incomplete?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002",
+      "alt_text": "🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Add the person, place or thing doing the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add the person, place or thing doing the action.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_02_answer",
+    "question": "Which response would correctly draw two clause parts?",
+    "audio_prompt": "Which response would correctly draw two clause parts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-003",
+      "alt_text": "📖 Draw two clause parts; 🔎 what happened; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The bright kite",
+        "is_correct": false
+      },
+      {
+        "text": "flies above the park",
+        "is_correct": false
+      },
+      {
+        "text": "Correct two parts joined as 'The bright kite flies above the park.'",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Correct two parts joined as 'The bright kite flies above the park.' This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_02_strategy",
+    "question": "Which tip would help you draw two clause parts?",
+    "audio_prompt": "Which tip would help you draw two clause parts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-004",
+      "alt_text": "🧠 Draw two clause parts; ➡️ Say sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_03_answer",
+    "question": "Which response would correctly correct a run-together sentence?",
+    "audio_prompt": "Which response would correctly correct a run-together sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-005",
+      "alt_text": "📖 Correct a run-together sentence; 🔎 complete idea; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "I packed my bag I walked to school",
+        "is_correct": false
+      },
+      {
+        "text": "'I packed my bag. I walked to school.'",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'I packed my bag. I walked to school.' This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_03_strategy",
+    "question": "Which tip would help you correct a run-together sentence?",
+    "audio_prompt": "Which tip would help you correct a run-together sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-006",
+      "alt_text": "🧠 Correct a run-together sentence; ➡️ Check it makes sense; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for complete idea and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for complete idea and check the whole example.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_04_answer",
+    "question": "Which response would correctly analyse sentence additions?",
+    "audio_prompt": "Which response would correctly analyse sentence additions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-007",
+      "alt_text": "📖 Analyse sentence additions; 🔎 full stop; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details",
+        "is_correct": true
+      },
+      {
+        "text": "The fox rests",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Valid expanded sentence retains one clause/event; identifies rests as single main action despite added details This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_04_strategy",
+    "question": "Which tip would help you analyse sentence additions?",
+    "audio_prompt": "Which tip would help you analyse sentence additions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-008",
+      "alt_text": "🧠 Analyse sentence additions; ➡️ Add boundary punctuation; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use boundary punctuation.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-009",
+      "alt_text": "📖 Rule; 🔎 who/what; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "A simple sentence expresses one complete event or idea",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simple sentence expresses one complete event or idea This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-010",
+      "alt_text": "🧠 Rule; ➡️ Choose idea; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-011",
+      "alt_text": "📖 Worked example; 🔎 what happened; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "'The tiny frog jumps.' is complete: the frog is who, and jumps tells what happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The tiny frog jumps.' is complete: the frog is who, and jumps tells what happens. This matches the task.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Say sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with a capital and end with punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Start with a capital and end with punctuation.",
+      "hint": "Start with a capital and end with punctuation."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_07_answer",
+    "question": "Which statement correctly explains this sentence check?",
+    "audio_prompt": "Which statement correctly explains this sentence check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-013",
+      "alt_text": "📖 Sentence check; 🔎 complete idea; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use the sentence check for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the sentence check for this English skill This matches the task.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_07_strategy",
+    "question": "Which tip would help you sentence check?",
+    "audio_prompt": "Which tip would help you sentence check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-014",
+      "alt_text": "🧠 Sentence check; ➡️ Check it makes sense; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Choose idea → Say sentence → Check it makes sense → Add boundary punctuation.",
+      "hint": "Add the person, place or thing doing the action."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-015",
+      "alt_text": "📖 Common trap; 🔎 full stop; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not keep one clear event or idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "'Under the old bridge' gives detail but is not a complete sentence because it does not state what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "'Under the old bridge' gives detail but is not a complete sentence because it does not state what happens. This matches the task.",
+      "hint": "Keep one clear event or idea."
+    }
+  },
+  {
+    "id": "AC9E1LA06-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA06",
+    "bank": "test",
+    "skill": "ac9e1la06_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Add boundary punctuation; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for full stop and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out boundary mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out the person, place or thing doing the action.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for full stop and check the whole example.",
+      "hint": "Keep one clear event or idea."
+    }
+  }
+]

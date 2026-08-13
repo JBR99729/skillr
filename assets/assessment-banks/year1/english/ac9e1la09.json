@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LA09-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_01_answer",
+    "question": "Which word is topic vocabulary for where an animal lives: habitat, happy or quickly?",
+    "audio_prompt": "Which word is topic vocabulary for where an animal lives: habitat, happy or quickly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-001",
+      "alt_text": "📖 Identify a science word; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Habitat",
+        "is_correct": true
+      },
+      {
+        "text": "happy",
+        "is_correct": false
+      },
+      {
+        "text": "quickly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Habitat This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_01_strategy",
+    "question": "Which tip would help you identify a science word?",
+    "audio_prompt": "Which tip would help you identify a science word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-002",
+      "alt_text": "🧠 Identify a science word; ➡️ Hear word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect the word to meaning and topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect the word to meaning and topic.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_02_answer",
+    "question": "Which response would correctly match terms and subjects?",
+    "audio_prompt": "Which response would correctly match terms and subjects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-003",
+      "alt_text": "📖 Match terms and subjects; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Add ↔ Science; habitat ↔ English/Arts; rhythm ↔ Mathematics",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add ↔ Mathematics; habitat ↔ Science; rhythm ↔ English/Arts This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_02_strategy",
+    "question": "Which tip would help you match terms and subjects?",
+    "audio_prompt": "Which tip would help you match terms and subjects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-004",
+      "alt_text": "🧠 Match terms and subjects; ➡️ Link to topic; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_03_answer",
+    "question": "Which response would correctly use a glossary?",
+    "audio_prompt": "Which response would correctly use a glossary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-005",
+      "alt_text": "📖 Use a glossary; 🔎 subject; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "capacity",
+        "is_correct": false
+      },
+      {
+        "text": "Locates C entry and explains capacity as how much a container can hold",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Locates C entry and explains capacity as how much a container can hold This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_03_strategy",
+    "question": "Which tip would help you use a glossary?",
+    "audio_prompt": "Which tip would help you use a glossary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-006",
+      "alt_text": "🧠 Use a glossary; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for subject and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for subject and check the whole example.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_04_answer",
+    "question": "Which response would correctly infer from context?",
+    "audio_prompt": "Which response would correctly infer from context?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-007",
+      "alt_text": "📖 Infer from context; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Pulls/draws closer",
+        "is_correct": true
+      },
+      {
+        "text": "The magnet attracts the clip, pulling it closer",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pulls/draws closer This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_04_strategy",
+    "question": "Which tip would help you infer from context?",
+    "audio_prompt": "Which tip would help you infer from context?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-008",
+      "alt_text": "🧠 Infer from context; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use in sentence.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_05_answer",
+    "question": "Which response would correctly order word learning?",
+    "audio_prompt": "Which response would correctly order word learning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-009",
+      "alt_text": "📖 Order word learning; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "use in sentence → check topic fit → read clues/definition → Notice",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice → read clues/definition → check topic fit → use in sentence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice → read clues/definition → check topic fit → use in sentence This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_05_strategy",
+    "question": "Which tip would help you order word learning?",
+    "audio_prompt": "Which tip would help you order word learning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-010",
+      "alt_text": "🧠 Order word learning; ➡️ Hear word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing a vocabulary-learning strategy.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing a vocabulary-learning strategy.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_06_answer",
+    "question": "Which response would correctly draw a vocabulary example?",
+    "audio_prompt": "Which response would correctly draw a vocabulary example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-011",
+      "alt_text": "📖 Draw a vocabulary example; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Shows groups with the same count and labels both terms meaningfully",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Shows groups with the same count and labels both terms meaningfully This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_06_strategy",
+    "question": "Which tip would help you draw a vocabulary example?",
+    "audio_prompt": "Which tip would help you draw a vocabulary example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-012",
+      "alt_text": "🧠 Draw a vocabulary example; ➡️ Link to topic; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise a sentence, not just a definition.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Practise a sentence, not just a definition.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_07_answer",
+    "question": "Which response would correctly compare everyday and maths meaning?",
+    "audio_prompt": "Which response would correctly compare everyday and maths meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-013",
+      "alt_text": "📖 Compare everyday and maths meaning; 🔎 subject; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "First is furniture; second is organised rows/columns of information",
+        "is_correct": true
+      },
+      {
+        "text": "table",
+        "is_correct": false
+      },
+      {
+        "text": "set the table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "First is furniture; second is organised rows/columns of information This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_07_strategy",
+    "question": "Which tip would help you compare everyday and maths meaning?",
+    "audio_prompt": "Which tip would help you compare everyday and maths meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-014",
+      "alt_text": "🧠 Compare everyday and maths meaning; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_08_answer",
+    "question": "Which response would correctly choose precise wording?",
+    "audio_prompt": "Which response would correctly choose precise wording?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-015",
+      "alt_text": "📖 Choose precise wording; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "the thing moved",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "'The push moved the object to the left direction/left' with terms used accurately",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "'The push moved the object to the left direction/left' with terms used accurately This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_08_strategy",
+    "question": "Which tip would help you choose precise wording?",
+    "audio_prompt": "Which tip would help you choose precise wording?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-016",
+      "alt_text": "🧠 Choose precise wording; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for sentence and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for sentence and check the whole example.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_01_answer",
+    "question": "What does length tell us about an object?",
+    "audio_prompt": "What does length tell us about an object?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-017",
+      "alt_text": "📖 Recognise a measurement term; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "How long it is from one end to the other",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How long it is from one end to the other This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_01_strategy",
+    "question": "Which tip would help you recognise a measurement term?",
+    "audio_prompt": "Which tip would help you recognise a measurement term?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-018",
+      "alt_text": "🧠 Recognise a measurement term; ➡️ Hear word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use in sentence.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_02_answer",
+    "question": "Which response would correctly match terms and examples?",
+    "audio_prompt": "Which response would correctly match terms and examples?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-019",
+      "alt_text": "📖 Match terms and examples; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each term matches its topic example",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each term matches its topic example This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_02_strategy",
+    "question": "Which tip would help you match terms and examples?",
+    "audio_prompt": "Which tip would help you match terms and examples?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-020",
+      "alt_text": "🧠 Match terms and examples; ➡️ Link to topic; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Connecting cross-curricular vocabulary with meanings.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connecting cross-curricular vocabulary with meanings.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_03_answer",
+    "question": "Which response would correctly sequence a diagram lookup?",
+    "audio_prompt": "Which response would correctly sequence a diagram lookup?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-021",
+      "alt_text": "📖 Sequence a diagram lookup; 🔎 subject; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "read definition/context → inspect image → follow line to part → Locate label",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Locate label → follow line to part → inspect image → read definition/context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Locate label → follow line to part → inspect image → read definition/context This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_03_strategy",
+    "question": "Which tip would help you sequence a diagram lookup?",
+    "audio_prompt": "Which tip would help you sequence a diagram lookup?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-022",
+      "alt_text": "🧠 Sequence a diagram lookup; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check the subject meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the subject meaning.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_04_answer",
+    "question": "Which response would correctly select a topic meaning?",
+    "audio_prompt": "Which response would correctly select a topic meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-023",
+      "alt_text": "📖 Select a topic meaning; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The mass of the bag is greater",
+        "is_correct": false
+      },
+      {
+        "text": "The measurement meaning related to how heavy the bag is at this level",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The measurement meaning related to how heavy the bag is at this level This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "practice",
+    "skill": "ac9e1la09_04_strategy",
+    "question": "Which tip would help you select a topic meaning?",
+    "audio_prompt": "Which tip would help you select a topic meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-p-024",
+      "alt_text": "🧠 Select a topic meaning; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_01_answer",
+    "question": "Which response would correctly demonstrate word teaching?",
+    "audio_prompt": "Which response would correctly demonstrate word teaching?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
+      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_01_strategy",
+    "question": "Which tip would help you demonstrate word teaching?",
+    "audio_prompt": "Which tip would help you demonstrate word teaching?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
+      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect the word to meaning and topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect the word to meaning and topic.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_02_answer",
+    "question": "Which response would correctly draw a mini word wall?",
+    "audio_prompt": "Which response would correctly draw a mini word wall?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-003",
+      "alt_text": "📖 Draw a mini word wall; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "All three are correctly defined/illustrated and assigned to suitable subjects",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All three are correctly defined/illustrated and assigned to suitable subjects This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_02_strategy",
+    "question": "Which tip would help you draw a mini word wall?",
+    "audio_prompt": "Which tip would help you draw a mini word wall?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-004",
+      "alt_text": "🧠 Draw a mini word wall; ➡️ Link to topic; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_03_answer",
+    "question": "Which response would correctly correct vague subject words?",
+    "audio_prompt": "Which response would correctly correct vague subject words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-005",
+      "alt_text": "📖 Correct vague subject words; 🔎 subject; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The stuff did something",
+        "is_correct": false
+      },
+      {
+        "text": "Example uses material, water/drop, absorbed/repelled, observation/result accurately",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Example uses material, water/drop, absorbed/repelled, observation/result accurately This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_03_strategy",
+    "question": "Which tip would help you correct vague subject words?",
+    "audio_prompt": "Which tip would help you correct vague subject words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-006",
+      "alt_text": "🧠 Correct vague subject words; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for subject and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for subject and check the whole example.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_04_answer",
+    "question": "Which response would correctly explain one word across topics?",
+    "audio_prompt": "Which response would correctly explain one word across topics?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-007",
+      "alt_text": "📖 Explain one word across topics; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two accurate topic-linked uses and two context sentences showing distinct or connected meanings This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_04_strategy",
+    "question": "Which tip would help you explain one word across topics?",
+    "audio_prompt": "Which tip would help you explain one word across topics?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-008",
+      "alt_text": "🧠 Explain one word across topics; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use in sentence.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-009",
+      "alt_text": "📖 Rule; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Topic vocabulary names ideas precisely in subjects such as Mathematics, Science, Health and the Arts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Topic vocabulary names ideas precisely in subjects such as Mathematics, Science, Health and the Arts This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-010",
+      "alt_text": "🧠 Rule; ➡️ Hear word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-011",
+      "alt_text": "📖 Worked example; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the worked example for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the worked example for this English skill This matches the task.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Link to topic; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise a sentence, not just a definition.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Practise a sentence, not just a definition.",
+      "hint": "Practise a sentence, not just a definition."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_07_answer",
+    "question": "Which statement correctly explains this word-learning strategy?",
+    "audio_prompt": "Which statement correctly explains this word-learning strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-013",
+      "alt_text": "📖 Word-learning strategy; 🔎 subject; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use the word-learning strategy for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the word-learning strategy for this English skill This matches the task.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_07_strategy",
+    "question": "Which tip would help you word-learning strategy?",
+    "audio_prompt": "Which tip would help you word-learning strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-014",
+      "alt_text": "🧠 Word-learning strategy; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Hear word → Link to topic → Use in sentence → Explain.",
+      "hint": "Connect the word to meaning and topic."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-015",
+      "alt_text": "📖 Common trap; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the subject meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Some words have everyday and topic meanings, so the sentence and subject determine which meaning fits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Some words have everyday and topic meanings, so the sentence and subject determine which meaning fits. This matches the task.",
+      "hint": "Check the subject meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA09-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA09",
+    "bank": "test",
+    "skill": "ac9e1la09_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for sentence and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use in sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the word's sound and not its meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for sentence and check the whole example.",
+      "hint": "Check the subject meaning."
+    }
+  }
+]
