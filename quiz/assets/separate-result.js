@@ -6,34 +6,14 @@ document.addEventListener("DOMContentLoaded", () => {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
 
-  const logoSources = [
-    "/icons/icon-512.png",
-    "/icons/apple-touch-icon.png"
-  ];
+  const certificateBrandMark = `<svg class="certificate-mark" viewBox="0 0 96 96" role="img" aria-label="SkillrHub Learn and Grow"><path class="mark-book" d="M12 60V24c14-2 26 2 36 12 10-10 22-14 36-12v36c-14-2-26 2-36 12-10-10-22-14-36-12Z"/><path class="mark-fold" d="M48 36v36"/><path class="mark-s" d="M38 35c-3-4-12-4-14 1-3 8 17 5 14 15-2 7-13 7-18 2"/><path class="mark-h" d="M58 33v22m16-22v22M58 44h16"/></svg>`;
 
-  async function fetchImageDataUrl(url) {
-    try {
-      const response = await fetch(url, { credentials: "same-origin" });
-      if (!response.ok) return null;
-      const blob = await response.blob();
-      return await new Promise((resolve) => {
-        const reader = new FileReader();
-        reader.onload = () => resolve(reader.result);
-        reader.onerror = () => resolve(null);
-        reader.readAsDataURL(blob);
-      });
-    } catch {
-      return null;
-    }
-  }
-
-  async function loadLogoDataUrl() {
-    for (const url of logoSources) {
-      const dataUrl = await fetchImageDataUrl(url);
-      if (dataUrl) return dataUrl;
-    }
-    return null;
-  }
+  const certificateFooter = `<footer class="certificate-footer" aria-label="SkillrHub values">
+    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5.5c3.5-.8 6.5 0 9 2.3v12c-2.5-2-5.5-2.7-9-2V5.5Zm18 0c-3.5-.8-6.5 0-9 2.3v12c2.5-2 5.5-2.7 9-2V5.5Z"/></svg><span>Educational Focus</span></div>
+    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10h16v10H4V10Zm-1-4h18v4H3V6Zm9 0v14M12 6C9 6 7 4.8 7 3.5 7 2.3 8 2 9 2c2 0 3 2.2 3 4Zm0 0c3 0 5-1.2 5-2.5C17 2.3 16 2 15 2c-2 0-3 2.2-3 4Z"/></svg><span>Free Resources</span></div>
+    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="8" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M2.5 20c.3-4 2.2-6 5.5-6s5.2 2 5.5 6m0-4.5c.8-1 2-1.5 3.5-1.5 2.8 0 4.2 2 4.5 6h-5.5"/></svg><span>For Everyone</span></div>
+    <div class="footer-item"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20S4 15.3 4 9.2C4 4.5 9.8 3 12 7c2.2-4 8-2.5 8 2.2C20 15.3 12 20 12 20Z"/></svg><span>Built with Purpose</span></div>
+  </footer>`;
 
   async function printCertificate(data) {
     const certificateWindow = window.open("", "_blank");
@@ -43,11 +23,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     try {
-      const logoDataUrl = await loadLogoDataUrl();
-      const logoMarkup = logoDataUrl
-        ? `<img class="certificate-logo" src="${escapeCertificateText(logoDataUrl)}" alt="">`
-        : "";
-
       certificateWindow.document.write(`<!DOCTYPE html>
       <html lang="en-AU"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
       <title>SkillrHub Completion Certificate</title>
@@ -55,17 +30,19 @@ document.addEventListener("DOMContentLoaded", () => {
         @page{size:Letter portrait;margin:.35in}
         *{box-sizing:border-box}
         html,body{margin:0;padding:0;font-family:Arial,sans-serif;color:#1f2937;background:#fff}
-        .certificate{width:7.8in;min-height:9.75in;margin:0 auto;padding:.55in;display:flex;flex-direction:column;justify-content:center;border:8px solid #1a3a72;background:#fff;text-align:center;break-inside:avoid;page-break-inside:avoid;overflow:hidden}
-        .certificate-logo{display:block;width:1.05in;height:1.05in;margin:0 auto .15in;object-fit:contain}
-        p{margin:.12in 0}.brand{color:#1a3a72;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+        .certificate{width:7.8in;min-height:9.75in;margin:0 auto;padding:.48in .55in .36in;display:flex;flex-direction:column;border:8px solid #1a3a72;background:#fff;text-align:center;break-inside:avoid;page-break-inside:avoid;overflow:hidden}
+        .certificate-header{display:flex;align-items:center;justify-content:center;gap:.14in}.certificate-mark{width:.82in;height:.82in}.mark-book{fill:#edf3ff;stroke:#1a3a72;stroke-width:4;stroke-linejoin:round}.mark-fold,.mark-s,.mark-h{fill:none;stroke:#1a3a72;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.mark-s,.mark-h{stroke:#d68a00}
+        .certificate-main{display:flex;flex:1;flex-direction:column;justify-content:center;padding:.12in 0 .24in}
+        p{margin:.12in 0}.brand{margin:0;color:#1a3a72;font-size:18px;font-weight:800;letter-spacing:.08em;text-align:left;text-transform:uppercase}.tagline{display:block;color:#58677d;font-size:11px;font-weight:700;letter-spacing:.12em;margin-top:4px}
         h1{margin:.2in 0;font-size:34px}.student{margin:.2in 0;font-size:30px;font-weight:800;overflow-wrap:anywhere}
         h2{margin:.16in 0;font-size:24px;line-height:1.2;overflow-wrap:anywhere}.score{font-size:20px}
+        .certificate-footer{display:grid;grid-template-columns:repeat(4,1fr);gap:.08in;padding-top:.18in;border-top:1px solid #aab7ca;color:#1a3a72}.footer-item{display:flex;align-items:center;justify-content:center;gap:6px;min-width:0;font-size:9px;font-weight:700;line-height:1.15}.footer-item svg{width:17px;height:17px;flex:0 0 17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
         @media print{html,body{width:7.8in;height:10.3in}.certificate{width:7.8in;min-height:9.75in;max-height:10.3in}}
       </style></head><body><section class="certificate">
-        ${logoMarkup}<p class="brand">SkillrHub Learning</p><h1>Completion Certificate</h1><p>This certifies that</p>
+        <header class="certificate-header">${certificateBrandMark}<p class="brand">SkillrHub<span class="tagline">Learn &amp; Grow</span></p></header><main class="certificate-main"><h1>Completion Certificate</h1><p>This certifies that</p>
         <p class="student">${escapeCertificateText(data.studentName || "Student")}</p><p>successfully completed</p>
         <h2>${escapeCertificateText(data.quizTitle || data.quizLabel || "SkillrHub test")}</h2>
-        <p class="score">Score: ${Number(data.percentage) || 0}%</p><p>skillrhub.com</p>
+        <p class="score">Score: ${Number(data.percentage) || 0}%</p><p>skillrhub.com</p></main>${certificateFooter}
       </section></body></html>`);
       certificateWindow.document.close();
       certificateWindow.focus();
