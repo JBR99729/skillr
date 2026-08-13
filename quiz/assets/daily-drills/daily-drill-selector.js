@@ -34,16 +34,18 @@
   const generator=generators[subject];
   const baselineSets=subject==="math"?30:25;
   const baselineExpected=subject==="math"?240:200;
-  const coreBank=generator?.generate?.(year,skill)||[];
+  const productionBank=window.SkillrDailyProductionBanks?.[year]?.[subject]?.[skill];
+  const usesProductionBank=Array.isArray(productionBank)&&productionBank.length>0;
+  const coreBank=usesProductionBank?[]:(generator?.generate?.(year,skill)||[]);
   const extensionBank=window.SkillrDailyQuestionExtensions?.[year]?.[subject]?.[skill];
-  const extraBank=Array.isArray(extensionBank)?extensionBank:[];
+  const extraBank=usesProductionBank?productionBank:(Array.isArray(extensionBank)?extensionBank:[]);
   const bank=[...coreBank,...extraBank];
   const expected=bank.length;
   const usesQuestionRound=extraBank.length>0;
   const sets=usesQuestionRound?Math.ceil(expected/8):baselineSets;
   window.skillrWorksheetQuestions=bank;
 
-  if(coreBank.length!==baselineExpected){
+  if(!usesProductionBank&&coreBank.length!==baselineExpected){
     console.warn(`Expected ${baselineExpected} core questions; generated ${coreBank.length}.`);
   }
 
