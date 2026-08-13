@@ -4,6 +4,7 @@ from __future__ import annotations
 import html,json,re,subprocess
 from collections import defaultdict
 from datetime import date
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import quote,unquote,urlparse
 ROOT=Path(__file__).resolve().parents[1]; BASE="https://skillrhub.com"
@@ -13,6 +14,43 @@ FUNCTIONAL_PARTS={"result","results","review","retake"}
 EXCLUDED_FILES={"offline.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 SECTION_LABELS={"foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
+SEARCH_SKIP_TAGS={"script","style","svg","noscript","template"}
+COMMON_FACTOR_RE=re.compile(r"(?:lowest common multiple|highest common factor|greatest common divisor)",re.I)
+
+class VisibleTextParser(HTMLParser):
+ def __init__(self):super().__init__();self.skip=0;self.parts=[]
+ def handle_starttag(self,tag,attrs):
+  if tag in SEARCH_SKIP_TAGS:self.skip+=1
+ def handle_endtag(self,tag):
+  if tag in SEARCH_SKIP_TAGS and self.skip:self.skip-=1
+ def handle_data(self,data):
+  if not self.skip:self.parts.append(data)
+
+def search_words(value):
+ seen=set();words=[]
+ for word in re.findall(r"[a-z0-9]+",html.unescape(value).lower()):
+  if len(word)>1 and word not in seen:seen.add(word);words.append(word)
+ return " ".join(words)
+
+def visible_search_text(source):
+ parser=VisibleTextParser();parser.feed(source)
+ return search_words(" ".join(parser.parts))
+
+def write_search_index(pages):
+ items=[{"t":title,"u":url,"x":visible_search_text(source)} for url,title,_,source in pages]
+ manifest=ROOT/"data"/"curriculum-units.json"
+ if manifest.exists():
+  units=json.loads(manifest.read_text(encoding="utf-8")).get("units",[])
+  for unit in units:
+   for elaboration in unit.get("elaborations",[]):
+    text=elaboration.get("text","");code=elaboration.get("code") or "_".join(filter(None,(unit.get("code"),elaboration.get("number"))))
+    common=bool(COMMON_FACTOR_RE.search(text));aliases="greatest common factor highest common factor greatest common divisor gcf hcf gcd" if common else ""
+    title=f"Greatest/Highest Common Factors (GCF/HCF/GCD) — {code}" if common else f"{code} — {text[:120]}"
+    searchable=" ".join(filter(None,(code,unit.get("code",""),text,unit.get("title",""),unit.get("levelLabel") or unit.get("level",""),unit.get("subject") or unit.get("learningArea",""),aliases,unit.get("url",""))))
+    items.append({"t":title,"u":unit.get("url",""),"x":search_words(searchable),"e":1})
+ items=[item for item in items if item["t"] and item["u"]]
+ (ROOT/"assets"/"site-search-index.json").write_text(json.dumps({"items":items},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+ return len(items)
 def route(path):
  v=path.as_posix()
  if v=="index.html": return "/"
@@ -85,9 +123,9 @@ def main():
   url=route(rel)
   if not is_canonical(source,url):continue
   if url in seen:raise ValueError(f"Duplicate sitemap route: {url}")
-  seen.add(url);pages.append((url,page_title(source,rel),modified(rel,dates,dirty)))
+  seen.add(url);pages.append((url,page_title(source,rel),modified(rel,dates,dirty),source))
  groups=defaultdict(list)
- for item in pages:groups[bucket(item[0])].append(item)
+ for item in pages:groups[bucket(item[0])].append(item[:3])
  order=["site","foundation"]+[f"year{i}" for i in range(1,11)]+["practice","worksheets"]
  sitemap_files=[]
  for key in order:
@@ -104,7 +142,7 @@ def main():
  blocks=[]
  for key in keys:
   label="Main pages" if key=="site" else SECTION_LABELS.get(key,key.replace("-"," ").title())
-  links="".join(f'<li><a href="{html.escape(u,quote=True)}">{html.escape(t)}</a></li>' for u,t,_ in sections[key])
+  links="".join(f'<li><a href="{html.escape(item[0],quote=True)}">{html.escape(item[1])}</a></li>' for item in sections[key])
   blocks.append(f'<section class="sitemap-section"><h2>{html.escape(label)}</h2><ul>{links}</ul></section>')
  schema=json.dumps({"@context":"https://schema.org","@type":"CollectionPage","name":"SkillrHub website sitemap","url":f"{BASE}/sitemap.html","description":"Browse SkillrHub learning resources by year level and subject."},separators=(",",":"))
  doc=f'''<!DOCTYPE html>
@@ -116,5 +154,6 @@ def main():
 <link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{schema}</script></head>
 <body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Learning resources sitemap</h1><p>Choose a year level or browse our main resource collections. Individual curriculum activities remain discoverable through each year and subject hub.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=6"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
- print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps and {len(pages)} canonical indexable URLs.")
+ search_count=write_search_index(pages)
+ print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
 if __name__=="__main__":main()
