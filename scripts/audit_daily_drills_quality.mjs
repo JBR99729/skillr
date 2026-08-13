@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dailyAssets = path.join(root, "quiz/assets/daily-drills");
-const context = vm.createContext({ window: {}, console });
+const context = vm.createContext({ window: {}, console, document: { addEventListener() {} } });
 
 function load(relativePath) {
   const filename = path.join(root, relativePath);
@@ -24,6 +24,19 @@ function load(relativePath) {
   "quiz/assets/daily-drills/science-master-questions.js",
   "quiz/assets/daily-drills/english-master-questions.js"
 ].forEach(load);
+
+const activeMode = process.argv.includes("--active");
+if (activeMode) {
+  [
+    "quiz/assets/foundation-maths-rebuild.js",
+    "quiz/assets/daily-drills/foundation-maths-production-v2.js",
+    "quiz/assets/daily-drills/foundation-rebuild-extensions.js",
+    "quiz/assets/daily-drills/math-extra-questions.js",
+    "quiz/assets/daily-drills/year1-maths-n01-n03-extensions.js",
+    "quiz/assets/daily-drills/year1-maths-n04-n06-extensions.js",
+    "quiz/assets/daily-drills/year1-maths-remaining-extensions.js"
+  ].forEach(load);
+}
 
 const catalog = context.window.SkillrDailyCatalog?.years || {};
 const generators = {
@@ -47,7 +60,13 @@ for (const [year, yearData] of Object.entries(catalog)) {
       const slug = topic.slug || topic.id;
       const route = path.join(root, "quiz", yearPath(year), "daily-drills", subject, slug, "index.html");
       const routeExists = fs.existsSync(route);
-      const bank = generators[subject]?.generate?.(year, slug) || [];
+      const generatedBank = generators[subject]?.generate?.(year, slug) || [];
+      const productionBank = context.window.SkillrDailyProductionBanks?.[year]?.[subject]?.[slug];
+      const extensionBank = context.window.SkillrDailyQuestionExtensions?.[year]?.[subject]?.[slug];
+      const usesProduction = activeMode && Array.isArray(productionBank) && productionBank.length > 0;
+      const bank = usesProduction
+        ? productionBank
+        : [...generatedBank, ...(activeMode && Array.isArray(extensionBank) ? extensionBank : [])];
       const ids = new Set();
       const prompts = new Set();
       const correctPositions = [0, 0, 0];
@@ -78,8 +97,9 @@ for (const [year, yearData] of Object.entries(catalog)) {
         if (audio) {
           audioPrompts += 1;
           if (canonical(audio) !== key) topicIssues.push(`audio mismatch: ${id}`);
-        }
+        } else topicIssues.push(`missing audio prompt: ${id}`);
         if (clean(question.hint ?? question.explanation?.hint)) hints += 1;
+        else topicIssues.push(`missing hint: ${id}`);
         if (question.visual || question.visual_svg || question.visual_asset) visuals += 1;
 
         if (question.type === "single") {
@@ -119,6 +139,7 @@ for (const [year, yearData] of Object.entries(catalog)) {
         hints,
         visuals,
         issues: topicIssues.length
+        ,source: usesProduction ? "production" : activeMode && Array.isArray(extensionBank) && extensionBank.length ? "generated+extension" : "generated"
       });
     }
   }
@@ -134,6 +155,7 @@ const summary = {
   questionsWithAudioPrompt: rows.reduce((sum, row) => sum + row.audioPrompts, 0),
   questionsWithHint: rows.reduce((sum, row) => sum + row.hints, 0),
   questionsWithVisual: rows.reduce((sum, row) => sum + row.visuals, 0)
+  ,mode: activeMode ? "active" : "generated-core"
 };
 
 console.log(JSON.stringify({ summary, rows, issues }, null, 2));
