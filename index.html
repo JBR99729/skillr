@@ -137,6 +137,34 @@
               <span><strong>More than 50,000 questions</strong><small>Practice, tests and Daily Drills</small></span>
             </div>
           </div>
+
+          <search class="site-search" aria-label="Search SkillrHub learning resources">
+            <form class="site-search__form" role="search" action="/sitemap.html" method="get">
+              <label class="site-search__label" for="site-search-input">Find a topic or curriculum code</label>
+              <div class="site-search__control">
+                <span class="site-search__icon" aria-hidden="true">⌕</span>
+                <input
+                  id="site-search-input"
+                  class="site-search__input"
+                  name="q"
+                  type="search"
+                  placeholder="Try fractions, Year 3 science or AC9M1N04"
+                  autocomplete="off"
+                  spellcheck="false"
+                  aria-controls="site-search-results"
+                  aria-expanded="false"
+                >
+              </div>
+            </form>
+            <div
+              id="site-search-results"
+              class="site-search__results"
+              role="region"
+              aria-label="Search results"
+              aria-live="polite"
+              hidden
+            ></div>
+          </search>
         </div>
 
         <div class="home-subjects" aria-label="Browse by subject">
@@ -562,6 +590,7 @@
   <!-- PWA -->
   <script src="/pwa-register.js?v=2"></script>
   <script src="/share-button.js"></script>
+  <script src="/assets/home-search.js?v=1" defer></script>
 
 </body>
 </html>
