@@ -488,16 +488,16 @@
     },
     {
       id: "slide-final",
-      title: "Choose Words That Fit",
-      purpose: "Check that children can choose and compare language independently.",
+      title: "60-second Quick Check / Turn and Talk",
+      purpose: "Check that children can choose and compare language independently with a partner.",
       display: {
         modelIds: ["final-choice-check"],
         meaning: "Choose words that fit the listener and what you want to say.",
-        studentPrompt: "Answer all three picture questions aloud.",
+        studentPrompt: "Turn and talk for 60 seconds. Answer the picture questions and explain which listener clue helped.",
         checkTogether: "Teacher: Excuse me, could you please help me? Friend: Can I use your pencil? The words changed, but the purpose stayed the same."
       },
       teacherLayer: teacherLayer(
-        "Ask the three questions in order. Wait for a complete response before revealing the model answers.",
+        "Give partners 60 seconds for the picture questions. Sample two complete responses before revealing the model answers.",
         "Which words suit a teacher? How would you ask a friend? What changed?",
         "Answer aloud, point to relationship evidence and compare the final two pictures.",
         "The child independently chooses fitting language and explains what changed and stayed the same.",
@@ -678,6 +678,16 @@
     }
   };
 
+  const previousUnit = window.SkillrFoundationEnglishData?.[CODE];
+  spec.vocabulary = previousUnit?.vocabulary || [];
+  spec.coreSlideIds = ["slide-meaning", "slide-same-purpose", "slide-pencil", "slide-final"];
+  const coreRoles = ["learning-intention", "concept-refresher", "guided-example", "quick-check"];
+  spec.slides.forEach((slide) => {
+    const coreIndex = spec.coreSlideIds.indexOf(slide.id);
+    slide.sequenceRole = coreIndex >= 0 ? "core" : "optional-extension";
+    if (coreIndex >= 0) slide.coreRole = coreRoles[coreIndex];
+  });
+
   const unit = {
     code: CODE,
     title: spec.title,
@@ -687,7 +697,7 @@
     profile: "ac9efla01ClassroomPrototype",
     subtitle: spec.subtitle,
     routine: spec.teachingProgression.name,
-    learn: spec.learningIntention,
+    learn: previousUnit?.learn || spec.learningIntention,
     model_title: models[0].purpose,
     model_html: "",
     apply_title: models[5].purpose,
@@ -696,6 +706,18 @@
     mistakes: spec.misconceptions.map((item) => [item.title, item.rapidFix]),
     quick: ["What changed?", "Which words suit a teacher?", "How would you ask a friend?", "Now ask for a pencil in both ways."],
     mastery: spec.successCriteria.map((item) => item.replace(/^I can\s+/i, "").replace(/\.$/, "")),
+    vocabulary: spec.vocabulary,
+    preservedLegacyTopicMaterial: previousUnit?.preservedLegacyTopicMaterial || {
+      learn: previousUnit?.learn,
+      model_title: previousUnit?.model_title,
+      model_html: previousUnit?.model_html,
+      apply_title: previousUnit?.apply_title,
+      apply_html: previousUnit?.apply_html,
+      activities: previousUnit?.activities,
+      mistakes: previousUnit?.mistakes,
+      quick: previousUnit?.quick,
+      mastery: previousUnit?.mastery
+    },
     canonical: spec
   };
 

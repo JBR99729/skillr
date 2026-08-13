@@ -1,6 +1,7 @@
 "use strict";
 
 (() => {
+  function renderTopicPractice() {
   const match = window.location.pathname.match(/\/(math|science|english)\/(ac9[a-z0-9]+)\/worksheet\/?/i);
   const subject = match ? match[1].toLowerCase() : null;
   const code = match ? match[2].toUpperCase() : null;
@@ -18,7 +19,11 @@
   if (!unit || !Array.isArray(unit.questions) || ![9, 10].includes(unit.questions.length)) return;
 
   const isFoundationMathsSplit = subject === "math" && /^AC9MF/.test(code) && unit.questions.length === 9;
+  const isFoundationEnglishSplit = subject === "english" && /^AC9EF/.test(code) && unit.questions.length === 9;
   if (!isFoundationMathsSplit) {
+    if (isFoundationEnglishSplit) {
+      // Foundation English uses the same two-sheet renderer with its own authored banks.
+    } else {
     if (typeof window.SkillrFoundationLegacyWorksheetRender === "function") {
       window.SkillrFoundationLegacyWorksheetRender();
     } else if (!document.querySelector('script[data-skillr-legacy-authored-worksheet="true"]')) {
@@ -28,6 +33,7 @@
       document.head.appendChild(legacyScript);
     }
     return;
+    }
   }
 
   const root = document.getElementById("worksheetRoot");
@@ -45,7 +51,7 @@
   unit.exportMeta = {
     curriculumCode: code,
     year: "Foundation",
-    subject: "Maths",
+    subject: subject === "english" ? "English" : "Maths",
     topicTitle: unit.title,
     publicBranding: "renderer-chrome-only",
     sheets: [
@@ -73,10 +79,16 @@
 
   function responseHtml(question) {
     if (question.type === "single") {
-      return `<div class="worksheet-options">${(question.answers || []).map((answer, index) => `<span><strong>[${String.fromCharCode(65 + index)}]</strong> ${esc(answer)}</span>`).join("")}</div>`;
+      return `<div class="worksheet-options">${(question.answers || []).map((answer, index) => {
+        const letter = String.fromCharCode(65 + index);
+        const audio = question.audio_answers?.[index];
+        return audio
+          ? `<span><span class="worksheet-sr-only">Option ${letter}. ${esc(audio)}</span><strong aria-hidden="true">[${letter}]</strong> <span aria-hidden="true">${esc(answer)}</span></span>`
+          : `<span><strong>[${letter}]</strong> ${esc(answer)}</span>`;
+      }).join("")}</div>`;
     }
     if (question.type === "fill-blank") {
-      return `<div class="fill-template">${esc(question.template || "").replaceAll("{{blank}}", '<span class="blank-line"></span>')}</div>`;
+      return `<div class="fill-template">${esc(question.template || "").replaceAll("{{blank}}", '<span class="blank-line" role="img" aria-label="blank"></span>')}</div>`;
     }
     if (question.type === "match") {
       return `<div class="match-grid"><div>${(question.matchLeft || []).map((item, index) => `<p><strong>${String.fromCharCode(65 + index)}.</strong> ${esc(item)}</p>`).join("")}</div><div>${(question.matchRight || []).map((item, index) => `<p><strong>${index + 1}.</strong> ${esc(item)}</p>`).join("")}</div></div><p class="match-instruction">Matches: __________________________</p>`;
@@ -86,7 +98,7 @@
   }
 
   function renderQuestion(question, displayNumber) {
-    return `<article class="worksheet-question ${esc(question.tier)}"><div class="question-line"><span class="question-number-text">${displayNumber}.</span><span class="enrichment-label">${esc(question.tierLabel)}</span><p class="question-prompt">${esc(question.question)}</p></div>${question.visual ? `<div class="question-visual">${esc(question.visual)}</div>` : ""}${responseHtml(question)}</article>`;
+    return `<article class="worksheet-question ${esc(question.tier)}"><div class="question-line"><span class="question-number-text">${displayNumber}.</span><span class="enrichment-label">${esc(question.tierLabel)}</span><p class="question-prompt">${esc(question.question)}</p></div>${question.visual ? `<div class="question-visual" role="img" aria-label="${esc(question.visualAlt || question.visual)}"><span aria-hidden="true">${esc(question.visual)}</span></div>` : ""}${responseHtml(question)}</article>`;
   }
 
   const brandHtml = (label = `${code} • ${unit.title}`) => `<div class="worksheet-brand-lockup"><img src="/icons/skillrhub-mark.svg" alt="SkillrHub logo"><div><p class="paper-brand">SkillrHub <span>F–10</span></p><p>${esc(label)}</p></div></div>`;
@@ -294,4 +306,8 @@
   const buttons = ensureButtons();
   buttons.studentButton?.addEventListener("click", () => previewPdf("student"));
   buttons.answerButton?.addEventListener("click", () => previewPdf("answers"));
+  }
+
+  window.SkillrFoundationTopicPracticeRender = renderTopicPractice;
+  renderTopicPractice();
 })();

@@ -52,6 +52,19 @@
   ];
   const foundationScienceData = ["/assets/foundation-science-data.js?v=2"];
   const foundationEnglishData = ["/assets/foundation-english-data.js?v=2"];
+  const foundationEnglishTopicModules = [
+    "/assets/foundation-english-topic-module-la-v2.js?v=20260814-foundation-english-topic2",
+    "/assets/foundation-english-topic-module-le-ly1-v2.js?v=20260814-foundation-english-topic2",
+    "/assets/foundation-english-topic-module-ly2-v2.js?v=20260814-foundation-english-topic2",
+    "/assets/foundation-english-topic-module-core-v2.js?v=20260814-foundation-english-topic2",
+    "/assets/foundation-english-classroom-v2.js?v=20260814-foundation-english-topic2"
+  ];
+  const foundationEnglishWorksheetModules = [
+    "/quiz/assets/foundation-english-topic-module-la-data-v2.js?v=20260814-foundation-english-topic2",
+    "/quiz/assets/foundation-english-topic-module-le-ly1-data-v2.js?v=20260814-foundation-english-topic2",
+    "/quiz/assets/foundation-english-topic-module-ly2-data-v2.js?v=20260814-foundation-english-topic2",
+    "/quiz/assets/foundation-english-topic-module-balance-v2.js?v=20260814-foundation-english-topic2"
+  ];
 
   const year1MathsData = ["/assets/year1-maths-data.js?v=2"];
   const year1ScienceData = ["/assets/year1-science-data.js?v=2"];
@@ -114,8 +127,8 @@
     [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/worksheet\/?$/i, [...foundationScienceData, "/assets/foundation-science-worksheet-page.js?v=20260814-topic-practice-split2"]],
     [/^\/foundation\/science\/ac9s/i, [...foundationScienceData, "/assets/foundation-science-render.js?v=2", "/assets/foundation-science-curriculum-scope.js?v=2"]],
     [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/(practice|test)\/?$/i, [...foundationEnglishData, "/assets/foundation-english-practice-quick-read.js?v=2"]],
-    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet\/?$/i, [...foundationEnglishData, "/assets/foundation-english-worksheet-page.js?v=3"]],
-    [/^\/foundation\/english\/ac9ef/i, [...foundationEnglishData, "/assets/foundation-english-render.js?v=2"]],
+    [/^\/quiz\/grade-k\/english\/ac9ef[a-z0-9]+\/worksheet(?:\/topic-practice-[12])?\/?$/i, [...foundationEnglishData, ...foundationEnglishWorksheetModules, "/assets/foundation-english-worksheet-page.js?v=20260814-foundation-english-topic2", "/assets/foundation-english-topic-practice-compat.js?v=20260814-foundation-english-topic2"]],
+    [/^\/foundation\/english\/ac9ef/i, [...foundationEnglishData, ...foundationEnglishTopicModules, "/assets/foundation-english-render.js?v=20260814-foundation-english-topic2"]],
 
     [/^\/year1\/maths\/ac9m1/i, [...year1MathsData, "/assets/year1-maths-render.js?v=2"]],
     [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i, [...year1MathsData, "/assets/year1-maths-practice-quick-read.js?v=3"]],
