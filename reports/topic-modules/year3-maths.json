@@ -1,0 +1,31 @@
+{
+  "standard": "SkillrHub connected topic module v1",
+  "updated": "2026-08-14",
+  "year": 3,
+  "subject": "Mathematics",
+  "status": "validated-local",
+  "codes": 23,
+  "topicPages": 23,
+  "teacherDecks": 23,
+  "practiceSheets": 23,
+  "worksheetQuestions": 207,
+  "tierTotals": { "warmUp": 69, "core": 92, "challenge": 46 },
+  "preserved": [
+    "legacy curriculum descriptions and elaborations",
+    "international mappings and official references",
+    "three authored activities per code",
+    "legacy one-page teacher PDFs",
+    "Practice and Test links",
+    "navigation and issue reporting"
+  ],
+  "provenance": {
+    "assets/year3-maths-data-*.js: learn/model_note/apply_note": "two-paragraph concept deep-dive and two worked examples",
+    "assets/year3-maths-data-*.js: model_visual/apply_visual": "accessible topic and slide visual models",
+    "assets/year3-maths-data-*.js: mistakes": "three misconception-and-correction pairs plus one aligned worksheet correction",
+    "assets/year3-maths-data-*.js: activities": "preserved optional classroom practice",
+    "assets/year3-maths-data-*.js: worksheet": "nine independent 3/4/2 questions with explicit alignment, answers, summaries and hints",
+    "legacy topic HTML reference sections": "retained as collapsed curriculum, mapping and source references",
+    "worksheets/year3/maths/teacher-slides/*-teacher-slide.pdf": "retained and linked as optional legacy one-page teacher resources"
+  },
+  "validation": "23/23 local atomic-deliverable pass; concept, vocabulary, misconception and both-model alignment; bidirectional links; A4 logo, answer-key and overflow print gates"
+}
