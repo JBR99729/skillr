@@ -122,6 +122,7 @@
     if (meta.startsWith(query)) value += 55;
     else if (meta.includes(query)) value += 30;
     if (codeMatch && item.searchable.includes(query.replace(/ /g, ""))) value += 80;
+    if (codeMatch && !item.elaboration && title.split(" ")[0] === query) value += 200;
     terms.forEach(function (term) {
       if (title.split(" ").some(function (word) { return word.startsWith(term); })) value += 8;
     });
