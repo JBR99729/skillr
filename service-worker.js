@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v15";
-const STATIC_CACHE_NAME = "skillrhub-static-v13";
+const CACHE_NAME = "skillrhub-pwa-v16";
+const STATIC_CACHE_NAME = "skillrhub-static-v14";
 
 const OFFLINE_FILES = [
   "/offline.html",
