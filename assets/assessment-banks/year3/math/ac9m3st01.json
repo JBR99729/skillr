@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M3ST01-P-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "ask_categorical_survey_question",
+    "question": "In the fruit survey, which question would collect data about favourite fruit?",
+    "audio_prompt": "In the fruit survey, which question would collect data about favourite fruit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-001",
+      "alt_text": "In the fruit survey: Three category bars ready to record answers about favourite fruit."
+    },
+    "answers": [
+      {
+        "text": "How old is the school building?",
+        "is_correct": false
+      },
+      {
+        "text": "Can you draw any picture?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your favourite fruit?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question asks every person for one category about favourite fruit.",
+      "hint": "Choose a question whose answers can be sorted into named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "recognise_discrete_numerical_data",
+    "question": "In the fruit survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "audio_prompt": "In the fruit survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-002",
+      "alt_text": "In the fruit survey: A table of whole-number book counts such as 2, 6 and 3."
+    },
+    "answers": [
+      {
+        "text": "Discrete numerical data",
+        "is_correct": true
+      },
+      {
+        "text": "Categorical labels",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous length data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
+      "hint": "Ask whether values are counted whole numbers or named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "collect_data_accurately",
+    "question": "In the fruit survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the fruit survey, why should each student's answer be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-003",
+      "alt_text": "In the fruit survey: A checklist with one tick beside each student's response."
+    },
+    "answers": [
+      {
+        "text": "so every total is the same",
+        "is_correct": false
+      },
+      {
+        "text": "so the totals are accurate",
+        "is_correct": true
+      },
+      {
+        "text": "so the survey has no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting each response once keeps the category totals correct.",
+      "hint": "Imagine what happens if one answer is marked twice."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "record_categories_in_table",
+    "question": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
+    "audio_prompt": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-004",
+      "alt_text": "In the fruit survey: Data display with apples 2, bananas 6 and oranges 3."
+    },
+    "answers": [
+      {
+        "text": "apples 3, bananas 6, oranges 3",
+        "is_correct": false
+      },
+      {
+        "text": "apples 2, bananas 6, oranges 4",
+        "is_correct": false
+      },
+      {
+        "text": "apples 2, bananas 6, oranges 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each category is matched to its correct count.",
+      "hint": "Read across one row at a time."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "identify_most_frequent_category",
+    "question": "In the fruit survey, which category has the most responses?",
+    "audio_prompt": "In the fruit survey, which category has the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-005",
+      "alt_text": "In the fruit survey: apples has 2, bananas has 6 and oranges has 3 responses."
+    },
+    "answers": [
+      {
+        "text": "bananas",
+        "is_correct": true
+      },
+      {
+        "text": "apples",
+        "is_correct": false
+      },
+      {
+        "text": "oranges",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The bananas category has the largest count.",
+      "hint": "Compare the heights or the count numbers."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose_nonoverlapping_categories",
+    "question": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
+    "audio_prompt": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-006",
+      "alt_text": "In the fruit survey: Three labelled boxes: cat, dog and fish."
+    },
+    "answers": [
+      {
+        "text": "small, cute, dog",
+        "is_correct": false
+      },
+      {
+        "text": "cat, dog, fish",
+        "is_correct": true
+      },
+      {
+        "text": "pet, animal, cat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
+      "hint": "Avoid categories where one answer could fit more than one group."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "select_data_collection_method",
+    "question": "In the fruit survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the fruit survey, which method could collect data about birds visiting the playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-007",
+      "alt_text": "In the fruit survey: A bird observation sheet with tally marks."
+    },
+    "answers": [
+      {
+        "text": "guess without looking",
+        "is_correct": false
+      },
+      {
+        "text": "measure one desk",
+        "is_correct": false
+      },
+      {
+        "text": "observe and tally each bird",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Observation and tally marks record each bird that visits.",
+      "hint": "Choose a method that directly watches the thing being counted."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "answer_question_from_table",
+    "question": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
+    "audio_prompt": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-008",
+      "alt_text": "In the fruit survey: A data display showing apples with 2 and bananas with 6."
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add the two category counts: 2 + 6 = 8.",
+      "hint": "Altogether means combine both counts."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "ask_categorical_survey_question",
+    "question": "In the travel survey, which question would collect data about way to travel to school?",
+    "audio_prompt": "In the travel survey, which question would collect data about way to travel to school?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-009",
+      "alt_text": "In the travel survey: Three category bars ready to record answers about way to travel to school."
+    },
+    "answers": [
+      {
+        "text": "How old is the school building?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your way to travel to school?",
+        "is_correct": true
+      },
+      {
+        "text": "Can you draw any picture?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question asks every person for one category about way to travel to school.",
+      "hint": "Choose a question whose answers can be sorted into named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "recognise_discrete_numerical_data",
+    "question": "In the travel survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "audio_prompt": "In the travel survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-010",
+      "alt_text": "In the travel survey: A table of whole-number book counts such as 3, 7 and 4."
+    },
+    "answers": [
+      {
+        "text": "Categorical labels",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous length data",
+        "is_correct": false
+      },
+      {
+        "text": "Discrete numerical data",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
+      "hint": "Ask whether values are counted whole numbers or named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "collect_data_accurately",
+    "question": "In the travel survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the travel survey, why should each student's answer be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-011",
+      "alt_text": "In the travel survey: A checklist with one tick beside each student's response."
+    },
+    "answers": [
+      {
+        "text": "so the totals are accurate",
+        "is_correct": true
+      },
+      {
+        "text": "so every total is the same",
+        "is_correct": false
+      },
+      {
+        "text": "so the survey has no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Counting each response once keeps the category totals correct.",
+      "hint": "Imagine what happens if one answer is marked twice."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "record_categories_in_table",
+    "question": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
+    "audio_prompt": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-012",
+      "alt_text": "In the travel survey: Data display with walk 3, car 7 and bus 4."
+    },
+    "answers": [
+      {
+        "text": "walk 4, car 7, bus 4",
+        "is_correct": false
+      },
+      {
+        "text": "walk 3, car 7, bus 4",
+        "is_correct": true
+      },
+      {
+        "text": "walk 3, car 7, bus 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each category is matched to its correct count.",
+      "hint": "Read across one row at a time."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "identify_most_frequent_category",
+    "question": "In the travel survey, which category has the most responses?",
+    "audio_prompt": "In the travel survey, which category has the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-013",
+      "alt_text": "In the travel survey: walk has 3, car has 7 and bus has 4 responses."
+    },
+    "answers": [
+      {
+        "text": "walk",
+        "is_correct": false
+      },
+      {
+        "text": "bus",
+        "is_correct": false
+      },
+      {
+        "text": "car",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The car category has the largest count.",
+      "hint": "Compare the heights or the count numbers."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose_nonoverlapping_categories",
+    "question": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
+    "audio_prompt": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-014",
+      "alt_text": "In the travel survey: Three labelled boxes: cat, dog and fish."
+    },
+    "answers": [
+      {
+        "text": "cat, dog, fish",
+        "is_correct": true
+      },
+      {
+        "text": "small, cute, dog",
+        "is_correct": false
+      },
+      {
+        "text": "pet, animal, cat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
+      "hint": "Avoid categories where one answer could fit more than one group."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "select_data_collection_method",
+    "question": "In the travel survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the travel survey, which method could collect data about birds visiting the playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-015",
+      "alt_text": "In the travel survey: A bird observation sheet with tally marks."
+    },
+    "answers": [
+      {
+        "text": "guess without looking",
+        "is_correct": false
+      },
+      {
+        "text": "observe and tally each bird",
+        "is_correct": true
+      },
+      {
+        "text": "measure one desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Observation and tally marks record each bird that visits.",
+      "hint": "Choose a method that directly watches the thing being counted."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "answer_question_from_table",
+    "question": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
+    "audio_prompt": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-016",
+      "alt_text": "In the travel survey: A data display showing walk with 3 and car with 7."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add the two category counts: 3 + 7 = 10.",
+      "hint": "Altogether means combine both counts."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "ask_categorical_survey_question",
+    "question": "In the playground survey, which question would collect data about favourite playground game?",
+    "audio_prompt": "In the playground survey, which question would collect data about favourite playground game?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-017",
+      "alt_text": "In the playground survey: Three category bars ready to record answers about favourite playground game."
+    },
+    "answers": [
+      {
+        "text": "What is your favourite playground game?",
+        "is_correct": true
+      },
+      {
+        "text": "How old is the school building?",
+        "is_correct": false
+      },
+      {
+        "text": "Can you draw any picture?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question asks every person for one category about favourite playground game.",
+      "hint": "Choose a question whose answers can be sorted into named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "recognise_discrete_numerical_data",
+    "question": "In the playground survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "audio_prompt": "In the playground survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-018",
+      "alt_text": "In the playground survey: A table of whole-number book counts such as 4, 8 and 3."
+    },
+    "answers": [
+      {
+        "text": "Categorical labels",
+        "is_correct": false
+      },
+      {
+        "text": "Discrete numerical data",
+        "is_correct": true
+      },
+      {
+        "text": "Continuous length data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
+      "hint": "Ask whether values are counted whole numbers or named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "collect_data_accurately",
+    "question": "In the playground survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the playground survey, why should each student's answer be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-019",
+      "alt_text": "In the playground survey: A checklist with one tick beside each student's response."
+    },
+    "answers": [
+      {
+        "text": "so every total is the same",
+        "is_correct": false
+      },
+      {
+        "text": "so the survey has no labels",
+        "is_correct": false
+      },
+      {
+        "text": "so the totals are accurate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Counting each response once keeps the category totals correct.",
+      "hint": "Imagine what happens if one answer is marked twice."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "record_categories_in_table",
+    "question": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
+    "audio_prompt": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-020",
+      "alt_text": "In the playground survey: Data display with chase 4, swings 8 and ball 3."
+    },
+    "answers": [
+      {
+        "text": "chase 4, swings 8, ball 3",
+        "is_correct": true
+      },
+      {
+        "text": "chase 5, swings 8, ball 3",
+        "is_correct": false
+      },
+      {
+        "text": "chase 4, swings 8, ball 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each category is matched to its correct count.",
+      "hint": "Read across one row at a time."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "identify_most_frequent_category",
+    "question": "In the playground survey, which category has the most responses?",
+    "audio_prompt": "In the playground survey, which category has the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-021",
+      "alt_text": "In the playground survey: chase has 4, swings has 8 and ball has 3 responses."
+    },
+    "answers": [
+      {
+        "text": "chase",
+        "is_correct": false
+      },
+      {
+        "text": "swings",
+        "is_correct": true
+      },
+      {
+        "text": "ball",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The swings category has the largest count.",
+      "hint": "Compare the heights or the count numbers."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose_nonoverlapping_categories",
+    "question": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
+    "audio_prompt": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-022",
+      "alt_text": "In the playground survey: Three labelled boxes: cat, dog and fish."
+    },
+    "answers": [
+      {
+        "text": "small, cute, dog",
+        "is_correct": false
+      },
+      {
+        "text": "pet, animal, cat",
+        "is_correct": false
+      },
+      {
+        "text": "cat, dog, fish",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
+      "hint": "Avoid categories where one answer could fit more than one group."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "select_data_collection_method",
+    "question": "In the playground survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the playground survey, which method could collect data about birds visiting the playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-023",
+      "alt_text": "In the playground survey: A bird observation sheet with tally marks."
+    },
+    "answers": [
+      {
+        "text": "observe and tally each bird",
+        "is_correct": true
+      },
+      {
+        "text": "guess without looking",
+        "is_correct": false
+      },
+      {
+        "text": "measure one desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Observation and tally marks record each bird that visits.",
+      "hint": "Choose a method that directly watches the thing being counted."
+    }
+  },
+  {
+    "id": "AC9M3ST01-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "answer_question_from_table",
+    "question": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
+    "audio_prompt": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-024",
+      "alt_text": "In the playground survey: A data display showing chase with 4 and swings with 8."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add the two category counts: 4 + 8 = 12.",
+      "hint": "Altogether means combine both counts."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "ask_categorical_survey_question",
+    "question": "In the pet survey, which question would collect data about type of pet?",
+    "audio_prompt": "In the pet survey, which question would collect data about type of pet?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-001",
+      "alt_text": "In the pet survey: Three category bars ready to record answers about type of pet."
+    },
+    "answers": [
+      {
+        "text": "How old is the school building?",
+        "is_correct": false
+      },
+      {
+        "text": "Can you draw any picture?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your type of pet?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The question asks every person for one category about type of pet.",
+      "hint": "Choose a question whose answers can be sorted into named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "recognise_discrete_numerical_data",
+    "question": "In the pet survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "audio_prompt": "In the pet survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-002",
+      "alt_text": "In the pet survey: A table of whole-number book counts such as 5, 9 and 4."
+    },
+    "answers": [
+      {
+        "text": "Discrete numerical data",
+        "is_correct": true
+      },
+      {
+        "text": "Categorical labels",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous length data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
+      "hint": "Ask whether values are counted whole numbers or named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "collect_data_accurately",
+    "question": "In the pet survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the pet survey, why should each student's answer be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-003",
+      "alt_text": "In the pet survey: A checklist with one tick beside each student's response."
+    },
+    "answers": [
+      {
+        "text": "so every total is the same",
+        "is_correct": false
+      },
+      {
+        "text": "so the totals are accurate",
+        "is_correct": true
+      },
+      {
+        "text": "so the survey has no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counting each response once keeps the category totals correct.",
+      "hint": "Imagine what happens if one answer is marked twice."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "record_categories_in_table",
+    "question": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
+    "audio_prompt": "In the pet survey, which table correctly records 5 cats, 9 dogs and 4 fish?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-004",
+      "alt_text": "In the pet survey: Data display with cats 5, dogs 9 and fish 4."
+    },
+    "answers": [
+      {
+        "text": "cats 6, dogs 9, fish 4",
+        "is_correct": false
+      },
+      {
+        "text": "cats 5, dogs 9, fish 5",
+        "is_correct": false
+      },
+      {
+        "text": "cats 5, dogs 9, fish 4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each category is matched to its correct count.",
+      "hint": "Read across one row at a time."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "identify_most_frequent_category",
+    "question": "In the pet survey, which category has the most responses?",
+    "audio_prompt": "In the pet survey, which category has the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-005",
+      "alt_text": "In the pet survey: cats has 5, dogs has 9 and fish has 4 responses."
+    },
+    "answers": [
+      {
+        "text": "dogs",
+        "is_correct": true
+      },
+      {
+        "text": "cats",
+        "is_correct": false
+      },
+      {
+        "text": "fish",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dogs category has the largest count.",
+      "hint": "Compare the heights or the count numbers."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "choose_nonoverlapping_categories",
+    "question": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
+    "audio_prompt": "In the pet survey, which categories are clear and do not overlap for a pet survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-006",
+      "alt_text": "In the pet survey: Three labelled boxes: cat, dog and fish."
+    },
+    "answers": [
+      {
+        "text": "small, cute, dog",
+        "is_correct": false
+      },
+      {
+        "text": "cat, dog, fish",
+        "is_correct": true
+      },
+      {
+        "text": "pet, animal, cat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
+      "hint": "Avoid categories where one answer could fit more than one group."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "select_data_collection_method",
+    "question": "In the pet survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the pet survey, which method could collect data about birds visiting the playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-007",
+      "alt_text": "In the pet survey: A bird observation sheet with tally marks."
+    },
+    "answers": [
+      {
+        "text": "guess without looking",
+        "is_correct": false
+      },
+      {
+        "text": "measure one desk",
+        "is_correct": false
+      },
+      {
+        "text": "observe and tally each bird",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Observation and tally marks record each bird that visits.",
+      "hint": "Choose a method that directly watches the thing being counted."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "answer_question_from_table",
+    "question": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
+    "audio_prompt": "In the pet survey, cats has 5 responses and dogs has 9. How many responses altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-008",
+      "alt_text": "In the pet survey: A data display showing cats with 5 and dogs with 9."
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Add the two category counts: 5 + 9 = 14.",
+      "hint": "Altogether means combine both counts."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "ask_categorical_survey_question",
+    "question": "In the story survey, which question would collect data about favourite story type?",
+    "audio_prompt": "In the story survey, which question would collect data about favourite story type?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-009",
+      "alt_text": "In the story survey: Three category bars ready to record answers about favourite story type."
+    },
+    "answers": [
+      {
+        "text": "How old is the school building?",
+        "is_correct": false
+      },
+      {
+        "text": "What is your favourite story type?",
+        "is_correct": true
+      },
+      {
+        "text": "Can you draw any picture?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The question asks every person for one category about favourite story type.",
+      "hint": "Choose a question whose answers can be sorted into named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "recognise_discrete_numerical_data",
+    "question": "In the story survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "audio_prompt": "In the story survey, a class records how many books each student read. What kind of data are the whole-number counts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-010",
+      "alt_text": "In the story survey: A table of whole-number book counts such as 6, 10 and 3."
+    },
+    "answers": [
+      {
+        "text": "Categorical labels",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous length data",
+        "is_correct": false
+      },
+      {
+        "text": "Discrete numerical data",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
+      "hint": "Ask whether values are counted whole numbers or named groups."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "collect_data_accurately",
+    "question": "In the story survey, why should each student's answer be counted once?",
+    "audio_prompt": "In the story survey, why should each student's answer be counted once?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-011",
+      "alt_text": "In the story survey: A checklist with one tick beside each student's response."
+    },
+    "answers": [
+      {
+        "text": "so the totals are accurate",
+        "is_correct": true
+      },
+      {
+        "text": "so every total is the same",
+        "is_correct": false
+      },
+      {
+        "text": "so the survey has no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Counting each response once keeps the category totals correct.",
+      "hint": "Imagine what happens if one answer is marked twice."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "record_categories_in_table",
+    "question": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
+    "audio_prompt": "In the story survey, which table correctly records 6 funny, 10 animal and 3 facts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-012",
+      "alt_text": "In the story survey: Data display with funny 6, animal 10 and facts 3."
+    },
+    "answers": [
+      {
+        "text": "funny 7, animal 10, facts 3",
+        "is_correct": false
+      },
+      {
+        "text": "funny 6, animal 10, facts 3",
+        "is_correct": true
+      },
+      {
+        "text": "funny 6, animal 10, facts 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each category is matched to its correct count.",
+      "hint": "Read across one row at a time."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "identify_most_frequent_category",
+    "question": "In the story survey, which category has the most responses?",
+    "audio_prompt": "In the story survey, which category has the most responses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-013",
+      "alt_text": "In the story survey: funny has 6, animal has 10 and facts has 3 responses."
+    },
+    "answers": [
+      {
+        "text": "funny",
+        "is_correct": false
+      },
+      {
+        "text": "facts",
+        "is_correct": false
+      },
+      {
+        "text": "animal",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The animal category has the largest count.",
+      "hint": "Compare the heights or the count numbers."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "choose_nonoverlapping_categories",
+    "question": "In the story survey, which categories are clear and do not overlap for a pet survey?",
+    "audio_prompt": "In the story survey, which categories are clear and do not overlap for a pet survey?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-014",
+      "alt_text": "In the story survey: Three labelled boxes: cat, dog and fish."
+    },
+    "answers": [
+      {
+        "text": "cat, dog, fish",
+        "is_correct": true
+      },
+      {
+        "text": "small, cute, dog",
+        "is_correct": false
+      },
+      {
+        "text": "pet, animal, cat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
+      "hint": "Avoid categories where one answer could fit more than one group."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "select_data_collection_method",
+    "question": "In the story survey, which method could collect data about birds visiting the playground?",
+    "audio_prompt": "In the story survey, which method could collect data about birds visiting the playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-015",
+      "alt_text": "In the story survey: A bird observation sheet with tally marks."
+    },
+    "answers": [
+      {
+        "text": "guess without looking",
+        "is_correct": false
+      },
+      {
+        "text": "observe and tally each bird",
+        "is_correct": true
+      },
+      {
+        "text": "measure one desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Observation and tally marks record each bird that visits.",
+      "hint": "Choose a method that directly watches the thing being counted."
+    }
+  },
+  {
+    "id": "AC9M3ST01-T-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST01",
+    "bank": "test",
+    "skill": "answer_question_from_table",
+    "question": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
+    "audio_prompt": "In the story survey, funny has 6 responses and animal has 10. How many responses altogether?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-t-016",
+      "alt_text": "In the story survey: A data display showing funny with 6 and animal with 10."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add the two category counts: 6 + 10 = 16.",
+      "hint": "Altogether means combine both counts."
+    }
+  }
+]

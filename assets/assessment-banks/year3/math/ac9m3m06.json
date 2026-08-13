@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M3M06-P-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, how many cents equal $2?",
+    "audio_prompt": "At the class shop, how many cents equal $2?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-001",
+      "alt_text": "At the class shop: A 2-dollar amount beside a cents conversion."
+    },
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "210",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each dollar is 100 cents, so $2 is 200 cents.",
+      "hint": "Multiply the dollars by 100."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, which amount is 2 dollars and 15 cents?",
+    "audio_prompt": "At the class shop, which amount is 2 dollars and 15 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-002",
+      "alt_text": "At the class shop: Separate dollar and cent amounts ready to combine."
+    },
+    "answers": [
+      {
+        "text": "$2.15",
+        "is_correct": true
+      },
+      {
+        "text": "$17.00",
+        "is_correct": false
+      },
+      {
+        "text": "$2.015",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Money notation uses two digits for cents.",
+      "hint": "Write dollars before the decimal point and cents after it."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, how many cents are in $2.15?",
+    "audio_prompt": "At the class shop, how many cents are in $2.15?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-003",
+      "alt_text": "At the class shop: A money amount of 2 dollars and 15 cents."
+    },
+    "answers": [
+      {
+        "text": "350",
+        "is_correct": false
+      },
+      {
+        "text": "215",
+        "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "$2 is 200 cents; add 15 cents to get 215.",
+      "hint": "Convert dollars first, then add the cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, which collection has the same value as 125 cents?",
+    "audio_prompt": "At the class shop, which collection has the same value as 125 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-004",
+      "alt_text": "At the class shop: A cent amount ready to exchange into dollars and cents."
+    },
+    "answers": [
+      {
+        "text": "$125 and 1 cent",
+        "is_correct": false
+      },
+      {
+        "text": "12 cents",
+        "is_correct": false
+      },
+      {
+        "text": "$1 and 25 cents",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "125 cents is 1 dollar and 25 cents.",
+      "hint": "Trade each group of 100 cents for one dollar."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, a book costs $2.15 and a pencil costs $1.00. What is the total?",
+    "audio_prompt": "At the class shop, a book costs $2.15 and a pencil costs $1.00. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-005",
+      "alt_text": "At the class shop: Two prices shown on a receipt."
+    },
+    "answers": [
+      {
+        "text": "$3.15",
+        "is_correct": true
+      },
+      {
+        "text": "$2.16",
+        "is_correct": false
+      },
+      {
+        "text": "$3.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding one dollar increases the dollars by 1 while cents stay 15.",
+      "hint": "Line up dollars with dollars and cents with cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, you pay $4.00 for an item costing $2.15. Which operation finds the change?",
+    "audio_prompt": "At the class shop, you pay $4.00 for an item costing $2.15. Which operation finds the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-006",
+      "alt_text": "At the class shop: A payment and lower item price shown for a change calculation."
+    },
+    "answers": [
+      {
+        "text": "Multiplication",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction",
+        "is_correct": true
+      },
+      {
+        "text": "Measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change is the amount paid minus the cost.",
+      "hint": "Start with the larger paid amount."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, which is greater: 215 cents or $2.00?",
+    "audio_prompt": "At the class shop, which is greater: 215 cents or $2.00?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-007",
+      "alt_text": "At the class shop: A cents amount compared with a whole-dollar amount."
+    },
+    "answers": [
+      {
+        "text": "$2.00",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "215 cents",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "215 cents is $2.15, which is more than $2.00.",
+      "hint": "Convert both amounts to cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the class shop, a label shows $2.15. What should be checked?",
+    "audio_prompt": "At the class shop, a label shows $2.15. What should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-008",
+      "alt_text": "At the class shop: A price label being checked for correct money notation."
+    },
+    "answers": [
+      {
+        "text": "Cents should use exactly two digits",
+        "is_correct": true
+      },
+      {
+        "text": "Dollars must use three digits",
+        "is_correct": false
+      },
+      {
+        "text": "The decimal point should be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Standard money notation writes the cents with two digits.",
+      "hint": "Count the digits after the decimal point."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, how many cents equal $3?",
+    "audio_prompt": "At the market stall, how many cents equal $3?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-009",
+      "alt_text": "At the market stall: A 3-dollar amount beside a cents conversion."
+    },
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": true
+      },
+      {
+        "text": "310",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each dollar is 100 cents, so $3 is 300 cents.",
+      "hint": "Multiply the dollars by 100."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, which amount is 3 dollars and 22 cents?",
+    "audio_prompt": "At the market stall, which amount is 3 dollars and 22 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-010",
+      "alt_text": "At the market stall: Separate dollar and cent amounts ready to combine."
+    },
+    "answers": [
+      {
+        "text": "$25.00",
+        "is_correct": false
+      },
+      {
+        "text": "$3.022",
+        "is_correct": false
+      },
+      {
+        "text": "$3.22",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Money notation uses two digits for cents.",
+      "hint": "Write dollars before the decimal point and cents after it."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, how many cents are in $3.22?",
+    "audio_prompt": "At the market stall, how many cents are in $3.22?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-011",
+      "alt_text": "At the market stall: A money amount of 3 dollars and 22 cents."
+    },
+    "answers": [
+      {
+        "text": "322",
+        "is_correct": true
+      },
+      {
+        "text": "520",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$3 is 300 cents; add 22 cents to get 322.",
+      "hint": "Convert dollars first, then add the cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, which collection has the same value as 160 cents?",
+    "audio_prompt": "At the market stall, which collection has the same value as 160 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-012",
+      "alt_text": "At the market stall: A cent amount ready to exchange into dollars and cents."
+    },
+    "answers": [
+      {
+        "text": "$160 and 1 cent",
+        "is_correct": false
+      },
+      {
+        "text": "$1 and 60 cents",
+        "is_correct": true
+      },
+      {
+        "text": "16 cents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "160 cents is 1 dollar and 60 cents.",
+      "hint": "Trade each group of 100 cents for one dollar."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, a book costs $3.22 and a pencil costs $1.00. What is the total?",
+    "audio_prompt": "At the market stall, a book costs $3.22 and a pencil costs $1.00. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-013",
+      "alt_text": "At the market stall: Two prices shown on a receipt."
+    },
+    "answers": [
+      {
+        "text": "$3.23",
+        "is_correct": false
+      },
+      {
+        "text": "$4.00",
+        "is_correct": false
+      },
+      {
+        "text": "$4.22",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding one dollar increases the dollars by 1 while cents stay 22.",
+      "hint": "Line up dollars with dollars and cents with cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, you pay $5.00 for an item costing $3.22. Which operation finds the change?",
+    "audio_prompt": "At the market stall, you pay $5.00 for an item costing $3.22. Which operation finds the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-014",
+      "alt_text": "At the market stall: A payment and lower item price shown for a change calculation."
+    },
+    "answers": [
+      {
+        "text": "Subtraction",
+        "is_correct": true
+      },
+      {
+        "text": "Multiplication",
+        "is_correct": false
+      },
+      {
+        "text": "Measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change is the amount paid minus the cost.",
+      "hint": "Start with the larger paid amount."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, which is greater: 322 cents or $3.00?",
+    "audio_prompt": "At the market stall, which is greater: 322 cents or $3.00?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-015",
+      "alt_text": "At the market stall: A cents amount compared with a whole-dollar amount."
+    },
+    "answers": [
+      {
+        "text": "$3.00",
+        "is_correct": false
+      },
+      {
+        "text": "322 cents",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "322 cents is $3.22, which is more than $3.00.",
+      "hint": "Convert both amounts to cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "At the market stall, a label shows $3.22. What should be checked?",
+    "audio_prompt": "At the market stall, a label shows $3.22. What should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-016",
+      "alt_text": "At the market stall: A price label being checked for correct money notation."
+    },
+    "answers": [
+      {
+        "text": "Dollars must use three digits",
+        "is_correct": false
+      },
+      {
+        "text": "The decimal point should be removed",
+        "is_correct": false
+      },
+      {
+        "text": "Cents should use exactly two digits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Standard money notation writes the cents with two digits.",
+      "hint": "Count the digits after the decimal point."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, how many cents equal $4?",
+    "audio_prompt": "During the book fair, how many cents equal $4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-017",
+      "alt_text": "During the book fair: A 4-dollar amount beside a cents conversion."
+    },
+    "answers": [
+      {
+        "text": "400",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "410",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each dollar is 100 cents, so $4 is 400 cents.",
+      "hint": "Multiply the dollars by 100."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, which amount is 4 dollars and 29 cents?",
+    "audio_prompt": "During the book fair, which amount is 4 dollars and 29 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-018",
+      "alt_text": "During the book fair: Separate dollar and cent amounts ready to combine."
+    },
+    "answers": [
+      {
+        "text": "$33.00",
+        "is_correct": false
+      },
+      {
+        "text": "$4.29",
+        "is_correct": true
+      },
+      {
+        "text": "$4.029",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Money notation uses two digits for cents.",
+      "hint": "Write dollars before the decimal point and cents after it."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, how many cents are in $4.29?",
+    "audio_prompt": "During the book fair, how many cents are in $4.29?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-019",
+      "alt_text": "During the book fair: A money amount of 4 dollars and 29 cents."
+    },
+    "answers": [
+      {
+        "text": "690",
+        "is_correct": false
+      },
+      {
+        "text": "33",
+        "is_correct": false
+      },
+      {
+        "text": "429",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "$4 is 400 cents; add 29 cents to get 429.",
+      "hint": "Convert dollars first, then add the cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, which collection has the same value as 195 cents?",
+    "audio_prompt": "During the book fair, which collection has the same value as 195 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-020",
+      "alt_text": "During the book fair: A cent amount ready to exchange into dollars and cents."
+    },
+    "answers": [
+      {
+        "text": "$1 and 95 cents",
+        "is_correct": true
+      },
+      {
+        "text": "$195 and 1 cent",
+        "is_correct": false
+      },
+      {
+        "text": "19 cents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "195 cents is 1 dollar and 95 cents.",
+      "hint": "Trade each group of 100 cents for one dollar."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, a book costs $4.29 and a pencil costs $1.00. What is the total?",
+    "audio_prompt": "During the book fair, a book costs $4.29 and a pencil costs $1.00. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-021",
+      "alt_text": "During the book fair: Two prices shown on a receipt."
+    },
+    "answers": [
+      {
+        "text": "$4.30",
+        "is_correct": false
+      },
+      {
+        "text": "$5.29",
+        "is_correct": true
+      },
+      {
+        "text": "$5.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Adding one dollar increases the dollars by 1 while cents stay 29.",
+      "hint": "Line up dollars with dollars and cents with cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, you pay $6.00 for an item costing $4.29. Which operation finds the change?",
+    "audio_prompt": "During the book fair, you pay $6.00 for an item costing $4.29. Which operation finds the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-022",
+      "alt_text": "During the book fair: A payment and lower item price shown for a change calculation."
+    },
+    "answers": [
+      {
+        "text": "Multiplication",
+        "is_correct": false
+      },
+      {
+        "text": "Measurement",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change is the amount paid minus the cost.",
+      "hint": "Start with the larger paid amount."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, which is greater: 429 cents or $4.00?",
+    "audio_prompt": "During the book fair, which is greater: 429 cents or $4.00?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-023",
+      "alt_text": "During the book fair: A cents amount compared with a whole-dollar amount."
+    },
+    "answers": [
+      {
+        "text": "429 cents",
+        "is_correct": true
+      },
+      {
+        "text": "$4.00",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "429 cents is $4.29, which is more than $4.00.",
+      "hint": "Convert both amounts to cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "During the book fair, a label shows $4.29. What should be checked?",
+    "audio_prompt": "During the book fair, a label shows $4.29. What should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-024",
+      "alt_text": "During the book fair: A price label being checked for correct money notation."
+    },
+    "answers": [
+      {
+        "text": "Dollars must use three digits",
+        "is_correct": false
+      },
+      {
+        "text": "Cents should use exactly two digits",
+        "is_correct": true
+      },
+      {
+        "text": "The decimal point should be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Standard money notation writes the cents with two digits.",
+      "hint": "Count the digits after the decimal point."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, how many cents equal $5?",
+    "audio_prompt": "At the canteen, how many cents equal $5?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-001",
+      "alt_text": "At the canteen: A 5-dollar amount beside a cents conversion."
+    },
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "510",
+        "is_correct": false
+      },
+      {
+        "text": "500",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each dollar is 100 cents, so $5 is 500 cents.",
+      "hint": "Multiply the dollars by 100."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, which amount is 5 dollars and 36 cents?",
+    "audio_prompt": "At the canteen, which amount is 5 dollars and 36 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-002",
+      "alt_text": "At the canteen: Separate dollar and cent amounts ready to combine."
+    },
+    "answers": [
+      {
+        "text": "$5.36",
+        "is_correct": true
+      },
+      {
+        "text": "$41.00",
+        "is_correct": false
+      },
+      {
+        "text": "$5.036",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Money notation uses two digits for cents.",
+      "hint": "Write dollars before the decimal point and cents after it."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, how many cents are in $5.36?",
+    "audio_prompt": "At the canteen, how many cents are in $5.36?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-003",
+      "alt_text": "At the canteen: A money amount of 5 dollars and 36 cents."
+    },
+    "answers": [
+      {
+        "text": "860",
+        "is_correct": false
+      },
+      {
+        "text": "536",
+        "is_correct": true
+      },
+      {
+        "text": "41",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "$5 is 500 cents; add 36 cents to get 536.",
+      "hint": "Convert dollars first, then add the cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, which collection has the same value as 230 cents?",
+    "audio_prompt": "At the canteen, which collection has the same value as 230 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-004",
+      "alt_text": "At the canteen: A cent amount ready to exchange into dollars and cents."
+    },
+    "answers": [
+      {
+        "text": "$230 and 1 cent",
+        "is_correct": false
+      },
+      {
+        "text": "23 cents",
+        "is_correct": false
+      },
+      {
+        "text": "$2 and 30 cents",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "230 cents is 2 dollar and 30 cents.",
+      "hint": "Trade each group of 100 cents for one dollar."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, a book costs $5.36 and a pencil costs $1.00. What is the total?",
+    "audio_prompt": "At the canteen, a book costs $5.36 and a pencil costs $1.00. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-005",
+      "alt_text": "At the canteen: Two prices shown on a receipt."
+    },
+    "answers": [
+      {
+        "text": "$6.36",
+        "is_correct": true
+      },
+      {
+        "text": "$5.37",
+        "is_correct": false
+      },
+      {
+        "text": "$6.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding one dollar increases the dollars by 1 while cents stay 36.",
+      "hint": "Line up dollars with dollars and cents with cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, you pay $7.00 for an item costing $5.36. Which operation finds the change?",
+    "audio_prompt": "At the canteen, you pay $7.00 for an item costing $5.36. Which operation finds the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-006",
+      "alt_text": "At the canteen: A payment and lower item price shown for a change calculation."
+    },
+    "answers": [
+      {
+        "text": "Multiplication",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction",
+        "is_correct": true
+      },
+      {
+        "text": "Measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change is the amount paid minus the cost.",
+      "hint": "Start with the larger paid amount."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, which is greater: 536 cents or $5.00?",
+    "audio_prompt": "At the canteen, which is greater: 536 cents or $5.00?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-007",
+      "alt_text": "At the canteen: A cents amount compared with a whole-dollar amount."
+    },
+    "answers": [
+      {
+        "text": "$5.00",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "536 cents",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "536 cents is $5.36, which is more than $5.00.",
+      "hint": "Convert both amounts to cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "At the canteen, a label shows $5.36. What should be checked?",
+    "audio_prompt": "At the canteen, a label shows $5.36. What should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-008",
+      "alt_text": "At the canteen: A price label being checked for correct money notation."
+    },
+    "answers": [
+      {
+        "text": "Cents should use exactly two digits",
+        "is_correct": true
+      },
+      {
+        "text": "Dollars must use three digits",
+        "is_correct": false
+      },
+      {
+        "text": "The decimal point should be removed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Standard money notation writes the cents with two digits.",
+      "hint": "Count the digits after the decimal point."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, how many cents equal $6?",
+    "audio_prompt": "In the savings challenge, how many cents equal $6?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-009",
+      "alt_text": "In the savings challenge: A 6-dollar amount beside a cents conversion."
+    },
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "600",
+        "is_correct": true
+      },
+      {
+        "text": "610",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each dollar is 100 cents, so $6 is 600 cents.",
+      "hint": "Multiply the dollars by 100."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, which amount is 6 dollars and 43 cents?",
+    "audio_prompt": "In the savings challenge, which amount is 6 dollars and 43 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-010",
+      "alt_text": "In the savings challenge: Separate dollar and cent amounts ready to combine."
+    },
+    "answers": [
+      {
+        "text": "$49.00",
+        "is_correct": false
+      },
+      {
+        "text": "$6.043",
+        "is_correct": false
+      },
+      {
+        "text": "$6.43",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Money notation uses two digits for cents.",
+      "hint": "Write dollars before the decimal point and cents after it."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, how many cents are in $6.43?",
+    "audio_prompt": "In the savings challenge, how many cents are in $6.43?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-011",
+      "alt_text": "In the savings challenge: A money amount of 6 dollars and 43 cents."
+    },
+    "answers": [
+      {
+        "text": "643",
+        "is_correct": true
+      },
+      {
+        "text": "1030",
+        "is_correct": false
+      },
+      {
+        "text": "49",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$6 is 600 cents; add 43 cents to get 643.",
+      "hint": "Convert dollars first, then add the cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, which collection has the same value as 265 cents?",
+    "audio_prompt": "In the savings challenge, which collection has the same value as 265 cents?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-012",
+      "alt_text": "In the savings challenge: A cent amount ready to exchange into dollars and cents."
+    },
+    "answers": [
+      {
+        "text": "$265 and 1 cent",
+        "is_correct": false
+      },
+      {
+        "text": "$2 and 65 cents",
+        "is_correct": true
+      },
+      {
+        "text": "26 cents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "265 cents is 2 dollar and 65 cents.",
+      "hint": "Trade each group of 100 cents for one dollar."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, a book costs $6.43 and a pencil costs $1.00. What is the total?",
+    "audio_prompt": "In the savings challenge, a book costs $6.43 and a pencil costs $1.00. What is the total?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-013",
+      "alt_text": "In the savings challenge: Two prices shown on a receipt."
+    },
+    "answers": [
+      {
+        "text": "$6.44",
+        "is_correct": false
+      },
+      {
+        "text": "$7.00",
+        "is_correct": false
+      },
+      {
+        "text": "$7.43",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding one dollar increases the dollars by 1 while cents stay 43.",
+      "hint": "Line up dollars with dollars and cents with cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, you pay $8.00 for an item costing $6.43. Which operation finds the change?",
+    "audio_prompt": "In the savings challenge, you pay $8.00 for an item costing $6.43. Which operation finds the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-014",
+      "alt_text": "In the savings challenge: A payment and lower item price shown for a change calculation."
+    },
+    "answers": [
+      {
+        "text": "Subtraction",
+        "is_correct": true
+      },
+      {
+        "text": "Multiplication",
+        "is_correct": false
+      },
+      {
+        "text": "Measurement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change is the amount paid minus the cost.",
+      "hint": "Start with the larger paid amount."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, which is greater: 643 cents or $6.00?",
+    "audio_prompt": "In the savings challenge, which is greater: 643 cents or $6.00?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-015",
+      "alt_text": "In the savings challenge: A cents amount compared with a whole-dollar amount."
+    },
+    "answers": [
+      {
+        "text": "$6.00",
+        "is_correct": false
+      },
+      {
+        "text": "643 cents",
+        "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "643 cents is $6.43, which is more than $6.00.",
+      "hint": "Convert both amounts to cents."
+    }
+  },
+  {
+    "id": "AC9M3M06-T-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "test",
+    "skill": "money",
+    "question": "In the savings challenge, a label shows $6.43. What should be checked?",
+    "audio_prompt": "In the savings challenge, a label shows $6.43. What should be checked?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-016",
+      "alt_text": "In the savings challenge: A price label being checked for correct money notation."
+    },
+    "answers": [
+      {
+        "text": "Dollars must use three digits",
+        "is_correct": false
+      },
+      {
+        "text": "The decimal point should be removed",
+        "is_correct": false
+      },
+      {
+        "text": "Cents should use exactly two digits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Standard money notation writes the cents with two digits.",
+      "hint": "Count the digits after the decimal point."
+    }
+  }
+]

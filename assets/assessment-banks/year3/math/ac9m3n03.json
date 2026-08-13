@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M3N03-P-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_three_digit_numbers",
+    "question": "With a pizza, what is 236 + 47?",
+    "audio_prompt": "With a pizza, what is 236 + 47?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-001",
+      "alt_text": "With a pizza: 236 plus 47 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "273",
+        "is_correct": false
+      },
+      {
+        "text": "383",
+        "is_correct": false
+      },
+      {
+        "text": "283",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "236+47=283.",
+      "hint": "Partition 47 into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_three_digit_numbers",
+    "question": "With a pizza, what is 236 − 47?",
+    "audio_prompt": "With a pizza, what is 236 − 47?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-002",
+      "alt_text": "With a pizza: 236 minus 47 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "189",
+        "is_correct": true
+      },
+      {
+        "text": "199",
+        "is_correct": false
+      },
+      {
+        "text": "188",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "236−47=189.",
+      "hint": "Subtract tens, then ones, regrouping if needed."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "partition_addend",
+    "question": "With a pizza, which partition helps calculate 236 + 47?",
+    "audio_prompt": "With a pizza, which partition helps calculate 236 + 47?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-003",
+      "alt_text": "With a pizza: 47 partitioned into tens and ones."
+    },
+    "answers": [
+      {
+        "text": "236 + 7 + 7",
+        "is_correct": false
+      },
+      {
+        "text": "236 + 40 + 7",
+        "is_correct": true
+      },
+      {
+        "text": "236 + 470",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Splitting 47 into tens and ones preserves its value.",
+      "hint": "Check that the parts recombine to 47."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_subtraction_inverse",
+    "question": "With a pizza, which addition checks 236 − 47 = 189?",
+    "audio_prompt": "With a pizza, which addition checks 236 − 47 = 189?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-004",
+      "alt_text": "With a pizza: A subtraction fact ready to check with addition."
+    },
+    "answers": [
+      {
+        "text": "236 + 47 = 189",
+        "is_correct": false
+      },
+      {
+        "text": "189 − 47 = 236",
+        "is_correct": false
+      },
+      {
+        "text": "189 + 47 = 236",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Addition reverses subtraction, so 189+47=236.",
+      "hint": "Use the answer and the amount subtracted."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "estimate_sum",
+    "question": "With a pizza, what is the best estimate for 236 + 47?",
+    "audio_prompt": "With a pizza, what is the best estimate for 236 + 47?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-005",
+      "alt_text": "With a pizza: Both addends rounded to nearby tens."
+    },
+    "answers": [
+      {
+        "text": "290",
+        "is_correct": true
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "483",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
+      "hint": "Round each number before adding."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "use_compensation_addition",
+    "question": "With a pizza, which strategy efficiently solves 237 + 99?",
+    "audio_prompt": "With a pizza, which strategy efficiently solves 237 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-006",
+      "alt_text": "With a pizza: An addition calculation using 99 near 100."
+    },
+    "answers": [
+      {
+        "text": "Add 90, then subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Add 100, then subtract 1",
+        "is_correct": true
+      },
+      {
+        "text": "Subtract 100, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "99 is 1 less than 100, so compensate after adding 100.",
+      "hint": "Use the friendly number 100."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "apply_addition_context",
+    "question": "With a pizza, a library has 236 books and receives 47 more. How many books are there now?",
+    "audio_prompt": "With a pizza, a library has 236 books and receives 47 more. How many books are there now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-007",
+      "alt_text": "With a pizza: Two book groups containing 236 and 47 books."
+    },
+    "answers": [
+      {
+        "text": "189",
+        "is_correct": false
+      },
+      {
+        "text": "293",
+        "is_correct": false
+      },
+      {
+        "text": "283",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Receiving more books means add: 236+47=283.",
+      "hint": "Decide whether the amount grows or decreases."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_calculation_reasonableness",
+    "question": "With a pizza, sam says 236 − 47 = 283. What shows the answer is unreasonable?",
+    "audio_prompt": "With a pizza, sam says 236 − 47 = 283. What shows the answer is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-008",
+      "alt_text": "With a pizza: A subtraction calculation beside an incorrectly larger answer."
+    },
+    "answers": [
+      {
+        "text": "Subtraction should make the starting number smaller",
+        "is_correct": true
+      },
+      {
+        "text": "Every answer must be even",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction always makes zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "236−47 must be less than 236; the correct result is 189.",
+      "hint": "Compare the result with the starting number."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_three_digit_numbers",
+    "question": "With a wrap, what is 307 + 60?",
+    "audio_prompt": "With a wrap, what is 307 + 60?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-009",
+      "alt_text": "With a wrap: 307 plus 60 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "357",
+        "is_correct": false
+      },
+      {
+        "text": "367",
+        "is_correct": true
+      },
+      {
+        "text": "467",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "307+60=367.",
+      "hint": "Partition 60 into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_three_digit_numbers",
+    "question": "With a wrap, what is 307 − 60?",
+    "audio_prompt": "With a wrap, what is 307 − 60?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-010",
+      "alt_text": "With a wrap: 307 minus 60 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "257",
+        "is_correct": false
+      },
+      {
+        "text": "246",
+        "is_correct": false
+      },
+      {
+        "text": "247",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "307−60=247.",
+      "hint": "Subtract tens, then ones, regrouping if needed."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "partition_addend",
+    "question": "With a wrap, which partition helps calculate 307 + 60?",
+    "audio_prompt": "With a wrap, which partition helps calculate 307 + 60?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-011",
+      "alt_text": "With a wrap: 60 partitioned into tens and ones."
+    },
+    "answers": [
+      {
+        "text": "307 + 60 + 0",
+        "is_correct": true
+      },
+      {
+        "text": "307 + 0 + 0",
+        "is_correct": false
+      },
+      {
+        "text": "307 + 600",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Splitting 60 into tens and ones preserves its value.",
+      "hint": "Check that the parts recombine to 60."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_subtraction_inverse",
+    "question": "With a wrap, which addition checks 307 − 60 = 247?",
+    "audio_prompt": "With a wrap, which addition checks 307 − 60 = 247?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-012",
+      "alt_text": "With a wrap: A subtraction fact ready to check with addition."
+    },
+    "answers": [
+      {
+        "text": "307 + 60 = 247",
+        "is_correct": false
+      },
+      {
+        "text": "247 + 60 = 307",
+        "is_correct": true
+      },
+      {
+        "text": "247 − 60 = 307",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Addition reverses subtraction, so 247+60=307.",
+      "hint": "Use the answer and the amount subtracted."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "estimate_sum",
+    "question": "With a wrap, what is the best estimate for 307 + 60?",
+    "audio_prompt": "With a wrap, what is the best estimate for 307 + 60?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-013",
+      "alt_text": "With a wrap: Both addends rounded to nearby tens."
+    },
+    "answers": [
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "567",
+        "is_correct": false
+      },
+      {
+        "text": "370",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
+      "hint": "Round each number before adding."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "use_compensation_addition",
+    "question": "With a wrap, which strategy efficiently solves 308 + 99?",
+    "audio_prompt": "With a wrap, which strategy efficiently solves 308 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-014",
+      "alt_text": "With a wrap: An addition calculation using 99 near 100."
+    },
+    "answers": [
+      {
+        "text": "Add 100, then subtract 1",
+        "is_correct": true
+      },
+      {
+        "text": "Add 90, then subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 100, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "99 is 1 less than 100, so compensate after adding 100.",
+      "hint": "Use the friendly number 100."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "apply_addition_context",
+    "question": "With a wrap, a library has 307 books and receives 60 more. How many books are there now?",
+    "audio_prompt": "With a wrap, a library has 307 books and receives 60 more. How many books are there now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-015",
+      "alt_text": "With a wrap: Two book groups containing 307 and 60 books."
+    },
+    "answers": [
+      {
+        "text": "247",
+        "is_correct": false
+      },
+      {
+        "text": "367",
+        "is_correct": true
+      },
+      {
+        "text": "377",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Receiving more books means add: 307+60=367.",
+      "hint": "Decide whether the amount grows or decreases."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_calculation_reasonableness",
+    "question": "With a wrap, sam says 307 − 60 = 367. What shows the answer is unreasonable?",
+    "audio_prompt": "With a wrap, sam says 307 − 60 = 367. What shows the answer is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-016",
+      "alt_text": "With a wrap: A subtraction calculation beside an incorrectly larger answer."
+    },
+    "answers": [
+      {
+        "text": "Every answer must be even",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction always makes zero",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction should make the starting number smaller",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "307−60 must be less than 307; the correct result is 247.",
+      "hint": "Compare the result with the starting number."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "add_three_digit_numbers",
+    "question": "With a melon, what is 378 + 73?",
+    "audio_prompt": "With a melon, what is 378 + 73?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-017",
+      "alt_text": "With a melon: 378 plus 73 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "451",
+        "is_correct": true
+      },
+      {
+        "text": "441",
+        "is_correct": false
+      },
+      {
+        "text": "551",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "378+73=451.",
+      "hint": "Partition 73 into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "subtract_three_digit_numbers",
+    "question": "With a melon, what is 378 − 73?",
+    "audio_prompt": "With a melon, what is 378 − 73?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-018",
+      "alt_text": "With a melon: 378 minus 73 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "315",
+        "is_correct": false
+      },
+      {
+        "text": "305",
+        "is_correct": true
+      },
+      {
+        "text": "304",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "378−73=305.",
+      "hint": "Subtract tens, then ones, regrouping if needed."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "partition_addend",
+    "question": "With a melon, which partition helps calculate 378 + 73?",
+    "audio_prompt": "With a melon, which partition helps calculate 378 + 73?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-019",
+      "alt_text": "With a melon: 73 partitioned into tens and ones."
+    },
+    "answers": [
+      {
+        "text": "378 + 3 + 3",
+        "is_correct": false
+      },
+      {
+        "text": "378 + 730",
+        "is_correct": false
+      },
+      {
+        "text": "378 + 70 + 3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Splitting 73 into tens and ones preserves its value.",
+      "hint": "Check that the parts recombine to 73."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_subtraction_inverse",
+    "question": "With a melon, which addition checks 378 − 73 = 305?",
+    "audio_prompt": "With a melon, which addition checks 378 − 73 = 305?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-020",
+      "alt_text": "With a melon: A subtraction fact ready to check with addition."
+    },
+    "answers": [
+      {
+        "text": "305 + 73 = 378",
+        "is_correct": true
+      },
+      {
+        "text": "378 + 73 = 305",
+        "is_correct": false
+      },
+      {
+        "text": "305 − 73 = 378",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Addition reverses subtraction, so 305+73=378.",
+      "hint": "Use the answer and the amount subtracted."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "estimate_sum",
+    "question": "With a melon, what is the best estimate for 378 + 73?",
+    "audio_prompt": "With a melon, what is the best estimate for 378 + 73?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-021",
+      "alt_text": "With a melon: Both addends rounded to nearby tens."
+    },
+    "answers": [
+      {
+        "text": "400",
+        "is_correct": false
+      },
+      {
+        "text": "450",
+        "is_correct": true
+      },
+      {
+        "text": "651",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
+      "hint": "Round each number before adding."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "use_compensation_addition",
+    "question": "With a melon, which strategy efficiently solves 379 + 99?",
+    "audio_prompt": "With a melon, which strategy efficiently solves 379 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-022",
+      "alt_text": "With a melon: An addition calculation using 99 near 100."
+    },
+    "answers": [
+      {
+        "text": "Add 90, then subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 100, then add 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add 100, then subtract 1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "99 is 1 less than 100, so compensate after adding 100.",
+      "hint": "Use the friendly number 100."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "apply_addition_context",
+    "question": "With a melon, a library has 378 books and receives 73 more. How many books are there now?",
+    "audio_prompt": "With a melon, a library has 378 books and receives 73 more. How many books are there now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-023",
+      "alt_text": "With a melon: Two book groups containing 378 and 73 books."
+    },
+    "answers": [
+      {
+        "text": "451",
+        "is_correct": true
+      },
+      {
+        "text": "305",
+        "is_correct": false
+      },
+      {
+        "text": "461",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Receiving more books means add: 378+73=451.",
+      "hint": "Decide whether the amount grows or decreases."
+    }
+  },
+  {
+    "id": "AC9M3N03-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "practice",
+    "skill": "check_calculation_reasonableness",
+    "question": "With a melon, sam says 378 − 73 = 451. What shows the answer is unreasonable?",
+    "audio_prompt": "With a melon, sam says 378 − 73 = 451. What shows the answer is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-p-024",
+      "alt_text": "With a melon: A subtraction calculation beside an incorrectly larger answer."
+    },
+    "answers": [
+      {
+        "text": "Every answer must be even",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction should make the starting number smaller",
+        "is_correct": true
+      },
+      {
+        "text": "Subtraction always makes zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "378−73 must be less than 378; the correct result is 305.",
+      "hint": "Compare the result with the starting number."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "add_three_digit_numbers",
+    "question": "With a cake, what is 449 + 86?",
+    "audio_prompt": "With a cake, what is 449 + 86?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-001",
+      "alt_text": "With a cake: 449 plus 86 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "525",
+        "is_correct": false
+      },
+      {
+        "text": "635",
+        "is_correct": false
+      },
+      {
+        "text": "535",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "449+86=535.",
+      "hint": "Partition 86 into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "subtract_three_digit_numbers",
+    "question": "With a cake, what is 449 − 86?",
+    "audio_prompt": "With a cake, what is 449 − 86?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-002",
+      "alt_text": "With a cake: 449 minus 86 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "363",
+        "is_correct": true
+      },
+      {
+        "text": "373",
+        "is_correct": false
+      },
+      {
+        "text": "362",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "449−86=363.",
+      "hint": "Subtract tens, then ones, regrouping if needed."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "partition_addend",
+    "question": "With a cake, which partition helps calculate 449 + 86?",
+    "audio_prompt": "With a cake, which partition helps calculate 449 + 86?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-003",
+      "alt_text": "With a cake: 86 partitioned into tens and ones."
+    },
+    "answers": [
+      {
+        "text": "449 + 6 + 6",
+        "is_correct": false
+      },
+      {
+        "text": "449 + 80 + 6",
+        "is_correct": true
+      },
+      {
+        "text": "449 + 860",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Splitting 86 into tens and ones preserves its value.",
+      "hint": "Check that the parts recombine to 86."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "check_subtraction_inverse",
+    "question": "With a cake, which addition checks 449 − 86 = 363?",
+    "audio_prompt": "With a cake, which addition checks 449 − 86 = 363?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-004",
+      "alt_text": "With a cake: A subtraction fact ready to check with addition."
+    },
+    "answers": [
+      {
+        "text": "449 + 86 = 363",
+        "is_correct": false
+      },
+      {
+        "text": "363 − 86 = 449",
+        "is_correct": false
+      },
+      {
+        "text": "363 + 86 = 449",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Addition reverses subtraction, so 363+86=449.",
+      "hint": "Use the answer and the amount subtracted."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "estimate_sum",
+    "question": "With a cake, what is the best estimate for 449 + 86?",
+    "audio_prompt": "With a cake, what is the best estimate for 449 + 86?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-005",
+      "alt_text": "With a cake: Both addends rounded to nearby tens."
+    },
+    "answers": [
+      {
+        "text": "540",
+        "is_correct": true
+      },
+      {
+        "text": "400",
+        "is_correct": false
+      },
+      {
+        "text": "735",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
+      "hint": "Round each number before adding."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "use_compensation_addition",
+    "question": "With a cake, which strategy efficiently solves 450 + 99?",
+    "audio_prompt": "With a cake, which strategy efficiently solves 450 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-006",
+      "alt_text": "With a cake: An addition calculation using 99 near 100."
+    },
+    "answers": [
+      {
+        "text": "Add 90, then subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Add 100, then subtract 1",
+        "is_correct": true
+      },
+      {
+        "text": "Subtract 100, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "99 is 1 less than 100, so compensate after adding 100.",
+      "hint": "Use the friendly number 100."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "apply_addition_context",
+    "question": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
+    "audio_prompt": "With a cake, a library has 449 books and receives 86 more. How many books are there now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-007",
+      "alt_text": "With a cake: Two book groups containing 449 and 86 books."
+    },
+    "answers": [
+      {
+        "text": "363",
+        "is_correct": false
+      },
+      {
+        "text": "545",
+        "is_correct": false
+      },
+      {
+        "text": "535",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Receiving more books means add: 449+86=535.",
+      "hint": "Decide whether the amount grows or decreases."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "check_calculation_reasonableness",
+    "question": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
+    "audio_prompt": "With a cake, sam says 449 − 86 = 535. What shows the answer is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-008",
+      "alt_text": "With a cake: A subtraction calculation beside an incorrectly larger answer."
+    },
+    "answers": [
+      {
+        "text": "Subtraction should make the starting number smaller",
+        "is_correct": true
+      },
+      {
+        "text": "Every answer must be even",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction always makes zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "449−86 must be less than 449; the correct result is 363.",
+      "hint": "Compare the result with the starting number."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "add_three_digit_numbers",
+    "question": "With a pancake, what is 520 + 99?",
+    "audio_prompt": "With a pancake, what is 520 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-009",
+      "alt_text": "With a pancake: 520 plus 99 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "609",
+        "is_correct": false
+      },
+      {
+        "text": "619",
+        "is_correct": true
+      },
+      {
+        "text": "719",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "520+99=619.",
+      "hint": "Partition 99 into tens and ones."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "subtract_three_digit_numbers",
+    "question": "With a pancake, what is 520 − 99?",
+    "audio_prompt": "With a pancake, what is 520 − 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-010",
+      "alt_text": "With a pancake: 520 minus 99 shown for calculation."
+    },
+    "answers": [
+      {
+        "text": "431",
+        "is_correct": false
+      },
+      {
+        "text": "420",
+        "is_correct": false
+      },
+      {
+        "text": "421",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "520−99=421.",
+      "hint": "Subtract tens, then ones, regrouping if needed."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "partition_addend",
+    "question": "With a pancake, which partition helps calculate 520 + 99?",
+    "audio_prompt": "With a pancake, which partition helps calculate 520 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-011",
+      "alt_text": "With a pancake: 99 partitioned into tens and ones."
+    },
+    "answers": [
+      {
+        "text": "520 + 90 + 9",
+        "is_correct": true
+      },
+      {
+        "text": "520 + 9 + 9",
+        "is_correct": false
+      },
+      {
+        "text": "520 + 990",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Splitting 99 into tens and ones preserves its value.",
+      "hint": "Check that the parts recombine to 99."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "check_subtraction_inverse",
+    "question": "With a pancake, which addition checks 520 − 99 = 421?",
+    "audio_prompt": "With a pancake, which addition checks 520 − 99 = 421?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-012",
+      "alt_text": "With a pancake: A subtraction fact ready to check with addition."
+    },
+    "answers": [
+      {
+        "text": "520 + 99 = 421",
+        "is_correct": false
+      },
+      {
+        "text": "421 + 99 = 520",
+        "is_correct": true
+      },
+      {
+        "text": "421 − 99 = 520",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Addition reverses subtraction, so 421+99=520.",
+      "hint": "Use the answer and the amount subtracted."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "estimate_sum",
+    "question": "With a pancake, what is the best estimate for 520 + 99?",
+    "audio_prompt": "With a pancake, what is the best estimate for 520 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-013",
+      "alt_text": "With a pancake: Both addends rounded to nearby tens."
+    },
+    "answers": [
+      {
+        "text": "500",
+        "is_correct": false
+      },
+      {
+        "text": "819",
+        "is_correct": false
+      },
+      {
+        "text": "620",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
+      "hint": "Round each number before adding."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "use_compensation_addition",
+    "question": "With a pancake, which strategy efficiently solves 521 + 99?",
+    "audio_prompt": "With a pancake, which strategy efficiently solves 521 + 99?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-014",
+      "alt_text": "With a pancake: An addition calculation using 99 near 100."
+    },
+    "answers": [
+      {
+        "text": "Add 100, then subtract 1",
+        "is_correct": true
+      },
+      {
+        "text": "Add 90, then subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 100, then add 1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "99 is 1 less than 100, so compensate after adding 100.",
+      "hint": "Use the friendly number 100."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "apply_addition_context",
+    "question": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
+    "audio_prompt": "With a pancake, a library has 520 books and receives 99 more. How many books are there now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-015",
+      "alt_text": "With a pancake: Two book groups containing 520 and 99 books."
+    },
+    "answers": [
+      {
+        "text": "421",
+        "is_correct": false
+      },
+      {
+        "text": "619",
+        "is_correct": true
+      },
+      {
+        "text": "629",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Receiving more books means add: 520+99=619.",
+      "hint": "Decide whether the amount grows or decreases."
+    }
+  },
+  {
+    "id": "AC9M3N03-T-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N03",
+    "bank": "test",
+    "skill": "check_calculation_reasonableness",
+    "question": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
+    "audio_prompt": "With a pancake, sam says 520 − 99 = 619. What shows the answer is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n03.svg#ac9m3n03-t-016",
+      "alt_text": "With a pancake: A subtraction calculation beside an incorrectly larger answer."
+    },
+    "answers": [
+      {
+        "text": "Every answer must be even",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction always makes zero",
+        "is_correct": false
+      },
+      {
+        "text": "Subtraction should make the starting number smaller",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "520−99 must be less than 520; the correct result is 421.",
+      "hint": "Compare the result with the starting number."
+    }
+  }
+]

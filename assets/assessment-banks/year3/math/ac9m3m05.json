@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M3M05-P-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_quarter_turn",
+    "question": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-001",
+      "alt_text": "In the robot game: Arrow starts facing north and turns clockwise to face east."
+    },
+    "answers": [
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A clockwise quarter turn moves one direction around: north to east.",
+      "hint": "Move one step clockwise around north, east, south and west."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_half_turn",
+    "question": "In the robot game, an arrow faces north. After a half turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a half turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-002",
+      "alt_text": "In the robot game: Arrow after a half turn from north, facing south."
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A half turn faces the opposite direction, so north becomes south.",
+      "hint": "A half turn is two quarter turns."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_full_turn",
+    "question": "In the robot game, an arrow faces north. After a full turn, where does it face?",
+    "audio_prompt": "In the robot game, an arrow faces north. After a full turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-003",
+      "alt_text": "In the robot game: Arrow completes a full turn and faces north again."
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": true
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A full turn goes all the way around and ends facing north again.",
+      "hint": "Spin once and notice the starting and finishing direction match."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "identify_half_turn",
+    "question": "In the robot game, which turn makes an object face the opposite way?",
+    "audio_prompt": "In the robot game, which turn makes an object face the opposite way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-004",
+      "alt_text": "In the robot game: Arrow facing the opposite direction after a half turn."
+    },
+    "answers": [
+      {
+        "text": "A quarter turn",
+        "is_correct": false
+      },
+      {
+        "text": "A half turn",
+        "is_correct": true
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A half turn is 180 degrees and points in the opposite direction.",
+      "hint": "Think of turning from north to south."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "compose_full_turn",
+    "question": "In the robot game, how many quarter turns make a full turn?",
+    "audio_prompt": "In the robot game, how many quarter turns make a full turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-005",
+      "alt_text": "In the robot game: Four quarter-turn arrows moving around a full circle."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four equal quarter turns go all the way around.",
+      "hint": "Count the four directions around a compass."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_three_quarter_turn",
+    "question": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
+    "audio_prompt": "In the robot game, a three-quarter clockwise turn from north ends facing which direction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-006",
+      "alt_text": "In the robot game: Arrow after three clockwise quarter turns from north, facing west."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": true
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three clockwise quarter turns from north finish at west.",
+      "hint": "Move clockwise three steps, one direction at a time."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "choose_shortest_turn",
+    "question": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
+    "audio_prompt": "In the robot game, a robot turns from north to east. Which is the shortest turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-007",
+      "alt_text": "In the robot game: Robot arrow changing from north to east."
+    },
+    "answers": [
+      {
+        "text": "A half turn",
+        "is_correct": false
+      },
+      {
+        "text": "A clockwise quarter turn",
+        "is_correct": true
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "east is one clockwise quarter turn from north.",
+      "hint": "Choose the turn that reaches the new direction in one step."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "describe_three_quarter_turn",
+    "question": "In the robot game, which instruction describes three quarter turns?",
+    "audio_prompt": "In the robot game, which instruction describes three quarter turns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-008",
+      "alt_text": "In the robot game: Three quarter-turn steps shown around a circle."
+    },
+    "answers": [
+      {
+        "text": "Turn quarter, quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Turn all the way around",
+        "is_correct": false
+      },
+      {
+        "text": "Turn quarter, quarter, quarter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three quarter turns are three equal one-quarter rotations.",
+      "hint": "Count exactly three quarter-turn actions."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_quarter_turn",
+    "question": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a clockwise quarter turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-009",
+      "alt_text": "On the playground: Arrow starts facing east and turns clockwise to face south."
+    },
+    "answers": [
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clockwise quarter turn moves one direction around: east to south.",
+      "hint": "Move one step clockwise around north, east, south and west."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_half_turn",
+    "question": "On the playground, an arrow faces east. After a half turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a half turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-010",
+      "alt_text": "On the playground: Arrow after a half turn from east, facing west."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A half turn faces the opposite direction, so east becomes west.",
+      "hint": "A half turn is two quarter turns."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_full_turn",
+    "question": "On the playground, an arrow faces east. After a full turn, where does it face?",
+    "audio_prompt": "On the playground, an arrow faces east. After a full turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-011",
+      "alt_text": "On the playground: Arrow completes a full turn and faces east again."
+    },
+    "answers": [
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A full turn goes all the way around and ends facing east again.",
+      "hint": "Spin once and notice the starting and finishing direction match."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "identify_half_turn",
+    "question": "On the playground, which turn makes an object face the opposite way?",
+    "audio_prompt": "On the playground, which turn makes an object face the opposite way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-012",
+      "alt_text": "On the playground: Arrow facing the opposite direction after a half turn."
+    },
+    "answers": [
+      {
+        "text": "A half turn",
+        "is_correct": true
+      },
+      {
+        "text": "A quarter turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A half turn is 180 degrees and points in the opposite direction.",
+      "hint": "Think of turning from north to south."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "compose_full_turn",
+    "question": "On the playground, how many quarter turns make a full turn?",
+    "audio_prompt": "On the playground, how many quarter turns make a full turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-013",
+      "alt_text": "On the playground: Four quarter-turn arrows moving around a full circle."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Four equal quarter turns go all the way around.",
+      "hint": "Count the four directions around a compass."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_three_quarter_turn",
+    "question": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
+    "audio_prompt": "On the playground, a three-quarter clockwise turn from east ends facing which direction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-014",
+      "alt_text": "On the playground: Arrow after three clockwise quarter turns from east, facing north."
+    },
+    "answers": [
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three clockwise quarter turns from east finish at north.",
+      "hint": "Move clockwise three steps, one direction at a time."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "choose_shortest_turn",
+    "question": "On the playground, a robot turns from east to south. Which is the shortest turn?",
+    "audio_prompt": "On the playground, a robot turns from east to south. Which is the shortest turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-015",
+      "alt_text": "On the playground: Robot arrow changing from east to south."
+    },
+    "answers": [
+      {
+        "text": "A clockwise quarter turn",
+        "is_correct": true
+      },
+      {
+        "text": "A half turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "south is one clockwise quarter turn from east.",
+      "hint": "Choose the turn that reaches the new direction in one step."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "describe_three_quarter_turn",
+    "question": "On the playground, which instruction describes three quarter turns?",
+    "audio_prompt": "On the playground, which instruction describes three quarter turns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-016",
+      "alt_text": "On the playground: Three quarter-turn steps shown around a circle."
+    },
+    "answers": [
+      {
+        "text": "Turn quarter, quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Turn quarter, quarter, quarter",
+        "is_correct": true
+      },
+      {
+        "text": "Turn all the way around",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three quarter turns are three equal one-quarter rotations.",
+      "hint": "Count exactly three quarter-turn actions."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_quarter_turn",
+    "question": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a clockwise quarter turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-017",
+      "alt_text": "At the dance station: Arrow starts facing south and turns clockwise to face west."
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A clockwise quarter turn moves one direction around: south to west.",
+      "hint": "Move one step clockwise around north, east, south and west."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_half_turn",
+    "question": "At the dance station, an arrow faces south. After a half turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a half turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-018",
+      "alt_text": "At the dance station: Arrow after a half turn from south, facing north."
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A half turn faces the opposite direction, so south becomes north.",
+      "hint": "A half turn is two quarter turns."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_full_turn",
+    "question": "At the dance station, an arrow faces south. After a full turn, where does it face?",
+    "audio_prompt": "At the dance station, an arrow faces south. After a full turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-019",
+      "alt_text": "At the dance station: Arrow completes a full turn and faces south again."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A full turn goes all the way around and ends facing south again.",
+      "hint": "Spin once and notice the starting and finishing direction match."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "identify_half_turn",
+    "question": "At the dance station, which turn makes an object face the opposite way?",
+    "audio_prompt": "At the dance station, which turn makes an object face the opposite way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-020",
+      "alt_text": "At the dance station: Arrow facing the opposite direction after a half turn."
+    },
+    "answers": [
+      {
+        "text": "A quarter turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      },
+      {
+        "text": "A half turn",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A half turn is 180 degrees and points in the opposite direction.",
+      "hint": "Think of turning from north to south."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "compose_full_turn",
+    "question": "At the dance station, how many quarter turns make a full turn?",
+    "audio_prompt": "At the dance station, how many quarter turns make a full turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-021",
+      "alt_text": "At the dance station: Four quarter-turn arrows moving around a full circle."
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four equal quarter turns go all the way around.",
+      "hint": "Count the four directions around a compass."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "follow_three_quarter_turn",
+    "question": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
+    "audio_prompt": "At the dance station, a three-quarter clockwise turn from south ends facing which direction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-022",
+      "alt_text": "At the dance station: Arrow after three clockwise quarter turns from south, facing east."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three clockwise quarter turns from south finish at east.",
+      "hint": "Move clockwise three steps, one direction at a time."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "choose_shortest_turn",
+    "question": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
+    "audio_prompt": "At the dance station, a robot turns from south to west. Which is the shortest turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-023",
+      "alt_text": "At the dance station: Robot arrow changing from south to west."
+    },
+    "answers": [
+      {
+        "text": "A half turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      },
+      {
+        "text": "A clockwise quarter turn",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "west is one clockwise quarter turn from south.",
+      "hint": "Choose the turn that reaches the new direction in one step."
+    }
+  },
+  {
+    "id": "AC9M3M05-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "practice",
+    "skill": "describe_three_quarter_turn",
+    "question": "At the dance station, which instruction describes three quarter turns?",
+    "audio_prompt": "At the dance station, which instruction describes three quarter turns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-p-024",
+      "alt_text": "At the dance station: Three quarter-turn steps shown around a circle."
+    },
+    "answers": [
+      {
+        "text": "Turn quarter, quarter, quarter",
+        "is_correct": true
+      },
+      {
+        "text": "Turn quarter, quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Turn all the way around",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three quarter turns are three equal one-quarter rotations.",
+      "hint": "Count exactly three quarter-turn actions."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_quarter_turn",
+    "question": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-001",
+      "alt_text": "With an arrow card: Arrow starts facing west and turns clockwise to face north."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A clockwise quarter turn moves one direction around: west to north.",
+      "hint": "Move one step clockwise around north, east, south and west."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_half_turn",
+    "question": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-002",
+      "alt_text": "With an arrow card: Arrow after a half turn from west, facing east."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A half turn faces the opposite direction, so west becomes east.",
+      "hint": "A half turn is two quarter turns."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_full_turn",
+    "question": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
+    "audio_prompt": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-003",
+      "alt_text": "With an arrow card: Arrow completes a full turn and faces west again."
+    },
+    "answers": [
+      {
+        "text": "west",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A full turn goes all the way around and ends facing west again.",
+      "hint": "Spin once and notice the starting and finishing direction match."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "identify_half_turn",
+    "question": "With an arrow card, which turn makes an object face the opposite way?",
+    "audio_prompt": "With an arrow card, which turn makes an object face the opposite way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-004",
+      "alt_text": "With an arrow card: Arrow facing the opposite direction after a half turn."
+    },
+    "answers": [
+      {
+        "text": "A quarter turn",
+        "is_correct": false
+      },
+      {
+        "text": "A half turn",
+        "is_correct": true
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A half turn is 180 degrees and points in the opposite direction.",
+      "hint": "Think of turning from north to south."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "compose_full_turn",
+    "question": "With an arrow card, how many quarter turns make a full turn?",
+    "audio_prompt": "With an arrow card, how many quarter turns make a full turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-005",
+      "alt_text": "With an arrow card: Four quarter-turn arrows moving around a full circle."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four equal quarter turns go all the way around.",
+      "hint": "Count the four directions around a compass."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_three_quarter_turn",
+    "question": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
+    "audio_prompt": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-006",
+      "alt_text": "With an arrow card: Arrow after three clockwise quarter turns from west, facing south."
+    },
+    "answers": [
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three clockwise quarter turns from west finish at south.",
+      "hint": "Move clockwise three steps, one direction at a time."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "choose_shortest_turn",
+    "question": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
+    "audio_prompt": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-007",
+      "alt_text": "With an arrow card: Robot arrow changing from west to north."
+    },
+    "answers": [
+      {
+        "text": "A half turn",
+        "is_correct": false
+      },
+      {
+        "text": "A clockwise quarter turn",
+        "is_correct": true
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "north is one clockwise quarter turn from west.",
+      "hint": "Choose the turn that reaches the new direction in one step."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "describe_three_quarter_turn",
+    "question": "With an arrow card, which instruction describes three quarter turns?",
+    "audio_prompt": "With an arrow card, which instruction describes three quarter turns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-008",
+      "alt_text": "With an arrow card: Three quarter-turn steps shown around a circle."
+    },
+    "answers": [
+      {
+        "text": "Turn quarter, quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Turn all the way around",
+        "is_correct": false
+      },
+      {
+        "text": "Turn quarter, quarter, quarter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three quarter turns are three equal one-quarter rotations.",
+      "hint": "Count exactly three quarter-turn actions."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_quarter_turn",
+    "question": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-009",
+      "alt_text": "In the direction challenge: Arrow starts facing north and turns clockwise to face east."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": true
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clockwise quarter turn moves one direction around: north to east.",
+      "hint": "Move one step clockwise around north, east, south and west."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_half_turn",
+    "question": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-010",
+      "alt_text": "In the direction challenge: Arrow after a half turn from north, facing south."
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": true
+      },
+      {
+        "text": "east",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A half turn faces the opposite direction, so north becomes south.",
+      "hint": "A half turn is two quarter turns."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_full_turn",
+    "question": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
+    "audio_prompt": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-011",
+      "alt_text": "In the direction challenge: Arrow completes a full turn and faces north again."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A full turn goes all the way around and ends facing north again.",
+      "hint": "Spin once and notice the starting and finishing direction match."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "identify_half_turn",
+    "question": "In the direction challenge, which turn makes an object face the opposite way?",
+    "audio_prompt": "In the direction challenge, which turn makes an object face the opposite way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-012",
+      "alt_text": "In the direction challenge: Arrow facing the opposite direction after a half turn."
+    },
+    "answers": [
+      {
+        "text": "A half turn",
+        "is_correct": true
+      },
+      {
+        "text": "A quarter turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A half turn is 180 degrees and points in the opposite direction.",
+      "hint": "Think of turning from north to south."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "compose_full_turn",
+    "question": "In the direction challenge, how many quarter turns make a full turn?",
+    "audio_prompt": "In the direction challenge, how many quarter turns make a full turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-013",
+      "alt_text": "In the direction challenge: Four quarter-turn arrows moving around a full circle."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Four equal quarter turns go all the way around.",
+      "hint": "Count the four directions around a compass."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "follow_three_quarter_turn",
+    "question": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
+    "audio_prompt": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-014",
+      "alt_text": "In the direction challenge: Arrow after three clockwise quarter turns from north, facing west."
+    },
+    "answers": [
+      {
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three clockwise quarter turns from north finish at west.",
+      "hint": "Move clockwise three steps, one direction at a time."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "choose_shortest_turn",
+    "question": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
+    "audio_prompt": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-015",
+      "alt_text": "In the direction challenge: Robot arrow changing from north to east."
+    },
+    "answers": [
+      {
+        "text": "A clockwise quarter turn",
+        "is_correct": true
+      },
+      {
+        "text": "A half turn",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "east is one clockwise quarter turn from north.",
+      "hint": "Choose the turn that reaches the new direction in one step."
+    }
+  },
+  {
+    "id": "AC9M3M05-T-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M05",
+    "bank": "test",
+    "skill": "describe_three_quarter_turn",
+    "question": "In the direction challenge, which instruction describes three quarter turns?",
+    "audio_prompt": "In the direction challenge, which instruction describes three quarter turns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-016",
+      "alt_text": "In the direction challenge: Three quarter-turn steps shown around a circle."
+    },
+    "answers": [
+      {
+        "text": "Turn quarter, quarter",
+        "is_correct": false
+      },
+      {
+        "text": "Turn quarter, quarter, quarter",
+        "is_correct": true
+      },
+      {
+        "text": "Turn all the way around",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three quarter turns are three equal one-quarter rotations.",
+      "hint": "Count exactly three quarter-turn actions."
+    }
+  }
+]
