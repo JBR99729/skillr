@@ -15,14 +15,16 @@
     gtag("config", "G-8P22BET45N", { page_path: "/dashboard/" });
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script>
-  <link rel="manifest" href="/manifest.webmanifest?v=2">
+  <link rel="manifest" href="/manifest.webmanifest?v=3">
+  <link rel="icon" href="/icons/skillrhub-mark.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
-  <link rel="stylesheet" href="/style.css?v=20260813-3">
+  <link rel="stylesheet" href="/style.css?v=20260813-5">
   <link rel="stylesheet" href="/dashboard/style.css?v=20260813-2">
 </head>
 <body class="progress-page">
   <main class="progress-shell">
     <nav class="dashboard-nav" aria-label="Main navigation">
+      <a class="skillr-nav-brand" href="/" aria-label="SkillrHub home"><img src="/icons/skillrhub-mark.svg" alt="" width="30" height="30"><span>SkillrHub</span></a>
       <a href="/">Home</a>
       <a href="/dashboard/" aria-current="page">Dashboard</a>
       <a href="/blogs/">Blogs</a>
@@ -49,17 +51,17 @@
         </div>
       </div>
       <div class="progress-header-actions">
-        <button id="installButton" class="install-pill" type="button"><span aria-hidden="true">📲</span> Install app</button>
+        <button id="installButton" class="install-pill" type="button"><svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#install"></use></svg> Install app</button>
         <a class="progress-home" href="/">Back to learning</a>
       </div>
     </header>
 
     <section class="dashboard-quick-tools" aria-label="Quick classroom tools">
       <button id="quickWarmup" class="dashboard-tool-button dashboard-tool-button--warmup" type="button">
-        <span aria-hidden="true">🎲</span><span><strong>Quick Class Warm-Up</strong><small>Open one question based on recent practice</small></span>
+        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#dice"></use></svg></span><span><strong>Quick Class Warm-Up</strong><small>Open one question based on recent practice</small></span>
       </button>
       <button id="saveSnapshot" class="dashboard-tool-button" type="button">
-        <span aria-hidden="true">📸</span><span><strong>Save Progress Snapshot</strong><small>Download a private image for a teacher or portfolio</small></span>
+        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#camera"></use></svg></span><span><strong>Save Progress Snapshot</strong><small>Download a private image for a teacher or portfolio</small></span>
       </button>
       <p id="dashboardToolMessage" class="dashboard-tool-message" role="status"></p>
     </section>
@@ -107,6 +109,6 @@
   </main>
   <script src="/assets/progress-store.js?v=3" data-skillr-progress="true"></script>
   <script src="/dashboard/script.js?v=20260813-2"></script>
-  <script src="/pwa-register.js?v=3"></script>
+  <script src="/pwa-register.js?v=5"></script>
 </body>
 </html>

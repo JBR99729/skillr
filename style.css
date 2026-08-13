@@ -2138,6 +2138,9 @@ footer {
 }
 
 .site-header__brand {
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
     flex: 0 0 auto;
     padding: 8px 0;
     border-radius: 4px;
@@ -2148,6 +2151,8 @@ footer {
     letter-spacing: -0.02em;
     text-decoration: none;
 }
+.site-header__brand img { width:38px; height:38px; border-radius:10px; box-shadow:0 5px 12px rgba(23,51,95,.18); }
+.site-header__brand strong { color:var(--slate-950); font:inherit; }
 
 .site-header__brand span {
     color: var(--maths);
@@ -2461,7 +2466,12 @@ footer {
 
 .home-subjects {
     display: grid;
-    gap: 8px;
+    gap: 9px;
+    align-content:center;
+    padding:12px;
+    border:1px solid rgba(148,163,184,.35);
+    border-radius:14px;
+    background:rgba(255,255,255,.48);
 }
 
 .home-subject-card {
@@ -2469,7 +2479,7 @@ footer {
     display: grid;
     grid-template-columns: 40px minmax(0, 1fr);
     gap: 12px;
-    min-height: 64px;
+    min-height: 68px;
     padding: 10px 12px;
     align-items: center;
     border: 1px solid #cbd5e1;
@@ -2479,6 +2489,40 @@ footer {
     color: var(--slate-950);
     text-decoration: none;
 }
+
+.skillr-ui-icon { display:block; width:1.35em; height:1.35em; flex:0 0 auto; }
+.site-search__icon .skillr-ui-icon { width:26px; height:26px; }
+.learning-pathway__dashboard-icon .skillr-ui-icon,.learning-phase__title .skillr-ui-icon { width:22px; height:22px; }
+.daily-drill-hero__icon .skillr-ui-icon { width:23px; height:23px; }
+
+.home-hero-actions { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; }
+.home-hero-action-card {
+    display:flex;
+    min-width:0;
+    min-height:64px;
+    align-items:center;
+    gap:8px;
+    padding:9px 10px;
+    border:1px solid #c8d5e7;
+    border-radius:10px;
+    background:#fff;
+    color:#294466;
+    font:inherit;
+    text-align:left;
+    text-decoration:none;
+    cursor:pointer;
+}
+.home-hero-action-card .skillr-ui-icon { width:22px; height:22px; color:#2457d6; }
+.home-hero-action-card strong,.home-hero-action-card small { display:block; min-width:0; }
+.home-hero-action-card strong { font-size:.78rem; line-height:1.2; }
+.home-hero-action-card small { margin-top:3px; color:#748297; font-size:.65rem; line-height:1.3; overflow-wrap:anywhere; }
+.home-hero-action-card--contact .skillr-ui-icon { color:#15966a; }
+.home-hero-action-card--timer .skillr-ui-icon { color:#b56a00; }
+.home-hero-action-card:hover,.home-hero-action-card:focus-visible { border-color:#7197df; background:#f7faff; transform:translateY(-1px); outline:0; box-shadow:0 6px 15px rgba(36,87,214,.1); }
+
+.skillr-nav-brand { display:inline-flex!important; align-items:center; gap:7px; margin-right:auto!important; padding:3px 8px 3px 3px!important; color:#17335f!important; }
+.skillr-nav-brand img { width:30px; height:30px; border-radius:8px; box-shadow:0 4px 10px rgba(23,51,95,.16); }
+.skillr-nav-brand span { font-weight:900; }
 
 .home-subject-card--science {
     --subject-color: var(--science);
@@ -2560,14 +2604,15 @@ footer {
     }
 
     .home-subjects {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
     .home-subject-card {
-        grid-template-columns: 1fr;
-        min-height: 120px;
-        align-content: start;
+        grid-template-columns:40px minmax(0,1fr);
+        min-height:68px;
     }
+    .home-subject-card--english { grid-column:1/-1; }
+    .home-hero-actions { grid-column:1/-1; }
 }
 
 @media (max-width: 600px) {
@@ -2629,12 +2674,16 @@ footer {
 
     .home-subjects {
         grid-template-columns: 1fr;
+        padding:9px;
     }
 
     .home-subject-card {
         grid-template-columns: 40px minmax(0, 1fr);
         min-height: 64px;
     }
+    .home-subject-card--english,.home-hero-actions { grid-column:auto; }
+    .home-hero-actions { grid-template-columns:1fr; }
+    .home-hero-action-card { min-height:56px; }
 
     .home-page .resource-quickstart {
         margin-top: 16px;
