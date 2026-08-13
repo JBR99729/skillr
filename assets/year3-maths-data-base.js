@@ -174,12 +174,15 @@
       const activities = (s.activities || []).map((activity) => ({
         title: activity.title,
         text: activity.text,
+        visual_spec: activity.visual,
         visual_html: visual(activity.visual)
       }));
       let fillIndex=0;
       const selectedWorksheet = (s.worksheet || []).filter((item, index) => index < 6 || index === 7 || item.enrichment).slice(0, 9);
       const questions = selectedWorksheet.map((item, index) => {
         const tier = index < 3 ? "warm-up" : index < 7 ? "core" : "extension";
+        const sheetNumber = index < 5 ? 1 : 2;
+        const sheetIndex = sheetNumber === 1 ? index + 1 : index - 4;
         const alignment = index === 6
           ? {kind:"misconception", target:s.mistakes[0][0]}
           : index === 3 || index === 7
@@ -190,13 +193,21 @@
                 ? {kind:"vocabulary", target:vocabulary[code][index === 1 ? 0 : 1][0]}
                 : {kind:"concept", target:s.title};
         const answer = item.answer || (item.type === "single" ? item.answers?.[0] : item.type === "match" ? resolved[code].match : item.type === "fill-blank" ? resolved[code].fill[fillIndex++] : `A complete response should ${item.question.charAt(0).toLowerCase()}${item.question.slice(1).replace(/[?.]$/,"")}, show a correct representation or calculation, and justify the conclusion using ${vocabulary[code][0][0]}.`);
-        return {...item, enrichment:tier === "extension", tier, alignment, answer,
+        return {...item, id:`${code.toLowerCase()}-topic-practice-${sheetNumber}-q${sheetIndex}`, sheet_id:`${code.toLowerCase()}-topic-practice-${sheetNumber}`, enrichment:tier === "extension", tier, alignment, answer,
           summary:item.summary || `For “${item.question}”, ${answer} This follows the ${vocabulary[code][0][0]} relationship shown by the given information.`,
           hint:item.hint || `Underline the information in “${item.question}”, then use ${index < 3 ? s.model_title.toLowerCase() : s.apply_title.toLowerCase()} to complete one step at a time.`};
       });
       const workedExamples = [
         {title:s.model_title, visual_html:model, alt:`Visual model for ${s.model_title.toLowerCase()} in ${s.title.toLowerCase()}.`, steps:[`Set up the quantities and labels shown in “${s.model_title}”.`, s.model_note, `Use ${vocabulary[code][0][0]} to check that the model answers ${s.quick[0].toLowerCase()}`]},
         {title:s.apply_title, visual_html:apply, alt:`Application model for ${s.apply_title.toLowerCase()} in ${s.title.toLowerCase()}.`, steps:[`Use the new values and relationships shown in “${s.apply_title}”.`, s.apply_note, `Explain the result using the terms ${vocabulary[code][1][0]} and ${vocabulary[code][2][0]}.`]}
+      ];
+      const topicId=`year3-mathematics-${code.toLowerCase()}`;
+      const deepDive=[`${s.learn} This matters because ${s.model_note.charAt(0).toLowerCase()}${s.model_note.slice(1)}`, `${s.apply_note} Use this idea when a problem asks you to ${s.apply_title.toLowerCase()}, and explain the result with ${vocabulary[code].map(x=>x[0]).join(", ")}.`];
+      const slideExport=[
+        {id:`${topicId}-slide-1`,role:"learning-intention",learning_intention:`We are learning to ${s.desc}.`,success_criteria:(s.mastery || []).slice(0,3).map((text)=>`I can ${text.charAt(0).toLowerCase()}${text.slice(1)}.`)},
+        {id:`${topicId}-slide-2`,role:"concept-refresher",title:s.model_title,visual_html:model,visual_alt:`Visual model for ${s.model_title.toLowerCase()} in ${s.title.toLowerCase()}.`,vocabulary:vocabulary[code]},
+        {id:`${topicId}-slide-3`,role:"guided-example",example:workedExamples[0]},
+        {id:`${topicId}-slide-4`,role:"quick-check",question:s.quick?.[0],expected_response:resolved[code].quick,remediation:s.mistakes?.[0]?.[1]}
       ];
       return [code, {
         slug: s.slug,
@@ -206,8 +217,12 @@
         routine: s.routine,
         learn: s.learn,
         model_title: s.model_title,
+        model_spec: s.model_visual,
+        model_note: s.model_note,
         model_html: board(`${model}<p>${esc(s.model_note)}</p>`),
         apply_title: s.apply_title,
+        apply_spec: s.apply_visual,
+        apply_note: s.apply_note,
         apply_html: board(`${apply}<p>${esc(s.apply_note)}</p>`),
         hero_visual: `<div role="img" aria-label="Two visual models for ${esc(s.title)}">${board(`${model}${apply}`)}</div>`,
         quick_visuals: [
@@ -220,7 +235,7 @@
         quick: s.quick,
         mastery: s.mastery,
         vocabulary: vocabulary[code],
-        deep_dive: [`${s.learn} This matters because ${s.model_note.charAt(0).toLowerCase()}${s.model_note.slice(1)}`, `${s.apply_note} Use this idea when a problem asks you to ${s.apply_title.toLowerCase()}, and explain the result with ${vocabulary[code].map(x=>x[0]).join(", ")}.`],
+        deep_dive: deepDive,
         worked_examples: workedExamples,
         worksheet: questions,
         slides: {
@@ -229,6 +244,12 @@
           quick_check:s.quick?.[0] || questions[0]?.question,
           expected_response:resolved[code].quick,
           remediation:s.mistakes?.[0]?.[1] || "Return to the visual model and explain one step at a time."
+        },
+        commercial_master: {
+          schema:"topic-module-export-v1",year:3,subject:"Mathematics",code,topic_id:topicId,title:s.title,description:s.desc,
+          topic:{deep_dive:deepDive,vocabulary:vocabulary[code],misconceptions:s.mistakes,worked_examples:workedExamples},
+          slides:slideExport,
+          sheets:[1,2].map(number=>({id:`${code.toLowerCase()}-topic-practice-${number}`,title:`Topic Practice ${number}`,questions:questions.filter(q=>q.sheet_id===`${code.toLowerCase()}-topic-practice-${number}`)}))
         }
       }];
     }));

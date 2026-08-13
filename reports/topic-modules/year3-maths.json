@@ -1,5 +1,5 @@
 {
-  "standard": "SkillrHub connected topic module v1",
+  "standard": "SkillrHub Topic Guide + Teacher Slide v1.1",
   "updated": "2026-08-14",
   "year": 3,
   "subject": "Mathematics",
@@ -7,7 +7,10 @@
   "codes": 23,
   "topicPages": 23,
   "teacherDecks": 23,
-  "practiceSheets": 23,
+  "curriculumElaborations": 99,
+  "parameterisedModels": 145,
+  "selectableSlides": 237,
+  "practiceSheets": 46,
   "worksheetQuestions": 207,
   "tierTotals": { "warmUp": 69, "core": 92, "challenge": 46 },
   "preserved": [
@@ -27,5 +30,30 @@
     "legacy topic HTML reference sections": "retained as collapsed curriculum, mapping and source references",
     "worksheets/year3/maths/teacher-slides/*-teacher-slide.pdf": "retained and linked as optional legacy one-page teacher resources"
   },
-  "validation": "23/23 local atomic-deliverable pass; concept, vocabulary, misconception and both-model alignment; bidirectional links; A4 logo, answer-key and overflow print gates"
+  "validation": "23/23 v1.1 and topic-practice retrofit pass; all 99 elaborations have an explicit accessible visual teaching map, slide and checkpoint; 145 parameterised models and 237 aligned selectable 16:9 slides; exact 5/4 worksheet partition, stable URLs, per-sheet keys, horizontal options, links and A4 print gate included",
+  "v11": {
+    "schemaVersion": "1.1",
+    "canonicalSource": "one code-specific lesson specification renders the live Topic Guide and Teacher Slides",
+    "conceptBoundary": "Must teach, Prerequisites, May support informally and Must not overteach are present for every code",
+    "teacherLayer": "every slide stores Teacher does, Teacher says/asks, Student does, What to look for and If incorrect",
+    "checkpoints": "20–30 second checkpoint after each main model, application and elaboration, with expected answer, acceptable evidence, likely error, remediation and continue/reteach decision",
+    "authoredElaborationProfiles": "99 explicit code-and-elaboration profiles; each stores a concrete context, worked Given/Model/Result, approved component and numeric contract ranges, accessible description, direct mathematical checkpoint answer, evidence, likely error, remediation and dedicated teaching moves; no modulo or wording-only selection",
+    "differentiation": "Support, Core and Extend stay within each code boundary",
+    "preservation": "legacy curriculum text, authored models/activities, one-page PDFs, navigation, Practice/Test and paired worksheets remain available"
+  },
+  "retrofit": {
+    "entryCompatibility": "/quiz/year-3/math/{code}/worksheet/ opens Topic Practice 1",
+    "topicPractice1": "/quiz/year-3/math/{code}/worksheet/topic-practice-1/",
+    "topicPractice2": "/quiz/year-3/math/{code}/worksheet/topic-practice-2/",
+    "partition": "questions 1–5 / questions 6–9; no deletion or duplication",
+    "titles": ["Topic Practice 1", "Topic Practice 2"],
+    "answerKeys": "each sheet prints only the key for its own questions",
+    "commercialMaster": {
+      "schema": "topic-module-export-v1",
+      "identity": "stable year, subject, code and topic_id per module; stable slide, sheet and question IDs",
+      "content": "brand-neutral canonical topic, four slides and two worksheet data sets preserve answers, summaries, hints, alignment and visual alt",
+      "publicBranding": "SkillrHub name, logo and watermark remain in public renderer chrome only",
+      "privateWrites": false
+    }
+  }
 }
