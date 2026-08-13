@@ -56,6 +56,33 @@
       workedExample2:spec.applyTitle,
       visualTerminology:[...new Set([...modelSteps, ...applySteps])].slice(0, 10)
     };
+    const masterMetadata = {
+      schema:"topic-module-export-v1",
+      year:4,
+      yearLabel:"Year 4",
+      subject:"Science",
+      code,
+      topic:unit.title,
+      topicSlug:unit.slug
+    };
+    unit.commercialMaster = {
+      metadata:masterMetadata,
+      teacherSlides:[
+        { slideId:`${code}-slide-1`, role:"learning-intention-success-criteria", title:`We are learning to ${unit.title.toLowerCase()}`, learningIntention:unit.learn, successCriteria:unit.mastery.slice(0, 4), teacherGuidance:"Introduce the full curriculum identity, then ask students to paraphrase the learning intention." },
+        { slideId:`${code}-slide-2`, role:"concept-refresher-visual-clues", title:spec.modelTitle, visual:{ type:spec.modelType || "flow", data:spec.model, alt:unit.visualAlt }, vocabulary:unit.vocabulary, teacherGuidance:"Point to each part of the model. Use the vocabulary aloud and connect it to an observable feature." },
+        { slideId:`${code}-slide-3`, role:"guided-worked-example", title:unit.workedExamples[0].title, steps:unit.workedExamples[0].steps, conclusion:unit.workedExamples[0].conclusion, visual:{ type:spec.modelType || "flow", data:spec.model, alt:`${unit.workedExamples[0].title}. ${unit.workedExamples[0].steps.join("; ")}` }, teacherGuidance:"Model every step aloud. Pause before the conclusion and ask students which evidence supports it." },
+        { slideId:`${code}-slide-4`, role:"quick-check-turn-and-talk", title:unit.slideQuickCheck, expectedResponse:unit.slideExpected, remediation:unit.slideRemediation, teacherGuidance:"Listen for precise vocabulary and an evidence connection. Use the remediation prompt for the most likely misconception." }
+      ],
+      topicPractice:{
+        questionBank:Object.fromEntries(worksheet.map((item) => [item.id, item])),
+        sheets:[
+          { sheetId:"topic-practice-1", title:"Topic Practice 1", year:4, subject:"Science", code, topic:unit.title, questionIds:worksheet.slice(0, 5).map((item) => item.id) },
+          { sheetId:"topic-practice-2", title:"Topic Practice 2", year:4, subject:"Science", code, topic:unit.title, questionIds:worksheet.slice(5, 9).map((item) => item.id) }
+        ]
+      }
+    };
+    window.SkillrYear4ScienceCommercialMasterData = window.SkillrYear4ScienceCommercialMasterData || {};
+    window.SkillrYear4ScienceCommercialMasterData[code] = unit.commercialMaster;
     window.SkillrYear4ScienceWorksheetData[code] = { title:unit.title, yearLabel:"Year 4 Science", questions:worksheet };
   });
 })();

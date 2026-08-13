@@ -110,7 +110,7 @@
     "/assets/year4-maths-data-st.js?v=5",
     "/assets/year4-maths-data-p.js?v=5"
   ];
-  const year4ScienceData = ["/assets/year4-subject-data-base.js?v=1", "/assets/year4-science-data.js?v=1", "/assets/year4-science-topic-modules.js?v=1"];
+  const year4ScienceData = ["/assets/year4-subject-data-base.js?v=1", "/assets/year4-science-data.js?v=1", "/assets/year4-science-topic-modules.js?v=2"];
   const year4EnglishData = [
     "/assets/year4-subject-data-base.js?v=1",
     "/assets/year4-english-data-la1.js?v=1",
@@ -169,9 +169,9 @@
     [/^\/year4\/maths\/ac9m4/i, [...year4MathsData, "/assets/year4-maths-render.js?v=5"]],
     [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/(practice|test)\/?$/i, [...year4MathsData, "/assets/year4-maths-practice-quick-read.js?v=5"]],
     [/^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/worksheet\/?$/i, [...year4MathsData, "/assets/year4-maths-worksheet-page.js?v=5"]],
-    [/^\/year4\/science\/ac9s4/i, [...year4ScienceData, "/assets/year4-science-topic-render.js?v=1"]],
+    [/^\/year4\/science\/ac9s4/i, [...year4ScienceData, "/assets/year4-science-topic-render.js?v=2"]],
     [/^\/quiz\/year-4\/science\/ac9s4[a-z0-9]+\/(practice|test)\/?$/i, [...year4ScienceData, "/assets/year4-subject-quick-read.js?v=1"]],
-    [/^\/quiz\/year-4\/science\/ac9s4[a-z0-9]+\/worksheet\/?$/i, [...year4ScienceData, "/assets/year4-science-worksheet.js?v=1"]],
+    [/^\/quiz\/year-4\/science\/ac9s4[a-z0-9]+\/worksheet\/?$/i, [...year4ScienceData, "/assets/year4-science-worksheet.js?v=2"]],
     [/^\/year4\/english\/ac9e4/i, [...year4EnglishData, "/assets/year4-subject-render.js?v=1"]],
     [/^\/quiz\/year-4\/english\/ac9e4[a-z0-9]+\/(practice|test)\/?$/i, [...year4EnglishData, "/assets/year4-subject-quick-read.js?v=1"]],
     [/^\/quiz\/year-4\/english\/ac9e4[a-z0-9]+\/worksheet\/?$/i, [...year4EnglishData, "/assets/year4-subject-worksheet-page.js?v=1"]]

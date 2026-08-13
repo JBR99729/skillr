@@ -7,8 +7,39 @@
   "deliverables": {
     "topicPages": 12,
     "coreTeacherSlides": 48,
-    "practiceSheets": 12,
+    "practiceSheets": 24,
     "practiceQuestions": 108
+  },
+  "topicPracticeRetrofit": {
+    "status": "validated-local",
+    "sheetsPerCode": 2,
+    "titles": ["Topic Practice 1", "Topic Practice 2"],
+    "stableQueryRoutes": ["?sheet=topic-practice-1", "?sheet=topic-practice-2"],
+    "partition": {
+      "Topic Practice 1": "questions 1–5; 3 Warm-Up and 2 Core Practice",
+      "Topic Practice 2": "questions 6–9; 2 Core Practice and 2 Extension / Challenge"
+    },
+    "compatibility": "The existing worksheet URL remains valid and defaults to Topic Practice 1.",
+    "identityGuarantee": "Each of the canonical 9 question IDs appears in exactly one sheet and exactly one corresponding sheet answer key.",
+    "print": "Compact A4 portrait; choices stay horizontal when space permits and wrap only at narrow screen width."
+  },
+  "commercialMasterGate": {
+    "status": "PASS 12/12",
+    "publicBranding": "Topic pages, teacher slides and worksheet renderers retain SkillrHub logo and brand chrome.",
+    "exportSchema": "topic-module-export-v1",
+    "stableMetadata": ["year", "yearLabel", "subject", "code", "topic", "topicSlug"],
+    "teacherSlideData": "Four structured slides per code with stable slide IDs, roles, teacher guidance, expected response, remediation, raw visual data and alt text.",
+    "worksheetData": "Two structured sheet definitions per code with stable sheet IDs, exact titles, 5/4 question-ID partitions and a shared canonical nine-item question bank.",
+    "answerData": "All canonical items retain answer, summary, hint and alignment metadata.",
+    "brandBoundary": "Instructional export payloads and diagram data contain no SkillrHub, logo or public asset-path strings; branding is applied only by public renderers.",
+    "privateRepositoryWrites": "none"
+  },
+  "rolloutCaching": {
+    "status": "PASS",
+    "version": 2,
+    "assets": ["year4-science-topic-modules.js", "year4-science-topic-render.js", "year4-science-worksheet.js", "year4-science-slide.js"],
+    "coverage": "12 topic routes, 12 worksheet routes, live teacher-slide route and progressive loader",
+    "staleVersionGate": "No changed Year 4 Science retrofit asset may retain or mix ?v=1 references."
   },
   "preservedContent": [
     "Australian Curriculum descriptions and elaborations",
@@ -30,6 +61,6 @@
     "requiredCoverage": ["taught concept", "vocabulary", "misconception correction", "worked example 1", "worked example 2", "visual terminology"],
     "result": "PASS 12/12; each of 108 items has recognised alignment tags and source-content anchoring"
   },
-  "printAndLinkQA": "PASS: A4 portrait contract, tier order, answer-key print page, overflow safeguards, valid SVG logo, and all topic/slide/worksheet/Practice/Test/legacy PDF targets",
-  "validation": "PASS 12/12: atomic alignment, schema, routes, 3/4/2 tiers, answer-summary-hint completeness, unique prompts, three-option keys, four slide roles, concealed response/remediation, branding, A4 print and progressive-loader integration"
+  "printAndLinkQA": "PASS: 24 navigable sheet views, exact 5/4 partition, A4 portrait contract, per-sheet answer-key print page, horizontal choice layout, narrow-screen wrapping, overflow safeguards, valid SVG logo, and all topic/slide/worksheet/Practice/Test/legacy PDF targets",
+  "validation": "PASS 12/12: cache-version rollout gate, commercial-master metadata and brand boundary, structured slide and worksheet exports, atomic alignment, non-duplicating Topic Practice 1/2 partition, stable query URLs and compatibility route, exact titles, per-sheet keys, schema, routes, 3/4/2 aggregate tiers, answer-summary-hint completeness, unique prompts, three-option keys, four slide roles, concealed response/remediation, public branding, A4 print and progressive-loader integration"
 }
