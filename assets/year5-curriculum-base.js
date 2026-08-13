@@ -61,7 +61,7 @@
     const terms = (spec.terms || []).slice(0,3);
     const q = spec.questions || {};
     const firstMistake = spec.mistakes?.[0] || ["The main relationship is overlooked", "Return to the model and identify the deciding evidence."];
-    return [
+    const legacy = [
       {type:"single",question:q.choice1?.[0] || `Which statement best describes ${spec.title.toLowerCase()}?`,answers:q.choice1?.[1] || [spec.core,"An unrelated statement","A guess without evidence","The opposite relationship"]},
       {type:"fill-blank",question:q.fill1?.[0] || "Complete the key relationship.",template:q.fill1?.[1] || `${spec.keySentence || spec.core} {{blank}}`},
       {type:"single",question:q.choice2?.[0] || `Which example applies ${spec.title.toLowerCase()} correctly?`,answers:q.choice2?.[1] || [spec.correctExample || spec.applyTitle,"An example that changes the rule","An unsupported opinion","A mismatched representation"]},
@@ -73,6 +73,38 @@
       {type:"text",question:q.enrichment1 || `Create an original example connecting the model and application. Label important features and verify every condition.`,enrichment:true},
       {type:"text",question:q.enrichment2 || `Compare two possible strategies or explanations for this topic. Evaluate which is stronger and justify the decision.`,enrichment:true}
     ];
+    // Keep vocabulary and misconception correction while retaining two distinct challenges.
+    const selected = [...legacy.slice(0,6), legacy[7], ...legacy.slice(8)];
+    return selected.map((question, index) => {
+      const tier = index < 3 ? "warm-up" : index < 7 ? "core" : "challenge";
+      const answer = question.type === "single" ? question.answers[0]
+        : question.type === "match" ? terms.map(([term, meaning]) => `${term} — ${meaning}`).join("; ")
+        : question.type === "fill-blank" ? (index === 1 ? q.fillAnswers?.[0] : q.fillAnswers?.[1])
+        : index === 3 ? q.explainAnswer
+        : index === 6 ? `${firstMistake[0]} is incorrect. ${firstMistake[1]}`
+        : q.challengeAnswers?.[index-7];
+      const focus = index < 4 ? spec.modelTitle : index < 7 ? spec.applyTitle : `${spec.modelTitle} and ${spec.applyTitle}`;
+      const summary = question.type === "single" ? `${answer} is the deciding choice because it matches the relationship shown in ${focus}.`
+        : question.type === "fill-blank" ? `${answer} completes the taught relationship because it preserves the sequence or meaning shown in ${focus}.`
+        : question.type === "match" ? `The ${spec.title.toLowerCase()} matches are correct because each term is paired with its defining scientific meaning rather than a surface example.`
+        : index === 3 ? `The explanation is correct because it links the observed mechanism to evidence from ${spec.modelTitle}.`
+        : index === 6 ? `The correction is sound because it identifies “${firstMistake[0]}” and replaces it with the relationship shown by ${spec.modelTitle}.`
+        : `The model response answers “${question.question}” by applying the relevant process or evidence to that context and including the requested evaluation, check or limitation.`;
+      return {
+        ...question,
+        enrichment:tier === "challenge",
+        tier,
+        answer,
+        summary,
+        hint:`First underline what the question asks you to ${index >= 7 ? "create, compare or evaluate" : "identify or explain"}; then use “${terms[index % Math.max(1,terms.length)]?.[0] || "evidence"}” and one labelled feature from “${focus}”.`
+        ,alignment:index === 0 ? ["concept","worked-example-1"]
+          : index === 1 || index === 4 ? ["vocabulary","concept"]
+          : index === 2 || index === 5 ? ["worked-example-2","concept"]
+          : index === 3 ? ["worked-example-1","evidence"]
+          : index === 6 ? ["misconception-correction","worked-example-1"]
+          : ["worked-example-1","worked-example-2","transfer"]
+      };
+    });
   }
 
   function register(subject, specs, order) {
@@ -80,6 +112,8 @@
     const units = Object.fromEntries(Object.entries(specs).map(([code,spec]) => {
       const modelVisual = visual(spec.modelVisual || {type:"flow",data:spec.model || []});
       const applyVisual = visual(spec.applyVisual || {type:"flow",data:spec.apply || []});
+      const modelAlt = spec.modelAlt || `${spec.modelTitle}: a labelled instructional model showing the key parts and relationships.`;
+      const applyAlt = spec.applyAlt || `${spec.applyTitle}: a labelled evidence model showing how the concept is applied.`;
       const activities = (spec.activities || []).map((activity, index) => ({
         title:activity.title || activity[0],
         text:activity.text || activity[1],
@@ -88,7 +122,22 @@
       const mistakes = spec.mistakes || [["Rule used without meaning","Return to the visual model and explain the relationship."],["One example treated as proof","Test another example or use a general property."],["Answer not checked","Use estimation, evidence, an inverse or a counterexample."]];
       const quick = spec.quick || [`Explain ${spec.modelTitle}.`,`Apply ${spec.applyTitle}.`,`Correct ${mistakes[0][0].toLowerCase()}.`,`Use the key vocabulary accurately.`,`Verify a new example.`];
       const mastery = spec.mastery || ["Represent the concept","Explain the relationship","Apply an efficient strategy","Transfer to a new context","Justify and verify"];
-      const worksheet = autoQuestionSet({...spec,mistakes}, subjectName);
+      const q=spec.questions || {};
+      const worksheet = autoQuestionSet({...spec,mistakes}, subjectName).map((question,index)=>({...question,id:`${code.toLowerCase()}-topic-q${String(index+1).padStart(2,"0")}`}));
+      const commercialMaster={
+        schema:"skillr-commercial-master-v1",year:5,subject:subjectName,code,topic:spec.title,topicSlug:spec.slug,
+        slides:[
+          {id:`${code.toLowerCase()}-slide-1`,role:"learning-intention",screen:{title:spec.title,heading:"We are learning to…",content:[spec.learn],successCriteria:mastery.slice(0,4)},teacherGuidance:"Connect the learning to a familiar observation or prior investigation.",expectedResponse:"Students restate the learning goal and identify evidence they will need.",remediation:mistakes[0][1],visual:{spec:null,alt:`Learning intention for ${spec.title}.`}},
+          {id:`${code.toLowerCase()}-slide-2`,role:"concept-refresher",screen:{title:spec.modelTitle,heading:"Concept refresher and visual clues",content:[spec.modelNote]},teacherGuidance:"Ask students to point to evidence before explaining.",expectedResponse:`Students use ${spec.terms?.slice(0,3).map(([term])=>term).join(", ")} accurately.`,remediation:mistakes[0][1],visual:{spec:spec.modelVisual,alt:modelAlt}},
+          {id:`${code.toLowerCase()}-slide-3`,role:"guided-example",screen:{title:spec.applyTitle,heading:"Guided worked example",content:[spec.applyNote],steps:["Identify the question or system.","Select relevant evidence.","Connect evidence to the explanation.","Check limits or alternatives."]},teacherGuidance:"Model each reasoning step aloud, then invite students to justify the link.",expectedResponse:q.explainAnswer,remediation:mistakes[0][1],visual:{spec:spec.applyVisual,alt:applyAlt}},
+          {id:`${code.toLowerCase()}-slide-4`,role:"quick-check",screen:{title:quick[0],heading:"60-second Quick Check / Turn and Talk",content:["Think silently, then explain your evidence to a partner."]},teacherGuidance:"Conceal the response until partners have shared.",expectedResponse:`Use ${spec.terms?.slice(0,3).map(([term])=>term).join(", ")} and cite evidence from the displayed model.`,remediation:`Return to the labelled visual and apply this correction: ${mistakes[0][1]}`,visual:{spec:spec.modelVisual,alt:modelAlt}}
+        ],
+        questions:worksheet,
+        sheets:[
+          {id:"topic-practice-1",title:`${spec.title} — Topic Practice 1`,questionIds:worksheet.slice(0,5).map(q=>q.id)},
+          {id:"topic-practice-2",title:`${spec.title} — Topic Practice 2`,questionIds:worksheet.slice(5,9).map(q=>q.id)}
+        ]
+      };
       return [code,{
         slug:spec.slug,
         title:spec.title,
@@ -96,12 +145,19 @@
         desc:spec.desc,
         routine:spec.routine || (subject === "maths" ? "Represent → Reason → Calculate → Interpret → Verify" : subject === "science" ? "Observe → Model → Investigate → Analyse → Explain → Evaluate" : "Notice → Analyse → Interpret → Apply → Create → Review"),
         learn:spec.learn,
+        deep_dive:[spec.learn,spec.core,spec.modelNote,spec.applyNote],
+        terms:spec.terms || [],
         model_title:spec.modelTitle,
-        model_html:board(`${modelVisual}<p>${esc(spec.modelNote)}</p>`),
+        model_alt:modelAlt,
+        model_html:`<div role="img" aria-label="${esc(modelAlt)}">${board(`${modelVisual}<p>${esc(spec.modelNote)}</p>`)}</div>`,
         apply_title:spec.applyTitle,
-        apply_html:board(`${applyVisual}<p>${esc(spec.applyNote)}</p>`),
-        hero_visual:board(`${modelVisual}${applyVisual}`),
+        apply_alt:applyAlt,
+        apply_html:`<div role="img" aria-label="${esc(applyAlt)}">${board(`${applyVisual}<p>${esc(spec.applyNote)}</p>`)}</div>`,
+        hero_visual:`<div role="img" aria-label="${esc(`${modelAlt} ${applyAlt}`)}">${board(`${modelVisual}${applyVisual}`)}</div>`,
         quick_visuals:[{label:"Model",html:modelVisual},{label:"Apply",html:applyVisual},{label:"Key terms",html:cards((spec.terms||[]).map((item)=>item[0]))}],
+        preserved_from:["legacy curriculum description and elaborations","existing teacher PDF","existing model and application diagrams","existing activities and quick checks","existing Practice and Test links"],
+        module_meta:{year:5,subject,code,topic:spec.title,curriculum_description:spec.desc,schema:"skillr-topic-module-v1",teacher_slide_roles:["learning-intention","concept-refresher","guided-example","quick-check"],visual_alts:[modelAlt,applyAlt]},
+        commercial_master:commercialMaster,
         activities,
         mistakes,
         quick,
@@ -115,7 +171,7 @@
     const worksheetKey = `SkillrYear5${subjectName}WorksheetData`;
     window[dataKey] = Object.assign(window[dataKey] || {}, units);
     window[orderKey] = [...new Set([...(window[orderKey] || []), ...order])];
-    window[worksheetKey] = Object.assign(window[worksheetKey] || {}, Object.fromEntries(Object.entries(units).map(([code,unit])=>[code,{title:unit.title,questions:unit.worksheet,yearLabel:`Year 5 ${subjectName}`}])));
+    window[worksheetKey] = Object.assign(window[worksheetKey] || {}, Object.fromEntries(Object.entries(units).map(([code,unit])=>[code,{title:unit.title,questions:unit.commercial_master.questions,yearLabel:`Year 5 ${subjectName}`,commercial_master:unit.commercial_master,export_meta:{year:5,subject:subjectName,code,topic:unit.title,schema:"skillr-topic-module-v1",sheets:unit.commercial_master.sheets,includes:["answers","summaries","hints","visual_alts"]}}])));
   }
 
   window.SkillrYear5Register = register;

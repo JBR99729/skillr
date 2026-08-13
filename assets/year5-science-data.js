@@ -25,6 +25,8 @@
       mistakes:[["Any useful action is an inherited adaptation","Some behaviours are learned or immediate responses."],["Organisms choose adaptations because they need them","Adaptations become common across generations through differential survival and reproduction."],["One feature guarantees survival","Several conditions and trade-offs affect success."],["Feature described without mechanism","Explain how it changes access, protection, temperature, water or reproduction."]],
       quick:["Classify structural/behavioural.","Explain one habitat pressure.","Connect feature to mechanism.","Identify a trade-off.","Evaluate adaptation evidence."],
       questions:{
+        fillAnswers:["reproduction","trade-off"],challengeAnswers:["Test one adaptation by comparing repeated observations of organisms with different feature values in the same habitat, while recording food access, survival or reproduction and noting ethical limits and other possible causes.","If a cold habitat becomes much warmer, thick insulation may cause overheating; the feature that once reduced heat loss can become a disadvantage under the changed condition."],
+        explainAnswer:"A thick insulating layer is structural because it reduces heat loss; huddling is behavioural because animals act together to conserve warmth.",
         choice1:["Which is a structural feature?",["a waxy leaf surface","migrating seasonally","hunting at night","learning a route"]],
         fill1:["Complete the adaptation explanation.","A useful adaptation increases the chance of survival or {{blank}} in a particular habitat."],
         choice2:["Which explanation is strongest?",["Wide mangrove roots improve support in unstable mud","Wide roots look interesting","Every plant needs the same roots","The plant chose new roots during one storm"]],
@@ -52,6 +54,8 @@
       mistakes:[["Particles in a solid do not move","They vibrate about fixed positions."],["Gas has no mass","It occupies space and has mass."],["Particles expand when heated","Spacing and motion increase; particle size remains essentially unchanged in the model."],["Liquid particles are far apart","They remain close but can rearrange."]],
       quick:["Compare shape and volume.","Explain gas compression.","Model diffusion.","State one model limitation.","Correct expanding-particle idea."],
       questions:{
+        fillAnswers:["compressible","diffuse"],challengeAnswers:["A 2D particle diagram clearly compares spacing and arrangement, but it cannot show the true three-dimensional motion, scale or number of particles in matter.","Compare a solid keeping its shape, a liquid flowing into a container and air compressing in a sealed syringe; record each observation and explain it using particle spacing and movement."],
+        explainAnswer:"Gas particles move quickly through the available space and are far apart, so they fill a container and can be pushed closer together more than liquid particles.",
         choice1:["Why does a liquid take the shape of its container?",["Its particles can move past one another","Its particles disappear","It has no volume","Its particles are fixed in a lattice"]],
         fill1:["Complete the gas explanation.","Gas particles are widely spaced, so a gas can be {{blank}}."],
         choice2:["Which property distinguishes a solid from a liquid?",["A solid maintains its own shape","A solid has particles","A liquid has mass","A liquid occupies space"]],
@@ -79,6 +83,8 @@
       mistakes:[["Eyes send out light to see","Light from a source reaches objects and then the eye."],["Shadow is reflected light","It is a region receiving less direct light."],["Refraction is reflection","Refraction occurs as light passes between media."],["Black objects contain darkness","They absorb more visible light under the conditions."]],
       quick:["Trace a ray to the eye.","Explain a shadow.","Compare reflection/refraction.","Identify absorption.","Predict shadow size change."],
       questions:{
+        fillAnswers:["reflected","warmer"],challengeAnswers:["Place two mirrors at about 45 degrees inside a tube so light from the object reflects from the top mirror to the lower mirror and then into the viewer’s eye; arrows on the ray diagram show both reflections.","Clear plastic transmits most light, tracing paper transmits but scatters light, and cardboard blocks transmission; compare equal-sized samples with the same torch and measure or rank light reaching a screen."],
+        explainAnswer:"Light travels from the lamp to the book, reflects from the book, and then enters the observer’s eye.",
         choice1:["What causes a shadow?",["An opaque object blocks some straight-line light rays","Darkness flows from an object","The eye stops emitting light","All light is reflected into the shadow"]],
         fill1:["Complete the mirror interaction.","When light changes direction at a mirror, it is {{blank}}."],
         choice2:["Why can a straw appear bent in water?",["Light refracts at the air–water boundary","The straw physically breaks","Water creates a shadow only","The eye emits curved rays"]],
@@ -106,6 +112,8 @@
       mistakes:[["Weathering and erosion are the same","Weathering is breakdown in place; erosion removes material."],["Deposition destroys land only","It builds features such as deltas, beaches and bars."],["Change occurs only during disasters","Slow repeated processes also reshape landscapes."],["Model time equals real time","Classroom models accelerate and simplify processes."]],
       quick:["Distinguish four processes.","Explain vegetation effect.","Predict deposition location.","Identify an agent.","State a model limitation."],
       questions:{
+        fillAnswers:["deposition","transport"],challengeAnswers:["A river delta forms when weathering breaks upstream rock, erosion removes it, transport carries sediment downstream and deposition builds the delta where the river slows.","The stream-table model can support the pattern that faster flow carries more sediment and slower flow deposits it, but it cannot establish real landscape time scales, rock strengths or exact erosion rates."],
+        explainAnswer:"Leaves reduce raindrop impact and roots hold soil together, so less sediment is loosened and carried away by runoff.",
         choice1:["Which process breaks rock down without moving it?",["weathering","erosion","transportation","deposition"]],
         fill1:["Complete the process chain.","weathering → erosion → transportation → {{blank}}"],
         choice2:["Where is deposition most likely?",["where moving water slows","at the steepest fastest flow only","inside unweathered rock","where no sediment exists"]],
@@ -133,6 +141,8 @@
       mistakes:[["One scientist creates final truth","Knowledge develops through many contributions."],["New evidence makes old work worthless","Earlier models may remain useful within limits."],["Agreement proves correctness","Consensus strength depends on evidence and methods."],["Critique means personal attack","Scientific critique addresses claims, evidence and reasoning."]],
       quick:["Name science-cycle stages.","Explain replication.","Why revise explanations?","Identify a contribution type.","Distinguish authority/evidence."],
       questions:{
+        fillAnswers:["refine","evidence"],challengeAnswers:["An observer records a pattern, a technician improves measurement, an analyst compares results, other scientists replicate and critique the work, and communicators share the revised explanation with evidence credited to each contribution.","The reproducible studies provide stronger support because transparent methods and repeated evidence can be checked, whereas agreement among opinions does not test whether the claim matches observations."],
+        explainAnswer:"Revision replaces or limits parts of a model that do not fit new evidence, making the explanation better supported and more reliable.",
         choice1:["Why is replication valuable?",["It tests whether findings recur under comparable methods","It guarantees every result is identical","It replaces evidence with popularity","It avoids sharing methods"]],
         fill1:["Complete the knowledge process.","propose → test → share → critique → {{blank}}"],
         choice2:["What can new evidence do?",["support, limit or revise an explanation","only prove the first idea","make methods unnecessary","remove the need for reasoning"]],
@@ -160,6 +170,8 @@
       mistakes:[["Science alone determines values","Evidence informs but does not replace ethical choices."],["Good intention guarantees good outcome","Monitor unintended effects."],["Risk means solution must be rejected","Compare likelihood, consequence and mitigation."],["Stakeholders limited to decision-makers","Include affected people, future users and environments."]],
       quick:["Define stakeholder.","Separate evidence/value.","Name an unintended effect.","Compare options by criteria.","State uncertainty."],
       questions:{
+        fillAnswers:["groups","adapt"],challengeAnswers:["Score planting, barriers and drainage changes against erosion reduction, habitat, cost, fairness and maintenance; changing the weights can change the recommendation, so the decision must show both evidence and value choices.","A dam may reduce flooding upstream but block fish movement downstream; monitor fish populations and water flow, then add fish passages or alter releases if harm appears."],
+        explainAnswer:"Compare how well each option reduces erosion, then weigh evidence about habitat, cost, fairness, maintenance and downstream effects before recommending one.",
         choice1:["Which statement best describes science in decisions?",["Science informs likely effects, while criteria and values also shape the choice","Science automatically supplies one morally correct answer","Evidence is unnecessary when intentions are good","Only cost matters"]],
         fill1:["Complete the impact review.","benefits + risks + uncertainty + affected {{blank}}"],
         choice2:["Which is an environmental implication?",["A barrier changes downstream sediment and habitat","A font is difficult to read","A meeting starts late","A name is misspelled"]],
@@ -187,6 +199,8 @@
       mistakes:[["Question asks opinion","Use measurable evidence."],["Prediction gives no direction","State what is expected to increase, decrease or differ."],["Several variables change together","Focus the relationship."],["Prediction rewritten after results","Record it before testing and evaluate later."]],
       quick:["Identify variables.","Write a relationship question.","Add a because reason.","Improve ‘best’. ","Distinguish prediction/conclusion."],
       questions:{
+        fillAnswers:["measured","scientific reasoning"],challengeAnswers:["For seedling growth, predict that more water increases height to an optimum, has little effect beyond the optimum, or reduces growth through waterlogging; repeated height and soil-moisture data can distinguish the predictions.","A fair test suits a changeable variable such as water volume, but an observational design is safer for naturally occurring habitat differences that cannot ethically or practically be controlled."],
+        explainAnswer:"For example: How does daily water volume affect plant height when light and soil are controlled? More water will increase growth up to a limit because plants need water for their life processes.",
         choice1:["Which question is most investigable?",["How does surface colour affect temperature increase under equal light?","Which colour is nicest?","Why is black best?","Does everything get hot?"]],
         fill1:["Complete the question frame.","How does the changed variable affect the {{blank}} variable?"],
         choice2:["Which prediction includes scientific reasoning?",["The darker surface will warm more because it absorbs more light","Black will win","I want it to be hotter","The result will be interesting"]],
@@ -214,6 +228,8 @@
       mistakes:[["Repeatable means same result guaranteed","It means the method can be followed consistently."],["Equipment list replaces method","Specify how tools are used."],["Controls omitted because obvious","Record quantities and conditions explicitly."],["Digital sensor assumed self-correcting","Check placement, calibration, units and export settings."]],
       quick:["Name variables.","Write a repeatable step.","Choose repeated trials.","Identify a risk control.","Explain a pilot test."],
       questions:{
+        fillAnswers:["constant","three"],challengeAnswers:["When room temperature is difficult to control, measure it each trial, randomise test order and repeat across conditions so its influence can be identified rather than ignored.","Choose the method that holds relevant variables constant, uses suitable calibrated tools, repeats trials, controls risks and gives enough detail for another group to reproduce it."],
+        explainAnswer:"Specify the ramp surface, release point, object, measuring tool and repeated trials; change only surface type and measure sliding distance safely.",
         choice1:["Which detail most improves repeatability?",["Specify lamp distance, time and measurement method","Say ‘do the test carefully’","Use any container","Change the timing each trial"]],
         fill1:["Complete the fair-test rule.","Change one variable, measure one response and keep relevant conditions {{blank}}."],
         choice2:["Why conduct a pilot test?",["To detect practical or measurement problems before full collection","To change results to match prediction","To avoid recording data","To remove safety controls"]],
@@ -241,6 +257,8 @@
       mistakes:[["Unexpected data changed","Record and investigate it."],["Digital decimals assumed accurate","Check instrument precision."],["Interpretation written as observation","Separate what happened from why."],["Different precision used inconsistently","Use a justified common recording format."]],
       quick:["Read an interval.","Record unit and precision.","Separate observation/inference.","Check a digital probe.","Handle an outlier."],
       questions:{
+        fillAnswers:["precision","calibration"],challengeAnswers:["A tightly clustered set of readings is precise, while readings close to a trusted reference are accurate; a miscalibrated probe can be precise but consistently inaccurate.","Keep every reading, check transcription, instrument and method, repeat the measurement when justified, flag the outlier and report whether including it changes the conclusion."],
+        explainAnswer:"Find the value of each interval, read at eye level, estimate only within the instrument’s resolution and record the value with its unit without adding unsupported decimal places.",
         choice1:["Which is a quantitative observation?",["The temperature rose from 21.0°C to 31.0°C","The surface looked darker","The sample felt rough","The liquid appeared cloudy"]],
         fill1:["Complete the recording rule.","A measurement needs a value, unit and appropriate {{blank}}."],
         choice2:["What should happen to an unexpected valid-looking reading?",["Record it and investigate possible explanations","Delete it immediately","Replace it with the average","Hide it from the table"]],
@@ -268,6 +286,8 @@
       mistakes:[["Graph type chosen by habit","Match it to variables and question."],["Calculated value has no method","Show how data were processed."],["Axes omit units","Readers need quantity and scale."],["Pattern described as universal law","Limit to evidence and conditions."]],
       quick:["Choose a graph type.","Label axes.","Explain a processed value.","Describe a pattern with numbers.","State a limitation."],
       questions:{
+        fillAnswers:["scale","raw"],challengeAnswers:["A table preserves exact repeated values, while a line graph makes the trend over time easier to see; use both and explain the different pattern each reveals.","A truncated vertical axis can exaggerate a small difference; rebuild the graph with a justified scale, labelled axes, units and the unchanged source data."],
+        explainAnswer:"Use a table for exact raw measurements, a line graph for change over time, and a labelled particle diagram for the explanatory model.",
         choice1:["Which graph best shows temperature change over time?",["line graph","unordered pictograph","pie chart with no time order","word cloud"]],
         fill1:["Complete the graph requirement.","Axes need variable names, units and a consistent {{blank}}."],
         choice2:["Which conclusion is appropriately limited?",["Under these test conditions, the dark surface warmed more","Dark surfaces always warm more everywhere","The graph proves the mechanism alone","No further tests are needed"]],
@@ -295,6 +315,8 @@
       mistakes:[["Different result equals mistake","Variation may be expected."],["Outlier removed without reason","Investigate and document decision."],["Systematic error fixed by averaging","A biased method remains biased."],["Conclusion stronger than evidence","Use cautious scope and conditions."]],
       quick:["Compare group methods.","Identify systematic error.","Describe random variation.","Decide whether to combine data.","Write a limited conclusion."],
       questions:{
+        fillAnswers:["systematic","supports"],challengeAnswers:["Random error appears as readings scattered above and below a pattern, while systematic error shifts every reading in one direction, such as a probe that always reads two degrees high.","Rate each investigation for variable control, repeats, measurement quality, transparent data and conclusion scope, then prefer the one whose claims are best supported by those criteria."],
+        explainAnswer:"Groups A and B can be compared because their lamp distance matches; Group C should remain separate because its closer lamp changes the method and likely raises heating.",
         choice1:["Which method difference most likely explains a higher heating result?",["Lamp placed 10 cm away instead of 20 cm","Same starting temperature","Same timer","Same material area"]],
         fill1:["Complete the error definition.","A consistent measurement bias is a {{blank}} error."],
         choice2:["What should happen before removing an outlier?",["Investigate method, instrument and recording evidence","Delete it because it differs","Replace it with the mean","Hide the result"]],
@@ -322,6 +344,8 @@
       mistakes:[["Results shown without finding","State the pattern and its relevance."],["Visual repeats all text","Use it to organise or extend meaning."],["Audience adaptation simplifies inaccurately","Preserve scientific relationships."],["Source omitted","Attribute external evidence and media."]],
       quick:["Choose a report structure.","Write an evidence caption.","Adapt one term.","Explain a graph orally.","State limitation/source."],
       questions:{
+        fillAnswers:["limitations","attributed"],challengeAnswers:["Use a labelled graph with alt text, a short evidence caption, a spoken explanation of the pattern, credited sources and a clear limitation so different audiences can access and check the finding.","Keep the accurate explanation’s evidence and relationships, replace jargon with defined terms and a concrete visual, and remove the engaging version’s misleading simplifications."],
+        explainAnswer:"The graph displays the measured pattern, the caption identifies what is plotted, and the conclusion states what the evidence supports within the investigation’s limits.",
         choice1:["Which feature best supports a scientific conclusion?",["A labelled graph plus an evidence statement","An unrelated image","A claim with no data","A decorative title only"]],
         fill1:["Complete the report sequence.","question → method → results → conclusion → {{blank}}"],
         choice2:["What should change for a younger audience?",["Vocabulary support and amount of detail, not the underlying evidence","Data values","Scientific relationships","Source identity"]],
@@ -334,5 +358,12 @@
     })
   };
 
+  // Correct inherited U02/U04 source ordering to the current ACARA v9 identities.
+  const states=S.AC9S5U02, earth=S.AC9S5U04;
+  S.AC9S5U02={...earth,slug:"ac9s5u02-how-weathering-erosion-transportation-and-deposition-cause-slow",desc:"describe how weathering, erosion, transportation and deposition cause slow or rapid change to Earth’s surface"};
+  S.AC9S5U04={...states,slug:"ac9s5u04-explain-observable-properties-of-solids-liquids-and-gases-by",desc:"explain observable properties of solids, liquids and gases by modelling the motion and arrangement of particles"};
+  Object.assign(S.AC9S5U03,{desc:"identify sources of light, recognise that light travels in a straight path and describe how shadows are formed and light can be reflected and refracted"});
+  Object.assign(S.AC9S5H01,{desc:"examine why advances in science are often the result of collaboration or build on the work of others"});
+  Object.assign(S.AC9S5H02,{desc:"investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions"});
   window.SkillrYear5Register("science",S,Object.keys(S));
 })();
