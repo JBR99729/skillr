@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6a03-p-001",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a class investigation, a note says “condition selecting between paths”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “condition selecting between paths”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "loop",
+        "is_correct": false
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": false
+      },
+      {
+        "text": "decision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "decision means condition selecting between paths.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-002",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At the school market, a note says “repeated sequence of steps”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “repeated sequence of steps”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "loop",
+        "is_correct": true
+      },
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "loop means repeated sequence of steps.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-003",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While planning a garden, a note says “rule ending repetition”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “rule ending repetition”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": true
+      },
+      {
+        "text": "loop",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "stopping condition means rule ending repetition.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-004",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a robotics challenge, a student reasons, “Only the yes branch defined”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Only the yes branch defined”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Include every outcome.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Include every outcome.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-005",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During sports-day planning, a student reasons, “Order of operations unspecified”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Order of operations unspecified”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use exact language and brackets.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use exact language and brackets.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-006",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At a wildlife centre, a student reasons, “Loop has no stopping condition”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Loop has no stopping condition”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Ensure termination.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ensure termination.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-007",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While checking a map, a student reasons, “Output pattern described without input rule”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Output pattern described without input rule”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect pattern to algorithm structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Connect pattern to algorithm structure.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-008",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In the makerspace, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Decision”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Decision”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-008",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Decision."
+    },
+    "answers": [
+      {
+        "text": "Is n even?",
+        "is_correct": true
+      },
+      {
+        "text": "n from 1 to 12",
+        "is_correct": false
+      },
+      {
+        "text": "output 3n",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects Decision with Is n even?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-009",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a cooking project, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Even branch”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Even branch”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-009",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Even branch."
+    },
+    "answers": [
+      {
+        "text": "n from 1 to 12",
+        "is_correct": false
+      },
+      {
+        "text": "output 3n",
+        "is_correct": true
+      },
+      {
+        "text": "Is n even?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects Even branch with output 3n.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-010",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At the community fair, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Odd branch”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Odd branch”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-010",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Odd branch."
+    },
+    "answers": [
+      {
+        "text": "n from 1 to 12",
+        "is_correct": false
+      },
+      {
+        "text": "Is n even?",
+        "is_correct": false
+      },
+      {
+        "text": "output 3n + 1",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects Odd branch with output 3n + 1.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-011",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While organising a library display, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Record”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Record”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-011",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Record."
+    },
+    "answers": [
+      {
+        "text": "place output in table",
+        "is_correct": true
+      },
+      {
+        "text": "n from 1 to 12",
+        "is_correct": false
+      },
+      {
+        "text": "Is n even?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects Record with place output in table.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-012",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a science notebook, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Analyse”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Analyse”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-012",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Analyse."
+    },
+    "answers": [
+      {
+        "text": "n from 1 to 12",
+        "is_correct": false
+      },
+      {
+        "text": "compare parity and differences",
+        "is_correct": true
+      },
+      {
+        "text": "Is n even?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects Analyse with compare parity and differences.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-013",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a design challenge, a Algorithms, Decisions and Emerging Patterns organiser labels a row “no ‘no’ branch”. Which entry belongs in that row?",
+    "audio_prompt": "During a design challenge, a Algorithms, Decisions and Emerging Patterns organiser labels a row “no ‘no’ branch”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-013",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting no ‘no’ branch."
+    },
+    "answers": [
+      {
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "text": "add stopping condition",
+        "is_correct": false
+      },
+      {
+        "text": "define action for false condition",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects no ‘no’ branch with define action for false condition.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-014",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At the school canteen, a Algorithms, Decisions and Emerging Patterns organiser labels a row “loop never stops”. Which entry belongs in that row?",
+    "audio_prompt": "At the school canteen, a Algorithms, Decisions and Emerging Patterns organiser labels a row “loop never stops”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-014",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting loop never stops."
+    },
+    "answers": [
+      {
+        "text": "add stopping condition",
+        "is_correct": true
+      },
+      {
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "text": "define action for false condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects loop never stops with add stopping condition.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-015",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While comparing travel plans, a Algorithms, Decisions and Emerging Patterns organiser labels a row “step order ambiguous”. Which entry belongs in that row?",
+    "audio_prompt": "While comparing travel plans, a Algorithms, Decisions and Emerging Patterns organiser labels a row “step order ambiguous”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-015",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting step order ambiguous."
+    },
+    "answers": [
+      {
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "text": "number instructions and define operations",
+        "is_correct": true
+      },
+      {
+        "text": "define action for false condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects step order ambiguous with number instructions and define operations.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-016",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a data workshop, a Algorithms, Decisions and Emerging Patterns organiser labels a row “pattern from 3 outputs”. Which entry belongs in that row?",
+    "audio_prompt": "In a data workshop, a Algorithms, Decisions and Emerging Patterns organiser labels a row “pattern from 3 outputs”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-016",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting pattern from 3 outputs."
+    },
+    "answers": [
+      {
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "text": "define action for false condition",
+        "is_correct": false
+      },
+      {
+        "text": "test more inputs and seek reasoning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects pattern from 3 outputs with test more inputs and seek reasoning.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-017",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a building project, a Algorithms, Decisions and Emerging Patterns organiser labels a row “digital result only”. Which entry belongs in that row?",
+    "audio_prompt": "During a building project, a Algorithms, Decisions and Emerging Patterns organiser labels a row “digital result only”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-p-017",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting digital result only."
+    },
+    "answers": [
+      {
+        "text": "trace sample inputs manually",
+        "is_correct": true
+      },
+      {
+        "text": "repair",
+        "is_correct": false
+      },
+      {
+        "text": "define action for false condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects digital result only with trace sample inputs manually.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-018",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At the local pool, What must a decision algorithm provide?",
+    "audio_prompt": "At the local pool, What must a decision algorithm provide?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the preferred branch",
+        "is_correct": false
+      },
+      {
+        "text": "A next step for every possible condition outcome",
+        "is_correct": true
+      },
+      {
+        "text": "A random output",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A next step for every possible condition outcome follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-019",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While preparing an excursion, Why does a loop need a stopping condition?",
+    "audio_prompt": "While preparing an excursion, Why does a loop need a stopping condition?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To make every output even",
+        "is_correct": false
+      },
+      {
+        "text": "To remove inputs",
+        "is_correct": false
+      },
+      {
+        "text": "To ensure it eventually ends",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "To ensure it eventually ends follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-020",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a games club. The quantities or representation come from a fresh example. a note says “condition selecting between paths”. Which mathematical term labels it?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a note says “condition selecting between paths”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": true
+      },
+      {
+        "text": "loop",
+        "is_correct": false
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "decision means condition selecting between paths.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-021",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During an art project. The quantities or representation come from a fresh example. a note says “repeated sequence of steps”. Which mathematical term labels it?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a note says “repeated sequence of steps”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "loop",
+        "is_correct": true
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "loop means repeated sequence of steps.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-022",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a note says “rule ending repetition”. Which mathematical term labels it?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a note says “rule ending repetition”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "decision",
+        "is_correct": false
+      },
+      {
+        "text": "loop",
+        "is_correct": false
+      },
+      {
+        "text": "stopping condition",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "stopping condition means rule ending repetition.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-023",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Only the yes branch defined”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Only the yes branch defined”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Include every outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Include every outcome.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-p-024",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Order of operations unspecified”. Which response corrects the error?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Order of operations unspecified”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Use exact language and brackets.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use exact language and brackets.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-001",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At a coastal research station, another student selected “To make every output even”. Reconsider the evidence: Why does a loop need a stopping condition?",
+    "audio_prompt": "At a coastal research station, another student selected “To make every output even”. Reconsider the evidence: Why does a loop need a stopping condition?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To ensure it eventually ends",
+        "is_correct": true
+      },
+      {
+        "text": "To make every output even",
+        "is_correct": false
+      },
+      {
+        "text": "To remove inputs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To ensure it eventually ends follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-002",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a museum challenge, another student selected “Only the preferred branch”. Reconsider the evidence: What must a decision algorithm provide?",
+    "audio_prompt": "During a museum challenge, another student selected “Only the preferred branch”. Reconsider the evidence: What must a decision algorithm provide?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the preferred branch",
+        "is_correct": false
+      },
+      {
+        "text": "A next step for every possible condition outcome",
+        "is_correct": true
+      },
+      {
+        "text": "A random output",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A next step for every possible condition outcome follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-003",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While planning a charity event, a Algorithms, Decisions and Emerging Patterns organiser contains “trace sample inputs manually”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Algorithms, Decisions and Emerging Patterns organiser contains “trace sample inputs manually”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-003",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting digital result only."
+    },
+    "answers": [
+      {
+        "text": "problem",
+        "is_correct": false
+      },
+      {
+        "text": "no ‘no’ branch",
+        "is_correct": false
+      },
+      {
+        "text": "digital result only",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects digital result only with trace sample inputs manually.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-004",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In an engineering workshop, a Algorithms, Decisions and Emerging Patterns organiser contains “test more inputs and seek reasoning”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Algorithms, Decisions and Emerging Patterns organiser contains “test more inputs and seek reasoning”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-004",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting pattern from 3 outputs."
+    },
+    "answers": [
+      {
+        "text": "pattern from 3 outputs",
+        "is_correct": true
+      },
+      {
+        "text": "problem",
+        "is_correct": false
+      },
+      {
+        "text": "no ‘no’ branch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects pattern from 3 outputs with test more inputs and seek reasoning.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-005",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At a regional sports carnival, a Algorithms, Decisions and Emerging Patterns organiser contains “number instructions and define operations”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Algorithms, Decisions and Emerging Patterns organiser contains “number instructions and define operations”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-005",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting step order ambiguous."
+    },
+    "answers": [
+      {
+        "text": "problem",
+        "is_correct": false
+      },
+      {
+        "text": "step order ambiguous",
+        "is_correct": true
+      },
+      {
+        "text": "no ‘no’ branch",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects step order ambiguous with number instructions and define operations.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-006",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a farm survey, a Algorithms, Decisions and Emerging Patterns organiser contains “add stopping condition”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Algorithms, Decisions and Emerging Patterns organiser contains “add stopping condition”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-006",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting loop never stops."
+    },
+    "answers": [
+      {
+        "text": "problem",
+        "is_correct": false
+      },
+      {
+        "text": "no ‘no’ branch",
+        "is_correct": false
+      },
+      {
+        "text": "loop never stops",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects loop never stops with add stopping condition.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-007",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While interpreting a trail guide, a Algorithms, Decisions and Emerging Patterns organiser contains “define action for false condition”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Algorithms, Decisions and Emerging Patterns organiser contains “define action for false condition”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-007",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting no ‘no’ branch."
+    },
+    "answers": [
+      {
+        "text": "no ‘no’ branch",
+        "is_correct": true
+      },
+      {
+        "text": "problem",
+        "is_correct": false
+      },
+      {
+        "text": "loop never stops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects no ‘no’ branch with define action for false condition.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-008",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In an architecture studio, a Algorithms, Decisions and Emerging Patterns organiser contains “compare parity and differences”. Which heading best identifies that information?",
+    "audio_prompt": "In an architecture studio, a Algorithms, Decisions and Emerging Patterns organiser contains “compare parity and differences”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-008",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Analyse."
+    },
+    "answers": [
+      {
+        "text": "Input",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse",
+        "is_correct": true
+      },
+      {
+        "text": "Decision",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects Analyse with compare parity and differences.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-009",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a food-truck project, a Algorithms, Decisions and Emerging Patterns organiser contains “place output in table”. Which heading best identifies that information?",
+    "audio_prompt": "During a food-truck project, a Algorithms, Decisions and Emerging Patterns organiser contains “place output in table”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-009",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Record."
+    },
+    "answers": [
+      {
+        "text": "Input",
+        "is_correct": false
+      },
+      {
+        "text": "Decision",
+        "is_correct": false
+      },
+      {
+        "text": "Record",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects Record with place output in table.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-010",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At a music festival, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n + 1”. Which heading best identifies that information?",
+    "audio_prompt": "At a music festival, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n + 1”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-010",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Odd branch."
+    },
+    "answers": [
+      {
+        "text": "Odd branch",
+        "is_correct": true
+      },
+      {
+        "text": "Input",
+        "is_correct": false
+      },
+      {
+        "text": "Decision",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects Odd branch with output 3n + 1.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-011",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While organising a book drive, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n”. Which heading best identifies that information?",
+    "audio_prompt": "While organising a book drive, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-011",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Even branch."
+    },
+    "answers": [
+      {
+        "text": "Input",
+        "is_correct": false
+      },
+      {
+        "text": "Even branch",
+        "is_correct": true
+      },
+      {
+        "text": "Decision",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects Even branch with output 3n.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-012",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In an environmental study, a Algorithms, Decisions and Emerging Patterns organiser contains “Is n even?”. Which heading best identifies that information?",
+    "audio_prompt": "In an environmental study, a Algorithms, Decisions and Emerging Patterns organiser contains “Is n even?”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6a03.svg#ac9m6a03-t-012",
+      "alt_text": "A Year 6 Algorithms, Decisions and Emerging Patterns reasoning organiser highlighting Decision."
+    },
+    "answers": [
+      {
+        "text": "Input",
+        "is_correct": false
+      },
+      {
+        "text": "Even branch",
+        "is_correct": false
+      },
+      {
+        "text": "Decision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects Decision with Is n even?.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-013",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "During a playground redesign, a review recommends, “Connect pattern to algorithm structure.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a playground redesign, a review recommends, “Connect pattern to algorithm structure.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Output pattern described without input rule",
+        "is_correct": true
+      },
+      {
+        "text": "Only the yes branch defined",
+        "is_correct": false
+      },
+      {
+        "text": "Order of operations unspecified",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Connect pattern to algorithm structure.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-014",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "At a transport depot, a review recommends, “Ensure termination.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a transport depot, a review recommends, “Ensure termination.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the yes branch defined",
+        "is_correct": false
+      },
+      {
+        "text": "Loop has no stopping condition",
+        "is_correct": true
+      },
+      {
+        "text": "Order of operations unspecified",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ensure termination.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-015",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "While preparing a camping trip, a review recommends, “Use exact language and brackets.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While preparing a camping trip, a review recommends, “Use exact language and brackets.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the yes branch defined",
+        "is_correct": false
+      },
+      {
+        "text": "Loop has no stopping condition",
+        "is_correct": false
+      },
+      {
+        "text": "Order of operations unspecified",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use exact language and brackets.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6a03-t-016",
+    "curriculum_code": "AC9M6A03",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "algorithms_decisions_and_emerging_patterns",
+    "question": "In a strategy tournament, a review recommends, “Include every outcome.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In a strategy tournament, a review recommends, “Include every outcome.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only the yes branch defined",
+        "is_correct": true
+      },
+      {
+        "text": "Order of operations unspecified",
+        "is_correct": false
+      },
+      {
+        "text": "Loop has no stopping condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Include every outcome.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  }
+]

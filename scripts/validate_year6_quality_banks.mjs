@@ -20,6 +20,9 @@ function normalise(value) {
   return String(value ?? "")
     .toLowerCase()
     .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u2212\u2013-]/g, " negative ")
+    .replace(/×/g, " multiplied by ")
+    .replace(/÷/g, " divided by ")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
 }

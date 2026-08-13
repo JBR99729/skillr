@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6n04-p-001",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a class investigation, a note says “placing equal-value decimal positions in columns”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “placing equal-value decimal positions in columns”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "place-value alignment",
+        "is_correct": true
+      },
+      {
+        "text": "regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "compensation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "place-value alignment means placing equal-value decimal positions in columns.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-002",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At the school market, a note says “renaming across adjacent place values”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “renaming across adjacent place values”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "place-value alignment",
+        "is_correct": false
+      },
+      {
+        "text": "regrouping",
+        "is_correct": true
+      },
+      {
+        "text": "compensation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "regrouping means renaming across adjacent place values.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-003",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While planning a garden, a note says “adjusting to friendly numbers then correcting”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “adjusting to friendly numbers then correcting”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "place-value alignment",
+        "is_correct": false
+      },
+      {
+        "text": "regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "compensation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "compensation means adjusting to friendly numbers then correcting.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-004",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a robotics challenge, a student reasons, “Decimal points not aligned”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “Decimal points not aligned”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Align place values, not final digits.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Align place values, not final digits.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-005",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During sports-day planning, a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Only trailing placeholder zeros preserve a decimal’s value.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only trailing placeholder zeros preserve a decimal’s value.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-006",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At a wildlife centre, a student reasons, “Estimate omitted”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Estimate omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Use it to detect misplaced decimal points.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use it to detect misplaced decimal points.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-007",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While checking a map, a student reasons, “Calculator result accepted without context”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Calculator result accepted without context”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check operation, input and magnitude.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check operation, input and magnitude.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-008",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In the makerspace, a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?",
+    "audio_prompt": "In the makerspace, a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-008",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 1."
+    },
+    "answers": [
+      {
+        "text": "ones; tenths; hundredths; thousandths",
+        "is_correct": false
+      },
+      {
+        "text": "8; 3; 7; 5",
+        "is_correct": true
+      },
+      {
+        "text": "6; 8; 4; 0",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 1 with 8; 3; 7; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-009",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a cooking project, a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?",
+    "audio_prompt": "During a cooking project, a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-009",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 2."
+    },
+    "answers": [
+      {
+        "text": "ones; tenths; hundredths; thousandths",
+        "is_correct": false
+      },
+      {
+        "text": "8; 3; 7; 5",
+        "is_correct": false
+      },
+      {
+        "text": "5; 2; 1; 5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 2 with 5; 2; 1; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-010",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At the community fair, a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?",
+    "audio_prompt": "At the community fair, a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-010",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60."
+    },
+    "answers": [
+      {
+        "text": "compensation: 20 + 7.60 − 0.05",
+        "is_correct": true
+      },
+      {
+        "text": "written regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 20, then add 0.1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 19.95 + 7.60 with compensation: 20 + 7.60 − 0.05.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-011",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While organising a library display, a Adding and Subtracting Decimals organiser labels a row “48.6 − 19.9”. Which entry belongs in that row?",
+    "audio_prompt": "While organising a library display, a Adding and Subtracting Decimals organiser labels a row “48.6 − 19.9”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-011",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 48.6 − 19.9."
+    },
+    "answers": [
+      {
+        "text": "written regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 20, then add 0.1",
+        "is_correct": true
+      },
+      {
+        "text": "compensation: 20 + 7.60 − 0.05",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 48.6 − 19.9 with subtract 20, then add 0.1.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-012",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a science notebook, a Adding and Subtracting Decimals organiser labels a row “digital tool”. Which entry belongs in that row?",
+    "audio_prompt": "In a science notebook, a Adding and Subtracting Decimals organiser labels a row “digital tool”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-012",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting digital tool."
+    },
+    "answers": [
+      {
+        "text": "written regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "compensation: 20 + 7.60 − 0.05",
+        "is_correct": false
+      },
+      {
+        "text": "verify after setup and estimation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects digital tool with verify after setup and estimation.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-013",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a design challenge, What is 18.375 + 6.84?",
+    "audio_prompt": "During a design challenge, What is 18.375 + 6.84?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "25.215",
+        "is_correct": true
+      },
+      {
+        "text": "24.215",
+        "is_correct": false
+      },
+      {
+        "text": "25.115",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "25.215 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-014",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At the school canteen, Which estimate best checks 48.6 − 19.9?",
+    "audio_prompt": "At the school canteen, Which estimate best checks 48.6 − 19.9?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "about 68",
+        "is_correct": false
+      },
+      {
+        "text": "about 29",
+        "is_correct": true
+      },
+      {
+        "text": "about 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "about 29 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-015",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “placing equal-value decimal positions in columns”. Which mathematical term labels it?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a note says “placing equal-value decimal positions in columns”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "compensation",
+        "is_correct": false
+      },
+      {
+        "text": "place-value alignment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "place-value alignment means placing equal-value decimal positions in columns.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-016",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a note says “renaming across adjacent place values”. Which mathematical term labels it?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a note says “renaming across adjacent place values”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "regrouping",
+        "is_correct": true
+      },
+      {
+        "text": "place-value alignment",
+        "is_correct": false
+      },
+      {
+        "text": "compensation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "regrouping means renaming across adjacent place values.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-017",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a building project. The quantities or representation come from a fresh example. a note says “adjusting to friendly numbers then correcting”. Which mathematical term labels it?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. a note says “adjusting to friendly numbers then correcting”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "place-value alignment",
+        "is_correct": false
+      },
+      {
+        "text": "compensation",
+        "is_correct": true
+      },
+      {
+        "text": "regrouping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "compensation means adjusting to friendly numbers then correcting.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-018",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Decimal points not aligned”. Which response corrects the error?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. a student reasons, “Decimal points not aligned”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Align place values, not final digits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Align place values, not final digits.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-019",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only trailing placeholder zeros preserve a decimal’s value.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Only trailing placeholder zeros preserve a decimal’s value.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-020",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Estimate omitted”. Which response corrects the error?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a student reasons, “Estimate omitted”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Use it to detect misplaced decimal points.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use it to detect misplaced decimal points.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-021",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Calculator result accepted without context”. Which response corrects the error?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a student reasons, “Calculator result accepted without context”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Check operation, input and magnitude.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check operation, input and magnitude.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-022",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-022",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 1."
+    },
+    "answers": [
+      {
+        "text": "8; 3; 7; 5",
+        "is_correct": true
+      },
+      {
+        "text": "ones; tenths; hundredths; thousandths",
+        "is_correct": false
+      },
+      {
+        "text": "6; 8; 4; 0",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 1 with 8; 3; 7; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-023",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-023",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 2."
+    },
+    "answers": [
+      {
+        "text": "ones; tenths; hundredths; thousandths",
+        "is_correct": false
+      },
+      {
+        "text": "5; 2; 1; 5",
+        "is_correct": true
+      },
+      {
+        "text": "8; 3; 7; 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 2 with 5; 2; 1; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-p-024",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-p-024",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60."
+    },
+    "answers": [
+      {
+        "text": "written regrouping",
+        "is_correct": false
+      },
+      {
+        "text": "subtract 20, then add 0.1",
+        "is_correct": false
+      },
+      {
+        "text": "compensation: 20 + 7.60 − 0.05",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 19.95 + 7.60 with compensation: 20 + 7.60 − 0.05.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-001",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At a coastal research station, another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "audio_prompt": "At a coastal research station, another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "about 68",
+        "is_correct": false
+      },
+      {
+        "text": "about 29",
+        "is_correct": true
+      },
+      {
+        "text": "about 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "about 29 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-002",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a museum challenge, another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "audio_prompt": "During a museum challenge, another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "24.215",
+        "is_correct": false
+      },
+      {
+        "text": "25.115",
+        "is_correct": false
+      },
+      {
+        "text": "25.215",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "25.215 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-003",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While planning a charity event, a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?",
+    "audio_prompt": "While planning a charity event, a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-003",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting digital tool."
+    },
+    "answers": [
+      {
+        "text": "digital tool",
+        "is_correct": true
+      },
+      {
+        "text": "32.00 − 9.875",
+        "is_correct": false
+      },
+      {
+        "text": "19.95 + 7.60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects digital tool with verify after setup and estimation.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-004",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In an engineering workshop, a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?",
+    "audio_prompt": "In an engineering workshop, a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-004",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 48.6 − 19.9."
+    },
+    "answers": [
+      {
+        "text": "32.00 − 9.875",
+        "is_correct": false
+      },
+      {
+        "text": "48.6 − 19.9",
+        "is_correct": true
+      },
+      {
+        "text": "19.95 + 7.60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 48.6 − 19.9 with subtract 20, then add 0.1.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-005",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At a regional sports carnival, a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?",
+    "audio_prompt": "At a regional sports carnival, a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-005",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 19.95 + 7.60."
+    },
+    "answers": [
+      {
+        "text": "32.00 − 9.875",
+        "is_correct": false
+      },
+      {
+        "text": "48.6 − 19.9",
+        "is_correct": false
+      },
+      {
+        "text": "19.95 + 7.60",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The representation connects 19.95 + 7.60 with compensation: 20 + 7.60 − 0.05.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-006",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a farm survey, a Adding and Subtracting Decimals organiser contains “5; 2; 1; 5”. Which heading best identifies that information?",
+    "audio_prompt": "During a farm survey, a Adding and Subtracting Decimals organiser contains “5; 2; 1; 5”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-006",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 2."
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "tens",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The representation connects 2 with 5; 2; 1; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-007",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While interpreting a trail guide, a Adding and Subtracting Decimals organiser contains “8; 3; 7; 5”. Which heading best identifies that information?",
+    "audio_prompt": "While interpreting a trail guide, a Adding and Subtracting Decimals organiser contains “8; 3; 7; 5”. Which heading best identifies that information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year6/math/ac9m6n04.svg#ac9m6n04-t-007",
+      "alt_text": "A Year 6 Adding and Subtracting Decimals reasoning organiser highlighting 1."
+    },
+    "answers": [
+      {
+        "text": "tens",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The representation connects 1 with 8; 3; 7; 5.",
+      "hint": "Use the mathematical role of the entry, not a repeated word."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-008",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In an architecture studio, a review recommends, “Check operation, input and magnitude.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an architecture studio, a review recommends, “Check operation, input and magnitude.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Decimal points not aligned",
+        "is_correct": false
+      },
+      {
+        "text": "Zeros added to the left or inside incorrectly",
+        "is_correct": false
+      },
+      {
+        "text": "Calculator result accepted without context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check operation, input and magnitude.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-009",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a food-truck project, a review recommends, “Use it to detect misplaced decimal points.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a food-truck project, a review recommends, “Use it to detect misplaced decimal points.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Estimate omitted",
+        "is_correct": true
+      },
+      {
+        "text": "Decimal points not aligned",
+        "is_correct": false
+      },
+      {
+        "text": "Zeros added to the left or inside incorrectly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use it to detect misplaced decimal points.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-010",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At a music festival, a review recommends, “Only trailing placeholder zeros preserve a decimal’s value.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a music festival, a review recommends, “Only trailing placeholder zeros preserve a decimal’s value.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Decimal points not aligned",
+        "is_correct": false
+      },
+      {
+        "text": "Zeros added to the left or inside incorrectly",
+        "is_correct": true
+      },
+      {
+        "text": "Estimate omitted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only trailing placeholder zeros preserve a decimal’s value.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-011",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While organising a book drive, a review recommends, “Align place values, not final digits.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While organising a book drive, a review recommends, “Align place values, not final digits.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Zeros added to the left or inside incorrectly",
+        "is_correct": false
+      },
+      {
+        "text": "Estimate omitted",
+        "is_correct": false
+      },
+      {
+        "text": "Decimal points not aligned",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Align place values, not final digits.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-012",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In an environmental study, a student uses the term “compensation”. Which description shows it correctly?",
+    "audio_prompt": "In an environmental study, a student uses the term “compensation”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "adjusting to friendly numbers then correcting",
+        "is_correct": true
+      },
+      {
+        "text": "placing equal-value decimal positions in columns",
+        "is_correct": false
+      },
+      {
+        "text": "renaming across adjacent place values",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "compensation means adjusting to friendly numbers then correcting.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-013",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "During a playground redesign, a student uses the term “regrouping”. Which description shows it correctly?",
+    "audio_prompt": "During a playground redesign, a student uses the term “regrouping”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "placing equal-value decimal positions in columns",
+        "is_correct": false
+      },
+      {
+        "text": "renaming across adjacent place values",
+        "is_correct": true
+      },
+      {
+        "text": "adjusting to friendly numbers then correcting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "regrouping means renaming across adjacent place values.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-014",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "At a transport depot, a student uses the term “place-value alignment”. Which description shows it correctly?",
+    "audio_prompt": "At a transport depot, a student uses the term “place-value alignment”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "renaming across adjacent place values",
+        "is_correct": false
+      },
+      {
+        "text": "adjusting to friendly numbers then correcting",
+        "is_correct": false
+      },
+      {
+        "text": "placing equal-value decimal positions in columns",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "place-value alignment means placing equal-value decimal positions in columns.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-015",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "about 29",
+        "is_correct": true
+      },
+      {
+        "text": "about 68",
+        "is_correct": false
+      },
+      {
+        "text": "about 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "about 29 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n04-t-016",
+    "curriculum_code": "AC9M6N04",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "adding_and_subtracting_decimals",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "24.215",
+        "is_correct": false
+      },
+      {
+        "text": "25.215",
+        "is_correct": true
+      },
+      {
+        "text": "25.115",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "25.215 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m6n01-p-001",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a class investigation, a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "audio_prompt": "During a class investigation, a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": true
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "integer means whole number, its negative, or zero.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-002",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At the school market, a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "audio_prompt": "At the school market, a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": true
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "opposite means number the same distance from zero on the other side.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-003",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While planning a garden, a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "audio_prompt": "While planning a garden, a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "origin means coordinate point (0,0).",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-004",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a robotics challenge, a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audio_prompt": "In a robotics challenge, a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On the number line, −8 lies farther left and is smaller.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-005",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During sports-day planning, a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audio_prompt": "During sports-day planning, a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Integers model debt, below-zero temperature, depth and change.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-006",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At a wildlife centre, a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audio_prompt": "At a wildlife centre, a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Read x first, then y.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-007",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While checking a map, a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audio_prompt": "While checking a map, a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distance from zero is non-negative; position keeps its sign.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-008",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In the makerspace, Which integer is greatest?",
+    "audio_prompt": "In the makerspace, Which integer is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−7",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": true
+      },
+      {
+        "text": "−9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-009",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a cooking project, Which point lies in Quadrant II?",
+    "audio_prompt": "During a cooking project, Which point lies in Quadrant II?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,−4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-010",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At the community fair. The quantities or representation come from a fresh example. a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "audio_prompt": "At the community fair. The quantities or representation come from a fresh example. a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": true
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "integer means whole number, its negative, or zero.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-011",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While organising a library display. The quantities or representation come from a fresh example. a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "audio_prompt": "While organising a library display. The quantities or representation come from a fresh example. a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": true
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "opposite means number the same distance from zero on the other side.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-012",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a science notebook. The quantities or representation come from a fresh example. a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "audio_prompt": "In a science notebook. The quantities or representation come from a fresh example. a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "origin means coordinate point (0,0).",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-013",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audio_prompt": "During a design challenge. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On the number line, −8 lies farther left and is smaller.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-014",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audio_prompt": "At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Integers model debt, below-zero temperature, depth and change.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-015",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audio_prompt": "While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Read x first, then y.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-016",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "audio_prompt": "In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distance from zero is non-negative; position keeps its sign.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-017",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a building project. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "audio_prompt": "During a building project. The quantities or representation come from a fresh example. Which integer is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−7",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": true
+      },
+      {
+        "text": "−9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-018",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At the local pool. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "audio_prompt": "At the local pool. The quantities or representation come from a fresh example. Which point lies in Quadrant II?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,−4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-019",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "audio_prompt": "While preparing an excursion. The quantities or representation come from a fresh example. a note says “whole number, its negative, or zero”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": true
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "integer means whole number, its negative, or zero.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-020",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a games club. The quantities or representation come from a fresh example. a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "audio_prompt": "In a games club. The quantities or representation come from a fresh example. a note says “number the same distance from zero on the other side”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": true
+      },
+      {
+        "text": "origin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "opposite means number the same distance from zero on the other side.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-021",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During an art project. The quantities or representation come from a fresh example. a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "audio_prompt": "During an art project. The quantities or representation come from a fresh example. a note says “coordinate point (0,0)”. Which mathematical term labels it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "integer",
+        "is_correct": false
+      },
+      {
+        "text": "opposite",
+        "is_correct": false
+      },
+      {
+        "text": "origin",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "origin means coordinate point (0,0).",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-022",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "audio_prompt": "At the recycling station. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "On the number line, −8 lies farther left and is smaller.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-023",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "audio_prompt": "While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Integers model debt, below-zero temperature, depth and change.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-p-024",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "audio_prompt": "In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the claim because one example is enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the claim more certain without checking the quantities.",
+        "is_correct": false
+      },
+      {
+        "text": "Read x first, then y.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-001",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "audio_prompt": "At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": true
+      },
+      {
+        "text": "(−3,−4)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-002",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a museum challenge, another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "audio_prompt": "During a museum challenge, another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−7",
+        "is_correct": false
+      },
+      {
+        "text": "−9",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-003",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While planning a charity event, a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While planning a charity event, a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Absolute distance confused with signed position",
+        "is_correct": true
+      },
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-004",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In an engineering workshop, a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an engineering workshop, a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": true
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-005",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At a regional sports carnival, a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a regional sports carnival, a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": false
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-006",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a farm survey, a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a farm survey, a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": true
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-007",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While interpreting a trail guide, a student uses the term “origin”. Which description shows it correctly?",
+    "audio_prompt": "While interpreting a trail guide, a student uses the term “origin”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "whole number, its negative, or zero",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate point (0,0)",
+        "is_correct": true
+      },
+      {
+        "text": "number the same distance from zero on the other side",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "origin means coordinate point (0,0).",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-008",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In an architecture studio, a student uses the term “opposite”. Which description shows it correctly?",
+    "audio_prompt": "In an architecture studio, a student uses the term “opposite”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "whole number, its negative, or zero",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate point (0,0)",
+        "is_correct": false
+      },
+      {
+        "text": "number the same distance from zero on the other side",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "opposite means number the same distance from zero on the other side.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-009",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a food-truck project, a student uses the term “integer”. Which description shows it correctly?",
+    "audio_prompt": "During a food-truck project, a student uses the term “integer”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "whole number, its negative, or zero",
+        "is_correct": true
+      },
+      {
+        "text": "number the same distance from zero on the other side",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate point (0,0)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "integer means whole number, its negative, or zero.",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-010",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At a music festival. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "audio_prompt": "At a music festival. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": true
+      },
+      {
+        "text": "(−3,−4)",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "(−3,4) follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-011",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "audio_prompt": "While organising a book drive. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−7",
+        "is_correct": false
+      },
+      {
+        "text": "−9",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "−2 follows from the quantities and relationship in the question.",
+      "hint": "Estimate or substitute to reject the tempting misconception."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-012",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "audio_prompt": "In an environmental study. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Absolute distance confused with signed position",
+        "is_correct": true
+      },
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance from zero is non-negative; position keeps its sign.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-013",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "During a playground redesign. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "audio_prompt": "During a playground redesign. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": true
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read x first, then y.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-014",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "At a transport depot. The quantities or representation come from a fresh example. a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "audio_prompt": "At a transport depot. The quantities or representation come from a fresh example. a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": false
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Integers model debt, below-zero temperature, depth and change.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-015",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "audio_prompt": "While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "−8 is greater than −3 because 8 is greater than 3",
+        "is_correct": true
+      },
+      {
+        "text": "Negative means a physically impossible quantity",
+        "is_correct": false
+      },
+      {
+        "text": "Coordinates are read y then x",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "On the number line, −8 lies farther left and is smaller.",
+      "hint": "Identify the exact misconception, then choose the correction that preserves the mathematics."
+    }
+  },
+  {
+    "id": "ac9m6n01-t-016",
+    "curriculum_code": "AC9M6N01",
+    "year_level": "Year 6",
+    "subject": "math",
+    "bank": "test",
+    "skill": "integers_on_number_lines_and_the_cartesian_plane",
+    "question": "In a strategy tournament. The quantities or representation come from a fresh example. a student uses the term “origin”. Which description shows it correctly?",
+    "audio_prompt": "In a strategy tournament. The quantities or representation come from a fresh example. a student uses the term “origin”. Which description shows it correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "whole number, its negative, or zero",
+        "is_correct": false
+      },
+      {
+        "text": "coordinate point (0,0)",
+        "is_correct": true
+      },
+      {
+        "text": "number the same distance from zero on the other side",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "origin means coordinate point (0,0).",
+      "hint": "Match every feature of the description to the mathematical term."
+    }
+  }
+]
