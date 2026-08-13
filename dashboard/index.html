@@ -18,8 +18,8 @@
   <link rel="manifest" href="/manifest.webmanifest?v=3">
   <link rel="icon" href="/icons/skillrhub-mark.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
-  <link rel="stylesheet" href="/style.css?v=20260813-5">
-  <link rel="stylesheet" href="/dashboard/style.css?v=20260813-2">
+  <link rel="stylesheet" href="/style.css?v=20260814-2">
+  <link rel="stylesheet" href="/dashboard/style.css?v=20260814-1">
 </head>
 <body class="progress-page">
   <main class="progress-shell">
@@ -46,7 +46,7 @@
             <input id="learnerName" maxlength="60" placeholder="Enter learner name" autocomplete="name">
             <button id="saveName" type="button">Save</button>
           </div>
-          <p class="dashboard-local-note"><span aria-hidden="true">🔒</span> Progress is saved locally on this device. No learner account required.</p>
+          <p class="dashboard-local-note"><span aria-hidden="true">🔒</span> <strong>Saved in this browser only.</strong> There is no account or automatic sync. <a href="#progressBackup">Save a backup regularly</a>.</p>
           <p id="installMessage" class="dashboard-install-message" role="status"></p>
         </div>
       </div>
@@ -58,7 +58,7 @@
 
     <section class="dashboard-quick-tools" aria-label="Quick classroom tools">
       <button id="quickWarmup" class="dashboard-tool-button dashboard-tool-button--warmup" type="button">
-        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#dice"></use></svg></span><span><strong>Quick Class Warm-Up</strong><small>Open one question based on recent practice</small></span>
+        <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#dice"></use></svg></span><span><strong>Quick Class Warm-Up</strong><small>Use recent practice or choose a starting point</small></span>
       </button>
       <button id="saveSnapshot" class="dashboard-tool-button" type="button">
         <span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#camera"></use></svg></span><span><strong>Save Progress Snapshot</strong><small>Download a private image for a teacher or portfolio</small></span>
@@ -81,15 +81,15 @@
       </div>
 
       <div class="stat-grid" aria-label="Progress summary">
-        <article class="stat-card stat-card--time"><span>Active learning time</span><strong id="activeTime">0m</strong><small>Counts while this tab is active</small></article>
+        <article class="stat-card stat-card--time"><span>Completed activity time</span><strong id="activeTime">0m</strong><small>Recorded by completed activities in this date range</small></article>
         <article class="stat-card"><span>Questions practised</span><strong id="questionsPractised">0</strong><small>In this date range</small></article>
         <article class="stat-card"><span>Skills covered</span><strong id="skillsCovered">0</strong><small>Completed activity</small></article>
         <article class="stat-card"><span>Overall accuracy</span><strong id="accuracy">0%</strong><small>In this date range</small></article>
       </div>
 
       <div class="skill-grid" aria-label="Skill progress">
-        <article class="skill-summary skill-summary--mastered"><span>Mastered</span><strong id="skillsMastered">0</strong><small>Passed a test</small></article>
-        <article class="skill-summary skill-summary--pending"><span>Pending</span><strong id="skillsPending">0</strong><small>Practised, test not passed</small></article>
+        <article class="skill-summary skill-summary--mastered"><span>Tests passed</span><strong id="skillsMastered">0</strong><small>Completed tests that met the pass mark</small></article>
+        <article class="skill-summary skill-summary--pending"><span>Skills to revisit</span><strong id="skillsPending">0</strong><small>Completed activity without a passed test</small></article>
         <article class="skill-summary"><span>Daily drills</span><strong id="dailyDrillsTaken">0</strong><small>Completed in this date range</small></article>
         <article class="skill-summary"><span>Tests taken</span><strong id="testsTaken">0</strong><small>In this date range</small></article>
       </div>
@@ -102,13 +102,13 @@
 
     <section class="dashboard-grid">
       <article class="panel"><div class="panel-heading"><div><p class="progress-kicker">History</p><h2>Recent activity</h2></div></div><div id="recentActivity" class="activity-list"></div></article>
-      <article class="panel"><div class="panel-heading"><div><p class="progress-kicker">Your backup</p><h2>Use progress on another device</h2></div></div><p>Save your progress file, move it to the other device, then load it there.</p><div class="backup-actions"><button id="saveProgress" type="button">Save My Progress</button><label for="loadProgress">Load My Progress</label><input id="loadProgress" type="file" accept=".skillr,application/x-skillrhub-progress" hidden></div><p id="backupMessage" role="status"></p></article>
+      <article id="progressBackup" class="panel"><div class="panel-heading"><div><p class="progress-kicker">Your backup</p><h2>Protect or move your progress</h2></div></div><p id="progressStorageWarning">Progress stays in this browser on this device and does not sync automatically. Private browsing, clearing site data, changing browsers or switching devices can remove it. Save a backup regularly; to move progress, load that file on the other device.</p><div class="backup-actions"><button id="saveProgress" type="button" aria-describedby="progressStorageWarning">Save My Progress</button><button id="loadProgressButton" class="backup-load-button" type="button" aria-describedby="progressStorageWarning">Load My Progress</button><input id="loadProgress" type="file" accept=".skillr,application/x-skillrhub-progress" hidden></div><p id="backupMessage" role="status" aria-live="polite"></p></article>
     </section>
 
     <p class="dashboard-privacy-note">Advertising helps keep SkillrHub free. Ads are kept separate from learning controls and progress information. See our <a href="/privacy-policy.html">Privacy Policy</a>.</p>
   </main>
   <script src="/assets/progress-store.js?v=3" data-skillr-progress="true"></script>
-  <script src="/dashboard/script.js?v=20260813-2"></script>
+  <script src="/dashboard/script.js?v=20260814-1"></script>
   <script src="/pwa-register.js?v=5"></script>
 </body>
 </html>

@@ -265,3 +265,40 @@ html,body.progress-page { width:100%; max-width:100%; overflow-x:hidden; overflo
   .dashboard-quick-tools { grid-template-columns:1fr; }
   .dashboard-tool-message { grid-column:auto; }
 }
+
+/* Trust copy, repeat actions and accessible control targets */
+.dashboard-local-note a,.empty-state a { display:inline-flex; min-height:44px; align-items:center; color:var(--dash-blue); font-weight:800; vertical-align:middle; }
+.dashboard-nav a {
+  display:inline-flex;
+  min-height:44px;
+  align-items:center;
+  padding:6px 4px;
+}
+.progress-home,.profile-name-button,.profile-name-editor input,.profile-name-editor button,
+.install-pill,.dashboard-tool-button,.filter-controls select,.filter-controls input,
+.backup-actions button,.local-avatar label,.activity-again {
+  min-height:44px;
+}
+.progress-home { display:inline-flex; align-items:center; justify-content:center; }
+.local-avatar label { display:inline-flex; align-items:center; }
+.avatar-change { min-width:44px; min-height:44px; padding:8px 10px!important; }
+.icon-button { width:44px; height:44px; }
+.backup-load-button { background:#eef4ff!important; color:var(--dash-blue)!important; border:1px solid #bbccf7!important; }
+#progressBackup { scroll-margin-top:16px; }
+.activity-actions { display:flex; flex-direction:column; align-items:flex-end; gap:4px; }
+.activity-again {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:8px 11px;
+  border-radius:10px;
+  background:#eef4ff;
+  color:var(--dash-blue);
+  font-size:.82rem;
+  font-weight:800;
+  text-decoration:none;
+}
+.activity-again:hover,.activity-again:focus-visible { background:#dfe9ff; outline:2px solid var(--dash-blue); outline-offset:2px; }
+@media(max-width:460px){
+  .activity-actions { align-items:flex-start; }
+}

@@ -20,7 +20,7 @@ def page_shell(unit: dict, spec: dict, year: int) -> str:
 
 
 def slide_shell(year: int) -> str:
-    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Year {year} Maths Teacher Slides | SkillrHub</title><link rel="stylesheet" href="/assets/year8-maths.css?v=3"><link rel="stylesheet" href="/assets/year8-maths-slides.css?v=3"></head><body class="slide-page"><a class="back" id="backLink" href="/year{year}/curriculum/maths/">Back to topic</a><main id="slideRoot"><p>Loading teacher slides…</p></main><script src="/assets/year{year}-maths-data.js?v=3"></script><script src="/assets/year8-maths-slides.js?v=3"></script></body></html>'''
+    return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Year {year} Maths Teacher Slides | SkillrHub</title><link rel="stylesheet" href="/assets/year8-maths.css?v=3"><link rel="stylesheet" href="/assets/year8-maths-slides.css?v=3"><script src="/assets/display-only.js?v=2"></script></head><body class="slide-page"><a class="back" id="backLink" href="/year{year}/curriculum/maths/">Back to topic</a><main id="slideRoot"><p>Loading teacher slides…</p></main><script src="/assets/year{year}-maths-data.js?v=3"></script><script src="/assets/year8-maths-slides.js?v=3"></script></body></html>'''
 
 
 def build_year(all_units: list[dict], year: int) -> None:

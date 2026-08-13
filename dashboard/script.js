@@ -60,6 +60,16 @@
     return hours ? `${hours}h ${minutes % 60}m` : `${minutes}m`;
   }
 
+  function safeQuizAttemptUrl(value) {
+    try {
+      const url = new URL(String(value || ""), window.location.origin);
+      if (url.origin !== window.location.origin || !url.pathname.startsWith("/quiz/")) return "";
+      return `${url.pathname}${url.search}`;
+    } catch (_) {
+      return "";
+    }
+  }
+
   function render() {
     const state = window.SkillrProgress.read();
     const allAttempts = [...state.attempts].sort((a,b) => new Date(b.completedAt) - new Date(a.completedAt));
@@ -67,6 +77,10 @@
     const practice = attempts.filter((item) => item.mode === "practice");
     const dailyDrills = attempts.filter((item) => item.mode === "daily-drill");
     const tests = attempts.filter((item) => item.mode === "test");
+    const completedSeconds = attempts.reduce((sum, item) => {
+      const seconds = Number(item.durationSeconds);
+      return sum + (Number.isFinite(seconds) && seconds > 0 ? Math.min(seconds, 86400) : 0);
+    }, 0);
     const totalQuestions = attempts.reduce((sum,item) => sum + (Number(item.total)||0),0);
     const correct = attempts.reduce((sum,item) => sum + (Number(item.score)||0),0);
     const percentage = totalQuestions ? Math.round(correct / totalQuestions * 100) : 0;
@@ -77,7 +91,8 @@
       if (item.mode === "test" && item.passed) current.mastered = true;
       skills.set(code, current);
     });
-    const mastered = [...skills.values()].filter((item) => item.mastered).length;
+    const skillsWithPassedTest = [...skills.values()].filter((item) => item.mastered).length;
+    const passedTests = tests.filter((item) => item.passed).length;
     const avatar = state.profile.avatar || { type: "preset", value: "⭐" };
     byId("profileAvatar").textContent = avatar.type === "preset" ? avatar.value : "";
     byId("profileAvatar").style.backgroundImage = avatar.type === "image" ? `url(${avatar.value})` : "";
@@ -85,11 +100,11 @@
     const learnerName = state.profile.name || "Learner";
     byId("learnerNameDisplay").textContent = learnerName;
     byId("editName").setAttribute("aria-label", `Edit learner name. Current name: ${learnerName}`);
-    byId("activeTime").textContent = formatTime(state.activeSeconds);
+    byId("activeTime").textContent = formatTime(completedSeconds);
     byId("questionsPractised").textContent = [...practice, ...dailyDrills].reduce((sum,item)=>sum+(Number(item.total)||0),0);
     byId("skillsCovered").textContent = skills.size;
-    byId("skillsMastered").textContent = mastered;
-    byId("skillsPending").textContent = skills.size - mastered;
+    byId("skillsMastered").textContent = passedTests;
+    byId("skillsPending").textContent = skills.size - skillsWithPassedTest;
     byId("dailyDrillsTaken").textContent = dailyDrills.length;
     byId("testsTaken").textContent = tests.length;
     byId("accuracy").textContent = totalQuestions ? `${percentage}%` : "0%";
@@ -103,20 +118,26 @@
     } else if (percentage < 60) {
       result.classList.add("overall-result--beginner");
       byId("overallLevel").textContent = "Building accuracy";
-      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Passed tests are reported separately.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     } else if (percentage <= 80) {
       result.classList.add("overall-result--proficient");
       byId("overallLevel").textContent = "Proficient accuracy";
-      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Passed tests are reported separately.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     } else {
       result.classList.add("overall-result--mastery");
-      byId("overallLevel").textContent = "Mastery accuracy";
-      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Mastered skills are counted separately from passed Tests.`;
+      byId("overallLevel").textContent = "Strong accuracy";
+      byId("overallDescription").textContent = `${percentage}% across ${attempts.length} completed ${attempts.length === 1 ? "activity" : "activities"}. Passed tests are reported separately.`;
       byId("overallPercentage").textContent = `${percentage}%`;
     }
-    byId("recentActivity").innerHTML = attempts.length ? attempts.slice(0,8).map((item) => `<div class="activity-item"><div><strong>${escapeHtml(activityTitle(item))}</strong><small>${item.mode === "test" ? "Test" : item.mode === "daily-drill" ? "Daily Drill" : "Practice"} · ${new Date(item.completedAt).toLocaleDateString("en-AU")}</small></div><span class="activity-score">${item.percentage}%</span></div>`).join("") : '<div class="empty-state">Complete a Daily Drill, Practice or Test and it will appear here.</div>';
+    byId("recentActivity").innerHTML = attempts.length ? attempts.slice(0,8).map((item) => {
+      const title = activityTitle(item);
+      const attemptUrl = safeQuizAttemptUrl(item.attemptUrl);
+      const practiseAgain = attemptUrl ? `<a class="activity-again" href="${escapeHtml(attemptUrl)}" aria-label="Practise ${escapeHtml(title)} again">Practise again</a>` : "";
+      const score = Math.max(0, Math.min(100, Number(item.percentage) || 0));
+      return `<div class="activity-item"><div><strong>${escapeHtml(title)}</strong><small>${item.mode === "test" ? "Test" : item.mode === "daily-drill" ? "Daily Drill" : "Practice"} · ${new Date(item.completedAt).toLocaleDateString("en-AU")}</small></div><div class="activity-actions"><span class="activity-score">${score}%</span>${practiseAgain}</div></div>`;
+    }).join("") : allAttempts.length ? '<div class="empty-state">No completed activities in this date range.</div>' : '<div class="empty-state">No completed activities yet. <a href="/start/">Choose where to start</a>.</div>';
   }
 
   function escapeHtml(value) { const node=document.createElement("span"); node.textContent=String(value||""); return node.innerHTML; }
@@ -172,14 +193,11 @@
     const latest = [...state.attempts]
       .sort((a, b) => new Date(b.completedAt) - new Date(a.completedAt))
       .find((item) => item.attemptUrl || item.curriculumCode);
-    if (latest?.attemptUrl) {
-      try {
-        const url = new URL(latest.attemptUrl, window.location.origin);
-        if (url.origin === window.location.origin && url.pathname.startsWith("/quiz/")) {
-          url.searchParams.set("warmup", "1");
-          return `${url.pathname}${url.search}`;
-        }
-      } catch (_) {}
+    const latestAttemptUrl = safeQuizAttemptUrl(latest?.attemptUrl);
+    if (latestAttemptUrl) {
+      const url = new URL(latestAttemptUrl, window.location.origin);
+      url.searchParams.set("warmup", "1");
+      return `${url.pathname}${url.search}`;
     }
     const code = String(latest?.curriculumCode || "").toUpperCase();
     const drill = code.match(/^DRILL:(FOUNDATION|YEAR\s*-?\s*\d+|GRADE-K)/);
@@ -193,7 +211,7 @@
       const year = match[2] === "F" ? "grade-k" : `year-${match[2]}`;
       return `/quiz/${year}/${subject}/${code.toLowerCase()}/practice/?warmup=1`;
     }
-    return "/quiz/grade-k/math/ac9mfn01/practice/?warmup=1";
+    return "/start/";
   }
 
   byId("quickWarmup").addEventListener("click", () => {
@@ -277,7 +295,8 @@
   });
 
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
-  byId("loadProgress").addEventListener("change",async(event)=>{ try { await window.SkillrProgress.importBackup(event.target.files[0]); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; });
+  byId("loadProgressButton").addEventListener("click",()=>byId("loadProgress").click());
+  byId("loadProgress").addEventListener("change",async(event)=>{ const file=event.target.files[0]; if(!file) return; try { await window.SkillrProgress.importBackup(file); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; byId("loadProgressButton").focus(); });
   addEventListener("beforeinstallprompt",(event)=>{ event.preventDefault(); deferredPrompt=event; });
   byId("installButton").addEventListener("click",async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; } else { byId("installMessage").textContent="On iPhone or iPad, tap Share then Add to Home Screen. On desktop, use the install icon in your browser address bar."; } });
   addEventListener("skillr:progress-changed",render);

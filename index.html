@@ -80,7 +80,7 @@
 
 
   <!-- Site stylesheet -->
-  <link rel="stylesheet" href="/style.css?v=20260813-5">
+  <link rel="stylesheet" href="/style.css?v=20260814-2">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -106,6 +106,7 @@
 
       <div class="site-header__links">
         <a aria-current="page" href="/">Home</a>
+        <a href="/start/">Start here</a>
         <a href="/dashboard/">Dashboard</a>
         <a href="/blogs/">Blogs</a>
         <a href="/why-skillrhub.html">Features</a>
@@ -117,6 +118,7 @@
         <summary>Menu</summary>
         <div class="site-header__menu-panel">
           <a aria-current="page" href="/">Home</a>
+          <a href="/start/">Start here</a>
           <a href="/dashboard/">Dashboard</a>
           <a href="/blogs/">Blogs</a>
           <a href="/why-skillrhub.html">Features</a>
@@ -244,6 +246,36 @@
               <span><strong>Break timer</strong><small id="home-timer-status">Set a 15–60 minute reminder</small></span>
             </button>
           </div>
+        </div>
+      </section>
+
+      <section class="audience-launchpad" aria-labelledby="audience-launchpad-title">
+        <div class="audience-launchpad__heading">
+          <p class="audience-launchpad__eyebrow">Your quickest way in</p>
+          <h2 id="audience-launchpad-title">What brings you to SkillrHub today?</h2>
+          <p>Choose a starting point and we’ll show the most useful next steps. No login is required.</p>
+        </div>
+        <div class="audience-launchpad__grid">
+          <a class="audience-card audience-card--student" href="/start/?role=student">
+            <span class="audience-card__mark" aria-hidden="true">S</span>
+            <span><strong>Student</strong><small>Practise a topic or take a quick test</small></span>
+            <span class="audience-card__action" aria-hidden="true">Start learning →</span>
+          </a>
+          <a class="audience-card audience-card--teacher" href="/start/?role=teacher">
+            <span class="audience-card__mark" aria-hidden="true">T</span>
+            <span><strong>Teacher</strong><small>Choose a topic, slides and activities</small></span>
+            <span class="audience-card__action" aria-hidden="true">Plan a lesson →</span>
+          </a>
+          <a class="audience-card audience-card--substitute" href="/start/?role=substitute">
+            <span class="audience-card__mark" aria-hidden="true">ST</span>
+            <span><strong>Substitute teacher</strong><small>Open a ready-to-run lesson sequence</small></span>
+            <span class="audience-card__action" aria-hidden="true">Teach now →</span>
+          </a>
+          <a class="audience-card audience-card--family" href="/start/?role=family">
+            <span class="audience-card__mark" aria-hidden="true">H</span>
+            <span><strong>Parent or homeschool</strong><small>Choose a topic and learn together</small></span>
+            <span class="audience-card__action" aria-hidden="true">Start at home →</span>
+          </a>
         </div>
       </section>
 
@@ -569,6 +601,7 @@
   <footer>
     <nav class="footer-nav" aria-label="Footer navigation">
       <a href="/">Home</a>
+      <a href="/start/">Start here</a>
       <a href="/dashboard/">Dashboard</a>
       <a href="/blogs/">Blogs</a>
       <a href="/why-skillrhub.html">Features</a>
@@ -644,9 +677,9 @@
   </script>
 
   <!-- PWA -->
-  <script src="/pwa-register.js?v=5"></script>
+  <script src="/pwa-register.js?v=7"></script>
   <script src="/share-button.js"></script>
-  <script src="/assets/home-search.js?v=5" defer></script>
+  <script src="/assets/home-search.js?v=6" defer></script>
 
 </body>
 </html>

@@ -1,6 +1,16 @@
 (function () {
   "use strict";
 
+  function loadFirstVisitHelp() {
+    var path = window.location.pathname.toLowerCase();
+    if (window.self !== window.top || path.indexOf("/teacher-slides/") !== -1) return;
+    if (window.__skillrFirstVisitHelpLoaded || document.querySelector('script[src*="/assets/first-visit-help.js"]')) return;
+    var script = document.createElement("script");
+    script.src = "/assets/first-visit-help.js?v=4";
+    script.defer = true;
+    document.head.appendChild(script);
+  }
+
   function fallbackCopy(value) {
     var input = document.createElement("textarea");
     input.value = value;
@@ -56,7 +66,7 @@
 
     nav.replaceChildren();
     [
-      ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+      ["Home", "/"], ["Start here", "/start/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
       ["Worksheets", "/worksheets/"], ["About", "/about.html"],
       ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"]
     ].forEach(function (item) {
@@ -100,6 +110,7 @@
   }
 
   window.SkillrShare = shareSkillrHub;
+  loadFirstVisitHelp();
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", initSiteHelpers, { once: true });

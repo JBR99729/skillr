@@ -32,6 +32,9 @@ def search_words(value):
   if len(word)>1 and word not in seen:seen.add(word);words.append(word)
  return " ".join(words)
 
+def search_phrase_text(value):
+ return " ".join(re.findall(r"[a-z0-9]+",html.unescape(str(value)).lower()))
+
 def visible_search_text(source):
  parser=VisibleTextParser();parser.feed(source)
  return search_words(" ".join(parser.parts))
@@ -44,13 +47,32 @@ def write_search_index(pages):
   for unit in units:
    for elaboration in unit.get("elaborations",[]):
     text=elaboration.get("text","");code=elaboration.get("code") or "_".join(filter(None,(unit.get("code"),elaboration.get("number"))))
-    common=bool(COMMON_FACTOR_RE.search(text));aliases="greatest common factor highest common factor greatest common divisor gcf hcf gcd" if common else ""
-    title=f"Greatest/Highest Common Factors (GCF/HCF/GCD) — {code}" if common else f"{code} — {text[:120]}"
+    common=bool(COMMON_FACTOR_RE.search(text));aliases="greatest common factor highest common factor greatest common divisor gcf hcf gcd least common multiple lowest common multiple lcm lowest multiple factor" if common else ""
+    title=f"Common Factors and Multiples (GCF/HCF/GCD/LCM) — {code}" if common else f"{code} — {text[:120]}"
     searchable=" ".join(filter(None,(code,unit.get("code",""),text,unit.get("title",""),unit.get("levelLabel") or unit.get("level",""),unit.get("subject") or unit.get("learningArea",""),aliases,unit.get("url",""))))
     items.append({"t":title,"u":unit.get("url",""),"x":search_words(searchable),"e":1})
  items=[item for item in items if item["t"] and item["u"]]
  (ROOT/"assets"/"site-search-index.json").write_text(json.dumps({"items":items},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
  return len(items)
+def write_guided_start_topics():
+ manifest=ROOT/"data"/"curriculum-units.json"
+ units=json.loads(manifest.read_text(encoding="utf-8")).get("units",[])
+ fields=("yearNumber","yearFolder","subject","subjectSlug","quizYearSegment","code","description","url","practiceUrl","testUrl","worksheetUrl")
+ topics=[]
+ for unit in units:
+  topic={field:unit.get(field,"") for field in fields}
+  curriculum_parts=[
+   unit.get("title",""),unit.get("description",""),unit.get("strand",""),unit.get("subStrand","")
+  ]+[item.get("text","") for item in unit.get("elaborations",[])]
+  curriculum_text=" ".join(curriculum_parts)
+  aliases=""
+  if COMMON_FACTOR_RE.search(curriculum_text):
+   aliases="greatest common factor highest common factor greatest common divisor gcf hcf gcd lowest least common multiple lcm lowest multiple factor"
+  topic["searchTerms"]=" ".join(filter(None,[*(search_phrase_text(part) for part in curriculum_parts),aliases]))
+  topics.append(topic)
+ output={"generatedBy":"scripts/generate_sitemap.py","topics":topics}
+ (ROOT/"data"/"guided-start-topics.json").write_text(json.dumps(output,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+ return len(topics)
 def route(path):
  v=path.as_posix()
  if v=="index.html": return "/"
@@ -152,8 +174,9 @@ def main():
 <meta name="robots" content="index,follow"><link rel="canonical" href="{BASE}/sitemap.html">
 <meta property="og:title" content="SkillrHub Learning Resources Sitemap"><meta property="og:description" content="Find Australian Curriculum learning resources from Foundation to Year 10."><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/sitemap.html">
 <link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{schema}</script><meta name="google-adsense-account" content="ca-pub-7734963540104771"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","G-8P22BET45N");</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script></head>
-<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Learning resources sitemap</h1><p>Choose a year level or browse our main resource collections. Individual curriculum activities remain discoverable through each year and subject hub.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=6"></script></body></html>'''
+<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/start/">Start here</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Learning resources sitemap</h1><p>Choose a year level or browse our main resource collections. Individual curriculum activities remain discoverable through each year and subject hub.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 Skillr Education. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=7"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
  search_count=write_search_index(pages)
- print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
+ guided_count=write_guided_start_topics()
+ print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs, {search_count} search entries and {guided_count} guided-start topics.")
 if __name__=="__main__":main()

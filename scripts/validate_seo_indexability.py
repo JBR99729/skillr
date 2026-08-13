@@ -41,7 +41,14 @@ def main() -> None:
         robots = re.search(r'<meta[^>]+name=["\']robots["\'][^>]+content=["\']([^"\']+)', source, re.I)
         noindex = bool(robots and "noindex" in robots.group(1).lower())
         functional = relative.as_posix() == "offline.html" or bool(set(relative.parts) & FUNCTIONAL)
-        if noindex or functional:
+        if functional:
+            excluded_count += 1
+            if not noindex:
+                errors.append(f"{url}: functional page is excluded from XML sitemaps but missing noindex")
+            if url in sitemap_urls:
+                errors.append(f"{url}: functional noindex page is still present in an XML sitemap")
+            continue
+        if noindex:
             excluded_count += 1
             continue
 

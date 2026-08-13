@@ -86,7 +86,7 @@
   function loadIndex() {
     if (indexPromise) return indexPromise;
 
-    indexPromise = fetch("/assets/site-search-index.json?v=1", { credentials: "same-origin" })
+    indexPromise = fetch("/assets/site-search-index.json?v=2", { credentials: "same-origin" })
       .then(function (response) {
         if (!response.ok) throw new Error("Search index unavailable");
         return response.json();

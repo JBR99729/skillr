@@ -7,6 +7,13 @@
   const pagePath = window.location.pathname.replace(/\/+$/, "") || "/";
   const isTeacherSlide = pagePath.includes("/teacher-slides/");
 
+  if (isTeacherSlide && !document.querySelector('script[src*="/assets/teacher-slide-shell.js"]')) {
+    const teacherSlideShell = document.createElement("script");
+    teacherSlideShell.src = "/assets/teacher-slide-shell.js?v=2";
+    teacherSlideShell.async = false;
+    document.head.appendChild(teacherSlideShell);
+  }
+
   // Year 7 pages retain their existing HTML and load the connected visual layer additively.
   if (/^\/(?:year7\/(?:maths|science|english)\/ac9|quiz\/year-7\/(?:math|science|english)\/ac9)/i.test(pagePath)) {
     const router = document.createElement("script");

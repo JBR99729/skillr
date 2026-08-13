@@ -29,6 +29,7 @@
   }
 
   loadScript("/assets/display-only.js?v=1");
+  loadScript("/assets/first-visit-help.js?v=4");
   loadScript("/assets/foundation-topic-language.js?v=1");
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
   loadSequence([
@@ -37,7 +38,6 @@
     "/assets/curriculum-cluster-core.js?v=1",
     "/assets/curriculum-strand-coverage.js?v=2",
     "/assets/curriculum-visual-layer.js?v=2",
-    "/assets/teacher-slide-clusters.js?v=1",
     "/assets/multi-strand-worksheet-pack.js?v=1",
     "/assets/qa-complete-ribbon.js?v=3"
   ]);
@@ -228,7 +228,7 @@
     const currentPath = path.replace(/index\.html$/, "");
     if (mainNav) {
       mainNav.replaceChildren(...[
-        ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+        ["Home", "/"], ["Start here", "/start/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
         ["Features", "/why-skillrhub.html"], ["About", "/about.html"], ["Contact", "/contact.html"]
       ].map(([label, href]) => {
         const link = document.createElement("a");
@@ -257,7 +257,7 @@
         footer.prepend(footerNav);
       }
       footerNav.replaceChildren(...[
-        ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+        ["Home", "/"], ["Start here", "/start/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
         ["Worksheets", "/worksheets/"], ["About", "/about.html"],
         ["Features", "/why-skillrhub.html"], ["Contact", "/contact.html"],
         ["💬 Request a Feature / Feedback", "/contact.html"], ["Privacy", "/privacy-policy.html"]
@@ -592,22 +592,10 @@
     host?.prepend(trigger);
   }
 
-  function setupSlideKeyboard() {
-    if (!/\/teacher-slides\//i.test(path)) return;
-    document.addEventListener("keydown", (event) => {
-      if (event.target?.closest?.("input, textarea, select, [contenteditable='true']")) return;
-      const next = document.querySelector('[data-action="next"], .next-slide, #nextSlide, [aria-label*="Next slide" i]');
-      const previous = document.querySelector('[data-action="previous"], .previous-slide, #previousSlide, [aria-label*="Previous slide" i]');
-      if (event.key === "ArrowRight" && next) { event.preventDefault(); next.click(); }
-      if (event.key === "ArrowLeft" && previous) { event.preventDefault(); previous.click(); }
-    });
-  }
-
   function initialiseSharedExperience() {
     normalizeSharedChrome();
     setupUtilityControls();
     setupQrCard();
-    setupSlideKeyboard();
     window.setTimeout(showInstallBanner, 45000);
     document.addEventListener("skillr:quiz-complete", () => window.setTimeout(showInstallBanner, 500));
   }

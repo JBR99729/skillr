@@ -1,0 +1,53 @@
+body.skillr-help-open { overflow:hidden; }
+.skillr-help-launcher {
+    position:fixed;
+    z-index:10020;
+    left:16px;
+    bottom:16px;
+    display:inline-flex;
+    min-height:44px;
+    padding:7px 13px 7px 7px;
+    align-items:center;
+    gap:7px;
+    border:1px solid #9fb8e1;
+    border-radius:999px;
+    background:#fff;
+    color:#17335f;
+    font:inherit;
+    font-size:.76rem;
+    box-shadow:0 10px 28px rgba(21,52,105,.18);
+    cursor:pointer;
+}
+.skillr-help-launcher>span { display:grid; width:28px; height:28px; place-items:center; border-radius:50%; background:#2457d6; color:#fff; font-weight:900; }
+.skillr-help-launcher:hover,.skillr-help-launcher:focus-visible { border-color:#2457d6; outline:3px solid rgba(36,87,214,.16); outline-offset:2px; }
+body:has(.skillr-install-banner) .skillr-help-launcher { bottom:92px; }
+.skillr-help-layer { position:fixed; z-index:10060; inset:0; display:grid; padding:18px; place-items:center; background:rgba(8,24,48,.68); }
+.skillr-help-panel { width:min(680px,100%); max-height:min(92vh,800px); overflow:auto; padding:clamp(19px,3vw,28px); border:1px solid #c7d6e9; border-radius:21px; background:#fff; color:#172b4d; box-shadow:0 28px 80px rgba(5,20,45,.34); }
+.skillr-help-header { display:flex; gap:18px; align-items:flex-start; justify-content:space-between; }
+.skillr-help-kicker { display:block; margin-bottom:5px; color:#2457d6; font-size:.72rem; font-weight:900; letter-spacing:.1em; text-transform:uppercase; }
+.skillr-help-header h2 { margin:0; color:#153158; font-size:clamp(1.45rem,3vw,2rem); line-height:1.16; }
+.skillr-help-close { display:grid; width:44px; height:44px; flex:0 0 44px; place-items:center; border:0; border-radius:50%; background:#edf2f8; color:#17335f; font:inherit; font-size:1.45rem; cursor:pointer; }
+.skillr-help-close:hover,.skillr-help-close:focus-visible { background:#dfe9f6; outline:3px solid rgba(36,87,214,.15); }
+.skillr-help-no-login { display:grid; grid-template-columns:minmax(0,1fr); gap:3px; margin-top:17px; padding:14px 16px; border:1px solid #94d5b6; border-left:5px solid #087a55; border-radius:12px; background:#effbf5; }
+.skillr-help-no-login strong { color:#105c43; }
+.skillr-help-no-login span { color:#4d7163; font-size:.8rem; line-height:1.45; }
+.skillr-help-panel>p { margin:16px 0 0; color:#5d6e84; line-height:1.55; }
+.skillr-help-roles { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; margin-top:14px; }
+.skillr-help-roles a { display:grid; gap:4px; min-height:78px; padding:13px 14px; align-content:center; border:1px solid #cbd8ea; border-radius:12px; background:#f9fbfe; color:#17335f; text-decoration:none; }
+.skillr-help-roles a:hover,.skillr-help-roles a:focus-visible { border-color:#2457d6; background:#eef4ff; outline:3px solid rgba(36,87,214,.13); outline-offset:1px; }
+.skillr-help-roles strong { font-size:.9rem; }
+.skillr-help-roles span { color:#5d6e84; font-size:.75rem; }
+.skillr-help-footer { display:flex; gap:14px; margin-top:17px; align-items:center; justify-content:space-between; }
+.skillr-help-browse { min-height:44px; padding:9px 13px; border:1px solid #bbcbe0; border-radius:10px; background:#fff; color:#294466; font:inherit; font-size:.78rem; font-weight:900; cursor:pointer; }
+.skillr-help-footer>a { color:#365d99; font-size:.75rem; font-weight:800; }
+
+@media (max-width:560px) {
+    .skillr-help-roles { grid-template-columns:1fr; }
+    .skillr-help-footer { align-items:stretch; flex-direction:column; }
+    .skillr-help-footer>* { width:100%; text-align:center; }
+    .skillr-help-launcher { left:10px; bottom:10px; }
+    body:has(.skillr-install-banner) .skillr-help-launcher { bottom:154px; }
+}
+@media print {
+    .skillr-help-launcher,.skillr-help-layer { display:none!important; }
+}

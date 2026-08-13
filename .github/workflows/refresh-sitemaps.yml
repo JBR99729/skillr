@@ -6,6 +6,16 @@ on:
     paths:
       - '**/*.html'
       - 'scripts/generate_sitemap.py'
+      - 'scripts/validate_guided_start.py'
+      - 'assets/guided-start.js'
+      - 'assets/display-only.js'
+      - 'assets/teacher-slide-shell.js'
+      - 'pwa-register.js'
+      - 'service-worker.js'
+      - 'scripts/build_upper_english_topics.mjs'
+      - 'scripts/build_upper_science_topics.mjs'
+      - 'scripts/build_year9_10_maths_topics.py'
+      - 'data/curriculum-units.json'
   workflow_dispatch:
 
 permissions:
@@ -31,6 +41,8 @@ jobs:
 
       - name: Validate public page indexability
         run: python3 scripts/validate_seo_indexability.py
+      - name: Validate guided start and Teacher Slide isolation
+        run: python3 scripts/validate_guided_start.py
       - name: Validate XML
         run: |
           python3 - <<'PY'
@@ -43,7 +55,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add sitemap.xml sitemap-*.xml sitemap.html assets/site-search-index.json
+          git add sitemap.xml sitemap-*.xml sitemap.html assets/site-search-index.json data/guided-start-topics.json
           if git diff --cached --quiet; then
             echo 'Sitemaps already current.'
           else
