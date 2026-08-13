@@ -215,3 +215,7 @@
 
   window.SkillrFoundationV11Renderer = { renderTopic, renderSlides, enhanceStaticTopic, ensureCss };
 })();
+
+if (document.readyState === "loading") {
+  document.write('<script src="/assets/foundation-classroom-rollout.js?v=20260813-foundation"><\/script>');
+}
