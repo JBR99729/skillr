@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LY05-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which statement is an inference?",
+    "audio_prompt": "Read the classroom example. Which statement is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-001",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Worked text 1. Notice: Choose strategies purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The character may be worried because she repeatedly checks the locked door",
+        "is_correct": true
+      },
+      {
+        "text": "The door is locked",
+        "is_correct": false
+      },
+      {
+        "text": "The text states she checks twice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “The door is locked”. Which feedback helps? Task: Read the classroom example. Which statement is an inference?",
+    "audio_prompt": "A student answers “The door is locked”. Which feedback helps? Task: Read the classroom example. Which statement is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-002",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Worked text 1. Notice: Choose strategies purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The door is locked”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The text states she checks twice” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which is a strong summary?",
+    "audio_prompt": "Read the classroom example. Which is a strong summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-003",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Worked text 2. Notice: Build evidence inferences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every detail in original order",
+        "is_correct": false
+      },
+      {
+        "text": "A personal opinion only",
+        "is_correct": false
+      },
+      {
+        "text": "A concise statement of the central idea and essential support",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “A personal opinion only”. Which feedback helps? Task: Read the classroom example. Which is a strong summary?",
+    "audio_prompt": "A student answers “A personal opinion only”. Which feedback helps? Task: Read the classroom example. Which is a strong summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-004",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Worked text 2. Notice: Build evidence inferences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “A personal opinion only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every detail in original order” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-005",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 1. Notice: Monitor and repair. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Prediction must be correct",
+        "is_correct": false
+      },
+      {
+        "text": "It should be reasonable and revised when evidence changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated personal story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It should be reasonable and revised when evidence changes.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Prediction must be correct”. Which feedback helps? Task: A student in a workshop claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Prediction must be correct”. Which feedback helps? Task: A student in a workshop claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-006",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 1. Notice: Monitor and repair. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Prediction must be correct”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Connection becomes unrelated personal story” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It should be reasonable and revised when evidence changes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It should be reasonable and revised when evidence changes.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-007",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 2. Notice: Summarise central ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Explain how it deepens understanding of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated personal story",
+        "is_correct": false
+      },
+      {
+        "text": "Summary retells every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain how it deepens understanding of the text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Summary retells every detail”. Which feedback helps? Task: A student in a workshop claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Summary retells every detail”. Which feedback helps? Task: A student in a workshop claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-008",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 2. Notice: Summarise central ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Summary retells every detail”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it deepens understanding of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Connection becomes unrelated personal story” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it deepens understanding of the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-009",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 3. Notice: Evaluate with criteria. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Summary retells every detail",
+        "is_correct": false
+      },
+      {
+        "text": "Inference is a guess",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise central ideas and relationships.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Prioritise central ideas and relationships.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Summary retells every detail”. Which feedback helps? Task: A student in a workshop claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Summary retells every detail”. Which feedback helps? Task: A student in a workshop claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-010",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 3. Notice: Evaluate with criteria. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Prioritise central ideas and relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Summary retells every detail”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Inference is a guess” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Prioritise central ideas and relationships.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-011",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 4. Notice: Choose strategies purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Inference is a guess",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluation means liking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cite clues and reasoning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Evaluation means liking”. Which feedback helps? Task: A student in a workshop claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Evaluation means liking”. Which feedback helps? Task: A student in a workshop claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-012",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 4. Notice: Choose strategies purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Evaluation means liking”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Inference is a guess” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Cite clues and reasoning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Cite clues and reasoning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_5_apply",
+    "question": "A student in a workshop claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-013",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 5. Notice: Build evidence inferences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use explicit criteria and evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluation means liking",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction must be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use explicit criteria and evidence.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "misconception_5_reason",
+    "question": "A student answers “Evaluation means liking”. Which feedback helps? Task: A student in a workshop claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Evaluation means liking”. Which feedback helps? Task: A student in a workshop claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-014",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 5. Notice: Build evidence inferences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Evaluation means liking”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use explicit criteria and evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Prediction must be correct” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use explicit criteria and evidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "strategy_selection_apply",
+    "question": "The class prepares “Strategy selection”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Strategy selection”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-015",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Strategy selection. Notice: Monitor and repair. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "strategy_selection_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Strategy selection”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Strategy selection”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-016",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Strategy selection. Notice: Monitor and repair. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "prediction_update_log_apply",
+    "question": "The class prepares “Prediction update log”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Prediction update log”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-017",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Prediction update log. Notice: Summarise central ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Record prediction, evidence encountered, revision and final judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Record prediction, evidence encountered, revision and final judgement.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "prediction_update_log_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Prediction update log”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Prediction update log”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-018",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Prediction update log. Notice: Summarise central ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Record prediction, evidence encountered, revision and final judgement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Record prediction, evidence encountered, revision and final judgement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "summary_compression_apply",
+    "question": "The class prepares “Summary compression”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Summary compression”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-019",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Summary compression. Notice: Evaluate with criteria. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Reduce a paragraph to one main idea and essential support, explaining what details were omitted.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reduce a paragraph to one main idea and essential support, explaining what details were omitted.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "summary_compression_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Summary compression”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Summary compression”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-020",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Summary compression. Notice: Evaluate with criteria. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Reduce a paragraph to one main idea and essential support, explaining what details were omitted.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Reduce a paragraph to one main idea and essential support, explaining what details were omitted.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “information stated or directly shown”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “information stated or directly shown”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-021",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Vocabulary 1. Notice: Choose strategies purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "literal meaning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "literal meaning is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “inference”. Which feedback helps? Task: A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “information stated or directly shown”. Which term is most precise?",
+    "audio_prompt": "A student answers “inference”. Which feedback helps? Task: A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “information stated or directly shown”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-022",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Vocabulary 1. Notice: Choose strategies purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. literal meaning is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “inference”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “monitoring” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. literal meaning is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “meaning developed from clues and knowledge”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “meaning developed from clues and knowledge”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-023",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Vocabulary 2. Notice: Build evidence inferences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "literal meaning",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "inference is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY05-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “monitoring”. Which feedback helps? Task: A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “meaning developed from clues and knowledge”. Which term is most precise?",
+    "audio_prompt": "A student answers “monitoring”. Which feedback helps? Task: A class annotation about Comprehension Strategies for Literal, Inferred and Evaluative Meaning describes “meaning developed from clues and knowledge”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-p-024",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Vocabulary 2. Notice: Build evidence inferences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “monitoring”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “literal meaning” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. inference is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. inference is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which statement is an inference?",
+    "audio_prompt": "In a new assessment text, Which statement is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-001",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: New text 1. Notice: Choose strategies purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The character may be worried because she repeatedly checks the locked door",
+        "is_correct": true
+      },
+      {
+        "text": "The door is locked",
+        "is_correct": false
+      },
+      {
+        "text": "The text states she checks twice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “The door is locked”. Which feedback helps? Task: In a new assessment text, Which statement is an inference?",
+    "audio_prompt": "A student answers “The door is locked”. Which feedback helps? Task: In a new assessment text, Which statement is an inference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-002",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: New text 1. Notice: Choose strategies purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The door is locked”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The text states she checks twice” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The character may be worried because she repeatedly checks the locked door”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which is a strong summary?",
+    "audio_prompt": "In a new assessment text, Which is a strong summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-003",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: New text 2. Notice: Build evidence inferences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every detail in original order",
+        "is_correct": false
+      },
+      {
+        "text": "A personal opinion only",
+        "is_correct": false
+      },
+      {
+        "text": "A concise statement of the central idea and essential support",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “A personal opinion only”. Which feedback helps? Task: In a new assessment text, Which is a strong summary?",
+    "audio_prompt": "A student answers “A personal opinion only”. Which feedback helps? Task: In a new assessment text, Which is a strong summary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-004",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: New text 2. Notice: Build evidence inferences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “A personal opinion only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every detail in original order” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A concise statement of the central idea and essential support”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-005",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 1. Notice: Monitor and repair. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Prediction must be correct",
+        "is_correct": false
+      },
+      {
+        "text": "It should be reasonable and revised when evidence changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated personal story",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It should be reasonable and revised when evidence changes.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Prediction must be correct”. Which feedback helps? Task: An editor reviewing a new text claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Prediction must be correct”. Which feedback helps? Task: An editor reviewing a new text claims, “Prediction must be correct”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-006",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 1. Notice: Monitor and repair. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Prediction must be correct”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Connection becomes unrelated personal story” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It should be reasonable and revised when evidence changes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It should be reasonable and revised when evidence changes.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-007",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 2. Notice: Summarise central ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Explain how it deepens understanding of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated personal story",
+        "is_correct": false
+      },
+      {
+        "text": "Summary retells every detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain how it deepens understanding of the text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Summary retells every detail”. Which feedback helps? Task: An editor reviewing a new text claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Summary retells every detail”. Which feedback helps? Task: An editor reviewing a new text claims, “Connection becomes unrelated personal story”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-008",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 2. Notice: Summarise central ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Summary retells every detail”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it deepens understanding of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Connection becomes unrelated personal story” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain how it deepens understanding of the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-009",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 3. Notice: Evaluate with criteria. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Summary retells every detail",
+        "is_correct": false
+      },
+      {
+        "text": "Inference is a guess",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise central ideas and relationships.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Prioritise central ideas and relationships.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Summary retells every detail”. Which feedback helps? Task: An editor reviewing a new text claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Summary retells every detail”. Which feedback helps? Task: An editor reviewing a new text claims, “Summary retells every detail”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-010",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 3. Notice: Evaluate with criteria. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Prioritise central ideas and relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Summary retells every detail”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Inference is a guess” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Prioritise central ideas and relationships.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-011",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 4. Notice: Choose strategies purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Inference is a guess",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning.",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluation means liking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cite clues and reasoning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Evaluation means liking”. Which feedback helps? Task: An editor reviewing a new text claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Evaluation means liking”. Which feedback helps? Task: An editor reviewing a new text claims, “Inference is a guess”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-012",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 4. Notice: Choose strategies purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Evaluation means liking”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Inference is a guess” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Cite clues and reasoning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Cite clues and reasoning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_5_apply",
+    "question": "An editor reviewing a new text claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-013",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 5. Notice: Build evidence inferences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use explicit criteria and evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluation means liking",
+        "is_correct": false
+      },
+      {
+        "text": "Prediction must be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use explicit criteria and evidence.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "misconception_5_reason",
+    "question": "A student answers “Evaluation means liking”. Which feedback helps? Task: An editor reviewing a new text claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Evaluation means liking”. Which feedback helps? Task: An editor reviewing a new text claims, “Evaluation means liking”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-014",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Misconception 5. Notice: Build evidence inferences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Evaluation means liking”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use explicit criteria and evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Prediction must be correct” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use explicit criteria and evidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "strategy_selection_apply",
+    "question": "A different class adapts “Strategy selection”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Strategy selection”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-015",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Strategy selection. Notice: Monitor and repair. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY05-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY05",
+    "bank": "test",
+    "skill": "strategy_selection_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Strategy selection”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Strategy selection”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly05.svg#ac9e4ly05-t-016",
+      "alt_text": "Three-step Comprehension Strategies for Literal, Inferred and Evaluative Meaning organiser. Read: Strategy selection. Notice: Monitor and repair. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Match reading goals to useful strategy combinations rather than applying every strategy every time.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

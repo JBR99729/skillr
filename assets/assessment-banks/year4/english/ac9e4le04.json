@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LE04-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which sentence uses personification?",
+    "audio_prompt": "Read the classroom example. Which sentence uses personification?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-001",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The wind clawed at the roof.",
+        "is_correct": true
+      },
+      {
+        "text": "The wind speed was 40 km or h.",
+        "is_correct": false
+      },
+      {
+        "text": "The roof was metal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The wind clawed at the roof.”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: Read the classroom example. Which sentence uses personification?",
+    "audio_prompt": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: Read the classroom example. Which sentence uses personification?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-002",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The wind speed was 40 km or h.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The roof was metal.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
+    "audio_prompt": "Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-003",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a factual measurement",
+        "is_correct": false
+      },
+      {
+        "text": "a rhyme with no second meaning",
+        "is_correct": false
+      },
+      {
+        "text": "two meanings or sounds: too tired and two tyres",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
+    "audio_prompt": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-004",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a rhyme with no second meaning”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a factual measurement” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-005",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Naming device completes analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to local and whole-text meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Any repeated letter is alliteration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect evidence to local and whole-text meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-006",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Any repeated letter is alliteration” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-007",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Focus on noticeable sound pattern, usually at nearby stressed words.",
+        "is_correct": true
+      },
+      {
+        "text": "Any repeated letter is alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "Metaphor considered false information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focus on noticeable sound pattern, usually at nearby stressed words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-008",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Any repeated letter is alliteration” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-009",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Metaphor considered false information",
+        "is_correct": false
+      },
+      {
+        "text": "More devices always improve writing",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a conceptual comparison, not a literal claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It creates a conceptual comparison, not a literal claim.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-010",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “More devices always improve writing” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-011",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "More devices always improve writing",
+        "is_correct": false
+      },
+      {
+        "text": "Select devices that support a coherent effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming device completes analysis",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select devices that support a coherent effect.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-012",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “More devices always improve writing” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "device_laboratory_apply",
+    "question": "The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-013",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "device_laboratory_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-014",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "poetry_sound_map_apply",
+    "question": "The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-015",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "poetry_sound_map_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-016",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "word_play_meaning_tree_apply",
+    "question": "The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-017",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "List two meanings needed for a pun and explain how context activates both.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "List two meanings needed for a pun and explain how context activates both.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "word_play_meaning_tree_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-018",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. List two meanings needed for a pun and explain how context activates both.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. List two meanings needed for a pun and explain how context activates both.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-019",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "figurative language",
+        "is_correct": true
+      },
+      {
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "personification",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "figurative language is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “personification”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
+    "audio_prompt": "A student answers “personification”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-020",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “personification”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. figurative language is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “metaphor” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. figurative language is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-021",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "figurative language",
+        "is_correct": false
+      },
+      {
+        "text": "personification",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "metaphor is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “figurative language”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
+    "audio_prompt": "A student answers “figurative language”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-022",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. metaphor is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “figurative language”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “personification” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. metaphor is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-023",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "figurative language",
+        "is_correct": false
+      },
+      {
+        "text": "personification",
+        "is_correct": true
+      },
+      {
+        "text": "metaphor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "personification is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “metaphor”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
+    "audio_prompt": "A student answers “metaphor”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-024",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “metaphor”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “figurative language” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. personification is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. personification is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which sentence uses personification?",
+    "audio_prompt": "In a new assessment text, Which sentence uses personification?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-001",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: New text 1. Notice: Recognise literary devices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The wind clawed at the roof.",
+        "is_correct": true
+      },
+      {
+        "text": "The wind speed was 40 km or h.",
+        "is_correct": false
+      },
+      {
+        "text": "The roof was metal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The wind clawed at the roof.”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: In a new assessment text, Which sentence uses personification?",
+    "audio_prompt": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: In a new assessment text, Which sentence uses personification?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-002",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: New text 1. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The wind speed was 40 km or h.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The roof was metal.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, What creates the humour in ‘The bicycle was two-tired’?",
+    "audio_prompt": "In a new assessment text, What creates the humour in ‘The bicycle was two-tired’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-003",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: New text 2. Notice: Use precise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a factual measurement",
+        "is_correct": false
+      },
+      {
+        "text": "a rhyme with no second meaning",
+        "is_correct": false
+      },
+      {
+        "text": "two meanings or sounds: too tired and two tyres",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: In a new assessment text, What creates the humour in ‘The bicycle was two-tired’?",
+    "audio_prompt": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: In a new assessment text, What creates the humour in ‘The bicycle was two-tired’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-004",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: New text 2. Notice: Use precise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a rhyme with no second meaning”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a factual measurement” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-005",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Naming device completes analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to local and whole-text meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Any repeated letter is alliteration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect evidence to local and whole-text meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: An editor reviewing a new text claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: An editor reviewing a new text claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-006",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Any repeated letter is alliteration” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-007",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Focus on noticeable sound pattern, usually at nearby stressed words.",
+        "is_correct": true
+      },
+      {
+        "text": "Any repeated letter is alliteration",
+        "is_correct": false
+      },
+      {
+        "text": "Metaphor considered false information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Focus on noticeable sound pattern, usually at nearby stressed words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: An editor reviewing a new text claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: An editor reviewing a new text claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-008",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Any repeated letter is alliteration” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-009",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Metaphor considered false information",
+        "is_correct": false
+      },
+      {
+        "text": "More devices always improve writing",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a conceptual comparison, not a literal claim.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It creates a conceptual comparison, not a literal claim.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: An editor reviewing a new text claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: An editor reviewing a new text claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-010",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “More devices always improve writing” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-011",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "More devices always improve writing",
+        "is_correct": false
+      },
+      {
+        "text": "Select devices that support a coherent effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming device completes analysis",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select devices that support a coherent effect.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: An editor reviewing a new text claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: An editor reviewing a new text claims, “More devices always improve writing”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-012",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “More devices always improve writing” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "device_laboratory_apply",
+    "question": "A different class adapts “Device laboratory”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Device laboratory”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-013",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "device_laboratory_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Device laboratory”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Device laboratory”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-014",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "poetry_sound_map_apply",
+    "question": "A different class adapts “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-015",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "skill": "poetry_sound_map_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Poetry sound map”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-t-016",
+      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

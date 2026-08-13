@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LY01-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which comparison is most valid?",
+    "audio_prompt": "Read the classroom example. Which comparison is most valid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-001",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The newer text is automatically better",
+        "is_correct": false
+      },
+      {
+        "text": "Every difference is caused only by age",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts inform families, but the newer text uses live links and shorter sections",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “The newer text is automatically better”. Which feedback helps? Task: Read the classroom example. Which comparison is most valid?",
+    "audio_prompt": "A student answers “The newer text is automatically better”. Which feedback helps? Task: Read the classroom example. Which comparison is most valid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-002",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The newer text is automatically better”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every difference is caused only by age” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which factor besides time may explain a difference?",
+    "audio_prompt": "Read the classroom example. Which factor besides time may explain a difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-003",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the alphabet",
+        "is_correct": false
+      },
+      {
+        "text": "genre or audience",
+        "is_correct": true
+      },
+      {
+        "text": "page number only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “genre or audience”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “page number only”. Which feedback helps? Task: Read the classroom example. Which factor besides time may explain a difference?",
+    "audio_prompt": "A student answers “page number only”. Which feedback helps? Task: Read the classroom example. Which factor besides time may explain a difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-004",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Worked text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “page number only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the alphabet” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-005",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Evaluate evidence and context rather than age alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Older text assumed inaccurate or inferior",
+        "is_correct": false
+      },
+      {
+        "text": "Every difference blamed on time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluate evidence and context rather than age alone.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-006",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Every difference blamed on time” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-007",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every difference blamed on time",
+        "is_correct": false
+      },
+      {
+        "text": "Present-day values imposed without context",
+        "is_correct": false
+      },
+      {
+        "text": "Genre, author, medium and audience may also explain it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Genre, author, medium and audience may also explain it.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-008",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every difference blamed on time” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-009",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Present-day values imposed without context",
+        "is_correct": false
+      },
+      {
+        "text": "Describe historical assumptions carefully while still evaluating effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose similarity ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Describe historical assumptions carefully while still evaluating effects.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: A student in a workshop claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-010",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Purpose similarity ignored” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-011",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Identify what both texts are trying to achieve before comparing form.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose similarity ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Older text assumed inaccurate or inferior",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify what both texts are trying to achieve before comparing form.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: A student in a workshop claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-012",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Purpose similarity ignored” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "paired_text_matrix_apply",
+    "question": "The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-013",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "paired_text_matrix_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-014",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "technology_pathway_apply",
+    "question": "The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-015",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "technology_pathway_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Technology pathway”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-016",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "alternative_explanation_check_apply",
+    "question": "The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-017",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "alternative_explanation_check_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Alternative explanation check”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-018",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Alternative explanation check. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. For each difference, decide whether time, genre, author, audience or purpose could be responsible.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-019",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "historical context",
+        "is_correct": false
+      },
+      {
+        "text": "continuity",
+        "is_correct": false
+      },
+      {
+        "text": "depiction",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "depiction is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “continuity”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
+    "audio_prompt": "A student answers “continuity”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “way an event or subject is represented”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-020",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 1. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “continuity”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “historical context” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. depiction is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-021",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "depiction",
+        "is_correct": false
+      },
+      {
+        "text": "historical context",
+        "is_correct": true
+      },
+      {
+        "text": "continuity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "historical context is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “depiction”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
+    "audio_prompt": "A student answers “depiction”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “conditions and conventions of the time a text was created”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-022",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 2. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “depiction”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “continuity” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. historical context is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-023",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "continuity",
+        "is_correct": true
+      },
+      {
+        "text": "depiction",
+        "is_correct": false
+      },
+      {
+        "text": "historical context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "continuity is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY01-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “historical context”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
+    "audio_prompt": "A student answers “historical context”. Which feedback helps? Task: A class annotation about Comparing Texts from Different Times describes “feature that remains similar across time”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-p-024",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Vocabulary 3. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “historical context”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “depiction” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. continuity is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which comparison is most valid?",
+    "audio_prompt": "In a new assessment text, Which comparison is most valid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-001",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The newer text is automatically better",
+        "is_correct": false
+      },
+      {
+        "text": "Every difference is caused only by age",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts inform families, but the newer text uses live links and shorter sections",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “The newer text is automatically better”. Which feedback helps? Task: In a new assessment text, Which comparison is most valid?",
+    "audio_prompt": "A student answers “The newer text is automatically better”. Which feedback helps? Task: In a new assessment text, Which comparison is most valid?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-002",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 1. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The newer text is automatically better”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every difference is caused only by age” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Both texts inform families, but the newer text uses live links and shorter sections”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which factor besides time may explain a difference?",
+    "audio_prompt": "In a new assessment text, Which factor besides time may explain a difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-003",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the alphabet",
+        "is_correct": false
+      },
+      {
+        "text": "genre or audience",
+        "is_correct": true
+      },
+      {
+        "text": "page number only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “genre or audience”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “page number only”. Which feedback helps? Task: In a new assessment text, Which factor besides time may explain a difference?",
+    "audio_prompt": "A student answers “page number only”. Which feedback helps? Task: In a new assessment text, Which factor besides time may explain a difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-004",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: New text 2. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “page number only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the alphabet” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “genre or audience”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-005",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Evaluate evidence and context rather than age alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Older text assumed inaccurate or inferior",
+        "is_correct": false
+      },
+      {
+        "text": "Every difference blamed on time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluate evidence and context rather than age alone.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Older text assumed inaccurate or inferior”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-006",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 1. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Every difference blamed on time” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Evaluate evidence and context rather than age alone.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-007",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every difference blamed on time",
+        "is_correct": false
+      },
+      {
+        "text": "Present-day values imposed without context",
+        "is_correct": false
+      },
+      {
+        "text": "Genre, author, medium and audience may also explain it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Genre, author, medium and audience may also explain it.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Every difference blamed on time”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-008",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every difference blamed on time” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Genre, author, medium and audience may also explain it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-009",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Present-day values imposed without context",
+        "is_correct": false
+      },
+      {
+        "text": "Describe historical assumptions carefully while still evaluating effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose similarity ignored",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Describe historical assumptions carefully while still evaluating effects.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Present-day values imposed without context”. Which feedback helps? Task: An editor reviewing a new text claims, “Present-day values imposed without context”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-010",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 3. Notice: Use cautious evidence-based claims. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Present-day values imposed without context”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Purpose similarity ignored” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Describe historical assumptions carefully while still evaluating effects.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-011",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Identify what both texts are trying to achieve before comparing form.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose similarity ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Older text assumed inaccurate or inferior",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify what both texts are trying to achieve before comparing form.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Older text assumed inaccurate or inferior”. Which feedback helps? Task: An editor reviewing a new text claims, “Purpose similarity ignored”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-012",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Misconception 4. Notice: Confirm comparable texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Older text assumed inaccurate or inferior”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Purpose similarity ignored” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Identify what both texts are trying to achieve before comparing form.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "paired_text_matrix_apply",
+    "question": "A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-013",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "paired_text_matrix_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Paired-text matrix”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-014",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Paired-text matrix. Notice: Identify continuity/change. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two notices, reports or advertisements using purpose, audience, language, visuals and event selection.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "technology_pathway_apply",
+    "question": "A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-015",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY01-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY01",
+    "bank": "test",
+    "skill": "technology_pathway_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Technology pathway”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly01.svg#ac9e4ly01-t-016",
+      "alt_text": "Three-step Comparing Texts from Different Times organiser. Read: Technology pathway. Notice: Analyse language and layout. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Trace how print, broadcast and online affordances change speed, updateability and audience participation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]
