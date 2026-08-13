@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "understand that a clause is a unit of grammar usually containing a subject…",
-      "understand how verbs represent different processes for doing, feeling,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p01",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match feature to job: heading, caption, menu, bold word. Jobs: names section, explains picture, navigates page, highlights key word.",
+    "explanation": "Heading -> names section; caption -> explains picture; menu -> navigates page; bold word -> highlights key word.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Heading -> names section; caption -> explains picture; menu -> navigates page; bold word -> highlights key word.",
+    "correct": "Heading -> names section; caption -> explains picture; menu -> navigates page; bold word -> highlights key word."
   },
   {
-    "id": "ac9e3la05-02",
+    "id": "ac9e3la05-p02",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "You need the weather page on a website. Which helps most: menu, paragraph, or decorative border?",
+    "explanation": "Menu.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "understand that verbs are anchored in time through tense",
-      "examining the words used as hyperlinks",
-      "identify how images extend the meaning of a text",
-      "extend topic-specific and technical vocabulary and know that words can have…"
+      "menu",
+      "paragraph",
+      "or decorative border"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "correct": 0
   },
   {
-    "id": "ac9e3la05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "discussing words used as headings and subheadings in digital and print…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p03",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write a useful caption for a photo of students measuring plant growth.",
+    "explanation": "A caption that explains the photo, such as \"Students measure the plant height each day.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A caption that explains the photo, such as \"Students measure the plant height each day.\"",
+    "correct": "A caption that explains the photo, such as \"Students measure the plant height each day.\""
   },
   {
-    "id": "ac9e3la05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "discussing words used for chapter headings in narratives"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p04",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Hotspot / selection",
+    "question": "Select the navigation words: Home | Red foxes live in dens | Next page | The cubs play.",
+    "explanation": "Home and Next page.",
+    "printable": true,
+    "visual": "Use the text/table/cards shown in the question.",
+    "instruction": "Visual brief: Use the text/table/cards shown in the question.",
+    "type": "self-check",
+    "modelAnswer": "Home and Next page.",
+    "correct": "Home and Next page."
   },
   {
-    "id": "ac9e3la05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify the purpose of layout features in print and digital texts and the…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p05",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Change the button label \"Click here\" to a clearer label for a spelling practice page.",
+    "explanation": "For example, \"Start Spelling Practice.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, \"Start Spelling Practice.\"",
+    "correct": "For example, \"Start Spelling Practice.\""
   },
   {
-    "id": "ac9e3la05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "discussing words used for chapter headings in narratives",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
+    "id": "ac9e3la05-p06",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What does a contents page help a reader do?",
+    "explanation": "Find sections or page numbers quickly.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Find sections or page numbers quickly"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "correct": "Find sections or page numbers quickly"
   },
   {
-    "id": "ac9e3la05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "discussing words used for chapter headings in narratives",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p07",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A page teaches how to make a kite. Name two layout features that would help and explain why.",
+    "explanation": "For example, numbered steps, materials list, diagrams, headings.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, numbered steps, materials list, diagrams, headings.",
+    "correct": "For example, numbered steps, materials list, diagrams, headings."
   },
   {
-    "id": "ac9e3la05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "identify the purpose of layout features in print and digital texts and the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA05: identify the purpose of layout features in print and digital texts and the…."
+    "id": "ac9e3la05-p08",
+    "curriculumCode": "AC9E3LA05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A small box says \"Remember: wear gloves.\" What is its purpose?",
+    "explanation": "To highlight an important reminder/safety note.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "To highlight an important reminder/safety note.",
+    "correct": "To highlight an important reminder/safety note."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

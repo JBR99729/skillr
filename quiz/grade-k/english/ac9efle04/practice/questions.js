@@ -1,107 +1,117 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efle04-01",
+    "id": "ac9efle04-p01",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which pair of words rhymes?",
+    "explanation": "B — “Moon” and “spoon” share the same ending sound.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "moon / map",
+      "moon / spoon",
+      "spoon / sun",
+      "map / moon"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "correct": 1
   },
   {
-    "id": "ac9efle04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "using music and actions to enhance appreciation of rhymes, poems, chants and…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
+    "id": "ac9efle04-p02",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Which word is repeated to make a sound pattern?",
+    "explanation": "“Tap”. Award 1 mark.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "“Tap”"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "correct": "“Tap”"
   },
   {
-    "id": "ac9efle04-03",
+    "id": "ac9efle04-p03",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word completes the strongest rhyme?",
+    "explanation": "C — “Dog” rhymes with “frog” and “log” and fits the sentence.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "reciting rhymes with actions",
-      "recognise different types of literary texts and identify features including…"
+      "fish",
+      "duck",
+      "dog",
+      "snail"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "correct": 2
   },
   {
-    "id": "ac9efle04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "reciting rhymes with actions"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "id": "ac9efle04-p04",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Copy the words and beat pattern, then replace horse with another animal while keeping the two strong beats.",
+    "explanation": "1 mark for accurately copying the two-beat pattern and 1 mark for a coherent substitution delivered with the pattern, such as “STAMP like a bear, TIP like a toe”; 2 marks total. Rhyme is not required.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for accurately copying the two-beat pattern and 1 mark for a coherent substitution delivered with the pattern, such as “STAMP like a bear, TIP like a toe”; 2 marks total. Rhyme is not required.",
+    "correct": "1 mark for accurately copying the two-beat pattern and 1 mark for a coherent substitution delivered with the pattern, such as “STAMP like a bear, TIP like a toe”; 2 marks total. Rhyme is not required."
   },
   {
-    "id": "ac9efle04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "id": "ac9efle04-p05",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Add one word beginning with the same /b/ sound to extend the playful sound pattern.",
+    "explanation": "Adds a meaningful /b/ word, such as “below”, “bravely” or “backwards”, and repeats the complete line. Award 1 mark for initial-sound match and 1 mark for a sensible line; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Adds a meaningful /b/ word, such as “below”, “bravely” or “backwards”, and repeats the complete line. Award 1 mark for initial-sound match and 1 mark for a sensible line; 2 marks total.",
+    "correct": "Adds a meaningful /b/ word, such as “below”, “bravely” or “backwards”, and repeats the complete line. Award 1 mark for initial-sound match and 1 mark for a sensible line; 2 marks total."
   },
   {
-    "id": "ac9efle04-06",
+    "id": "ac9efle04-p06",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which second line best echoes the short, repeated beat pattern?",
+    "explanation": "D — Its structure and four repeated sound words mirror the first line.",
+    "printable": true,
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
     "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "reciting rhymes with actions",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
+      "The weather report is on the noticeboard.",
+      "Yesterday we discovered an enormous umbrella.",
+      "A butterfly rested silently near us.",
+      "Feet on the floor, stomp-stomp-stomp-stomp."
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "correct": 3
   },
   {
-    "id": "ac9efle04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "reciting rhymes with actions",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "id": "ac9efle04-p07",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "The first two lines rhyme. Change the final words of one or both last lines so they also form a rhyme and still make sense.",
+    "explanation": "1 mark for a true end-rhyme pair, 1 mark for two coherent revised lines, and 1 mark for identifying the matching ending sounds. Example: “glow through the night / shimmer so bright”; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for a true end-rhyme pair, 1 mark for two coherent revised lines, and 1 mark for identifying the matching ending sounds. Example: “glow through the night / shimmer so bright”; 3 marks total.",
+    "correct": "1 mark for a true end-rhyme pair, 1 mark for two coherent revised lines, and 1 mark for identifying the matching ending sounds. Example: “glow through the night / shimmer so bright”; 3 marks total."
   },
   {
-    "id": "ac9efle04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLE04: explore and replicate the rhythms and sound patterns of literary texts such…."
+    "id": "ac9efle04-p08",
+    "curriculumCode": "AC9EFLE04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Perform your chant, then point out the repeated part and the rhyme.",
+    "explanation": "1 mark for two connected lines, 1 mark for a deliberate repeated phrase/beat, 1 mark for a valid rhyme, and 1 mark for correctly identifying both pattern features; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for two connected lines, 1 mark for a deliberate repeated phrase/beat, 1 mark for a valid rhyme, and 1 mark for correctly identifying both pattern features; 4 marks total.",
+    "correct": "1 mark for two connected lines, 1 mark for a deliberate repeated phrase/beat, 1 mark for a valid rhyme, and 1 mark for correctly identifying both pattern features; 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

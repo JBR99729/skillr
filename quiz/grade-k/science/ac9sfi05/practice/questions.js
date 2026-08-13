@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9sfi05-01",
+    "id": "ac9sfi05-p01",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence shares a specific observation?",
+    "explanation": "A — It tells others the visible detail that was observed.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "share questions, predictions, observations and ideas with others",
-      "explore the ways people make and use observations and questions to learn…",
-      "pose questions and make predictions based on experiences",
-      "engage in investigations safely and make observations using their senses"
+      "I saw tiny branching lines across the leaf.",
+      "Leaves are the best things ever.",
+      "You already know what I saw.",
+      "Something happened somewhere."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "correct": 0
   },
   {
-    "id": "ac9sfi05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "represent observations in provided templates and identify patterns with…",
-      "sharing questions, making predictions and describing observations to others…",
-      "compare observations with predictions with guidance",
-      "observing fruits and vegetables and identifying them as parts of plants such…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p02",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Label one statement question and the other prediction, then explain the difference.",
+    "explanation": "(a) question; (b) prediction (1 mark each); explains that the question asks what will be found, while the prediction gives the expected result (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(a) question; (b) prediction (1 mark each); explains that the question asks what will be found, while the prediction gives the expected result (1 mark). 3 marks total.",
+    "correct": "(a) question; (b) prediction (1 mark each); explains that the question asks what will be found, while the prediction gives the expected result (1 mark). 3 marks total."
   },
   {
-    "id": "ac9sfi05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recognising humans as animals, describing external features of humans and…",
-      "using magnifying glasses or digital cameras to observe and identify external…",
-      "recounting stories and posing questions about their own experiences learning…",
-      "sorting collections of model animals and explaining different grouping…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p03",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Tell a partner what moved, how it moved and one feature that may have helped. Then listen to one partner question.",
+    "explanation": "Names the tube (1 mark); describes rolling/path (1 mark); links curved side/shape to movement (1 mark); listens and responds relevantly to a question (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Names the tube (1 mark); describes rolling/path (1 mark); links curved side/shape to movement (1 mark); listens and responds relevantly to a question (1 mark). 4 marks total.",
+    "correct": "Names the tube (1 mark); describes rolling/path (1 mark); links curved side/shape to movement (1 mark); listens and responds relevantly to a question (1 mark). 4 marks total."
   },
   {
-    "id": "ac9sfi05-04",
+    "id": "ac9sfi05-p04",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which format would make the comparison clearest?",
+    "explanation": "B — Labels and separate sections let viewers find and compare the observed features.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "observing how toys move, and grouping them based on their movement",
-      "observing and describing ways different and unusually shaped objects such as…",
-      "comparing the way different-sized, similar-shaped objects such as tennis…",
-      "showing or describing how objects can be moved in different ways and…"
+      "An unlabelled page covered by one large colour",
+      "A labelled poster with one section for each bird",
+      "A recording that says only “birds are nice”",
+      "A list of unrelated lunch foods"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "correct": 1
   },
   {
-    "id": "ac9sfi05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "share questions, predictions, observations and ideas with others",
-      "exploring how the material a ball is made from affects the way it moves, such…",
-      "observing and manipulating objects to identify the materials they are made of…",
-      "recognising that tools such as magnifying glasses enable more-detailed…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p05",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Use the notes to give a three-sentence report that keeps the question, prediction and observation distinct.",
+    "explanation": "Accurately states the question (1 mark), prediction (1 mark) and timed numerical observation (1 mark) in a logical report (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Accurately states the question (1 mark), prediction (1 mark) and timed numerical observation (1 mark) in a logical report (1 mark). 4 marks total.",
+    "correct": "Accurately states the question (1 mark), prediction (1 mark) and timed numerical observation (1 mark) in a logical report (1 mark). 4 marks total."
   },
   {
-    "id": "ac9sfi05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "sorting and grouping materials based on observed properties such as colour,…",
-      "role-playing or showing how people use different equipment to make scientific…",
-      "creating a display of different materials, naming each material and exploring…",
-      "using a digital camera to collect images of objects on a materials scavenger…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p06",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Role-play explaining to a younger student how the tool helps, how to use it safely and one detail it reveals.",
+    "explanation": "Explains that the tool enlarges visible details (1 mark); demonstrates safe adjustment/handling away from Sun and eyes (1 mark); names one genuine shell detail (1 mark); uses clear, audience-appropriate words (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Explains that the tool enlarges visible details (1 mark); demonstrates safe adjustment/handling away from Sun and eyes (1 mark); names one genuine shell detail (1 mark); uses clear, audience-appropriate words (1 mark). 4 marks total.",
+    "correct": "Explains that the tool enlarges visible details (1 mark); demonstrates safe adjustment/handling away from Sun and eyes (1 mark); names one genuine shell detail (1 mark); uses clear, audience-appropriate words (1 mark). 4 marks total."
   },
   {
-    "id": "ac9sfi05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "suggesting why different parts of everyday objects, such as saucepans and…",
-      "using their senses to make observations and exploring how scientists use…",
-      "representing external features of animals and plants using a range of…",
-      "viewing examples of observations such as rock paintings, bark drawings,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p07",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Redesign the poster to communicate a three-bounce observation. Add a useful title, key or labels, the original question, a prediction and an evidence-based result.",
+    "explanation": "Adds a specific title/question about bouncing (1 mark); states a prediction as an expectation (1 mark); labels 3 dots/arcs as 3 observed bounces (1 mark); writes a result that distinguishes evidence from prediction (1 mark); uses a clear key/layout (1 mark). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Adds a specific title/question about bouncing (1 mark); states a prediction as an expectation (1 mark); labels 3 dots/arcs as 3 observed bounces (1 mark); writes a result that distinguishes evidence from prediction (1 mark); uses a clear key/layout (1 mark). 5 marks total.",
+    "correct": "Adds a specific title/question about bouncing (1 mark); states a prediction as an expectation (1 mark); labels 3 dots/arcs as 3 observed bounces (1 mark); writes a result that distinguishes evidence from prediction (1 mark); uses a clear key/layout (1 mark). 5 marks total."
   },
   {
-    "id": "ac9sfi05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "interacting with stories or documentaries about scientists such as Dame Jane…",
-      "watching an age-appropriate documentary; noticing how people including…",
-      "posing questions based on experiences, such as: ‘What part of a plant is…",
-      "share questions, predictions, observations and ideas with others"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9SFI05: share questions, predictions, observations and ideas with others."
+    "id": "ac9sfi05-p08",
+    "curriculumCode": "AC9SFI05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Give an honest response using the evidence available. State what the group can claim, what remains uncertain and one improvement for the next test.",
+    "explanation": "Reports the observed farther travel on the smooth ramp without overstating cause (1 mark); acknowledges push strength may have differed (1 mark); says the cause is uncertain from this test (1 mark); proposes the same release method/push, same car and repeated trials (2 marks). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Reports the observed farther travel on the smooth ramp without overstating cause (1 mark); acknowledges push strength may have differed (1 mark); says the cause is uncertain from this test (1 mark); proposes the same release method/push, same car and repeated trials (2 marks). 5 marks total.",
+    "correct": "Reports the observed farther travel on the smooth ramp without overstating cause (1 mark); acknowledges push strength may have differed (1 mark); says the cause is uncertain from this test (1 mark); proposes the same release method/push, same car and repeated trials (2 marks). 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

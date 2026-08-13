@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly05-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly05-p01",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Text: ‘The blue cup is beside the sink.’ Where is the cup?",
+    "explanation": "Beside the sink (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Beside the sink (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "correct": "Beside the sink (1 mark)"
   },
   {
-    "id": "ac9e1ly05-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "identifying information and details from spoken informative texts",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p02",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match visualise, predict and summarise to make a mind picture, say what may happen and state the main idea/events.",
+    "explanation": "Each strategy matched correctly (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each strategy matched correctly (1 mark each).",
+    "correct": "Each strategy matched correctly (1 mark each)."
   },
   {
-    "id": "ac9e1ly05-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "building topic knowledge and learning new vocabulary before and during reading",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p03",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Listen to ‘A tiny boat rocks on silver water under a round moon.’ Describe or show the mind picture using three details.",
+    "explanation": "Includes boat size, water description and moon/night detail (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Includes boat size, water description and moon/night detail (3 marks).",
+    "correct": "Includes boat size, water description and moon/night detail (3 marks)."
   },
   {
-    "id": "ac9e1ly05-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "making predictions from the cover, from illustrations and at points in the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p04",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A character packs a torch and enters a dark shed. Predict what they may do next and cite one clue.",
+    "explanation": "Plausible next action involving light/search, supported by torch or darkness (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Plausible next action involving light/search, supported by torch or darkness (2 marks).",
+    "correct": "Plausible next action involving light/search, supported by torch or darkness (2 marks)."
   },
   {
-    "id": "ac9e1ly05-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p05",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the important events: seed sprouts; child plants seed; child waters soil; plant grows leaves.",
+    "explanation": "Plant seed → water → sprout → leaves grow (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Plant seed → water → sprout → leaves grow (2 marks).",
+    "correct": "Plant seed → water → sprout → leaves grow (2 marks)."
   },
   {
-    "id": "ac9e1ly05-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read decodable and authentic texts using developing phonic knowledge,…",
-      "drawing inferences and explaining inferences using clues from the text",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p06",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw what is stated—wet footprints by a door—and one possible inference. Label the clue and idea separately.",
+    "explanation": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference (3 marks).",
+    "correct": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference (3 marks)."
   },
   {
-    "id": "ac9e1ly05-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "making connections with existing knowledge and personal experiences",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
+    "id": "ac9e1ly05-p07",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "After reading that a bridge is closed, write a question that would help understand what the character may do.",
+    "explanation": "Relevant question about route, goal, safety or next action (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Relevant question about route, goal, safety or next action (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "correct": "Relevant question about route, goal, safety or next action (2 marks)"
   },
   {
-    "id": "ac9e1ly05-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY05: use comprehension strategies such as visualising, predicting, connecting,…."
+    "id": "ac9e1ly05-p08",
+    "curriculumCode": "AC9E1LY05",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A character feels nervous before performing. Give a relevant connection and explain how it helps understand the character.",
+    "explanation": "Connection concerns a new/performance situation and explains nerves, courage or preparation (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Connection concerns a new/performance situation and explains nerves, courage or preparation (3 marks).",
+    "correct": "Connection concerns a new/performance situation and explains nerves, courage or preparation (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

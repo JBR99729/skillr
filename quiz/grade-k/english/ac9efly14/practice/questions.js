@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly14-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "read and write some high-frequency words and other familiar words",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "id": "ac9efly14-p01",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Read this word without sounding it out letter by letter.",
+    "explanation": "the.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "the.",
+    "correct": "the."
   },
   {
-    "id": "ac9efly14-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "knowing how to read and write some high-frequency words recognised in shared…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
+    "id": "ac9efly14-p02",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write the whole word from memory.",
+    "explanation": "my.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "my"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "correct": "my"
   },
   {
-    "id": "ac9efly14-03",
+    "id": "ac9efly14-p03",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word joins the two things that were packed?",
+    "explanation": "C — and joins “an apple” with “a pear”.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "knowing how to read and write some familiar words; for example, their name,…",
-      "recognise different types of literary texts and identify features including…"
+      "packed",
+      "apple",
+      "and",
+      "pear"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "correct": 2
   },
   {
-    "id": "ac9efly14-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "knowing how to read and write some familiar words; for example, their name,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "id": "ac9efly14-p04",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Place each word in the sentence where it makes sense, then read both completed sentences.",
+    "explanation": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total.",
+    "correct": "(a) go; (b) is (1 mark each); reads both sentences accurately (1 mark). 3 marks total."
   },
   {
-    "id": "ac9efly14-05",
+    "id": "ac9efly14-p05",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which high-frequency word completes the message?",
+    "explanation": "D — The capital word I names the speaker and completes “I can go to the mat.”",
+    "printable": true,
     "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
     "answers": [
-      "read and write some high-frequency words and other familiar words",
-      "interact in informal and structured situations by listening while others…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…"
+      "Is",
+      "It",
+      "In",
+      "I"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "correct": 3
   },
   {
-    "id": "ac9efly14-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "knowing how to read and write some familiar words; for example, their name,…",
-      "create and participate in shared editing of short written texts to record and…",
-      "create and deliver short spoken texts to report ideas and events to peers,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "id": "ac9efly14-p06",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Read each label. Tell one clue that helps you recognise each word quickly.",
+    "explanation": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total.",
+    "correct": "Reads all 3 familiar words (1 mark each); gives one valid clue for at least 2 words, such as first letter, word shape, known letter pattern or repeated classroom exposure (1 mark). 4 marks total."
   },
   {
-    "id": "ac9efly14-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "form most lower-case and upper-case letters using learnt letter formations",
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "knowing how to read and write some familiar words; for example, their name,…",
-      "segment sentences into individual words; orally blend and segment…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "id": "ac9efly14-p07",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Find and correct both words, rewrite the sentence and read it aloud to check that it makes sense.",
+    "explanation": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total.",
+    "correct": "Corrects Teh to The (1 mark); corrects si to is (1 mark); rewrites “The dog is on the rug.” with sentence capital and full stop preserved (1 mark); reads it accurately and confirms meaning (1 mark). 4 marks total."
   },
   {
-    "id": "ac9efly14-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "recognise and name all upper- and lower-case letters (graphs) and know the…",
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY14: read and write some high-frequency words and other familiar words."
+    "id": "ac9efly14-p08",
+    "curriculumCode": "AC9EFLY14",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Arrange at least four word cards to make a complete sentence, copy it and read it back. Explain how you checked the order.",
+    "explanation": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total.",
+    "correct": "Constructs a meaningful sentence such as “I can see the dog.” (2 marks); copies the selected words accurately (1 mark); reads the sentence (1 mark); gives a valid order/meaning check (1 mark). 5 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

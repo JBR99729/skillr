@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la10-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1la10-p01",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Add the correct punctuation: ‘Where is my hat__’",
+    "explanation": "Question mark: Where is my hat? (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Question mark: Where is my hat? (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "correct": "Question mark: Where is my hat? (1 mark)"
   },
   {
-    "id": "ac9e1la10-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "using intonation and pauses in response to punctuation, when reading",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "id": "ac9e1la10-p02",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match ‘The bus is here’, ‘Is the bus here’ and ‘Stop’ to full stop, question mark and exclamation mark.",
+    "explanation": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark (1 mark each).",
+    "correct": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark (1 mark each)."
   },
   {
-    "id": "ac9e1la10-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "discuss literary texts and share responses by making connections with…",
-      "identifying different sentence boundary punctuation, when reading",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "id": "ac9e1la10-p03",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Say one statement, one question and one exclamation about a dog, using matching voice.",
+    "explanation": "Three distinct purposes with suitable intonation and complete wording (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Three distinct purposes with suitable intonation and complete wording (3 marks).",
+    "correct": "Three distinct purposes with suitable intonation and complete wording (3 marks)."
   },
   {
-    "id": "ac9e1la10-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "writing different types of sentences; for example, statements and questions,…"
+    "id": "ac9e1la10-p04",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Correct: ‘on monday, leo visits perth.’",
+    "explanation": "‘On Monday, Leo visits Perth.’ (4 corrections/marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "‘On Monday, Leo visits Perth.’ (4 corrections/marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "correct": "‘On Monday, Leo visits Perth.’ (4 corrections/marks)"
   },
   {
-    "id": "ac9e1la10-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "id": "ac9e1la10-p05",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: find names; read sentence purpose; add ending mark; check first letter.",
+    "explanation": "Read purpose → check first letter/names → add or verify ending mark (2 marks; middle checks may swap).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Read purpose → check first letter/names → add or verify ending mark (2 marks; middle checks may swap).",
+    "correct": "Read purpose → check first letter/names → add or verify ending mark (2 marks; middle checks may swap)."
   },
   {
-    "id": "ac9e1la10-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "identifying and using capital letters to name places and holidays",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "id": "ac9e1la10-p06",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw one question and one urgent warning in speech bubbles. End each correctly.",
+    "explanation": "One complete direct question with ? and one appropriate warning/exclamation with ! (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "One complete direct question with ? and one appropriate warning/exclamation with ! (3 marks).",
+    "correct": "One complete direct question with ? and one appropriate warning/exclamation with ! (3 marks)."
   },
   {
-    "id": "ac9e1la10-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "identifying and using capital letters to name places and holidays",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
+    "id": "ac9e1la10-p07",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why does ‘Friday’ need a capital in ‘We swim on Friday’?",
+    "explanation": "Friday is the proper name of a day (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Friday is the proper name of a day (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "correct": "Friday is the proper name of a day (2 marks)"
   },
   {
-    "id": "ac9e1la10-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "understand that written language uses punctuation such as full stops,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA10: understand that written language uses punctuation such as full stops,…."
+    "id": "ac9e1la10-p08",
+    "curriculumCode": "AC9E1LA10",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Edit ‘dear sam can you come on tuesday’ with capitals and punctuation.",
+    "explanation": "‘Dear Sam, can you come on Tuesday?’; accepts age-appropriate line break/comma handling (4 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "‘Dear Sam, can you come on Tuesday?’; accepts age-appropriate line break/comma handling (4 marks).",
+    "correct": "‘Dear Sam, can you come on Tuesday?’; accepts age-appropriate line break/comma handling (4 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

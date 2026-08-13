@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efla04-01",
+    "id": "ac9efla04-p01",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which feature most clearly helps a reader identify the front cover?",
+    "explanation": "B — A title and cover image commonly identify the book at its front.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…",
-      "explore the contribution of images and words to meaning in stories and…"
+      "A page number in the middle",
+      "The title and main cover picture",
+      "The final sentence of the story",
+      "The blank inside of the back cover"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "correct": 1
   },
   {
-    "id": "ac9efla04-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "learning that Standard Australian English in written texts is read from left…",
-      "identify punctuation as a feature of written text different from letters;…",
-      "share ideas about stories, poems and images in literature, reflecting on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p02",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Make the book ready to read, open it at the beginning and show how you would move to the next page.",
+    "explanation": "1 mark for orienting the book/front correctly, 1 mark for locating the beginning, and 1 mark for turning one page in the conventional sequence; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for orienting the book/front correctly, 1 mark for locating the beginning, and 1 mark for turning one page in the conventional sequence; 3 marks total.",
+    "correct": "1 mark for orienting the book/front correctly, 1 mark for locating the beginning, and 1 mark for turning one page in the conventional sequence; 3 marks total."
   },
   {
-    "id": "ac9efla04-03",
+    "id": "ac9efla04-p03",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which control would a reader most likely choose to begin the story?",
+    "explanation": "C — The labelled Start control signals where the text begins.",
+    "printable": true,
     "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
     "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "recognise different types of literary texts and identify features including…",
-      "identifying tabs in a digital text",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
+      "Battery",
+      "Speaker",
+      "Start",
+      "The device clock"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "correct": 2
   },
   {
-    "id": "ac9efla04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "discussing the placement of images and words in text"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p04",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Point to where reading begins, move your finger in the reading direction, and show where the sentence ends.",
+    "explanation": "1 mark for starting at the left-most word “The”, 1 mark for tracking left to right in order, and 1 mark for ending after “home.”; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for starting at the left-most word “The”, 1 mark for tracking left to right in order, and 1 mark for ending after “home.”; 3 marks total.",
+    "correct": "1 mark for starting at the left-most word “The”, 1 mark for tracking left to right in order, and 1 mark for ending after “home.”; 3 marks total."
   },
   {
-    "id": "ac9efla04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand conventions of print and screen, including how books and simple…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p05",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The reader wants to leave the video and choose a different animal from the main menu. Which control should the reader try, and why?",
+    "explanation": "Chooses the Home/house button (1 mark) and explains that it usually returns to the first or main menu screen (1 mark); 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Chooses the Home/house button (1 mark) and explains that it usually returns to the first or main menu screen (1 mark); 2 marks total.",
+    "correct": "Chooses the Home/house button (1 mark) and explains that it usually returns to the first or main menu screen (1 mark); 2 marks total."
   },
   {
-    "id": "ac9efla04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "indicating the title of a book and where to start reading",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p06",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each action to its most likely text form: (a) turn a page by lifting its corner, (b) tap a right arrow, (c) use the cover to find the title, (d) swipe to reveal the next screen.",
+    "explanation": "Paper book: (a), (c). Screen story: (b), (d). Award 1 mark each; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Paper book: (a), (c). Screen story: (b), (d). Award 1 mark each; 4 marks total.",
+    "correct": "Paper book: (a), (c). Screen story: (b), (d). Award 1 mark each; 4 marks total."
   },
   {
-    "id": "ac9efla04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "indicating the title of a book and where to start reading",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p07",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Put the parts in the order a reader should meet them and explain one clue you used.",
+    "explanation": "(b), (c), (d), (a). Award 1 mark for the cover first, 1 mark for the three events in sequence, and 1 mark for a valid clue such as “first”, “next” or “at last”; 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(b), (c), (d), (a). Award 1 mark for the cover first, 1 mark for the three events in sequence, and 1 mark for a valid clue such as “first”, “next” or “at last”; 3 marks total.",
+    "correct": "(b), (c), (d), (a). Award 1 mark for the cover first, 1 mark for the three events in sequence, and 1 mark for a valid clue such as “first”, “next” or “at last”; 3 marks total."
   },
   {
-    "id": "ac9efla04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "understand conventions of print and screen, including how books and simple…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA04: understand conventions of print and screen, including how books and simple…."
+    "id": "ac9efla04-p08",
+    "curriculumCode": "AC9EFLA04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "What should appear on each screen, and what control would help the reader move between them?",
+    "explanation": "1 mark for an organised first screen such as a title/introduction, 1 mark for relevant second-screen information such as watering or sunlight, 1 mark for a clear navigation control such as a labelled arrow or Next button, and 1 mark for explaining its direction/function; 4 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for an organised first screen such as a title/introduction, 1 mark for relevant second-screen information such as watering or sunlight, 1 mark for a clear navigation control such as a labelled arrow or Next button, and 1 mark for explaining its direction/function; 4 marks total.",
+    "correct": "1 mark for an organised first screen such as a title/introduction, 1 mark for relevant second-screen information such as watering or sunlight, 1 mark for a clear navigation control such as a labelled arrow or Next button, and 1 mark for explaining its direction/function; 4 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

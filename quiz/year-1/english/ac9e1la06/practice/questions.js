@@ -1,107 +1,107 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that a simple sentence consists of a single independent clause…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that words can represent people, places and things (nouns,…"
+    "id": "ac9e1la06-p01",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Is ‘Birds sing.’ a complete simple sentence? Explain briefly.",
+    "explanation": "Yes; Birds names who/what and sing tells what they do (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Yes; Birds names who/what and sing tells what they do (2 marks)",
+      "Yes"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "correct": "Yes; Birds names who/what and sing tells what they do (2 marks)"
   },
   {
-    "id": "ac9e1la06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "compare how images in different types of texts contribute to meaning",
-      "knowing that a single event or idea can include a process, a happening or a…",
-      "recognise the vocabulary of learning area topics",
-      "understand that written language uses punctuation such as full stops,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "id": "ac9e1la06-p02",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match The dog, My shoes and Rain to barks, are wet and falls.",
+    "explanation": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls (1 mark each).",
+    "correct": "Dog ↔ barks; shoes ↔ are wet; rain ↔ falls (1 mark each)."
   },
   {
-    "id": "ac9e1la06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "discuss literary texts and share responses by making connections with…",
-      "understanding that simple sentences answer questions such as, “what is…",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "id": "ac9e1la06-p03",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use the cards ‘The silver fish’ and ‘swims quickly’ to make and say a complete sentence.",
+    "explanation": "‘The silver fish swims quickly.’ with complete meaning (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "‘The silver fish swims quickly.’ with complete meaning (2 marks).",
+    "correct": "‘The silver fish swims quickly.’ with complete meaning (2 marks)."
   },
   {
-    "id": "ac9e1la06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "understanding that simple sentences answer questions such as, “what is…"
+    "id": "ac9e1la06-p04",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Change ‘Beside the tall tree’ into a complete simple sentence.",
+    "explanation": "Example: ‘A rabbit waits beside the tall tree.’ (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Example: ‘A rabbit waits beside the tall tree.’ (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "correct": "Example: ‘A rabbit waits beside the tall tree.’ (2 marks)"
   },
   {
-    "id": "ac9e1la06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that a simple sentence consists of a single independent clause…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "id": "ac9e1la06-p05",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: softly, sings, The bird.",
+    "explanation": "The bird sings softly. (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The bird sings softly. (1 mark).",
+    "correct": "The bird sings softly. (1 mark)."
   },
   {
-    "id": "ac9e1la06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "understanding that simple sentences answer questions such as, “what is…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "id": "ac9e1la06-p06",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw the event in ‘The puppy carries a red sock’ and label who/what and what happens.",
+    "explanation": "Drawing matches one event; puppy labelled who/what and carries sock labelled action (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Drawing matches one event; puppy labelled who/what and carries sock labelled action (3 marks).",
+    "correct": "Drawing matches one event; puppy labelled who/what and carries sock labelled action (3 marks)."
   },
   {
-    "id": "ac9e1la06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "understanding that simple sentences answer questions such as, “what is…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
+    "id": "ac9e1la06-p07",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "‘The bell rang and the children ran’ contains two events. Name them.",
+    "explanation": "Bell rang; children ran (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Bell rang; children ran (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "correct": "Bell rang; children ran (2 marks)"
   },
   {
-    "id": "ac9e1la06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "understand that a simple sentence consists of a single independent clause…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA06: understand that a simple sentence consists of a single independent clause…."
+    "id": "ac9e1la06-p08",
+    "curriculumCode": "AC9E1LA06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For a picture of a child watering a plant, write one simple sentence containing one complete event.",
+    "explanation": "Example: ‘Mina waters the plant.’ with subject and verb, capital and full stop (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Example: ‘Mina waters the plant.’ with subject and verb, capital and full stop (3 marks).",
+    "correct": "Example: ‘Mina waters the plant.’ with subject and verb, capital and full stop (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

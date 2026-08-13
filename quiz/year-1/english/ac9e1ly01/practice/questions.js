@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1ly01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "discuss different texts and identify some features that indicate their…",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
+    "id": "ac9e1ly01-p01",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A card says ‘Cut on the line. Fold the paper. Tape the sides.’ What is its purpose?",
+    "explanation": "To instruct/show how to make something (1 mark).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "To instruct/show how to make something (1 mark)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "correct": "To instruct/show how to make something (1 mark)"
   },
   {
-    "id": "ac9e1ly01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "discussing a range of texts encountered in school and in the community, and…",
-      "compare how images in different types of texts contribute to meaning",
-      "recognise the vocabulary of learning area topics"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p02",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match character/problem, labelled facts and date-time-place to entertain, inform and invite.",
+    "explanation": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite (1 mark each).",
+    "correct": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite (1 mark each)."
   },
   {
-    "id": "ac9e1ly01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that written language uses punctuation such as full stops,…",
-      "discuss how language and images are used to create characters, settings and…",
-      "recognising that types of texts with similar purposes usually have…",
-      "discuss literary texts and share responses by making connections with…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p03",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Explain how the words ‘Wet floor—walk slowly’ and a slipping-person image support the text's purpose.",
+    "explanation": "Words give safe action; image quickly shows hazard; both warn/instruct (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words give safe action; image quickly shows hazard; both warn/instruct (3 marks).",
+    "correct": "Words give safe action; image quickly shows hazard; both warn/instruct (3 marks)."
   },
   {
-    "id": "ac9e1ly01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss plot, character and setting, which are features of stories",
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "recognising that types of texts with similar purposes usually have…"
+    "id": "ac9e1ly01-p04",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "‘Choose the reusable bottle because it can be filled again.’ Name one feature showing persuasion.",
+    "explanation": "It recommends a choice and gives a supporting reason (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "It recommends a choice and gives a supporting reason (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "correct": "It recommends a choice and gives a supporting reason (2 marks)"
   },
   {
-    "id": "ac9e1ly01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss different texts and identify some features that indicate their…",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p05",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: event name; greeting; date/time/place; friendly closing.",
+    "explanation": "Greeting/event name → event details → closing; accepts event name before greeting if clear (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Greeting/event name → event details → closing; accepts event name before greeting if clear (2 marks).",
+    "correct": "Greeting/event name → event details → closing; accepts event name before greeting if clear (2 marks)."
   },
   {
-    "id": "ac9e1ly01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "recognising that types of texts with similar purposes usually have…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p06",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a small information page about ants with a title, fact heading and labelled image.",
+    "explanation": "All three features present and suited to informing readers (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "All three features present and suited to informing readers (3 marks).",
+    "correct": "All three features present and suited to informing readers (3 marks)."
   },
   {
-    "id": "ac9e1ly01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "recognising that types of texts with similar purposes usually have…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p07",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A recipe and a food advertisement both show soup. Explain one feature that reveals each main purpose.",
+    "explanation": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade (3 marks).",
+    "correct": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade (3 marks)."
   },
   {
-    "id": "ac9e1ly01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "discuss different texts and identify some features that indicate their…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LY01: discuss different texts and identify some features that indicate their…."
+    "id": "ac9e1ly01-p08",
+    "curriculumCode": "AC9E1LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A text has numbered steps, command verbs and a materials list. State the likely purpose and cite two clues.",
+    "explanation": "Instructional purpose with any two named features as evidence (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Instructional purpose with any two named features as evidence (3 marks).",
+    "correct": "Instructional purpose with any two named features as evidence (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

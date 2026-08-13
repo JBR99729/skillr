@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "follow and create algorithms involving a sequence of steps and decisions to…"
+    "id": "ac9m3n02-p01",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A pizza is cut into 5 equal slices. What fraction is one slice?",
+    "explanation": "1/5. One equal part out of 5 is one-fifth.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "1/5. One equal part out of 5 is one-fifth"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "correct": "1/5. One equal part out of 5 is one-fifth"
   },
   {
-    "id": "ac9m3n02-02",
+    "id": "ac9m3n02-p02",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which picture would show 3/4 correctly: 3 of 4 equal parts shaded, 3 of 5 equal parts shaded, or 4 of 3 equal parts shaded?",
+    "explanation": "3 of 4 equal parts shaded.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "recognise and explain the connection between addition and subtraction as…",
-      "recognising that unit fractions represent equal parts of a whole; for…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…",
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…"
+      "3 of 4 equal parts shaded",
+      "3 of 5 equal parts shaded",
+      "or 4 of 3 equal parts shaded"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "correct": 0
   },
   {
-    "id": "ac9m3n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "identify which metric units are used to measure everyday items; use…",
-      "measure and compare objects using familiar metric units of length, mass and…",
-      "representing unit fractions and their multiples in different ways; for…",
-      "recognise and use the relationship between formal units of time including…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "id": "ac9m3n02-p03",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 1/2, 1/3, 1/4 and 1/10 to wholes split into 2, 3, 4 and 10 equal parts.",
+    "explanation": "1/2 -> 2 parts; 1/3 -> 3 parts; 1/4 -> 4 parts; 1/10 -> 10 parts.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1/2 -> 2 parts; 1/3 -> 3 parts; 1/4 -> 4 parts; 1/10 -> 10 parts.",
+    "correct": "1/2 -> 2 parts; 1/3 -> 3 parts; 1/4 -> 4 parts; 1/10 -> 10 parts."
   },
   {
-    "id": "ac9m3n02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "cutting objects such as oranges, sandwiches or playdough into halves,…"
+    "id": "ac9m3n02-p04",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "How many fifths make one whole?",
+    "explanation": "5 fifths.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "5 fifths"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "correct": "5 fifths"
   },
   {
-    "id": "ac9m3n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3n02-p05",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Sam has 2/4 of a strip and adds 2/4 more. What fraction of the strip does Sam have?",
+    "explanation": "4/4, which is 1 whole.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "4/4, which is 1 whole"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "correct": "4/4, which is 1 whole"
   },
   {
-    "id": "ac9m3n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "sharing collections of objects, such as pop sticks or counters, between 3, 4…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "id": "ac9m3n02-p06",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order these fractions of the same whole from smallest to largest: 1/2, 1/10, 1/4, 1/3.",
+    "explanation": "1/10, 1/4, 1/3, 1/2.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1/10, 1/4, 1/3, 1/2.",
+    "correct": "1/10, 1/4, 1/3, 1/2."
   },
   {
-    "id": "ac9m3n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "sharing collections of objects, such as pop sticks or counters, between 3, 4…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "id": "ac9m3n02-p07",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why 1/3 of a small cake can be less food than 1/4 of a large cake.",
+    "explanation": "Fractions depend on the size of the whole; the wholes are different sizes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Fractions depend on the size of the whole; the wholes are different sizes.",
+    "correct": "Fractions depend on the size of the whole; the wholes are different sizes."
   },
   {
-    "id": "ac9m3n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…"
+    "id": "ac9m3n02-p08",
+    "curriculumCode": "AC9M3N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Twelve counters are shared equally between 3 children. What fraction and how many counters does each child get?",
+    "explanation": "Each gets 1/3 of the collection, which is 4 counters.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Each gets 1/3 of the collection, which is 4 counters"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3N02: recognise and represent unit fractions including \\frac12, \\frac13, \\frac14,…."
+    "correct": "Each gets 1/3 of the collection, which is 4 counters"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

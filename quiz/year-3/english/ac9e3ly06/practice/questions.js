@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly06-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "plan, create, edit and publish imaginative, informative and persuasive…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "id": "ac9e3ly06-p01",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: draft, plan, edit, publish.",
+    "explanation": "Plan; draft/create; edit; publish.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Plan; draft/create; edit; publish.",
+    "correct": "Plan; draft/create; edit; publish."
   },
   {
-    "id": "ac9e3ly06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "gathering information and ideas about a topic in preparation for writing,…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3ly06-p02",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What form would suit telling people how to care for a class pet: story, instructions or joke book?",
+    "explanation": "Instructions.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Instructions"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "correct": "Instructions"
   },
   {
-    "id": "ac9e3ly06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "selecting appropriate text structure for a writing purpose, and sequencing…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "id": "ac9e3ly06-p03",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Fix: \"bring a hat water bottle and lunch\"",
+    "explanation": "\"Bring a hat, water bottle and lunch.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"Bring a hat, water bottle and lunch.\"",
+    "correct": "\"Bring a hat, water bottle and lunch.\""
   },
   {
-    "id": "ac9e3ly06-04",
+    "id": "ac9e3ly06-p04",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which visual feature helps a procedure: random cartoon, numbered diagram, or blurry background?",
+    "explanation": "Numbered diagram.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "using appropriate simple and compound sentences to express and combine ideas"
+      "random cartoon",
+      "numbered diagram",
+      "or blurry background"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "correct": 1
   },
   {
-    "id": "ac9e3ly06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "plan, create, edit and publish imaginative, informative and persuasive…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
+    "id": "ac9e3ly06-p05",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one clear sentence for Year 2 students about crossing the road safely.",
+    "explanation": "A simple audience-appropriate safety sentence.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A simple audience-appropriate safety sentence"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "correct": "A simple audience-appropriate safety sentence"
   },
   {
-    "id": "ac9e3ly06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "using vocabulary, including topic-specific vocabulary, relevant to the type…",
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "use comprehension strategies when listening and viewing to build literal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "id": "ac9e3ly06-p06",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match title, introduction, image, conclusion to job.",
+    "explanation": "Title names topic; intro opens; image supports meaning; conclusion closes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Title names topic; intro opens; image supports meaning; conclusion closes.",
+    "correct": "Title names topic; intro opens; image supports meaning; conclusion closes."
   },
   {
-    "id": "ac9e3ly06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "using digital tools to plan, sequence, compose and edit texts",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "id": "ac9e3ly06-p07",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A persuasive poster has no reason, no audience and tiny text. Suggest two improvements.",
+    "explanation": "Add clear reason/evidence, address audience, improve readable layout.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Add clear reason/evidence, address audience, improve readable layout.",
+    "correct": "Add clear reason/evidence, address audience, improve readable layout."
   },
   {
-    "id": "ac9e3ly06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
+    "id": "ac9e3ly06-p08",
+    "curriculumCode": "AC9E3LY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name two things to check before publishing a class information page.",
+    "explanation": "Spelling, punctuation, facts, layout, images, audience.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Spelling, punctuation, facts, layout, images, audience"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY06: plan, create, edit and publish imaginative, informative and persuasive…."
+    "correct": "Spelling, punctuation, facts, layout, images, audience"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

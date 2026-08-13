@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3sp02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "interpret and create two-dimensional representations of familiar…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "id": "ac9m3sp02-p01",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name one key feature you would use when working with maps and two-dimensional representations.",
+    "explanation": "A valid feature such as faces, edges, vertices, curved surfaces, labels, symbols, directions or grid references.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid feature such as faces, edges, vertices, curved surfaces, labels, symbols, directions or grid references.",
+    "correct": "A valid feature such as faces, edges, vertices, curved surfaces, labels, symbols, directions or grid references."
   },
   {
-    "id": "ac9m3sp02-02",
+    "id": "ac9m3sp02-p02",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For maps and two-dimensional representations, which object has 6 square faces: cube, sphere or cone?",
+    "explanation": "Cube.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "follow and create algorithms involving a sequence of steps and decisions to…",
-      "designing the layout of a space; for example, a proposed games room or the…",
-      "recognise and explain the connection between addition and subtraction as…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…"
+      "cube",
+      "sphere",
+      "cone"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "correct": 0
   },
   {
-    "id": "ac9m3sp02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…",
-      "identify which metric units are used to measure everyday items; use…",
-      "locating themselves within a space such as a basketball court, an oval, stage…",
-      "measure and compare objects using familiar metric units of length, mass and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "id": "ac9m3sp02-p03",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For maps and two-dimensional representations, match cube, cylinder, sphere and rectangular prism to: all curved, two circular faces, six square faces, rectangular faces.",
+    "explanation": "Sphere -> all curved; cylinder -> two circular faces; cube -> six square faces; rectangular prism -> rectangular faces.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Sphere -> all curved; cylinder -> two circular faces; cube -> six square faces; rectangular prism -> rectangular faces.",
+    "correct": "Sphere -> all curved; cylinder -> two circular faces; cube -> six square faces; rectangular prism -> rectangular faces."
   },
   {
-    "id": "ac9m3sp02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use the relationship between formal units of time including…",
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "sketching a map within the classroom indicating where they have hidden an…"
+    "id": "ac9m3sp02-p04",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For maps and two-dimensional representations, how many vertices does a cube have?",
+    "explanation": "8 vertices.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "8 vertices"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "correct": "8 vertices"
   },
   {
-    "id": "ac9m3sp02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "interpret and create two-dimensional representations of familiar…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m3sp02-p05",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For maps and two-dimensional representations, on a map grid, what does C4 usually tell you?",
+    "explanation": "Column C and row 4, if the map uses that convention.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Column C and row 4, if the map uses that convention"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "correct": "Column C and row 4, if the map uses that convention"
   },
   {
-    "id": "ac9m3sp02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "create and compare different graphical representations of data sets including…",
-      "identifying differences in the representation of a place on a map, in an…",
-      "conduct guided statistical investigations involving the collection,…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "id": "ac9m3sp02-p06",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For maps and two-dimensional representations, follow the path: start at the library, move north, then east, then east. Describe the final direction moved.",
+    "explanation": "East.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "East.",
+    "correct": "East."
   },
   {
-    "id": "ac9m3sp02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "creating a two-dimensional plan of the school on a floor mat, representing…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "id": "ac9m3sp02-p07",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For maps and two-dimensional representations, explain why a map key is useful.",
+    "explanation": "It explains what symbols mean so the map can be interpreted correctly.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It explains what symbols mean so the map can be interpreted correctly.",
+    "correct": "It explains what symbols mean so the map can be interpreted correctly."
   },
   {
-    "id": "ac9m3sp02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "interpret and create two-dimensional representations of familiar…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3SP02: interpret and create two-dimensional representations of familiar…."
+    "id": "ac9m3sp02-p08",
+    "curriculumCode": "AC9M3SP02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For maps and two-dimensional representations, a student calls a cylinder a prism. Explain why that is incorrect.",
+    "explanation": "A prism has matching polygon faces and flat side faces; a cylinder has a curved surface.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A prism has matching polygon faces and flat side faces; a cylinder has a curved surface.",
+    "correct": "A prism has matching polygon faces and flat side faces; a cylinder has a curved surface."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

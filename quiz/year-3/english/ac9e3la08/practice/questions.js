@@ -1,107 +1,104 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3la08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "understand that verbs are anchored in time through tense",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p01",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort these verbs as past, present or future: jumped, jumps, will jump, is jumping.",
+    "explanation": "Past: jumped. Present: jumps, is jumping. Future: will jump.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Past: jumped. Present: jumps, is jumping. Future: will jump.",
+    "correct": "Past: jumped. Present: jumps, is jumping. Future: will jump."
   },
   {
-    "id": "ac9e3la08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "learning how time is represented through the tense of a verb; for example,…",
-      "identify how images extend the meaning of a text",
-      "extend topic-specific and technical vocabulary and know that words can have…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p02",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Fix the tense: \"Yesterday we walk to the creek and found tadpoles.\"",
+    "explanation": "\"Yesterday we walked to the creek and found tadpoles.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"Yesterday we walked to the creek and found tadpoles.\"",
+    "correct": "\"Yesterday we walked to the creek and found tadpoles.\""
   },
   {
-    "id": "ac9e3la08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discuss characters, events and settings in different contexts in literature…",
-      "learning that tenses for some verbs are formed by changing the word; for…",
-      "discuss connections between personal experiences and character experiences in…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p03",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which sentence is future tense: \"I planted seeds\"; \"I plant seeds\"; \"I will plant seeds\"?",
+    "explanation": "\"I will plant seeds.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "\"I will plant seeds.\"",
+    "correct": "\"I will plant seeds.\""
   },
   {
-    "id": "ac9e3la08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "learning that tenses for some verbs are formed by changing the word; for…"
+    "id": "ac9e3la08-p04",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Change \"The class observes the clouds\" to past tense.",
+    "explanation": "\"The class observed the clouds.\"",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "\"The class observed the clouds.\""
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "correct": "\"The class observed the clouds.\""
   },
   {
-    "id": "ac9e3la08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "understand that verbs are anchored in time through tense",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p05",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match yesterday, today and tomorrow to past, present and future.",
+    "explanation": "Yesterday -> past; today -> present; tomorrow -> future.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Yesterday -> past; today -> present; tomorrow -> future.",
+    "correct": "Yesterday -> past; today -> present; tomorrow -> future."
   },
   {
-    "id": "ac9e3la08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "learning that tenses for some verbs are formed by changing the word; for…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p06",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Choose: \"Last week the team choose/chose a leader.\"",
+    "explanation": "chose.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "chose.",
+    "correct": "chose."
   },
   {
-    "id": "ac9e3la08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "learning that tenses for some verbs are formed by changing the word; for…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "id": "ac9e3la08-p07",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how \"will\" changes the time in \"The bird will return\".",
+    "explanation": "It shows the action has not happened yet; it is future.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It shows the action has not happened yet; it is future.",
+    "correct": "It shows the action has not happened yet; it is future."
   },
   {
-    "id": "ac9e3la08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "understand that verbs are anchored in time through tense"
+    "id": "ac9e3la08-p08",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write past, present and future forms of \"play\" in short sentences.",
+    "explanation": "Played, plays/is playing, will play in suitable sentences.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Played, plays/is playing, will play in suitable sentences"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LA08: understand that verbs are anchored in time through tense."
+    "correct": "Played, plays/is playing, will play in suitable sentences"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

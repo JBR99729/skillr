@@ -1,107 +1,110 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m3p01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "identify practical activities and everyday events involving chance; describe…",
-      "multiply and divide one- and two-digit numbers, representing problems using…",
-      "estimate the quantity of objects in collections and make estimates when…",
-      "use mathematical modelling to solve practical problems involving additive and…"
+    "id": "ac9m3p01-p01",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For chance outcomes, describe the chance of rolling a number from 1 to 6 on a normal die.",
+    "explanation": "Certain.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Certain"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "correct": "Certain"
   },
   {
-    "id": "ac9m3p01-02",
+    "id": "ac9m3p01-p02",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For chance outcomes, what is the chance of rolling a 7 on a normal six-sided die: impossible, likely or certain?",
+    "explanation": "Impossible.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "follow and create algorithms involving a sequence of steps and decisions to…",
-      "predicting what could happen next in practical activities that involve an…",
-      "recognise and explain the connection between addition and subtraction as…",
-      "extend and apply knowledge of addition and subtraction facts to 20 to develop…"
+      "impossible",
+      "likely",
+      "certain"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "correct": 0
   },
   {
-    "id": "ac9m3p01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and…",
-      "identify which metric units are used to measure everyday items; use…",
-      "classifying a list of everyday events or sorting a set of event cards…",
-      "measure and compare objects using familiar metric units of length, mass and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "id": "ac9m3p01-p03",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "For chance outcomes, match impossible, unlikely, equally likely and certain to suitable examples.",
+    "explanation": "Examples should correctly pair chance words with events that cannot happen, probably will not happen, have the same chance, or must happen.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Examples should correctly pair chance words with events that cannot happen, probably will not happen, have the same chance, or must happen.",
+    "correct": "Examples should correctly pair chance words with events that cannot happen, probably will not happen, have the same chance, or must happen."
   },
   {
-    "id": "ac9m3p01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "recognise and use the relationship between formal units of time including…",
-      "describe the relationship between the hours and minutes on analog and digital…",
-      "identify angles as measures of turn and compare angles with right angles in…",
-      "making predictions and testing what would happen; for example, if 10 names…"
+    "id": "ac9m3p01-p04",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For chance outcomes, list all possible outcomes when flipping one coin.",
+    "explanation": "Heads and tails.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Heads and tails"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "correct": "Heads and tails"
   },
   {
-    "id": "ac9m3p01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "identify practical activities and everyday events involving chance; describe…",
-      "recognise the relationships between dollars and cents and represent money…",
-      "make, compare and classify objects, identifying key features and explaining…",
-      "interpret and create two-dimensional representations of familiar…"
+    "id": "ac9m3p01-p05",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For chance outcomes, a bag has 9 red counters and 1 blue counter. Which colour is more likely?",
+    "explanation": "Red.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Red"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "correct": "Red"
   },
   {
-    "id": "ac9m3p01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "acquire data for categorical and discrete numerical variables to address a…",
-      "role-playing being a chatbot or virtual assistant responding to a user about…",
-      "create and compare different graphical representations of data sets including…",
-      "conduct guided statistical investigations involving the collection,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "id": "ac9m3p01-p06",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "For chance outcomes, order from least likely to most likely: impossible, unlikely, likely, certain.",
+    "explanation": "Impossible, unlikely, likely, certain.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Impossible, unlikely, likely, certain.",
+    "correct": "Impossible, unlikely, likely, certain."
   },
   {
-    "id": "ac9m3p01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments; identify and describe possible outcomes,…",
-      "moving materials from one place to another on a place value model to show…",
-      "role-playing being a chatbot or virtual assistant responding to a user about…",
-      "using the repeating pattern of place value names and spaces within sets of 3…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "id": "ac9m3p01-p07",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For chance outcomes, explain why possible does not mean certain.",
+    "explanation": "Possible means it can happen; certain means it must happen.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Possible means it can happen; certain means it must happen.",
+    "correct": "Possible means it can happen; certain means it must happen."
   },
   {
-    "id": "ac9m3p01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "predicting and naming the number that is one more than 99, 109, 199, 1009,…",
-      "comparing the Hindu-Arabic numeral system to other numeral systems; for…",
-      "comparing, reading and writing the numbers involved in the more than 60 000…",
-      "identify practical activities and everyday events involving chance; describe…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M3P01: identify practical activities and everyday events involving chance; describe…."
+    "id": "ac9m3p01-p08",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For chance outcomes, a coin lands heads 4 times in a row. Does that prove it will always land heads? Explain.",
+    "explanation": "No; chance results vary, especially in small numbers of trials.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "No; chance results vary, especially in small numbers of trials.",
+    "correct": "No; chance results vary, especially in small numbers of trials."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

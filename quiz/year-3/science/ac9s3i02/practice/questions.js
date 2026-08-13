@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s3i02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "investigate the observable properties of solids and liquids and how adding or…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p01",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the main science idea in planning fair investigations?",
+    "explanation": "A fair investigation changes one thing, measures one result and keeps other important things the same.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A fair investigation changes one thing, measures one result and keeps other important things the same.",
+    "correct": "A fair investigation changes one thing, measures one result and keeps other important things the same."
   },
   {
-    "id": "ac9s3i02-02",
+    "id": "ac9s3i02-p02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which vocabulary word best fits this unit: fair test, perimeter or apostrophe?",
+    "explanation": "fair test.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "collaboratively identifying and ordering the steps in an investigation",
-      "follow procedures to make and record observations, including making formal…",
-      "construct and use representations, including tables, simple column graphs and…"
+      "fair test",
+      "perimeter",
+      "apostrophe"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "correct": 0
   },
   {
-    "id": "ac9s3i02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "using a provided framework or graphic organiser to plan and identify what to…",
-      "classifying a collection of objects as living, once living or non-living and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p03",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match four key words from this unit to their meanings: fair test, variable, method, equipment, measure.",
+    "explanation": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Award 1 mark for each accurate match using the unit vocabulary.",
+    "correct": "Award 1 mark for each accurate match using the unit vocabulary."
   },
   {
-    "id": "ac9s3i02-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing and describing differences between metamorphic (such as…",
-      "comparing the physical characteristics of an animal such as a frog or moth…",
-      "representing stages of a plant or animal’s life cycle using drawings, digital…",
-      "examining an example of a soil profile after soil has settled in water and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p04",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Give one classroom or outdoor example of planning fair investigations.",
+    "explanation": "To test ramp height, change only the height and keep the same car and surface.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "To test ramp height, change only the height and keep the same car and surface.",
+    "correct": "To test ramp height, change only the height and keep the same car and surface."
   },
   {
-    "id": "ac9s3i02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "examining different soils from local areas and using magnifying glasses to…",
-      "exploring the school grounds or a local area and observing or collecting…",
-      "recognising that minerals are the building blocks of rocks and that the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p05",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one observation you could record for planning fair investigations.",
+    "explanation": "A relevant, observable detail that can be seen, measured or recorded.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A relevant, observable detail that can be seen, measured or recorded.",
+    "correct": "A relevant, observable detail that can be seen, measured or recorded."
   },
   {
-    "id": "ac9s3i02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying rocks as key components of the built and natural environment and…",
-      "planning an investigation to determine which material is the best to keep…",
-      "describing ways in which living things including humans depend on soils, such…",
-      "examining information on plant tags and exploring the vocabulary used to…"
+    "id": "ac9s3i02-p06",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "When investigating planning fair investigations, order these steps: record data, ask a question, make a prediction, observe or measure.",
+    "explanation": "Ask a question; make a prediction; observe or measure; record data.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "record data",
+      "ask a question",
+      "make a prediction",
+      "observe or measure"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "correct": [
+      "ask a question",
+      "make a prediction",
+      "observe or measure",
+      "record data"
+    ]
   },
   {
-    "id": "ac9s3i02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "investigating which rocks or minerals are quarried or mined locally or…",
-      "exploring how we sense heat and identifying sources of heat such as the sun,…",
-      "discussing safety rules to follow when conducting investigations, such as…",
-      "recognising that changes in heat energy can be measured using a thermometer"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p07",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain a common mistake students make about planning fair investigations.",
+    "explanation": "Changing two things at once makes it hard to know what caused the result.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Changing two things at once makes it hard to know what caused the result.",
+    "correct": "Changing two things at once makes it hard to know what caused the result."
   },
   {
-    "id": "ac9s3i02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "observing and, with assistance, measuring, what happens when a cold object is…",
-      "modelling the movement of heat from one object to another using drawing or…",
-      "investigating how well heat is transferred by different types of materials…",
-      "use provided scaffolds to plan and conduct investigations to answer questions…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S3I02: use provided scaffolds to plan and conduct investigations to answer questions…."
+    "id": "ac9s3i02-p08",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Design a simple fair observation or investigation about planning fair investigations.",
+    "explanation": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant.",
+    "correct": "A valid plan with one clear question, observable evidence, and at least one controlled condition where relevant."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

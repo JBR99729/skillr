@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efla06-01",
+    "id": "ac9efla06-p01",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word order makes a clear sentence?",
+    "explanation": "D — The words are grouped and ordered to tell who and what happens.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "recognise that sentences are made up of groups of words that work together in…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "explore the contribution of images and words to meaning in stories and…"
+      "The jumps frog.",
+      "Jumps frog the.",
+      "Frog the jumps.",
+      "The frog jumps."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "correct": 3
   },
   {
-    "id": "ac9efla06-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "learning how words in a sentence relate to one another; for example,…",
-      "identify punctuation as a feature of written text different from letters;…",
-      "share ideas about stories, poems and images in literature, reflecting on…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "id": "ac9efla06-p02",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each “who” group to the ending that makes sense: (a) “The baby” (b) “Three ducks” with (1) “paddle across the pond” (2) “sleeps in the cot”.",
+    "explanation": "(a)–(2), (b)–(1). Award 1 mark for each correct match; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(a)–(2), (b)–(1). Award 1 mark for each correct match; 2 marks total.",
+    "correct": "(a)–(2), (b)–(1). Award 1 mark for each correct match; 2 marks total."
   },
   {
-    "id": "ac9efla06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "respond to stories and share feelings and thoughts about their events and…",
-      "recognise different types of literary texts and identify features including…",
-      "learning how words in a sentence relate to one another; for example,…",
-      "explore and replicate the rhythms and sound patterns of literary texts such…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "id": "ac9efla06-p03",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Put the words in an order that clearly tells what happens.",
+    "explanation": "“The kitten chases the string.” Award 1 mark for correct grouping/order and 1 mark for retaining all five words; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "“The kitten chases the string.” Award 1 mark for correct grouping/order and 1 mark for retaining all five words; 2 marks total.",
+    "correct": "“The kitten chases the string.” Award 1 mark for correct grouping/order and 1 mark for retaining all five words; 2 marks total."
   },
   {
-    "id": "ac9efla06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "interact in informal and structured situations by listening while others…",
-      "learning how words in a sentence relate to one another; for example,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "id": "ac9efla06-p04",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Oral response",
+    "question": "Keep “runs beside the fence” but change the group that tells who runs. Say the new sentence.",
+    "explanation": "Replaces “The brown horse” with another logical participant group, such as “My little dog”, while retaining the required ending. Award 1 mark for the replacement group and 1 mark for a meaningful complete sentence; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Replaces “The brown horse” with another logical participant group, such as “My little dog”, while retaining the required ending. Award 1 mark for the replacement group and 1 mark for a meaningful complete sentence; 2 marks total.",
+    "correct": "Replaces “The brown horse” with another logical participant group, such as “My little dog”, while retaining the required ending. Award 1 mark for the replacement group and 1 mark for a meaningful complete sentence; 2 marks total."
   },
   {
-    "id": "ac9efla06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise that sentences are made up of groups of words that work together in…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…",
-      "use comprehension strategies such as visualising, predicting, connecting,…"
+    "id": "ac9efla06-p05",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Add a group of words that tells where the birds sing.",
+    "explanation": "A coherent expansion such as “Birds sing in the tall tree.” Award 1 mark for a location group and 1 mark for a meaningful whole sentence; 2 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A coherent expansion such as “Birds sing in the tall tree.”"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "correct": "A coherent expansion such as “Birds sing in the tall tree.”"
   },
   {
-    "id": "ac9efla06-06",
+    "id": "ac9efla06-p06",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which combination of word groups best matches the whole scene?",
+    "explanation": "A — Each group contributes accurate information about who, what and where.",
+    "printable": true,
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
     "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "learning how words in a sentence relate to one another; for example,…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
+      "Two children / carry a basket / to the garden.",
+      "A basket / carries two children / under the sea.",
+      "The garden / carries / two baskets.",
+      "Two gardens / sleep / in a basket."
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "correct": 0
   },
   {
-    "id": "ac9efla06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "learning how words in a sentence relate to one another; for example,…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "id": "ac9efla06-p07",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Do the sentences mean the same thing? Explain what changed.",
+    "explanation": "States that the meanings differ (1 mark), identifies who follows in each sentence (1 mark), and explains that changing the order of the “dog” and “boy” groups changes who does the action (1 mark); 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "States that the meanings differ (1 mark), identifies who follows in each sentence (1 mark), and explains that changing the order of the “dog” and “boy” groups changes who does the action (1 mark); 3 marks total.",
+    "correct": "States that the meanings differ (1 mark), identifies who follows in each sentence (1 mark), and explains that changing the order of the “dog” and “boy” groups changes who does the action (1 mark); 3 marks total."
   },
   {
-    "id": "ac9efla06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "recognise that sentences are made up of groups of words that work together in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLA06: recognise that sentences are made up of groups of words that work together in…."
+    "id": "ac9efla06-p08",
+    "curriculumCode": "AC9EFLA06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Rearrange or replace a word group to make the sentence sensible, then tell why your version works.",
+    "explanation": "A logical repair such as “The family eats the picnic under a shady tree” (1 mark for who/action relationship, 1 mark for a coherent remaining group) and an explanation that people eat the picnic rather than the picnic eating people (1 mark); 3 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A logical repair such as “The family eats the picnic under a shady tree” (1 mark for who/action relationship, 1 mark for a coherent remaining group) and an explanation that people eat the picnic rather than the picnic eating people (1 mark); 3 marks total.",
+    "correct": "A logical repair such as “The family eats the picnic under a shady tree” (1 mark for who/action relationship, 1 mark for a coherent remaining group) and an explanation that people eat the picnic rather than the picnic eating people (1 mark); 3 marks total."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,107 +1,106 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m1a01-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "add and subtract numbers within 20, using physical and virtual materials,…",
-      "use mathematical modelling to solve practical problems involving additive…",
-      "use mathematical modelling to solve practical problems involving equal…"
+    "id": "ac9m1a01-p01",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What is the rule for 6, 8, 10, 12? State the next number.",
+    "explanation": "Add 2; next is 14 (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Add 2; next is 14 (2 marks)"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "correct": "Add 2; next is 14 (2 marks)"
   },
   {
-    "id": "ac9m1a01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "recognise, continue and create repeating patterns with numbers, symbols,…",
-      "using number charts, songs, rhymes and stories to establish skip counting…",
-      "compare directly and indirectly and order objects and events using attributes…",
-      "measure the length of shapes and objects using informal units, recognising…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "id": "ac9m1a01-p02",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match 5,10,15; 12,22,32; and 7,9,11 to +5, +10 and +2.",
+    "explanation": "5,10,15 ↔ +5; 12,22,32 ↔ +10; 7,9,11 ↔ +2 (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "5,10,15 ↔ +5; 12,22,32 ↔ +10; 7,9,11 ↔ +2 (1 mark each).",
+    "correct": "5,10,15 ↔ +5; 12,22,32 ↔ +10; 7,9,11 ↔ +2 (1 mark each)."
   },
   {
-    "id": "ac9m1a01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "describe the duration and sequence of events using years, months, weeks, days…",
-      "make, compare and classify familiar shapes; recognise familiar shapes and…",
-      "using shapes and objects to represent a growing pattern formed by skip…",
-      "give and follow directions to move people and objects to different locations…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "id": "ac9m1a01-p03",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Use counters in groups of 5 to show 10, 15, 20 and the next term.",
+    "explanation": "Shows groups representing 10, 15, 20, 25 and states 25 (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows groups representing 10, 15, 20, 25 and states 25 (2 marks).",
+    "correct": "Shows groups representing 10, 15, 20, 25 and states 25 (2 marks)."
   },
   {
-    "id": "ac9m1a01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "acquire and record data for categorical variables in various ways including…",
-      "represent collected data for a categorical variable using one-to-one displays…",
-      "reading, writing and naming numerals and ordering two-digit numbers from zero…",
-      "recognising the patterns in sequences formed by skip counting; for example,…"
+    "id": "ac9m1a01-p04",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Complete 30, 40, __, __, 70 and explain the rule.",
+    "explanation": "50 and 60; add 10 each time (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "50 and 60; add 10 each time (2 marks)"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "correct": "50 and 60; add 10 each time (2 marks)"
   },
   {
-    "id": "ac9m1a01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise, continue and create pattern sequences, with numbers, symbols,…",
-      "using number tracks or positioning a set of numbered cards in the correct…",
-      "using hundreds charts to build understanding and fluency with numbers; for…",
-      "recognising that numbers are used in all languages and cultures but may be…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "id": "ac9m1a01-p05",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the cards 18, 12, 16, 10, 14 to make an increasing +2 pattern.",
+    "explanation": "10, 12, 14, 16, 18 (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "10, 12, 14, 16, 18 (1 mark).",
+    "correct": "10, 12, 14, 16, 18 (1 mark)."
   },
   {
-    "id": "ac9m1a01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "building knowledge and understanding of the part-part-whole facts to 10,…",
-      "counting by twos, fives, or tens to determine how much money is in a…",
-      "using physical and virtual materials to partition numbers into counts of tens…",
-      "using part-part-whole reasoning and physical or virtual materials to…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "id": "ac9m1a01-p06",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw a pattern with 2 shapes in the first group, 4 in the second and 6 in the third. Add the next group.",
+    "explanation": "Shows groups of 2, 4, 6 and 8 shapes (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Shows groups of 2, 4, 6 and 8 shapes (2 marks).",
+    "correct": "Shows groups of 2, 4, 6 and 8 shapes (2 marks)."
   },
   {
-    "id": "ac9m1a01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "counting a large collection of items using groups of fives or tens and skip…",
-      "counting collections of objects such as pencils or images of birds in a tree,…",
-      "role-playing being an industrial robot on an assembly line that packs various…",
-      "counting a large collection of Australian \\$1 coins by stacking them into…"
+    "id": "ac9m1a01-p07",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The sequence is 20, 25, 30, 36, 40. Which term breaks the rule and what should it be?",
+    "explanation": "36 breaks +5; it should be 35 (2 marks).",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "36 breaks +5; it should be 35 (2 marks)"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "correct": "36 breaks +5; it should be 35 (2 marks)"
   },
   {
-    "id": "ac9m1a01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "using drawings, physical and virtual materials and number combinations within…",
-      "adding and subtracting numbers within 20, using a variety of representations…",
-      "developing and using strategies for one-digit addition and subtraction based…",
-      "recognise, continue and create pattern sequences, with numbers, symbols,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M1A01: recognise, continue and create pattern sequences, with numbers, symbols,…."
+    "id": "ac9m1a01-p08",
+    "curriculumCode": "AC9M1A01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Create six terms of a +10 pattern starting at 7 and explain how the ones digit helps check it.",
+    "explanation": "7, 17, 27, 37, 47, 57; the ones digit remains 7 when 10 is added (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "7, 17, 27, 37, 47, 57; the ones digit remains 7 when 10 is added (3 marks).",
+    "correct": "7, 17, 27, 37, 47, 57; the ones digit remains 7 when 10 is added (3 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

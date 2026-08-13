@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9m4n02-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "explain and use the properties of odd and even numbers",
-      "solve problems involving multiplying or dividing natural numbers by multiples…",
-      "develop efficient strategies and use appropriate digital tools for solving…",
-      "choose and use estimation and rounding to check and explain the…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "id": "ac9m4n02-p01",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "For AC9M4N02, explain why 4,368 is even.",
+    "explanation": "Its ones digit is 8, so it can be split into two equal whole-number groups.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Its ones digit is 8, so it can be split into two equal whole-number groups.",
+    "correct": "Its ones digit is 8, so it can be split into two equal whole-number groups."
   },
   {
-    "id": "ac9m4n02-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "use mathematical modelling to solve practical problems involving additive and…",
-      "identifying even numbers and explaining why all numbers that end in the…",
-      "follow and create algorithms involving a sequence of steps and decisions that…",
-      "find unknown values in numerical equations involving addition and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "id": "ac9m4n02-p02",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "In a odd and even numbers task, which answer is most reasonable for 398 x 6: 2388, 238 or 23,880?",
+    "explanation": "2,388.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "2,388.",
+    "correct": "2,388."
   },
   {
-    "id": "ac9m4n02-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "recall and demonstrate proficiency with multiplication facts up to 10 x 10…",
-      "interpret unmarked and partial units when measuring and comparing attributes…",
-      "explaining why some materials can be shared evenly between 2 people without…",
-      "recognise ways of measuring and approximating the perimeter and area of…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "id": "ac9m4n02-p03",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match each odd and even numbers representation to its meaning: number sentence, diagram, estimate, exact answer.",
+    "explanation": "Number sentence -> calculation; diagram -> visual model; estimate -> approximate check; exact answer -> calculated result.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Number sentence -> calculation; diagram -> visual model; estimate -> approximate check; exact answer -> calculated result.",
+    "correct": "Number sentence -> calculation; diagram -> visual model; estimate -> approximate check; exact answer -> calculated result."
   },
   {
-    "id": "ac9m4n02-04",
+    "id": "ac9m4n02-p04",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "For AC9M4N02, which sum must be odd: odd + odd, odd + even, or even + even?",
+    "explanation": "Odd + even.",
+    "printable": true,
     "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
     "answers": [
-      "solve problems involving the duration of time including situations involving…",
-      "estimate and compare angles using angle names including acute, obtuse,…",
-      "represent and approximate composite shapes and objects in the environment,…",
-      "explaining the patterns involved in adding, subtracting and multiplying odd…"
+      "odd + odd",
+      "odd + even",
+      "or even + even"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "correct": 1
   },
   {
-    "id": "ac9m4n02-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "explain and use the properties of odd and even numbers",
-      "create and interpret grid reference systems using grid references and…",
-      "recognise line and rotational symmetry of shapes and create symmetrical…",
-      "acquire data for categorical and discrete numerical variables to address a…"
+    "id": "ac9m4n02-p05",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A small table for odd and even numbers shows 4 groups with 125, 150, 175 and 200 items. What is the total?",
+    "explanation": "650 items.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "650 items"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "correct": "650 items"
   },
   {
-    "id": "ac9m4n02-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "analyse the effectiveness of different displays or visualisations in…",
-      "following an algorithm consisting of a flow chart with a series of…",
-      "conduct statistical investigations, collecting data through survey responses…",
-      "describe possible everyday events and the possible outcomes of chance…"
+    "id": "ac9m4n02-p06",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the odd and even numbers solution steps: check reasonableness, read the question, calculate, choose a strategy.",
+    "explanation": "Read the question; choose a strategy; calculate; check reasonableness.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "check reasonableness",
+      "read the question",
+      "calculate",
+      "choose a strategy"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "correct": [
+      "read the question",
+      "choose a strategy",
+      "calculate",
+      "check reasonableness"
+    ]
   },
   {
-    "id": "ac9m4n02-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "conduct repeated chance experiments to observe relationships between…",
-      "using a bar to represent the whole, dividing it into 10 equal pieces with…",
-      "following an algorithm consisting of a flow chart with a series of…",
-      "using materials to show the multiplicative relationship between the whole,…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "id": "ac9m4n02-p07",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how a diagram or table could help solve a Year 4 odd and even numbers problem without guessing.",
+    "explanation": "A diagram or table organises values, shows relationships and helps choose the correct operation.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A diagram or table organises values, shows relationships and helps choose the correct operation.",
+    "correct": "A diagram or table organises values, shows relationships and helps choose the correct operation."
   },
   {
-    "id": "ac9m4n02-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "recognising that one is the same as ten-tenths and one-tenth is the same as…",
-      "making models of measurement attributes to show the relationship between the…",
-      "counting large quantities of mixed notes and coins, writing the total using…",
-      "explain and use the properties of odd and even numbers"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9M4N02: explain and use the properties of odd and even numbers."
+    "id": "ac9m4n02-p08",
+    "curriculumCode": "AC9M4N02",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A student gets an answer that does not fit the odd and even numbers context. Explain two checks they should make.",
+    "explanation": "Check operation choice, place value/units, estimate, and whether the answer fits the story.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Check operation choice, place value/units, estimate, and whether the answer fits the story.",
+    "correct": "Check operation choice, place value/units, estimate, and whether the answer fits the story."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

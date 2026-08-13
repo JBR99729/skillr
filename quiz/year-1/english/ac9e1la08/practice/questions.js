@@ -1,107 +1,100 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e1la08-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "compare how images in different types of texts contribute to meaning",
-      "explore how repetition, rhyme and rhythm create cohesion in simple poems,…",
-      "understand how print and screen texts are organised using features such as…",
-      "understand that a simple sentence consists of a single independent clause…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p01",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A story picture shows dark clouds behind a character. What meaning might it add?",
+    "explanation": "It may establish stormy setting, danger or worried mood, supported by visible details (1 mark).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It may establish stormy setting, danger or worried mood, supported by visible details (1 mark).",
+    "correct": "It may establish stormy setting, danger or worried mood, supported by visible details (1 mark)."
   },
   {
-    "id": "ac9e1la08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand that words can represent people, places and things (nouns,…",
-      "comparing images from texts where images of the same subject are represented…",
-      "recognise the vocabulary of learning area topics",
-      "understand that written language uses punctuation such as full stops,…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p02",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match labelled diagram, story scene and advertisement photo to identify parts, show events/mood and attract/support choice.",
+    "explanation": "Each image type matches its purpose-related contribution (1 mark each).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Each image type matches its purpose-related contribution (1 mark each).",
+    "correct": "Each image type matches its purpose-related contribution (1 mark each)."
   },
   {
-    "id": "ac9e1la08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "discuss how language and images are used to create characters, settings and…",
-      "discuss literary texts and share responses by making connections with…",
-      "understanding how authors and illustrators build up meaning across a sequence…",
-      "discuss plot, character and setting, which are features of stories"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p03",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Demonstration",
+    "question": "Describe how a labelled frog diagram and a colourful story illustration would be used differently.",
+    "explanation": "Diagram gives factual parts/features; illustration develops character, setting or event (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Diagram gives factual parts/features; illustration develops character, setting or event (3 marks).",
+    "correct": "Diagram gives factual parts/features; illustration develops character, setting or event (3 marks)."
   },
   {
-    "id": "ac9e1la08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "listen to and discuss poems, chants, rhymes and songs, and imitate and invent…",
-      "orally retell or adapt a familiar story using plot and characters, language…",
-      "discuss different texts and identify some features that indicate their…",
-      "understanding that some images convey meaning that is not included in the…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p04",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A photo caption says ‘Seedling after 7 days’. What information does the caption add?",
+    "explanation": "It identifies time and stage, helping readers interpret the image as evidence of change (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It identifies time and stage, helping readers interpret the image as evidence of change (2 marks).",
+    "correct": "It identifies time and stage, helping readers interpret the image as evidence of change (2 marks)."
   },
   {
-    "id": "ac9e1la08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "compare how images in different types of texts contribute to meaning",
-      "use interaction skills including turn-taking, speaking clearly, using active…",
-      "describe some similarities and differences between imaginative, informative…",
-      "read decodable and authentic texts using developing phonic knowledge,…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p05",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order: notice details; read title/caption; connect image to words; decide its contribution.",
+    "explanation": "Read title/caption and notice details → connect to text → decide contribution (2 marks; first two may swap).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Read title/caption and notice details → connect to text → decide contribution (2 marks; first two may swap).",
+    "correct": "Read title/caption and notice details → connect to text → decide contribution (2 marks; first two may swap)."
   },
   {
-    "id": "ac9e1la08-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "understanding that some images convey meaning that is not included in the…",
-      "create and re-read to edit short written and/or multimodal texts to report on…",
-      "create and deliver short oral and/or multimodal presentations on personal and…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p06",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Drawing response",
+    "question": "Draw one simple image of a bicycle for a safety guide and one for an adventure story. Label one difference.",
+    "explanation": "Safety image highlights labelled equipment/action; story image shows character/event/mood, with difference stated (3 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Safety image highlights labelled equipment/action; story image shows character/event/mood, with difference stated (3 marks).",
+    "correct": "Safety image highlights labelled equipment/action; story image shows character/event/mood, with difference stated (3 marks)."
   },
   {
-    "id": "ac9e1la08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "write words using unjoined lower-case and upper-case letters",
-      "segment words into separate phonemes (sounds) including consonant blends or…",
-      "understanding that some images convey meaning that is not included in the…",
-      "orally manipulate phonemes in spoken words by addition, deletion and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p07",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "An image shows a smiling child holding a book. Can it prove every child likes the book? Explain.",
+    "explanation": "No; it shows one pictured response and may be staged; it cannot prove a universal claim (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "No; it shows one pictured response and may be staged; it cannot prove a universal claim (2 marks).",
+    "correct": "No; it shows one pictured response and may be staged; it cannot prove a universal claim (2 marks)."
   },
   {
-    "id": "ac9e1la08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "use short vowels, common long vowels, consonant blends and digraphs to write…",
-      "understand that a letter can represent more than one sound and that a…",
-      "spell one- and two-syllable words with common letter patterns",
-      "compare how images in different types of texts contribute to meaning"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E1LA08: compare how images in different types of texts contribute to meaning."
+    "id": "ac9e1la08-p08",
+    "curriculumCode": "AC9E1LA08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "For instructions on planting a seed, choose a decorative flower border or step-by-step pictures. Justify.",
+    "explanation": "Step pictures because they show action/order needed to complete the task (2 marks).",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Step pictures because they show action/order needed to complete the task (2 marks).",
+    "correct": "Step pictures because they show action/order needed to complete the task (2 marks)."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

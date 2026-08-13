@@ -1,107 +1,112 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3le03-01",
+    "id": "ac9e3le03-p01",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which words best create a spooky setting: bright and busy, silent and shadowy, warm and friendly?",
+    "explanation": "Silent and shadowy.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
+      "bright and busy",
+      "silent and shadowy",
+      "warm and friendly"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "correct": 1
   },
   {
-    "id": "ac9e3le03-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "identifying and discussing how the use of descriptive language creates…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3le03-p02",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "An illustration shows a character with crossed arms and a frown. What might it suggest?",
+    "explanation": "The character may be angry, upset or unwilling.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "The character may be angry, upset or unwilling"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "correct": "The character may be angry, upset or unwilling"
   },
   {
-    "id": "ac9e3le03-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "discussing the language used to describe the traits of characters in stories,…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "id": "ac9e3le03-p03",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match: sparkling river, cracked path, tiny whisper, heavy boots. Effects: beauty, danger, quietness, weight/noise.",
+    "explanation": "Sparkling -> beauty; cracked -> danger; tiny whisper -> quietness; heavy boots -> weight/noise.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Sparkling -> beauty; cracked -> danger; tiny whisper -> quietness; heavy boots -> weight/noise.",
+    "correct": "Sparkling -> beauty; cracked -> danger; tiny whisper -> quietness; heavy boots -> weight/noise."
   },
   {
-    "id": "ac9e3le03-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "discussing the language used to describe the traits of characters in stories,…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "id": "ac9e3le03-p04",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Replace \"nice forest\" with a more vivid phrase.",
+    "explanation": "For example, \"a cool forest filled with tall ferns.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, \"a cool forest filled with tall ferns.\"",
+    "correct": "For example, \"a cool forest filled with tall ferns.\""
   },
   {
-    "id": "ac9e3le03-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "discuss how an author uses language and illustrations to portray characters…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "id": "ac9e3le03-p05",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Hotspot / selection",
+    "question": "Text: \"Ravi stepped back.\" Picture clues: wide eyes, open lunchbox, blue sky, green grass. Which clue extends Ravi's feeling?",
+    "explanation": "Wide eyes.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Wide eyes.",
+    "correct": "Wide eyes."
   },
   {
-    "id": "ac9e3le03-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "discussing the language used to describe the traits of characters in stories,…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "id": "ac9e3le03-p06",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "How can words and illustrations work together to make a storm scene feel dangerous?",
+    "explanation": "Words can describe sound/action; images can show dark clouds, bent trees or worried faces.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Words can describe sound/action; images can show dark clouds, bent trees or worried faces.",
+    "correct": "Words can describe sound/action; images can show dark clouds, bent trees or worried faces."
   },
   {
-    "id": "ac9e3le03-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "discussing the language used to describe the traits of characters in stories,…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
+    "id": "ac9e3le03-p07",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "A quiet classroom becomes noisy after a surprise announcement. Name one word the author could use to show the change.",
+    "explanation": "For example, burst, buzzed, erupted, chatter.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "For example, burst, buzzed, erupted, chatter"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "correct": "For example, burst, buzzed, erupted, chatter"
   },
   {
-    "id": "ac9e3le03-08",
+    "id": "ac9e3le03-p08",
+    "curriculumCode": "AC9E3LE03",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which illustration best supports \"the path disappeared\": a clear signpost, thick fog over a track, or a neat map?",
+    "explanation": "Thick fog over a track.",
+    "printable": true,
     "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
     "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "discuss how an author uses language and illustrations to portray characters…"
+      "a clear signpost",
+      "thick fog over a track",
+      "or a neat map"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LE03: discuss how an author uses language and illustrations to portray characters…."
+    "correct": 1
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

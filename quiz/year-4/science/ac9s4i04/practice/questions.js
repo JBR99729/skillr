@@ -1,107 +1,116 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9s4i04-01",
-    "type": "single",
-    "question": "Which learning goal best matches this topic?",
-    "answers": [
-      "construct and use representations, including tables, simple column graphs and…",
-      "examine the properties of natural and made materials including fibres,…",
-      "examine how people use data to develop scientific explanations",
-      "consider how people use scientific explanations to meet a need or solve a…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s4i04-p01",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Diagram",
+    "question": "Inspect a labelled Year 4 representing data diagram. Which label shows the evidence most directly connected to the main idea?",
+    "explanation": "The label that points to the observed feature or measured result, not a decorative part.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The label that points to the observed feature or measured result, not a decorative part.",
+    "correct": "The label that points to the observed feature or measured result, not a decorative part."
   },
   {
-    "id": "ac9s4i04-02",
+    "id": "ac9s4i04-p02",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which statement is best for representing data: evidence supports explanations, guesses are always enough, or labels do not matter?",
+    "explanation": "Evidence supports explanations.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "pose questions to explore observed patterns and relationships and make…",
-      "using virtual or role-play food chain simulations to explore effects of…",
-      "use provided scaffolds to plan and conduct investigations to answer questions…",
-      "follow procedures to make and record observations, including making formal…"
+      "evidence supports explanations",
+      "guesses are always enough",
+      "or labels do not matter"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": 0
   },
   {
-    "id": "ac9s4i04-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "compare findings with those of others, consider if investigations were fair,…",
-      "write and create texts to communicate findings and ideas for identified…",
-      "using maps to locate water sources in the local area, or constructing maps to…",
-      "describing how animals, including humans, obtain their food from plants and…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s4i04-p03",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match representing data investigation parts: question, prediction, observation, conclusion.",
+    "explanation": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence.",
+    "correct": "Question -> what to find out; prediction -> expected result with reason; observation -> what is noticed/measured; conclusion -> claim supported by evidence."
   },
   {
-    "id": "ac9s4i04-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "observing living things in a local habitat and categorising them as…",
-      "researching the different types of decomposers and their importance within a…",
-      "representing feeding relationships of producers and consumers as a food chain…",
-      "constructing column graphs to compare numbers of objects made of particular…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s4i04-p04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one measurable or observable feature that would help compare two examples of representing data.",
+    "explanation": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count.",
+    "correct": "Any relevant observable feature, such as size, temperature, mass, growth, texture, position or count."
   },
   {
-    "id": "ac9s4i04-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "construct and use representations, including tables, simple column graphs and…",
-      "investigating the impact of introduced predators such as foxes on small…",
-      "researching how the removal of a food source from within a habitat, such as…",
-      "identifying everyday examples of precipitation (rain or snow), evaporation…"
+    "id": "ac9s4i04-p05",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Data display",
+    "question": "A Year 4 representing data table has results 12, 15, 15 and 18. What pattern or repeated result can be reported?",
+    "explanation": "15 appears twice; results are between 12 and 18.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "15 appears twice; results are between 12 and 18"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": "15 appears twice; results are between 12 and 18"
   },
   {
-    "id": "ac9s4i04-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "identifying local water sources and exploring how they change over time, such…",
-      "using force arrows to show forces operating on objects",
-      "exploring where tap water comes from and predicting what happens to water…",
-      "exploring a game or simulation of the water cycle, identifying key processes…"
+    "id": "ac9s4i04-p06",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Order the representing data investigation steps: collect data, ask a question, plan a fair method, communicate findings.",
+    "explanation": "Ask a question; plan a fair method; collect data; communicate findings.",
+    "printable": true,
+    "type": "order",
+    "items": [
+      "collect data",
+      "ask a question",
+      "plan a fair method",
+      "communicate findings"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "correct": [
+      "ask a question",
+      "plan a fair method",
+      "collect data",
+      "communicate findings"
+    ]
   },
   {
-    "id": "ac9s4i04-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognising that clouds are tiny water droplets suspended in air, observing a…",
-      "considering why we are encouraged to save and recycle water, and actions…",
-      "using force arrows to show forces operating on objects",
-      "exploring the effect of magnets on other magnets and how magnetic forces can…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s4i04-p07",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain why a labelled diagram or photograph would help students answer a representing data question.",
+    "explanation": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It gives visible evidence that students can inspect, compare and refer to in their answer.",
+    "correct": "It gives visible evidence that students can inspect, compare and refer to in their answer."
   },
   {
-    "id": "ac9s4i04-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "exploring the positive and negative effects of friction on their everyday…",
-      "recognising that gravity is the force that pulls all objects to towards the…",
-      "observing how the pushing force of a liquid enables an object to float",
-      "construct and use representations, including tables, simple column graphs and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9S4I04: construct and use representations, including tables, simple column graphs and…."
+    "id": "ac9s4i04-p08",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "A group changes two things at once in a representing data investigation. Explain why this is a problem.",
+    "explanation": "It becomes unclear which change caused the result, so the test is less fair.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It becomes unclear which change caused the result, so the test is less fair.",
+    "correct": "It becomes unclear which change caused the result, so the test is less fair."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

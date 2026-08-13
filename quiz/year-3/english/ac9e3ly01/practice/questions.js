@@ -1,107 +1,108 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly01-01",
+    "id": "ac9e3ly01-p01",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which greeting best suits a letter to the principal: Hey mate, Dear Principal, Yo!",
+    "explanation": "Dear Principal.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "recognise how texts can be created for similar purposes but different…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
+      "Hey mate",
+      "Dear Principal",
+      "Yo!"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "correct": 1
   },
   {
-    "id": "ac9e3ly01-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "identifying the ways in which a safety campaign varies depending on its…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "id": "ac9e3ly01-p02",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Matching",
+    "question": "Match younger students, parents, council, classmates to: simple steps, clear notice, formal request, friendly examples.",
+    "explanation": "Younger students -> simple steps; parents -> notice; council -> formal request; classmates -> friendly examples.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Younger students -> simple steps; parents -> notice; council -> formal request; classmates -> friendly examples.",
+    "correct": "Younger students -> simple steps; parents -> notice; council -> formal request; classmates -> friendly examples."
   },
   {
-    "id": "ac9e3ly01-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "identifying how the instructions for assembling and using toys vary according…",
-      "discuss characters, events and settings in different contexts in literature…"
+    "id": "ac9e3ly01-p03",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one sentence asking a friend to recycle, then one asking visitors at assembly.",
+    "explanation": "Friend version informal; assembly version more formal/polite.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Friend version informal; assembly version more formal/polite"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "correct": "Friend version informal; assembly version more formal/polite"
   },
   {
-    "id": "ac9e3ly01-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "identifying how the instructions for assembling and using toys vary according…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "id": "ac9e3ly01-p04",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: slang, technical term, school logo, emoji into formal notice or friend chat.",
+    "explanation": "Formal notice: technical term, school logo. Friend chat: slang, emoji.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Formal notice: technical term, school logo. Friend chat: slang, emoji.",
+    "correct": "Formal notice: technical term, school logo. Friend chat: slang, emoji."
   },
   {
-    "id": "ac9e3ly01-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "recognise how texts can be created for similar purposes but different…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "use interaction skills to contribute to conversations and discussions to…",
-      "identify the audience and purpose of imaginative, informative and persuasive…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "id": "ac9e3ly01-p05",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "Rewrite \"Dispose of waste responsibly\" for Year 1 students.",
+    "explanation": "For example, \"Put your rubbish in the bin.\"",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "For example, \"Put your rubbish in the bin.\"",
+    "correct": "For example, \"Put your rubbish in the bin.\""
   },
   {
-    "id": "ac9e3ly01-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "identifying how the instructions for assembling and using toys vary according…",
-      "use comprehension strategies when listening and viewing to build literal and…",
-      "plan, create, edit and publish imaginative, informative and persuasive…"
-    ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "id": "ac9e3ly01-p06",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Why might two posters both ask people to save water but use different words and pictures?",
+    "explanation": "They may target different audiences, ages or situations.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "They may target different audiences, ages or situations.",
+    "correct": "They may target different audiences, ages or situations."
   },
   {
-    "id": "ac9e3ly01-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "identifying how the instructions for assembling and using toys vary according…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "id": "ac9e3ly01-p07",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "A teacher email and class poster both explain excursion rules. What is the same?",
+    "explanation": "The purpose: to explain/inform rules.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "The purpose: to explain/inform rules.",
+    "correct": "The purpose: to explain/inform rules."
   },
   {
-    "id": "ac9e3ly01-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "recognise how texts can be created for similar purposes but different…"
+    "id": "ac9e3ly01-p08",
+    "curriculumCode": "AC9E3LY01",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "What image would help younger children understand a handwashing poster?",
+    "explanation": "A clear image/steps of washing hands.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A clear image/steps of washing hands"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY01: recognise how texts can be created for similar purposes but different…."
+    "correct": "A clear image/steps of washing hands"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

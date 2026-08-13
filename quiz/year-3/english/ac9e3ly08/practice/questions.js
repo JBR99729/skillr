@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9e3ly08-01",
+    "id": "ac9e3ly08-p01",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which feature matters most: letters clearly formed and consistent size, random slopes, or words touching every line?",
+    "explanation": "Letters clearly formed and consistent size.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "write words using joined letters that are clearly formed and consistent in…",
-      "understand that paragraphs are a key organisational feature of the stages of…",
-      "identify the purpose of layout features in print and digital texts and the…",
-      "understand that a clause is a unit of grammar usually containing a subject…"
+      "letters clearly formed and consistent size",
+      "random slopes",
+      "or words touching every line"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "correct": 0
   },
   {
-    "id": "ac9e3ly08-02",
-    "type": "single",
-    "question": "Which classroom activity best practises this topic?",
-    "answers": [
-      "understand how verbs represent different processes for doing, feeling,…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "understand that verbs are anchored in time through tense",
-      "identify how images extend the meaning of a text"
+    "id": "ac9e3ly08-p02",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Why do writers leave spaces between words?",
+    "explanation": "So readers can tell where each word starts and ends.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "So readers can tell where each word starts and ends"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "correct": "So readers can tell where each word starts and ends"
   },
   {
-    "id": "ac9e3ly08-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "extend topic-specific and technical vocabulary and know that words can have…",
-      "understand that apostrophes signal missing letters in contractions, and…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "discuss characters, events and settings in different contexts in literature…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "id": "ac9e3ly08-p03",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Editing",
+    "question": "A student writes some letters huge and some tiny. Give one improvement goal.",
+    "explanation": "Keep letters more consistent in size.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Keep letters more consistent in size.",
+    "correct": "Keep letters more consistent in size."
   },
   {
-    "id": "ac9e3ly08-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "discuss connections between personal experiences and character experiences in…",
-      "discuss how an author uses language and illustrations to portray characters…",
-      "discuss the effects of some literary devices used to enhance meaning and…",
-      "write words using joined letters that are clearly formed and consistent in…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "id": "ac9e3ly08-p04",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Sorting",
+    "question": "Sort: even spacing, unclear joins, clear ascenders, crowded words.",
+    "explanation": "Readable: even spacing, clear ascenders. Hard: unclear joins, crowded words.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Readable: even spacing, clear ascenders. Hard: unclear joins, crowded words.",
+    "correct": "Readable: even spacing, clear ascenders. Hard: unclear joins, crowded words."
   },
   {
-    "id": "ac9e3ly08-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "write words using joined letters that are clearly formed and consistent in…",
-      "create and edit imaginative texts, using or adapting language features,…",
-      "recognise how texts can be created for similar purposes but different…",
-      "use interaction skills to contribute to conversations and discussions to…"
+    "id": "ac9e3ly08-p05",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Name one pair of letters that can be joined clearly in handwriting.",
+    "explanation": "Any plausible joined pair, such as in, th, er.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Any plausible joined pair, such as in, th, er"
     ],
-    "correct": 0,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "correct": "Any plausible joined pair, such as in, th, er"
   },
   {
-    "id": "ac9e3ly08-06",
+    "id": "ac9e3ly08-p06",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Before displaying handwriting, what should a student check: neat formation, fastest scribble, or secret code?",
+    "explanation": "Neat formation.",
+    "printable": true,
     "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
     "answers": [
-      "identify the audience and purpose of imaginative, informative and persuasive…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "read a range of texts using phonic, semantic and grammatical knowledge to…",
-      "use comprehension strategies when listening and viewing to build literal and…"
+      "neat formation",
+      "fastest scribble",
+      "or secret code"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "correct": 0
   },
   {
-    "id": "ac9e3ly08-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "plan, create, edit and publish imaginative, informative and persuasive…",
-      "plan, create, rehearse and deliver short oral and/or multimodal presentations…",
-      "write words using joined letters that are clearly formed and consistent in…",
-      "understand how to apply knowledge of phoneme-grapheme (sound-letter)…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "id": "ac9e3ly08-p07",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Explain how consistent letter size helps a reader.",
+    "explanation": "It makes words easier to recognise and follow.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "It makes words easier to recognise and follow.",
+    "correct": "It makes words easier to recognise and follow."
   },
   {
-    "id": "ac9e3ly08-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "understand how to apply knowledge of common base words, prefixes, suffixes…",
-      "use phoneme-grapheme (sound-letter) relationships and less common letter…",
-      "recognise and know how to write most high-frequency words including some…",
-      "write words using joined letters that are clearly formed and consistent in…"
+    "id": "ac9e3ly08-p08",
+    "curriculumCode": "AC9E3LY08",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write a short reminder for neat joined handwriting.",
+    "explanation": "A reminder about clear letters, spacing, size or joins.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "A reminder about clear letters, spacing, size or joins"
     ],
-    "correct": 3,
-    "explanation": "This matches AC9E3LY08: write words using joined letters that are clearly formed and consistent in…."
+    "correct": "A reminder about clear letters, spacing, size or joins"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

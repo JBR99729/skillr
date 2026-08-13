@@ -1,107 +1,114 @@
 "use strict";
-window.quizQuestions = [
+window.skillrPracticeQuestions = [
   {
-    "id": "ac9efly06-01",
+    "id": "ac9efly06-p01",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "The class watched an ice cube melt. Which sentence clearly records what happened?",
+    "explanation": "D — It reports an observed change in a complete sentence.",
+    "printable": true,
     "type": "single",
-    "question": "Which learning goal best matches this topic?",
     "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "understand conventions of print and screen, including how books and simple…",
-      "recognise that sentences are key units for expressing ideas",
-      "recognise that sentences are made up of groups of words that work together in…"
+      "Where is lunch?",
+      "Ice and a cup.",
+      "Look at this!",
+      "The ice got wet and small."
     ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "correct": 3
   },
   {
-    "id": "ac9efly06-02",
+    "id": "ac9efly06-p02",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Multiple choice",
+    "question": "Which word would be most useful in a report about the activity?",
+    "explanation": "A — “Soil” is relevant learned vocabulary for planting.",
+    "printable": true,
     "type": "single",
-    "question": "Which classroom activity best practises this topic?",
     "answers": [
-      "explore the contribution of images and words to meaning in stories and…",
-      "using beginning writing knowledge, sound-letter relationships, known words…",
-      "recognise and develop awareness of vocabulary used in familiar contexts…",
-      "identify punctuation as a feature of written text different from letters;…"
+      "soil",
+      "spaceship",
+      "trumpet",
+      "pillow"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "correct": 0
   },
   {
-    "id": "ac9efly06-03",
-    "type": "single",
-    "question": "Which example gives useful evidence of this learning?",
-    "answers": [
-      "share ideas about stories, poems and images in literature, reflecting on…",
-      "respond to stories and share feelings and thoughts about their events and…",
-      "using writing and drawing, which may include digital tools, to represent and…",
-      "recognise different types of literary texts and identify features including…"
+    "id": "ac9efly06-p03",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Write one sentence that records the picture. Spell cat, sat and mat using their sounds, and show the sentence beginning and end.",
+    "explanation": "Expected form such as “The cat sat on the mat.” Award 1 mark for complete relevant sentence, 1 mark for capital/end mark, and 1 mark for correctly sound-mapped CVC target words; 3 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "Expected form such as “The cat sat on the mat.”"
     ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "correct": "Expected form such as “The cat sat on the mat.”"
   },
   {
-    "id": "ac9efly06-04",
-    "type": "single",
-    "question": "A student is ready to show this skill. Which task should they try?",
-    "answers": [
-      "explore and replicate the rhythms and sound patterns of literary texts such…",
-      "retell and adapt familiar literary texts through play, performance, images or…",
-      "identify some familiar texts, such as stories and informative texts, and…",
-      "“reading” their own texts back to an experienced writer"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "id": "ac9efly06-p04",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "Work as an editor: name and make two changes that show the sentence boundary.",
+    "explanation": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”",
+    "correct": "Capital W (1 mark) and full stop after “pot” (1 mark). Corrected: “We put the lid on the pot.”"
   },
   {
-    "id": "ac9efly06-05",
-    "type": "single",
-    "question": "Which statement belongs in a quick review of this topic?",
-    "answers": [
-      "create and participate in shared editing of short written texts to record and…",
-      "interact in informal and structured situations by listening while others…",
-      "identify some differences between imaginative and informative texts",
-      "read decodable and authentic texts using developing phonic knowledge, and…"
-    ],
-    "correct": 0,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "id": "ac9efly06-p05",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Sequencing",
+    "question": "Put the report in order and copy or say it as a short text.",
+    "explanation": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total.",
+    "correct": "(b), (c), (a). Award 1 mark for order and 1 mark for maintaining complete sentence boundaries in the produced text; 2 marks total."
   },
   {
-    "id": "ac9efly06-06",
-    "type": "single",
-    "question": "Which activity would a teacher choose for extra practice?",
-    "answers": [
-      "use comprehension strategies such as visualising, predicting, connecting,…",
-      "participating in shared editing by circling the capital letters at the…",
-      "create and deliver short spoken texts to report ideas and events to peers,…",
-      "form most lower-case and upper-case letters using learnt letter formations"
+    "id": "ac9efly06-p06",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Short response",
+    "question": "The “thing” was a small log. Edit the first sentence so the report is clearer.",
+    "explanation": "“We put the small log/a log in the tank.” Award 1 mark for replacing “thing” with “log” and 1 mark for a correctly bounded complete sentence; 2 marks total.",
+    "printable": true,
+    "type": "text",
+    "acceptedAnswers": [
+      "“We put the small log/a log in the tank.”"
     ],
-    "correct": 1,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "correct": "“We put the small log/a log in the tank.”"
   },
   {
-    "id": "ac9efly06-07",
-    "type": "single",
-    "question": "Which option stays focused on the curriculum goal?",
-    "answers": [
-      "recognise and generate rhyming words, alliteration patterns, syllables and…",
-      "segment sentences into individual words; orally blend and segment…",
-      "participating in shared editing by circling the capital letters at the…",
-      "recognise and name all upper- and lower-case letters (graphs) and know the…"
-    ],
-    "correct": 2,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "id": "ac9efly06-p07",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Write or dictate three short sentences that report the events in order. Include at least two accurate topic words.",
+    "explanation": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total.",
+    "correct": "1 mark for each ordered event sentence (3 marks), 1 mark for at least two relevant words such as ramp, rolled, mat, stopped or box, 1 mark for visible/audible sentence boundaries, and 1 mark for plausible phonetic spelling including any attempted CVC words; 6 marks total."
   },
   {
-    "id": "ac9efly06-08",
-    "type": "single",
-    "question": "What should students be able to explain or demonstrate after this unit?",
-    "answers": [
-      "write consonant-vowel-consonant (CVC) words by representing sounds with the…",
-      "use knowledge of letters and sounds to spell words",
-      "read and write some high-frequency words and other familiar words",
-      "create and participate in shared editing of short written texts to record and…"
-    ],
-    "correct": 3,
-    "explanation": "This matches AC9EFLY06: create and participate in shared editing of short written texts to record and…."
+    "id": "ac9efly06-p08",
+    "curriculumCode": "AC9EFLY06",
+    "bank": "practice",
+    "sourceType": "Extended response",
+    "question": "Edit the draft into two clear sentences. Correct the name of the day, sentence starts, end marks and the CVC words hen, corn and pan where needed.",
+    "explanation": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit.",
+    "printable": true,
+    "type": "self-check",
+    "modelAnswer": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit.",
+    "correct": "A correct version is “On Monday, we fed the hen. It had corn in a pan.” Award 1 mark for Monday capital, 1 mark for two sentence starts, 1 mark for correct boundary between ideas/end punctuation, 1 mark for hen, 1 mark for pan, and 1 mark for preserving corn accurately; 6 marks total. Do not require the comma for full Foundation credit."
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;
