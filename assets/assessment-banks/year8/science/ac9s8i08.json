@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S8I08-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "In a class investigation, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. Which interpretation is best supported?",
+    "audio_prompt": "In a class investigation, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-001",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a class investigation, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a museum evidence display, students are creating a digital infographic to compare and contrast different forms of energy. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a museum evidence display, students are creating a digital infographic to compare and contrast different forms of energy. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-002",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a museum evidence display, students are creating a digital infographic to compare and contrast different forms of energy. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-003",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a field-team briefing, students compare scientific content with language and structure. The evidence states, “Content selection matches purpose and audience.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a laboratory notebook, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a laboratory notebook, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-004",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a laboratory notebook, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A community science meeting for Communicate Science for a Purpose reports that a laboratory report needs reproducible method. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A community science meeting for Communicate Science for a Purpose reports that a laboratory report needs reproducible method. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-005",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A community science meeting for Communicate Science for a Purpose reports that a laboratory report needs reproducible method. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "In a digital model review, the evidence states, “Digital and visual features clarify rather than decorate.”. Which interpretation is best supported?",
+    "audio_prompt": "In a digital model review, the evidence states, “Digital and visual features clarify rather than decorate.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-006",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a digital model review, the evidence states, “Digital and visual features clarify rather than decorate.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a student research poster, the evidence states, “Filming a documentary on the dynamic nature of the geosphere and selecting appropriate language.”. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a student research poster, the evidence states, “Filming a documentary on the dynamic nature of the geosphere and selecting appropriate language.”. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-007",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a student research poster, the evidence states, “Filming a documentary on the dynamic nature of the geosphere and selecting appropriate language.”. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "In an engineering design check, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an engineering design check, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-008",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an engineering design check, students compare scientific content with language and structure. The evidence states, “Both preserve the science while changing structure.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a data-team discussion, students are writing a report on a scientific investigation using appropriate scientific conventions and. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a data-team discussion, students are writing a report on a scientific investigation using appropriate scientific conventions and. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-009",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a data-team discussion, students are writing a report on a scientific investigation using appropriate scientific conventions and. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A school science report for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A school science report for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-010",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A school science report for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "In a council evidence summary, the evidence states, “Scientific conventions.”. Which interpretation is best supported?",
+    "audio_prompt": "In a council evidence summary, the evidence states, “Scientific conventions.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-011",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a council evidence summary, the evidence states, “Scientific conventions.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific conventions, units and evidence remain accurate; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a peer-review conversation, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a peer-review conversation, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-012",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a peer-review conversation, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that digital and visual features clarify rather than decorate, within the limits of the investigation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-013",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an environmental monitoring project, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a medical research case, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a medical research case, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-014",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a medical research case, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that scientific conventions, units and evidence remain accurate",
+        "is_correct": true
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A science-news fact check for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A science-news fact check for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-015",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A science-news fact check for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports digital and visual features clarify rather than decorate, but it does not prove that every case will be identical",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "In a classroom model test, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?",
+    "audio_prompt": "In a classroom model test, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-016",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a classroom model test, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-017",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a regional planning workshop, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a regional planning workshop, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-017",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a regional planning workshop, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-018",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "In an equipment selection task, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an equipment selection task, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-018",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In an equipment selection task, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-019",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a public information draft, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a public information draft, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-019",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a public information draft, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-020",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "An independent replication study for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "An independent replication study for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-020",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: An independent replication study for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-021",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "In a risk-assessment meeting, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?",
+    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-021",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a risk-assessment meeting, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-022",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a graph interpretation task, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a graph interpretation task, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-022",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a graph interpretation task, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-023",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-023",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a claim-evidence-reasoning response, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-P-024",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a scientific-method audit, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a scientific-method audit, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-024",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a scientific-method audit, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A new research proposal for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A new research proposal for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-001",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A new research proposal for Communicate Science for a Purpose reports that acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "In a cross-school data comparison, the evidence states, “Scientific conventions.”. Which interpretation is best supported?",
+    "audio_prompt": "In a cross-school data comparison, the evidence states, “Scientific conventions.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-002",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a cross-school data comparison, the evidence states, “Scientific conventions.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific conventions, units and evidence remain accurate; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During a technology evaluation panel, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a technology evaluation panel, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-003",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a technology evaluation panel, students are constructing a persuasive text on the use of artificial organs including scientific explanations and. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that digital and visual features clarify rather than decorate, within the limits of the investigation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-004",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a science exhibition caption, students compare scientific content with language and structure. The evidence states, “A public energy infographic needs accurate comparisons.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During a policy evidence hearing, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a policy evidence hearing, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-005",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a policy evidence hearing, students are exploring the role of active and passive voice in scientific writing and analysing contemporary journal. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that scientific conventions, units and evidence remain accurate",
+        "is_correct": true
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A controlled follow-up investigation for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A controlled follow-up investigation for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-006",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A controlled follow-up investigation for Communicate Science for a Purpose reports that creating a digital infographic to compare and contrast different forms of energy. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports digital and visual features clarify rather than decorate, but it does not prove that every case will be identical",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "In a model limitations review, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?",
+    "audio_prompt": "In a model limitations review, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-007",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a model limitations review, the evidence states, “Content selection matches purpose and audience.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Content selection matches purpose and audience; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Simpler language means removing evidence; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During an ethics committee discussion, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?",
+    "audio_prompt": "During an ethics committee discussion, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-008",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During an ethics committee discussion, the evidence states, “Modifying the method for an investigation and explaining where and why the original was changed with.”. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that scientific conventions, units and evidence remain accurate, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "In a coastal field station report, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a coastal field station report, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-009",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a coastal field station report, students compare scientific content with language and structure. The evidence states, “A laboratory report needs reproducible method.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During a renewable-energy trial, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a renewable-energy trial, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-010",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a renewable-energy trial, the evidence states, “Digital and visual features clarify rather than decorate.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that content selection matches purpose and audience",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A hospital innovation briefing for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A hospital innovation briefing for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-011",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A hospital innovation briefing for Communicate Science for a Purpose reports that filming a documentary on the dynamic nature of the geosphere and selecting appropriate language. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Simpler language means removing evidence; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports scientific conventions, units and evidence remain accurate, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "In a geological survey update, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?",
+    "audio_prompt": "In a geological survey update, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-012",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is purpose. Question context: In a geological survey update, the evidence states, “Both preserve the science while changing structure.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Passive voice is always more scientific; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Digital and visual features clarify rather than decorate; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about purpose, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During a materials-testing laboratory, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?",
+    "audio_prompt": "During a materials-testing laboratory, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-013",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is audience. Question context: During a materials-testing laboratory, students are writing a report on a scientific investigation using appropriate scientific conventions and. Which response applies the communication model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that content selection matches purpose and audience, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Simpler language means removing evidence; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific content caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about audience, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-014",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is scientific content. Question context: In a documentary planning session, students compare scientific content with language and structure. The evidence states, “Acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links scientific content with language and structure, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conventions, units and evidence remain accurate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about scientific content, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During a national data-set review, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a national data-set review, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-015",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is language and structure. Question context: During a national data-set review, the evidence states, “Scientific conventions.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to language and structure alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that digital and visual features clarify rather than decorate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital and visual features clarify rather than decorate. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about language and structure, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "A final evidence conference for Communicate Science for a Purpose reports that constructing a persuasive text on the use of artificial organs including scientific explanations and. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A final evidence conference for Communicate Science for a Purpose reports that constructing a persuasive text on the use of artificial organs including scientific explanations and. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-016",
+      "alt_text": "Communicate Science for a Purpose evidence model linking purpose, audience, scientific content, language and structure, visual or digital feature. The highlighted stage is visual or digital feature. Question context: A final evidence conference for Communicate Science for a Purpose reports that constructing a persuasive text on the use of artificial organs including scientific explanations and. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports content selection matches purpose and audience, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice is always more scientific; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about purpose is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Content selection matches purpose and audience. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about visual or digital feature, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  }
+]

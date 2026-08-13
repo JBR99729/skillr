@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S8I02-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_question_and_variables",
+    "question": "In a class investigation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which interpretation is best supported?",
+    "audio_prompt": "In a class investigation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-001",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a class investigation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Plans align variables, method and evidence with the question; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_repeatable_method",
+    "question": "During a museum evidence display, the evidence states, “To test light intensity and solar-cell output.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During a museum evidence display, the evidence states, “To test light intensity and solar-cell output.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-002",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a museum evidence display, the evidence states, “To test light intensity and solar-cell output.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that assumptions and sources of risk are explicit, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_control_and_assumption",
+    "question": "In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-003",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a field-team briefing, students compare control and assumption with risk and ethics. The evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_risk_and_ethics",
+    "question": "During a laboratory notebook, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a laboratory notebook, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-004",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a laboratory notebook, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that plans align variables, method and evidence with the question",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_country_place_protocol",
+    "question": "A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-005",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A community science meeting for Plan a Reproducible Investigation reports that assumptions and sources of risk are explicit. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports assumptions and sources of risk are explicit, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_question_and_variables",
+    "question": "In a digital model review, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which interpretation is best supported?",
+    "audio_prompt": "In a digital model review, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-006",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a digital model review, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Ethical and cultural protocols shape whether and how an investigation proceeds; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_repeatable_method",
+    "question": "During a student research poster, the evidence states, “Plans align variables.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During a student research poster, the evidence states, “Plans align variables.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-007",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a student research poster, the evidence states, “Plans align variables.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that plans align variables, method and evidence with the question, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_control_and_assumption",
+    "question": "In an engineering design check, students compare control and assumption with risk and ethics. Students are explaining why safety procedures address identified risks. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an engineering design check, students compare control and assumption with risk and ethics. Students are explaining why safety procedures address identified risks. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-008",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an engineering design check, students compare control and assumption with risk and ethics. Students are explaining why safety procedures address identified risks. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_risk_and_ethics",
+    "question": "During a data-team discussion, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a data-team discussion, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-009",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a data-team discussion, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that ethical and cultural protocols shape whether and how an investigation proceeds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_country_place_protocol",
+    "question": "A school science report for Plan a Reproducible Investigation reports that identifying assumptions related to testing a hypothesis using analogous models. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A school science report for Plan a Reproducible Investigation reports that identifying assumptions related to testing a hypothesis using analogous models. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-010",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A school science report for Plan a Reproducible Investigation reports that identifying assumptions related to testing a hypothesis using analogous models. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports plans align variables, method and evidence with the question, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_question_and_variables",
+    "question": "In a council evidence summary, the evidence states, “Keep cell angle.”. Which interpretation is best supported?",
+    "audio_prompt": "In a council evidence summary, the evidence states, “Keep cell angle.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-011",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a council evidence summary, the evidence states, “Keep cell angle.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Assumptions and sources of risk are explicit; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_repeatable_method",
+    "question": "During a peer-review conversation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During a peer-review conversation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-012",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a peer-review conversation, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that ethical and cultural protocols shape whether and how an investigation proceeds, within the limits of the investigation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_control_and_assumption",
+    "question": "In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “To test light intensity and solar-cell output.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “To test light intensity and solar-cell output.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-013",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an environmental monitoring project, students compare control and assumption with risk and ethics. The evidence states, “To test light intensity and solar-cell output.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_risk_and_ethics",
+    "question": "During a medical research case, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a medical research case, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-014",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a medical research case, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that assumptions and sources of risk are explicit",
+        "is_correct": true
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_country_place_protocol",
+    "question": "A science-news fact check for Plan a Reproducible Investigation reports that acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A science-news fact check for Plan a Reproducible Investigation reports that acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-015",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A science-news fact check for Plan a Reproducible Investigation reports that acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports ethical and cultural protocols shape whether and how an investigation proceeds, but it does not prove that every case will be identical",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_question_and_variables",
+    "question": "In a classroom model test, the evidence states, “Assumptions and sources of risk are explicit.”. Which interpretation is best supported?",
+    "audio_prompt": "In a classroom model test, the evidence states, “Assumptions and sources of risk are explicit.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-016",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a classroom model test, the evidence states, “Assumptions and sources of risk are explicit.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Plans align variables, method and evidence with the question; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "A risk list is a risk assessment; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-017",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_repeatable_method",
+    "question": "During a regional planning workshop, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which response applies the method model most accurately?",
+    "audio_prompt": "During a regional planning workshop, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-017",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a regional planning workshop, students are considering ethical issues relating to the access to and use of biological material and secondary data. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that assumptions and sources of risk are explicit, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-018",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_control_and_assumption",
+    "question": "In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-018",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In an equipment selection task, students compare control and assumption with risk and ethics. The evidence states, “Plans align variables.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-019",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_risk_and_ethics",
+    "question": "During a public information draft, students are explaining why safety procedures address identified risks. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a public information draft, students are explaining why safety procedures address identified risks. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-019",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a public information draft, students are explaining why safety procedures address identified risks. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that plans align variables, method and evidence with the question",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-020",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_country_place_protocol",
+    "question": "An independent replication study for Plan a Reproducible Investigation reports that record the assumption that distance is a suitable proxy for intensity and manage electrical and heat. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "An independent replication study for Plan a Reproducible Investigation reports that record the assumption that distance is a suitable proxy for intensity and manage electrical and heat. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-020",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: An independent replication study for Plan a Reproducible Investigation reports that record the assumption that distance is a suitable proxy for intensity and manage electrical and heat. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports assumptions and sources of risk are explicit, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-021",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_question_and_variables",
+    "question": "In a risk-assessment meeting, students are identifying assumptions related to testing a hypothesis using analogous models. Which interpretation is best supported?",
+    "audio_prompt": "In a risk-assessment meeting, students are identifying assumptions related to testing a hypothesis using analogous models. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-021",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a risk-assessment meeting, students are identifying assumptions related to testing a hypothesis using analogous models. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Ethical and cultural protocols shape whether and how an investigation proceeds; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-022",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_repeatable_method",
+    "question": "During a graph interpretation task, the evidence states, “Keep cell angle.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During a graph interpretation task, the evidence states, “Keep cell angle.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-022",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a graph interpretation task, the evidence states, “Keep cell angle.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that plans align variables, method and evidence with the question, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "A risk list is a risk assessment; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-023",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_control_and_assumption",
+    "question": "In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-023",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a claim-evidence-reasoning response, students compare control and assumption with risk and ethics. The evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-P-024",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "practice",
+    "skill": "method_risk_and_ethics",
+    "question": "During a scientific-method audit, the evidence states, “To test light intensity and solar-cell output.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a scientific-method audit, the evidence states, “To test light intensity and solar-cell output.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-p-024",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a scientific-method audit, the evidence states, “To test light intensity and solar-cell output.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that ethical and cultural protocols shape whether and how an investigation proceeds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_country_place_protocol",
+    "question": "A new research proposal for Plan a Reproducible Investigation reports that explaining why safety procedures address identified risks. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A new research proposal for Plan a Reproducible Investigation reports that explaining why safety procedures address identified risks. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-001",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A new research proposal for Plan a Reproducible Investigation reports that explaining why safety procedures address identified risks. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports plans align variables, method and evidence with the question, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_question_and_variables",
+    "question": "In a cross-school data comparison, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which interpretation is best supported?",
+    "audio_prompt": "In a cross-school data comparison, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-002",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a cross-school data comparison, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Assumptions and sources of risk are explicit; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_repeatable_method",
+    "question": "During a technology evaluation panel, students are identifying assumptions related to testing a hypothesis using analogous models. Which response applies the method model most accurately?",
+    "audio_prompt": "During a technology evaluation panel, students are identifying assumptions related to testing a hypothesis using analogous models. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-003",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a technology evaluation panel, students are identifying assumptions related to testing a hypothesis using analogous models. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that ethical and cultural protocols shape whether and how an investigation proceeds, within the limits of the investigation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_control_and_assumption",
+    "question": "In a science exhibition caption, students compare control and assumption with risk and ethics. The evidence states, “Keep cell angle.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a science exhibition caption, students compare control and assumption with risk and ethics. The evidence states, “Keep cell angle.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-004",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a science exhibition caption, students compare control and assumption with risk and ethics. The evidence states, “Keep cell angle.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_risk_and_ethics",
+    "question": "During a policy evidence hearing, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a policy evidence hearing, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-005",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a policy evidence hearing, the evidence states, “Designing reproducible investigations that specifically test variables of the causal relationship and.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that assumptions and sources of risk are explicit",
+        "is_correct": true
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_country_place_protocol",
+    "question": "A controlled follow-up investigation for Plan a Reproducible Investigation reports that to test light intensity and solar-cell output. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A controlled follow-up investigation for Plan a Reproducible Investigation reports that to test light intensity and solar-cell output. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-006",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A controlled follow-up investigation for Plan a Reproducible Investigation reports that to test light intensity and solar-cell output. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports ethical and cultural protocols shape whether and how an investigation proceeds, but it does not prove that every case will be identical",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_question_and_variables",
+    "question": "In a model limitations review, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which interpretation is best supported?",
+    "audio_prompt": "In a model limitations review, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-007",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a model limitations review, the evidence states, “Ethical and cultural protocols shape whether and how an investigation proceeds.”. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "Plans align variables, method and evidence with the question; this interpretation can be checked against further evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating trials makes an unfair test fair; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_repeatable_method",
+    "question": "During an ethics committee discussion, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During an ethics committee discussion, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-008",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During an ethics committee discussion, the evidence states, “Acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "The observation supports the idea that assumptions and sources of risk are explicit, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_control_and_assumption",
+    "question": "In a coastal field station report, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit.”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a coastal field station report, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit.”. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-009",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a coastal field station report, students compare control and assumption with risk and ethics. The evidence states, “Assumptions and sources of risk are explicit.”. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_risk_and_ethics",
+    "question": "During a renewable-energy trial, students are considering ethical issues relating to the access to and use of biological material and secondary data. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a renewable-energy trial, students are considering ethical issues relating to the access to and use of biological material and secondary data. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-010",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a renewable-energy trial, students are considering ethical issues relating to the access to and use of biological material and secondary data. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Repeated evidence can support the conclusion that plans align variables, method and evidence with the question",
+        "is_correct": true
+      },
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_country_place_protocol",
+    "question": "A hospital innovation briefing for Plan a Reproducible Investigation reports that plans align variables. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A hospital innovation briefing for Plan a Reproducible Investigation reports that plans align variables. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-011",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A hospital innovation briefing for Plan a Reproducible Investigation reports that plans align variables. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "Repeating trials makes an unfair test fair; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence supports assumptions and sources of risk are explicit, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_question_and_variables",
+    "question": "In a geological survey update, students are explaining why safety procedures address identified risks. Which interpretation is best supported?",
+    "audio_prompt": "In a geological survey update, students are explaining why safety procedures address identified risks. Which interpretation is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-012",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is question and variables. Question context: In a geological survey update, students are explaining why safety procedures address identified risks. Which interpretation is best supported?"
+    },
+    "answers": [
+      {
+        "text": "A risk list is a risk assessment; one matching observation makes this explanation certain",
+        "is_correct": false
+      },
+      {
+        "text": "Question and variables is the only relevant feature, so no mechanism or consequence needs explaining",
+        "is_correct": false
+      },
+      {
+        "text": "Ethical and cultural protocols shape whether and how an investigation proceeds; this interpretation can be checked against further evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about question and variables, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_repeatable_method",
+    "question": "During a materials-testing laboratory, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which response applies the method model most accurately?",
+    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which response applies the method model most accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-013",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is repeatable method. Question context: During a materials-testing laboratory, the evidence states, “Record the assumption that distance is a suitable proxy for intensity and manage electrical and heat.”. Which response applies the method model most accurately?"
+    },
+    "answers": [
+      {
+        "text": "The observation supports the idea that plans align variables, method and evidence with the question, within the limits of the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "Repeating trials makes an unfair test fair; the wider pattern does not need to be considered",
+        "is_correct": false
+      },
+      {
+        "text": "Control and assumption caused the result because the two occurred together once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about repeatable method, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_control_and_assumption",
+    "question": "In a documentary planning session, students compare control and assumption with risk and ethics. Students are identifying assumptions related to testing a hypothesis using analogous models. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a documentary planning session, students compare control and assumption with risk and ethics. Students are identifying assumptions related to testing a hypothesis using analogous models. Which conclusion uses evidence appropriately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-014",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is control and assumption. Question context: In a documentary planning session, students compare control and assumption with risk and ethics. Students are identifying assumptions related to testing a hypothesis using analogous models. Which conclusion uses evidence appropriately?"
+    },
+    "answers": [
+      {
+        "text": "The model is a literal copy of reality, so assumptions and omitted features do not matter",
+        "is_correct": false
+      },
+      {
+        "text": "The model links control and assumption with risk and ethics, so it can explain the relationship while still having limits",
+        "is_correct": true
+      },
+      {
+        "text": "The most detailed diagram is always best, even when it hides the relationship being tested",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Assumptions and sources of risk are explicit. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about control and assumption, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_risk_and_ethics",
+    "question": "During a national data-set review, the evidence states, “Keep cell angle.”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a national data-set review, the evidence states, “Keep cell angle.”. What is the strongest scientific response to this result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-015",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is risk and ethics. Question context: During a national data-set review, the evidence states, “Keep cell angle.”. What is the strongest scientific response to this result?"
+    },
+    "answers": [
+      {
+        "text": "Conflicting results should be removed because only results matching the prediction are useful",
+        "is_correct": false
+      },
+      {
+        "text": "Several conditions can change together and the result can still be attributed to risk and ethics alone",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated evidence can support the conclusion that ethical and cultural protocols shape whether and how an investigation proceeds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ethical and cultural protocols shape whether and how an investigation proceeds. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about risk and ethics, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  },
+  {
+    "id": "AC9S8I02-T-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I02",
+    "bank": "test",
+    "skill": "method_country_place_protocol",
+    "question": "A final evidence conference for Plan a Reproducible Investigation reports that designing reproducible investigations that specifically test variables of the causal relationship and. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A final evidence conference for Plan a Reproducible Investigation reports that designing reproducible investigations that specifically test variables of the causal relationship and. Which revision would make the reasoning most reliable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i02.svg#ac9s8i02-t-016",
+      "alt_text": "Plan a Reproducible Investigation evidence model linking question and variables, repeatable method, control and assumption, risk and ethics, Country/Place protocol. The highlighted stage is Country/Place protocol. Question context: A final evidence conference for Plan a Reproducible Investigation reports that designing reproducible investigations that specifically test variables of the causal relationship and. Which revision would make the reasoning most reliable?"
+    },
+    "answers": [
+      {
+        "text": "The evidence supports plans align variables, method and evidence with the question, but it does not prove that every case will be identical",
+        "is_correct": true
+      },
+      {
+        "text": "A risk list is a risk assessment; the same outcome must therefore occur in every setting",
+        "is_correct": false
+      },
+      {
+        "text": "A confident opinion about question and variables is stronger than measured or documented evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plans align variables, method and evidence with the question. This conclusion connects the observation to the scientific relationship without claiming more than the evidence shows.",
+      "hint": "Identify what the evidence shows about Country/Place protocol, then reject choices that assume, exaggerate or ignore limitations."
+    }
+  }
+]
