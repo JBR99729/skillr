@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S3H01-P-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, the high light result is 12 cm and the low light result is 8 cm. Which statement is data?",
+    "audio_prompt": "During the plant study, the high light result is 12 cm and the low light result is 8 cm. Which statement is data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-001",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [[\"high light\",\"12 cm\"],[\"low light\",\"8 cm\"]]"
+    },
+    "answers": [
+      {
+        "text": "high light: 12 cm",
+        "is_correct": true
+      },
+      {
+        "text": "high light looked best",
+        "is_correct": false
+      },
+      {
+        "text": "I hoped high light would win",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data are recorded observations or measurements.",
+      "hint": "Choose the statement containing a measured result."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "audio_prompt": "During the plant study, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-002",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [12,8]"
+    },
+    "answers": [
+      {
+        "text": "The nicest option always works",
+        "is_correct": false
+      },
+      {
+        "text": "high light had the higher measured result",
+        "is_correct": true
+      },
+      {
+        "text": "The results prove every future test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A supported claim describes the pattern in the collected data.",
+      "hint": "Compare the two numbers, then keep the claim limited to this test."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, which evidence should be used to explain the result?",
+    "audio_prompt": "During the plant study, which evidence should be used to explain the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-003",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"high light: 12 cm\",\"low light: 8 cm\"]"
+    },
+    "answers": [
+      {
+        "text": "A student's favourite condition",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the data sheet",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded measurements for both conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Relevant measurements provide evidence for a scientific explanation.",
+      "hint": "Use information that directly answers the investigation question."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, what does reasoning do in a scientific explanation?",
+    "audio_prompt": "During the plant study, what does reasoning do in a scientific explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-004",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"claim\",\"evidence\",\"reasoning\"]"
+    },
+    "answers": [
+      {
+        "text": "It links the evidence to the claim",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces measurements with an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It changes results to fit the claim",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Think of the bridge between what was measured and what is claimed."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, which is the strongest explanation?",
+    "audio_prompt": "During the plant study, which is the strongest explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-005",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"claim\",\"measurements\",\"link\"]"
+    },
+    "answers": [
+      {
+        "text": "I like high light, so it is better",
+        "is_correct": false
+      },
+      {
+        "text": "high light measured 12 cm and low light measured 8 cm, so the data show a difference",
+        "is_correct": true
+      },
+      {
+        "text": "The first result must always be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A scientific explanation combines a claim with relevant evidence.",
+      "hint": "Look for both the measured comparison and a careful claim."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, why is \"high light is nicer\" weak scientific evidence?",
+    "audio_prompt": "During the plant study, why is \"high light is nicer\" weak scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-006",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"opinion\",\"measurement\"]"
+    },
+    "answers": [
+      {
+        "text": "It contains too many numbers",
+        "is_correct": false
+      },
+      {
+        "text": "It was written after the test",
+        "is_correct": false
+      },
+      {
+        "text": "It is an opinion rather than a relevant measurement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Preferences do not measure the investigated relationship.",
+      "hint": "Ask whether another observer could record the same evidence."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, a repeat gives a slightly different value. What should students do?",
+    "audio_prompt": "During the plant study, a repeat gives a slightly different value. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-007",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"trial 1\",\"trial 2\",\"compare pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "Compare all results and look for the overall pattern",
+        "is_correct": true
+      },
+      {
+        "text": "Delete the different result",
+        "is_correct": false
+      },
+      {
+        "text": "Choose whichever result they prefer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiple results help judge the pattern and variation.",
+      "hint": "Keep the data and compare rather than hiding it."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the plant study, which conclusion is appropriately cautious?",
+    "audio_prompt": "During the plant study, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-008",
+      "alt_text": "During the plant study: claim and evidence display for plant growth showing [\"in this investigation\",\"measured difference\",\"possible repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves the same outcome everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "In this investigation, the two conditions gave different measured results",
+        "is_correct": true
+      },
+      {
+        "text": "No further evidence could change the explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conclusions should match the amount and limits of evidence.",
+      "hint": "Use words that keep the conclusion within this investigation."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, the wrapped cup result is 44 °C and the unwrapped cup result is 36 °C. Which statement is data?",
+    "audio_prompt": "At the insulation test, the wrapped cup result is 44 °C and the unwrapped cup result is 36 °C. Which statement is data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-009",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [[\"wrapped cup\",\"44 °C\"],[\"unwrapped cup\",\"36 °C\"]]"
+    },
+    "answers": [
+      {
+        "text": "wrapped cup looked best",
+        "is_correct": false
+      },
+      {
+        "text": "I hoped wrapped cup would win",
+        "is_correct": false
+      },
+      {
+        "text": "wrapped cup: 44 °C",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data are recorded observations or measurements.",
+      "hint": "Choose the statement containing a measured result."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "audio_prompt": "At the insulation test, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-010",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [44,36]"
+    },
+    "answers": [
+      {
+        "text": "wrapped cup had the higher measured result",
+        "is_correct": true
+      },
+      {
+        "text": "The nicest option always works",
+        "is_correct": false
+      },
+      {
+        "text": "The results prove every future test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A supported claim describes the pattern in the collected data.",
+      "hint": "Compare the two numbers, then keep the claim limited to this test."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, which evidence should be used to explain the result?",
+    "audio_prompt": "At the insulation test, which evidence should be used to explain the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-011",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"wrapped cup: 44 °C\",\"unwrapped cup: 36 °C\"]"
+    },
+    "answers": [
+      {
+        "text": "A student's favourite condition",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded measurements for both conditions",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of the data sheet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Relevant measurements provide evidence for a scientific explanation.",
+      "hint": "Use information that directly answers the investigation question."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, what does reasoning do in a scientific explanation?",
+    "audio_prompt": "At the insulation test, what does reasoning do in a scientific explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-012",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"claim\",\"evidence\",\"reasoning\"]"
+    },
+    "answers": [
+      {
+        "text": "It replaces measurements with an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It changes results to fit the claim",
+        "is_correct": false
+      },
+      {
+        "text": "It links the evidence to the claim",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Think of the bridge between what was measured and what is claimed."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, which is the strongest explanation?",
+    "audio_prompt": "At the insulation test, which is the strongest explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-013",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"claim\",\"measurements\",\"link\"]"
+    },
+    "answers": [
+      {
+        "text": "wrapped cup measured 44 °C and unwrapped cup measured 36 °C, so the data show a difference",
+        "is_correct": true
+      },
+      {
+        "text": "I like wrapped cup, so it is better",
+        "is_correct": false
+      },
+      {
+        "text": "The first result must always be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A scientific explanation combines a claim with relevant evidence.",
+      "hint": "Look for both the measured comparison and a careful claim."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, why is \"wrapped cup is nicer\" weak scientific evidence?",
+    "audio_prompt": "At the insulation test, why is \"wrapped cup is nicer\" weak scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-014",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"opinion\",\"measurement\"]"
+    },
+    "answers": [
+      {
+        "text": "It contains too many numbers",
+        "is_correct": false
+      },
+      {
+        "text": "It is an opinion rather than a relevant measurement",
+        "is_correct": true
+      },
+      {
+        "text": "It was written after the test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Preferences do not measure the investigated relationship.",
+      "hint": "Ask whether another observer could record the same evidence."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, a repeat gives a slightly different value. What should students do?",
+    "audio_prompt": "At the insulation test, a repeat gives a slightly different value. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-015",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"trial 1\",\"trial 2\",\"compare pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "Delete the different result",
+        "is_correct": false
+      },
+      {
+        "text": "Choose whichever result they prefer",
+        "is_correct": false
+      },
+      {
+        "text": "Compare all results and look for the overall pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiple results help judge the pattern and variation.",
+      "hint": "Keep the data and compare rather than hiding it."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the insulation test, which conclusion is appropriately cautious?",
+    "audio_prompt": "At the insulation test, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-016",
+      "alt_text": "At the insulation test: claim and evidence display for cooling water showing [\"in this investigation\",\"measured difference\",\"possible repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "In this investigation, the two conditions gave different measured results",
+        "is_correct": true
+      },
+      {
+        "text": "This proves the same outcome everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "No further evidence could change the explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientific conclusions should match the amount and limits of evidence.",
+      "hint": "Use words that keep the conclusion within this investigation."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, the sunny place result is 18 minutes and the shaded place result is 27 minutes. Which statement is data?",
+    "audio_prompt": "In the class survey, the sunny place result is 18 minutes and the shaded place result is 27 minutes. Which statement is data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-017",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [[\"sunny place\",\"18 minutes\"],[\"shaded place\",\"27 minutes\"]]"
+    },
+    "answers": [
+      {
+        "text": "sunny place looked best",
+        "is_correct": false
+      },
+      {
+        "text": "sunny place: 18 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "I hoped sunny place would win",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Data are recorded observations or measurements.",
+      "hint": "Choose the statement containing a measured result."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "audio_prompt": "In the class survey, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-018",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [18,27]"
+    },
+    "answers": [
+      {
+        "text": "The nicest option always works",
+        "is_correct": false
+      },
+      {
+        "text": "The results prove every future test",
+        "is_correct": false
+      },
+      {
+        "text": "shaded place had the higher measured result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A supported claim describes the pattern in the collected data.",
+      "hint": "Compare the two numbers, then keep the claim limited to this test."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, which evidence should be used to explain the result?",
+    "audio_prompt": "In the class survey, which evidence should be used to explain the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-019",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"sunny place: 18 minutes\",\"shaded place: 27 minutes\"]"
+    },
+    "answers": [
+      {
+        "text": "The recorded measurements for both conditions",
+        "is_correct": true
+      },
+      {
+        "text": "A student's favourite condition",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the data sheet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relevant measurements provide evidence for a scientific explanation.",
+      "hint": "Use information that directly answers the investigation question."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, what does reasoning do in a scientific explanation?",
+    "audio_prompt": "In the class survey, what does reasoning do in a scientific explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-020",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"claim\",\"evidence\",\"reasoning\"]"
+    },
+    "answers": [
+      {
+        "text": "It replaces measurements with an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It links the evidence to the claim",
+        "is_correct": true
+      },
+      {
+        "text": "It changes results to fit the claim",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Think of the bridge between what was measured and what is claimed."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, which is the strongest explanation?",
+    "audio_prompt": "In the class survey, which is the strongest explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-021",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"claim\",\"measurements\",\"link\"]"
+    },
+    "answers": [
+      {
+        "text": "I like sunny place, so it is better",
+        "is_correct": false
+      },
+      {
+        "text": "The first result must always be correct",
+        "is_correct": false
+      },
+      {
+        "text": "sunny place measured 18 minutes and shaded place measured 27 minutes, so the data show a difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A scientific explanation combines a claim with relevant evidence.",
+      "hint": "Look for both the measured comparison and a careful claim."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, why is \"sunny place is nicer\" weak scientific evidence?",
+    "audio_prompt": "In the class survey, why is \"sunny place is nicer\" weak scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-022",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"opinion\",\"measurement\"]"
+    },
+    "answers": [
+      {
+        "text": "It is an opinion rather than a relevant measurement",
+        "is_correct": true
+      },
+      {
+        "text": "It contains too many numbers",
+        "is_correct": false
+      },
+      {
+        "text": "It was written after the test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Preferences do not measure the investigated relationship.",
+      "hint": "Ask whether another observer could record the same evidence."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, a repeat gives a slightly different value. What should students do?",
+    "audio_prompt": "In the class survey, a repeat gives a slightly different value. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-023",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"trial 1\",\"trial 2\",\"compare pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "Delete the different result",
+        "is_correct": false
+      },
+      {
+        "text": "Compare all results and look for the overall pattern",
+        "is_correct": true
+      },
+      {
+        "text": "Choose whichever result they prefer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiple results help judge the pattern and variation.",
+      "hint": "Keep the data and compare rather than hiding it."
+    }
+  },
+  {
+    "id": "AC9S3H01-P-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "practice",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "In the class survey, which conclusion is appropriately cautious?",
+    "audio_prompt": "In the class survey, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-p-024",
+      "alt_text": "In the class survey: claim and evidence display for cloth drying showing [\"in this investigation\",\"measured difference\",\"possible repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves the same outcome everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "No further evidence could change the explanation",
+        "is_correct": false
+      },
+      {
+        "text": "In this investigation, the two conditions gave different measured results",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientific conclusions should match the amount and limits of evidence.",
+      "hint": "Use words that keep the conclusion within this investigation."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, the sandy soil result is 70 mL and the clay soil result is 42 mL. Which statement is data?",
+    "audio_prompt": "During the drying study, the sandy soil result is 70 mL and the clay soil result is 42 mL. Which statement is data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-001",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [[\"sandy soil\",\"70 mL\"],[\"clay soil\",\"42 mL\"]]"
+    },
+    "answers": [
+      {
+        "text": "sandy soil: 70 mL",
+        "is_correct": true
+      },
+      {
+        "text": "sandy soil looked best",
+        "is_correct": false
+      },
+      {
+        "text": "I hoped sandy soil would win",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Data are recorded observations or measurements.",
+      "hint": "Choose the statement containing a measured result."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "audio_prompt": "During the drying study, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-002",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [70,42]"
+    },
+    "answers": [
+      {
+        "text": "The nicest option always works",
+        "is_correct": false
+      },
+      {
+        "text": "sandy soil had the higher measured result",
+        "is_correct": true
+      },
+      {
+        "text": "The results prove every future test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A supported claim describes the pattern in the collected data.",
+      "hint": "Compare the two numbers, then keep the claim limited to this test."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, which evidence should be used to explain the result?",
+    "audio_prompt": "During the drying study, which evidence should be used to explain the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-003",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"sandy soil: 70 mL\",\"clay soil: 42 mL\"]"
+    },
+    "answers": [
+      {
+        "text": "A student's favourite condition",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the data sheet",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded measurements for both conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Relevant measurements provide evidence for a scientific explanation.",
+      "hint": "Use information that directly answers the investigation question."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, what does reasoning do in a scientific explanation?",
+    "audio_prompt": "During the drying study, what does reasoning do in a scientific explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-004",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"claim\",\"evidence\",\"reasoning\"]"
+    },
+    "answers": [
+      {
+        "text": "It links the evidence to the claim",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces measurements with an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It changes results to fit the claim",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Think of the bridge between what was measured and what is claimed."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, which is the strongest explanation?",
+    "audio_prompt": "During the drying study, which is the strongest explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-005",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"claim\",\"measurements\",\"link\"]"
+    },
+    "answers": [
+      {
+        "text": "I like sandy soil, so it is better",
+        "is_correct": false
+      },
+      {
+        "text": "sandy soil measured 70 mL and clay soil measured 42 mL, so the data show a difference",
+        "is_correct": true
+      },
+      {
+        "text": "The first result must always be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A scientific explanation combines a claim with relevant evidence.",
+      "hint": "Look for both the measured comparison and a careful claim."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, why is \"sandy soil is nicer\" weak scientific evidence?",
+    "audio_prompt": "During the drying study, why is \"sandy soil is nicer\" weak scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-006",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"opinion\",\"measurement\"]"
+    },
+    "answers": [
+      {
+        "text": "It contains too many numbers",
+        "is_correct": false
+      },
+      {
+        "text": "It was written after the test",
+        "is_correct": false
+      },
+      {
+        "text": "It is an opinion rather than a relevant measurement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Preferences do not measure the investigated relationship.",
+      "hint": "Ask whether another observer could record the same evidence."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, a repeat gives a slightly different value. What should students do?",
+    "audio_prompt": "During the drying study, a repeat gives a slightly different value. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-007",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"trial 1\",\"trial 2\",\"compare pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "Compare all results and look for the overall pattern",
+        "is_correct": true
+      },
+      {
+        "text": "Delete the different result",
+        "is_correct": false
+      },
+      {
+        "text": "Choose whichever result they prefer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiple results help judge the pattern and variation.",
+      "hint": "Keep the data and compare rather than hiding it."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "During the drying study, which conclusion is appropriately cautious?",
+    "audio_prompt": "During the drying study, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-008",
+      "alt_text": "During the drying study: claim and evidence display for soil drainage showing [\"in this investigation\",\"measured difference\",\"possible repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "This proves the same outcome everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "In this investigation, the two conditions gave different measured results",
+        "is_correct": true
+      },
+      {
+        "text": "No further evidence could change the explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific conclusions should match the amount and limits of evidence.",
+      "hint": "Use words that keep the conclusion within this investigation."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, the warm water result is 9 minutes and the cool water result is 15 minutes. Which statement is data?",
+    "audio_prompt": "At the soil investigation, the warm water result is 9 minutes and the cool water result is 15 minutes. Which statement is data?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-009",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [[\"warm water\",\"9 minutes\"],[\"cool water\",\"15 minutes\"]]"
+    },
+    "answers": [
+      {
+        "text": "warm water looked best",
+        "is_correct": false
+      },
+      {
+        "text": "I hoped warm water would win",
+        "is_correct": false
+      },
+      {
+        "text": "warm water: 9 minutes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Data are recorded observations or measurements.",
+      "hint": "Choose the statement containing a measured result."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "audio_prompt": "At the soil investigation, which claim is supported by these plant growth,cooling water,cloth drying,soil drainage,ice melting results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-010",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [9,15]"
+    },
+    "answers": [
+      {
+        "text": "cool water had the higher measured result",
+        "is_correct": true
+      },
+      {
+        "text": "The nicest option always works",
+        "is_correct": false
+      },
+      {
+        "text": "The results prove every future test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A supported claim describes the pattern in the collected data.",
+      "hint": "Compare the two numbers, then keep the claim limited to this test."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, which evidence should be used to explain the result?",
+    "audio_prompt": "At the soil investigation, which evidence should be used to explain the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-011",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"warm water: 9 minutes\",\"cool water: 15 minutes\"]"
+    },
+    "answers": [
+      {
+        "text": "A student's favourite condition",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded measurements for both conditions",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of the data sheet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Relevant measurements provide evidence for a scientific explanation.",
+      "hint": "Use information that directly answers the investigation question."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, what does reasoning do in a scientific explanation?",
+    "audio_prompt": "At the soil investigation, what does reasoning do in a scientific explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-012",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"claim\",\"evidence\",\"reasoning\"]"
+    },
+    "answers": [
+      {
+        "text": "It replaces measurements with an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It changes results to fit the claim",
+        "is_correct": false
+      },
+      {
+        "text": "It links the evidence to the claim",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Think of the bridge between what was measured and what is claimed."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, which is the strongest explanation?",
+    "audio_prompt": "At the soil investigation, which is the strongest explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-013",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"claim\",\"measurements\",\"link\"]"
+    },
+    "answers": [
+      {
+        "text": "warm water measured 9 minutes and cool water measured 15 minutes, so the data show a difference",
+        "is_correct": true
+      },
+      {
+        "text": "I like warm water, so it is better",
+        "is_correct": false
+      },
+      {
+        "text": "The first result must always be correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A scientific explanation combines a claim with relevant evidence.",
+      "hint": "Look for both the measured comparison and a careful claim."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, why is \"warm water is nicer\" weak scientific evidence?",
+    "audio_prompt": "At the soil investigation, why is \"warm water is nicer\" weak scientific evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-014",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"opinion\",\"measurement\"]"
+    },
+    "answers": [
+      {
+        "text": "It contains too many numbers",
+        "is_correct": false
+      },
+      {
+        "text": "It is an opinion rather than a relevant measurement",
+        "is_correct": true
+      },
+      {
+        "text": "It was written after the test",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Preferences do not measure the investigated relationship.",
+      "hint": "Ask whether another observer could record the same evidence."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, a repeat gives a slightly different value. What should students do?",
+    "audio_prompt": "At the soil investigation, a repeat gives a slightly different value. What should students do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-015",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"trial 1\",\"trial 2\",\"compare pattern\"]"
+    },
+    "answers": [
+      {
+        "text": "Delete the different result",
+        "is_correct": false
+      },
+      {
+        "text": "Choose whichever result they prefer",
+        "is_correct": false
+      },
+      {
+        "text": "Compare all results and look for the overall pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiple results help judge the pattern and variation.",
+      "hint": "Keep the data and compare rather than hiding it."
+    }
+  },
+  {
+    "id": "AC9S3H01-T-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3H01",
+    "bank": "test",
+    "skill": "Using Data for Scientific Explanations",
+    "question": "At the soil investigation, which conclusion is appropriately cautious?",
+    "audio_prompt": "At the soil investigation, which conclusion is appropriately cautious?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h01.svg#ac9s3h01-t-016",
+      "alt_text": "At the soil investigation: claim and evidence display for ice melting showing [\"in this investigation\",\"measured difference\",\"possible repeat\"]"
+    },
+    "answers": [
+      {
+        "text": "In this investigation, the two conditions gave different measured results",
+        "is_correct": true
+      },
+      {
+        "text": "This proves the same outcome everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "No further evidence could change the explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientific conclusions should match the amount and limits of evidence.",
+      "hint": "Use words that keep the conclusion within this investigation."
+    }
+  }
+]

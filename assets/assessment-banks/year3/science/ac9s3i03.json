@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S3I03-P-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, which tool should measure length?",
+    "audio_prompt": "At the measurement table, which tool should measure length?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-001",
+      "alt_text": "At the measurement table: measurement display showing [\"ruler → length\",\"other tools measure other quantities\"]"
+    },
+    "answers": [
+      {
+        "text": "a colour chart",
+        "is_correct": false
+      },
+      {
+        "text": "ruler",
+        "is_correct": true
+      },
+      {
+        "text": "a drawing pencil",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The instrument must match the quantity being measured.",
+      "hint": "Match the tool's scale with the measurement needed."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, which record is a complete quantitative observation?",
+    "audio_prompt": "At the measurement table, which record is a complete quantitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-002",
+      "alt_text": "At the measurement table: measurement display showing [\"14\",\"cm\",\"14 cm\"]"
+    },
+    "answers": [
+      {
+        "text": "14 with no unit",
+        "is_correct": false
+      },
+      {
+        "text": "smooth",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A quantitative observation includes a number and an appropriate unit.",
+      "hint": "Check for both the value and its unit."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, why should the unit be recorded?",
+    "audio_prompt": "At the measurement table, why should the unit be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-003",
+      "alt_text": "At the measurement table: measurement display showing [\"value\",14,\"unit\",\"cm\"]"
+    },
+    "answers": [
+      {
+        "text": "It tells what the number means and allows comparison",
+        "is_correct": true
+      },
+      {
+        "text": "It makes every result larger",
+        "is_correct": false
+      },
+      {
+        "text": "It changes an observation into an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A number without its unit can be unclear or misleading.",
+      "hint": "Ask whether another person could interpret the value."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, which statement is a qualitative observation?",
+    "audio_prompt": "At the measurement table, which statement is a qualitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-004",
+      "alt_text": "At the measurement table: measurement display showing [\"qualitative: smooth\",\"quantitative: 14 cm\"]"
+    },
+    "answers": [
+      {
+        "text": "The measurement is 14 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The sample looks smooth",
+        "is_correct": true
+      },
+      {
+        "text": "The result equals 14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Qualitative observations describe qualities without a numerical measure.",
+      "hint": "Choose the description rather than the number."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, how should a student read the ruler?",
+    "audio_prompt": "At the measurement table, how should a student read the ruler?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-005",
+      "alt_text": "At the measurement table: measurement display showing [\"ruler\",\"reading: 14 cm\"]"
+    },
+    "answers": [
+      {
+        "text": "Look from far to one side",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the nearest favourite number",
+        "is_correct": false
+      },
+      {
+        "text": "Look straight at the scale and use the marked intervals",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reading a scale at eye level reduces viewing error.",
+      "hint": "Find the marked value from directly in front."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, a result is between two labelled marks. What should the student do?",
+    "audio_prompt": "At the measurement table, a result is between two labelled marks. What should the student do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-006",
+      "alt_text": "At the measurement table: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+    },
+    "answers": [
+      {
+        "text": "Use the smaller scale intervals to find the value",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the scale and guess",
+        "is_correct": false
+      },
+      {
+        "text": "Record both labels as the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scale intervals show the value between labelled marks.",
+      "hint": "Count equal spaces and work out what each represents."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, why should students follow the same measurement procedure each time?",
+    "audio_prompt": "At the measurement table, why should students follow the same measurement procedure each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-007",
+      "alt_text": "At the measurement table: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+    },
+    "answers": [
+      {
+        "text": "So every result becomes identical",
+        "is_correct": false
+      },
+      {
+        "text": "So results can be compared fairly",
+        "is_correct": true
+      },
+      {
+        "text": "So units are no longer needed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A consistent procedure reduces avoidable differences in measurement.",
+      "hint": "Keep tool, position and method consistent."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the measurement table, which digital tool could appropriately record repeated length results?",
+    "audio_prompt": "At the measurement table, which digital tool could appropriately record repeated length results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-008",
+      "alt_text": "At the measurement table: measurement display showing [[\"trial\",\"length\"],[\"1\",\"14 cm\"],[\"2\",\"15 cm\"]]"
+    },
+    "answers": [
+      {
+        "text": "An unrelated game",
+        "is_correct": false
+      },
+      {
+        "text": "A blank picture with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "A data table with labelled units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital tables can organise repeated measurements clearly.",
+      "hint": "Choose a tool that stores values and units."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, which tool should measure temperature?",
+    "audio_prompt": "During the water study, which tool should measure temperature?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-009",
+      "alt_text": "During the water study: measurement display showing [\"thermometer → temperature\",\"other tools measure other quantities\"]"
+    },
+    "answers": [
+      {
+        "text": "thermometer",
+        "is_correct": true
+      },
+      {
+        "text": "a colour chart",
+        "is_correct": false
+      },
+      {
+        "text": "a drawing pencil",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The instrument must match the quantity being measured.",
+      "hint": "Match the tool's scale with the measurement needed."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, which record is a complete quantitative observation?",
+    "audio_prompt": "During the water study, which record is a complete quantitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-010",
+      "alt_text": "During the water study: measurement display showing [\"28\",\"°C\",\"28 °C\"]"
+    },
+    "answers": [
+      {
+        "text": "28 with no unit",
+        "is_correct": false
+      },
+      {
+        "text": "28 °C",
+        "is_correct": true
+      },
+      {
+        "text": "clear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A quantitative observation includes a number and an appropriate unit.",
+      "hint": "Check for both the value and its unit."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, why should the unit be recorded?",
+    "audio_prompt": "During the water study, why should the unit be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-011",
+      "alt_text": "During the water study: measurement display showing [\"value\",28,\"unit\",\"°C\"]"
+    },
+    "answers": [
+      {
+        "text": "It makes every result larger",
+        "is_correct": false
+      },
+      {
+        "text": "It changes an observation into an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It tells what the number means and allows comparison",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A number without its unit can be unclear or misleading.",
+      "hint": "Ask whether another person could interpret the value."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, which statement is a qualitative observation?",
+    "audio_prompt": "During the water study, which statement is a qualitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-012",
+      "alt_text": "During the water study: measurement display showing [\"qualitative: clear\",\"quantitative: 28 °C\"]"
+    },
+    "answers": [
+      {
+        "text": "The sample looks clear",
+        "is_correct": true
+      },
+      {
+        "text": "The measurement is 28 °C",
+        "is_correct": false
+      },
+      {
+        "text": "The result equals 28",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Qualitative observations describe qualities without a numerical measure.",
+      "hint": "Choose the description rather than the number."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, how should a student read the thermometer?",
+    "audio_prompt": "During the water study, how should a student read the thermometer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-013",
+      "alt_text": "During the water study: measurement display showing [\"thermometer\",\"reading: 28 °C\"]"
+    },
+    "answers": [
+      {
+        "text": "Look from far to one side",
+        "is_correct": false
+      },
+      {
+        "text": "Look straight at the scale and use the marked intervals",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the nearest favourite number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reading a scale at eye level reduces viewing error.",
+      "hint": "Find the marked value from directly in front."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, a result is between two labelled marks. What should the student do?",
+    "audio_prompt": "During the water study, a result is between two labelled marks. What should the student do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-014",
+      "alt_text": "During the water study: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+    },
+    "answers": [
+      {
+        "text": "Ignore the scale and guess",
+        "is_correct": false
+      },
+      {
+        "text": "Record both labels as the answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use the smaller scale intervals to find the value",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scale intervals show the value between labelled marks.",
+      "hint": "Count equal spaces and work out what each represents."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, why should students follow the same measurement procedure each time?",
+    "audio_prompt": "During the water study, why should students follow the same measurement procedure each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-015",
+      "alt_text": "During the water study: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+    },
+    "answers": [
+      {
+        "text": "So results can be compared fairly",
+        "is_correct": true
+      },
+      {
+        "text": "So every result becomes identical",
+        "is_correct": false
+      },
+      {
+        "text": "So units are no longer needed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A consistent procedure reduces avoidable differences in measurement.",
+      "hint": "Keep tool, position and method consistent."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the water study, which digital tool could appropriately record repeated temperature results?",
+    "audio_prompt": "During the water study, which digital tool could appropriately record repeated temperature results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-016",
+      "alt_text": "During the water study: measurement display showing [[\"trial\",\"temperature\"],[\"1\",\"28 °C\"],[\"2\",\"29 °C\"]]"
+    },
+    "answers": [
+      {
+        "text": "An unrelated game",
+        "is_correct": false
+      },
+      {
+        "text": "A data table with labelled units",
+        "is_correct": true
+      },
+      {
+        "text": "A blank picture with no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Digital tables can organise repeated measurements clearly.",
+      "hint": "Choose a tool that stores values and units."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, which tool should measure volume?",
+    "audio_prompt": "In the plant investigation, which tool should measure volume?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-017",
+      "alt_text": "In the plant investigation: measurement display showing [\"measuring jug → volume\",\"other tools measure other quantities\"]"
+    },
+    "answers": [
+      {
+        "text": "a colour chart",
+        "is_correct": false
+      },
+      {
+        "text": "a drawing pencil",
+        "is_correct": false
+      },
+      {
+        "text": "measuring jug",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The instrument must match the quantity being measured.",
+      "hint": "Match the tool's scale with the measurement needed."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, which record is a complete quantitative observation?",
+    "audio_prompt": "In the plant investigation, which record is a complete quantitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-018",
+      "alt_text": "In the plant investigation: measurement display showing [\"65\",\"mL\",\"65 mL\"]"
+    },
+    "answers": [
+      {
+        "text": "65 mL",
+        "is_correct": true
+      },
+      {
+        "text": "65 with no unit",
+        "is_correct": false
+      },
+      {
+        "text": "green",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A quantitative observation includes a number and an appropriate unit.",
+      "hint": "Check for both the value and its unit."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, why should the unit be recorded?",
+    "audio_prompt": "In the plant investigation, why should the unit be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-019",
+      "alt_text": "In the plant investigation: measurement display showing [\"value\",65,\"unit\",\"mL\"]"
+    },
+    "answers": [
+      {
+        "text": "It makes every result larger",
+        "is_correct": false
+      },
+      {
+        "text": "It tells what the number means and allows comparison",
+        "is_correct": true
+      },
+      {
+        "text": "It changes an observation into an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A number without its unit can be unclear or misleading.",
+      "hint": "Ask whether another person could interpret the value."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, which statement is a qualitative observation?",
+    "audio_prompt": "In the plant investigation, which statement is a qualitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-020",
+      "alt_text": "In the plant investigation: measurement display showing [\"qualitative: green\",\"quantitative: 65 mL\"]"
+    },
+    "answers": [
+      {
+        "text": "The measurement is 65 mL",
+        "is_correct": false
+      },
+      {
+        "text": "The result equals 65",
+        "is_correct": false
+      },
+      {
+        "text": "The sample looks green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Qualitative observations describe qualities without a numerical measure.",
+      "hint": "Choose the description rather than the number."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, how should a student read the measuring jug?",
+    "audio_prompt": "In the plant investigation, how should a student read the measuring jug?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-021",
+      "alt_text": "In the plant investigation: measurement display showing [\"measuring jug\",\"reading: 65 mL\"]"
+    },
+    "answers": [
+      {
+        "text": "Look straight at the scale and use the marked intervals",
+        "is_correct": true
+      },
+      {
+        "text": "Look from far to one side",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the nearest favourite number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reading a scale at eye level reduces viewing error.",
+      "hint": "Find the marked value from directly in front."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, a result is between two labelled marks. What should the student do?",
+    "audio_prompt": "In the plant investigation, a result is between two labelled marks. What should the student do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-022",
+      "alt_text": "In the plant investigation: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+    },
+    "answers": [
+      {
+        "text": "Ignore the scale and guess",
+        "is_correct": false
+      },
+      {
+        "text": "Use the smaller scale intervals to find the value",
+        "is_correct": true
+      },
+      {
+        "text": "Record both labels as the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scale intervals show the value between labelled marks.",
+      "hint": "Count equal spaces and work out what each represents."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, why should students follow the same measurement procedure each time?",
+    "audio_prompt": "In the plant investigation, why should students follow the same measurement procedure each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-023",
+      "alt_text": "In the plant investigation: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+    },
+    "answers": [
+      {
+        "text": "So every result becomes identical",
+        "is_correct": false
+      },
+      {
+        "text": "So units are no longer needed",
+        "is_correct": false
+      },
+      {
+        "text": "So results can be compared fairly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A consistent procedure reduces avoidable differences in measurement.",
+      "hint": "Keep tool, position and method consistent."
+    }
+  },
+  {
+    "id": "AC9S3I03-P-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "practice",
+    "skill": "Observing and Measuring Accurately",
+    "question": "In the plant investigation, which digital tool could appropriately record repeated volume results?",
+    "audio_prompt": "In the plant investigation, which digital tool could appropriately record repeated volume results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-024",
+      "alt_text": "In the plant investigation: measurement display showing [[\"trial\",\"volume\"],[\"1\",\"65 mL\"],[\"2\",\"66 mL\"]]"
+    },
+    "answers": [
+      {
+        "text": "A data table with labelled units",
+        "is_correct": true
+      },
+      {
+        "text": "An unrelated game",
+        "is_correct": false
+      },
+      {
+        "text": "A blank picture with no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Digital tables can organise repeated measurements clearly.",
+      "hint": "Choose a tool that stores values and units."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, which tool should measure mass?",
+    "audio_prompt": "At the rock station, which tool should measure mass?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-001",
+      "alt_text": "At the rock station: measurement display showing [\"balance → mass\",\"other tools measure other quantities\"]"
+    },
+    "answers": [
+      {
+        "text": "a colour chart",
+        "is_correct": false
+      },
+      {
+        "text": "balance",
+        "is_correct": true
+      },
+      {
+        "text": "a drawing pencil",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The instrument must match the quantity being measured.",
+      "hint": "Match the tool's scale with the measurement needed."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, which record is a complete quantitative observation?",
+    "audio_prompt": "At the rock station, which record is a complete quantitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-002",
+      "alt_text": "At the rock station: measurement display showing [\"120\",\"g\",\"120 g\"]"
+    },
+    "answers": [
+      {
+        "text": "120 with no unit",
+        "is_correct": false
+      },
+      {
+        "text": "rough",
+        "is_correct": false
+      },
+      {
+        "text": "120 g",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A quantitative observation includes a number and an appropriate unit.",
+      "hint": "Check for both the value and its unit."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, why should the unit be recorded?",
+    "audio_prompt": "At the rock station, why should the unit be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-003",
+      "alt_text": "At the rock station: measurement display showing [\"value\",120,\"unit\",\"g\"]"
+    },
+    "answers": [
+      {
+        "text": "It tells what the number means and allows comparison",
+        "is_correct": true
+      },
+      {
+        "text": "It makes every result larger",
+        "is_correct": false
+      },
+      {
+        "text": "It changes an observation into an opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A number without its unit can be unclear or misleading.",
+      "hint": "Ask whether another person could interpret the value."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, which statement is a qualitative observation?",
+    "audio_prompt": "At the rock station, which statement is a qualitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-004",
+      "alt_text": "At the rock station: measurement display showing [\"qualitative: rough\",\"quantitative: 120 g\"]"
+    },
+    "answers": [
+      {
+        "text": "The measurement is 120 g",
+        "is_correct": false
+      },
+      {
+        "text": "The sample looks rough",
+        "is_correct": true
+      },
+      {
+        "text": "The result equals 120",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Qualitative observations describe qualities without a numerical measure.",
+      "hint": "Choose the description rather than the number."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, how should a student read the balance?",
+    "audio_prompt": "At the rock station, how should a student read the balance?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-005",
+      "alt_text": "At the rock station: measurement display showing [\"balance\",\"reading: 120 g\"]"
+    },
+    "answers": [
+      {
+        "text": "Look from far to one side",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the nearest favourite number",
+        "is_correct": false
+      },
+      {
+        "text": "Look straight at the scale and use the marked intervals",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reading a scale at eye level reduces viewing error.",
+      "hint": "Find the marked value from directly in front."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, a result is between two labelled marks. What should the student do?",
+    "audio_prompt": "At the rock station, a result is between two labelled marks. What should the student do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-006",
+      "alt_text": "At the rock station: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+    },
+    "answers": [
+      {
+        "text": "Use the smaller scale intervals to find the value",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the scale and guess",
+        "is_correct": false
+      },
+      {
+        "text": "Record both labels as the answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scale intervals show the value between labelled marks.",
+      "hint": "Count equal spaces and work out what each represents."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, why should students follow the same measurement procedure each time?",
+    "audio_prompt": "At the rock station, why should students follow the same measurement procedure each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-007",
+      "alt_text": "At the rock station: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+    },
+    "answers": [
+      {
+        "text": "So every result becomes identical",
+        "is_correct": false
+      },
+      {
+        "text": "So results can be compared fairly",
+        "is_correct": true
+      },
+      {
+        "text": "So units are no longer needed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A consistent procedure reduces avoidable differences in measurement.",
+      "hint": "Keep tool, position and method consistent."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "At the rock station, which digital tool could appropriately record repeated mass results?",
+    "audio_prompt": "At the rock station, which digital tool could appropriately record repeated mass results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-008",
+      "alt_text": "At the rock station: measurement display showing [[\"trial\",\"mass\"],[\"1\",\"120 g\"],[\"2\",\"121 g\"]]"
+    },
+    "answers": [
+      {
+        "text": "An unrelated game",
+        "is_correct": false
+      },
+      {
+        "text": "A blank picture with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "A data table with labelled units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Digital tables can organise repeated measurements clearly.",
+      "hint": "Choose a tool that stores values and units."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, which tool should measure time?",
+    "audio_prompt": "During the cooling test, which tool should measure time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-009",
+      "alt_text": "During the cooling test: measurement display showing [\"timer → time\",\"other tools measure other quantities\"]"
+    },
+    "answers": [
+      {
+        "text": "timer",
+        "is_correct": true
+      },
+      {
+        "text": "a colour chart",
+        "is_correct": false
+      },
+      {
+        "text": "a drawing pencil",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The instrument must match the quantity being measured.",
+      "hint": "Match the tool's scale with the measurement needed."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, which record is a complete quantitative observation?",
+    "audio_prompt": "During the cooling test, which record is a complete quantitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-010",
+      "alt_text": "During the cooling test: measurement display showing [\"9\",\"min\",\"9 min\"]"
+    },
+    "answers": [
+      {
+        "text": "9 with no unit",
+        "is_correct": false
+      },
+      {
+        "text": "9 min",
+        "is_correct": true
+      },
+      {
+        "text": "cloudy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A quantitative observation includes a number and an appropriate unit.",
+      "hint": "Check for both the value and its unit."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, why should the unit be recorded?",
+    "audio_prompt": "During the cooling test, why should the unit be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-011",
+      "alt_text": "During the cooling test: measurement display showing [\"value\",9,\"unit\",\"min\"]"
+    },
+    "answers": [
+      {
+        "text": "It makes every result larger",
+        "is_correct": false
+      },
+      {
+        "text": "It changes an observation into an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It tells what the number means and allows comparison",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A number without its unit can be unclear or misleading.",
+      "hint": "Ask whether another person could interpret the value."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, which statement is a qualitative observation?",
+    "audio_prompt": "During the cooling test, which statement is a qualitative observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-012",
+      "alt_text": "During the cooling test: measurement display showing [\"qualitative: cloudy\",\"quantitative: 9 min\"]"
+    },
+    "answers": [
+      {
+        "text": "The sample looks cloudy",
+        "is_correct": true
+      },
+      {
+        "text": "The measurement is 9 min",
+        "is_correct": false
+      },
+      {
+        "text": "The result equals 9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Qualitative observations describe qualities without a numerical measure.",
+      "hint": "Choose the description rather than the number."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, how should a student read the timer?",
+    "audio_prompt": "During the cooling test, how should a student read the timer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-013",
+      "alt_text": "During the cooling test: measurement display showing [\"timer\",\"reading: 9 min\"]"
+    },
+    "answers": [
+      {
+        "text": "Look from far to one side",
+        "is_correct": false
+      },
+      {
+        "text": "Look straight at the scale and use the marked intervals",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the nearest favourite number",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reading a scale at eye level reduces viewing error.",
+      "hint": "Find the marked value from directly in front."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, a result is between two labelled marks. What should the student do?",
+    "audio_prompt": "During the cooling test, a result is between two labelled marks. What should the student do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-014",
+      "alt_text": "During the cooling test: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+    },
+    "answers": [
+      {
+        "text": "Ignore the scale and guess",
+        "is_correct": false
+      },
+      {
+        "text": "Record both labels as the answer",
+        "is_correct": false
+      },
+      {
+        "text": "Use the smaller scale intervals to find the value",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scale intervals show the value between labelled marks.",
+      "hint": "Count equal spaces and work out what each represents."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, why should students follow the same measurement procedure each time?",
+    "audio_prompt": "During the cooling test, why should students follow the same measurement procedure each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-015",
+      "alt_text": "During the cooling test: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+    },
+    "answers": [
+      {
+        "text": "So results can be compared fairly",
+        "is_correct": true
+      },
+      {
+        "text": "So every result becomes identical",
+        "is_correct": false
+      },
+      {
+        "text": "So units are no longer needed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A consistent procedure reduces avoidable differences in measurement.",
+      "hint": "Keep tool, position and method consistent."
+    }
+  },
+  {
+    "id": "AC9S3I03-T-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "bank": "test",
+    "skill": "Observing and Measuring Accurately",
+    "question": "During the cooling test, which digital tool could appropriately record repeated time results?",
+    "audio_prompt": "During the cooling test, which digital tool could appropriately record repeated time results?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-016",
+      "alt_text": "During the cooling test: measurement display showing [[\"trial\",\"time\"],[\"1\",\"9 min\"],[\"2\",\"10 min\"]]"
+    },
+    "answers": [
+      {
+        "text": "An unrelated game",
+        "is_correct": false
+      },
+      {
+        "text": "A data table with labelled units",
+        "is_correct": true
+      },
+      {
+        "text": "A blank picture with no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Digital tables can organise repeated measurements clearly.",
+      "hint": "Choose a tool that stores values and units."
+    }
+  }
+]
