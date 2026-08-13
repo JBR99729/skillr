@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ac9m5p01-p-001",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During a class investigation, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a class investigation, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-002",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the school market, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the school market, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-002",
+      "alt_text": "At the school market: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-003",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While planning a garden, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While planning a garden, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-003",
+      "alt_text": "While planning a garden: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-004",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In a robotics challenge, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a robotics challenge, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-004",
+      "alt_text": "In a robotics challenge: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-005",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During sports-day planning, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During sports-day planning, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-005",
+      "alt_text": "During sports-day planning: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-006",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the wildlife centre, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the wildlife centre, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-006",
+      "alt_text": "At the wildlife centre: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-007",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While checking a map, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While checking a map, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-007",
+      "alt_text": "While checking a map: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-008",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In the makerspace, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In the makerspace, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-008",
+      "alt_text": "In the makerspace: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-009",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During a cooking project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a cooking project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-009",
+      "alt_text": "During a cooking project: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-010",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the community fair, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the community fair, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-010",
+      "alt_text": "At the community fair: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-011",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While organising a library display, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While organising a library display, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-011",
+      "alt_text": "While organising a library display: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-012",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In a science notebook, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a science notebook, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-012",
+      "alt_text": "In a science notebook: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-013",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During a design challenge, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a design challenge, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-013",
+      "alt_text": "During a design challenge: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-014",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the school canteen, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the school canteen, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-014",
+      "alt_text": "At the school canteen: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-015",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While comparing travel plans, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While comparing travel plans, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-015",
+      "alt_text": "While comparing travel plans: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-016",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In a data workshop, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a data workshop, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-016",
+      "alt_text": "In a data workshop: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-017",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During a building project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a building project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-017",
+      "alt_text": "During a building project: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-018",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the local pool, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the local pool, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-018",
+      "alt_text": "At the local pool: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-019",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While preparing an excursion, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While preparing an excursion, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-019",
+      "alt_text": "While preparing an excursion: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-020",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In a games club, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a games club, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-020",
+      "alt_text": "In a games club: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-021",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "During an art project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During an art project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-021",
+      "alt_text": "During an art project: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-022",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "At the recycling station, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At the recycling station, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-022",
+      "alt_text": "At the recycling station: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-023",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "list_possible_outcomes",
+    "question": "While planning a class survey, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While planning a class survey, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-023",
+      "alt_text": "While planning a class survey: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-p-024",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "combine_chance_outcomes",
+    "question": "In a coding lesson, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a coding lesson, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-p-024",
+      "alt_text": "In a coding lesson: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-001",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "At a coastal research station, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "At a coastal research station, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-001",
+      "alt_text": "At a coastal research station: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-002",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "During a museum challenge, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "During a museum challenge, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-002",
+      "alt_text": "During a museum challenge: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-003",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "While planning a charity event, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While planning a charity event, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-003",
+      "alt_text": "While planning a charity event: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-004",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "In an engineering workshop, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In an engineering workshop, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-004",
+      "alt_text": "In an engineering workshop: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-005",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "At a regional sports carnival, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "At a regional sports carnival, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-005",
+      "alt_text": "At a regional sports carnival: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-006",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "During a farm survey, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "During a farm survey, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-006",
+      "alt_text": "During a farm survey: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-007",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "While interpreting a trail guide, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While interpreting a trail guide, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-007",
+      "alt_text": "While interpreting a trail guide: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-008",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "In an architecture studio, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In an architecture studio, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-008",
+      "alt_text": "In an architecture studio: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-009",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "During a food-truck project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a food-truck project, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-009",
+      "alt_text": "During a food-truck project: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-010",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "At a music festival, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At a music festival, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-010",
+      "alt_text": "At a music festival: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-011",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "While organising a book drive, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While organising a book drive, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-011",
+      "alt_text": "While organising a book drive: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-012",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "In an environmental study, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In an environmental study, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-012",
+      "alt_text": "In an environmental study: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      },
+      {
+        "text": "10.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-013",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "During a playground redesign, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "During a playground redesign, a spinner has 6 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-013",
+      "alt_text": "During a playground redesign: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "12.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-014",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "At a transport depot, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "At a transport depot, a fair coin and a 3-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-014",
+      "alt_text": "At a transport depot: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "6.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-015",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "list_possible_outcomes",
+    "question": "While preparing a camping trip, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "audio_prompt": "While preparing a camping trip, a spinner has 4 equal sections, each a different colour. How many possible single-spin outcomes are there?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-015",
+      "alt_text": "While preparing a camping trip: a three-step reasoning pathway for list possible outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "3.",
+        "is_correct": false
+      },
+      {
+        "text": "8.",
+        "is_correct": false
+      },
+      {
+        "text": "4.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each differently coloured section is one possible outcome.",
+      "hint": "List each distinct result once."
+    }
+  },
+  {
+    "id": "ac9m5p01-t-016",
+    "curriculum_code": "AC9M5P01",
+    "year_level": "Year 5",
+    "subject": "math",
+    "bank": "test",
+    "skill": "combine_chance_outcomes",
+    "question": "In a strategy tournament, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "audio_prompt": "In a strategy tournament, a fair coin and a 5-colour spinner are used together. How many combined outcomes are possible?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p01.svg#ac9m5p01-t-016",
+      "alt_text": "In a strategy tournament: a three-step reasoning pathway for combine chance outcomes, moving from evidence to a checked decision."
+    },
+    "answers": [
+      {
+        "text": "10.",
+        "is_correct": true
+      },
+      {
+        "text": "5.",
+        "is_correct": false
+      },
+      {
+        "text": "7.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each spinner colour can occur with either coin side.",
+      "hint": "Make an organised list with two coin outcomes for every colour."
+    }
+  }
+]
