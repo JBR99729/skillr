@@ -58,7 +58,7 @@ for (const code of codes) {
 
 const worksheetRenderer = read("quiz/assets/foundation-maths-authored-worksheet.js");
 for (const marker of ["Tier 1: Warm-Up", "Tier 2: Core Practice", "Tier 3: Extension / Challenge", "Answer Key", "Preview answer key", "SkillrHub F–10"]) assert(worksheetRenderer.includes(marker), `Worksheet renderer missing ${marker}`);
-assert(read("worksheets/foundation/Maths/teacher-slides/live.html").includes("foundation-maths-topic-module-v2.js"), "Teacher slide host missing topic overlay");
+assert(read("worksheets/foundation/maths/teacher-slides/live.html").includes("foundation-maths-topic-module-v2.js"), "Teacher slide host missing topic overlay");
 
 console.log(`Foundation Maths topic modules: ${codes.length - new Set(errors.map((e) => e.split(":")[0])).size}/${codes.length} passing`);
 console.log(`Questions: ${codes.reduce((sum, code) => sum + (banks[code]?.questions?.length || 0), 0)} (36 Warm-Up, 48 Core, 24 Challenge)`);
