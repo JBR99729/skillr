@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9M3N05-P-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, what is a sensible estimate for 47 + 103?",
+    "audio_prompt": "With the counter groups, what is a sensible estimate for 47 + 103?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-001",
+      "alt_text": "With the counter groups: The numbers 47 and 103 ready to be rounded."
+    },
+    "answers": [
+      {
+        "text": "450",
+        "is_correct": false
+      },
+      {
+        "text": "150",
+        "is_correct": true
+      },
+      {
+        "text": "56",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to nearby tens, then add.",
+      "hint": "Choose nearby friendly numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, about how many objects are in 6 rows of about 9 objects?",
+    "audio_prompt": "With the counter groups, about how many objects are in 6 rows of about 9 objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-002",
+      "alt_text": "With the counter groups: A collection arranged in 6 nearly equal rows."
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "154",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Estimate with equal groups: 6×9≈54.",
+      "hint": "Multiply the approximate row count by the approximate amount per row."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, which estimate for 47 + 103 is unreasonable?",
+    "audio_prompt": "With the counter groups, which estimate for 47 + 103 is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-003",
+      "alt_text": "With the counter groups: Two addends shown beside three possible estimates."
+    },
+    "answers": [
+      {
+        "text": "650",
+        "is_correct": true
+      },
+      {
+        "text": "150",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "650 is far larger than both addends combined.",
+      "hint": "Compare the estimate with the size of the numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, round 103 to the nearest ten.",
+    "audio_prompt": "With the counter groups, round 103 to the nearest ten.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-004",
+      "alt_text": "With the counter groups: 103 positioned between nearby multiples of ten."
+    },
+    "answers": [
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": true
+      },
+      {
+        "text": "110",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ones digit decides whether the tens digit stays or increases.",
+      "hint": "Locate 103 between two multiples of 10."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, a jar has about 8 groups of 12 beads. Which method is most useful?",
+    "audio_prompt": "With the counter groups, a jar has about 8 groups of 12 beads. Which method is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-005",
+      "alt_text": "With the counter groups: 8 similar bead groups ready to estimate."
+    },
+    "answers": [
+      {
+        "text": "Guess without using the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Count only the first bead",
+        "is_correct": false
+      },
+      {
+        "text": "Estimate one group, then multiply by the groups",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the visible groups gives evidence for the estimate.",
+      "hint": "Use the repeated structure in the collection."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, the exact answer is 150. Is 150 a reasonable estimate?",
+    "audio_prompt": "With the counter groups, the exact answer is 150. Is 150 a reasonable estimate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-006",
+      "alt_text": "With the counter groups: An exact total compared with a nearby rounded estimate."
+    },
+    "answers": [
+      {
+        "text": "Yes, it is close to the exact answer",
+        "is_correct": true
+      },
+      {
+        "text": "No, estimates must equal exactly",
+        "is_correct": false
+      },
+      {
+        "text": "No, estimates must be larger",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful estimate is close enough for the purpose.",
+      "hint": "Find the difference between estimate and exact answer."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, why estimate before calculating 47 + 103?",
+    "audio_prompt": "With the counter groups, why estimate before calculating 47 + 103?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-007",
+      "alt_text": "With the counter groups: A calculation with a check box labelled sensible range."
+    },
+    "answers": [
+      {
+        "text": "To avoid understanding the problem",
+        "is_correct": false
+      },
+      {
+        "text": "To predict a sensible range for the answer",
+        "is_correct": true
+      },
+      {
+        "text": "To make every answer end in zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An estimate helps detect an unreasonable exact calculation.",
+      "hint": "Think of estimation as a reasonableness check."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "With the counter groups, a student estimates 47 + 103 as 20. What is the best response?",
+    "audio_prompt": "With the counter groups, a student estimates 47 + 103 as 20. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-008",
+      "alt_text": "With the counter groups: Two large addends compared with an estimate of 20."
+    },
+    "answers": [
+      {
+        "text": "The estimate is exact",
+        "is_correct": false
+      },
+      {
+        "text": "Any estimate is acceptable",
+        "is_correct": false
+      },
+      {
+        "text": "The estimate is far too small",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
+      "hint": "Use the size of each addend to reject impossible estimates."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, what is a sensible estimate for 98 + 152?",
+    "audio_prompt": "At the biscuit table, what is a sensible estimate for 98 + 152?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-009",
+      "alt_text": "At the biscuit table: The numbers 98 and 152 ready to be rounded."
+    },
+    "answers": [
+      {
+        "text": "250",
+        "is_correct": true
+      },
+      {
+        "text": "550",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to nearby tens, then add.",
+      "hint": "Choose nearby friendly numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, about how many objects are in 7 rows of about 10 objects?",
+    "audio_prompt": "At the biscuit table, about how many objects are in 7 rows of about 10 objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-010",
+      "alt_text": "At the biscuit table: A collection arranged in 7 nearly equal rows."
+    },
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": true
+      },
+      {
+        "text": "170",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Estimate with equal groups: 7×10≈70.",
+      "hint": "Multiply the approximate row count by the approximate amount per row."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, which estimate for 98 + 152 is unreasonable?",
+    "audio_prompt": "At the biscuit table, which estimate for 98 + 152 is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-011",
+      "alt_text": "At the biscuit table: Two addends shown beside three possible estimates."
+    },
+    "answers": [
+      {
+        "text": "250",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "750",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "750 is far larger than both addends combined.",
+      "hint": "Compare the estimate with the size of the numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, round 152 to the nearest ten.",
+    "audio_prompt": "At the biscuit table, round 152 to the nearest ten.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-012",
+      "alt_text": "At the biscuit table: 152 positioned between nearby multiples of ten."
+    },
+    "answers": [
+      {
+        "text": "150",
+        "is_correct": true
+      },
+      {
+        "text": "140",
+        "is_correct": false
+      },
+      {
+        "text": "160",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ones digit decides whether the tens digit stays or increases.",
+      "hint": "Locate 152 between two multiples of 10."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, a jar has about 9 groups of 13 beads. Which method is most useful?",
+    "audio_prompt": "At the biscuit table, a jar has about 9 groups of 13 beads. Which method is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-013",
+      "alt_text": "At the biscuit table: 9 similar bead groups ready to estimate."
+    },
+    "answers": [
+      {
+        "text": "Guess without using the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Estimate one group, then multiply by the groups",
+        "is_correct": true
+      },
+      {
+        "text": "Count only the first bead",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using the visible groups gives evidence for the estimate.",
+      "hint": "Use the repeated structure in the collection."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, the exact answer is 250. Is 250 a reasonable estimate?",
+    "audio_prompt": "At the biscuit table, the exact answer is 250. Is 250 a reasonable estimate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-014",
+      "alt_text": "At the biscuit table: An exact total compared with a nearby rounded estimate."
+    },
+    "answers": [
+      {
+        "text": "No, estimates must equal exactly",
+        "is_correct": false
+      },
+      {
+        "text": "No, estimates must be larger",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, it is close to the exact answer",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful estimate is close enough for the purpose.",
+      "hint": "Find the difference between estimate and exact answer."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, why estimate before calculating 98 + 152?",
+    "audio_prompt": "At the biscuit table, why estimate before calculating 98 + 152?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-015",
+      "alt_text": "At the biscuit table: A calculation with a check box labelled sensible range."
+    },
+    "answers": [
+      {
+        "text": "To predict a sensible range for the answer",
+        "is_correct": true
+      },
+      {
+        "text": "To avoid understanding the problem",
+        "is_correct": false
+      },
+      {
+        "text": "To make every answer end in zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An estimate helps detect an unreasonable exact calculation.",
+      "hint": "Think of estimation as a reasonableness check."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "At the biscuit table, a student estimates 98 + 152 as 20. What is the best response?",
+    "audio_prompt": "At the biscuit table, a student estimates 98 + 152 as 20. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-016",
+      "alt_text": "At the biscuit table: Two large addends compared with an estimate of 20."
+    },
+    "answers": [
+      {
+        "text": "The estimate is exact",
+        "is_correct": false
+      },
+      {
+        "text": "The estimate is far too small",
+        "is_correct": true
+      },
+      {
+        "text": "Any estimate is acceptable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
+      "hint": "Use the size of each addend to reject impossible estimates."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-017",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, what is a sensible estimate for 149 + 201?",
+    "audio_prompt": "In the array game, what is a sensible estimate for 149 + 201?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-017",
+      "alt_text": "In the array game: The numbers 149 and 201 ready to be rounded."
+    },
+    "answers": [
+      {
+        "text": "650",
+        "is_correct": false
+      },
+      {
+        "text": "52",
+        "is_correct": false
+      },
+      {
+        "text": "350",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round to nearby tens, then add.",
+      "hint": "Choose nearby friendly numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-018",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, about how many objects are in 8 rows of about 11 objects?",
+    "audio_prompt": "In the array game, about how many objects are in 8 rows of about 11 objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-018",
+      "alt_text": "In the array game: A collection arranged in 8 nearly equal rows."
+    },
+    "answers": [
+      {
+        "text": "88",
+        "is_correct": true
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "188",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Estimate with equal groups: 8×11≈88.",
+      "hint": "Multiply the approximate row count by the approximate amount per row."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-019",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, which estimate for 149 + 201 is unreasonable?",
+    "audio_prompt": "In the array game, which estimate for 149 + 201 is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-019",
+      "alt_text": "In the array game: Two addends shown beside three possible estimates."
+    },
+    "answers": [
+      {
+        "text": "350",
+        "is_correct": false
+      },
+      {
+        "text": "850",
+        "is_correct": true
+      },
+      {
+        "text": "400",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "850 is far larger than both addends combined.",
+      "hint": "Compare the estimate with the size of the numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-020",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, round 201 to the nearest ten.",
+    "audio_prompt": "In the array game, round 201 to the nearest ten.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-020",
+      "alt_text": "In the array game: 201 positioned between nearby multiples of ten."
+    },
+    "answers": [
+      {
+        "text": "190",
+        "is_correct": false
+      },
+      {
+        "text": "210",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ones digit decides whether the tens digit stays or increases.",
+      "hint": "Locate 201 between two multiples of 10."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-021",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, a jar has about 10 groups of 14 beads. Which method is most useful?",
+    "audio_prompt": "In the array game, a jar has about 10 groups of 14 beads. Which method is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-021",
+      "alt_text": "In the array game: 10 similar bead groups ready to estimate."
+    },
+    "answers": [
+      {
+        "text": "Estimate one group, then multiply by the groups",
+        "is_correct": true
+      },
+      {
+        "text": "Guess without using the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Count only the first bead",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the visible groups gives evidence for the estimate.",
+      "hint": "Use the repeated structure in the collection."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-022",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, the exact answer is 350. Is 350 a reasonable estimate?",
+    "audio_prompt": "In the array game, the exact answer is 350. Is 350 a reasonable estimate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-022",
+      "alt_text": "In the array game: An exact total compared with a nearby rounded estimate."
+    },
+    "answers": [
+      {
+        "text": "No, estimates must equal exactly",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, it is close to the exact answer",
+        "is_correct": true
+      },
+      {
+        "text": "No, estimates must be larger",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful estimate is close enough for the purpose.",
+      "hint": "Find the difference between estimate and exact answer."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-023",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, why estimate before calculating 149 + 201?",
+    "audio_prompt": "In the array game, why estimate before calculating 149 + 201?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-023",
+      "alt_text": "In the array game: A calculation with a check box labelled sensible range."
+    },
+    "answers": [
+      {
+        "text": "To avoid understanding the problem",
+        "is_correct": false
+      },
+      {
+        "text": "To make every answer end in zero",
+        "is_correct": false
+      },
+      {
+        "text": "To predict a sensible range for the answer",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An estimate helps detect an unreasonable exact calculation.",
+      "hint": "Think of estimation as a reasonableness check."
+    }
+  },
+  {
+    "id": "AC9M3N05-P-024",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "practice",
+    "skill": "estimation",
+    "question": "In the array game, a student estimates 149 + 201 as 20. What is the best response?",
+    "audio_prompt": "In the array game, a student estimates 149 + 201 as 20. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-p-024",
+      "alt_text": "In the array game: Two large addends compared with an estimate of 20."
+    },
+    "answers": [
+      {
+        "text": "The estimate is far too small",
+        "is_correct": true
+      },
+      {
+        "text": "The estimate is exact",
+        "is_correct": false
+      },
+      {
+        "text": "Any estimate is acceptable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
+      "hint": "Use the size of each addend to reject impossible estimates."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-001",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, what is a sensible estimate for 200 + 250?",
+    "audio_prompt": "At the sharing station, what is a sensible estimate for 200 + 250?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-001",
+      "alt_text": "At the sharing station: The numbers 200 and 250 ready to be rounded."
+    },
+    "answers": [
+      {
+        "text": "750",
+        "is_correct": false
+      },
+      {
+        "text": "450",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Round to nearby tens, then add.",
+      "hint": "Choose nearby friendly numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-002",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, about how many objects are in 9 rows of about 12 objects?",
+    "audio_prompt": "At the sharing station, about how many objects are in 9 rows of about 12 objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-002",
+      "alt_text": "At the sharing station: A collection arranged in 9 nearly equal rows."
+    },
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "208",
+        "is_correct": false
+      },
+      {
+        "text": "108",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Estimate with equal groups: 9×12≈108.",
+      "hint": "Multiply the approximate row count by the approximate amount per row."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-003",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, which estimate for 200 + 250 is unreasonable?",
+    "audio_prompt": "At the sharing station, which estimate for 200 + 250 is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-003",
+      "alt_text": "At the sharing station: Two addends shown beside three possible estimates."
+    },
+    "answers": [
+      {
+        "text": "950",
+        "is_correct": true
+      },
+      {
+        "text": "450",
+        "is_correct": false
+      },
+      {
+        "text": "500",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "950 is far larger than both addends combined.",
+      "hint": "Compare the estimate with the size of the numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-004",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, round 250 to the nearest ten.",
+    "audio_prompt": "At the sharing station, round 250 to the nearest ten.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-004",
+      "alt_text": "At the sharing station: 250 positioned between nearby multiples of ten."
+    },
+    "answers": [
+      {
+        "text": "240",
+        "is_correct": false
+      },
+      {
+        "text": "250",
+        "is_correct": true
+      },
+      {
+        "text": "260",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ones digit decides whether the tens digit stays or increases.",
+      "hint": "Locate 250 between two multiples of 10."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-005",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, a jar has about 11 groups of 15 beads. Which method is most useful?",
+    "audio_prompt": "At the sharing station, a jar has about 11 groups of 15 beads. Which method is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-005",
+      "alt_text": "At the sharing station: 11 similar bead groups ready to estimate."
+    },
+    "answers": [
+      {
+        "text": "Guess without using the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Count only the first bead",
+        "is_correct": false
+      },
+      {
+        "text": "Estimate one group, then multiply by the groups",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the visible groups gives evidence for the estimate.",
+      "hint": "Use the repeated structure in the collection."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-006",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, the exact answer is 450. Is 450 a reasonable estimate?",
+    "audio_prompt": "At the sharing station, the exact answer is 450. Is 450 a reasonable estimate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-006",
+      "alt_text": "At the sharing station: An exact total compared with a nearby rounded estimate."
+    },
+    "answers": [
+      {
+        "text": "Yes, it is close to the exact answer",
+        "is_correct": true
+      },
+      {
+        "text": "No, estimates must equal exactly",
+        "is_correct": false
+      },
+      {
+        "text": "No, estimates must be larger",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful estimate is close enough for the purpose.",
+      "hint": "Find the difference between estimate and exact answer."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-007",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, why estimate before calculating 200 + 250?",
+    "audio_prompt": "At the sharing station, why estimate before calculating 200 + 250?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-007",
+      "alt_text": "At the sharing station: A calculation with a check box labelled sensible range."
+    },
+    "answers": [
+      {
+        "text": "To avoid understanding the problem",
+        "is_correct": false
+      },
+      {
+        "text": "To predict a sensible range for the answer",
+        "is_correct": true
+      },
+      {
+        "text": "To make every answer end in zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "An estimate helps detect an unreasonable exact calculation.",
+      "hint": "Think of estimation as a reasonableness check."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-008",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "At the sharing station, a student estimates 200 + 250 as 20. What is the best response?",
+    "audio_prompt": "At the sharing station, a student estimates 200 + 250 as 20. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-008",
+      "alt_text": "At the sharing station: Two large addends compared with an estimate of 20."
+    },
+    "answers": [
+      {
+        "text": "The estimate is exact",
+        "is_correct": false
+      },
+      {
+        "text": "Any estimate is acceptable",
+        "is_correct": false
+      },
+      {
+        "text": "The estimate is far too small",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
+      "hint": "Use the size of each addend to reject impossible estimates."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-009",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, what is a sensible estimate for 251 + 299?",
+    "audio_prompt": "With the marble bags, what is a sensible estimate for 251 + 299?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-009",
+      "alt_text": "With the marble bags: The numbers 251 and 299 ready to be rounded."
+    },
+    "answers": [
+      {
+        "text": "550",
+        "is_correct": true
+      },
+      {
+        "text": "850",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Round to nearby tens, then add.",
+      "hint": "Choose nearby friendly numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-010",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, about how many objects are in 10 rows of about 13 objects?",
+    "audio_prompt": "With the marble bags, about how many objects are in 10 rows of about 13 objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-010",
+      "alt_text": "With the marble bags: A collection arranged in 10 nearly equal rows."
+    },
+    "answers": [
+      {
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "130",
+        "is_correct": true
+      },
+      {
+        "text": "230",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Estimate with equal groups: 10×13≈130.",
+      "hint": "Multiply the approximate row count by the approximate amount per row."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-011",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, which estimate for 251 + 299 is unreasonable?",
+    "audio_prompt": "With the marble bags, which estimate for 251 + 299 is unreasonable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-011",
+      "alt_text": "With the marble bags: Two addends shown beside three possible estimates."
+    },
+    "answers": [
+      {
+        "text": "550",
+        "is_correct": false
+      },
+      {
+        "text": "600",
+        "is_correct": false
+      },
+      {
+        "text": "1050",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "1050 is far larger than both addends combined.",
+      "hint": "Compare the estimate with the size of the numbers."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-012",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, round 299 to the nearest ten.",
+    "audio_prompt": "With the marble bags, round 299 to the nearest ten.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-012",
+      "alt_text": "With the marble bags: 299 positioned between nearby multiples of ten."
+    },
+    "answers": [
+      {
+        "text": "300",
+        "is_correct": true
+      },
+      {
+        "text": "290",
+        "is_correct": false
+      },
+      {
+        "text": "310",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ones digit decides whether the tens digit stays or increases.",
+      "hint": "Locate 299 between two multiples of 10."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-013",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, a jar has about 12 groups of 16 beads. Which method is most useful?",
+    "audio_prompt": "With the marble bags, a jar has about 12 groups of 16 beads. Which method is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-013",
+      "alt_text": "With the marble bags: 12 similar bead groups ready to estimate."
+    },
+    "answers": [
+      {
+        "text": "Guess without using the groups",
+        "is_correct": false
+      },
+      {
+        "text": "Estimate one group, then multiply by the groups",
+        "is_correct": true
+      },
+      {
+        "text": "Count only the first bead",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Using the visible groups gives evidence for the estimate.",
+      "hint": "Use the repeated structure in the collection."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-014",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, the exact answer is 550. Is 550 a reasonable estimate?",
+    "audio_prompt": "With the marble bags, the exact answer is 550. Is 550 a reasonable estimate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-014",
+      "alt_text": "With the marble bags: An exact total compared with a nearby rounded estimate."
+    },
+    "answers": [
+      {
+        "text": "No, estimates must equal exactly",
+        "is_correct": false
+      },
+      {
+        "text": "No, estimates must be larger",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, it is close to the exact answer",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful estimate is close enough for the purpose.",
+      "hint": "Find the difference between estimate and exact answer."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-015",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, why estimate before calculating 251 + 299?",
+    "audio_prompt": "With the marble bags, why estimate before calculating 251 + 299?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-015",
+      "alt_text": "With the marble bags: A calculation with a check box labelled sensible range."
+    },
+    "answers": [
+      {
+        "text": "To predict a sensible range for the answer",
+        "is_correct": true
+      },
+      {
+        "text": "To avoid understanding the problem",
+        "is_correct": false
+      },
+      {
+        "text": "To make every answer end in zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An estimate helps detect an unreasonable exact calculation.",
+      "hint": "Think of estimation as a reasonableness check."
+    }
+  },
+  {
+    "id": "AC9M3N05-T-016",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3N05",
+    "bank": "test",
+    "skill": "estimation",
+    "question": "With the marble bags, a student estimates 251 + 299 as 20. What is the best response?",
+    "audio_prompt": "With the marble bags, a student estimates 251 + 299 as 20. What is the best response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3n05.svg#ac9m3n05-t-016",
+      "alt_text": "With the marble bags: Two large addends compared with an estimate of 20."
+    },
+    "answers": [
+      {
+        "text": "The estimate is exact",
+        "is_correct": false
+      },
+      {
+        "text": "The estimate is far too small",
+        "is_correct": true
+      },
+      {
+        "text": "Any estimate is acceptable",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
+      "hint": "Use the size of each addend to reject impossible estimates."
+    }
+  }
+]
