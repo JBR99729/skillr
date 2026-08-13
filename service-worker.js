@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v14";
-const STATIC_CACHE_NAME = "skillrhub-static-v12";
+const CACHE_NAME = "skillrhub-pwa-v15";
+const STATIC_CACHE_NAME = "skillrhub-static-v13";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -8,6 +8,8 @@ const OFFLINE_FILES = [
   "/icons/icon-512.png",
   "/icons/icon-maskable-512.png",
   "/icons/apple-touch-icon.png"
+  ,"/icons/skillrhub-mark.svg"
+  ,"/icons/skillr-symbols.svg"
 ];
 
 self.addEventListener("install", (event) => {

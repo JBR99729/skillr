@@ -20,7 +20,8 @@
   <link rel="canonical" href="https://skillrhub.com/">
 
   <!-- PWA -->
-  <link rel="manifest" href="/manifest.webmanifest?v=2">
+  <link rel="manifest" href="/manifest.webmanifest?v=3">
+  <link rel="icon" href="/icons/skillrhub-mark.svg" type="image/svg+xml">
   <meta name="theme-color" content="#2457d6">
   <meta name="application-name" content="Skillr Education">
   <meta name="apple-mobile-web-app-title" content="Skillr Education">
@@ -79,7 +80,7 @@
 
 
   <!-- Site stylesheet -->
-  <link rel="stylesheet" href="/style.css?v=20260813-3">
+  <link rel="stylesheet" href="/style.css?v=20260813-5">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -99,7 +100,8 @@
   <header class="site-header">
     <nav class="site-header__nav" aria-label="Main navigation">
       <a class="site-header__brand" href="/" aria-label="SkillrHub F–10 home">
-        SkillrHub <span>F–10</span>
+        <img src="/icons/skillrhub-mark.svg" alt="" width="38" height="38">
+        <strong>SkillrHub</strong> <span>F–10</span>
       </a>
 
       <div class="site-header__links">
@@ -143,7 +145,7 @@
           </div>
 
           <a class="home-privacy-note" href="/privacy-policy.html">
-            <span aria-hidden="true">🔒</span>
+            <svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#lock"></use></svg>
             <span><strong>Student privacy by design</strong> • No account required • Progress saved locally on this device</span>
           </a>
 
@@ -182,7 +184,7 @@
 
           <section class="daily-drill-hero" aria-labelledby="daily-drill-title">
             <div class="daily-drill-hero__copy">
-              <span class="daily-drill-hero__icon" aria-hidden="true">⚡</span>
+              <span class="daily-drill-hero__icon" aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#bolt"></use></svg></span>
               <div>
                 <h2 id="daily-drill-title">Daily Drill: sharpen skills in minutes</h2>
                 <p>Short retrieval practice for today, with progress and streaks saved only on this device.</p>
@@ -222,6 +224,26 @@
             <span class="home-subject-card__mark" aria-hidden="true">E</span>
             <span><strong>English</strong><small>Reading, writing, language and communication</small></span>
           </a>
+          <div class="home-hero-actions">
+            <button
+              class="home-hero-action-card home-hero-action-card--share"
+              type="button"
+              data-skillr-share
+              data-share-title="SkillrHub — Free F–10 Learning Resources"
+              data-share-text="Explore 50,000+ curriculum-aligned questions, Daily Drills and printable worksheets on SkillrHub — no learner login required."
+            >
+              <svg class="skillr-ui-icon" aria-hidden="true"><path d="M8.7 12.8 15.3 9M8.7 11.2l6.6 3.8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="18" cy="7" r="3" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="18" cy="17" r="3" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+              <span><strong>Share</strong><small>Spread the word</small></span>
+            </button>
+            <a class="home-hero-action-card home-hero-action-card--contact" href="/contact.html">
+              <svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#mail"></use></svg>
+              <span><strong>Contact us</strong><small>Feedback or corrections</small></span>
+            </a>
+            <button class="home-hero-action-card home-hero-action-card--timer" type="button" data-skillr-home-timer>
+              <svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#timer"></use></svg>
+              <span><strong>Break timer</strong><small id="home-timer-status">Set a 15–60 minute reminder</small></span>
+            </button>
+          </div>
         </div>
       </section>
 
@@ -231,7 +253,7 @@
       aria-label="Foundation to Year 10 learning resources"
     >
       <a class="learning-pathway__dashboard" href="/dashboard/" aria-label="Open Dashboard to track learning progress">
-        <span class="learning-pathway__dashboard-icon" aria-hidden="true">📊</span>
+        <span class="learning-pathway__dashboard-icon" aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#chart"></use></svg></span>
         <span>
           <strong>Track your progress</strong>
           <small>View questions completed, accuracy, test scores and topics needing review</small>
@@ -247,15 +269,15 @@
         </div>
         <ol class="learning-pathway__phases">
           <li class="learning-phase learning-phase--teach">
-            <div class="learning-phase__title"><span aria-hidden="true">📘</span><span><small>1</small><strong>Teach</strong></span></div>
+            <div class="learning-phase__title"><span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#book"></use></svg></span><span><small>1</small><strong>Teach</strong></span></div>
             <ul><li>Explore Topic Guides</li><li>Project Teacher Slides</li><li>Print Offline Worksheets</li></ul>
           </li>
           <li class="learning-phase learning-phase--practise">
-            <div class="learning-phase__title"><span aria-hidden="true">⚡</span><span><small>2</small><strong>Practise</strong></span></div>
+            <div class="learning-phase__title"><span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#bolt"></use></svg></span><span><small>2</small><strong>Practise</strong></span></div>
             <ul><li>Complete Daily Drills</li><li>Answer Interactive Questions</li><li>Get Instant Feedback</li></ul>
           </li>
           <li class="learning-phase learning-phase--assess">
-            <div class="learning-phase__title"><span aria-hidden="true">🎯</span><span><small>3</small><strong>Assess</strong></span></div>
+            <div class="learning-phase__title"><span aria-hidden="true"><svg class="skillr-ui-icon"><use href="/icons/skillr-symbols.svg#target"></use></svg></span><span><small>3</small><strong>Assess</strong></span></div>
             <ul><li>Take Topic Tests</li><li>Review Misconceptions</li><li>Use Targeted Retakes</li></ul>
           </li>
         </ol>
@@ -622,7 +644,7 @@
   </script>
 
   <!-- PWA -->
-  <script src="/pwa-register.js?v=3"></script>
+  <script src="/pwa-register.js?v=5"></script>
   <script src="/share-button.js"></script>
   <script src="/assets/home-search.js?v=2" defer></script>
 

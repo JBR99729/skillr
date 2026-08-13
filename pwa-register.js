@@ -239,6 +239,12 @@
         }
         return link;
       }));
+      const brand = document.createElement("a");
+      brand.className = "skillr-nav-brand";
+      brand.href = "/";
+      brand.setAttribute("aria-label", "SkillrHub home");
+      brand.innerHTML = '<img src="/icons/skillrhub-mark.svg" alt="" width="30" height="30"><span>SkillrHub</span>';
+      mainNav.prepend(brand);
     }
 
     const footer = document.querySelector("footer");
@@ -377,6 +383,7 @@
 
   function checkTimer() {
     const timer = readTimer();
+    updateHomeTimerStatus(timer);
     if (!timer.running || !timer.nextAt || Date.now() < timer.nextAt) return;
     playTimerChime();
     showTimerReminder(timer.minutes);
@@ -384,10 +391,24 @@
     writeTimer(timer);
   }
 
+  function updateHomeTimerStatus(timer = readTimer()) {
+    const status = document.getElementById("home-timer-status");
+    if (!status) return;
+    if (!timer.running || !timer.nextAt) {
+      status.textContent = "Set a 15–60 minute reminder";
+      return;
+    }
+    const remaining = Math.max(0, timer.nextAt - Date.now());
+    const minutes = Math.floor(remaining / 60000);
+    const seconds = Math.floor((remaining % 60000) / 1000);
+    status.textContent = `${minutes}:${String(seconds).padStart(2, "0")} remaining`;
+  }
+
   function updateTimerLabels() {
     const timer = readTimer();
     document.querySelectorAll("[data-skillr-timer]").forEach((button) => {
-      button.innerHTML = timer.running ? `⏰ <span>${timer.minutes}m active</span>` : "⏰ <span>Break timer</span>";
+      const label = timer.running ? `${timer.minutes}m active` : "Break timer";
+      button.innerHTML = `<svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#timer"></use></svg><span>${label}</span>`;
       button.setAttribute("aria-label", timer.running ? `Break timer active every ${timer.minutes} minutes` : "Open break timer");
     });
   }
@@ -432,7 +453,7 @@
     button.type = "button";
     button.className = "skillr-utility-button";
     button.dataset[`skillr${kind[0].toUpperCase()}${kind.slice(1)}`] = "true";
-    button.innerHTML = `${icon} <span>${label}</span>`;
+    button.innerHTML = `<svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#${icon}"></use></svg><span>${label}</span>`;
     if (kind === "install") button.addEventListener("click", () => handleInstall(button));
     if (kind === "timer") button.addEventListener("click", () => showTimerPanel(button));
     return button;
@@ -446,18 +467,24 @@
     if (headerHost && !headerHost.querySelector(".skillr-header-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-header-tools";
-      if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "📲"));
-      tools.append(makeUtilityButton("timer", "Timer", "⏰"));
+      if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "install"));
+      tools.append(makeUtilityButton("timer", "Timer", "timer"));
       headerHost.appendChild(tools);
     }
     const footer = document.querySelector("footer");
     if (footer && !footer.querySelector(".skillr-footer-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-footer-tools";
-      tools.append(makeUtilityButton("install", "Install app", "📲"), makeUtilityButton("timer", "Break timer", "⏰"));
+      tools.append(makeUtilityButton("install", "Install app", "install"), makeUtilityButton("timer", "Break timer", "timer"));
       footer.appendChild(tools);
     }
+    document.querySelectorAll("[data-skillr-home-timer]").forEach((button) => {
+      if (button.dataset.skillrTimerReady === "true") return;
+      button.dataset.skillrTimerReady = "true";
+      button.addEventListener("click", () => showTimerPanel(button));
+    });
     updateTimerLabels();
+    updateHomeTimerStatus();
     window.clearInterval(timerCheckId);
     timerCheckId = window.setInterval(checkTimer, 1000);
     window.addEventListener("focus", checkTimer);
@@ -559,7 +586,7 @@
     const trigger = document.createElement("button");
     trigger.type = "button";
     trigger.className = "skillr-qr-trigger";
-    trigger.innerHTML = '<span aria-hidden="true">▦</span> QR card';
+    trigger.innerHTML = '<svg class="skillr-ui-icon" aria-hidden="true"><use href="/icons/skillr-symbols.svg#qr"></use></svg> QR card';
     trigger.addEventListener("click", () => showQrCard(trigger));
     const host = document.querySelector(".quiz-breadcrumb, .worksheet-nav, .quiz-header");
     host?.prepend(trigger);
