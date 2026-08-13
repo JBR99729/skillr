@@ -7,13 +7,14 @@
       year,subject:"science",skill,set,difficulty:LEVELS[pos],type,question,...extra
     };
     item.audioPrompt=item.audioPrompt||question;
+    const early=year==="F"||Number(year)<=2;
     item.hint=item.hint||({
-      single:"Use the science idea in the question, then compare every choice.",
-      "true-false":"Check whether every part of the statement agrees with the evidence.",
-      text:"Use the precise science term from the topic.",
-      "fill-blank":"Read the completed statement and check that its meaning is accurate.",
-      multiple:"Check each statement separately because two are correct."
-    }[type]||"Use the evidence and scientific ideas in the question.");
+      single:early?"Look for what could be observed or tested.":"Compare each choice with the evidence or model in the question.",
+      "true-false":early?"Check the whole sentence against what you know or can observe.":"Test every part of the claim against the scientific evidence.",
+      text:early?"Use the science word that names this idea.":"Use the precise science term from this topic.",
+      "fill-blank":early?"Read the completed sentence and check that it makes sense.":"Read the completed claim and check that it is scientifically accurate.",
+      multiple:early?"Check each sentence because two match the science idea.":"Evaluate each claim separately because two are supported."
+    }[type]||(early?"Use what you can observe and what you know.":"Use the evidence and scientific ideas in the question."));
     if(type==="single"&&Array.isArray(item.answers)&&item.answers.length===3&&Number.isInteger(item.correct)){
       const target=(set*8+pos)%3;
       const shift=(item.correct-target+3)%3;
@@ -23,36 +24,104 @@
     return item;
   };
   const contexts=[
-    "During a class discussion","While reviewing the topic","In a science notebook","During a practical lesson",
-    "When checking a model","In a short investigation","While interpreting evidence","During revision",
-    "When explaining the idea","In a classroom example","While comparing observations","When checking a claim",
-    "During a group discussion","When reading a result","In a science quiz","When making a conclusion",
-    "While using scientific vocabulary","When evaluating an explanation","During a demonstration","When analysing a pattern",
-    "While checking understanding","When discussing evidence","During independent practice","When explaining to a classmate",
-    "While preparing for a test"
+    "A class records observations from a demonstration","A student labels a diagram for a classroom display",
+    "A group compares two possible explanations","A student checks a prediction against a result",
+    "A class evaluates a model","A group plans a short investigation","A student interprets a table of evidence",
+    "A class compares what changed and what stayed the same","A student explains an observation to a partner",
+    "A group sorts evidence into useful and irrelevant notes","A student compares two recorded observations",
+    "A class checks whether a claim is supported","A group prepares a science poster","A student reads an unexpected result",
+    "A class checks the accuracy of a museum label","A group writes a conclusion from its observations",
+    "A student chooses precise words for a report","A class evaluates an explanation against evidence",
+    "A group watches a teacher demonstration","A student analyses a repeated pattern in results",
+    "A class checks whether a test was fair","A group discusses which evidence is strongest",
+    "A student revises an inaccurate notebook entry","A class explains a model to younger students",
+    "A group checks a claim before presenting it"
+  ];
+  const earlyContexts=[
+    "A class watches a demonstration","A student labels a picture","A group talks about what it noticed",
+    "A student checks a prediction","A class looks closely at a model","A group tries a simple test",
+    "A student reads a results chart","A class compares before and after","A student explains an observation",
+    "A group sorts its observation cards","A student compares two objects","A class checks an idea",
+    "A group makes a science poster","A student notices a surprising result","A class fixes a display label",
+    "A group writes what it found","A student chooses the clearest science word","A class checks an explanation",
+    "A group watches what happens","A student looks for a pattern","A class checks that a test is fair",
+    "A group chooses its best observation","A student fixes a notebook sentence","A class explains a model",
+    "A group checks its answer"
   ];
   const support=(year,skill)=>window.SkillrScienceQuickRead?.[year]?.[skill];
 
-  function neg(fact){
-    if(fact.startsWith("A ")) return "It is not correct that " + fact.charAt(0).toLowerCase()+fact.slice(1);
-    return "It is not correct that " + fact.charAt(0).toLowerCase()+fact.slice(1);
+  function misconception(fact,variant=0){
+    const swaps=[
+      [/\bincrease(s|d)?\b/i,"decrease$1"],[/\bdecrease(s|d)?\b/i,"increase$1"],
+      [/\bfaster\b/i,"slower"],[/\bslower\b/i,"faster"],[/\bmore\b/i,"less"],[/\bless\b/i,"more"],
+      [/\bwarmer\b/i,"cooler"],[/\bcooler\b/i,"warmer"],[/\babsorbs?\b/i,"reflects"],[/\breflects?\b/i,"absorbs"],
+      [/\bbalanced\b/i,"unbalanced"],[/\bunbalanced\b/i,"balanced"],
+      [/\bphysical\b/i,"chemical"],[/\bchemical\b/i,"physical"],
+      [/\bsame\b/i,"different"],[/\bdifferent\b/i,"the same"],[/\bsolid\b/i,"gas"],[/\bgas\b/i,"solid"],
+      [/\battract(s|ed)?\b/i,"repel$1"],[/\brepel(s|led)?\b/i,"attract$1"]
+    ];
+    for(let i=0;i<swaps.length;i+=1){
+      const [pattern,replacement]=swaps[(i+variant)%swaps.length];
+      if(pattern.test(fact)) return fact.replace(pattern,replacement);
+    }
+    const grammaticalNegations=[
+      [/\bcannot\b/i,"can"],[/\bcan\b/i,"cannot"],[/\bshould\b/i,"should not"],[/\bmust\b/i,"must not"],
+      [/\bare\b/i,"are not"],[/\bis\b/i,"is not"],[/\bwere\b/i,"were not"],[/\bwas\b/i,"was not"],
+      [/\bhas\b/i,"does not have"],[/\bhave\b/i,"do not have"],
+      [/\bhelps\b/i,"does not help"],[/\bhelp\b/i,"do not help"],
+      [/\bneeds\b/i,"does not need"],[/\bneed\b/i,"do not need"],
+      [/\bshows\b/i,"does not show"],[/\bshow\b/i,"do not show"],
+      [/\bsupports\b/i,"does not support"],[/\bsupport\b/i,"do not support"],
+      [/\bproduces\b/i,"does not produce"],[/\bproduce\b/i,"do not produce"],
+      [/\bchanges\b/i,"does not change"],[/\bchange\b/i,"do not change"],
+      [/\baffects\b/i,"does not affect"],[/\baffect\b/i,"do not affect"],
+      [/\bdepends\b/i,"does not depend"],[/\bdepend\b/i,"do not depend"],
+      [/\buses\b/i,"does not use"],[/\buse\b/i,"do not use"],
+      [/\brequires\b/i,"does not require"],[/\brequire\b/i,"do not require"],
+      [/\bcontains\b/i,"does not contain"],[/\bcontain\b/i,"do not contain"],
+      [/\bcombines\b/i,"does not combine"],[/\bcombine\b/i,"do not combine"],
+      [/\bopposes\b/i,"moves in the same direction as"],[/\bcauses\b/i,"cannot cause"],
+      [/\btests\b/i,"does not test"],[/\bexplains\b/i,"does not explain"],
+      [/\bguides\b/i,"does not guide"],[/\banswers\b/i,"does not answer"]
+    ];
+    for(const [pattern,replacement] of grammaticalNegations){
+      if(pattern.test(fact)) return fact.replace(pattern,replacement);
+    }
+    return `Scientists accept “${fact}” without needing observations or tests.`;
+  }
+
+  function wrongClaim(fact,used,variant){
+    let candidate=misconception(fact,variant);
+    if(used.has(candidate)) candidate=`Observations cannot be used to evaluate the claim “${fact}”`;
+    if(used.has(candidate)) candidate=`The claim “${fact}” is only a guess and cannot be investigated.`;
+    used.add(candidate);
+    return candidate;
   }
 
   function setQuestions(year,skill,set,s){
     const facts=s.facts,kv=s.keywords,nf=facts.length,nk=kv.length;
-    const f=i=>facts[(2*set+i)%nf], k=i=>kv[(2*set+i)%nk], ctx=contexts[set%contexts.length];
+    const early=year==="F"||Number(year)<=2;
+    const f=i=>facts[(2*set+i)%nf], k=i=>kv[(2*set+i)%nk], ctx=(early?earlyContexts:contexts)[set%contexts.length];
     const k0=k(0),k1=k(1),k2=k(2),k3=k(3),k4=k(4);
     const f0=f(0),f1=f(1),f2=f(2),f3=f(3),f4=f(4);
-    const falseText=neg(f2);
+    const falseText=misconception(f2,set);
+    const q1Used=new Set([f1]);
+    const q1WrongA=wrongClaim(f3,q1Used,set+1),q1WrongB=wrongClaim(f4,q1Used,set+2);
+    const q5Used=new Set([f0]);
+    const q5WrongA=wrongClaim(f1,q5Used,set+3),q5WrongB=wrongClaim(f2,q5Used,set+4);
+    const q6Used=new Set([f3,f4]);
+    const q6WrongA=wrongClaim(f0,q6Used,set+5),q6WrongB=wrongClaim(f2,q6Used,set+6);
+    const q7Used=new Set([f4]);
+    const q7WrongA=wrongClaim(f4,q7Used,set+7),q7WrongB=wrongClaim(f3,q7Used,set+8);
     return [
-      Q(year,skill,set,0,"single",`${ctx}, which term means "${k0[1]}"?`,{answers:[k0[0],k1[0],k2[0]],correct:0,explanation:`${k0[0]} means ${k0[1]}.`}),
-      Q(year,skill,set,1,"single",`${ctx}, which scientific statement is correct?`,{answers:[f1,neg(f3),neg(f4)],correct:0,explanation:f1}),
-      Q(year,skill,set,2,"true-false",set%2===0?f2:falseText,{answers:["True","False"],correct:set%2===0?0:1,explanation:set%2===0?f2:`The accurate statement is: ${f2}`}),
-      Q(year,skill,set,3,"text",`${ctx}, type the science term for: ${k3[1]}.`,{correct:k3[0],acceptedAnswers:[k3[0]],explanation:`The term is ${k3[0]}.`}),
-      Q(year,skill,set,4,"fill-blank","Complete the science vocabulary statement.",{template:`{{blank}} means ${k4[1]}.`,acceptedAnswers:[k4[0]],explanation:`The missing term is ${k4[0]}.`}),
-      Q(year,skill,set,5,"single",`${ctx}, which statement is best supported by the Quick Read?`,{answers:[f0,neg(f1),neg(f2)],correct:0,explanation:f0}),
-      Q(year,skill,set,6,"multiple","Select the two scientifically correct statements.",{answers:[f3,neg(f0),f4,neg(f2)],correct:[0,2],explanation:`Correct: ${f3} ${f4}`}),
-      Q(year,skill,set,7,"single",`A student rejects this accurate idea: "${f4}" Which response best corrects the student?`,{answers:[f4,neg(f4),`The idea cannot be evaluated using science vocabulary.`],correct:0,explanation:f4})
+      Q(year,skill,set,0,"single",`${ctx}. ${early?"Which science word means":"Which label precisely means"} “${k0[1]}”?`,{answers:[k0[0],k1[0],k2[0]],correct:0,explanation:`${k0[0]} is the precise term because it means ${k0[1]}.`}),
+      Q(year,skill,set,1,"single",`${ctx}. ${early?"Which sentence matches the science idea?":"Which claim should be kept because it is scientifically accurate?"}`,{answers:[f1,q1WrongA,q1WrongB],correct:0,explanation:`Keep this claim: ${f1}`}),
+      Q(year,skill,set,2,"true-false",`${ctx}. The notebook says: “${set%2===0?f2:falseText}” ${early?"Is the sentence right?":"Is that claim accurate?"}`,{answers:["True","False"],correct:set%2===0?0:1,explanation:set%2===0?`Yes. ${f2}`:`No. The accurate idea is: ${f2}`}),
+      Q(year,skill,set,3,"text",`${ctx}. What science term names “${k3[1]}”?`,{correct:k3[0],acceptedAnswers:[k3[0]],explanation:`The precise term is ${k3[0]}.`}),
+      Q(year,skill,set,4,"fill-blank",`${ctx}. ${early?"Finish the science label":"Complete the scientific label"} for “${k4[1]}”.`,{template:`{{blank}} means ${k4[1]}.`,acceptedAnswers:[k4[0]],explanation:`The missing term is ${k4[0]}.`}),
+      Q(year,skill,set,5,"single",`${ctx}. ${early?"Which explanation matches what the class learned?":"Which explanation is supported by the topic evidence?"}`,{answers:[f0,q5WrongA,q5WrongB],correct:0,explanation:`The evidence supports this explanation: ${f0}`}),
+      Q(year,skill,set,6,"multiple",`${ctx}. ${early?"Which two sentences match what the class learned?":"Which two claims should be included in the final explanation?"}`,{answers:[f3,q6WrongA,f4,q6WrongB],correct:[0,2],explanation:`The supported claims are: ${f3} ${f4}`}),
+      Q(year,skill,set,7,"single",`${ctx}. ${early?`A student says “${f4}” is wrong. Which answer corrects the student?`:`A student challenges the claim “${f4}” Which response uses the science idea accurately?`}`,{answers:[f4,q7WrongA,q7WrongB],correct:0,explanation:`The accurate response is: ${f4}`})
     ];
   }
 

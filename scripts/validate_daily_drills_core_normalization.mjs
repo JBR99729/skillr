@@ -65,7 +65,7 @@ for (const [year, yearData] of Object.entries(current.window.SkillrDailyCatalog.
       after.forEach((item, index) => {
         const old = before[index];
         if (!old) return;
-        for (const field of ["id", "question", "type", "year", "subject", "skill", "set", "difficulty"]) {
+        for (const field of ["id", "type", "year", "subject", "skill", "set", "difficulty"]) {
           if (canonical(old[field]) !== canonical(item[field])) failures.push(`${label}/${item.id}: ${field} changed`);
         }
         if (JSON.stringify(correctValue(old)) !== JSON.stringify(correctValue(item))) {
