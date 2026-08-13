@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY01-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "whale_story_and_report_apply",
+    "question": "A story and a report are both about whales. The story follows a calf on a journey. The report groups facts under headings. What is a clear difference?",
+    "audio_prompt": "A story and a report are both about whales. The story follows a calf on a journey. The report groups facts under headings. What is a clear difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-001",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Whale story and report. Notice: Identify shared topic. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The story presents events, while the report organises facts.",
+        "is_correct": true
+      },
+      {
+        "text": "The story organises facts, while the report follows journey events.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts present whale information in the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts share the whale topic, but they present it through events and grouped facts.",
+      "hint": "Compare how each text organises its information."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "whale_story_and_report_reason",
+    "question": "A student answers “The story organises facts, while the report follows journey events.”. Which feedback helps? Task: A story and a report are both about whales. The story follows a calf on a journey. The report groups facts under headings. What is a clear difference?",
+    "audio_prompt": "A student answers “The story organises facts, while the report follows journey events.”. Which feedback helps? Task: A story and a report are both about whales. The story follows a calf on a journey. The report groups facts under headings. What is a clear difference?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-002",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Whale story and report. Notice: Identify shared topic. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The story organises facts, while the report follows journey events.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare how each text organises its information.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Both texts present whale information in the same way.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare how each text organises its information. Both texts share the whale topic, but they present it through events and grouped facts.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "bushfire_texts_apply",
+    "question": "Text A is a news report about a bushfire. Text B is a safety poster about bushfires. What does Text B do differently?",
+    "audio_prompt": "Text A is a news report about a bushfire. Text B is a safety poster about bushfires. What does Text B do differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-003",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Bushfire texts. Notice: Identify text types. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It tells the bushfire events in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "It explains the fire in several detailed paragraphs.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives short actions people should take.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A safety poster uses brief directions to help people act safely.",
+      "hint": "Think about what a safety poster asks its reader to do."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "bushfire_texts_reason",
+    "question": "A student answers “It explains the fire in several detailed paragraphs.”. Which feedback helps? Task: Text A is a news report about a bushfire. Text B is a safety poster about bushfires. What does Text B do differently?",
+    "audio_prompt": "A student answers “It explains the fire in several detailed paragraphs.”. Which feedback helps? Task: Text A is a news report about a bushfire. Text B is a safety poster about bushfires. What does Text B do differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-004",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Bushfire texts. Notice: Identify text types. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Think about what a safety poster asks its reader to do.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “It explains the fire in several detailed paragraphs.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “It tells the bushfire events in time order.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Think about what a safety poster asks its reader to do. A safety poster uses brief directions to help people act safely.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "weather_chart_and_diary_apply",
+    "question": "A weather chart shows temperatures for five days. A diary tells how one rainy day felt. Which information appears only in the chart?",
+    "audio_prompt": "A weather chart shows temperatures for five days. A diary tells how one rainy day felt. Which information appears only in the chart?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-005",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Weather chart and diary. Notice: Find shared information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the writer's feelings about the rain",
+        "is_correct": false
+      },
+      {
+        "text": "the temperature recorded each day",
+        "is_correct": true
+      },
+      {
+        "text": "a personal event from one afternoon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The chart records daily temperatures, while the diary shares a personal experience.",
+      "hint": "Look for information that can be read from rows or columns."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "weather_chart_and_diary_reason",
+    "question": "A student answers “the writer's feelings about the rain”. Which feedback helps? Task: A weather chart shows temperatures for five days. A diary tells how one rainy day felt. Which information appears only in the chart?",
+    "audio_prompt": "A student answers “the writer's feelings about the rain”. Which feedback helps? Task: A weather chart shows temperatures for five days. A diary tells how one rainy day felt. Which information appears only in the chart?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-006",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Weather chart and diary. Notice: Find shared information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the writer's feelings about the rain”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a personal event from one afternoon” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for information that can be read from rows or columns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for information that can be read from rows or columns. The chart records daily temperatures, while the diary shares a personal experience.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "recycling_infographic_and_letter_apply",
+    "question": "Both texts are about recycling. One uses labelled pictures and numbers. The other asks the principal for more bins. Which text is the letter?",
+    "audio_prompt": "Both texts are about recycling. One uses labelled pictures and numbers. The other asks the principal for more bins. Which text is the letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-007",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Recycling infographic and letter. Notice: Find differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the text that asks the principal to provide bins",
+        "is_correct": true
+      },
+      {
+        "text": "the text that displays numbers in a diagram",
+        "is_correct": false
+      },
+      {
+        "text": "the text that labels parts of a recycling truck",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A letter can directly ask a particular reader to take action.",
+      "hint": "Find the text written to one person with a request."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "recycling_infographic_and_letter_reason",
+    "question": "A student answers “the text that labels parts of a recycling truck”. Which feedback helps? Task: Both texts are about recycling. One uses labelled pictures and numbers. The other asks the principal for more bins. Which text is the letter?",
+    "audio_prompt": "A student answers “the text that labels parts of a recycling truck”. Which feedback helps? Task: Both texts are about recycling. One uses labelled pictures and numbers. The other asks the principal for more bins. Which text is the letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-008",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Recycling infographic and letter. Notice: Find differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the text that labels parts of a recycling truck”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the text written to one person with a request.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the text that displays numbers in a diagram” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the text written to one person with a request. A letter can directly ask a particular reader to take action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "shared_frog_information_apply",
+    "question": "A frog life-cycle diagram and a frog report both show that tadpoles grow into frogs. Where should this idea go in a comparison chart?",
+    "audio_prompt": "A frog life-cycle diagram and a frog report both show that tadpoles grow into frogs. Where should this idea go in a comparison chart?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-009",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Shared frog information. Notice: Explain presentation choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "in the diagram-only section",
+        "is_correct": false
+      },
+      {
+        "text": "in the report-only section",
+        "is_correct": false
+      },
+      {
+        "text": "in the section for information in both texts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The tadpole-to-frog idea is shared information because it appears in both texts.",
+      "hint": "Check whether the same idea is present in each text."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "shared_frog_information_reason",
+    "question": "A student answers “in the diagram-only section”. Which feedback helps? Task: A frog life-cycle diagram and a frog report both show that tadpoles grow into frogs. Where should this idea go in a comparison chart?",
+    "audio_prompt": "A student answers “in the diagram-only section”. Which feedback helps? Task: A frog life-cycle diagram and a frog report both show that tadpoles grow into frogs. Where should this idea go in a comparison chart?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-010",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Shared frog information. Notice: Explain presentation choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check whether the same idea is present in each text.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “in the diagram-only section”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “in the report-only section” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check whether the same idea is present in each text. The tadpole-to-frog idea is shared information because it appears in both texts.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "recipe_and_picnic_story_apply",
+    "question": "A recipe and a picnic story both mention fruit salad. Why does the recipe number its steps?",
+    "audio_prompt": "A recipe and a picnic story both mention fruit salad. Why does the recipe number its steps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-011",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Recipe and picnic story. Notice: Identify shared topic. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "to show how many people ate the fruit salad",
+        "is_correct": false
+      },
+      {
+        "text": "to show the order for making the food",
+        "is_correct": true
+      },
+      {
+        "text": "to rank the ingredients from best to worst",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Numbered steps help a reader complete a procedure in the correct order.",
+      "hint": "Think about the job of numbers in an instruction text."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "recipe_and_picnic_story_reason",
+    "question": "A student answers “to rank the ingredients from best to worst”. Which feedback helps? Task: A recipe and a picnic story both mention fruit salad. Why does the recipe number its steps?",
+    "audio_prompt": "A student answers “to rank the ingredients from best to worst”. Which feedback helps? Task: A recipe and a picnic story both mention fruit salad. Why does the recipe number its steps?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-012",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Recipe and picnic story. Notice: Identify shared topic. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “to rank the ingredients from best to worst”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “to show how many people ate the fruit salad” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about the job of numbers in an instruction text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Think about the job of numbers in an instruction text. Numbered steps help a reader complete a procedure in the correct order.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "choose_a_useful_text_apply",
+    "question": "Kai needs to find what blue whales eat. He has a whale adventure story and a whale fact file. Which choice is most useful?",
+    "audio_prompt": "Kai needs to find what blue whales eat. He has a whale adventure story and a whale fact file. Which choice is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-013",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Choose a useful text. Notice: Identify text types. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use the fact file because it gives organised whale facts.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the story because its whale character must eat real food.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the story because events are easier to remember than fact headings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fact file is designed to provide specific, organised information.",
+      "hint": "Match Kai's question with the purpose of each text."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "choose_a_useful_text_reason",
+    "question": "A student answers “Use the story because its whale character must eat real food.”. Which feedback helps? Task: Kai needs to find what blue whales eat. He has a whale adventure story and a whale fact file. Which choice is most useful?",
+    "audio_prompt": "A student answers “Use the story because its whale character must eat real food.”. Which feedback helps? Task: Kai needs to find what blue whales eat. He has a whale adventure story and a whale fact file. Which choice is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-014",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Choose a useful text. Notice: Identify text types. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Use the story because its whale character must eat real food.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match Kai's question with the purpose of each text.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Use the story because events are easier to remember than fact headings.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match Kai's question with the purpose of each text. A fact file is designed to provide specific, organised information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "compare_insect_texts_apply",
+    "question": "A ladybird story shows one insect hiding from rain. A life-cycle chart shows four stages. What does only the chart provide?",
+    "audio_prompt": "A ladybird story shows one insect hiding from rain. A life-cycle chart shows four stages. What does only the chart provide?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-015",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Compare insect texts. Notice: Find shared information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "one character hiding from the rain",
+        "is_correct": false
+      },
+      {
+        "text": "the character's thoughts during the storm",
+        "is_correct": false
+      },
+      {
+        "text": "the ordered stages from egg to adult",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The chart presents the ladybird's stages in an ordered visual sequence.",
+      "hint": "Separate the story event from information about change over time."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "compare_insect_texts_reason",
+    "question": "A student answers “the character's thoughts during the storm”. Which feedback helps? Task: A ladybird story shows one insect hiding from rain. A life-cycle chart shows four stages. What does only the chart provide?",
+    "audio_prompt": "A student answers “the character's thoughts during the storm”. Which feedback helps? Task: A ladybird story shows one insect hiding from rain. A life-cycle chart shows four stages. What does only the chart provide?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-016",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Compare insect texts. Notice: Find shared information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Separate the story event from information about change over time.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the character's thoughts during the storm”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “one character hiding from the rain” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Separate the story event from information about change over time. The chart presents the ladybird's stages in an ordered visual sequence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "printed_and_video_procedures_apply",
+    "question": "A printed recipe and a cooking video make the same soup. What can the video show especially clearly?",
+    "audio_prompt": "A printed recipe and a cooking video make the same soup. What can the video show especially clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-017",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Printed and video procedures. Notice: Find differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "all the written steps together for quick scanning",
+        "is_correct": false
+      },
+      {
+        "text": "how the cook moves while chopping and stirring",
+        "is_correct": true
+      },
+      {
+        "text": "the exact spelling of each ingredient",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moving images can demonstrate actions that a printed procedure describes with words and still pictures.",
+      "hint": "Compare what movement can show with what stays fixed on a page."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "printed_and_video_procedures_reason",
+    "question": "A student answers “all the written steps together for quick scanning”. Which feedback helps? Task: A printed recipe and a cooking video make the same soup. What can the video show especially clearly?",
+    "audio_prompt": "A student answers “all the written steps together for quick scanning”. Which feedback helps? Task: A printed recipe and a cooking video make the same soup. What can the video show especially clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-018",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Printed and video procedures. Notice: Find differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “all the written steps together for quick scanning”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the exact spelling of each ingredient” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare what movement can show with what stays fixed on a page.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare what movement can show with what stays fixed on a page. Moving images can demonstrate actions that a printed procedure describes with words and still pictures.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "map_and_brochure_apply",
+    "question": "A park map marks a waterfall. A park brochure also describes the waterfall track. Which information could appear in both?",
+    "audio_prompt": "A park map marks a waterfall. A park brochure also describes the waterfall track. Which information could appear in both?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-019",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Map and brochure. Notice: Explain presentation choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the waterfall is reached from the eastern track",
+        "is_correct": true
+      },
+      {
+        "text": "the symbols used only in the map key",
+        "is_correct": false
+      },
+      {
+        "text": "a visitor's detailed opinion written only in the brochure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both texts can share route information even though one maps it and one describes it.",
+      "hint": "Look for an idea each text type can communicate."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "map_and_brochure_reason",
+    "question": "A student answers “a visitor's detailed opinion written only in the brochure”. Which feedback helps? Task: A park map marks a waterfall. A park brochure also describes the waterfall track. Which information could appear in both?",
+    "audio_prompt": "A student answers “a visitor's detailed opinion written only in the brochure”. Which feedback helps? Task: A park map marks a waterfall. A park brochure also describes the waterfall track. Which information could appear in both?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-020",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Map and brochure. Notice: Explain presentation choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a visitor's detailed opinion written only in the brochure”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for an idea each text type can communicate.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the symbols used only in the map key” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for an idea each text type can communicate. Both texts can share route information even though one maps it and one describes it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "timeline_and_dinosaur_tale_apply",
+    "question": "A dinosaur timeline gives dates for different periods. A dinosaur tale follows a hatchling for one day. Which text better shows a long span of time?",
+    "audio_prompt": "A dinosaur timeline gives dates for different periods. A dinosaur tale follows a hatchling for one day. Which text better shows a long span of time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-021",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Timeline and dinosaur tale. Notice: Identify shared topic. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the tale, because one day of events shows the longest period",
+        "is_correct": false
+      },
+      {
+        "text": "the tale, because having more sentences means more time passes",
+        "is_correct": false
+      },
+      {
+        "text": "the timeline, because its dates cross many periods",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A timeline arranges dated information across a long period.",
+      "hint": "Choose the presentation designed to show when events or periods occurred."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "timeline_and_dinosaur_tale_reason",
+    "question": "A student answers “the tale, because one day of events shows the longest period”. Which feedback helps? Task: A dinosaur timeline gives dates for different periods. A dinosaur tale follows a hatchling for one day. Which text better shows a long span of time?",
+    "audio_prompt": "A student answers “the tale, because one day of events shows the longest period”. Which feedback helps? Task: A dinosaur timeline gives dates for different periods. A dinosaur tale follows a hatchling for one day. Which text better shows a long span of time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-022",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Timeline and dinosaur tale. Notice: Identify shared topic. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the presentation designed to show when events or periods occurred.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the tale, because one day of events shows the longest period”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the tale, because having more sentences means more time passes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the presentation designed to show when events or periods occurred. A timeline arranges dated information across a long period.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "presentation_for_a_question_apply",
+    "question": "Suri wants the steps for making a worm farm. Should she use a worm fact poster or a numbered instruction page?",
+    "audio_prompt": "Suri wants the steps for making a worm farm. Should she use a worm fact poster or a numbered instruction page?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-023",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Presentation for a question. Notice: Identify text types. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use the fact poster because any worm facts will show the full process.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the instruction page because it orders the actions.",
+        "is_correct": true
+      },
+      {
+        "text": "Use the fact poster because labelled pictures always show actions in order.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A numbered procedure is organised to guide a reader through a task.",
+      "hint": "Match the information needed with the structure of each text."
+    }
+  },
+  {
+    "id": "AC9E2LY01-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "practice",
+    "skill": "presentation_for_a_question_reason",
+    "question": "A student answers “Use the fact poster because labelled pictures always show actions in order.”. Which feedback helps? Task: Suri wants the steps for making a worm farm. Should she use a worm fact poster or a numbered instruction page?",
+    "audio_prompt": "A student answers “Use the fact poster because labelled pictures always show actions in order.”. Which feedback helps? Task: Suri wants the steps for making a worm farm. Should she use a worm fact poster or a numbered instruction page?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-p-024",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: Presentation for a question. Notice: Identify text types. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Use the fact poster because labelled pictures always show actions in order.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Use the fact poster because any worm facts will show the full process.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the information needed with the structure of each text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the information needed with the structure of each text. A numbered procedure is organised to guide a reader through a task.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_penguin_texts_apply",
+    "question": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "audio_prompt": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-001",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: penguin texts. Notice: Identify shared topic. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the chick's escape from the seal",
+        "is_correct": true
+      },
+      {
+        "text": "facts about penguin feathers",
+        "is_correct": false
+      },
+      {
+        "text": "information about penguin habitats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The escape is a story event, while feathers and habitat are report facts.",
+      "hint": "Separate the imagined event from the grouped factual information."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_penguin_texts_reason",
+    "question": "A student answers “facts about penguin feathers”. Which feedback helps? Task: A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "audio_prompt": "A student answers “facts about penguin feathers”. Which feedback helps? Task: A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-002",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: penguin texts. Notice: Identify shared topic. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “facts about penguin feathers”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Separate the imagined event from the grouped factual information.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “information about penguin habitats” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Separate the imagined event from the grouped factual information. The escape is a story event, while feathers and habitat are report facts.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_garden_map_and_article_apply",
+    "question": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "audio_prompt": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-003",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: garden map and article. Notice: Identify text types. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Why do students add compost?",
+        "is_correct": false
+      },
+      {
+        "text": "How often do students water seedlings?",
+        "is_correct": false
+      },
+      {
+        "text": "Where is the pond compared with the path?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A map shows where features are located in relation to one another.",
+      "hint": "Choose the question about position, not reasons or routines."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_garden_map_and_article_reason",
+    "question": "A student answers “How often do students water seedlings?”. Which feedback helps? Task: A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "audio_prompt": "A student answers “How often do students water seedlings?”. Which feedback helps? Task: A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-004",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: garden map and article. Notice: Identify text types. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the question about position, not reasons or routines.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “How often do students water seedlings?”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Why do students add compost?” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the question about position, not reasons or routines. A map shows where features are located in relation to one another.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_poem_and_warning_apply",
+    "question": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "audio_prompt": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-005",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: poem and warning. Notice: Find shared information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The poem gives official directions; the warning entertains with rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "The poem creates an experience; the warning gives safety advice.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem explains storm causes; the warning shares a character's feelings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The poem uses language for an imaginative effect, while the warning supports safe action.",
+      "hint": "Ask what each text is trying to help its reader feel or do."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_poem_and_warning_reason",
+    "question": "A student answers “The poem gives official directions; the warning entertains with rhyme.”. Which feedback helps? Task: A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "audio_prompt": "A student answers “The poem gives official directions; the warning entertains with rhyme.”. Which feedback helps? Task: A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-006",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: poem and warning. Notice: Find shared information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The poem gives official directions; the warning entertains with rhyme.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The poem explains storm causes; the warning shares a character's feelings.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what each text is trying to help its reader feel or do.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ask what each text is trying to help its reader feel or do. The poem uses language for an imaginative effect, while the warning supports safe action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_timetable_and_travel_story_apply",
+    "question": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "audio_prompt": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-007",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: timetable and travel story. Notice: Find differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the planned arrival times at each stop",
+        "is_correct": true
+      },
+      {
+        "text": "how the main character felt on the bus",
+        "is_correct": false
+      },
+      {
+        "text": "the problem that changed the character",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A timetable presents scheduled times in a table for quick reference.",
+      "hint": "Look for information arranged by stops and times."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_timetable_and_travel_story_reason",
+    "question": "A student answers “the problem that changed the character”. Which feedback helps? Task: A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "audio_prompt": "A student answers “the problem that changed the character”. Which feedback helps? Task: A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-008",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: timetable and travel story. Notice: Find differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the problem that changed the character”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for information arranged by stops and times.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “how the main character felt on the bus” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for information arranged by stops and times. A timetable presents scheduled times in a table for quick reference.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_brochure_and_recount_apply",
+    "question": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "audio_prompt": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-009",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: brochure and recount. Notice: Explain presentation choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a map showing the track route",
+        "is_correct": false
+      },
+      {
+        "text": "short rules for protecting the park",
+        "is_correct": false
+      },
+      {
+        "text": "events told in the order the family experienced them",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A recount presents experienced events in time order.",
+      "hint": "Find the feature that tells a particular group's past experience."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_brochure_and_recount_reason",
+    "question": "A student answers “a map showing the track route”. Which feedback helps? Task: A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "audio_prompt": "A student answers “a map showing the track route”. Which feedback helps? Task: A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-010",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: brochure and recount. Notice: Explain presentation choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Find the feature that tells a particular group's past experience.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a map showing the track route”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “short rules for protecting the park” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find the feature that tells a particular group's past experience. A recount presents experienced events in time order.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_water_texts_apply",
+    "question": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "audio_prompt": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-011",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: water texts. Notice: Identify shared topic. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The first urges action; the second explains water use in detail.",
+        "is_correct": false
+      },
+      {
+        "text": "The first explains water use; the second urges readers to act.",
+        "is_correct": true
+      },
+      {
+        "text": "Both texts explain water use in exactly the same way.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both texts share a water-saving topic but use informative and persuasive presentations.",
+      "hint": "Compare the purpose shown by the diagram, facts and command."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_water_texts_reason",
+    "question": "A student answers “Both texts explain water use in exactly the same way.”. Which feedback helps? Task: One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "audio_prompt": "A student answers “Both texts explain water use in exactly the same way.”. Which feedback helps? Task: One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-012",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: water texts. Notice: Identify shared topic. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Both texts explain water use in exactly the same way.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The first urges action; the second explains water use in detail.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the purpose shown by the diagram, facts and command.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the purpose shown by the diagram, facts and command. Both texts share a water-saving topic but use informative and persuasive presentations.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_flood_graph_and_report_apply",
+    "question": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "audio_prompt": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-013",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: flood graph and report. Notice: Identify text types. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "how the rainfall amount changed across five days",
+        "is_correct": true
+      },
+      {
+        "text": "what a resident said during the rescue",
+        "is_correct": false
+      },
+      {
+        "text": "the order of one family's trip to safety",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A graph makes changes in recorded amounts across days easy to compare.",
+      "hint": "Choose information represented by values and time points."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_flood_graph_and_report_reason",
+    "question": "A student answers “what a resident said during the rescue”. Which feedback helps? Task: A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "audio_prompt": "A student answers “what a resident said during the rescue”. Which feedback helps? Task: A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-014",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: flood graph and report. Notice: Identify text types. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “what a resident said during the rescue”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose information represented by values and time points.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the order of one family's trip to safety” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose information represented by values and time points. A graph makes changes in recorded amounts across days easy to compare.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_animal_poster_and_encyclopaedia_apply",
+    "question": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "audio_prompt": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-015",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: animal poster and encyclopaedia. Notice: Find shared information. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Its many detailed sections suit a long research task.",
+        "is_correct": false
+      },
+      {
+        "text": "Its large image makes its facts more complete than the encyclopaedia.",
+        "is_correct": false
+      },
+      {
+        "text": "Its brief facts and large image can be understood quickly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A display poster presents selected information for quick viewing.",
+      "hint": "Consider where the text is used and how long readers may look at it."
+    }
+  },
+  {
+    "id": "AC9E2LY01-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY01",
+    "bank": "test",
+    "skill": "test_animal_poster_and_encyclopaedia_reason",
+    "question": "A student answers “Its large image makes its facts more complete than the encyclopaedia.”. Which feedback helps? Task: A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "audio_prompt": "A student answers “Its large image makes its facts more complete than the encyclopaedia.”. Which feedback helps? Task: A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly01.svg#ac9e2ly01-t-016",
+      "alt_text": "Three-step Comparing Texts on the Same Topic organiser. Read: animal poster and encyclopaedia. Notice: Find shared information. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Consider where the text is used and how long readers may look at it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Its large image makes its facts more complete than the encyclopaedia.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Its many detailed sections suit a long research task.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consider where the text is used and how long readers may look at it. A display poster presents selected information for quick viewing.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

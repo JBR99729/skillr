@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA06-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "add_two_map_actions_apply",
+    "question": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
+    "audio_prompt": "Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-001",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two map actions. Notice: Identify complete clauses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mia drew a map, but Sam labelled it.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia drew a map and labelled.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia drew a map, and Sam labelled it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And joins the two related actions, and both sides express a complete idea.",
+      "hint": "Check that each side can make sense as a sentence and that the joining word fits."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "add_two_map_actions_reason",
+    "question": "A student answers “Mia drew a map, but Sam labelled it.”. Which feedback helps? Task: Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
+    "audio_prompt": "A student answers “Mia drew a map, but Sam labelled it.”. Which feedback helps? Task: Which sentence adds “Sam labelled it” to “Mia drew a map” without showing a contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-002",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two map actions. Notice: Identify complete clauses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check that each side can make sense as a sentence and that the joining word fits.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Mia drew a map, but Sam labelled it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Mia drew a map and labelled.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check that each side can make sense as a sentence and that the joining word fits. And joins the two related actions, and both sides express a complete idea.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_weather_contrast_apply",
+    "question": "The day was sunny. The air was cold. Which joined sentence shows the contrast?",
+    "audio_prompt": "The day was sunny. The air was cold. Which joined sentence shows the contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-003",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a weather contrast. Notice: Use and. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The day was sunny, so the air was cold.",
+        "is_correct": false
+      },
+      {
+        "text": "The day was sunny, but the air was cold.",
+        "is_correct": true
+      },
+      {
+        "text": "The day was sunny and because the air was cold.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "But shows the contrast between sunshine and cold air.",
+      "hint": "When the second idea is surprising beside the first, try but."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_weather_contrast_reason",
+    "question": "A student answers “The day was sunny and because the air was cold.”. Which feedback helps? Task: The day was sunny. The air was cold. Which joined sentence shows the contrast?",
+    "audio_prompt": "A student answers “The day was sunny and because the air was cold.”. Which feedback helps? Task: The day was sunny. The air was cold. Which joined sentence shows the contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-004",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a weather contrast. Notice: Use and. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The day was sunny and because the air was cold.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The day was sunny, so the air was cold.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "When the second idea is surprising beside the first, try but.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "When the second idea is surprising beside the first, try but. But shows the contrast between sunshine and cold air.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "offer_an_art_choice_apply",
+    "question": "Which sentence gives a choice between two art tools?",
+    "audio_prompt": "Which sentence gives a choice between two art tools?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-005",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Offer an art choice. Notice: Use but. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "You can use paint, or you can use pencils.",
+        "is_correct": true
+      },
+      {
+        "text": "You can use paint, so you can use pencils.",
+        "is_correct": false
+      },
+      {
+        "text": "You can use paint or pencils can.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Or connects two complete choices: use paint or use pencils.",
+      "hint": "Look for two complete ideas and a joining word that signals choice."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "offer_an_art_choice_reason",
+    "question": "A student answers “You can use paint, so you can use pencils.”. Which feedback helps? Task: Which sentence gives a choice between two art tools?",
+    "audio_prompt": "A student answers “You can use paint, so you can use pencils.”. Which feedback helps? Task: Which sentence gives a choice between two art tools?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-006",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Offer an art choice. Notice: Use but. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “You can use paint, so you can use pencils.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for two complete ideas and a joining word that signals choice.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “You can use paint or pencils can.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for two complete ideas and a joining word that signals choice. Or connects two complete choices: use paint or use pencils.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_rainy_result_apply",
+    "question": "The oval was wet. The game moved indoors. Which sentence shows the result?",
+    "audio_prompt": "The oval was wet. The game moved indoors. Which sentence shows the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-007",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a rainy result. Notice: Use or and so. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The oval was wet, but the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, or the game moved indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval was wet, so the game moved indoors.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So shows that moving indoors happened as a result of the wet oval.",
+      "hint": "Ask whether the second idea happened because of the first."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_rainy_result_reason",
+    "question": "A student answers “The oval was wet, or the game moved indoors.”. Which feedback helps? Task: The oval was wet. The game moved indoors. Which sentence shows the result?",
+    "audio_prompt": "A student answers “The oval was wet, or the game moved indoors.”. Which feedback helps? Task: The oval was wet. The game moved indoors. Which sentence shows the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-008",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a rainy result. Notice: Use or and so. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Ask whether the second idea happened because of the first.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The oval was wet, or the game moved indoors.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The oval was wet, but the game moved indoors.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ask whether the second idea happened because of the first. So shows that moving indoors happened as a result of the wet oval.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "find_two_complete_clauses_apply",
+    "question": "Which compound sentence has a complete idea on both sides of “and”?",
+    "audio_prompt": "Which compound sentence has a complete idea on both sides of “and”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-009",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Find two complete clauses. Notice: Explain the relationship. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The bell rang, and near the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "The bell rang, and the students lined up.",
+        "is_correct": true
+      },
+      {
+        "text": "The loud bell and the students.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The bell rang and the students lined up can each stand as complete sentences.",
+      "hint": "Cover the joining word and read each side on its own."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "find_two_complete_clauses_reason",
+    "question": "A student answers “The bell rang, and near the gate.”. Which feedback helps? Task: Which compound sentence has a complete idea on both sides of “and”?",
+    "audio_prompt": "A student answers “The bell rang, and near the gate.”. Which feedback helps? Task: Which compound sentence has a complete idea on both sides of “and”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-010",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Find two complete clauses. Notice: Explain the relationship. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The bell rang, and near the gate.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The loud bell and the students.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Cover the joining word and read each side on its own.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cover the joining word and read each side on its own. The bell rang and the students lined up can each stand as complete sentences.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "repair_an_incomplete_half_apply",
+    "question": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
+    "audio_prompt": "The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-011",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Repair an incomplete half. Notice: Identify complete clauses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The cat slept, and the dog played on the mat.",
+        "is_correct": true
+      },
+      {
+        "text": "The cat slept, and under the chair.",
+        "is_correct": false
+      },
+      {
+        "text": "The cat, and the dog on the mat.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding the dog played creates a second complete idea after and.",
+      "hint": "The second half needs someone or something and what it did."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "repair_an_incomplete_half_reason",
+    "question": "A student answers “The cat, and the dog on the mat.”. Which feedback helps? Task: The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
+    "audio_prompt": "A student answers “The cat, and the dog on the mat.”. Which feedback helps? Task: The sentence says, “The cat slept, and on the mat.” Which repair makes both halves complete?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-012",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Repair an incomplete half. Notice: Identify complete clauses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The cat, and the dog on the mat.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "The second half needs someone or something and what it did.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The cat slept, and under the chair.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The second half needs someone or something and what it did. Adding the dog played creates a second complete idea after and.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "choose_but_for_a_mismatch_apply",
+    "question": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
+    "audio_prompt": "I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-013",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Choose but for a mismatch. Notice: Use and. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I wore my raincoat, so I still got wet.",
+        "is_correct": false
+      },
+      {
+        "text": "I wore my raincoat, or I still got wet.",
+        "is_correct": false
+      },
+      {
+        "text": "I wore my raincoat, but I still got wet.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "But shows the unexpected contrast between wearing a raincoat and getting wet.",
+      "hint": "Choose the joining word that shows the second event was unexpected."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "choose_but_for_a_mismatch_reason",
+    "question": "A student answers “I wore my raincoat, so I still got wet.”. Which feedback helps? Task: I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
+    "audio_prompt": "A student answers “I wore my raincoat, so I still got wet.”. Which feedback helps? Task: I wore my raincoat. I still got wet. Which sentence keeps the intended meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-014",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Choose but for a mismatch. Notice: Use and. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the joining word that shows the second event was unexpected.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I wore my raincoat, so I still got wet.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I wore my raincoat, or I still got wet.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the joining word that shows the second event was unexpected. But shows the unexpected contrast between wearing a raincoat and getting wet.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "add_two_classroom_jobs_apply",
+    "question": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
+    "audio_prompt": "Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-015",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two classroom jobs. Notice: Use but. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Luca handed out books, but Mae collected pencils.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca handed out books, and Mae collected pencils.",
+        "is_correct": true
+      },
+      {
+        "text": "Luca handed out books, so Mae collected pencils.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "And adds one related classroom action to another without showing contrast or result.",
+      "hint": "Use and when the second complete idea is extra information."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "add_two_classroom_jobs_reason",
+    "question": "A student answers “Luca handed out books, so Mae collected pencils.”. Which feedback helps? Task: Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
+    "audio_prompt": "A student answers “Luca handed out books, so Mae collected pencils.”. Which feedback helps? Task: Luca handed out books. Mae collected pencils. Which sentence simply adds the two jobs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-016",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two classroom jobs. Notice: Use but. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Luca handed out books, so Mae collected pencils.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Luca handed out books, but Mae collected pencils.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use and when the second complete idea is extra information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use and when the second complete idea is extra information. And adds one related classroom action to another without showing contrast or result.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "offer_a_lunch_choice_apply",
+    "question": "Which sentence gives a choice between two complete lunch plans?",
+    "audio_prompt": "Which sentence gives a choice between two complete lunch plans?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-017",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Offer a lunch choice. Notice: Use or and so. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We can eat outside, or we can sit in the hall.",
+        "is_correct": true
+      },
+      {
+        "text": "We can eat outside, and we can sit in the hall.",
+        "is_correct": false
+      },
+      {
+        "text": "We can eat outside, so we can sit in the hall.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Or shows that the class can choose one place or the other.",
+      "hint": "Choose the conjunction that signals alternatives."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "offer_a_lunch_choice_reason",
+    "question": "A student answers “We can eat outside, and we can sit in the hall.”. Which feedback helps? Task: Which sentence gives a choice between two complete lunch plans?",
+    "audio_prompt": "A student answers “We can eat outside, and we can sit in the hall.”. Which feedback helps? Task: Which sentence gives a choice between two complete lunch plans?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-018",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Offer a lunch choice. Notice: Use or and so. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “We can eat outside, and we can sit in the hall.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the conjunction that signals alternatives.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “We can eat outside, so we can sit in the hall.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the conjunction that signals alternatives. Or shows that the class can choose one place or the other.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "contrast_effort_and_outcome_apply",
+    "question": "Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
+    "audio_prompt": "Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-019",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Contrast effort and outcome. Notice: Explain the relationship. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Ari practised every day, so the song was still difficult.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari practised every day, or the song was still difficult.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari practised every day, but the song was still difficult.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "But connects the strong effort with the unexpected continuing difficulty.",
+      "hint": "Ask whether the second idea contrasts with what the first makes you expect."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "contrast_effort_and_outcome_reason",
+    "question": "A student answers “Ari practised every day, or the song was still difficult.”. Which feedback helps? Task: Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
+    "audio_prompt": "A student answers “Ari practised every day, or the song was still difficult.”. Which feedback helps? Task: Ari practised every day. The song was still difficult. Which sentence shows the contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-020",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Contrast effort and outcome. Notice: Explain the relationship. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Ask whether the second idea contrasts with what the first makes you expect.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Ari practised every day, or the song was still difficult.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Ari practised every day, so the song was still difficult.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ask whether the second idea contrasts with what the first makes you expect. But connects the strong effort with the unexpected continuing difficulty.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_dropped_cup_result_apply",
+    "question": "The cup fell. Water spread across the floor. Which sentence shows the result?",
+    "audio_prompt": "The cup fell. Water spread across the floor. Which sentence shows the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-021",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a dropped-cup result. Notice: Identify complete clauses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The cup fell, but water spread across the floor.",
+        "is_correct": false
+      },
+      {
+        "text": "The cup fell, so water spread across the floor.",
+        "is_correct": true
+      },
+      {
+        "text": "The cup fell, or water spread across the floor.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "So shows that the spreading water was a result of the cup falling.",
+      "hint": "Place the cause before so and the result after it."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "show_a_dropped_cup_result_reason",
+    "question": "A student answers “The cup fell, but water spread across the floor.”. Which feedback helps? Task: The cup fell. Water spread across the floor. Which sentence shows the result?",
+    "audio_prompt": "A student answers “The cup fell, but water spread across the floor.”. Which feedback helps? Task: The cup fell. Water spread across the floor. Which sentence shows the result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-022",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a dropped-cup result. Notice: Identify complete clauses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The cup fell, but water spread across the floor.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The cup fell, or water spread across the floor.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the cause before so and the result after it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Place the cause before so and the result after it. So shows that the spreading water was a result of the cup falling.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "check_both_sentence_halves_apply",
+    "question": "Which option correctly joins two complete ideas with “but”?",
+    "audio_prompt": "Which option correctly joins two complete ideas with “but”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-023",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Check both sentence halves. Notice: Use and. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I wanted to swim, but the pool was closed.",
+        "is_correct": true
+      },
+      {
+        "text": "I wanted to swim, but after lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "I wanted to swim but the closed pool.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I wanted to swim and the pool was closed are both complete ideas.",
+      "hint": "Read each side without but and check that each still makes sense."
+    }
+  },
+  {
+    "id": "AC9E2LA06-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "practice",
+    "skill": "check_both_sentence_halves_reason",
+    "question": "A student answers “I wanted to swim but the closed pool.”. Which feedback helps? Task: Which option correctly joins two complete ideas with “but”?",
+    "audio_prompt": "A student answers “I wanted to swim but the closed pool.”. Which feedback helps? Task: Which option correctly joins two complete ideas with “but”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-p-024",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Check both sentence halves. Notice: Use and. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I wanted to swim but the closed pool.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Read each side without but and check that each still makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I wanted to swim, but after lunch.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read each side without but and check that each still makes sense. I wanted to swim and the pool was closed are both complete ideas.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "show_a_power_cut_result_apply",
+    "question": "The power went out. We used torches. Which joined sentence shows what happened as a result?",
+    "audio_prompt": "The power went out. We used torches. Which joined sentence shows what happened as a result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-001",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a power-cut result. Notice: Identify complete clauses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The power went out, or we used torches.",
+        "is_correct": false
+      },
+      {
+        "text": "The power went out, but using torches.",
+        "is_correct": false
+      },
+      {
+        "text": "The power went out, so we used torches.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So connects the power cut with its result, and both clauses are complete.",
+      "hint": "Look for the event that caused the second event."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "show_a_power_cut_result_reason",
+    "question": "A student answers “The power went out, or we used torches.”. Which feedback helps? Task: The power went out. We used torches. Which joined sentence shows what happened as a result?",
+    "audio_prompt": "A student answers “The power went out, or we used torches.”. Which feedback helps? Task: The power went out. We used torches. Which joined sentence shows what happened as a result?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-002",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Show a power-cut result. Notice: Identify complete clauses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for the event that caused the second event.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The power went out, or we used torches.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The power went out, but using torches.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for the event that caused the second event. So connects the power cut with its result, and both clauses are complete.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "give_two_travel_choices_apply",
+    "question": "Which sentence clearly offers two complete ways to reach the library?",
+    "audio_prompt": "Which sentence clearly offers two complete ways to reach the library?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-003",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Give two travel choices. Notice: Use and. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We can walk to the library, so we can catch the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "We can walk to the library, or we can catch the bus.",
+        "is_correct": true
+      },
+      {
+        "text": "We can walk to the library, or the bus stop.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Or connects the complete alternatives we can walk and we can catch the bus.",
+      "hint": "A choice sentence needs two possible actions, not an action and a place."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "give_two_travel_choices_reason",
+    "question": "A student answers “We can walk to the library, or the bus stop.”. Which feedback helps? Task: Which sentence clearly offers two complete ways to reach the library?",
+    "audio_prompt": "A student answers “We can walk to the library, or the bus stop.”. Which feedback helps? Task: Which sentence clearly offers two complete ways to reach the library?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-004",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Give two travel choices. Notice: Use and. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “We can walk to the library, or the bus stop.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “We can walk to the library, so we can catch the bus.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "A choice sentence needs two possible actions, not an action and a place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A choice sentence needs two possible actions, not an action and a place. Or connects the complete alternatives we can walk and we can catch the bus.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "contrast_size_and_speed_apply",
+    "question": "The tortoise was small. It moved quickly. Which sentence highlights the surprising contrast?",
+    "audio_prompt": "The tortoise was small. It moved quickly. Which sentence highlights the surprising contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-005",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Contrast size and speed. Notice: Use but. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The tortoise was small, but it moved quickly.",
+        "is_correct": true
+      },
+      {
+        "text": "The tortoise was small, so it moved quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "The tortoise was small and moving quickly it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "But highlights that the quick movement may be unexpected for the small tortoise.",
+      "hint": "Use but when two complete ideas contrast."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "contrast_size_and_speed_reason",
+    "question": "A student answers “The tortoise was small, so it moved quickly.”. Which feedback helps? Task: The tortoise was small. It moved quickly. Which sentence highlights the surprising contrast?",
+    "audio_prompt": "A student answers “The tortoise was small, so it moved quickly.”. Which feedback helps? Task: The tortoise was small. It moved quickly. Which sentence highlights the surprising contrast?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-006",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Contrast size and speed. Notice: Use but. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The tortoise was small, so it moved quickly.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use but when two complete ideas contrast.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The tortoise was small and moving quickly it.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use but when two complete ideas contrast. But highlights that the quick movement may be unexpected for the small tortoise.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "add_two_report_facts_apply",
+    "question": "Which sentence adds one bee fact to another?",
+    "audio_prompt": "Which sentence adds one bee fact to another?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-007",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two report facts. Notice: Use or and so. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Bees collect nectar, or they carry pollen.",
+        "is_correct": false
+      },
+      {
+        "text": "Bees collect nectar, and on their legs.",
+        "is_correct": false
+      },
+      {
+        "text": "Bees collect nectar, and they carry pollen.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And adds the complete fact they carry pollen to the first bee fact.",
+      "hint": "Check that both sides tell a whole fact about bees."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "add_two_report_facts_reason",
+    "question": "A student answers “Bees collect nectar, and on their legs.”. Which feedback helps? Task: Which sentence adds one bee fact to another?",
+    "audio_prompt": "A student answers “Bees collect nectar, and on their legs.”. Which feedback helps? Task: Which sentence adds one bee fact to another?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-008",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Add two report facts. Notice: Use or and so. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check that both sides tell a whole fact about bees.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Bees collect nectar, and on their legs.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Bees collect nectar, or they carry pollen.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check that both sides tell a whole fact about bees. And adds the complete fact they carry pollen to the first bee fact.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "connect_watering_and_growth_apply",
+    "question": "We watered the seeds each morning. The seeds sprouted. Which sentence shows the result clearly?",
+    "audio_prompt": "We watered the seeds each morning. The seeds sprouted. Which sentence shows the result clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-009",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Connect watering and growth. Notice: Explain the relationship. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We watered the seeds each morning, but the seeds sprouted.",
+        "is_correct": false
+      },
+      {
+        "text": "We watered the seeds each morning, so the seeds sprouted.",
+        "is_correct": true
+      },
+      {
+        "text": "The seeds sprouted, so we watered them each morning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "So correctly shows that sprouting was the result of regular watering.",
+      "hint": "Put the cause first and its result after so."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "connect_watering_and_growth_reason",
+    "question": "A student answers “We watered the seeds each morning, but the seeds sprouted.”. Which feedback helps? Task: We watered the seeds each morning. The seeds sprouted. Which sentence shows the result clearly?",
+    "audio_prompt": "A student answers “We watered the seeds each morning, but the seeds sprouted.”. Which feedback helps? Task: We watered the seeds each morning. The seeds sprouted. Which sentence shows the result clearly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-010",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Connect watering and growth. Notice: Explain the relationship. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “We watered the seeds each morning, but the seeds sprouted.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The seeds sprouted, so we watered them each morning.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the cause first and its result after so.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Put the cause first and its result after so. So correctly shows that sprouting was the result of regular watering.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "join_a_plan_and_an_obstacle_apply",
+    "question": "We planned a picnic. Dark clouds gathered. Which compound sentence connects the ideas best?",
+    "audio_prompt": "We planned a picnic. Dark clouds gathered. Which compound sentence connects the ideas best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-011",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Join a plan and an obstacle. Notice: Identify complete clauses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "We planned a picnic, but dark clouds gathered.",
+        "is_correct": true
+      },
+      {
+        "text": "We planned a picnic, so dark clouds gathered.",
+        "is_correct": false
+      },
+      {
+        "text": "We planned a picnic, and because dark clouds gathered.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "But shows the contrast between the picnic plan and the threatening weather.",
+      "hint": "Choose a conjunction that shows the second complete idea may spoil the first."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "join_a_plan_and_an_obstacle_reason",
+    "question": "A student answers “We planned a picnic, and because dark clouds gathered.”. Which feedback helps? Task: We planned a picnic. Dark clouds gathered. Which compound sentence connects the ideas best?",
+    "audio_prompt": "A student answers “We planned a picnic, and because dark clouds gathered.”. Which feedback helps? Task: We planned a picnic. Dark clouds gathered. Which compound sentence connects the ideas best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-012",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Join a plan and an obstacle. Notice: Identify complete clauses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “We planned a picnic, and because dark clouds gathered.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a conjunction that shows the second complete idea may spoil the first.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “We planned a picnic, so dark clouds gathered.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a conjunction that shows the second complete idea may spoil the first. But shows the contrast between the picnic plan and the threatening weather.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "join_three_complete_ideas_apply",
+    "question": "Which sentence correctly joins three complete actions in a class project?",
+    "audio_prompt": "Which sentence correctly joins three complete actions in a class project?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-013",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Join three complete ideas. Notice: Use and. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Noah cut the card, Mia added glue, and beside the label.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah cut the card and Mia, the glue and I.",
+        "is_correct": false
+      },
+      {
+        "text": "Noah cut the card, Mia added glue, and I fixed the label.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each part names who acted and what they did, with and linking the final complete idea.",
+      "hint": "Check every part for a person or thing and a complete action."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "join_three_complete_ideas_reason",
+    "question": "A student answers “Noah cut the card, Mia added glue, and beside the label.”. Which feedback helps? Task: Which sentence correctly joins three complete actions in a class project?",
+    "audio_prompt": "A student answers “Noah cut the card, Mia added glue, and beside the label.”. Which feedback helps? Task: Which sentence correctly joins three complete actions in a class project?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-014",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Join three complete ideas. Notice: Use and. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check every part for a person or thing and a complete action.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Noah cut the card, Mia added glue, and beside the label.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Noah cut the card and Mia, the glue and I.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check every part for a person or thing and a complete action. Each part names who acted and what they did, with and linking the final complete idea.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "keep_the_intended_choice_apply",
+    "question": "The coach says each child may run or throw. Which sentence keeps that choice?",
+    "audio_prompt": "The coach says each child may run or throw. Which sentence keeps that choice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-015",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Keep the intended choice. Notice: Use but. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "You can run a lap, and you must throw a beanbag.",
+        "is_correct": false
+      },
+      {
+        "text": "You can run a lap, or you can throw a beanbag.",
+        "is_correct": true
+      },
+      {
+        "text": "You can run a lap, so you must throw a beanbag.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Or keeps the two activities as alternatives rather than requiring both or making one a result.",
+      "hint": "Choose the conjunction that lets the child select one action."
+    }
+  },
+  {
+    "id": "AC9E2LA06-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA06",
+    "bank": "test",
+    "skill": "keep_the_intended_choice_reason",
+    "question": "A student answers “You can run a lap, so you must throw a beanbag.”. Which feedback helps? Task: The coach says each child may run or throw. Which sentence keeps that choice?",
+    "audio_prompt": "A student answers “You can run a lap, so you must throw a beanbag.”. Which feedback helps? Task: The coach says each child may run or throw. Which sentence keeps that choice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la06.svg#ac9e2la06-t-016",
+      "alt_text": "Three-step Joining Ideas in Compound Sentences organiser. Read: Keep the intended choice. Notice: Use but. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “You can run a lap, so you must throw a beanbag.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “You can run a lap, and you must throw a beanbag.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the conjunction that lets the child select one action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the conjunction that lets the child select one action. Or keeps the two activities as alternatives rather than requiring both or making one a result.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

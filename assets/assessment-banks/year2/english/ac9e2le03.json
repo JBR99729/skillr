@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LE03-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "action_presents_character_apply",
+    "question": "‘Mara stomped down the hall.’ What does stomped suggest?",
+    "audio_prompt": "‘Mara stomped down the hall.’ What does stomped suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-001",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Action presents character. Notice: Identify character language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mara may be angry.",
+        "is_correct": true
+      },
+      {
+        "text": "Mara may be calm and relaxed.",
+        "is_correct": false
+      },
+      {
+        "text": "Mara may be moving very carefully.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The forceful verb stomped suggests an angry or frustrated movement.",
+      "hint": "Think about the feeling carried by the action word."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "action_presents_character_reason",
+    "question": "A student answers “Mara may be calm and relaxed.”. Which feedback helps? Task: ‘Mara stomped down the hall.’ What does stomped suggest?",
+    "audio_prompt": "A student answers “Mara may be calm and relaxed.”. Which feedback helps? Task: ‘Mara stomped down the hall.’ What does stomped suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-002",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Action presents character. Notice: Identify character language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Mara may be calm and relaxed.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about the feeling carried by the action word.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Mara may be moving very carefully.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Think about the feeling carried by the action word. The forceful verb stomped suggests an angry or frustrated movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "dialogue_presents_character_apply",
+    "question": "‘You can have my seat,’ said Eli. What does the dialogue suggest?",
+    "audio_prompt": "‘You can have my seat,’ said Eli. What does the dialogue suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-003",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Dialogue presents character. Notice: Identify setting language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Eli is impatient to leave.",
+        "is_correct": false
+      },
+      {
+        "text": "Eli is worried that nobody will sit.",
+        "is_correct": false
+      },
+      {
+        "text": "Eli is considerate.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Offering the seat presents Eli as considerate.",
+      "hint": "Use what the character says to infer a quality."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "dialogue_presents_character_reason",
+    "question": "A student answers “Eli is worried that nobody will sit.”. Which feedback helps? Task: ‘You can have my seat,’ said Eli. What does the dialogue suggest?",
+    "audio_prompt": "A student answers “Eli is worried that nobody will sit.”. Which feedback helps? Task: ‘You can have my seat,’ said Eli. What does the dialogue suggest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-004",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Dialogue presents character. Notice: Identify setting language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use what the character says to infer a quality.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Eli is worried that nobody will sit.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Eli is impatient to leave.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use what the character says to infer a quality. Offering the seat presents Eli as considerate.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "setting_words_create_mood_apply",
+    "question": "Which words make a cave sound frightening?",
+    "audio_prompt": "Which words make a cave sound frightening?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-005",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Setting words create mood. Notice: Infer impressions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the bright, friendly cave",
+        "is_correct": false
+      },
+      {
+        "text": "the narrow, echoing cave",
+        "is_correct": true
+      },
+      {
+        "text": "the ordinary cave",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Narrow and echoing create a more frightening impression of the cave.",
+      "hint": "Choose adjectives that build the target mood."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "setting_words_create_mood_reason",
+    "question": "A student answers “the bright, friendly cave”. Which feedback helps? Task: Which words make a cave sound frightening?",
+    "audio_prompt": "A student answers “the bright, friendly cave”. Which feedback helps? Task: Which words make a cave sound frightening?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-006",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Setting words create mood. Notice: Infer impressions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the bright, friendly cave”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the ordinary cave” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose adjectives that build the target mood.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose adjectives that build the target mood. Narrow and echoing create a more frightening impression of the cave.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "precise_verb_comparison_apply",
+    "question": "Which verb best shows the dog moved eagerly toward its owner?",
+    "audio_prompt": "Which verb best shows the dog moved eagerly toward its owner?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-007",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Precise verb comparison. Notice: Compare word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "bounded",
+        "is_correct": true
+      },
+      {
+        "text": "went",
+        "is_correct": false
+      },
+      {
+        "text": "crept",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bounded shows energetic, eager movement more clearly than went or crept.",
+      "hint": "Choose the verb with the most precise movement."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "precise_verb_comparison_reason",
+    "question": "A student answers “crept”. Which feedback helps? Task: Which verb best shows the dog moved eagerly toward its owner?",
+    "audio_prompt": "A student answers “crept”. Which feedback helps? Task: Which verb best shows the dog moved eagerly toward its owner?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-008",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Precise verb comparison. Notice: Compare word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “crept”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the verb with the most precise movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “went” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the verb with the most precise movement. Bounded shows energetic, eager movement more clearly than went or crept.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "noun_group_presents_setting_apply",
+    "question": "What picture is built by ‘the tiny, sunlit room’?",
+    "audio_prompt": "What picture is built by ‘the tiny, sunlit room’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-009",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Noun group presents setting. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a small room with no light inside",
+        "is_correct": false
+      },
+      {
+        "text": "a large room filled with bright light",
+        "is_correct": false
+      },
+      {
+        "text": "a small room filled with light",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tiny describes size and sunlit describes the room's light.",
+      "hint": "Use both adjectives in the noun group."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "noun_group_presents_setting_reason",
+    "question": "A student answers “a small room with no light inside”. Which feedback helps? Task: What picture is built by ‘the tiny, sunlit room’?",
+    "audio_prompt": "A student answers “a small room with no light inside”. Which feedback helps? Task: What picture is built by ‘the tiny, sunlit room’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-010",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Noun group presents setting. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use both adjectives in the noun group.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a small room with no light inside”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a large room filled with bright light” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use both adjectives in the noun group. Tiny describes size and sunlit describes the room's light.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "compare_character_wording_apply",
+    "question": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "audio_prompt": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-011",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare character wording. Notice: Identify character language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The fox has the same movement because both verbs mean walked.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox moves secretly in one and boldly in the other.",
+        "is_correct": true
+      },
+      {
+        "text": "The verbs change the places but not how the fox seems to move.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Crept suggests secret movement; marched suggests bold, firm movement.",
+      "hint": "Compare the feeling in each verb, not just the general action."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "compare_character_wording_reason",
+    "question": "A student answers “The verbs change the places but not how the fox seems to move.”. Which feedback helps? Task: One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "audio_prompt": "A student answers “The verbs change the places but not how the fox seems to move.”. Which feedback helps? Task: One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-012",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare character wording. Notice: Identify character language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The verbs change the places but not how the fox seems to move.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The fox has the same movement because both verbs mean walked.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the feeling in each verb, not just the general action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the feeling in each verb, not just the general action. Crept suggests secret movement; marched suggests bold, firm movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "image_and_words_present_character_apply",
+    "question": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "audio_prompt": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-013",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Image and words present character. Notice: Identify setting language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Ben may agree but still feel unhappy about it.",
+        "is_correct": true
+      },
+      {
+        "text": "Ben seems pleased because the written words matter more than the picture.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben seems cold, so the frown does not add any feeling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The body language adds a possible feeling that differs from the words.",
+      "hint": "Compare what is said with face and posture; do not rely on one clue alone."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "image_and_words_present_character_reason",
+    "question": "A student answers “Ben seems pleased because the written words matter more than the picture.”. Which feedback helps? Task: The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "audio_prompt": "A student answers “Ben seems pleased because the written words matter more than the picture.”. Which feedback helps? Task: The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-014",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Image and words present character. Notice: Identify setting language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Ben seems pleased because the written words matter more than the picture.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare what is said with face and posture; do not rely on one clue alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Ben seems cold, so the frown does not add any feeling.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare what is said with face and posture; do not rely on one clue alone. The body language adds a possible feeling that differs from the words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "sensory_words_present_a_coast_apply",
+    "question": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "audio_prompt": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-015",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Sensory words present a coast. Notice: Infer impressions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "silent and still",
+        "is_correct": false
+      },
+      {
+        "text": "warm and sleepy",
+        "is_correct": false
+      },
+      {
+        "text": "wild and powerful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stung and thundered make the coastal setting feel wild and powerful.",
+      "hint": "Notice the strong sensory verbs."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "sensory_words_present_a_coast_reason",
+    "question": "A student answers “warm and sleepy”. Which feedback helps? Task: ‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "audio_prompt": "A student answers “warm and sleepy”. Which feedback helps? Task: ‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-016",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Sensory words present a coast. Notice: Infer impressions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Notice the strong sensory verbs.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “warm and sleepy”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “silent and still” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Notice the strong sensory verbs. Stung and thundered make the coastal setting feel wild and powerful.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "speech_reveals_confidence_apply",
+    "question": "‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "audio_prompt": "‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-017",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Speech reveals confidence. Notice: Compare word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "uncertain",
+        "is_correct": false
+      },
+      {
+        "text": "confident",
+        "is_correct": true
+      },
+      {
+        "text": "unhelpful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Jo's direct words and exclamation present confidence.",
+      "hint": "Use the dialogue and punctuation together."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "speech_reveals_confidence_reason",
+    "question": "A student answers “uncertain”. Which feedback helps? Task: ‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "audio_prompt": "A student answers “uncertain”. Which feedback helps? Task: ‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-018",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Speech reveals confidence. Notice: Compare word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “uncertain”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “unhelpful” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the dialogue and punctuation together.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the dialogue and punctuation together. Jo's direct words and exclamation present confidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "compare_setting_moods_apply",
+    "question": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "audio_prompt": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-019",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare setting moods. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the mood created by each description",
+        "is_correct": true
+      },
+      {
+        "text": "the number of people changes, but both word groups create the same mood",
+        "is_correct": false
+      },
+      {
+        "text": "the park name changes, while its sounds and mood stay the same",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrasting adjectives and sounds create different moods.",
+      "hint": "Compare the impressions made by the descriptive words."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "compare_setting_moods_reason",
+    "question": "A student answers “the park name changes, while its sounds and mood stay the same”. Which feedback helps? Task: Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "audio_prompt": "A student answers “the park name changes, while its sounds and mood stay the same”. Which feedback helps? Task: Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-020",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare setting moods. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the park name changes, while its sounds and mood stay the same”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the impressions made by the descriptive words.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the number of people changes, but both word groups create the same mood” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the impressions made by the descriptive words. The contrasting adjectives and sounds create different moods.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "repeated_action_presents_character_apply",
+    "question": "Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "audio_prompt": "Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-021",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Repeated action presents character. Notice: Identify character language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Asha is forgetful.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha is frightened of the kitten.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha is responsible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated caring actions present Asha as responsible.",
+      "hint": "Use the pattern of actions as evidence."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "repeated_action_presents_character_reason",
+    "question": "A student answers “Asha is forgetful.”. Which feedback helps? Task: Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "audio_prompt": "A student answers “Asha is forgetful.”. Which feedback helps? Task: Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-022",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Repeated action presents character. Notice: Identify character language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the pattern of actions as evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Asha is forgetful.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Asha is frightened of the kitten.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the pattern of actions as evidence. The repeated caring actions present Asha as responsible.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "choose_vivid_storm_wording_apply",
+    "question": "Which sentence presents the storm most vividly?",
+    "audio_prompt": "Which sentence presents the storm most vividly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-023",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Choose vivid storm wording. Notice: Identify setting language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Heavy rain fell while the wind moved the branches.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain hammered the roof while branches whipped the windows.",
+        "is_correct": true
+      },
+      {
+        "text": "The storm was very stormy outside the house.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hammered and whipped create strong sound and movement.",
+      "hint": "Choose precise words that help you hear and picture the setting."
+    }
+  },
+  {
+    "id": "AC9E2LE03-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "skill": "choose_vivid_storm_wording_reason",
+    "question": "A student answers “The storm was very stormy outside the house.”. Which feedback helps? Task: Which sentence presents the storm most vividly?",
+    "audio_prompt": "A student answers “The storm was very stormy outside the house.”. Which feedback helps? Task: Which sentence presents the storm most vividly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-p-024",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Choose vivid storm wording. Notice: Identify setting language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The storm was very stormy outside the house.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Heavy rain fell while the wind moved the branches.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose precise words that help you hear and picture the setting.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose precise words that help you hear and picture the setting. Hammered and whipped create strong sound and movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "evidence_for_an_impression_apply",
+    "question": "A reader says the castle feels abandoned. Which line is best evidence?",
+    "audio_prompt": "A reader says the castle feels abandoned. Which line is best evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-001",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Evidence for an impression. Notice: Identify character language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Dust covered the silent rooms and weeds filled the doorway.",
+        "is_correct": true
+      },
+      {
+        "text": "One wooden door stood at the front.",
+        "is_correct": false
+      },
+      {
+        "text": "A bright flag moved above the busy gate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dust, silence and weeds support the impression that nobody cares for the castle.",
+      "hint": "Pick setting details that directly support abandoned."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "evidence_for_an_impression_reason",
+    "question": "A student answers “One wooden door stood at the front.”. Which feedback helps? Task: A reader says the castle feels abandoned. Which line is best evidence?",
+    "audio_prompt": "A student answers “One wooden door stood at the front.”. Which feedback helps? Task: A reader says the castle feels abandoned. Which line is best evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-002",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Evidence for an impression. Notice: Identify character language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “One wooden door stood at the front.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Pick setting details that directly support abandoned.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “A bright flag moved above the busy gate.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pick setting details that directly support abandoned. Dust, silence and weeds support the impression that nobody cares for the castle.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "compare_ways_of_showing_fear_apply",
+    "question": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
+    "audio_prompt": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-003",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare ways of showing fear. Notice: Identify setting language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It names fear more directly than Text A does.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a latch detail but does not present Ravi's feeling.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows fear through Ravi's body and action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Shaking knees and a careful reach let readers infer Ravi's fear from behaviour.",
+      "hint": "Notice whether the feeling is named or shown through evidence."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "compare_ways_of_showing_fear_reason",
+    "question": "A student answers “It gives a latch detail but does not present Ravi's feeling.”. Which feedback helps? Task: Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
+    "audio_prompt": "A student answers “It gives a latch detail but does not present Ravi's feeling.”. Which feedback helps? Task: Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-004",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare ways of showing fear. Notice: Identify setting language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Notice whether the feeling is named or shown through evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “It gives a latch detail but does not present Ravi's feeling.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “It names fear more directly than Text A does.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Notice whether the feeling is named or shown through evidence. Shaking knees and a careful reach let readers infer Ravi's fear from behaviour.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "dialogue_changes_an_impression_apply",
+    "question": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
+    "audio_prompt": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-005",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Dialogue changes an impression. Notice: Infer impressions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "as unsure because she uses short sentences",
+        "is_correct": false
+      },
+      {
+        "text": "as honest and responsible",
+        "is_correct": true
+      },
+      {
+        "text": "as careless because an accident happened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Kira admits what happened and offers to repair it, showing honesty and responsibility.",
+      "hint": "Use both parts of what Kira says."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "dialogue_changes_an_impression_reason",
+    "question": "A student answers “as unsure because she uses short sentences”. Which feedback helps? Task: Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
+    "audio_prompt": "A student answers “as unsure because she uses short sentences”. Which feedback helps? Task: Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-006",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Dialogue changes an impression. Notice: Infer impressions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “as unsure because she uses short sentences”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “as careless because an accident happened” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use both parts of what Kira says.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use both parts of what Kira says. Kira admits what happened and offers to repair it, showing honesty and responsibility.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "setting_through_sound_apply",
+    "question": "Which line presents the library as busy rather than calm?",
+    "audio_prompt": "Which line presents the library as busy rather than calm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-007",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Setting through sound. Notice: Compare word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Chairs scraped, pages flicked and groups whispered at every table.",
+        "is_correct": true
+      },
+      {
+        "text": "One clock ticked above the empty desk.",
+        "is_correct": false
+      },
+      {
+        "text": "Soft light rested on rows of closed books.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Several overlapping actions and sounds make the library seem busy.",
+      "hint": "Choose details that suggest many people and activities."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "setting_through_sound_reason",
+    "question": "A student answers “Soft light rested on rows of closed books.”. Which feedback helps? Task: Which line presents the library as busy rather than calm?",
+    "audio_prompt": "A student answers “Soft light rested on rows of closed books.”. Which feedback helps? Task: Which line presents the library as busy rather than calm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-008",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Setting through sound. Notice: Compare word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Soft light rested on rows of closed books.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose details that suggest many people and activities.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “One clock ticked above the empty desk.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose details that suggest many people and activities. Several overlapping actions and sounds make the library seem busy.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "verb_changes_character_movement_apply",
+    "question": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
+    "audio_prompt": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-009",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Verb changes character movement. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "wandered",
+        "is_correct": false
+      },
+      {
+        "text": "tiptoed",
+        "is_correct": false
+      },
+      {
+        "text": "strode",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Strode suggests deliberate, confident movement onto the stage.",
+      "hint": "Compare the feeling carried by each movement word."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "verb_changes_character_movement_reason",
+    "question": "A student answers “wandered”. Which feedback helps? Task: Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
+    "audio_prompt": "A student answers “wandered”. Which feedback helps? Task: Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-010",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Verb changes character movement. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare the feeling carried by each movement word.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “wandered”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “tiptoed” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the feeling carried by each movement word. Strode suggests deliberate, confident movement onto the stage.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "image_changes_setting_meaning_apply",
+    "question": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
+    "audio_prompt": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-011",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Image changes setting meaning. Notice: Identify character language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "dark windows, a broken gate and thorny weeds",
+        "is_correct": false
+      },
+      {
+        "text": "warm windows, an open gate and flowers by the path",
+        "is_correct": true
+      },
+      {
+        "text": "thick fog hiding the path and roof",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Warm light, openness and flowers support a welcoming impression.",
+      "hint": "Match colour, light and objects to the intended feeling."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "image_changes_setting_meaning_reason",
+    "question": "A student answers “thick fog hiding the path and roof”. Which feedback helps? Task: The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
+    "audio_prompt": "A student answers “thick fog hiding the path and roof”. Which feedback helps? Task: The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-012",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Image changes setting meaning. Notice: Identify character language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “thick fog hiding the path and roof”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “dark windows, a broken gate and thorny weeds” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match colour, light and objects to the intended feeling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match colour, light and objects to the intended feeling. Warm light, openness and flowers support a welcoming impression.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "noun_group_precision_apply",
+    "question": "Which noun group helps a reader picture a nest hidden from view?",
+    "audio_prompt": "Which noun group helps a reader picture a nest hidden from view?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-013",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Noun group precision. Notice: Identify setting language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the tiny nest beneath tangled green vines",
+        "is_correct": true
+      },
+      {
+        "text": "the nest somewhere near plants",
+        "is_correct": false
+      },
+      {
+        "text": "the enormous nest on the open roof",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Size, position and tangled vines create a precise picture of a concealed nest.",
+      "hint": "Look for details that all support hidden."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "noun_group_precision_reason",
+    "question": "A student answers “the nest somewhere near plants”. Which feedback helps? Task: Which noun group helps a reader picture a nest hidden from view?",
+    "audio_prompt": "A student answers “the nest somewhere near plants”. Which feedback helps? Task: Which noun group helps a reader picture a nest hidden from view?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-014",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Noun group precision. Notice: Identify setting language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the nest somewhere near plants”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for details that all support hidden.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the enormous nest on the open roof” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for details that all support hidden. Size, position and tangled vines create a precise picture of a concealed nest.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "compare_character_descriptions_apply",
+    "question": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
+    "audio_prompt": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-015",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare character descriptions. Notice: Infer impressions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The descriptions are unrelated because one uses a word and one uses an action.",
+        "is_correct": false
+      },
+      {
+        "text": "Both descriptions tell the quality directly in exactly the same way.",
+        "is_correct": false
+      },
+      {
+        "text": "Both present Mo as careful, but one tells and one shows.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adjective names the quality, while the repeated checking demonstrates it.",
+      "hint": "Compare the direct label with the action evidence."
+    }
+  },
+  {
+    "id": "AC9E2LE03-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "test",
+    "skill": "compare_character_descriptions_reason",
+    "question": "A student answers “Both descriptions tell the quality directly in exactly the same way.”. Which feedback helps? Task: One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
+    "audio_prompt": "A student answers “Both descriptions tell the quality directly in exactly the same way.”. Which feedback helps? Task: One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le03.svg#ac9e2le03-t-016",
+      "alt_text": "Three-step Describing Characters and Settings organiser. Read: Compare character descriptions. Notice: Infer impressions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare the direct label with the action evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Both descriptions tell the quality directly in exactly the same way.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The descriptions are unrelated because one uses a word and one uses an action.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the direct label with the action evidence. The adjective names the quality, while the repeated checking demonstrates it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

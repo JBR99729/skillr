@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA04-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "clear_lunchbox_pronouns_apply",
+    "question": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
+    "audio_prompt": "Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-001",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Clear lunchbox pronouns. Notice: Identify pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "his — He — it",
+        "is_correct": true
+      },
+      {
+        "text": "him — His — it",
+        "is_correct": false
+      },
+      {
+        "text": "his — It — him",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "His shows ownership, He points to Luca and it points to the lunch.",
+      "hint": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "clear_lunchbox_pronouns_reason",
+    "question": "A student answers “him — His — it”. Which feedback helps? Task: Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
+    "audio_prompt": "A student answers “him — His — it”. Which feedback helps? Task: Luca is a boy. Which words, in order, complete this edit: “Luca packed blank lunch. Blank put blank in the bag”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-002",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Clear lunchbox pronouns. Notice: Identify pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “him — His — it”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “his — It — him” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing. His shows ownership, He points to Luca and it points to the lunch.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "show_who_owns_the_coat_apply",
+    "question": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
+    "audio_prompt": "Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-003",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Show who owns the coat. Notice: Use personal pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "hers — her",
+        "is_correct": false
+      },
+      {
+        "text": "her — it",
+        "is_correct": false
+      },
+      {
+        "text": "her — she",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Her shows that the raincoat belongs to Ava, and she points back to Ava.",
+      "hint": "Choose a possessive word before raincoat and a personal pronoun before went."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "show_who_owns_the_coat_reason",
+    "question": "A student answers “her — it”. Which feedback helps? Task: Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
+    "audio_prompt": "A student answers “her — it”. Which feedback helps? Task: Ava is a girl. Which words, in order, complete this edit: “Ava grabbed blank raincoat before blank went outside”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-004",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Show who owns the coat. Notice: Use personal pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a possessive word before raincoat and a personal pronoun before went.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “her — it”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “hers — her” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a possessive word before raincoat and a personal pronoun before went. Her shows that the raincoat belongs to Ava, and she points back to Ava.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "track_what_rolled_apply",
+    "question": "The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
+    "audio_prompt": "The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-005",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Track what rolled. Notice: Use possessive pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the puppy",
+        "is_correct": false
+      },
+      {
+        "text": "the ball",
+        "is_correct": true
+      },
+      {
+        "text": "the chair",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ball is the thing that can roll after the puppy nudges it.",
+      "hint": "Look for the named thing that makes sense with the action rolled."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "track_what_rolled_reason",
+    "question": "A student answers “the puppy”. Which feedback helps? Task: The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
+    "audio_prompt": "A student answers “the puppy”. Which feedback helps? Task: The puppy nudged the ball. It rolled under the chair. What does “It” mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-006",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Track what rolled. Notice: Use possessive pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the puppy”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the chair” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for the named thing that makes sense with the action rolled.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for the named thing that makes sense with the action rolled. The ball is the thing that can roll after the puppy nudges it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "leave_out_a_repeated_noun_apply",
+    "question": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
+    "audio_prompt": "Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-007",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Leave out a repeated noun. Notice: Track references. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "cup",
+        "is_correct": true
+      },
+      {
+        "text": "red",
+        "is_correct": false
+      },
+      {
+        "text": "Nia",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
+      "hint": "Put the earlier noun after blue and check that the sentence makes sense."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "leave_out_a_repeated_noun_reason",
+    "question": "A student answers “Nia”. Which feedback helps? Task: Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
+    "audio_prompt": "A student answers “Nia”. Which feedback helps? Task: Nia chose the red cup, and Max chose the blue. Which word can readers supply after “blue”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-008",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Leave out a repeated noun. Notice: Track references. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Nia”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the earlier noun after blue and check that the sentence makes sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “red” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Put the earlier noun after blue and check that the sentence makes sense. Cup can be left out after blue because the first noun makes the missing meaning clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "edit_repeated_bike_nouns_apply",
+    "question": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
+    "audio_prompt": "Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-009",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Edit repeated bike nouns. Notice: Reduce repetition clearly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "She washed it. Then she dried it.",
+        "is_correct": false
+      },
+      {
+        "text": "Tess washed her bike. Then Tess dried Tess's bike.",
+        "is_correct": false
+      },
+      {
+        "text": "Tess washed her bike. Then she dried it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The noun Tess comes first, so her and she are clear; it points to the bike.",
+      "hint": "Keep the first name or noun, then replace only the repetition that stays clear."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "edit_repeated_bike_nouns_reason",
+    "question": "A student answers “She washed it. Then she dried it.”. Which feedback helps? Task: Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
+    "audio_prompt": "A student answers “She washed it. Then she dried it.”. Which feedback helps? Task: Tess washed Tess's bike. Tess dried Tess's bike. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-010",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Edit repeated bike nouns. Notice: Reduce repetition clearly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep the first name or noun, then replace only the repetition that stays clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “She washed it. Then she dried it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Tess washed her bike. Then Tess dried Tess's bike.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep the first name or noun, then replace only the repetition that stays clear. The noun Tess comes first, so her and she are clear; it points to the bike.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "fix_an_unclear_he_apply",
+    "question": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
+    "audio_prompt": "Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-011",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Fix an unclear he. Notice: Identify pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Kai stood beside Omar. He held his kite.",
+        "is_correct": false
+      },
+      {
+        "text": "Kai stood beside Omar. Kai held a kite.",
+        "is_correct": true
+      },
+      {
+        "text": "Kai stood beside Omar. Omar held a kite.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
+      "hint": "When two people could match he, repeat the correct name."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "fix_an_unclear_he_reason",
+    "question": "A student answers “Kai stood beside Omar. Omar held a kite.”. Which feedback helps? Task: Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
+    "audio_prompt": "A student answers “Kai stood beside Omar. Omar held a kite.”. Which feedback helps? Task: Kai stood beside Omar. He held a kite. The writer means Kai held it. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-012",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Fix an unclear he. Notice: Identify pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Kai stood beside Omar. Omar held a kite.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Kai stood beside Omar. He held his kite.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "When two people could match he, repeat the correct name.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "When two people could match he, repeat the correct name. Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "connect_scarf_ideas_apply",
+    "question": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
+    "audio_prompt": "Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-013",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Connect scarf ideas. Notice: Use personal pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Ruby found her scarf. She wrapped it around her neck.",
+        "is_correct": true
+      },
+      {
+        "text": "She found her scarf. Ruby wrapped the scarf around Ruby's neck.",
+        "is_correct": false
+      },
+      {
+        "text": "Ruby found her scarf. Ruby wrapped Ruby's scarf around her neck.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
+      "hint": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "connect_scarf_ideas_reason",
+    "question": "A student answers “She found her scarf. Ruby wrapped the scarf around Ruby's neck.”. Which feedback helps? Task: Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
+    "audio_prompt": "A student answers “She found her scarf. Ruby wrapped the scarf around Ruby's neck.”. Which feedback helps? Task: Ruby found Ruby's scarf. Ruby wrapped Ruby's scarf around Ruby's neck. Which edit connects the ideas most smoothly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-014",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Connect scarf ideas. Notice: Use personal pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “She found her scarf. Ruby wrapped the scarf around Ruby's neck.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Ruby found her scarf. Ruby wrapped Ruby's scarf around her neck.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start. Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "connect_cat_care_actions_apply",
+    "question": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
+    "audio_prompt": "Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-015",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Connect cat-care actions. Notice: Use possessive pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "She fed the cat. Then Sasha filled the cat's water bowl.",
+        "is_correct": false
+      },
+      {
+        "text": "Sasha fed her cat. Then Sasha filled the cat's water bowl.",
+        "is_correct": false
+      },
+      {
+        "text": "Sasha fed her cat. Then she filled its water bowl.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Her and she point to Sasha, while its points to the cat.",
+      "hint": "Name the owner and pet first, then replace only the repetitions that stay clear."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "connect_cat_care_actions_reason",
+    "question": "A student answers “Sasha fed her cat. Then Sasha filled the cat's water bowl.”. Which feedback helps? Task: Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
+    "audio_prompt": "A student answers “Sasha fed her cat. Then Sasha filled the cat's water bowl.”. Which feedback helps? Task: Sasha fed Sasha's cat. Sasha filled the cat's water bowl. Which edit is clearest and least repetitive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-016",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Connect cat-care actions. Notice: Use possessive pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Name the owner and pet first, then replace only the repetitions that stay clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Sasha fed her cat. Then Sasha filled the cat's water bowl.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “She fed the cat. Then Sasha filled the cat's water bowl.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name the owner and pet first, then replace only the repetitions that stay clear. Her and she point to Sasha, while its points to the cat.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "infer_a_missing_shell_noun_apply",
+    "question": "I collected the large shells, and Bo collected the small. What is understood after “small”?",
+    "audio_prompt": "I collected the large shells, and Bo collected the small. What is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-017",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer a missing shell noun. Notice: Track references. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "large",
+        "is_correct": false
+      },
+      {
+        "text": "shells",
+        "is_correct": true
+      },
+      {
+        "text": "collected",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Shells is understood because it was named earlier and small describes the second group.",
+      "hint": "Put the earlier noun after small and read the sentence again."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "infer_a_missing_shell_noun_reason",
+    "question": "A student answers “large”. Which feedback helps? Task: I collected the large shells, and Bo collected the small. What is understood after “small”?",
+    "audio_prompt": "A student answers “large”. Which feedback helps? Task: I collected the large shells, and Bo collected the small. What is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-018",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer a missing shell noun. Notice: Track references. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “large”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “collected” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the earlier noun after small and read the sentence again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Put the earlier noun after small and read the sentence again. Shells is understood because it was named earlier and small describes the second group.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "choose_a_clear_animal_reference_apply",
+    "question": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
+    "audio_prompt": "The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-019",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Choose a clear animal reference. Notice: Reduce repetition clearly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The zebras saw the lions. The zebras ran across the plain.",
+        "is_correct": true
+      },
+      {
+        "text": "The zebras saw the lions. They ran across the plain.",
+        "is_correct": false
+      },
+      {
+        "text": "The zebras saw the lions. The lions ran across the plain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating the zebras removes doubt about which animals ran.",
+      "hint": "When they could mean either group, repeat the intended group name."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "choose_a_clear_animal_reference_reason",
+    "question": "A student answers “The zebras saw the lions. The lions ran across the plain.”. Which feedback helps? Task: The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
+    "audio_prompt": "A student answers “The zebras saw the lions. The lions ran across the plain.”. Which feedback helps? Task: The zebras saw the lions. They ran across the plain. The writer means the zebras ran. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-020",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Choose a clear animal reference. Notice: Reduce repetition clearly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The zebras saw the lions. The lions ran across the plain.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "When they could mean either group, repeat the intended group name.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The zebras saw the lions. They ran across the plain.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "When they could mean either group, repeat the intended group name. Repeating the zebras removes doubt about which animals ran.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "reduce_name_repetition_apply",
+    "question": "Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
+    "audio_prompt": "Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-021",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Reduce name repetition. Notice: Identify pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "She opened the gate. Nora led her pony through it.",
+        "is_correct": false
+      },
+      {
+        "text": "Nora opened the gate. Nora led Nora's pony through it.",
+        "is_correct": false
+      },
+      {
+        "text": "Nora opened the gate. She led her pony through it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "She and her point to Nora, while it points to the named gate.",
+      "hint": "Keep Nora named before using she or her, then replace clear repetitions."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "reduce_name_repetition_reason",
+    "question": "A student answers “She opened the gate. Nora led her pony through it.”. Which feedback helps? Task: Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
+    "audio_prompt": "A student answers “She opened the gate. Nora led her pony through it.”. Which feedback helps? Task: Nora opened the gate. Nora led Nora's pony through the gate. Which edit connects the actions most smoothly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-022",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Reduce name repetition. Notice: Identify pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep Nora named before using she or her, then replace clear repetitions.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “She opened the gate. Nora led her pony through it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Nora opened the gate. Nora led Nora's pony through it.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep Nora named before using she or her, then replace clear repetitions. She and her point to Nora, while it points to the named gate.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "keep_a_pronoun_reference_clear_apply",
+    "question": "The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
+    "audio_prompt": "The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-023",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Keep a pronoun reference clear. Notice: Use personal pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The kite caught on the tree, and it tore.",
+        "is_correct": false
+      },
+      {
+        "text": "The kite caught on the tree, and the kite tore.",
+        "is_correct": true
+      },
+      {
+        "text": "The kite caught on the tree, and the tree tore.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeating kite prevents it from seeming to point to the tree.",
+      "hint": "If it could mean two things, name the intended thing again."
+    }
+  },
+  {
+    "id": "AC9E2LA04-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "practice",
+    "skill": "keep_a_pronoun_reference_clear_reason",
+    "question": "A student answers “The kite caught on the tree, and the tree tore.”. Which feedback helps? Task: The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
+    "audio_prompt": "A student answers “The kite caught on the tree, and the tree tore.”. Which feedback helps? Task: The kite caught on the tree, and it tore. The writer means the kite tore. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-p-024",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Keep a pronoun reference clear. Notice: Use personal pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The kite caught on the tree, and the tree tore.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The kite caught on the tree, and it tore.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "If it could mean two things, name the intended thing again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "If it could mean two things, name the intended thing again. Repeating kite prevents it from seeming to point to the tree.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "follow_the_koala_reference_apply",
+    "question": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "audio_prompt": "A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-001",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Follow the koala reference. Notice: Identify pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the koala",
+        "is_correct": true
+      },
+      {
+        "text": "the branch",
+        "is_correct": false
+      },
+      {
+        "text": "the claws",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The koala, not the branch or claws, is the living thing that sleeps.",
+      "hint": "Read the action after the pronoun and ask which earlier noun can do it."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "follow_the_koala_reference_reason",
+    "question": "A student answers “the branch”. Which feedback helps? Task: A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "audio_prompt": "A student answers “the branch”. Which feedback helps? Task: A koala gripped a branch with its claws. It slept there for hours. What does the second “It” mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-002",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Follow the koala reference. Notice: Identify pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “the branch”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Read the action after the pronoun and ask which earlier noun can do it.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the claws” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the action after the pronoun and ask which earlier noun can do it. The koala, not the branch or claws, is the living thing that sleeps.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "name_the_caller_clearly_apply",
+    "question": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "audio_prompt": "Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-003",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Name the caller clearly. Notice: Use personal pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Ella passed the ball to Zoe after she called for it.",
+        "is_correct": false
+      },
+      {
+        "text": "Ella passed the ball to Zoe after Ella called for it.",
+        "is_correct": false
+      },
+      {
+        "text": "Ella passed the ball to Zoe after Zoe called for it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeating Zoe shows exactly who called and removes the unclear she.",
+      "hint": "Two people can match she, so name the intended person again."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "name_the_caller_clearly_reason",
+    "question": "A student answers “Ella passed the ball to Zoe after Ella called for it.”. Which feedback helps? Task: Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "audio_prompt": "A student answers “Ella passed the ball to Zoe after Ella called for it.”. Which feedback helps? Task: Ella passed the ball to Zoe after she called for it. The writer means Zoe called. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-004",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Name the caller clearly. Notice: Use personal pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Two people can match she, so name the intended person again.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Ella passed the ball to Zoe after Ella called for it.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Ella passed the ball to Zoe after she called for it.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two people can match she, so name the intended person again. Repeating Zoe shows exactly who called and removes the unclear she.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_a_missing_picnic_noun_apply",
+    "question": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "audio_prompt": "Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-005",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer a missing picnic noun. Notice: Use possessive pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "large",
+        "is_correct": false
+      },
+      {
+        "text": "plates",
+        "is_correct": true
+      },
+      {
+        "text": "Dad",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Plates is understood after small because the same noun was named earlier.",
+      "hint": "Repeat the earlier noun after small and test the meaning."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_a_missing_picnic_noun_reason",
+    "question": "A student answers “large”. Which feedback helps? Task: Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "audio_prompt": "A student answers “large”. Which feedback helps? Task: Dad packed the large plates, and I packed the small. Which word is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-006",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer a missing picnic noun. Notice: Use possessive pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “large”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Dad” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the earlier noun after small and test the meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeat the earlier noun after small and test the meaning. Plates is understood after small because the same noun was named earlier.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "repair_a_robot_reference_apply",
+    "question": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "audio_prompt": "The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-007",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Repair a robot reference. Notice: Track references. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The robot lifted the box. The robot flashed a green light.",
+        "is_correct": true
+      },
+      {
+        "text": "The robot lifted the box. It flashed a green light.",
+        "is_correct": false
+      },
+      {
+        "text": "The robot lifted the box. The box flashed a green light.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating the robot prevents it from seeming to mean the nearby box.",
+      "hint": "If a pronoun could point to two things, repeat the intended noun."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "repair_a_robot_reference_reason",
+    "question": "A student answers “The robot lifted the box. The box flashed a green light.”. Which feedback helps? Task: The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "audio_prompt": "A student answers “The robot lifted the box. The box flashed a green light.”. Which feedback helps? Task: The robot lifted the box. It flashed a green light. The writer means the robot flashed. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-008",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Repair a robot reference. Notice: Track references. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The robot lifted the box. The box flashed a green light.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "If a pronoun could point to two things, repeat the intended noun.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The robot lifted the box. It flashed a green light.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "If a pronoun could point to two things, repeat the intended noun. Repeating the robot prevents it from seeming to mean the nearby box.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "track_two_model_makers_apply",
+    "question": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "audio_prompt": "Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-009",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Track two model makers. Notice: Reduce repetition clearly. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "His was a whale, and hers was a rocket.",
+        "is_correct": false
+      },
+      {
+        "text": "Theirs was a whale, and theirs was a rocket.",
+        "is_correct": false
+      },
+      {
+        "text": "Hers was a whale, and his was a rocket.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hers points to Mila's model and his points to Noah's model.",
+      "hint": "Match each possessive word to the owner and model named in the speech."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "track_two_model_makers_reason",
+    "question": "A student answers “His was a whale, and hers was a rocket.”. Which feedback helps? Task: Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "audio_prompt": "A student answers “His was a whale, and hers was a rocket.”. Which feedback helps? Task: Mila says, “My model is a whale.” Noah says, “My model is a rocket.” Which sentence clearly compares their models?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-010",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Track two model makers. Notice: Reduce repetition clearly. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match each possessive word to the owner and model named in the speech.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “His was a whale, and hers was a rocket.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Theirs was a whale, and theirs was a rocket.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match each possessive word to the owner and model named in the speech. Hers points to Mila's model and his points to Noah's model.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_an_omitted_noun_apply",
+    "question": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "audio_prompt": "The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-011",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer an omitted noun. Notice: Identify pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "sharp",
+        "is_correct": false
+      },
+      {
+        "text": "pencils",
+        "is_correct": true
+      },
+      {
+        "text": "blue",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The red means the red pencils because pencils was named just before it.",
+      "hint": "Supply the earlier noun and check that the full sentence makes sense."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_an_omitted_noun_reason",
+    "question": "A student answers “blue”. Which feedback helps? Task: The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "audio_prompt": "A student answers “blue”. Which feedback helps? Task: The blue pencils are sharp, but the red are blunt. Which word has been left out after “red”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-012",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer an omitted noun. Notice: Identify pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “blue”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “sharp” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Supply the earlier noun and check that the full sentence makes sense.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Supply the earlier noun and check that the full sentence makes sense. The red means the red pencils because pencils was named just before it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_balloons_in_a_comparison_apply",
+    "question": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "audio_prompt": "Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-013",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer balloons in a comparison. Notice: Use personal pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "balloons",
+        "is_correct": true
+      },
+      {
+        "text": "team",
+        "is_correct": false
+      },
+      {
+        "text": "large",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Balloons can be inferred because the same kind of item was named in the first part.",
+      "hint": "Repeat the earlier item after small and test the meaning."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "infer_balloons_in_a_comparison_reason",
+    "question": "A student answers “team”. Which feedback helps? Task: Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "audio_prompt": "A student answers “team”. Which feedback helps? Task: Our team chose two large balloons; their team chose three small. Which word is understood after “small”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-014",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Infer balloons in a comparison. Notice: Use personal pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “team”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the earlier item after small and test the meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “large” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeat the earlier item after small and test the meaning. Balloons can be inferred because the same kind of item was named in the first part.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "clarify_what_was_cracked_apply",
+    "question": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "audio_prompt": "Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-015",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Clarify what was cracked. Notice: Use possessive pronouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Ravi put the bowl beside the lamp. It was cracked.",
+        "is_correct": false
+      },
+      {
+        "text": "Ravi put the bowl beside the lamp. The lamp was cracked.",
+        "is_correct": false
+      },
+      {
+        "text": "Ravi put the bowl beside the lamp. The bowl was cracked.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeating bowl removes the unclear reference created by two nearby things.",
+      "hint": "Name the intended object when it could point to either noun."
+    }
+  },
+  {
+    "id": "AC9E2LA04-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA04",
+    "bank": "test",
+    "skill": "clarify_what_was_cracked_reason",
+    "question": "A student answers “Ravi put the bowl beside the lamp. The lamp was cracked.”. Which feedback helps? Task: Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "audio_prompt": "A student answers “Ravi put the bowl beside the lamp. The lamp was cracked.”. Which feedback helps? Task: Ravi put the bowl beside the lamp. It was cracked. The writer means the bowl was cracked. Which edit is clearest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la04.svg#ac9e2la04-t-016",
+      "alt_text": "Three-step Pronouns and Cohesion organiser. Read: Clarify what was cracked. Notice: Use possessive pronouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Name the intended object when it could point to either noun.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Ravi put the bowl beside the lamp. The lamp was cracked.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Ravi put the bowl beside the lamp. It was cracked.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name the intended object when it could point to either noun. Repeating bowl removes the unclear reference created by two nearby things.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

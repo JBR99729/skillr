@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LE04-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_end_rhyme_apply",
+    "question": "Which pair could end two rhyming lines?",
+    "audio_prompt": "Which pair could end two rhyming lines?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-001",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise end rhyme. Notice: Hear rhythm. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "boat and bird",
+        "is_correct": false
+      },
+      {
+        "text": "boat and goat",
+        "is_correct": true
+      },
+      {
+        "text": "goat and gate",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Boat and goat share the same ending sound.",
+      "hint": "Say the words aloud and listen to the final sound pattern."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_end_rhyme_reason",
+    "question": "A student answers “boat and bird”. Which feedback helps? Task: Which pair could end two rhyming lines?",
+    "audio_prompt": "A student answers “boat and bird”. Which feedback helps? Task: Which pair could end two rhyming lines?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-002",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise end rhyme. Notice: Hear rhythm. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “boat and bird”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “goat and gate” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the words aloud and listen to the final sound pattern.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say the words aloud and listen to the final sound pattern. Boat and goat share the same ending sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_rhythm_apply",
+    "question": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
+    "audio_prompt": "Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-003",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise rhythm. Notice: Identify rhyme. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the repeated tap pattern at the start",
+        "is_correct": true
+      },
+      {
+        "text": "the word floor appearing once at the end",
+        "is_correct": false
+      },
+      {
+        "text": "reading every word with no strong or weak beats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating tap creates a clear rhythmic beat.",
+      "hint": "Listen for words or syllables that repeat in time."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_rhythm_reason",
+    "question": "A student answers “reading every word with no strong or weak beats”. Which feedback helps? Task: Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
+    "audio_prompt": "A student answers “reading every word with no strong or weak beats”. Which feedback helps? Task: Clap this line: ‘Tap, tap, toes on the floor.’ What helps make the beat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-004",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise rhythm. Notice: Identify rhyme. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “reading every word with no strong or weak beats”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for words or syllables that repeat in time.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “the word floor appearing once at the end” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listen for words or syllables that repeat in time. Repeating tap creates a clear rhythmic beat.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "continue_a_rhyme_apply",
+    "question": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
+    "audio_prompt": "Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-005",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Continue a rhyme. Notice: Identify repetition. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "sings",
+        "is_correct": false
+      },
+      {
+        "text": "runs",
+        "is_correct": false
+      },
+      {
+        "text": "blows",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Glows and blows share the same ending sound and complete the rhyme.",
+      "hint": "Choose a word that makes sense and rhymes with glows."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "continue_a_rhyme_reason",
+    "question": "A student answers “sings”. Which feedback helps? Task: Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
+    "audio_prompt": "A student answers “sings”. Which feedback helps? Task: Which word completes this rhyme? ‘The bright moon glows; the night wind does this.’",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-006",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Continue a rhyme. Notice: Identify repetition. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a word that makes sense and rhymes with glows.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “sings”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “runs” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a word that makes sense and rhymes with glows. Glows and blows share the same ending sound and complete the rhyme.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "identify_repetition_effect_apply",
+    "question": "A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
+    "audio_prompt": "A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-007",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Identify repetition effect. Notice: Reproduce a pattern. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "change the action from marching to running",
+        "is_correct": false
+      },
+      {
+        "text": "join and keep the chant's strong beat",
+        "is_correct": true
+      },
+      {
+        "text": "make each March quieter than the one before",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated word strengthens the beat and makes the chant easy to join.",
+      "hint": "Think about how repeated words sound in performance."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "identify_repetition_effect_reason",
+    "question": "A student answers “make each March quieter than the one before”. Which feedback helps? Task: A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
+    "audio_prompt": "A student answers “make each March quieter than the one before”. Which feedback helps? Task: A chant repeats ‘March, march, march!’ What does the repetition help readers do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-008",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Identify repetition effect. Notice: Reproduce a pattern. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “make each March quieter than the one before”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “change the action from marching to running” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about how repeated words sound in performance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Think about how repeated words sound in performance. The repeated word strengthens the beat and makes the chant easy to join.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "reproduce_sound_pattern_apply",
+    "question": "Which new line keeps the pattern ‘Clap twice, stamp once’?",
+    "audio_prompt": "Which new line keeps the pattern ‘Clap twice, stamp once’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-009",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Reproduce sound pattern. Notice: Create a variation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Clap, clap, stamp!",
+        "is_correct": true
+      },
+      {
+        "text": "Clap, stamp, stamp!",
+        "is_correct": false
+      },
+      {
+        "text": "Clap, stamp, clap!",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two claps followed by one stamp reproduces the given pattern.",
+      "hint": "Match the number and order of sounds."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "reproduce_sound_pattern_reason",
+    "question": "A student answers “Clap, stamp, stamp!”. Which feedback helps? Task: Which new line keeps the pattern ‘Clap twice, stamp once’?",
+    "audio_prompt": "A student answers “Clap, stamp, stamp!”. Which feedback helps? Task: Which new line keeps the pattern ‘Clap twice, stamp once’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-010",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Reproduce sound pattern. Notice: Create a variation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Clap, stamp, stamp!”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the number and order of sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Clap, stamp, clap!” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the number and order of sounds. Two claps followed by one stamp reproduces the given pattern.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "experiment_with_alliteration_apply",
+    "question": "Which phrase repeats the first sound to make a playful pattern?",
+    "audio_prompt": "Which phrase repeats the first sound to make a playful pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-011",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Experiment with alliteration. Notice: Hear rhythm. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "bees fly home",
+        "is_correct": false
+      },
+      {
+        "text": "a yellow flower",
+        "is_correct": false
+      },
+      {
+        "text": "busy buzzing bees",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Busy, buzzing and bees repeat the /b/ sound.",
+      "hint": "Listen to the first sound in each word."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "experiment_with_alliteration_reason",
+    "question": "A student answers “a yellow flower”. Which feedback helps? Task: Which phrase repeats the first sound to make a playful pattern?",
+    "audio_prompt": "A student answers “a yellow flower”. Which feedback helps? Task: Which phrase repeats the first sound to make a playful pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-012",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Experiment with alliteration. Notice: Hear rhythm. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Listen to the first sound in each word.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a yellow flower”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “bees fly home” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Listen to the first sound in each word. Busy, buzzing and bees repeat the /b/ sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "change_one_rhyme_word_apply",
+    "question": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
+    "audio_prompt": "The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-013",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Change one rhyme word. Notice: Identify rhyme. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A fish sat on a log.",
+        "is_correct": false
+      },
+      {
+        "text": "A dog sat on a log.",
+        "is_correct": true
+      },
+      {
+        "text": "A frog swam in a pond.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dog and log rhyme, so the sound pattern remains.",
+      "hint": "Keep the ending sounds alike."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "change_one_rhyme_word_reason",
+    "question": "A student answers “A fish sat on a log.”. Which feedback helps? Task: The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
+    "audio_prompt": "A student answers “A fish sat on a log.”. Which feedback helps? Task: The line is ‘A frog sat on a log.’ Which change keeps the rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-014",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Change one rhyme word. Notice: Identify rhyme. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “A fish sat on a log.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “A frog swam in a pond.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the ending sounds alike.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep the ending sounds alike. Dog and log rhyme, so the sound pattern remains.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "continue_an_alternating_beat_apply",
+    "question": "A chant pattern is stomp, clap, stomp, clap. What comes next?",
+    "audio_prompt": "A chant pattern is stomp, clap, stomp, clap. What comes next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-015",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Continue an alternating beat. Notice: Identify repetition. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "stomp",
+        "is_correct": true
+      },
+      {
+        "text": "clap",
+        "is_correct": false
+      },
+      {
+        "text": "stomp and clap together",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The alternating stomp-clap pattern repeats with stomp next.",
+      "hint": "Say or tap the pattern from the beginning."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "continue_an_alternating_beat_reason",
+    "question": "A student answers “stomp and clap together”. Which feedback helps? Task: A chant pattern is stomp, clap, stomp, clap. What comes next?",
+    "audio_prompt": "A student answers “stomp and clap together”. Which feedback helps? Task: A chant pattern is stomp, clap, stomp, clap. What comes next?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-016",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Continue an alternating beat. Notice: Identify repetition. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “stomp and clap together”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Say or tap the pattern from the beginning.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “clap” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Say or tap the pattern from the beginning. The alternating stomp-clap pattern repeats with stomp next.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "complete_a_rhyming_couplet_apply",
+    "question": "Which second line rhymes with ‘A snail sailed by in the rain’?",
+    "audio_prompt": "Which second line rhymes with ‘A snail sailed by in the rain’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-017",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Complete a rhyming couplet. Notice: Reproduce a pattern. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It slept beside a tree.",
+        "is_correct": false
+      },
+      {
+        "text": "The snail was very slow.",
+        "is_correct": false
+      },
+      {
+        "text": "It waved from a silver train.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rain and train share the ending sound, forming a rhyming pair.",
+      "hint": "Listen to the last word in each line."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "complete_a_rhyming_couplet_reason",
+    "question": "A student answers “It slept beside a tree.”. Which feedback helps? Task: Which second line rhymes with ‘A snail sailed by in the rain’?",
+    "audio_prompt": "A student answers “It slept beside a tree.”. Which feedback helps? Task: Which second line rhymes with ‘A snail sailed by in the rain’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-018",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Complete a rhyming couplet. Notice: Reproduce a pattern. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Listen to the last word in each line.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “It slept beside a tree.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The snail was very slow.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Listen to the last word in each line. Rain and train share the ending sound, forming a rhyming pair.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_a_repeated_refrain_apply",
+    "question": "A song uses ‘Home again’ after every verse. What is this repeated line doing?",
+    "audio_prompt": "A song uses ‘Home again’ after every verse. What is this repeated line doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-019",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise a repeated refrain. Notice: Create a variation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "beginning the next verse with a different pattern",
+        "is_correct": false
+      },
+      {
+        "text": "creating a refrain listeners can expect",
+        "is_correct": true
+      },
+      {
+        "text": "ending the song permanently after the first verse",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A line repeated after each verse is a refrain and supports the song pattern.",
+      "hint": "Notice where the same line returns."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "recognise_a_repeated_refrain_reason",
+    "question": "A student answers “ending the song permanently after the first verse”. Which feedback helps? Task: A song uses ‘Home again’ after every verse. What is this repeated line doing?",
+    "audio_prompt": "A student answers “ending the song permanently after the first verse”. Which feedback helps? Task: A song uses ‘Home again’ after every verse. What is this repeated line doing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-020",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Recognise a repeated refrain. Notice: Create a variation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “ending the song permanently after the first verse”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “beginning the next verse with a different pattern” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Notice where the same line returns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice where the same line returns. A line repeated after each verse is a refrain and supports the song pattern.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "vary_a_chant_pattern_apply",
+    "question": "The chant says ‘Swish like the sea’. Which new line keeps the rhythm and changes the image?",
+    "audio_prompt": "The chant says ‘Swish like the sea’. Which new line keeps the rhythm and changes the image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-021",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Vary a chant pattern. Notice: Hear rhythm. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Float like a leaf",
+        "is_correct": true
+      },
+      {
+        "text": "Drift slowly like a yellow leaf",
+        "is_correct": false
+      },
+      {
+        "text": "A leaf floats softly on the sea",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Float like a leaf keeps a short action-like-a-noun pattern.",
+      "hint": "Speak each option aloud and compare its beat pattern with the model."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "vary_a_chant_pattern_reason",
+    "question": "A student answers “Drift slowly like a yellow leaf”. Which feedback helps? Task: The chant says ‘Swish like the sea’. Which new line keeps the rhythm and changes the image?",
+    "audio_prompt": "A student answers “Drift slowly like a yellow leaf”. Which feedback helps? Task: The chant says ‘Swish like the sea’. Which new line keeps the rhythm and changes the image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-022",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Vary a chant pattern. Notice: Hear rhythm. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Drift slowly like a yellow leaf”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Speak each option aloud and compare its beat pattern with the model.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “A leaf floats softly on the sea” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Speak each option aloud and compare its beat pattern with the model. Float like a leaf keeps a short action-like-a-noun pattern.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "use_repeated_sound_words_apply",
+    "question": "Which line uses repeated sound words for rhythm?",
+    "audio_prompt": "Which line uses repeated sound words for rhythm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-023",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Use repeated sound words. Notice: Identify rhyme. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Drip, drop, rain falls on the roof.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain, rain, rain falls over the roof.",
+        "is_correct": false
+      },
+      {
+        "text": "Drip, drop, drip, drop, rain on the roof.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Drip and drop copy sounds and repeat in a rhythmic pattern.",
+      "hint": "Look for sound words that repeat as a pattern."
+    }
+  },
+  {
+    "id": "AC9E2LE04-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "practice",
+    "skill": "use_repeated_sound_words_reason",
+    "question": "A student answers “Rain, rain, rain falls over the roof.”. Which feedback helps? Task: Which line uses repeated sound words for rhythm?",
+    "audio_prompt": "A student answers “Rain, rain, rain falls over the roof.”. Which feedback helps? Task: Which line uses repeated sound words for rhythm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-p-024",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Use repeated sound words. Notice: Identify rhyme. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for sound words that repeat as a pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Rain, rain, rain falls over the roof.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Drip, drop, rain falls on the roof.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for sound words that repeat as a pattern. Drip and drop copy sounds and repeat in a rhythmic pattern.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "perform_a_repeated_word_apply",
+    "question": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
+    "audio_prompt": "A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-001",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Perform a repeated word. Notice: Hear rhythm. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "say each Hush loudly and speed up each time",
+        "is_correct": false
+      },
+      {
+        "text": "say each Hush softly with an even pause",
+        "is_correct": true
+      },
+      {
+        "text": "say the first Hush softly, then rush through the next two",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Soft delivery and even pauses reproduce the repeated hush pattern.",
+      "hint": "Match voice and timing to the word's meaning and repeated pattern."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "perform_a_repeated_word_reason",
+    "question": "A student answers “say each Hush loudly and speed up each time”. Which feedback helps? Task: A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
+    "audio_prompt": "A student answers “say each Hush loudly and speed up each time”. Which feedback helps? Task: A poem repeats ‘Hush’ three times. Which performance best matches the word and its even pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-002",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Perform a repeated word. Notice: Hear rhythm. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “say each Hush loudly and speed up each time”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “say the first Hush softly, then rush through the next two” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match voice and timing to the word's meaning and repeated pattern.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match voice and timing to the word's meaning and repeated pattern. Soft delivery and even pauses reproduce the repeated hush pattern.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "build_a_four_beat_line_apply",
+    "question": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
+    "audio_prompt": "Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-003",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Build a four-beat line. Notice: Identify rhyme. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "TURN a-ROUND and TOUCH the GROUND",
+        "is_correct": true
+      },
+      {
+        "text": "TURN and TOUCH the GROUND",
+        "is_correct": false
+      },
+      {
+        "text": "TURN a-ROUND, then JUMP up HIGH and CLAP",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The new line can be spoken in four strong beat groups like the model.",
+      "hint": "Tap each line and count the strongest beats."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "build_a_four_beat_line_reason",
+    "question": "A student answers “TURN a-ROUND, then JUMP up HIGH and CLAP”. Which feedback helps? Task: Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
+    "audio_prompt": "A student answers “TURN a-ROUND, then JUMP up HIGH and CLAP”. Which feedback helps? Task: Which line has four clear beats to match ‘STOMP your FEET and CLAP your HANDS’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-004",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Build a four-beat line. Notice: Identify rhyme. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “TURN a-ROUND, then JUMP up HIGH and CLAP”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Tap each line and count the strongest beats.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “TURN and TOUCH the GROUND” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Tap each line and count the strongest beats. The new line can be spoken in four strong beat groups like the model.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "change_rhyme_but_keep_rhythm_apply",
+    "question": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
+    "audio_prompt": "The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-005",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Change rhyme but keep rhythm. Notice: Identify repetition. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Hop very slowly over to the tall chair near me.",
+        "is_correct": false
+      },
+      {
+        "text": "Run to the gate; do not be slow.",
+        "is_correct": false
+      },
+      {
+        "text": "Hop to the chair; meet me there.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new line keeps two short balanced parts and rhymes chair with there.",
+      "hint": "Check both the beat pattern and the ending sounds."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "change_rhyme_but_keep_rhythm_reason",
+    "question": "A student answers “Hop very slowly over to the tall chair near me.”. Which feedback helps? Task: The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
+    "audio_prompt": "A student answers “Hop very slowly over to the tall chair near me.”. Which feedback helps? Task: The chant says, ‘Run to the gate; do not be late.’ Which change keeps the rhythm and creates a new rhyme?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-006",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Change rhyme but keep rhythm. Notice: Identify repetition. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check both the beat pattern and the ending sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Hop very slowly over to the tall chair near me.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Run to the gate; do not be slow.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check both the beat pattern and the ending sounds. The new line keeps two short balanced parts and rhymes chair with there.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "hear_rhyme_not_spelling_apply",
+    "question": "Which pair rhymes even though the endings are spelled differently?",
+    "audio_prompt": "Which pair rhymes even though the endings are spelled differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-007",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Hear rhyme not spelling. Notice: Reproduce a pattern. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "blue and glow",
+        "is_correct": false
+      },
+      {
+        "text": "blue and shoe",
+        "is_correct": true
+      },
+      {
+        "text": "shoe and show",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Blue and shoe share the /oo/ ending sound despite different spellings.",
+      "hint": "Say the whole words and compare what you hear at the end."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "hear_rhyme_not_spelling_reason",
+    "question": "A student answers “shoe and show”. Which feedback helps? Task: Which pair rhymes even though the endings are spelled differently?",
+    "audio_prompt": "A student answers “shoe and show”. Which feedback helps? Task: Which pair rhymes even though the endings are spelled differently?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-008",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Hear rhyme not spelling. Notice: Reproduce a pattern. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “shoe and show”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “blue and glow” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the whole words and compare what you hear at the end.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say the whole words and compare what you hear at the end. Blue and shoe share the /oo/ ending sound despite different spellings.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "repetition_changes_mood_apply",
+    "question": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
+    "audio_prompt": "A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-009",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Repetition changes mood. Notice: Create a variation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "it builds suspense as the sound seems nearer",
+        "is_correct": true
+      },
+      {
+        "text": "it makes the approaching footsteps seem farther away",
+        "is_correct": false
+      },
+      {
+        "text": "it creates a calm mood because the repeated word stays even",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating closer intensifies the approach and builds suspense.",
+      "hint": "Think about how the repeated meaning changes the feeling."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "repetition_changes_mood_reason",
+    "question": "A student answers “it makes the approaching footsteps seem farther away”. Which feedback helps? Task: A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
+    "audio_prompt": "A student answers “it makes the approaching footsteps seem farther away”. Which feedback helps? Task: A poem repeats ‘closer, closer, closer’ as footsteps approach. What effect does the pattern create?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-010",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Repetition changes mood. Notice: Create a variation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “it makes the approaching footsteps seem farther away”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about how the repeated meaning changes the feeling.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “it creates a calm mood because the repeated word stays even” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Think about how the repeated meaning changes the feeling. Repeating closer intensifies the approach and builds suspense.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "reproduce_a_call_and_response_apply",
+    "question": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
+    "audio_prompt": "Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-011",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Reproduce a call and response. Notice: Hear rhythm. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a silent pause that ends the chant",
+        "is_correct": false
+      },
+      {
+        "text": "a long solo story with no group reply",
+        "is_correct": false
+      },
+      {
+        "text": "a group reply that matches the same response pattern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Call-and-response alternates a leader's line with a related group reply.",
+      "hint": "Follow who speaks and how the two parts connect."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "reproduce_a_call_and_response_reason",
+    "question": "A student answers “a long solo story with no group reply”. Which feedback helps? Task: Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
+    "audio_prompt": "A student answers “a long solo story with no group reply”. Which feedback helps? Task: Leader: ‘Who can help?’ Group: ‘We can help!’ What should follow another leader call?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-012",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Reproduce a call and response. Notice: Hear rhythm. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Follow who speaks and how the two parts connect.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a long solo story with no group reply”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a silent pause that ends the chant” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Follow who speaks and how the two parts connect. Call-and-response alternates a leader's line with a related group reply.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "experiment_with_internal_sound_apply",
+    "question": "Which line repeats the sound heard at the start of moon to make a gentle pattern?",
+    "audio_prompt": "Which line repeats the sound heard at the start of moon to make a gentle pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-013",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Experiment with internal sound. Notice: Identify rhyme. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Nina sings a noisy noon tune.",
+        "is_correct": false
+      },
+      {
+        "text": "Mia hums a mellow morning tune.",
+        "is_correct": true
+      },
+      {
+        "text": "Bella beats a bright blue drum.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Mia, hums, mellow and morning repeat the soft sound heard at the start of moon.",
+      "hint": "Listen for the same starting sound across several words."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "experiment_with_internal_sound_reason",
+    "question": "A student answers “Nina sings a noisy noon tune.”. Which feedback helps? Task: Which line repeats the sound heard at the start of moon to make a gentle pattern?",
+    "audio_prompt": "A student answers “Nina sings a noisy noon tune.”. Which feedback helps? Task: Which line repeats the sound heard at the start of moon to make a gentle pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-014",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Experiment with internal sound. Notice: Identify rhyme. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Nina sings a noisy noon tune.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Bella beats a bright blue drum.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for the same starting sound across several words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Listen for the same starting sound across several words. Mia, hums, mellow and morning repeat the soft sound heard at the start of moon.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "compare_rhythm_performances_apply",
+    "question": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
+    "audio_prompt": "Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-015",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Compare rhythm performances. Notice: Identify repetition. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Group A, because its beat stays steady",
+        "is_correct": true
+      },
+      {
+        "text": "Group B, because a faster performance has a stronger beat",
+        "is_correct": false
+      },
+      {
+        "text": "Both, because they began with the same written chant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A steady repeated beat reproduces the chant's rhythm more accurately.",
+      "hint": "Judge the pattern and control, not the speed alone."
+    }
+  },
+  {
+    "id": "AC9E2LE04-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE04",
+    "bank": "test",
+    "skill": "compare_rhythm_performances_reason",
+    "question": "A student answers “Both, because they began with the same written chant”. Which feedback helps? Task: Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
+    "audio_prompt": "A student answers “Both, because they began with the same written chant”. Which feedback helps? Task: Two groups perform the same chant. Group A keeps an even beat; Group B speeds up and loses words. Which group reproduces the rhythm more accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le04.svg#ac9e2le04-t-016",
+      "alt_text": "Three-step Rhythm, Rhyme and Repetition organiser. Read: Compare rhythm performances. Notice: Identify repetition. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Both, because they began with the same written chant”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Judge the pattern and control, not the speed alone.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Group B, because a faster performance has a stronger beat” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Judge the pattern and control, not the speed alone. A steady repeated beat reproduces the chant's rhythm more accurately.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

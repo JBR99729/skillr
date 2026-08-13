@@ -15,15 +15,6 @@
     document.head.appendChild(router);
   }
 
-  // Temporary internal tracking badge for completed Foundation content QA.
-  // Remove this loader and /assets/qa-complete-badges.js after human QA is finished.
-  if (/^\/foundation\/curriculum(?:\/(?:maths|science|english))?$/.test(pagePath)) {
-    const qaScript = document.createElement("script");
-    qaScript.src = "/assets/qa-complete-badges.js?v=1";
-    qaScript.async = false;
-    document.head.appendChild(qaScript);
-  }
-
   const style = document.createElement("style");
   style.textContent = `
     html, body, body * {

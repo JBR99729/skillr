@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY10-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_ai_apply",
+    "question": "Which word uses ai to represent the long a sound?",
+    "audio_prompt": "Which word uses ai to represent the long a sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-001",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph ai. Notice: Use vowel digraphs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "rain",
+        "is_correct": true
+      },
+      {
+        "text": "ran",
+        "is_correct": false
+      },
+      {
+        "text": "ring",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "In rain, the letters ai work together to represent the long a sound.",
+      "hint": "Look for the two-letter vowel pattern and say the whole word."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_ai_reason",
+    "question": "A student answers “ran”. Which feedback helps? Task: Which word uses ai to represent the long a sound?",
+    "audio_prompt": "A student answers “ran”. Which feedback helps? Task: Which word uses ai to represent the long a sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-002",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph ai. Notice: Use vowel digraphs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “ran”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for the two-letter vowel pattern and say the whole word.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “ring” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for the two-letter vowel pattern and say the whole word. In rain, the letters ai work together to represent the long a sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_oa_apply",
+    "question": "Something used for travelling on water floated on the lake. Which word names it?",
+    "audio_prompt": "Something used for travelling on water floated on the lake. Which word names it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-003",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph oa. Notice: Read less common long vowels. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "bot",
+        "is_correct": false
+      },
+      {
+        "text": "boot",
+        "is_correct": false
+      },
+      {
+        "text": "boat",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Boat fits the meaning and uses oa for the long o sound.",
+      "hint": "Check both the vowel pattern and the sentence meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_oa_reason",
+    "question": "A student answers “boot”. Which feedback helps? Task: Something used for travelling on water floated on the lake. Which word names it?",
+    "audio_prompt": "A student answers “boot”. Which feedback helps? Task: Something used for travelling on water floated on the lake. Which word names it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-004",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph oa. Notice: Read less common long vowels. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check both the vowel pattern and the sentence meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “boot”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “bot” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check both the vowel pattern and the sentence meaning. Boat fits the meaning and uses oa for the long o sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "preserve_a_cluster_apply",
+    "question": "Which spelling keeps both starting sounds in the spoken word frog?",
+    "audio_prompt": "Which spelling keeps both starting sounds in the spoken word frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-005",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Preserve a cluster. Notice: Preserve clusters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "fog",
+        "is_correct": false
+      },
+      {
+        "text": "frog",
+        "is_correct": true
+      },
+      {
+        "text": "rog",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cluster fr preserves the f and r sounds at the start of frog.",
+      "hint": "Stretch the beginning and listen for both consonant sounds."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "preserve_a_cluster_reason",
+    "question": "A student answers “fog”. Which feedback helps? Task: Which spelling keeps both starting sounds in the spoken word frog?",
+    "audio_prompt": "A student answers “fog”. Which feedback helps? Task: Which spelling keeps both starting sounds in the spoken word frog?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-006",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Preserve a cluster. Notice: Preserve clusters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “fog”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “rog” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Stretch the beginning and listen for both consonant sounds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stretch the beginning and listen for both consonant sounds. The cluster fr preserves the f and r sounds at the start of frog.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "notice_silent_k_apply",
+    "question": "Which letter is not heard at the start of knee?",
+    "audio_prompt": "Which letter is not heard at the start of knee?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-007",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Notice silent k. Notice: Recognise silent letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "k",
+        "is_correct": true
+      },
+      {
+        "text": "n",
+        "is_correct": false
+      },
+      {
+        "text": "ee",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Knee begins with the written pattern kn, but k is silent.",
+      "hint": "Compare the written letters with the sounds you actually say."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "notice_silent_k_reason",
+    "question": "A student answers “ee”. Which feedback helps? Task: Which letter is not heard at the start of knee?",
+    "audio_prompt": "A student answers “ee”. Which feedback helps? Task: Which letter is not heard at the start of knee?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-008",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Notice silent k. Notice: Recognise silent letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “ee”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the written letters with the sounds you actually say.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “n” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the written letters with the sounds you actually say. Knee begins with the written pattern kn, but k is silent.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "build_a_compound_word_apply",
+    "question": "Which two words combine to make sunset?",
+    "audio_prompt": "Which two words combine to make sunset?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-009",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Build a compound word. Notice: Read compound and multisyllable words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "suns + et",
+        "is_correct": false
+      },
+      {
+        "text": "sun + sit",
+        "is_correct": false
+      },
+      {
+        "text": "sun + set",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sunset is a compound word built from the complete words sun and set.",
+      "hint": "Look for two meaningful words that remain visible in the compound."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "build_a_compound_word_reason",
+    "question": "A student answers “suns + et”. Which feedback helps? Task: Which two words combine to make sunset?",
+    "audio_prompt": "A student answers “suns + et”. Which feedback helps? Task: Which two words combine to make sunset?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-010",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Build a compound word. Notice: Read compound and multisyllable words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for two meaningful words that remain visible in the compound.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “suns + et”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “sun + sit” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for two meaningful words that remain visible in the compound. Sunset is a compound word built from the complete words sun and set.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_two_syllables_apply",
+    "question": "Which way correctly parts robot into spoken syllables?",
+    "audio_prompt": "Which way correctly parts robot into spoken syllables?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-011",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read two syllables. Notice: Use vowel digraphs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "r-ob-ot",
+        "is_correct": false
+      },
+      {
+        "text": "ro-bot",
+        "is_correct": true
+      },
+      {
+        "text": "rob-o-t",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Robot has two spoken beats: ro and bot.",
+      "hint": "Say the word naturally and clap each syllable."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_two_syllables_reason",
+    "question": "A student answers “rob-o-t”. Which feedback helps? Task: Which way correctly parts robot into spoken syllables?",
+    "audio_prompt": "A student answers “rob-o-t”. Which feedback helps? Task: Which way correctly parts robot into spoken syllables?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-012",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read two syllables. Notice: Use vowel digraphs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “rob-o-t”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “r-ob-ot” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word naturally and clap each syllable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say the word naturally and clap each syllable. Robot has two spoken beats: ro and bot.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "map_sounds_in_road_apply",
+    "question": "Which grapheme represents the long o sound in road?",
+    "audio_prompt": "Which grapheme represents the long o sound in road?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-013",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Map sounds in road. Notice: Read less common long vowels. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "oa",
+        "is_correct": true
+      },
+      {
+        "text": "o",
+        "is_correct": false
+      },
+      {
+        "text": "a",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The two letters oa represent one long o phoneme in road.",
+      "hint": "Find the letter group between the starting and final consonants."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "map_sounds_in_road_reason",
+    "question": "A student answers “o”. Which feedback helps? Task: Which grapheme represents the long o sound in road?",
+    "audio_prompt": "A student answers “o”. Which feedback helps? Task: Which grapheme represents the long o sound in road?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-014",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Map sounds in road. Notice: Read less common long vowels. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “o”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the letter group between the starting and final consonants.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “a” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the letter group between the starting and final consonants. The two letters oa represent one long o phoneme in road.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_ee_apply",
+    "question": "Which word uses ee to represent a long e sound?",
+    "audio_prompt": "Which word uses ee to represent a long e sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-015",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph ee. Notice: Preserve clusters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "grin",
+        "is_correct": false
+      },
+      {
+        "text": "grain",
+        "is_correct": false
+      },
+      {
+        "text": "green",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The vowel digraph ee represents the long e sound in green.",
+      "hint": "Look for the two vowel letters working together."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_vowel_digraph_ee_reason",
+    "question": "A student answers “grain”. Which feedback helps? Task: Which word uses ee to represent a long e sound?",
+    "audio_prompt": "A student answers “grain”. Which feedback helps? Task: Which word uses ee to represent a long e sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-016",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read vowel digraph ee. Notice: Preserve clusters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for the two vowel letters working together.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “grain”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “grin” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for the two vowel letters working together. The vowel digraph ee represents the long e sound in green.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "notice_silent_w_apply",
+    "question": "Which letter is silent at the start of wrist?",
+    "audio_prompt": "Which letter is silent at the start of wrist?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-017",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Notice silent w. Notice: Recognise silent letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "r",
+        "is_correct": false
+      },
+      {
+        "text": "w",
+        "is_correct": true
+      },
+      {
+        "text": "t",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Wrist begins with the written pattern wr, but the w is not pronounced.",
+      "hint": "Compare the letters you see with the sounds you say."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "notice_silent_w_reason",
+    "question": "A student answers “r”. Which feedback helps? Task: Which letter is silent at the start of wrist?",
+    "audio_prompt": "A student answers “r”. Which feedback helps? Task: Which letter is silent at the start of wrist?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-018",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Notice silent w. Notice: Recognise silent letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “r”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “t” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the letters you see with the sounds you say.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the letters you see with the sounds you say. Wrist begins with the written pattern wr, but the w is not pronounced.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "build_raincoat_apply",
+    "question": "Which two words combine to make raincoat?",
+    "audio_prompt": "Which two words combine to make raincoat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-019",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Build raincoat. Notice: Read compound and multisyllable words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "rain + coat",
+        "is_correct": true
+      },
+      {
+        "text": "rain + cot",
+        "is_correct": false
+      },
+      {
+        "text": "ray + coat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Raincoat combines two complete words whose meanings explain the compound.",
+      "hint": "Find both meaningful base words inside the longer word."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "build_raincoat_reason",
+    "question": "A student answers “ray + coat”. Which feedback helps? Task: Which two words combine to make raincoat?",
+    "audio_prompt": "A student answers “ray + coat”. Which feedback helps? Task: Which two words combine to make raincoat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-020",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Build raincoat. Notice: Read compound and multisyllable words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “ray + coat”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find both meaningful base words inside the longer word.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “rain + cot” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find both meaningful base words inside the longer word. Raincoat combines two complete words whose meanings explain the compound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_long_a_in_eight_apply",
+    "question": "Which word uses the same long a letter pattern as weigh?",
+    "audio_prompt": "Which word uses the same long a letter pattern as weigh?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-021",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read long a in eight. Notice: Use vowel digraphs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "height",
+        "is_correct": false
+      },
+      {
+        "text": "light",
+        "is_correct": false
+      },
+      {
+        "text": "eight",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Eight and weigh share a less common spelling for the long a sound.",
+      "hint": "Say the cue word weigh, then find the option with the same sound and letter pattern."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "read_long_a_in_eight_reason",
+    "question": "A student answers “height”. Which feedback helps? Task: Which word uses the same long a letter pattern as weigh?",
+    "audio_prompt": "A student answers “height”. Which feedback helps? Task: Which word uses the same long a letter pattern as weigh?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-022",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Read long a in eight. Notice: Use vowel digraphs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Say the cue word weigh, then find the option with the same sound and letter pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “height”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “light” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Say the cue word weigh, then find the option with the same sound and letter pattern. Eight and weigh share a less common spelling for the long a sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "keep_str_cluster_apply",
+    "question": "Which spelling keeps all three starting sounds in string?",
+    "audio_prompt": "Which spelling keeps all three starting sounds in string?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-023",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Keep str cluster. Notice: Read less common long vowels. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "sting",
+        "is_correct": false
+      },
+      {
+        "text": "string",
+        "is_correct": true
+      },
+      {
+        "text": "tring",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The starting cluster str preserves s, t and r.",
+      "hint": "Stretch the start and check that no consonant sound is missing."
+    }
+  },
+  {
+    "id": "AC9E2LY10-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "practice",
+    "skill": "keep_str_cluster_reason",
+    "question": "A student answers “tring”. Which feedback helps? Task: Which spelling keeps all three starting sounds in string?",
+    "audio_prompt": "A student answers “tring”. Which feedback helps? Task: Which spelling keeps all three starting sounds in string?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-p-024",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: Keep str cluster. Notice: Read less common long vowels. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “tring”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “sting” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Stretch the start and check that no consonant sound is missing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stretch the start and check that no consonant sound is missing. The starting cluster str preserves s, t and r.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_long_vowel_igh_apply",
+    "question": "Which word uses igh to represent a long i sound?",
+    "audio_prompt": "Which word uses igh to represent a long i sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-001",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: long vowel igh. Notice: Use vowel digraphs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "night",
+        "is_correct": true
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "nit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grapheme igh represents the long i sound in night.",
+      "hint": "Look for the three-letter vowel pattern in the middle."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_long_vowel_igh_reason",
+    "question": "A student answers “net”. Which feedback helps? Task: Which word uses igh to represent a long i sound?",
+    "audio_prompt": "A student answers “net”. Which feedback helps? Task: Which word uses igh to represent a long i sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-002",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: long vowel igh. Notice: Use vowel digraphs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “net”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for the three-letter vowel pattern in the middle.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “nit” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for the three-letter vowel pattern in the middle. The grapheme igh represents the long i sound in night.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_long_vowel_ay_apply",
+    "question": "Which word means take part in a game on the oval?",
+    "audio_prompt": "Which word means take part in a game on the oval?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-003",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: long vowel ay. Notice: Read less common long vowels. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "ply",
+        "is_correct": false
+      },
+      {
+        "text": "pla",
+        "is_correct": false
+      },
+      {
+        "text": "play",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Play uses ay for the long a sound and fits the meaning.",
+      "hint": "Check the ending vowel pattern and the word meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_long_vowel_ay_reason",
+    "question": "A student answers “pla”. Which feedback helps? Task: Which word means take part in a game on the oval?",
+    "audio_prompt": "A student answers “pla”. Which feedback helps? Task: Which word means take part in a game on the oval?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-004",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: long vowel ay. Notice: Read less common long vowels. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the ending vowel pattern and the word meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “pla”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “ply” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the ending vowel pattern and the word meaning. Play uses ay for the long a sound and fits the meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_preserve_spl_cluster_apply",
+    "question": "Which spelling keeps all three starting sounds in splash?",
+    "audio_prompt": "Which spelling keeps all three starting sounds in splash?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-005",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: preserve spl cluster. Notice: Preserve clusters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "spash",
+        "is_correct": false
+      },
+      {
+        "text": "splash",
+        "is_correct": true
+      },
+      {
+        "text": "plash",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The starting cluster spl contains the s, p and l sounds.",
+      "hint": "Stretch the beginning before writing the rest of the word."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_preserve_spl_cluster_reason",
+    "question": "A student answers “spash”. Which feedback helps? Task: Which spelling keeps all three starting sounds in splash?",
+    "audio_prompt": "A student answers “spash”. Which feedback helps? Task: Which spelling keeps all three starting sounds in splash?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-006",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: preserve spl cluster. Notice: Preserve clusters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “spash”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “plash” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Stretch the beginning before writing the rest of the word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stretch the beginning before writing the rest of the word. The starting cluster spl contains the s, p and l sounds.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_silent_letter_in_lamb_apply",
+    "question": "Which letter is silent at the end of lamb?",
+    "audio_prompt": "Which letter is silent at the end of lamb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-007",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: silent letter in lamb. Notice: Recognise silent letters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "b",
+        "is_correct": true
+      },
+      {
+        "text": "l",
+        "is_correct": false
+      },
+      {
+        "text": "m",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Lamb is written with final mb, but the b is not pronounced.",
+      "hint": "Say the word and compare the final sound with the final letters."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_silent_letter_in_lamb_reason",
+    "question": "A student answers “m”. Which feedback helps? Task: Which letter is silent at the end of lamb?",
+    "audio_prompt": "A student answers “m”. Which feedback helps? Task: Which letter is silent at the end of lamb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-008",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: silent letter in lamb. Notice: Recognise silent letters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “m”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word and compare the final sound with the final letters.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “l” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Say the word and compare the final sound with the final letters. Lamb is written with final mb, but the b is not pronounced.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_compound_playground_apply",
+    "question": "Which pair shows the meaningful parts of playground?",
+    "audio_prompt": "Which pair shows the meaningful parts of playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-009",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: compound playground. Notice: Read compound and multisyllable words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "pla + yground",
+        "is_correct": false
+      },
+      {
+        "text": "player + round",
+        "is_correct": false
+      },
+      {
+        "text": "play + ground",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Playground combines the complete words play and ground.",
+      "hint": "Find two smaller words whose meanings help explain the compound."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_compound_playground_reason",
+    "question": "A student answers “pla + yground”. Which feedback helps? Task: Which pair shows the meaningful parts of playground?",
+    "audio_prompt": "A student answers “pla + yground”. Which feedback helps? Task: Which pair shows the meaningful parts of playground?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-010",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: compound playground. Notice: Read compound and multisyllable words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Find two smaller words whose meanings help explain the compound.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “pla + yground”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “player + round” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find two smaller words whose meanings help explain the compound. Playground combines the complete words play and ground.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_multisyllable_picnic_apply",
+    "question": "Which way helps read picnic by syllables?",
+    "audio_prompt": "Which way helps read picnic by syllables?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-011",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: multisyllable picnic. Notice: Use vowel digraphs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "p-i-c-n-i-c",
+        "is_correct": false
+      },
+      {
+        "text": "pic-nic",
+        "is_correct": true
+      },
+      {
+        "text": "pi-cni-c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Picnic can be read in two spoken syllables, pic and nic.",
+      "hint": "Say the word and listen for its two natural beats."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_multisyllable_picnic_reason",
+    "question": "A student answers “pi-cni-c”. Which feedback helps? Task: Which way helps read picnic by syllables?",
+    "audio_prompt": "A student answers “pi-cni-c”. Which feedback helps? Task: Which way helps read picnic by syllables?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-012",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: multisyllable picnic. Notice: Use vowel digraphs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “pi-cni-c”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “p-i-c-n-i-c” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the word and listen for its two natural beats.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say the word and listen for its two natural beats. Picnic can be read in two spoken syllables, pic and nic.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_silent_letters_in_light_apply",
+    "question": "Which letters are not pronounced separately in light?",
+    "audio_prompt": "Which letters are not pronounced separately in light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-013",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: silent letters in light. Notice: Read less common long vowels. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "gh",
+        "is_correct": true
+      },
+      {
+        "text": "l",
+        "is_correct": false
+      },
+      {
+        "text": "t",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pattern igh represents the long i sound, and gh has no separate sound.",
+      "hint": "Compare each written part with the sounds in the spoken word."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_silent_letters_in_light_reason",
+    "question": "A student answers “l”. Which feedback helps? Task: Which letters are not pronounced separately in light?",
+    "audio_prompt": "A student answers “l”. Which feedback helps? Task: Which letters are not pronounced separately in light?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-014",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: silent letters in light. Notice: Read less common long vowels. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “l”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare each written part with the sounds in the spoken word.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “t” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare each written part with the sounds in the spoken word. The pattern igh represents the long i sound, and gh has no separate sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_compound_toothbrush_apply",
+    "question": "Which pair correctly builds toothbrush?",
+    "audio_prompt": "Which pair correctly builds toothbrush?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-015",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: compound toothbrush. Notice: Preserve clusters. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "toot + hbrush",
+        "is_correct": false
+      },
+      {
+        "text": "tooth + rush",
+        "is_correct": false
+      },
+      {
+        "text": "tooth + brush",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Toothbrush combines the complete meaningful words tooth and brush.",
+      "hint": "Look for two words that explain what the object is used with and what it is."
+    }
+  },
+  {
+    "id": "AC9E2LY10-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY10",
+    "bank": "test",
+    "skill": "test_compound_toothbrush_reason",
+    "question": "A student answers “tooth + rush”. Which feedback helps? Task: Which pair correctly builds toothbrush?",
+    "audio_prompt": "A student answers “tooth + rush”. Which feedback helps? Task: Which pair correctly builds toothbrush?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly10.svg#ac9e2ly10-t-016",
+      "alt_text": "Three-step Advanced Sound–Letter Patterns organiser. Read: compound toothbrush. Notice: Preserve clusters. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for two words that explain what the object is used with and what it is.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “tooth + rush”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “toot + hbrush” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for two words that explain what the object is used with and what it is. Toothbrush combines the complete meaningful words tooth and brush.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

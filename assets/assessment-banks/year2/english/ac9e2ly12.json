@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LY12-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_the_help_family_apply",
+    "question": "Which word belongs to the same meaningful family as help?",
+    "audio_prompt": "Which word belongs to the same meaningful family as help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-001",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build the help family. Notice: Identify base words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "helmet",
+        "is_correct": false
+      },
+      {
+        "text": "held",
+        "is_correct": false
+      },
+      {
+        "text": "helper",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Helper contains the base help and the suffix er.",
+      "hint": "Look for the complete base word and a related meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_the_help_family_reason",
+    "question": "A student answers “helmet”. Which feedback helps? Task: Which word belongs to the same meaningful family as help?",
+    "audio_prompt": "A student answers “helmet”. Which feedback helps? Task: Which word belongs to the same meaningful family as help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-002",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build the help family. Notice: Identify base words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for the complete base word and a related meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “helmet”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “held” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for the complete base word and a related meaning. Helper contains the base help and the suffix er.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_un_apply",
+    "question": "Which word means not happy?",
+    "audio_prompt": "Which word means not happy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-003",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix un. Notice: Identify prefixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "rehappy",
+        "is_correct": false
+      },
+      {
+        "text": "unhappy",
+        "is_correct": true
+      },
+      {
+        "text": "happyful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The prefix un before happy adds the meaning not.",
+      "hint": "Choose the prefix that reverses the base word's meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_un_reason",
+    "question": "A student answers “happyful”. Which feedback helps? Task: Which word means not happy?",
+    "audio_prompt": "A student answers “happyful”. Which feedback helps? Task: Which word means not happy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-004",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix un. Notice: Identify prefixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “happyful”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “rehappy” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the prefix that reverses the base word's meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the prefix that reverses the base word's meaning. The prefix un before happy adds the meaning not.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_person_suffix_er_apply",
+    "question": "Which word names a person who plays?",
+    "audio_prompt": "Which word names a person who plays?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-005",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add person suffix er. Notice: Identify suffixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "player",
+        "is_correct": true
+      },
+      {
+        "text": "playful",
+        "is_correct": false
+      },
+      {
+        "text": "replay",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix er can mean a person who performs the action in the base word.",
+      "hint": "Find the word part that names the person doing the action."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_person_suffix_er_reason",
+    "question": "A student answers “playful”. Which feedback helps? Task: Which word names a person who plays?",
+    "audio_prompt": "A student answers “playful”. Which feedback helps? Task: Which word names a person who plays?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-006",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add person suffix er. Notice: Identify suffixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “playful”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the word part that names the person doing the action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “replay” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the word part that names the person doing the action. The suffix er can mean a person who performs the action in the base word.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_suffix_ful_apply",
+    "question": "Which word means full of care?",
+    "audio_prompt": "Which word means full of care?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-007",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add suffix ful. Notice: Build word families. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "careless",
+        "is_correct": false
+      },
+      {
+        "text": "recare",
+        "is_correct": false
+      },
+      {
+        "text": "careful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The suffix ful adds the meaning full of to the base care.",
+      "hint": "Match the suffix meaning to the clue full of."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_suffix_ful_reason",
+    "question": "A student answers “recare”. Which feedback helps? Task: Which word means full of care?",
+    "audio_prompt": "A student answers “recare”. Which feedback helps? Task: Which word means full of care?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-008",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add suffix ful. Notice: Build word families. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the suffix meaning to the clue full of.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “recare”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “careless” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the suffix meaning to the clue full of. The suffix ful adds the meaning full of to the base care.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "show_past_action_apply",
+    "question": "Which word shows that the jumping happened in the past?",
+    "audio_prompt": "Which word shows that the jumping happened in the past?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-009",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Show past action. Notice: Explain meaning changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "jumper",
+        "is_correct": false
+      },
+      {
+        "text": "jumped",
+        "is_correct": true
+      },
+      {
+        "text": "jumping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The suffix ed marks the action as having happened in the past.",
+      "hint": "Choose the suffix that fits an action already completed."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "show_past_action_reason",
+    "question": "A student answers “jumper”. Which feedback helps? Task: Which word shows that the jumping happened in the past?",
+    "audio_prompt": "A student answers “jumper”. Which feedback helps? Task: Which word shows that the jumping happened in the past?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-010",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Show past action. Notice: Explain meaning changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “jumper”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “jumping” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the suffix that fits an action already completed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the suffix that fits an action already completed. The suffix ed marks the action as having happened in the past.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "make_an_idea_noun_apply",
+    "question": "Which word is built from kind and means the quality of being kind?",
+    "audio_prompt": "Which word is built from kind and means the quality of being kind?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-011",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Make an idea noun. Notice: Identify base words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "kindness",
+        "is_correct": true
+      },
+      {
+        "text": "unkind",
+        "is_correct": false
+      },
+      {
+        "text": "kindly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix ness changes kind into a noun naming the quality.",
+      "hint": "Look for the suffix that names a state or quality."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "make_an_idea_noun_reason",
+    "question": "A student answers “kindly”. Which feedback helps? Task: Which word is built from kind and means the quality of being kind?",
+    "audio_prompt": "A student answers “kindly”. Which feedback helps? Task: Which word is built from kind and means the quality of being kind?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-012",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Make an idea noun. Notice: Identify base words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “kindly”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for the suffix that names a state or quality.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “unkind” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for the suffix that names a state or quality. The suffix ness changes kind into a noun naming the quality.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "choose_play_family_members_apply",
+    "question": "Which set contains only members of the play word family?",
+    "audio_prompt": "Which set contains only members of the play word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-013",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Choose play family members. Notice: Identify prefixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "play, plate, plant",
+        "is_correct": false
+      },
+      {
+        "text": "player, place, plain",
+        "is_correct": false
+      },
+      {
+        "text": "play, player, playful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each correct word keeps the meaningful base play.",
+      "hint": "Shared starting letters are not enough; the base meaning must remain."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "choose_play_family_members_reason",
+    "question": "A student answers “play, plate, plant”. Which feedback helps? Task: Which set contains only members of the play word family?",
+    "audio_prompt": "A student answers “play, plate, plant”. Which feedback helps? Task: Which set contains only members of the play word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-014",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Choose play family members. Notice: Identify prefixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Shared starting letters are not enough; the base meaning must remain.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “play, plate, plant”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “player, place, plain” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Shared starting letters are not enough; the base meaning must remain. Each correct word keeps the meaningful base play.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_re_to_paint_apply",
+    "question": "A wall needs to be painted again. Which word names the action?",
+    "audio_prompt": "A wall needs to be painted again. Which word names the action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-015",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix re to paint. Notice: Identify suffixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "painter",
+        "is_correct": false
+      },
+      {
+        "text": "repaint",
+        "is_correct": true
+      },
+      {
+        "text": "painted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The prefix re before paint adds the meaning again.",
+      "hint": "Choose the word part that comes before the base and signals repetition."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_re_to_paint_reason",
+    "question": "A student answers “painted”. Which feedback helps? Task: A wall needs to be painted again. Which word names the action?",
+    "audio_prompt": "A student answers “painted”. Which feedback helps? Task: A wall needs to be painted again. Which word names the action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-016",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix re to paint. Notice: Identify suffixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “painted”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “painter” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the word part that comes before the base and signals repetition.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the word part that comes before the base and signals repetition. The prefix re before paint adds the meaning again.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_action_suffix_ing_apply",
+    "question": "A child is in the middle of a jump. Which word shows the action is happening now?",
+    "audio_prompt": "A child is in the middle of a jump. Which word shows the action is happening now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-017",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add action suffix ing. Notice: Build word families. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "jumping",
+        "is_correct": true
+      },
+      {
+        "text": "jumped",
+        "is_correct": false
+      },
+      {
+        "text": "jumper",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix ing forms jumping, which can show an action in progress.",
+      "hint": "Match the suffix with action happening now."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_action_suffix_ing_reason",
+    "question": "A student answers “jumped”. Which feedback helps? Task: A child is in the middle of a jump. Which word shows the action is happening now?",
+    "audio_prompt": "A student answers “jumped”. Which feedback helps? Task: A child is in the middle of a jump. Which word shows the action is happening now?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-018",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add action suffix ing. Notice: Build word families. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “jumped”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the suffix with action happening now.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “jumper” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the suffix with action happening now. The suffix ing forms jumping, which can show an action in progress.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_a_plural_family_member_apply",
+    "question": "Which word adds a suffix to show more than one cat?",
+    "audio_prompt": "Which word adds a suffix to show more than one cat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-019",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build a plural family member. Notice: Explain meaning changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "catty",
+        "is_correct": false
+      },
+      {
+        "text": "recat",
+        "is_correct": false
+      },
+      {
+        "text": "cats",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plural suffix s changes cat to cats.",
+      "hint": "Keep the base cat and add the ending that shows more than one."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_a_plural_family_member_reason",
+    "question": "A student answers “recat”. Which feedback helps? Task: Which word adds a suffix to show more than one cat?",
+    "audio_prompt": "A student answers “recat”. Which feedback helps? Task: Which word adds a suffix to show more than one cat?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-020",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build a plural family member. Notice: Explain meaning changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep the base cat and add the ending that shows more than one.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “recat”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “catty” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep the base cat and add the ending that shows more than one. The plural suffix s changes cat to cats.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_the_use_family_apply",
+    "question": "Which set contains only words built from the meaningful base use?",
+    "audio_prompt": "Which set contains only words built from the meaningful base use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-021",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build the use family. Notice: Identify base words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "use, usual, usher, us",
+        "is_correct": false
+      },
+      {
+        "text": "use, useful, useless, user",
+        "is_correct": true
+      },
+      {
+        "text": "useful, unit, upset, user",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every correct word keeps the base use and a connected meaning.",
+      "hint": "Check the complete base and meaning in every family member."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "build_the_use_family_reason",
+    "question": "A student answers “use, usual, usher, us”. Which feedback helps? Task: Which set contains only words built from the meaningful base use?",
+    "audio_prompt": "A student answers “use, usual, usher, us”. Which feedback helps? Task: Which set contains only words built from the meaningful base use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-022",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Build the use family. Notice: Identify base words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “use, usual, usher, us”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “useful, unit, upset, user” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the complete base and meaning in every family member.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the complete base and meaning in every family member. Every correct word keeps the base use and a connected meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_un_to_fair_apply",
+    "question": "A rule gives one team extra turns. Which word describes the rule using a prefix?",
+    "audio_prompt": "A rule gives one team extra turns. Which word describes the rule using a prefix?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-023",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix un to fair. Notice: Identify prefixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "unfair",
+        "is_correct": true
+      },
+      {
+        "text": "fairness",
+        "is_correct": false
+      },
+      {
+        "text": "fairly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prefix un changes fair to mean not fair.",
+      "hint": "Choose the affix that reverses the base meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY12-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "practice",
+    "skill": "add_prefix_un_to_fair_reason",
+    "question": "A student answers “fairly”. Which feedback helps? Task: A rule gives one team extra turns. Which word describes the rule using a prefix?",
+    "audio_prompt": "A student answers “fairly”. Which feedback helps? Task: A rule gives one team extra turns. Which word describes the rule using a prefix?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-p-024",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: Add prefix un to fair. Notice: Identify prefixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “fairly”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the affix that reverses the base meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “fairness” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the affix that reverses the base meaning. The prefix un changes fair to mean not fair.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_re_apply",
+    "question": "Mia reads a page again. Which word uses a prefix to name this action?",
+    "audio_prompt": "Mia reads a page again. Which word uses a prefix to name this action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-001",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix re. Notice: Identify base words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "reader",
+        "is_correct": false
+      },
+      {
+        "text": "reading",
+        "is_correct": false
+      },
+      {
+        "text": "reread",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prefix re adds the meaning again to the base read.",
+      "hint": "Choose the affix that comes before the base and means again."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_re_reason",
+    "question": "A student answers “reader”. Which feedback helps? Task: Mia reads a page again. Which word uses a prefix to name this action?",
+    "audio_prompt": "A student answers “reader”. Which feedback helps? Task: Mia reads a page again. Which word uses a prefix to name this action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-002",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix re. Notice: Identify base words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the affix that comes before the base and means again.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “reader”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “reading” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the affix that comes before the base and means again. The prefix re adds the meaning again to the base read.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_suffix_less_apply",
+    "question": "Which word means without hope?",
+    "audio_prompt": "Which word means without hope?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-003",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: suffix less. Notice: Identify prefixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "hopeful",
+        "is_correct": false
+      },
+      {
+        "text": "hopeless",
+        "is_correct": true
+      },
+      {
+        "text": "rehoped",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The suffix less adds the meaning without to the base hope.",
+      "hint": "Match without with the suffix less."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_suffix_less_reason",
+    "question": "A student answers “rehoped”. Which feedback helps? Task: Which word means without hope?",
+    "audio_prompt": "A student answers “rehoped”. Which feedback helps? Task: Which word means without hope?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-004",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: suffix less. Notice: Identify prefixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “rehoped”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “hopeful” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match without with the suffix less.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match without with the suffix less. The suffix less adds the meaning without to the base hope.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_build_teacher_apply",
+    "question": "Which word means a person who teaches?",
+    "audio_prompt": "Which word means a person who teaches?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-005",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: build teacher. Notice: Identify suffixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "teacher",
+        "is_correct": true
+      },
+      {
+        "text": "teaching",
+        "is_correct": false
+      },
+      {
+        "text": "reteach",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Find the suffix that can mean a person who does something."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_build_teacher_reason",
+    "question": "A student answers “teaching”. Which feedback helps? Task: Which word means a person who teaches?",
+    "audio_prompt": "A student answers “teaching”. Which feedback helps? Task: Which word means a person who teaches?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-006",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: build teacher. Notice: Identify suffixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “teaching”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Find the suffix that can mean a person who does something.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “reteach” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Find the suffix that can mean a person who does something. The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_meaning_apply",
+    "question": "What does the prefix dis add in disagree?",
+    "audio_prompt": "What does the prefix dis add in disagree?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-007",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix meaning. Notice: Build word families. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "the meaning agree many times",
+        "is_correct": false
+      },
+      {
+        "text": "the meaning a person who agrees",
+        "is_correct": false
+      },
+      {
+        "text": "the meaning not or the opposite of agreeing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dis changes agree to mean not having the same opinion.",
+      "hint": "Compare the meanings of agree and disagree."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_meaning_reason",
+    "question": "A student answers “the meaning a person who agrees”. Which feedback helps? Task: What does the prefix dis add in disagree?",
+    "audio_prompt": "A student answers “the meaning a person who agrees”. Which feedback helps? Task: What does the prefix dis add in disagree?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-008",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix meaning. Notice: Build word families. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Compare the meanings of agree and disagree.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “the meaning a person who agrees”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “the meaning agree many times” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the meanings of agree and disagree. Dis changes agree to mean not having the same opinion.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_superlative_suffix_apply",
+    "question": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "audio_prompt": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-009",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: superlative suffix. Notice: Explain meaning changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "er",
+        "is_correct": false
+      },
+      {
+        "text": "est",
+        "is_correct": true
+      },
+      {
+        "text": "ed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Look at the ending on the word describing the highest tower."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_superlative_suffix_reason",
+    "question": "A student answers “er”. Which feedback helps? Task: Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "audio_prompt": "A student answers “er”. Which feedback helps? Task: Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-010",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: superlative suffix. Notice: Explain meaning changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “er”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “ed” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look at the ending on the word describing the highest tower.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look at the ending on the word describing the highest tower. The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_reject_a_false_family_apply",
+    "question": "Why does worm not belong in the work word family?",
+    "audio_prompt": "Why does worm not belong in the work word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-011",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: reject a false family. Notice: Identify base words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Worm does not contain the meaningful base work.",
+        "is_correct": true
+      },
+      {
+        "text": "Worm does not rhyme exactly with work.",
+        "is_correct": false
+      },
+      {
+        "text": "Family words must begin with work and keep the same ending sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Check for a complete shared base with a connected meaning."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_reject_a_false_family_reason",
+    "question": "A student answers “Family words must begin with work and keep the same ending sound.”. Which feedback helps? Task: Why does worm not belong in the work word family?",
+    "audio_prompt": "A student answers “Family words must begin with work and keep the same ending sound.”. Which feedback helps? Task: Why does worm not belong in the work word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-012",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: reject a false family. Notice: Identify base words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Family words must begin with work and keep the same ending sound.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check for a complete shared base with a connected meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Worm does not rhyme exactly with work.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check for a complete shared base with a connected meaning. Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_pre_apply",
+    "question": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "audio_prompt": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-013",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix pre. Notice: Identify prefixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "reheat",
+        "is_correct": false
+      },
+      {
+        "text": "heater",
+        "is_correct": false
+      },
+      {
+        "text": "preheat",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The prefix pre adds the meaning before to the base heat.",
+      "hint": "Match the timing clue before with the prefix."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_prefix_pre_reason",
+    "question": "A student answers “reheat”. Which feedback helps? Task: The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "audio_prompt": "A student answers “reheat”. Which feedback helps? Task: The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-014",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: prefix pre. Notice: Identify prefixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the timing clue before with the prefix.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “reheat”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “heater” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the timing clue before with the prefix. The prefix pre adds the meaning before to the base heat.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_suffix_ly_apply",
+    "question": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "audio_prompt": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-015",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: suffix ly. Notice: Identify suffixes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "slower",
+        "is_correct": false
+      },
+      {
+        "text": "slowly",
+        "is_correct": true
+      },
+      {
+        "text": "slowest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Choose the ending that means in this way."
+    }
+  },
+  {
+    "id": "AC9E2LY12-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LY12",
+    "bank": "test",
+    "skill": "test_suffix_ly_reason",
+    "question": "A student answers “slowest”. Which feedback helps? Task: A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "audio_prompt": "A student answers “slowest”. Which feedback helps? Task: A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2ly12.svg#ac9e2ly12-t-016",
+      "alt_text": "Three-step Prefixes, Suffixes and Word Families organiser. Read: suffix ly. Notice: Identify suffixes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “slowest”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “slower” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the ending that means in this way.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the ending that means in this way. The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

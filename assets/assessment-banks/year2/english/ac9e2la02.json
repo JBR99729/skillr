@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA02-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "giving_a_reason_about_a_poem_apply",
+    "question": "Which response gives a preference and a reason about the poem?",
+    "audio_prompt": "Which response gives a preference and a reason about the poem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-001",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: giving a reason about a poem. Notice: State a preference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I enjoyed the poem more than anything.",
+        "is_correct": false
+      },
+      {
+        "text": "I enjoyed the poem because its repeated sounds were fun to say.",
+        "is_correct": true
+      },
+      {
+        "text": "The poem has four lines on the page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response states a preference and links it to the poem's repeated sounds.",
+      "hint": "Look for both what the reader liked and why they liked it."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "giving_a_reason_about_a_poem_reason",
+    "question": "A student answers “I enjoyed the poem more than anything.”. Which feedback helps? Task: Which response gives a preference and a reason about the poem?",
+    "audio_prompt": "A student answers “I enjoyed the poem more than anything.”. Which feedback helps? Task: Which response gives a preference and a reason about the poem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-002",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: giving a reason about a poem. Notice: State a preference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I enjoyed the poem more than anything.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The poem has four lines on the page.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for both what the reader liked and why they liked it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for both what the reader liked and why they liked it. The response states a preference and links it to the poem's repeated sounds.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "using_character_evidence_apply",
+    "question": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "audio_prompt": "Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-003",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: using character evidence. Notice: Give a reason. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Mina entered the dark cave to rescue her dog.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina watched the cave from the safe path.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina said that her dog was usually brave.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Entering the cave to help her dog is evidence of Mina acting bravely.",
+      "hint": "Choose an action that shows the character quality."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "using_character_evidence_reason",
+    "question": "A student answers “Mina said that her dog was usually brave.”. Which feedback helps? Task: Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "audio_prompt": "A student answers “Mina said that her dog was usually brave.”. Which feedback helps? Task: Nina says, ‘Mina is brave.’ Which story detail best supports Nina's response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-004",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: using character evidence. Notice: Give a reason. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Mina said that her dog was usually brave.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose an action that shows the character quality.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Mina watched the cave from the safe path.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose an action that shows the character quality. Entering the cave to help her dog is evidence of Mina acting bravely.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_setting_details_apply",
+    "question": "Which response explains why a reader liked the forest setting?",
+    "audio_prompt": "Which response explains why a reader liked the forest setting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-005",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to setting details. Notice: Refer to a text feature. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I liked the forest because it was the story's setting.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the trees because there were many of them.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the mist and twisted trees because they made the forest mysterious.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response names setting details and explains the feeling they create.",
+      "hint": "Find a reason that points to words describing the setting."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_setting_details_reason",
+    "question": "A student answers “I liked the forest because it was the story's setting.”. Which feedback helps? Task: Which response explains why a reader liked the forest setting?",
+    "audio_prompt": "A student answers “I liked the forest because it was the story's setting.”. Which feedback helps? Task: Which response explains why a reader liked the forest setting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-006",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to setting details. Notice: Refer to a text feature. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Find a reason that points to words describing the setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I liked the forest because it was the story's setting.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I liked the trees because there were many of them.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find a reason that points to words describing the setting. The response names setting details and explains the feeling they create.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "explaining_an_illustration_s_effect_apply",
+    "question": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "audio_prompt": "A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-007",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: explaining an illustration's effect. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The large picture must be the most important part of the story.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up makes the chick's fear easy to notice.",
+        "is_correct": true
+      },
+      {
+        "text": "The leaf shows that the chick is calm and ready to play.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The close view helps the reader notice the chick's fearful expression and pose.",
+      "hint": "Connect a visible feature of the picture to the meaning it adds."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "explaining_an_illustration_s_effect_reason",
+    "question": "A student answers “The leaf shows that the chick is calm and ready to play.”. Which feedback helps? Task: A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "audio_prompt": "A student answers “The leaf shows that the chick is calm and ready to play.”. Which feedback helps? Task: A picture shows a close-up of a chick hiding under a leaf. Which comment is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-008",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: explaining an illustration's effect. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The leaf shows that the chick is calm and ready to play.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The large picture must be the most important part of the story.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect a visible feature of the picture to the meaning it adds.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Connect a visible feature of the picture to the meaning it adds. The close view helps the reader notice the chick's fearful expression and pose.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "choosing_evidence_for_humour_apply",
+    "question": "Which event best supports a reader saying that a story is funny?",
+    "audio_prompt": "Which event best supports a reader saying that a story is funny?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-009",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: choosing evidence for humour. Notice: Compare responses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A penguin uses a bathtub as a boat and salutes the taps.",
+        "is_correct": true
+      },
+      {
+        "text": "A penguin carefully folds its towel before swimming.",
+        "is_correct": false
+      },
+      {
+        "text": "A penguin watches raindrops slide down the window.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The penguin's unexpected actions create a playful, humorous moment.",
+      "hint": "Look for an event meant to make the reader laugh."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "choosing_evidence_for_humour_reason",
+    "question": "A student answers “A penguin carefully folds its towel before swimming.”. Which feedback helps? Task: Which event best supports a reader saying that a story is funny?",
+    "audio_prompt": "A student answers “A penguin carefully folds its towel before swimming.”. Which feedback helps? Task: Which event best supports a reader saying that a story is funny?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-010",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: choosing evidence for humour. Notice: Compare responses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “A penguin carefully folds its towel before swimming.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for an event meant to make the reader laugh.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “A penguin watches raindrops slide down the window.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for an event meant to make the reader laugh. The penguin's unexpected actions create a playful, humorous moment.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "matching_a_reason_with_evidence_apply",
+    "question": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "audio_prompt": "Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-011",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: matching a reason with evidence. Notice: State a preference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The fox ran quickly along the same path as the guard.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox slept beside the log until the guard arrived.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox hid the key in a hollow log before the guard arrived.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hiding the key before the guard arrived shows the fox using a clever plan.",
+      "hint": "Choose the detail that proves the reason, not just any fact."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "matching_a_reason_with_evidence_reason",
+    "question": "A student answers “The fox slept beside the log until the guard arrived.”. Which feedback helps? Task: Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "audio_prompt": "A student answers “The fox slept beside the log until the guard arrived.”. Which feedback helps? Task: Tia says, ‘The fox was clever.’ Which evidence best matches her reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-012",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: matching a reason with evidence. Notice: State a preference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the detail that proves the reason, not just any fact.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The fox slept beside the log until the guard arrived.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The fox ran quickly along the same path as the guard.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the detail that proves the reason, not just any fact. Hiding the key before the guard arrived shows the fox using a clever plan.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "accepting_different_preferences_apply",
+    "question": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "audio_prompt": "Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-013",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: accepting different preferences. Notice: Give a reason. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Leo's preference matters more because written events count more than images.",
+        "is_correct": false
+      },
+      {
+        "text": "Both preferences can make sense if each reader gives evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Priya's preference matters more because readers see pictures before words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Readers may value different features when they support their responses with the text.",
+      "hint": "Personal preferences can differ, but each reason still needs support."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "accepting_different_preferences_reason",
+    "question": "A student answers “Leo's preference matters more because written events count more than images.”. Which feedback helps? Task: Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "audio_prompt": "A student answers “Leo's preference matters more because written events count more than images.”. Which feedback helps? Task: Leo likes a story's action. Priya likes its pictures. Which comment is fair?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-014",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: accepting different preferences. Notice: Give a reason. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Leo's preference matters more because written events count more than images.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Priya's preference matters more because readers see pictures before words.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal preferences can differ, but each reason still needs support.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Personal preferences can differ, but each reason still needs support. Readers may value different features when they support their responses with the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "explaining_suspense_in_a_mystery_apply",
+    "question": "Which response explains why a reader preferred the mystery story?",
+    "audio_prompt": "Which response explains why a reader preferred the mystery story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-015",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: explaining suspense in a mystery. Notice: Refer to a text feature. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I kept wondering who left the muddy prints until the last page.",
+        "is_correct": true
+      },
+      {
+        "text": "I preferred it because the muddy prints were brown.",
+        "is_correct": false
+      },
+      {
+        "text": "I preferred it because the answer was explained on the first page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Waiting for the answer to the muddy-print clue creates suspense for the reader.",
+      "hint": "Choose a reason connected to how the plot affects the reader."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "explaining_suspense_in_a_mystery_reason",
+    "question": "A student answers “I preferred it because the answer was explained on the first page.”. Which feedback helps? Task: Which response explains why a reader preferred the mystery story?",
+    "audio_prompt": "A student answers “I preferred it because the answer was explained on the first page.”. Which feedback helps? Task: Which response explains why a reader preferred the mystery story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-016",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: explaining suspense in a mystery. Notice: Refer to a text feature. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I preferred it because the answer was explained on the first page.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a reason connected to how the plot affects the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I preferred it because the muddy prints were brown.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a reason connected to how the plot affects the reader. Waiting for the answer to the muddy-print clue creates suspense for the reader.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "appreciating_an_information_book_apply",
+    "question": "Which reason supports preferring a book about bees?",
+    "audio_prompt": "Which reason supports preferring a book about bees?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-017",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating an information book. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Its yellow cover matched the bee's stripes.",
+        "is_correct": false
+      },
+      {
+        "text": "Its made-up bee adventure had a surprising ending.",
+        "is_correct": false
+      },
+      {
+        "text": "Its labelled diagram helped me understand how bees carry pollen.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The labelled diagram is a useful text feature that helps explain the information.",
+      "hint": "Look for a feature that helps the reader learn about bees."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "appreciating_an_information_book_reason",
+    "question": "A student answers “Its yellow cover matched the bee's stripes.”. Which feedback helps? Task: Which reason supports preferring a book about bees?",
+    "audio_prompt": "A student answers “Its yellow cover matched the bee's stripes.”. Which feedback helps? Task: Which reason supports preferring a book about bees?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-018",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating an information book. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for a feature that helps the reader learn about bees.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Its yellow cover matched the bee's stripes.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Its made-up bee adventure had a surprising ending.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for a feature that helps the reader learn about bees. The labelled diagram is a useful text feature that helps explain the information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_a_lullaby_s_sound_apply",
+    "question": "Which sentence uses precise words to appreciate a lullaby?",
+    "audio_prompt": "Which sentence uses precise words to appreciate a lullaby?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-019",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to a lullaby's sound. Notice: Compare responses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The fast, bouncy beat made the lullaby calm.",
+        "is_correct": false
+      },
+      {
+        "text": "The gentle rhythm made the lullaby feel calm and soothing.",
+        "is_correct": true
+      },
+      {
+        "text": "The repeated word made the lullaby longer to perform.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gentle rhythm and soothing explain both a sound feature and its effect.",
+      "hint": "Choose words that name the sound and how it makes the listener feel."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_a_lullaby_s_sound_reason",
+    "question": "A student answers “The repeated word made the lullaby longer to perform.”. Which feedback helps? Task: Which sentence uses precise words to appreciate a lullaby?",
+    "audio_prompt": "A student answers “The repeated word made the lullaby longer to perform.”. Which feedback helps? Task: Which sentence uses precise words to appreciate a lullaby?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-020",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to a lullaby's sound. Notice: Compare responses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The repeated word made the lullaby longer to perform.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The fast, bouncy beat made the lullaby calm.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose words that name the sound and how it makes the listener feel.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose words that name the sound and how it makes the listener feel. Gentle rhythm and soothing explain both a sound feature and its effect.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_a_story_ending_apply",
+    "question": "Which comment explains why an ending was satisfying?",
+    "audio_prompt": "Which comment explains why an ending was satisfying?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-021",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to a story ending. Notice: State a preference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The lost bird returned, and the earlier feather clues made sense.",
+        "is_correct": true
+      },
+      {
+        "text": "The ending was satisfying because it came after the final event.",
+        "is_correct": false
+      },
+      {
+        "text": "The bird stayed lost, so the earlier feather clues no longer mattered.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ending solves the problem and connects to clues planted earlier in the story.",
+      "hint": "Check whether the comment explains what the ending resolves."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "responding_to_a_story_ending_reason",
+    "question": "A student answers “The ending was satisfying because it came after the final event.”. Which feedback helps? Task: Which comment explains why an ending was satisfying?",
+    "audio_prompt": "A student answers “The ending was satisfying because it came after the final event.”. Which feedback helps? Task: Which comment explains why an ending was satisfying?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-022",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: responding to a story ending. Notice: State a preference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The ending was satisfying because it came after the final event.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether the comment explains what the ending resolves.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “The bird stayed lost, so the earlier feather clues no longer mattered.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether the comment explains what the ending resolves. The ending solves the problem and connects to clues planted earlier in the story.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "appreciating_colour_in_an_image_apply",
+    "question": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
+    "audio_prompt": "A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-023",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating colour in an image. Notice: Give a reason. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The dark sky hides the lantern, so the colours add no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The lantern looks hopeful only because it is smaller than the sky.",
+        "is_correct": false
+      },
+      {
+        "text": "The dark sky makes the warm lantern look hopeful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The contrast between the dark sky and warm light adds a hopeful mood.",
+      "hint": "Think about how the two colours work together to shape meaning."
+    }
+  },
+  {
+    "id": "AC9E2LA02-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "practice",
+    "skill": "appreciating_colour_in_an_image_reason",
+    "question": "A student answers “The lantern looks hopeful only because it is smaller than the sky.”. Which feedback helps? Task: A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
+    "audio_prompt": "A student answers “The lantern looks hopeful only because it is smaller than the sky.”. Which feedback helps? Task: A tiny lantern glows under a dark blue sky. Which response explains the colour choice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-p-024",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating colour in an image. Notice: Give a reason. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Think about how the two colours work together to shape meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The lantern looks hopeful only because it is smaller than the sky.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The dark sky hides the lantern, so the colours add no meaning.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Think about how the two colours work together to shape meaning. The contrast between the dark sky and warm light adds a hopeful mood.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "giving_a_respectful_negative_response_apply",
+    "question": "Which response explains a dislike without insulting the author or other readers?",
+    "audio_prompt": "Which response explains a dislike without insulting the author or other readers?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-001",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: giving a respectful negative response. Notice: State a preference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I did not enjoy the ending, so other readers should dislike it too.",
+        "is_correct": false
+      },
+      {
+        "text": "I did not enjoy the ending because the main problem stayed unsolved.",
+        "is_correct": true
+      },
+      {
+        "text": "I did not enjoy it because an ending does not need to solve the problem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response respectfully focuses on a specific feature of the text.",
+      "hint": "A useful response explains the text feature, not attacks the creator or audience."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "giving_a_respectful_negative_response_reason",
+    "question": "A student answers “I did not enjoy the ending, so other readers should dislike it too.”. Which feedback helps? Task: Which response explains a dislike without insulting the author or other readers?",
+    "audio_prompt": "A student answers “I did not enjoy the ending, so other readers should dislike it too.”. Which feedback helps? Task: Which response explains a dislike without insulting the author or other readers?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-002",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: giving a respectful negative response. Notice: State a preference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I did not enjoy the ending, so other readers should dislike it too.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I did not enjoy it because an ending does not need to solve the problem.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "A useful response explains the text feature, not attacks the creator or audience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A useful response explains the text feature, not attacks the creator or audience. The response respectfully focuses on a specific feature of the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "comparing_two_adventure_stories_apply",
+    "question": "Which comparison gives a clear preference supported by a difference between two stories?",
+    "audio_prompt": "Which comparison gives a clear preference supported by a difference between two stories?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-003",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: comparing two adventure stories. Notice: Give a reason. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I preferred River Race because its storm problem was more exciting than Garden Day's missing tools.",
+        "is_correct": true
+      },
+      {
+        "text": "River Race is better, and that is all.",
+        "is_correct": false
+      },
+      {
+        "text": "I preferred River Race because it has more pages than Garden Day.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response names a preference and supports it with a relevant plot difference.",
+      "hint": "A comparison should explain what differs and why that matters to the reader."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "comparing_two_adventure_stories_reason",
+    "question": "A student answers “I preferred River Race because it has more pages than Garden Day.”. Which feedback helps? Task: Which comparison gives a clear preference supported by a difference between two stories?",
+    "audio_prompt": "A student answers “I preferred River Race because it has more pages than Garden Day.”. Which feedback helps? Task: Which comparison gives a clear preference supported by a difference between two stories?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-004",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: comparing two adventure stories. Notice: Give a reason. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I preferred River Race because it has more pages than Garden Day.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A comparison should explain what differs and why that matters to the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “River Race is better, and that is all.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A comparison should explain what differs and why that matters to the reader. The response names a preference and supports it with a relevant plot difference.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "appreciating_the_author_s_word_choice_apply",
+    "question": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "audio_prompt": "The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-005",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating the author's word choice. Notice: Refer to a text feature. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I liked ‘floated’ because it means the moon was on the water.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked ‘silver’ because it makes the quiet lake sound noisy.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked ‘floated’ because it made the night seem gentle and calm.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response points to a precise word and explains the mood it creates.",
+      "hint": "Choose a comment that connects one language choice to its effect."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "appreciating_the_author_s_word_choice_reason",
+    "question": "A student answers “I liked ‘floated’ because it means the moon was on the water.”. Which feedback helps? Task: The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "audio_prompt": "A student answers “I liked ‘floated’ because it means the moon was on the water.”. Which feedback helps? Task: The story says, ‘The silver moon floated above the lake.’ Which response explains the words' effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-006",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating the author's word choice. Notice: Refer to a text feature. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a comment that connects one language choice to its effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “I liked ‘floated’ because it means the moon was on the water.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “I liked ‘silver’ because it makes the quiet lake sound noisy.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a comment that connects one language choice to its effect. The response points to a precise word and explains the mood it creates.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "supporting_a_response_to_a_peaceful_setting_apply",
+    "question": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "audio_prompt": "Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-007",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: supporting a response to a peaceful setting. Notice: Use evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The creek crashed over rocks beside the path.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek whispered beside the soft green grass.",
+        "is_correct": true
+      },
+      {
+        "text": "Children shouted while they splashed through the creek.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The gentle sound and soft visual details create a peaceful setting.",
+      "hint": "Look for words that help the reader hear or picture calmness."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "supporting_a_response_to_a_peaceful_setting_reason",
+    "question": "A student answers “Children shouted while they splashed through the creek.”. Which feedback helps? Task: Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "audio_prompt": "A student answers “Children shouted while they splashed through the creek.”. Which feedback helps? Task: Which line best supports a reader saying, ‘The setting felt peaceful’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-008",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: supporting a response to a peaceful setting. Notice: Use evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Children shouted while they splashed through the creek.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The creek crashed over rocks beside the path.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for words that help the reader hear or picture calmness.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for words that help the reader hear or picture calmness. The gentle sound and soft visual details create a peaceful setting.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "appreciating_a_chant_s_beat_apply",
+    "question": "Which response explains why a reader preferred a playground chant?",
+    "audio_prompt": "Which response explains why a reader preferred a playground chant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-009",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating a chant's beat. Notice: Compare responses. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Its strong beat made the chant lively and fun to perform.",
+        "is_correct": true
+      },
+      {
+        "text": "Its strong beat made the chant sound quiet and sleepy.",
+        "is_correct": false
+      },
+      {
+        "text": "Its rhyming title tells performers exactly when to clap.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response names the beat and explains how it affects the performance.",
+      "hint": "Connect a sound pattern to what the reader hears or feels."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "appreciating_a_chant_s_beat_reason",
+    "question": "A student answers “Its strong beat made the chant sound quiet and sleepy.”. Which feedback helps? Task: Which response explains why a reader preferred a playground chant?",
+    "audio_prompt": "A student answers “Its strong beat made the chant sound quiet and sleepy.”. Which feedback helps? Task: Which response explains why a reader preferred a playground chant?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-010",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: appreciating a chant's beat. Notice: Compare responses. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Its strong beat made the chant sound quiet and sleepy.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect a sound pattern to what the reader hears or feels.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Its rhyming title tells performers exactly when to clap.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect a sound pattern to what the reader hears or feels. The response names the beat and explains how it affects the performance.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "using_evidence_about_a_kind_character_apply",
+    "question": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "audio_prompt": "Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-011",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: using evidence about a kind character. Notice: State a preference. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Lani carried her own bag to the campsite.",
+        "is_correct": false
+      },
+      {
+        "text": "Lani reached the lookout before the other walkers.",
+        "is_correct": false
+      },
+      {
+        "text": "Lani shared her water when the walkers were tired.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sharing water when others need it is story evidence of Lani's kindness.",
+      "hint": "Choose an action that proves the reason given."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "using_evidence_about_a_kind_character_reason",
+    "question": "A student answers “Lani reached the lookout before the other walkers.”. Which feedback helps? Task: Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "audio_prompt": "A student answers “Lani reached the lookout before the other walkers.”. Which feedback helps? Task: Omar says, ‘Lani was the character I liked most because she was kind.’ Which detail supports him?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-012",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: using evidence about a kind character. Notice: State a preference. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose an action that proves the reason given.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Lani reached the lookout before the other walkers.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Lani carried her own bag to the campsite.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose an action that proves the reason given. Sharing water when others need it is story evidence of Lani's kindness.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "improving_a_vague_picture_response_apply",
+    "question": "How can Kai improve ‘The pictures were good’?",
+    "audio_prompt": "How can Kai improve ‘The pictures were good’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-013",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: improving a vague picture response. Notice: Give a reason. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "List the colours without saying what they add.",
+        "is_correct": false
+      },
+      {
+        "text": "Name a visual detail and explain how it helped the story make sense.",
+        "is_correct": true
+      },
+      {
+        "text": "Retell the ending without referring to any picture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A precise response identifies a visual feature and explains what it adds for the reader.",
+      "hint": "Move from a broad opinion to a reason supported by the image."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "improving_a_vague_picture_response_reason",
+    "question": "A student answers “List the colours without saying what they add.”. Which feedback helps? Task: How can Kai improve ‘The pictures were good’?",
+    "audio_prompt": "A student answers “List the colours without saying what they add.”. Which feedback helps? Task: How can Kai improve ‘The pictures were good’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-014",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: improving a vague picture response. Notice: Give a reason. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “List the colours without saying what they add.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Retell the ending without referring to any picture.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Move from a broad opinion to a reason supported by the image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Move from a broad opinion to a reason supported by the image. A precise response identifies a visual feature and explains what it adds for the reader.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "preferring_a_character_s_diary_version_apply",
+    "question": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "audio_prompt": "The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-015",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: preferring a character's diary version. Notice: Refer to a text feature. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "I preferred the diary because the character's thoughts helped me feel her worry.",
+        "is_correct": true
+      },
+      {
+        "text": "I preferred the diary because its dates show that the adventure happened first.",
+        "is_correct": false
+      },
+      {
+        "text": "I preferred the diary because the report's grouped facts show feelings more clearly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response explains how the diary's first-person thoughts affect the reader.",
+      "hint": "Use a feature of the chosen text and explain why you value it."
+    }
+  },
+  {
+    "id": "AC9E2LA02-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA02",
+    "bank": "test",
+    "skill": "preferring_a_character_s_diary_version_reason",
+    "question": "A student answers “I preferred the diary because the report's grouped facts show feelings more clearly.”. Which feedback helps? Task: The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "audio_prompt": "A student answers “I preferred the diary because the report's grouped facts show feelings more clearly.”. Which feedback helps? Task: The same adventure is told as a report and as the character's diary. Which preference is well supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la02.svg#ac9e2la02-t-016",
+      "alt_text": "Three-step Giving Reasons for Text Preferences organiser. Read: preferring a character's diary version. Notice: Refer to a text feature. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “I preferred the diary because the report's grouped facts show feelings more clearly.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a feature of the chosen text and explain why you value it.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “I preferred the diary because its dates show that the adventure happened first.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a feature of the chosen text and explain why you value it. The response explains how the diary's first-person thoughts affect the reader.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

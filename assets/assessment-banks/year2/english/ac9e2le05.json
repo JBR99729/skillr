@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LE05-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_familiar_quest_apply",
+    "question": "A familiar story follows a hero searching for treasure. Which change creates an adaptation?",
+    "audio_prompt": "A familiar story follows a hero searching for treasure. Which change creates an adaptation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-001",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt familiar quest. Notice: Identify familiar structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use the same hero, treasure and events with no new choices.",
+        "is_correct": false
+      },
+      {
+        "text": "Change only the treasure from gold to silver.",
+        "is_correct": false
+      },
+      {
+        "text": "A young robot searches for a lost seed on Mars.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new character, object and setting adapt the familiar quest structure.",
+      "hint": "Keep a recognisable structure but create meaningful new content."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_familiar_quest_reason",
+    "question": "A student answers “Use the same hero, treasure and events with no new choices.”. Which feedback helps? Task: A familiar story follows a hero searching for treasure. Which change creates an adaptation?",
+    "audio_prompt": "A student answers “Use the same hero, treasure and events with no new choices.”. Which feedback helps? Task: A familiar story follows a hero searching for treasure. Which change creates an adaptation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-002",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt familiar quest. Notice: Identify familiar structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep a recognisable structure but create meaningful new content.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Use the same hero, treasure and events with no new choices.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change only the treasure from gold to silver.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep a recognisable structure but create meaningful new content. The new character, object and setting adapt the familiar quest structure.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_repeated_pattern_apply",
+    "question": "A tale repeats three visits to three houses. Which plan adapts the pattern?",
+    "audio_prompt": "A tale repeats three visits to three houses. Which plan adapts the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-003",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt repeated pattern. Notice: Plan an adaptation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Use the same visitors, houses and words as the familiar tale.",
+        "is_correct": false
+      },
+      {
+        "text": "Three animals visit three unusual gardens.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the visitors but include only one visit with no repeated pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The three-visit pattern remains while characters and places become new.",
+      "hint": "Identify what can stay as a pattern and what can change."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_repeated_pattern_reason",
+    "question": "A student answers “Change the visitors but include only one visit with no repeated pattern.”. Which feedback helps? Task: A tale repeats three visits to three houses. Which plan adapts the pattern?",
+    "audio_prompt": "A student answers “Change the visitors but include only one visit with no repeated pattern.”. Which feedback helps? Task: A tale repeats three visits to three houses. Which plan adapts the pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-004",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt repeated pattern. Notice: Plan an adaptation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the visitors but include only one visit with no repeated pattern.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Use the same visitors, houses and words as the familiar tale.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify what can stay as a pattern and what can change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify what can stay as a pattern and what can change. The three-visit pattern remains while characters and places become new.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_event_sequence_apply",
+    "question": "In a draft, the character celebrates before solving the problem. What edit helps most?",
+    "audio_prompt": "In a draft, the character celebrates before solving the problem. What edit helps most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-005",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit event sequence. Notice: Create original changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "move the solution before the celebration",
+        "is_correct": true
+      },
+      {
+        "text": "repeat the celebration before and after the unsolved problem",
+        "is_correct": false
+      },
+      {
+        "text": "add another celebration but leave the solution last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The solution needs to happen before the character celebrates it.",
+      "hint": "Check whether events happen in a logical order."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_event_sequence_reason",
+    "question": "A student answers “repeat the celebration before and after the unsolved problem”. Which feedback helps? Task: In a draft, the character celebrates before solving the problem. What edit helps most?",
+    "audio_prompt": "A student answers “repeat the celebration before and after the unsolved problem”. Which feedback helps? Task: In a draft, the character celebrates before solving the problem. What edit helps most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-006",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit event sequence. Notice: Create original changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “repeat the celebration before and after the unsolved problem”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether events happen in a logical order.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “add another celebration but leave the solution last” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether events happen in a logical order. The solution needs to happen before the character celebrates it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_language_feature_apply",
+    "question": "A rhyme says, ‘Quick little cat in a tall red hat.’ Which new line copies the playful pattern?",
+    "audio_prompt": "A rhyme says, ‘Quick little cat in a tall red hat.’ Which new line copies the playful pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-007",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt language feature. Notice: Use multiple modes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The animal moved.",
+        "is_correct": false
+      },
+      {
+        "text": "Quick little cat in a tall red hat.",
+        "is_correct": false
+      },
+      {
+        "text": "Small green frog on a bumpy log",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The new line uses an adjective-noun pattern and rhyme without copying the content.",
+      "hint": "Reuse the kind of language pattern, not the exact line."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_language_feature_reason",
+    "question": "A student answers “Quick little cat in a tall red hat.”. Which feedback helps? Task: A rhyme says, ‘Quick little cat in a tall red hat.’ Which new line copies the playful pattern?",
+    "audio_prompt": "A student answers “Quick little cat in a tall red hat.”. Which feedback helps? Task: A rhyme says, ‘Quick little cat in a tall red hat.’ Which new line copies the playful pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-008",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt language feature. Notice: Use multiple modes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Reuse the kind of language pattern, not the exact line.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Quick little cat in a tall red hat.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The animal moved.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reuse the kind of language pattern, not the exact line. The new line uses an adjective-noun pattern and rhyme without copying the content.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_dialogue_for_character_apply",
+    "question": "A shy character suddenly shouts a long speech with no reason. What edit could help?",
+    "audio_prompt": "A shy character suddenly shouts a long speech with no reason. What edit could help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-009",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit dialogue for character. Notice: Edit meaning and language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "shorten the speech but keep the unexplained shouting",
+        "is_correct": false
+      },
+      {
+        "text": "use quieter words or show why the character changes",
+        "is_correct": true
+      },
+      {
+        "text": "add exclamation marks so the sudden shouting is even clearer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue should fit the character or show a believable reason for change.",
+      "hint": "Check whether the language matches the character built in the text."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_dialogue_for_character_reason",
+    "question": "A student answers “shorten the speech but keep the unexplained shouting”. Which feedback helps? Task: A shy character suddenly shouts a long speech with no reason. What edit could help?",
+    "audio_prompt": "A student answers “shorten the speech but keep the unexplained shouting”. Which feedback helps? Task: A shy character suddenly shouts a long speech with no reason. What edit could help?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-010",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit dialogue for character. Notice: Edit meaning and language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “shorten the speech but keep the unexplained shouting”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “add exclamation marks so the sudden shouting is even clearer” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether the language matches the character built in the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check whether the language matches the character built in the text. Dialogue should fit the character or show a believable reason for change.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "use_drawing_to_adapt_setting_apply",
+    "question": "A story moves from a forest to an underwater city. What drawing change best supports it?",
+    "audio_prompt": "A story moves from a forest to an underwater city. What drawing change best supports it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-011",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Use drawing to adapt setting. Notice: Identify familiar structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "add coral buildings and swimming characters",
+        "is_correct": true
+      },
+      {
+        "text": "colour the sky blue but keep the dry forest and walking characters",
+        "is_correct": false
+      },
+      {
+        "text": "add one fish but leave the houses, road and characters on dry land",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Coral buildings and swimming figures visually establish the new underwater setting.",
+      "hint": "Add several image details that make the changed setting clear."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "use_drawing_to_adapt_setting_reason",
+    "question": "A student answers “add one fish but leave the houses, road and characters on dry land”. Which feedback helps? Task: A story moves from a forest to an underwater city. What drawing change best supports it?",
+    "audio_prompt": "A student answers “add one fish but leave the houses, road and characters on dry land”. Which feedback helps? Task: A story moves from a forest to an underwater city. What drawing change best supports it?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-012",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Use drawing to adapt setting. Notice: Identify familiar structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “add one fish but leave the houses, road and characters on dry land”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Add several image details that make the changed setting clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “colour the sky blue but keep the dry forest and walking characters” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add several image details that make the changed setting clear. Coral buildings and swimming figures visually establish the new underwater setting.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "digital_sound_choice_apply",
+    "question": "A digital story reaches a suspenseful door. Which sound supports the moment?",
+    "audio_prompt": "A digital story reaches a suspenseful door. Which sound supports the moment?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-013",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Digital sound choice. Notice: Plan an adaptation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a quick, cheerful chime as the door opens",
+        "is_correct": false
+      },
+      {
+        "text": "a loud door slam before anyone reaches it",
+        "is_correct": false
+      },
+      {
+        "text": "a slow creak as the door opens",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A slow creak adds suspense and matches the door-opening event.",
+      "hint": "Choose a sound whose mood and timing strengthen the moment."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "digital_sound_choice_reason",
+    "question": "A student answers “a quick, cheerful chime as the door opens”. Which feedback helps? Task: A digital story reaches a suspenseful door. Which sound supports the moment?",
+    "audio_prompt": "A student answers “a quick, cheerful chime as the door opens”. Which feedback helps? Task: A digital story reaches a suspenseful door. Which sound supports the moment?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-014",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Digital sound choice. Notice: Plan an adaptation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a sound whose mood and timing strengthen the moment.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a quick, cheerful chime as the door opens”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a loud door slam before anyone reaches it” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a sound whose mood and timing strengthen the moment. A slow creak adds suspense and matches the door-opening event.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_point_of_view_apply",
+    "question": "The familiar tale is told by the hero. Which change creates a fresh adaptation?",
+    "audio_prompt": "The familiar tale is told by the hero. Which change creates a fresh adaptation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-015",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt point of view. Notice: Create original changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "copy the hero's words but add the dragon's name to the title",
+        "is_correct": false
+      },
+      {
+        "text": "retell the events from the dragon's view",
+        "is_correct": true
+      },
+      {
+        "text": "keep the hero as narrator and change only the page colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A new narrator changes how familiar events are understood.",
+      "hint": "Think about who tells the story and what they might notice."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_point_of_view_reason",
+    "question": "A student answers “keep the hero as narrator and change only the page colour”. Which feedback helps? Task: The familiar tale is told by the hero. Which change creates a fresh adaptation?",
+    "audio_prompt": "A student answers “keep the hero as narrator and change only the page colour”. Which feedback helps? Task: The familiar tale is told by the hero. Which change creates a fresh adaptation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-016",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt point of view. Notice: Create original changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “keep the hero as narrator and change only the page colour”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “copy the hero's words but add the dragon's name to the title” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Think about who tells the story and what they might notice.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Think about who tells the story and what they might notice. A new narrator changes how familiar events are understood.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_unclear_pronouns_apply",
+    "question": "Three different characters are all called ‘she’ in one paragraph. What edit improves clarity?",
+    "audio_prompt": "Three different characters are all called ‘she’ in one paragraph. What edit improves clarity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-017",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit unclear pronouns. Notice: Use multiple modes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "repeat names where the pronouns are unclear",
+        "is_correct": true
+      },
+      {
+        "text": "replace the remaining names with more uses of she",
+        "is_correct": false
+      },
+      {
+        "text": "add another action using she without naming the character",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating names at confusing points makes references clear.",
+      "hint": "A reader should know which character performs each action."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_unclear_pronouns_reason",
+    "question": "A student answers “replace the remaining names with more uses of she”. Which feedback helps? Task: Three different characters are all called ‘she’ in one paragraph. What edit improves clarity?",
+    "audio_prompt": "A student answers “replace the remaining names with more uses of she”. Which feedback helps? Task: Three different characters are all called ‘she’ in one paragraph. What edit improves clarity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-018",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit unclear pronouns. Notice: Use multiple modes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “replace the remaining names with more uses of she”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "A reader should know which character performs each action.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “add another action using she without naming the character” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A reader should know which character performs each action. Repeating names at confusing points makes references clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_a_resolution_apply",
+    "question": "A familiar story ends with a rescue. Which plan changes the ending while keeping the main problem?",
+    "audio_prompt": "A familiar story ends with a rescue. Which plan changes the ending while keeping the main problem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-019",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt a resolution. Notice: Edit meaning and language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the familiar rescue but change one rescuer's name.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the trapped character but end before anyone solves the problem.",
+        "is_correct": false
+      },
+      {
+        "text": "The trapped character uses clues to escape alone.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The problem stays recognisable, but the character solves it in a new way.",
+      "hint": "Change how the problem is resolved, not just a surface detail."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "adapt_a_resolution_reason",
+    "question": "A student answers “Keep the trapped character but end before anyone solves the problem.”. Which feedback helps? Task: A familiar story ends with a rescue. Which plan changes the ending while keeping the main problem?",
+    "audio_prompt": "A student answers “Keep the trapped character but end before anyone solves the problem.”. Which feedback helps? Task: A familiar story ends with a rescue. Which plan changes the ending while keeping the main problem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-020",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt a resolution. Notice: Edit meaning and language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Change how the problem is resolved, not just a surface detail.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Keep the trapped character but end before anyone solves the problem.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the familiar rescue but change one rescuer's name.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change how the problem is resolved, not just a surface detail. The problem stays recognisable, but the character solves it in a new way.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_a_stage_entrance_apply",
+    "question": "During rehearsal, the audience cannot tell when the monster enters. What should performers edit?",
+    "audio_prompt": "During rehearsal, the audience cannot tell when the monster enters. What should performers edit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-021",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit a stage entrance. Notice: Identify familiar structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "make the monster enter quietly behind the other actors with no cue",
+        "is_correct": false
+      },
+      {
+        "text": "add a clear entrance, movement and voice change",
+        "is_correct": true
+      },
+      {
+        "text": "play louder music through the whole scene without changing the entrance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A clear entrance and delivery cues make the event understandable in performance.",
+      "hint": "Edit what the audience sees and hears at the moment of entry."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "edit_a_stage_entrance_reason",
+    "question": "A student answers “make the monster enter quietly behind the other actors with no cue”. Which feedback helps? Task: During rehearsal, the audience cannot tell when the monster enters. What should performers edit?",
+    "audio_prompt": "A student answers “make the monster enter quietly behind the other actors with no cue”. Which feedback helps? Task: During rehearsal, the audience cannot tell when the monster enters. What should performers edit?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-022",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit a stage entrance. Notice: Identify familiar structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “make the monster enter quietly behind the other actors with no cue”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “play louder music through the whole scene without changing the entrance” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Edit what the audience sees and hears at the moment of entry.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Edit what the audience sees and hears at the moment of entry. A clear entrance and delivery cues make the event understandable in performance.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "align_words_and_digital_images_apply",
+    "question": "The words describe midnight, but the digital background shows bright noon. What edit is needed?",
+    "audio_prompt": "The words describe midnight, but the digital background shows bright noon. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-023",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Align words and digital images. Notice: Plan an adaptation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "change the background to a night scene",
+        "is_correct": true
+      },
+      {
+        "text": "darken the text colour but leave the bright noon background",
+        "is_correct": false
+      },
+      {
+        "text": "keep the noon image because the written time should be enough",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual setting should support the written midnight detail.",
+      "hint": "Check that words, images and sounds tell the same story."
+    }
+  },
+  {
+    "id": "AC9E2LE05-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "practice",
+    "skill": "align_words_and_digital_images_reason",
+    "question": "A student answers “keep the noon image because the written time should be enough”. Which feedback helps? Task: The words describe midnight, but the digital background shows bright noon. What edit is needed?",
+    "audio_prompt": "A student answers “keep the noon image because the written time should be enough”. Which feedback helps? Task: The words describe midnight, but the digital background shows bright noon. What edit is needed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-p-024",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Align words and digital images. Notice: Plan an adaptation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “keep the noon image because the written time should be enough”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that words, images and sounds tell the same story.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “darken the text colour but leave the bright noon background” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that words, images and sounds tell the same story. The visual setting should support the written midnight detail.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "distinguish_adaptation_from_copying_apply",
+    "question": "Which draft is an original adaptation of a familiar lost-child story?",
+    "audio_prompt": "Which draft is an original adaptation of a familiar lost-child story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-001",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Distinguish adaptation from copying. Notice: Identify familiar structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "It follows the original events and changes only one character's name.",
+        "is_correct": false
+      },
+      {
+        "text": "It redraws each picture with the same characters and actions.",
+        "is_correct": false
+      },
+      {
+        "text": "It keeps the journey home but uses new characters, obstacles and language.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong adaptation uses a recognisable structure while making substantial original choices.",
+      "hint": "Look for both connection to the familiar text and meaningful new creation."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "distinguish_adaptation_from_copying_reason",
+    "question": "A student answers “It follows the original events and changes only one character's name.”. Which feedback helps? Task: Which draft is an original adaptation of a familiar lost-child story?",
+    "audio_prompt": "A student answers “It follows the original events and changes only one character's name.”. Which feedback helps? Task: Which draft is an original adaptation of a familiar lost-child story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-002",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Distinguish adaptation from copying. Notice: Identify familiar structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Look for both connection to the familiar text and meaningful new creation.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “It follows the original events and changes only one character's name.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “It redraws each picture with the same characters and actions.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for both connection to the familiar text and meaningful new creation. A strong adaptation uses a recognisable structure while making substantial original choices.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "adapt_a_cumulative_structure_apply",
+    "question": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "audio_prompt": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-003",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt a cumulative structure. Notice: Plan an adaptation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One visitor arrives and no pattern develops.",
+        "is_correct": false
+      },
+      {
+        "text": "A space station welcomes a robot, an alien and then a comet researcher.",
+        "is_correct": true
+      },
+      {
+        "text": "The original visitors arrive in the original place and say the same lines.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The plan keeps the growing visitor pattern while changing the setting, characters and events.",
+      "hint": "Keep the structural pattern but make fresh story choices."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "adapt_a_cumulative_structure_reason",
+    "question": "A student answers “The original visitors arrive in the original place and say the same lines.”. Which feedback helps? Task: A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "audio_prompt": "A student answers “The original visitors arrive in the original place and say the same lines.”. Which feedback helps? Task: A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-004",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt a cumulative structure. Notice: Plan an adaptation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The original visitors arrive in the original place and say the same lines.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One visitor arrives and no pattern develops.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the structural pattern but make fresh story choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep the structural pattern but make fresh story choices. The plan keeps the growing visitor pattern while changing the setting, characters and events.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "edit_a_confusing_ending_apply",
+    "question": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "audio_prompt": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-005",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit a confusing ending. Notice: Create original changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "add the action that solves the escape problem before the final line",
+        "is_correct": true
+      },
+      {
+        "text": "repeat the words They were safe three times",
+        "is_correct": false
+      },
+      {
+        "text": "add a new problem after the final line without solving either one",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Showing the solution connects the problem to the ending and completes the event sequence.",
+      "hint": "Check whether the reader can follow how the problem was resolved."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "edit_a_confusing_ending_reason",
+    "question": "A student answers “repeat the words They were safe three times”. Which feedback helps? Task: A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "audio_prompt": "A student answers “repeat the words They were safe three times”. Which feedback helps? Task: A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-006",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit a confusing ending. Notice: Create original changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “repeat the words They were safe three times”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether the reader can follow how the problem was resolved.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “add a new problem after the final line without solving either one” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether the reader can follow how the problem was resolved. Showing the solution connects the problem to the ending and completes the event sequence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "adapt_dialogue_pattern_apply",
+    "question": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "audio_prompt": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-007",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt dialogue pattern. Notice: Use multiple modes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The new detective acts at once and asks no questions.",
+        "is_correct": false
+      },
+      {
+        "text": "The original character repeats the original questions word for word.",
+        "is_correct": false
+      },
+      {
+        "text": "A new detective asks three different clue questions before opening a box.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The adaptation retains the three-question pattern but gives it new language and a new situation.",
+      "hint": "Keep the pattern, not the exact words or character."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "adapt_dialogue_pattern_reason",
+    "question": "A student answers “The original character repeats the original questions word for word.”. Which feedback helps? Task: A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "audio_prompt": "A student answers “The original character repeats the original questions word for word.”. Which feedback helps? Task: A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-008",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Adapt dialogue pattern. Notice: Use multiple modes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep the pattern, not the exact words or character.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “The original character repeats the original questions word for word.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “The new detective acts at once and asks no questions.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keep the pattern, not the exact words or character. The adaptation retains the three-question pattern but gives it new language and a new situation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "edit_image_sequence_apply",
+    "question": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "audio_prompt": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-009",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit image sequence. Notice: Edit meaning and language. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "swap the page colours and keep the unexplained change",
+        "is_correct": false
+      },
+      {
+        "text": "show the bridge still repaired or add an event that breaks it again",
+        "is_correct": true
+      },
+      {
+        "text": "remove the bridge from only the final picture",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pictures need a consistent state or a visible event explaining the change.",
+      "hint": "Compare what the image shows before and after each event."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "edit_image_sequence_reason",
+    "question": "A student answers “swap the page colours and keep the unexplained change”. Which feedback helps? Task: In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "audio_prompt": "A student answers “swap the page colours and keep the unexplained change”. Which feedback helps? Task: In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-010",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Edit image sequence. Notice: Edit meaning and language. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “swap the page colours and keep the unexplained change”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “remove the bridge from only the final picture” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare what the image shows before and after each event.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare what the image shows before and after each event. The pictures need a consistent state or a visible event explaining the change.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "choose_digital_transition_apply",
+    "question": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "audio_prompt": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-011",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Choose digital transition. Notice: Identify familiar structure. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "use a brief sound cue and a quick scene change when the chase begins",
+        "is_correct": true
+      },
+      {
+        "text": "keep the calm music and frozen garden image through the chase",
+        "is_correct": false
+      },
+      {
+        "text": "play every sound effect at once before the chase starts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A timely sound and visual transition signal the new pace and action.",
+      "hint": "Match digital features to the exact moment and mood."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "choose_digital_transition_reason",
+    "question": "A student answers “play every sound effect at once before the chase starts”. Which feedback helps? Task: A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "audio_prompt": "A student answers “play every sound effect at once before the chase starts”. Which feedback helps? Task: A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-012",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Choose digital transition. Notice: Identify familiar structure. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “play every sound effect at once before the chase starts”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match digital features to the exact moment and mood.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “keep the calm music and frozen garden image through the chase” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match digital features to the exact moment and mood. A timely sound and visual transition signal the new pace and action.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "peer_editing_feedback_apply",
+    "question": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "audio_prompt": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-013",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Peer editing feedback. Notice: Plan an adaptation. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Change the font so the copied events seem different.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the new setting and copy the original place too.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the setting, then create events that could happen in that new place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Useful feedback recognises the new choice and suggests deeper changes linked to it.",
+      "hint": "An adaptation needs meaningful new content, not just surface changes."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "peer_editing_feedback_reason",
+    "question": "A student answers “Change the font so the copied events seem different.”. Which feedback helps? Task: A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "audio_prompt": "A student answers “Change the font so the copied events seem different.”. Which feedback helps? Task: A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-014",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Peer editing feedback. Notice: Plan an adaptation. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "An adaptation needs meaningful new content, not just surface changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the font so the copied events seem different.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Remove the new setting and copy the original place too.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An adaptation needs meaningful new content, not just surface changes. Useful feedback recognises the new choice and suggests deeper changes linked to it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "performance_adaptation_apply",
+    "question": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "audio_prompt": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-015",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Performance adaptation. Notice: Create original changes. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "use shouting, rapid running and flashing lights",
+        "is_correct": false
+      },
+      {
+        "text": "use soft voices, slow movements and dim warm lighting",
+        "is_correct": true
+      },
+      {
+        "text": "speak with no changes in pace or expression",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Soft, slow performance choices support the bedtime story's gentle mood.",
+      "hint": "Match voice, movement and light to the text's feeling."
+    }
+  },
+  {
+    "id": "AC9E2LE05-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE05",
+    "bank": "test",
+    "skill": "performance_adaptation_reason",
+    "question": "A student answers “speak with no changes in pace or expression”. Which feedback helps? Task: A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "audio_prompt": "A student answers “speak with no changes in pace or expression”. Which feedback helps? Task: A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2le05.svg#ac9e2le05-t-016",
+      "alt_text": "Three-step Adapting and Editing Literary Texts organiser. Read: Performance adaptation. Notice: Create original changes. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “speak with no changes in pace or expression”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “use shouting, rapid running and flashing lights” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match voice, movement and light to the text's feeling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match voice, movement and light to the text's feeling. Soft, slow performance choices support the bedtime story's gentle mood.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E2LA09-P-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_quiet_movement_apply",
+    "question": "The mouse moved slowly and very quietly under the cupboard. Which verb gives the clearest picture?",
+    "audio_prompt": "The mouse moved slowly and very quietly under the cupboard. Which verb gives the clearest picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-001",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a quiet movement. Notice: Identify general words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "went",
+        "is_correct": false
+      },
+      {
+        "text": "scurried",
+        "is_correct": false
+      },
+      {
+        "text": "crept",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Crept precisely describes slow, quiet movement.",
+      "hint": "Choose the verb that matches both the speed and quiet movement."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_quiet_movement_reason",
+    "question": "A student answers “went”. Which feedback helps? Task: The mouse moved slowly and very quietly under the cupboard. Which verb gives the clearest picture?",
+    "audio_prompt": "A student answers “went”. Which feedback helps? Task: The mouse moved slowly and very quietly under the cupboard. Which verb gives the clearest picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-002",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a quiet movement. Notice: Identify general words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the verb that matches both the speed and quiet movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “went”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “scurried” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the verb that matches both the speed and quiet movement. Crept precisely describes slow, quiet movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_race_verb_apply",
+    "question": "Tia ran as fast as she could towards the finish line. Which verb fits best?",
+    "audio_prompt": "Tia ran as fast as she could towards the finish line. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-003",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a race verb. Notice: Choose precise verbs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "jogged",
+        "is_correct": false
+      },
+      {
+        "text": "sprinted",
+        "is_correct": true
+      },
+      {
+        "text": "wandered",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sprinted precisely describes running at top speed.",
+      "hint": "Match the verb to the speed and purpose of the movement."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_race_verb_reason",
+    "question": "A student answers “wandered”. Which feedback helps? Task: Tia ran as fast as she could towards the finish line. Which verb fits best?",
+    "audio_prompt": "A student answers “wandered”. Which feedback helps? Task: Tia ran as fast as she could towards the finish line. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-004",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a race verb. Notice: Choose precise verbs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “wandered”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “jogged” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the verb to the speed and purpose of the movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the verb to the speed and purpose of the movement. Sprinted precisely describes running at top speed.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_soft_speaking_word_apply",
+    "question": "Dad spoke so softly that only Mia could hear. Which verb is most precise?",
+    "audio_prompt": "Dad spoke so softly that only Mia could hear. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-005",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a soft speaking word. Notice: Choose precise nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "whispered",
+        "is_correct": true
+      },
+      {
+        "text": "said",
+        "is_correct": false
+      },
+      {
+        "text": "shouted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Whispered tells exactly how quietly Dad spoke.",
+      "hint": "Choose a speaking verb that matches the volume clue."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_soft_speaking_word_reason",
+    "question": "A student answers “said”. Which feedback helps? Task: Dad spoke so softly that only Mia could hear. Which verb is most precise?",
+    "audio_prompt": "A student answers “said”. Which feedback helps? Task: Dad spoke so softly that only Mia could hear. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-006",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a soft speaking word. Notice: Choose precise nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “said”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a speaking verb that matches the volume clue.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “shouted” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a speaking verb that matches the volume clue. Whispered tells exactly how quietly Dad spoke.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_an_ice_change_apply",
+    "question": "An ice cube became liquid water in the sun. Which science word fits the change?",
+    "audio_prompt": "An ice cube became liquid water in the sun. Which science word fits the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-007",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name an ice change. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "vanished",
+        "is_correct": false
+      },
+      {
+        "text": "grew",
+        "is_correct": false
+      },
+      {
+        "text": "melted",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Melted is the accurate topic word for solid ice changing into liquid water.",
+      "hint": "Use the science word for the change you can observe."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_an_ice_change_reason",
+    "question": "A student answers “grew”. Which feedback helps? Task: An ice cube became liquid water in the sun. Which science word fits the change?",
+    "audio_prompt": "A student answers “grew”. Which feedback helps? Task: An ice cube became liquid water in the sun. Which science word fits the change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-008",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name an ice change. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Use the science word for the change you can observe.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “grew”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “vanished” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the science word for the change you can observe. Melted is the accurate topic word for solid ice changing into liquid water.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_an_animal_home_apply",
+    "question": "A rabbit disappeared into a tunnel it had dug in the ground. Which noun is most precise?",
+    "audio_prompt": "A rabbit disappeared into a tunnel it had dug in the ground. Which noun is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-009",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name an animal home. Notice: Explain word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "place",
+        "is_correct": false
+      },
+      {
+        "text": "burrow",
+        "is_correct": true
+      },
+      {
+        "text": "nest in a tree",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Burrow precisely names an underground home or tunnel made by an animal.",
+      "hint": "Choose the topic word that matches the kind and location of the home."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_an_animal_home_reason",
+    "question": "A student answers “place”. Which feedback helps? Task: A rabbit disappeared into a tunnel it had dug in the ground. Which noun is most precise?",
+    "audio_prompt": "A student answers “place”. Which feedback helps? Task: A rabbit disappeared into a tunnel it had dug in the ground. Which noun is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-010",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name an animal home. Notice: Explain word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “place”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “nest in a tree” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the topic word that matches the kind and location of the home.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the topic word that matches the kind and location of the home. Burrow precisely names an underground home or tunnel made by an animal.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "show_an_angry_look_apply",
+    "question": "Ned looked at the broken toy with narrowed eyes. Which verb best shows his anger?",
+    "audio_prompt": "Ned looked at the broken toy with narrowed eyes. Which verb best shows his anger?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-011",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show an angry look. Notice: Identify general words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "glared",
+        "is_correct": true
+      },
+      {
+        "text": "looked",
+        "is_correct": false
+      },
+      {
+        "text": "stared",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Glared is a precise verb for looking in an angry way.",
+      "hint": "Use the anger clue to choose more exactly than looked or stared."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "show_an_angry_look_reason",
+    "question": "A student answers “stared”. Which feedback helps? Task: Ned looked at the broken toy with narrowed eyes. Which verb best shows his anger?",
+    "audio_prompt": "A student answers “stared”. Which feedback helps? Task: Ned looked at the broken toy with narrowed eyes. Which verb best shows his anger?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-012",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show an angry look. Notice: Identify general words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “stared”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the anger clue to choose more exactly than looked or stared.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “looked” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the anger clue to choose more exactly than looked or stared. Glared is a precise verb for looking in an angry way.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "make_the_crash_vivid_apply",
+    "question": "The metal tray fell and made a sudden loud sound. Which verb is most precise?",
+    "audio_prompt": "The metal tray fell and made a sudden loud sound. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-013",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Make the crash vivid. Notice: Choose precise verbs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "dropped",
+        "is_correct": false
+      },
+      {
+        "text": "landed",
+        "is_correct": false
+      },
+      {
+        "text": "crashed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Crashed combines the falling action with the sudden loud sound.",
+      "hint": "Choose a verb that communicates the loud impact, not only the fall."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "make_the_crash_vivid_reason",
+    "question": "A student answers “dropped”. Which feedback helps? Task: The metal tray fell and made a sudden loud sound. Which verb is most precise?",
+    "audio_prompt": "A student answers “dropped”. Which feedback helps? Task: The metal tray fell and made a sudden loud sound. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-014",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Make the crash vivid. Notice: Choose precise verbs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose a verb that communicates the loud impact, not only the fall.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “dropped”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “landed” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose a verb that communicates the loud impact, not only the fall. Crashed combines the falling action with the sudden loud sound.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_a_young_tree_apply",
+    "question": "The gardener planted a very young tree with a thin trunk. Which noun is most precise?",
+    "audio_prompt": "The gardener planted a very young tree with a thin trunk. Which noun is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-015",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name a young tree. Notice: Choose precise nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "plant",
+        "is_correct": false
+      },
+      {
+        "text": "sapling",
+        "is_correct": true
+      },
+      {
+        "text": "old tree",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sapling precisely names a young tree.",
+      "hint": "Choose the topic word that gives the tree's age as well as its kind."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "name_a_young_tree_reason",
+    "question": "A student answers “old tree”. Which feedback helps? Task: The gardener planted a very young tree with a thin trunk. Which noun is most precise?",
+    "audio_prompt": "A student answers “old tree”. Which feedback helps? Task: The gardener planted a very young tree with a thin trunk. Which noun is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-016",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name a young tree. Notice: Choose precise nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “old tree”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “plant” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the topic word that gives the tree's age as well as its kind.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the topic word that gives the tree's age as well as its kind. Sapling precisely names a young tree.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-017",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_careful_look_apply",
+    "question": "Mika looked closely through a small gap in the fence. Which verb fits best?",
+    "audio_prompt": "Mika looked closely through a small gap in the fence. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-017",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a careful look. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "peered",
+        "is_correct": true
+      },
+      {
+        "text": "looked",
+        "is_correct": false
+      },
+      {
+        "text": "glanced quickly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Peered describes looking carefully when something is hard to see.",
+      "hint": "Use the clues closely and small gap to choose the exact looking verb."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-018",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_a_careful_look_reason",
+    "question": "A student answers “looked”. Which feedback helps? Task: Mika looked closely through a small gap in the fence. Which verb fits best?",
+    "audio_prompt": "A student answers “looked”. Which feedback helps? Task: Mika looked closely through a small gap in the fence. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-018",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a careful look. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “looked”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the clues closely and small gap to choose the exact looking verb.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “glanced quickly” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the clues closely and small gap to choose the exact looking verb. Peered describes looking carefully when something is hard to see.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-019",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "describe_leaf_sounds_apply",
+    "question": "Dry leaves made a soft brushing sound as the wind moved them. Which verb is most precise?",
+    "audio_prompt": "Dry leaves made a soft brushing sound as the wind moved them. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-019",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Describe leaf sounds. Notice: Explain word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "made noise",
+        "is_correct": false
+      },
+      {
+        "text": "crackled",
+        "is_correct": false
+      },
+      {
+        "text": "rustled",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rustled names the soft brushing sound of moving leaves.",
+      "hint": "Match the sound word to leaves brushing together in wind."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-020",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "describe_leaf_sounds_reason",
+    "question": "A student answers “crackled”. Which feedback helps? Task: Dry leaves made a soft brushing sound as the wind moved them. Which verb is most precise?",
+    "audio_prompt": "A student answers “crackled”. Which feedback helps? Task: Dry leaves made a soft brushing sound as the wind moved them. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-020",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Describe leaf sounds. Notice: Explain word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the sound word to leaves brushing together in wind.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “crackled”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “made noise” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the sound word to leaves brushing together in wind. Rustled names the soft brushing sound of moving leaves.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-021",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "use_a_maths_direction_apply",
+    "question": "A shape turns 90 degrees to the right. Which maths phrase names the move?",
+    "audio_prompt": "A shape turns 90 degrees to the right. Which maths phrase names the move?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-021",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Use a maths direction. Notice: Identify general words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a half turn clockwise",
+        "is_correct": false
+      },
+      {
+        "text": "a quarter turn clockwise",
+        "is_correct": true
+      },
+      {
+        "text": "a quarter turn anticlockwise",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A 90-degree right turn is a quarter turn clockwise.",
+      "hint": "Check both the amount of the turn and its direction."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-022",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "use_a_maths_direction_reason",
+    "question": "A student answers “a half turn clockwise”. Which feedback helps? Task: A shape turns 90 degrees to the right. Which maths phrase names the move?",
+    "audio_prompt": "A student answers “a half turn clockwise”. Which feedback helps? Task: A shape turns 90 degrees to the right. Which maths phrase names the move?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-022",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Use a maths direction. Notice: Identify general words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a half turn clockwise”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “a quarter turn anticlockwise” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check both the amount of the turn and its direction.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check both the amount of the turn and its direction. A 90-degree right turn is a quarter turn clockwise.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-023",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_an_exact_smell_word_apply",
+    "question": "The warm bread had a pleasant, strong smell. Which word gives the clearest description?",
+    "audio_prompt": "The warm bread had a pleasant, strong smell. Which word gives the clearest description?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-023",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose an exact smell word. Notice: Choose precise verbs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "fragrant",
+        "is_correct": true
+      },
+      {
+        "text": "nice",
+        "is_correct": false
+      },
+      {
+        "text": "sweet-tasting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fragrant precisely describes something with a pleasant noticeable smell.",
+      "hint": "Choose the word that names smell rather than a general opinion or taste."
+    }
+  },
+  {
+    "id": "AC9E2LA09-P-024",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "practice",
+    "skill": "choose_an_exact_smell_word_reason",
+    "question": "A student answers “sweet-tasting”. Which feedback helps? Task: The warm bread had a pleasant, strong smell. Which word gives the clearest description?",
+    "audio_prompt": "A student answers “sweet-tasting”. Which feedback helps? Task: The warm bread had a pleasant, strong smell. Which word gives the clearest description?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-p-024",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose an exact smell word. Notice: Choose precise verbs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “sweet-tasting”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the word that names smell rather than a general opinion or taste.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “nice” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the word that names smell rather than a general opinion or taste. Fragrant precisely describes something with a pleasant noticeable smell.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-001",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "use_a_space_word_apply",
+    "question": "The Moon followed its path around Earth. Which topic word says this most precisely?",
+    "audio_prompt": "The Moon followed its path around Earth. Which topic word says this most precisely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-001",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Use a space word. Notice: Identify general words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "circled",
+        "is_correct": false
+      },
+      {
+        "text": "travelled",
+        "is_correct": false
+      },
+      {
+        "text": "orbited",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Orbited is the accurate space word for moving in a path around another object.",
+      "hint": "Choose the word scientists use for this path."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-002",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "use_a_space_word_reason",
+    "question": "A student answers “circled”. Which feedback helps? Task: The Moon followed its path around Earth. Which topic word says this most precisely?",
+    "audio_prompt": "A student answers “circled”. Which feedback helps? Task: The Moon followed its path around Earth. Which topic word says this most precisely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-002",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Use a space word. Notice: Identify general words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the word scientists use for this path.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “circled”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “travelled” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the word scientists use for this path. Orbited is the accurate space word for moving in a path around another object.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-003",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "choose_a_cooking_action_apply",
+    "question": "Rosa moved the soup around the pot with a spoon. Which verb fits best?",
+    "audio_prompt": "Rosa moved the soup around the pot with a spoon. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-003",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a cooking action. Notice: Choose precise verbs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "mixed",
+        "is_correct": false
+      },
+      {
+        "text": "stirred",
+        "is_correct": true
+      },
+      {
+        "text": "poured",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Stirred precisely names moving food around with a spoon.",
+      "hint": "Match the verb to the tool and circular movement."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-004",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "choose_a_cooking_action_reason",
+    "question": "A student answers “poured”. Which feedback helps? Task: Rosa moved the soup around the pot with a spoon. Which verb fits best?",
+    "audio_prompt": "A student answers “poured”. Which feedback helps? Task: Rosa moved the soup around the pot with a spoon. Which verb fits best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-004",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Choose a cooking action. Notice: Choose precise verbs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “poured”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “mixed” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the verb to the tool and circular movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the verb to the tool and circular movement. Stirred precisely names moving food around with a spoon.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-005",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "describe_light_rain_apply",
+    "question": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
+    "audio_prompt": "Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-005",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Describe light rain. Notice: Choose precise nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "drizzled",
+        "is_correct": true
+      },
+      {
+        "text": "rained",
+        "is_correct": false
+      },
+      {
+        "text": "poured",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Drizzled tells readers that the rain was light and made of fine drops.",
+      "hint": "Use the clues tiny and gently to choose the exact weather word."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-006",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "describe_light_rain_reason",
+    "question": "A student answers “rained”. Which feedback helps? Task: Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
+    "audio_prompt": "A student answers “rained”. Which feedback helps? Task: Tiny drops of rain fell gently for an hour. Which weather verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-006",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Describe light rain. Notice: Choose precise nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “rained”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the clues tiny and gently to choose the exact weather word.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “poured” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the clues tiny and gently to choose the exact weather word. Drizzled tells readers that the rain was light and made of fine drops.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-007",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "report_a_temperature_check_apply",
+    "question": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
+    "audio_prompt": "The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-007",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Report a temperature check. Notice: Use topic vocabulary. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "observed",
+        "is_correct": false
+      },
+      {
+        "text": "estimated",
+        "is_correct": false
+      },
+      {
+        "text": "measured",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Measured accurately describes using an instrument to find and record a value.",
+      "hint": "Choose the verb that includes finding an exact value with a tool."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-008",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "report_a_temperature_check_reason",
+    "question": "A student answers “estimated”. Which feedback helps? Task: The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
+    "audio_prompt": "A student answers “estimated”. Which feedback helps? Task: The scientist used a thermometer and wrote down 24°C. Which verb best replaces “looked at”?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-008",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Report a temperature check. Notice: Use topic vocabulary. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the verb that includes finding an exact value with a tool.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “estimated”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “observed” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the verb that includes finding an exact value with a tool. Measured accurately describes using an instrument to find and record a value.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-009",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "show_an_unsteady_step_apply",
+    "question": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
+    "audio_prompt": "Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-009",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show an unsteady step. Notice: Explain word choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "walked",
+        "is_correct": false
+      },
+      {
+        "text": "stumbled",
+        "is_correct": true
+      },
+      {
+        "text": "glided",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Stumbled precisely describes losing balance while moving.",
+      "hint": "Choose the movement word that matches catching a foot and nearly falling."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-010",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "show_an_unsteady_step_reason",
+    "question": "A student answers “walked”. Which feedback helps? Task: Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
+    "audio_prompt": "A student answers “walked”. Which feedback helps? Task: Cal caught his foot on a rock and almost fell. Which verb best describes how he moved?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-010",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show an unsteady step. Notice: Explain word choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “walked”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “glided” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the movement word that matches catching a foot and nearly falling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the movement word that matches catching a foot and nearly falling. Stumbled precisely describes losing balance while moving.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-011",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "create_calm_movement_apply",
+    "question": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
+    "audio_prompt": "The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-011",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Create calm movement. Notice: Identify general words. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "glided",
+        "is_correct": true
+      },
+      {
+        "text": "went",
+        "is_correct": false
+      },
+      {
+        "text": "charged",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Glided suggests smooth, quiet movement and suits the calm lake.",
+      "hint": "Match the verb's feeling and speed to the setting."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-012",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "create_calm_movement_reason",
+    "question": "A student answers “charged”. Which feedback helps? Task: The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
+    "audio_prompt": "A student answers “charged”. Which feedback helps? Task: The canoe moved smoothly and quietly across the still lake. Which verb creates the clearest calm picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-012",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Create calm movement. Notice: Identify general words. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “charged”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the verb's feeling and speed to the setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “went” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the verb's feeling and speed to the setting. Glided suggests smooth, quiet movement and suits the calm lake.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-013",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "show_quick_light_movement_apply",
+    "question": "The small possum moved quickly along the branch with light steps. Which verb is most precise?",
+    "audio_prompt": "The small possum moved quickly along the branch with light steps. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-013",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show quick light movement. Notice: Choose precise verbs. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "moved",
+        "is_correct": false
+      },
+      {
+        "text": "stomped",
+        "is_correct": false
+      },
+      {
+        "text": "scampered",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scampered suggests quick, light steps and suits the small possum.",
+      "hint": "Match the animal's size, speed and kind of steps."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-014",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "show_quick_light_movement_reason",
+    "question": "A student answers “moved”. Which feedback helps? Task: The small possum moved quickly along the branch with light steps. Which verb is most precise?",
+    "audio_prompt": "A student answers “moved”. Which feedback helps? Task: The small possum moved quickly along the branch with light steps. Which verb is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-014",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Show quick light movement. Notice: Choose precise verbs. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the animal's size, speed and kind of steps.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “moved”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “stomped” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the animal's size, speed and kind of steps. Scampered suggests quick, light steps and suits the small possum.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-015",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "name_complete_tiredness_apply",
+    "question": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
+    "audio_prompt": "After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-015",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name complete tiredness. Notice: Choose precise nouns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "tired",
+        "is_correct": false
+      },
+      {
+        "text": "exhausted",
+        "is_correct": true
+      },
+      {
+        "text": "sleepy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Exhausted expresses the very strong tiredness shown by barely being able to walk.",
+      "hint": "Use the strength and cause of the feeling to choose more exactly than tired."
+    }
+  },
+  {
+    "id": "AC9E2LA09-T-016",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LA09",
+    "bank": "test",
+    "skill": "name_complete_tiredness_reason",
+    "question": "A student answers “sleepy”. Which feedback helps? Task: After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
+    "audio_prompt": "A student answers “sleepy”. Which feedback helps? Task: After hiking all day, Luis could barely lift his feet. Which adjective is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/english/ac9e2la09.svg#ac9e2la09-t-016",
+      "alt_text": "Three-step Choosing Precise Vocabulary organiser. Read: Name complete tiredness. Notice: Choose precise nouns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “sleepy”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “tired” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the strength and cause of the feeling to choose more exactly than tired.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the strength and cause of the feeling to choose more exactly than tired. Exhausted expresses the very strong tiredness shown by barely being able to walk.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]
