@@ -380,6 +380,7 @@
         { id: "worked-main", title: unit.model_title, displayHtml: unit.model_html, teacherLanguage: `Model: ${unit.model_title}. Ask the learner to explain what each part shows.`, modelIds: ["main-model"] },
         { id: "worked-application", title: unit.apply_title, displayHtml: unit.apply_html, teacherLanguage: `Connect this application back to the same central concept.`, modelIds: ["application-model"] }
       ],
+      vocabulary: unit.vocabulary || [],
       misconceptions: (unit.mistakes || []).map(([title, rapidFix], index) => ({
         id: `misconception-${index + 1}`,
         title,
@@ -418,6 +419,10 @@
     };
     spec.masteryItems = buildMasteryItems(code, unit, subject, elaborations);
     spec.slides = buildSlides(spec, unit);
+    spec.coreSlideIds = ["slide-intro", "slide-model", "slide-application", "slide-mastery"];
+    spec.slides.forEach((slide) => {
+      slide.sequenceRole = spec.coreSlideIds.includes(slide.id) ? "core" : "optional-extension";
+    });
     unit.canonical = spec;
     return spec;
   }
