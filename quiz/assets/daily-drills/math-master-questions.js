@@ -2,13 +2,50 @@
 (() => {
   const LEVELS = ["easy","easy","core","core","core","application","application","challenge"];
   const YN = y => y === "F" ? 0 : Number(y);
+  const EARLY_CONTEXTS=[
+    "Mia uses counters","Noah checks a number card","A class sorts objects","Zoe draws a quick model","Arun uses a number line",
+    "A group shares blocks","Lina checks a pattern","Jai compares two answers","A class records a result","Theo uses a ten-frame",
+    "Isla explains her thinking","A group checks with objects","Maya makes a maths picture","Leo tests a rule","A class solves a short puzzle",
+    "Ruby counts carefully","Finn checks a classmate's answer","A group uses place-value blocks","Ava acts out the number story","Sam looks for what repeats",
+    "A class estimates first","Nina checks each step","Omar uses a simple table","Ella compares two methods","Kai finds the mistake",
+    "A group makes equal groups","Ivy labels a shape","Max measures carefully","A class reads a small graph","Ana checks the final answer"
+  ];
+  const CONTEXTS=[
+    "A student checks a worked example","A class compares two strategies","A group models the problem","A student estimates before calculating","A class analyses a number pattern",
+    "A group checks a claim","A student uses a table","A class interprets a diagram","A group explains its reasoning","A student finds an error",
+    "A class applies the rule","A group compares representations","A student tests an example","A class chooses an efficient method","A group verifies the result",
+    "A student completes a challenge","A class discusses a misconception","A group uses inverse operations","A student checks whether the answer is reasonable","A class connects the symbols to the context",
+    "A group records its calculations","A student identifies the important information","A class checks each step","A group solves a practical problem","A student compares exact values",
+    "A class generalises a pattern","A group justifies its choice","A student uses a known fact","A class evaluates two solutions","A group completes a final accuracy check"
+  ];
+  function repairSingleChoices(item,set,pos){
+    if(item.type!=="single"||!Array.isArray(item.answers)||item.answers.length!==3||!Number.isInteger(item.correct)) return;
+    const correct=String(item.answers[item.correct]);
+    const unique=[correct];
+    item.answers.forEach((answer,index)=>{if(index!==item.correct&&!unique.includes(String(answer))) unique.push(String(answer));});
+    const numeric=Number(correct);
+    const fraction=correct.match(/^(-?\d+)\/(\d+)$/);
+    const candidates=Number.isFinite(numeric)
+      ?[numeric+1,numeric-1,numeric+10,numeric-10,numeric*2].map(String)
+      :fraction
+        ?[`${Number(fraction[1])+1}/${fraction[2]}`,`${fraction[1]}/${Number(fraction[2])+1}`,`${fraction[2]}/${fraction[1]}`]
+        :/√/.test(correct)
+          ?["√2","√4","4√2","8"]
+          :["the pattern stops","the previous item","a different value"];
+    for(const candidate of candidates){if(unique.length===3) break;if(!unique.includes(candidate)) unique.push(candidate);}
+    while(unique.length<3) unique.push(`another result ${set+pos+unique.length}`);
+    item.answers=unique.slice(0,3);
+    item.correct=0;
+  }
   const q = (year, skill, set, pos, type, question, extra={}) => {
+    const context=(year==="F"||Number(year)<=2?EARLY_CONTEXTS:CONTEXTS)[set%30];
     const item={
       id:`m-${year}-${skill}-s${set+1}-q${pos+1}`,
       year, subject:"math", skill, set,
-      difficulty:LEVELS[pos], type, question, ...extra
+      difficulty:LEVELS[pos], type, question:`${context}. ${question}`, ...extra
     };
-    item.audioPrompt=item.audioPrompt||question;
+    repairSingleChoices(item,set,pos);
+    item.audioPrompt=item.audioPrompt||item.question;
     item.hint=item.hint||({
       single:"Work out the idea first, then compare every choice.",
       "true-false":"Check the whole statement before deciding.",
