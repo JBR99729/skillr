@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S2I03-P-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which sentence records what a child can see?",
+    "audio_prompt": "Which sentence records what a child can see?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-001",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which sentence records what a child can see?"
+    },
+    "answers": [
+      {
+        "text": "The leaf has five holes",
+        "is_correct": true
+      },
+      {
+        "text": "The leaf is worried",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf will grow because I hope so",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Colour, shape and number are directly observable.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "A shadow is 7 blocks long. What was used?",
+    "audio_prompt": "A shadow is 7 blocks long. What was used?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-002",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A shadow is 7 blocks long. What was used?"
+    },
+    "answers": [
+      {
+        "text": "a temperature scale",
+        "is_correct": false
+      },
+      {
+        "text": "an informal measurement",
+        "is_correct": true
+      },
+      {
+        "text": "a prediction only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal blocks can compare length without standard units.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which record gives useful evidence about seedlings?",
+    "audio_prompt": "Which record gives useful evidence about seedlings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-003",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which record gives useful evidence about seedlings?"
+    },
+    "answers": [
+      {
+        "text": "the seedlings look nice",
+        "is_correct": false
+      },
+      {
+        "text": "plants are always happy",
+        "is_correct": false
+      },
+      {
+        "text": "4 of 6 seedlings have two leaves",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Counts make an observation precise.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "What makes a science drawing useful?",
+    "audio_prompt": "What makes a science drawing useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-004",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What makes a science drawing useful?"
+    },
+    "answers": [
+      {
+        "text": "labels point to observed features",
+        "is_correct": true
+      },
+      {
+        "text": "decorations cover the object",
+        "is_correct": false
+      },
+      {
+        "text": "features are invented",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Labels connect words to visible evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Why add a date to a sky observation?",
+    "audio_prompt": "Why add a date to a sky observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-005",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why add a date to a sky observation?"
+    },
+    "answers": [
+      {
+        "text": "to make the Moon move",
+        "is_correct": false
+      },
+      {
+        "text": "to show when the observation was made",
+        "is_correct": true
+      },
+      {
+        "text": "to guarantee a pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dates allow observations over time to be ordered.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Why observe a shadow from the same marked place?",
+    "audio_prompt": "Why observe a shadow from the same marked place?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-006",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why observe a shadow from the same marked place?"
+    },
+    "answers": [
+      {
+        "text": "the shadow becomes fixed",
+        "is_correct": false
+      },
+      {
+        "text": "all results become equal",
+        "is_correct": false
+      },
+      {
+        "text": "comparisons are clearer",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A consistent viewpoint reduces confusing differences.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which tool records temperature?",
+    "audio_prompt": "Which tool records temperature?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-007",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which tool records temperature?"
+    },
+    "answers": [
+      {
+        "text": "a thermometer",
+        "is_correct": true
+      },
+      {
+        "text": "a balance",
+        "is_correct": false
+      },
+      {
+        "text": "a paintbrush",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A thermometer measures temperature.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "When is a photograph useful in science?",
+    "audio_prompt": "When is a photograph useful in science?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-008",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: When is a photograph useful in science?"
+    },
+    "answers": [
+      {
+        "text": "when it replaces every measurement",
+        "is_correct": false
+      },
+      {
+        "text": "when it captures an observable change",
+        "is_correct": true
+      },
+      {
+        "text": "when it is edited to fit a prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A photo preserves visible evidence for comparison.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which digital tool could record a sound for comparison?",
+    "audio_prompt": "Which digital tool could record a sound for comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-009",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which digital tool could record a sound for comparison?"
+    },
+    "answers": [
+      {
+        "text": "a ruler",
+        "is_correct": false
+      },
+      {
+        "text": "a cup",
+        "is_correct": false
+      },
+      {
+        "text": "a microphone or tablet recorder",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A recording lets sounds be replayed and compared.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "A plant is 6 cubes tall. Where should this go?",
+    "audio_prompt": "A plant is 6 cubes tall. Where should this go?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-010",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A plant is 6 cubes tall. Where should this go?"
+    },
+    "answers": [
+      {
+        "text": "in the row for that plant and height column",
+        "is_correct": true
+      },
+      {
+        "text": "in a favourite-colour box",
+        "is_correct": false
+      },
+      {
+        "text": "outside the data table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The value belongs beside the item measured.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which note is an observation?",
+    "audio_prompt": "Which note is an observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-011",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which note is an observation?"
+    },
+    "answers": [
+      {
+        "text": "The band wanted to sing",
+        "is_correct": false
+      },
+      {
+        "text": "The band moved back and forth",
+        "is_correct": true
+      },
+      {
+        "text": "The band is the best",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Back-and-forth movement can be seen.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "A puddle is measured at 9 am and 11 am. What should be recorded?",
+    "audio_prompt": "A puddle is measured at 9 am and 11 am. What should be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-012",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A puddle is measured at 9 am and 11 am. What should be recorded?"
+    },
+    "answers": [
+      {
+        "text": "only the expected answer",
+        "is_correct": false
+      },
+      {
+        "text": "the observer's mood",
+        "is_correct": false
+      },
+      {
+        "text": "its size at each time",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two timed measurements show change.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which tool best records a slow plant change?",
+    "audio_prompt": "Which tool best records a slow plant change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-013",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which tool best records a slow plant change?"
+    },
+    "answers": [
+      {
+        "text": "dated photographs",
+        "is_correct": true
+      },
+      {
+        "text": "an alarm sound",
+        "is_correct": false
+      },
+      {
+        "text": "a calculator with no data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dated photos preserve visible stages.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Why write ‘8 blocks’ rather than only ‘8’?",
+    "audio_prompt": "Why write ‘8 blocks’ rather than only ‘8’?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-014",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why write ‘8 blocks’ rather than only ‘8’?"
+    },
+    "answers": [
+      {
+        "text": "units make every answer correct",
+        "is_correct": false
+      },
+      {
+        "text": "the unit tells what the number means",
+        "is_correct": true
+      },
+      {
+        "text": "8 is a colour",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A measurement needs its unit.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which is a careful colour record?",
+    "audio_prompt": "Which is a careful colour record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-015",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which is a careful colour record?"
+    },
+    "answers": [
+      {
+        "text": "both are interesting",
+        "is_correct": false
+      },
+      {
+        "text": "one is better",
+        "is_correct": false
+      },
+      {
+        "text": "Sample A is pale brown; Sample B is dark brown",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The record describes visible colour without opinion.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which note describes shape?",
+    "audio_prompt": "Which note describes shape?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-016",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which note describes shape?"
+    },
+    "answers": [
+      {
+        "text": "the Moon looks curved like a crescent",
+        "is_correct": true
+      },
+      {
+        "text": "the Moon feels happy",
+        "is_correct": false
+      },
+      {
+        "text": "night is better",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Crescent describes an observed outline.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-017",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "How can approved fabric texture be recorded?",
+    "audio_prompt": "How can approved fabric texture be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-017",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How can approved fabric texture be recorded?"
+    },
+    "answers": [
+      {
+        "text": "good or bad",
+        "is_correct": false
+      },
+      {
+        "text": "smooth, rough or bumpy",
+        "is_correct": true
+      },
+      {
+        "text": "friendly or unfriendly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Texture words describe a surface observation.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-018",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "What record best shows folded paper changing?",
+    "audio_prompt": "What record best shows folded paper changing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-018",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What record best shows folded paper changing?"
+    },
+    "answers": [
+      {
+        "text": "one picture after only",
+        "is_correct": false
+      },
+      {
+        "text": "a favourite paper list",
+        "is_correct": false
+      },
+      {
+        "text": "labelled before-and-after images",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two stages reveal what changed.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-019",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "What can zooming a photo help a child observe?",
+    "audio_prompt": "What can zooming a photo help a child observe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-019",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What can zooming a photo help a child observe?"
+    },
+    "answers": [
+      {
+        "text": "small visible surface details",
+        "is_correct": true
+      },
+      {
+        "text": "the object's thoughts",
+        "is_correct": false
+      },
+      {
+        "text": "future results",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Zoom can enlarge recorded visible details.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-020",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Why might a child record a spoken observation?",
+    "audio_prompt": "Why might a child record a spoken observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-020",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why might a child record a spoken observation?"
+    },
+    "answers": [
+      {
+        "text": "to avoid observing",
+        "is_correct": false
+      },
+      {
+        "text": "to save details when writing is difficult",
+        "is_correct": true
+      },
+      {
+        "text": "to make the result true",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Digital audio can preserve a clear description.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-021",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "What should happen if a result differs from the prediction?",
+    "audio_prompt": "What should happen if a result differs from the prediction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-021",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What should happen if a result differs from the prediction?"
+    },
+    "answers": [
+      {
+        "text": "change it to match",
+        "is_correct": false
+      },
+      {
+        "text": "hide the result",
+        "is_correct": false
+      },
+      {
+        "text": "record the result as observed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Science records evidence honestly.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-022",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Why use the same-sized cubes each time?",
+    "audio_prompt": "Why use the same-sized cubes each time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-022",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why use the same-sized cubes each time?"
+    },
+    "answers": [
+      {
+        "text": "lengths can be compared fairly",
+        "is_correct": true
+      },
+      {
+        "text": "different cubes always total the same",
+        "is_correct": false
+      },
+      {
+        "text": "cube size is unimportant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equal informal units make measurements comparable.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-023",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which note is most useful?",
+    "audio_prompt": "Which note is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-023",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which note is most useful?"
+    },
+    "answers": [
+      {
+        "text": "the ice changed somehow",
+        "is_correct": false
+      },
+      {
+        "text": "The ice piece became half as wide after 10 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "ice is nice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Specific time and size detail improve the record.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-P-024",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "practice",
+    "skill": "record_observations",
+    "question": "Which sentence is an inference rather than direct observation?",
+    "audio_prompt": "Which sentence is an inference rather than direct observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-024",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which sentence is an inference rather than direct observation?"
+    },
+    "answers": [
+      {
+        "text": "There are three tracks",
+        "is_correct": false
+      },
+      {
+        "text": "The tracks are 4 cm apart",
+        "is_correct": false
+      },
+      {
+        "text": "The animal may have walked here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An inference explains evidence; it is not directly seen.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "Why title a diagram?",
+    "audio_prompt": "Why title a diagram?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-001",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?"
+    },
+    "answers": [
+      {
+        "text": "to state what the record shows",
+        "is_correct": true
+      },
+      {
+        "text": "to decorate the page only",
+        "is_correct": false
+      },
+      {
+        "text": "to replace labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A title identifies the observation or model.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “to decorate the page only”. Read the evidence in this question and choose the better answer: Why title a diagram?",
+    "audio_prompt": "A student answers “to decorate the page only”. Read the evidence in this question and choose the better answer: Why title a diagram?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-002",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?"
+    },
+    "answers": [
+      {
+        "text": "to decorate the page only",
+        "is_correct": false
+      },
+      {
+        "text": "to state what the record shows",
+        "is_correct": true
+      },
+      {
+        "text": "to replace labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A title identifies the observation or model.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "What do headings do in a table?",
+    "audio_prompt": "What do headings do in a table?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-003",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?"
+    },
+    "answers": [
+      {
+        "text": "make every value identical",
+        "is_correct": false
+      },
+      {
+        "text": "remove the need for data",
+        "is_correct": false
+      },
+      {
+        "text": "name what each column records",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings give values meaning.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “make every value identical”. Read the evidence in this question and choose the better answer: What do headings do in a table?",
+    "audio_prompt": "A student answers “make every value identical”. Read the evidence in this question and choose the better answer: What do headings do in a table?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-004",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?"
+    },
+    "answers": [
+      {
+        "text": "name what each column records",
+        "is_correct": true
+      },
+      {
+        "text": "make every value identical",
+        "is_correct": false
+      },
+      {
+        "text": "remove the need for data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Headings give values meaning.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "How should a tablet be used near water samples?",
+    "audio_prompt": "How should a tablet be used near water samples?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-005",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?"
+    },
+    "answers": [
+      {
+        "text": "placed beside spills",
+        "is_correct": false
+      },
+      {
+        "text": "kept dry and handled using class rules",
+        "is_correct": true
+      },
+      {
+        "text": "used with wet hands",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Safe device handling protects people and equipment.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “placed beside spills”. Read the evidence in this question and choose the better answer: How should a tablet be used near water samples?",
+    "audio_prompt": "A student answers “placed beside spills”. Read the evidence in this question and choose the better answer: How should a tablet be used near water samples?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-006",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?"
+    },
+    "answers": [
+      {
+        "text": "placed beside spills",
+        "is_correct": false
+      },
+      {
+        "text": "used with wet hands",
+        "is_correct": false
+      },
+      {
+        "text": "kept dry and handled using class rules",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Safe device handling protects people and equipment.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A drawing is larger than the real seed. What should be clear?",
+    "audio_prompt": "A drawing is larger than the real seed. What should be clear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-007",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?"
+    },
+    "answers": [
+      {
+        "text": "it is an enlarged scientific drawing",
+        "is_correct": true
+      },
+      {
+        "text": "the seed grew instantly",
+        "is_correct": false
+      },
+      {
+        "text": "the drawing is the real seed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scientific drawings may enlarge detail but should not mislead.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “the seed grew instantly”. Read the evidence in this question and choose the better answer: A drawing is larger than the real seed. What should be clear?",
+    "audio_prompt": "A student answers “the seed grew instantly”. Read the evidence in this question and choose the better answer: A drawing is larger than the real seed. What should be clear?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-008",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?"
+    },
+    "answers": [
+      {
+        "text": "the seed grew instantly",
+        "is_correct": false
+      },
+      {
+        "text": "it is an enlarged scientific drawing",
+        "is_correct": true
+      },
+      {
+        "text": "the drawing is the real seed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific drawings may enlarge detail but should not mislead.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "Which senses are normally safe for observing approved objects?",
+    "audio_prompt": "Which senses are normally safe for observing approved objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-009",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?"
+    },
+    "answers": [
+      {
+        "text": "taste every sample",
+        "is_correct": false
+      },
+      {
+        "text": "smell unknown substances closely",
+        "is_correct": false
+      },
+      {
+        "text": "sight, hearing and approved gentle touch",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Senses are used only within safe procedures.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “taste every sample”. Read the evidence in this question and choose the better answer: Which senses are normally safe for observing approved objects?",
+    "audio_prompt": "A student answers “taste every sample”. Read the evidence in this question and choose the better answer: Which senses are normally safe for observing approved objects?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-010",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?"
+    },
+    "answers": [
+      {
+        "text": "sight, hearing and approved gentle touch",
+        "is_correct": true
+      },
+      {
+        "text": "taste every sample",
+        "is_correct": false
+      },
+      {
+        "text": "smell unknown substances closely",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Senses are used only within safe procedures.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "Two children record different lengths. What should they check?",
+    "audio_prompt": "Two children record different lengths. What should they check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-011",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
+    },
+    "answers": [
+      {
+        "text": "which child is older",
+        "is_correct": false
+      },
+      {
+        "text": "whether they used the same unit and start point",
+        "is_correct": true
+      },
+      {
+        "text": "whose answer is prettier",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Method differences can explain measurement differences.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
+    "audio_prompt": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-012",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
+    },
+    "answers": [
+      {
+        "text": "which child is older",
+        "is_correct": false
+      },
+      {
+        "text": "whose answer is prettier",
+        "is_correct": false
+      },
+      {
+        "text": "whether they used the same unit and start point",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Method differences can explain measurement differences.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "Why record soon after observing?",
+    "audio_prompt": "Why record soon after observing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-013",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?"
+    },
+    "answers": [
+      {
+        "text": "details are less likely to be forgotten",
+        "is_correct": true
+      },
+      {
+        "text": "the result can be invented later",
+        "is_correct": false
+      },
+      {
+        "text": "time makes all data equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Prompt recording improves accuracy.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “the result can be invented later”. Read the evidence in this question and choose the better answer: Why record soon after observing?",
+    "audio_prompt": "A student answers “the result can be invented later”. Read the evidence in this question and choose the better answer: Why record soon after observing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-014",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?"
+    },
+    "answers": [
+      {
+        "text": "the result can be invented later",
+        "is_correct": false
+      },
+      {
+        "text": "details are less likely to be forgotten",
+        "is_correct": true
+      },
+      {
+        "text": "time makes all data equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prompt recording improves accuracy.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
+    "audio_prompt": "Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-015",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?"
+    },
+    "answers": [
+      {
+        "text": "it gives only her favourite idea",
+        "is_correct": false
+      },
+      {
+        "text": "it changes the leaf",
+        "is_correct": false
+      },
+      {
+        "text": "it states features she observed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The sentence records visible features and an informal measurement.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I03-T-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I03",
+    "bank": "test",
+    "skill": "record_observations",
+    "question": "A student answers “it gives only her favourite idea”. Read the evidence in this question and choose the better answer: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
+    "audio_prompt": "A student answers “it gives only her favourite idea”. Read the evidence in this question and choose the better answer: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-016",
+      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?"
+    },
+    "answers": [
+      {
+        "text": "it states features she observed",
+        "is_correct": true
+      },
+      {
+        "text": "it gives only her favourite idea",
+        "is_correct": false
+      },
+      {
+        "text": "it changes the leaf",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence records visible features and an informal measurement.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  }
+]

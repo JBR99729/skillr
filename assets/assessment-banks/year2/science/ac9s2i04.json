@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S2I04-P-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which rule sorts materials scientifically?",
+    "audio_prompt": "Which rule sorts materials scientifically?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-001",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which rule sorts materials scientifically?"
+    },
+    "answers": [
+      {
+        "text": "nice and not nice",
+        "is_correct": false
+      },
+      {
+        "text": "flexible and not flexible",
+        "is_correct": true
+      },
+      {
+        "text": "mine and yours",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Flexibility is an observable material property.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?",
+    "audio_prompt": "Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-002",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Three shadows measure 4, 7 and 10 blocks. What is shortest-to-longest order?"
+    },
+    "answers": [
+      {
+        "text": "10, 7, 4",
+        "is_correct": false
+      },
+      {
+        "text": "7, 4, 10",
+        "is_correct": false
+      },
+      {
+        "text": "4, 7, 10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numerical data can be ordered by size.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "A table shows paper absorbed 3 drops and cloth 8 drops. Which absorbed more?",
+    "audio_prompt": "A table shows paper absorbed 3 drops and cloth 8 drops. Which absorbed more?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-003",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A table shows paper absorbed 3 drops and cloth 8 drops. Which absorbed more?"
+    },
+    "answers": [
+      {
+        "text": "cloth",
+        "is_correct": true
+      },
+      {
+        "text": "paper",
+        "is_correct": false
+      },
+      {
+        "text": "both equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Eight is greater than three.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which item comes next in the pattern rough, smooth, rough, smooth?",
+    "audio_prompt": "Which item comes next in the pattern rough, smooth, rough, smooth?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-004",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which item comes next in the pattern rough, smooth, rough, smooth?"
+    },
+    "answers": [
+      {
+        "text": "smooth",
+        "is_correct": false
+      },
+      {
+        "text": "rough",
+        "is_correct": true
+      },
+      {
+        "text": "wet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The two properties repeat in an AB pattern.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which pair belongs in a night-sky observation group?",
+    "audio_prompt": "Which pair belongs in a night-sky observation group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-005",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which pair belongs in a night-sky observation group?"
+    },
+    "answers": [
+      {
+        "text": "chair and spoon",
+        "is_correct": false
+      },
+      {
+        "text": "drum and ruler",
+        "is_correct": false
+      },
+      {
+        "text": "Moon and stars",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Moon and stars can be observed in the night sky.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "What can three labelled balls model?",
+    "audio_prompt": "What can three labelled balls model?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-006",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: What can three labelled balls model?"
+    },
+    "answers": [
+      {
+        "text": "Sun, Earth and Moon relationships",
+        "is_correct": true
+      },
+      {
+        "text": "exact real distances automatically",
+        "is_correct": false
+      },
+      {
+        "text": "weather temperature",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A physical model represents objects and relationships.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Why use arrows in a diagram?",
+    "audio_prompt": "Why use arrows in a diagram?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-007",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use arrows in a diagram?"
+    },
+    "answers": [
+      {
+        "text": "to make it colourful only",
+        "is_correct": false
+      },
+      {
+        "text": "to show direction or sequence",
+        "is_correct": true
+      },
+      {
+        "text": "to hide labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Arrows communicate movement or order.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "What should be done before tallying leaf shapes?",
+    "audio_prompt": "What should be done before tallying leaf shapes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-008",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: What should be done before tallying leaf shapes?"
+    },
+    "answers": [
+      {
+        "text": "change each leaf",
+        "is_correct": false
+      },
+      {
+        "text": "guess totals",
+        "is_correct": false
+      },
+      {
+        "text": "choose clear shape categories",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear categories allow consistent sorting.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "The class adds one tally each time a bird visits. What does each tally show?",
+    "audio_prompt": "The class adds one tally each time a bird visits. What does each tally show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-009",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: The class adds one tally each time a bird visits. What does each tally show?"
+    },
+    "answers": [
+      {
+        "text": "one bird visit",
+        "is_correct": true
+      },
+      {
+        "text": "five bird visits",
+        "is_correct": false
+      },
+      {
+        "text": "a prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each tally records one observed bird visit.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which sequence is correct?",
+    "audio_prompt": "Which sequence is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-010",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which sequence is correct?"
+    },
+    "answers": [
+      {
+        "text": "evening, morning, midday",
+        "is_correct": false
+      },
+      {
+        "text": "morning, midday, evening",
+        "is_correct": true
+      },
+      {
+        "text": "midday, morning, evening",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Time information can be placed in chronological order.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "A material bends easily. Where should it be sorted?",
+    "audio_prompt": "A material bends easily. Where should it be sorted?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-011",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A material bends easily. Where should it be sorted?"
+    },
+    "answers": [
+      {
+        "text": "rigid",
+        "is_correct": false
+      },
+      {
+        "text": "transparent only",
+        "is_correct": false
+      },
+      {
+        "text": "flexible",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The observed response fits flexible.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Counts are 2, 4, 6, 8. What pattern is shown?",
+    "audio_prompt": "Counts are 2, 4, 6, 8. What pattern is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-012",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Counts are 2, 4, 6, 8. What pattern is shown?"
+    },
+    "answers": [
+      {
+        "text": "increase by 2",
+        "is_correct": true
+      },
+      {
+        "text": "decrease by 2",
+        "is_correct": false
+      },
+      {
+        "text": "stay the same",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each value is two more than the previous one.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which statement about models is correct?",
+    "audio_prompt": "Which statement about models is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-013",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which statement about models is correct?"
+    },
+    "answers": [
+      {
+        "text": "models are always exact size",
+        "is_correct": false
+      },
+      {
+        "text": "models show selected ideas, not every real detail",
+        "is_correct": true
+      },
+      {
+        "text": "a model is the real object",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Models simplify reality for a purpose.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Why order plant heights from least to greatest?",
+    "audio_prompt": "Why order plant heights from least to greatest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-014",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why order plant heights from least to greatest?"
+    },
+    "answers": [
+      {
+        "text": "to change the heights",
+        "is_correct": false
+      },
+      {
+        "text": "to hide the tallest",
+        "is_correct": false
+      },
+      {
+        "text": "to make comparison and pattern finding easier",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ordered data reveals relative size.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "An object is both round and blue. Where does it belong in overlapping groups?",
+    "audio_prompt": "An object is both round and blue. Where does it belong in overlapping groups?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-015",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: An object is both round and blue. Where does it belong in overlapping groups?"
+    },
+    "answers": [
+      {
+        "text": "in the overlap",
+        "is_correct": true
+      },
+      {
+        "text": "outside both groups",
+        "is_correct": false
+      },
+      {
+        "text": "in round only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The overlap contains items with both properties.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "In a group labelled ‘vibrates to make sound’, which is the odd item?",
+    "audio_prompt": "In a group labelled ‘vibrates to make sound’, which is the odd item?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-016",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: In a group labelled ‘vibrates to make sound’, which is the odd item?"
+    },
+    "answers": [
+      {
+        "text": "a plucked string",
+        "is_correct": false
+      },
+      {
+        "text": "a silent still cushion",
+        "is_correct": true
+      },
+      {
+        "text": "a struck drum",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cushion is not shown vibrating to produce sound.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-017",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Why use rows for material and columns for bend/stretch?",
+    "audio_prompt": "Why use rows for material and columns for bend/stretch?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-017",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use rows for material and columns for bend/stretch?"
+    },
+    "answers": [
+      {
+        "text": "to remove observations",
+        "is_correct": false
+      },
+      {
+        "text": "to make every box equal",
+        "is_correct": false
+      },
+      {
+        "text": "to organise two features for comparison",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A table connects each sample with recorded properties.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-018",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Each star symbol represents one night observed. What do 5 symbols mean?",
+    "audio_prompt": "Each star symbol represents one night observed. What do 5 symbols mean?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-018",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Each star symbol represents one night observed. What do 5 symbols mean?"
+    },
+    "answers": [
+      {
+        "text": "five nights",
+        "is_correct": true
+      },
+      {
+        "text": "one night",
+        "is_correct": false
+      },
+      {
+        "text": "ten nights",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The key says one symbol equals one observation.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-019",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "After sorting buttons by material, what useful next step can be done?",
+    "audio_prompt": "After sorting buttons by material, what useful next step can be done?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-019",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: After sorting buttons by material, what useful next step can be done?"
+    },
+    "answers": [
+      {
+        "text": "change their material",
+        "is_correct": false
+      },
+      {
+        "text": "count each group",
+        "is_correct": true
+      },
+      {
+        "text": "discard the smallest group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Counts compare category sizes.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-020",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?",
+    "audio_prompt": "Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-020",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Heights are 2, 4, 6, 9 blocks. Which value breaks the add-2 pattern?"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The expected next value after 6 is 8.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-021",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Why label Earth and Moon in a model?",
+    "audio_prompt": "Why label Earth and Moon in a model?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-021",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why label Earth and Moon in a model?"
+    },
+    "answers": [
+      {
+        "text": "to identify which object each part represents",
+        "is_correct": true
+      },
+      {
+        "text": "to make them real",
+        "is_correct": false
+      },
+      {
+        "text": "to set exact distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Labels prevent ambiguity.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-022",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Which observation supports sorting a seedling as living?",
+    "audio_prompt": "Which observation supports sorting a seedling as living?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-022",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which observation supports sorting a seedling as living?"
+    },
+    "answers": [
+      {
+        "text": "it is green only",
+        "is_correct": false
+      },
+      {
+        "text": "it grows over time",
+        "is_correct": true
+      },
+      {
+        "text": "it is small",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Growth over time is evidence of life.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-023",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Sounds are recorded as soft, medium and loud. What kind of organisation is this?",
+    "audio_prompt": "Sounds are recorded as soft, medium and loud. What kind of organisation is this?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-023",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Sounds are recorded as soft, medium and loud. What kind of organisation is this?"
+    },
+    "answers": [
+      {
+        "text": "sorting by colour",
+        "is_correct": false
+      },
+      {
+        "text": "measuring length",
+        "is_correct": false
+      },
+      {
+        "text": "ordering by volume",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The categories form a volume order.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-P-024",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "practice",
+    "skill": "sort_and_represent_data",
+    "question": "Can one object belong to more than one scientific group?",
+    "audio_prompt": "Can one object belong to more than one scientific group?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-p-024",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Can one object belong to more than one scientific group?"
+    },
+    "answers": [
+      {
+        "text": "yes, if it has each group property",
+        "is_correct": true
+      },
+      {
+        "text": "never",
+        "is_correct": false
+      },
+      {
+        "text": "only if its name changes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objects often have several observable properties.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A data table has no result for Cup B. What should be shown?",
+    "audio_prompt": "A data table has no result for Cup B. What should be shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-001",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?"
+    },
+    "answers": [
+      {
+        "text": "an invented number",
+        "is_correct": false
+      },
+      {
+        "text": "blank or clearly marked not measured",
+        "is_correct": true
+      },
+      {
+        "text": "Cup A's value copied",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Missing data must not be fabricated.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “an invented number”. Read the evidence in this question and choose the better answer: A data table has no result for Cup B. What should be shown?",
+    "audio_prompt": "A student answers “an invented number”. Read the evidence in this question and choose the better answer: A data table has no result for Cup B. What should be shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-002",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?"
+    },
+    "answers": [
+      {
+        "text": "an invented number",
+        "is_correct": false
+      },
+      {
+        "text": "Cup A's value copied",
+        "is_correct": false
+      },
+      {
+        "text": "blank or clearly marked not measured",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Missing data must not be fabricated.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "Which model best shows melting over time?",
+    "audio_prompt": "Which model best shows melting over time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-003",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?"
+    },
+    "answers": [
+      {
+        "text": "ordered before, during and after pictures",
+        "is_correct": true
+      },
+      {
+        "text": "one unrelated picture",
+        "is_correct": false
+      },
+      {
+        "text": "a list of colours",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A sequence represents change.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “one unrelated picture”. Read the evidence in this question and choose the better answer: Which model best shows melting over time?",
+    "audio_prompt": "A student answers “one unrelated picture”. Read the evidence in this question and choose the better answer: Which model best shows melting over time?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-004",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?"
+    },
+    "answers": [
+      {
+        "text": "one unrelated picture",
+        "is_correct": false
+      },
+      {
+        "text": "ordered before, during and after pictures",
+        "is_correct": true
+      },
+      {
+        "text": "a list of colours",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A sequence represents change.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "Why use the same sorting rule for every item?",
+    "audio_prompt": "Why use the same sorting rule for every item?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-005",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?"
+    },
+    "answers": [
+      {
+        "text": "to force equal group sizes",
+        "is_correct": false
+      },
+      {
+        "text": "because rules cannot be stated",
+        "is_correct": false
+      },
+      {
+        "text": "groups remain meaningful and comparable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent criteria make classification valid.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “to force equal group sizes”. Read the evidence in this question and choose the better answer: Why use the same sorting rule for every item?",
+    "audio_prompt": "A student answers “to force equal group sizes”. Read the evidence in this question and choose the better answer: Why use the same sorting rule for every item?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-006",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?"
+    },
+    "answers": [
+      {
+        "text": "groups remain meaningful and comparable",
+        "is_correct": true
+      },
+      {
+        "text": "to force equal group sizes",
+        "is_correct": false
+      },
+      {
+        "text": "because rules cannot be stated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent criteria make classification valid.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
+    "audio_prompt": "Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-007",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?"
+    },
+    "answers": [
+      {
+        "text": "8, 5, 3",
+        "is_correct": false
+      },
+      {
+        "text": "3, 5, 8",
+        "is_correct": true
+      },
+      {
+        "text": "5, 3, 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ordering from least to greatest gives 3, 5, 8.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “8, 5, 3”. Read the evidence in this question and choose the better answer: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
+    "audio_prompt": "A student answers “8, 5, 3”. Read the evidence in this question and choose the better answer: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-008",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?"
+    },
+    "answers": [
+      {
+        "text": "8, 5, 3",
+        "is_correct": false
+      },
+      {
+        "text": "5, 3, 8",
+        "is_correct": false
+      },
+      {
+        "text": "3, 5, 8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ordering from least to greatest gives 3, 5, 8.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
+    "audio_prompt": "Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-009",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?"
+    },
+    "answers": [
+      {
+        "text": "10, 7, 4",
+        "is_correct": true
+      },
+      {
+        "text": "4, 7, 10",
+        "is_correct": false
+      },
+      {
+        "text": "7, 4, 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ordering from greatest to least gives 10, 7, 4.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “4, 7, 10”. Read the evidence in this question and choose the better answer: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
+    "audio_prompt": "A student answers “4, 7, 10”. Read the evidence in this question and choose the better answer: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-010",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?"
+    },
+    "answers": [
+      {
+        "text": "4, 7, 10",
+        "is_correct": false
+      },
+      {
+        "text": "10, 7, 4",
+        "is_correct": true
+      },
+      {
+        "text": "7, 4, 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ordering from greatest to least gives 10, 7, 4.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "Which representation best compares simple counts across three materials?",
+    "audio_prompt": "Which representation best compares simple counts across three materials?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-011",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?"
+    },
+    "answers": [
+      {
+        "text": "a story with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "one photograph",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled table or picture graph",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tables and graphs make category counts visible.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “a story with no numbers”. Read the evidence in this question and choose the better answer: Which representation best compares simple counts across three materials?",
+    "audio_prompt": "A student answers “a story with no numbers”. Read the evidence in this question and choose the better answer: Which representation best compares simple counts across three materials?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-012",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?"
+    },
+    "answers": [
+      {
+        "text": "a labelled table or picture graph",
+        "is_correct": true
+      },
+      {
+        "text": "a story with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "one photograph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tables and graphs make category counts visible.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "When is it reasonable to describe a data pattern?",
+    "audio_prompt": "When is it reasonable to describe a data pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-013",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?"
+    },
+    "answers": [
+      {
+        "text": "after one unrelated value",
+        "is_correct": false
+      },
+      {
+        "text": "when recorded values show a repeated or regular change",
+        "is_correct": true
+      },
+      {
+        "text": "before collecting data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Patterns require supporting data.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “after one unrelated value”. Read the evidence in this question and choose the better answer: When is it reasonable to describe a data pattern?",
+    "audio_prompt": "A student answers “after one unrelated value”. Read the evidence in this question and choose the better answer: When is it reasonable to describe a data pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-014",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?"
+    },
+    "answers": [
+      {
+        "text": "after one unrelated value",
+        "is_correct": false
+      },
+      {
+        "text": "before collecting data",
+        "is_correct": false
+      },
+      {
+        "text": "when recorded values show a repeated or regular change",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Patterns require supporting data.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A class records leaf colours and lengths in a table. What can they use these records for?",
+    "audio_prompt": "A class records leaf colours and lengths in a table. What can they use these records for?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-015",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?"
+    },
+    "answers": [
+      {
+        "text": "sorting and finding patterns",
+        "is_correct": true
+      },
+      {
+        "text": "changing every leaf",
+        "is_correct": false
+      },
+      {
+        "text": "choosing a result before observing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recorded observations are data that can be sorted and checked for patterns.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2I04-T-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2I04",
+    "bank": "test",
+    "skill": "sort_and_represent_data",
+    "question": "A student answers “changing every leaf”. Read the evidence in this question and choose the better answer: A class records leaf colours and lengths in a table. What can they use these records for?",
+    "audio_prompt": "A student answers “changing every leaf”. Read the evidence in this question and choose the better answer: A class records leaf colours and lengths in a table. What can they use these records for?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-016",
+      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?"
+    },
+    "answers": [
+      {
+        "text": "changing every leaf",
+        "is_correct": false
+      },
+      {
+        "text": "sorting and finding patterns",
+        "is_correct": true
+      },
+      {
+        "text": "choosing a result before observing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recorded observations are data that can be sorted and checked for patterns.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  }
+]

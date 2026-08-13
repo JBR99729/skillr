@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9S2U02-P-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "An elastic band moves quickly back and forth while making a sound. What is this movement?",
+    "audio_prompt": "An elastic band moves quickly back and forth while making a sound. What is this movement?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-001",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: An elastic band moves quickly back and forth while making a sound. What is this movement?"
+    },
+    "answers": [
+      {
+        "text": "an orbit",
+        "is_correct": false
+      },
+      {
+        "text": "a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "a vibration",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A vibration is repeated back-and-forth movement.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "What usually happens first when a drum makes a sound?",
+    "audio_prompt": "What usually happens first when a drum makes a sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-002",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: What usually happens first when a drum makes a sound?"
+    },
+    "answers": [
+      {
+        "text": "the drum skin vibrates",
+        "is_correct": true
+      },
+      {
+        "text": "the drum becomes a new material",
+        "is_correct": false
+      },
+      {
+        "text": "the air turns solid",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Striking starts vibrations that produce sound.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which action makes a guitar string sound?",
+    "audio_prompt": "Which action makes a guitar string sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-003",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which action makes a guitar string sound?"
+    },
+    "answers": [
+      {
+        "text": "looking at it",
+        "is_correct": false
+      },
+      {
+        "text": "plucking it",
+        "is_correct": true
+      },
+      {
+        "text": "covering it gently",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Plucking starts the string vibrating.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which action is used to make a triangle instrument ring?",
+    "audio_prompt": "Which action is used to make a triangle instrument ring?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-004",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which action is used to make a triangle instrument ring?"
+    },
+    "answers": [
+      {
+        "text": "stretching it into pieces",
+        "is_correct": false
+      },
+      {
+        "text": "staring at it",
+        "is_correct": false
+      },
+      {
+        "text": "striking it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strike starts the metal vibrating.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "What action makes a maraca sound?",
+    "audio_prompt": "What action makes a maraca sound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-005",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: What action makes a maraca sound?"
+    },
+    "answers": [
+      {
+        "text": "shaking it",
+        "is_correct": true
+      },
+      {
+        "text": "folding it",
+        "is_correct": false
+      },
+      {
+        "text": "painting it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Shaking makes the contents and shell vibrate.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A recorder makes sound when a child —",
+    "audio_prompt": "A recorder makes sound when a child —",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-006",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A recorder makes sound when a child —"
+    },
+    "answers": [
+      {
+        "text": "bends it",
+        "is_correct": false
+      },
+      {
+        "text": "blows air into it",
+        "is_correct": true
+      },
+      {
+        "text": "covers it in cloth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Moving air causes vibrations in the recorder.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Rubbing a wet finger around a glass rim can make a tone because the rim —",
+    "audio_prompt": "Rubbing a wet finger around a glass rim can make a tone because the rim —",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-007",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Rubbing a wet finger around a glass rim can make a tone because the rim —"
+    },
+    "answers": [
+      {
+        "text": "becomes a star",
+        "is_correct": false
+      },
+      {
+        "text": "changes material",
+        "is_correct": false
+      },
+      {
+        "text": "vibrates",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rubbing can start a repeated vibration.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A ruler over a desk edge looks blurry while it buzzes. What is the best explanation?",
+    "audio_prompt": "A ruler over a desk edge looks blurry while it buzzes. What is the best explanation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-008",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A ruler over a desk edge looks blurry while it buzzes. What is the best explanation?"
+    },
+    "answers": [
+      {
+        "text": "it is vibrating quickly",
+        "is_correct": true
+      },
+      {
+        "text": "it is melting",
+        "is_correct": false
+      },
+      {
+        "text": "the desk is orbiting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fast vibration can look blurred.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "How can a child safely gather evidence that their voice uses vibration?",
+    "audio_prompt": "How can a child safely gather evidence that their voice uses vibration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-009",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: How can a child safely gather evidence that their voice uses vibration?"
+    },
+    "answers": [
+      {
+        "text": "shout into another person's ear",
+        "is_correct": false
+      },
+      {
+        "text": "gently touch their throat while humming",
+        "is_correct": true
+      },
+      {
+        "text": "put an object in their mouth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A gentle touch can feel the voice box vibrating.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which pair describes volume?",
+    "audio_prompt": "Which pair describes volume?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-010",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which pair describes volume?"
+    },
+    "answers": [
+      {
+        "text": "high and low",
+        "is_correct": false
+      },
+      {
+        "text": "long and short",
+        "is_correct": false
+      },
+      {
+        "text": "loud and soft",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Loud and soft tell how strong a sound seems.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which pair describes pitch?",
+    "audio_prompt": "Which pair describes pitch?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-011",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which pair describes pitch?"
+    },
+    "answers": [
+      {
+        "text": "high and low",
+        "is_correct": true
+      },
+      {
+        "text": "loud and soft",
+        "is_correct": false
+      },
+      {
+        "text": "rough and smooth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pitch tells how high or low a sound is.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "To compare two elastic-band sounds fairly, what should change?",
+    "audio_prompt": "To compare two elastic-band sounds fairly, what should change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-012",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: To compare two elastic-band sounds fairly, what should change?"
+    },
+    "answers": [
+      {
+        "text": "every feature at once",
+        "is_correct": false
+      },
+      {
+        "text": "one feature at a time",
+        "is_correct": true
+      },
+      {
+        "text": "the listener each second",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One change helps link it to the sound difference.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A drum is tapped gently, then struck more strongly in the same place. What will most likely change?",
+    "audio_prompt": "A drum is tapped gently, then struck more strongly in the same place. What will most likely change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-013",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A drum is tapped gently, then struck more strongly in the same place. What will most likely change?"
+    },
+    "answers": [
+      {
+        "text": "the drum becomes a different material",
+        "is_correct": false
+      },
+      {
+        "text": "the second sound must be higher",
+        "is_correct": false
+      },
+      {
+        "text": "the second sound will be louder",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A stronger strike usually makes a larger vibration and louder sound.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A ringing phone is covered with a thick towel. What is most likely observed?",
+    "audio_prompt": "A ringing phone is covered with a thick towel. What is most likely observed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-014",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A ringing phone is covered with a thick towel. What is most likely observed?"
+    },
+    "answers": [
+      {
+        "text": "the sound becomes softer",
+        "is_correct": true
+      },
+      {
+        "text": "the pitch always doubles",
+        "is_correct": false
+      },
+      {
+        "text": "the phone stops vibrating completely",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The towel reduces sound reaching the listener.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which statement is correct?",
+    "audio_prompt": "Which statement is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-015",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which statement is correct?"
+    },
+    "answers": [
+      {
+        "text": "sound is a colour",
+        "is_correct": false
+      },
+      {
+        "text": "sound energy is linked to vibrating objects",
+        "is_correct": true
+      },
+      {
+        "text": "sound only exists in instruments",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Vibrations transfer sound energy.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A bell sits still and is not struck or shaken. Why is it silent?",
+    "audio_prompt": "A bell sits still and is not struck or shaken. Why is it silent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-016",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A bell sits still and is not struck or shaken. Why is it silent?"
+    },
+    "answers": [
+      {
+        "text": "all bells are silent",
+        "is_correct": false
+      },
+      {
+        "text": "it has no colour",
+        "is_correct": false
+      },
+      {
+        "text": "it is not vibrating enough to make sound",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A sound-making vibration has not been started.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-017",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A speaker cone moves too quickly to see clearly. Which evidence could still show vibration?",
+    "audio_prompt": "A speaker cone moves too quickly to see clearly. Which evidence could still show vibration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-017",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A speaker cone moves too quickly to see clearly. Which evidence could still show vibration?"
+    },
+    "answers": [
+      {
+        "text": "a light paper scrap on it moves",
+        "is_correct": true
+      },
+      {
+        "text": "its colour is blue",
+        "is_correct": false
+      },
+      {
+        "text": "its label has letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Movement of the scrap is visible evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-018",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Rice grains jump when a nearby drum is struck. What does this show?",
+    "audio_prompt": "Rice grains jump when a nearby drum is struck. What does this show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-018",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Rice grains jump when a nearby drum is struck. What does this show?"
+    },
+    "answers": [
+      {
+        "text": "rice makes all sound",
+        "is_correct": false
+      },
+      {
+        "text": "the drum skin is vibrating",
+        "is_correct": true
+      },
+      {
+        "text": "the drum became rice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The moving skin pushes the grains.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-019",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A vibrating tuning fork touches water and makes splashes. What is the splash evidence of?",
+    "audio_prompt": "A vibrating tuning fork touches water and makes splashes. What is the splash evidence of?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-019",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A vibrating tuning fork touches water and makes splashes. What is the splash evidence of?"
+    },
+    "answers": [
+      {
+        "text": "the fork melting",
+        "is_correct": false
+      },
+      {
+        "text": "water changing to metal",
+        "is_correct": false
+      },
+      {
+        "text": "the fork's vibration",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The moving prongs disturb the water.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-020",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Two similar strings are plucked. One is shorter. What can be compared?",
+    "audio_prompt": "Two similar strings are plucked. One is shorter. What can be compared?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-020",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Two similar strings are plucked. One is shorter. What can be compared?"
+    },
+    "answers": [
+      {
+        "text": "their pitches",
+        "is_correct": true
+      },
+      {
+        "text": "their colours only",
+        "is_correct": false
+      },
+      {
+        "text": "which becomes a new material",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing string length can change pitch.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-021",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A tighter and a looser elastic band are plucked in the same way. What is the useful observation?",
+    "audio_prompt": "A tighter and a looser elastic band are plucked in the same way. What is the useful observation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-021",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A tighter and a looser elastic band are plucked in the same way. What is the useful observation?"
+    },
+    "answers": [
+      {
+        "text": "which child likes blue",
+        "is_correct": false
+      },
+      {
+        "text": "whether their pitches differ",
+        "is_correct": true
+      },
+      {
+        "text": "whether Earth turns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Tension can affect vibration and pitch.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-022",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which instrument is mainly played by shaking?",
+    "audio_prompt": "Which instrument is mainly played by shaking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-022",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which instrument is mainly played by shaking?"
+    },
+    "answers": [
+      {
+        "text": "drum",
+        "is_correct": false
+      },
+      {
+        "text": "recorder",
+        "is_correct": false
+      },
+      {
+        "text": "maraca",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A maraca sounds when shaken.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-023",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which instrument is mainly played by blowing?",
+    "audio_prompt": "Which instrument is mainly played by blowing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-023",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which instrument is mainly played by blowing?"
+    },
+    "answers": [
+      {
+        "text": "whistle",
+        "is_correct": true
+      },
+      {
+        "text": "bell",
+        "is_correct": false
+      },
+      {
+        "text": "xylophone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Blown air starts the whistle's vibration.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-P-024",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "practice",
+    "skill": "explore_sound_and_vibration",
+    "question": "A mouse squeak can be high but soft. What does this prove?",
+    "audio_prompt": "A mouse squeak can be high but soft. What does this prove?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-024",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A mouse squeak can be high but soft. What does this prove?"
+    },
+    "answers": [
+      {
+        "text": "all high sounds are loud",
+        "is_correct": false
+      },
+      {
+        "text": "high does not mean loud",
+        "is_correct": true
+      },
+      {
+        "text": "soft means low",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pitch and volume describe different sound features.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-001",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A clap in an empty hall is heard again a moment later. What is the second sound called?",
+    "audio_prompt": "A clap in an empty hall is heard again a moment later. What is the second sound called?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-001",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A clap in an empty hall is heard again a moment later. What is the second sound called?"
+    },
+    "answers": [
+      {
+        "text": "a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "a planet",
+        "is_correct": false
+      },
+      {
+        "text": "an echo",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An echo is reflected sound.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-002",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “a shadow”. Read the evidence in this question and choose the better answer: A clap in an empty hall is heard again a moment later. What is the second sound called?",
+    "audio_prompt": "A student answers “a shadow”. Read the evidence in this question and choose the better answer: A clap in an empty hall is heard again a moment later. What is the second sound called?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-002",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A clap in an empty hall is heard again a moment later. What is the second sound called?"
+    },
+    "answers": [
+      {
+        "text": "an echo",
+        "is_correct": true
+      },
+      {
+        "text": "a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "a planet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An echo is reflected sound.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-003",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A ringing bell is moved farther away. What is likely?",
+    "audio_prompt": "A ringing bell is moved farther away. What is likely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-003",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A ringing bell is moved farther away. What is likely?"
+    },
+    "answers": [
+      {
+        "text": "its pitch must become higher",
+        "is_correct": false
+      },
+      {
+        "text": "it sounds softer to the listener",
+        "is_correct": true
+      },
+      {
+        "text": "it stops vibrating instantly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Less sound energy reaches the listener farther away.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-004",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “its pitch must become higher”. Read the evidence in this question and choose the better answer: A ringing bell is moved farther away. What is likely?",
+    "audio_prompt": "A student answers “its pitch must become higher”. Read the evidence in this question and choose the better answer: A ringing bell is moved farther away. What is likely?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-004",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A ringing bell is moved farther away. What is likely?"
+    },
+    "answers": [
+      {
+        "text": "its pitch must become higher",
+        "is_correct": false
+      },
+      {
+        "text": "it stops vibrating instantly",
+        "is_correct": false
+      },
+      {
+        "text": "it sounds softer to the listener",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Less sound energy reaches the listener farther away.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-005",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which action protects hearing?",
+    "audio_prompt": "Which action protects hearing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-005",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which action protects hearing?"
+    },
+    "answers": [
+      {
+        "text": "move away from a painfully loud sound",
+        "is_correct": true
+      },
+      {
+        "text": "put an ear beside a loud speaker",
+        "is_correct": false
+      },
+      {
+        "text": "increase every sound",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distance from very loud sounds helps protect ears.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-006",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “put an ear beside a loud speaker”. Read the evidence in this question and choose the better answer: Which action protects hearing?",
+    "audio_prompt": "A student answers “put an ear beside a loud speaker”. Read the evidence in this question and choose the better answer: Which action protects hearing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-006",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which action protects hearing?"
+    },
+    "answers": [
+      {
+        "text": "put an ear beside a loud speaker",
+        "is_correct": false
+      },
+      {
+        "text": "move away from a painfully loud sound",
+        "is_correct": true
+      },
+      {
+        "text": "increase every sound",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance from very loud sounds helps protect ears.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-007",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which material would most likely muffle a small alarm?",
+    "audio_prompt": "Which material would most likely muffle a small alarm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-007",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which material would most likely muffle a small alarm?"
+    },
+    "answers": [
+      {
+        "text": "an open wire frame",
+        "is_correct": false
+      },
+      {
+        "text": "a sheet with large holes",
+        "is_correct": false
+      },
+      {
+        "text": "thick foam",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Soft thick material can reduce transmitted sound.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-008",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “an open wire frame”. Read the evidence in this question and choose the better answer: Which material would most likely muffle a small alarm?",
+    "audio_prompt": "A student answers “an open wire frame”. Read the evidence in this question and choose the better answer: Which material would most likely muffle a small alarm?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-008",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which material would most likely muffle a small alarm?"
+    },
+    "answers": [
+      {
+        "text": "thick foam",
+        "is_correct": true
+      },
+      {
+        "text": "an open wire frame",
+        "is_correct": false
+      },
+      {
+        "text": "a sheet with large holes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Soft thick material can reduce transmitted sound.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-009",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "Which record best compares sounds scientifically?",
+    "audio_prompt": "Which record best compares sounds scientifically?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-009",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which record best compares sounds scientifically?"
+    },
+    "answers": [
+      {
+        "text": "a list of favourite songs",
+        "is_correct": false
+      },
+      {
+        "text": "a table of action and loud/soft observation",
+        "is_correct": true
+      },
+      {
+        "text": "a drawing with no labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A labelled table records comparable evidence.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-010",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “a list of favourite songs”. Read the evidence in this question and choose the better answer: Which record best compares sounds scientifically?",
+    "audio_prompt": "A student answers “a list of favourite songs”. Read the evidence in this question and choose the better answer: Which record best compares sounds scientifically?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-010",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which record best compares sounds scientifically?"
+    },
+    "answers": [
+      {
+        "text": "a list of favourite songs",
+        "is_correct": false
+      },
+      {
+        "text": "a drawing with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "a table of action and loud/soft observation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled table records comparable evidence.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-011",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "Why repeat a sound comparison?",
+    "audio_prompt": "Why repeat a sound comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-011",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Why repeat a sound comparison?"
+    },
+    "answers": [
+      {
+        "text": "to check whether the pattern happens again",
+        "is_correct": true
+      },
+      {
+        "text": "to force the preferred answer",
+        "is_correct": false
+      },
+      {
+        "text": "to change every condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeats make evidence more dependable.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-012",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “to force the preferred answer”. Read the evidence in this question and choose the better answer: Why repeat a sound comparison?",
+    "audio_prompt": "A student answers “to force the preferred answer”. Read the evidence in this question and choose the better answer: Why repeat a sound comparison?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-012",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Why repeat a sound comparison?"
+    },
+    "answers": [
+      {
+        "text": "to force the preferred answer",
+        "is_correct": false
+      },
+      {
+        "text": "to check whether the pattern happens again",
+        "is_correct": true
+      },
+      {
+        "text": "to change every condition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeats make evidence more dependable.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-013",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "Two people say the same word but sound different. What can be observed?",
+    "audio_prompt": "Two people say the same word but sound different. What can be observed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-013",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Two people say the same word but sound different. What can be observed?"
+    },
+    "answers": [
+      {
+        "text": "only one voice vibrates",
+        "is_correct": false
+      },
+      {
+        "text": "words change material",
+        "is_correct": false
+      },
+      {
+        "text": "voices can have different sound qualities",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different voices still use vibrations but can sound different.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-014",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “only one voice vibrates”. Read the evidence in this question and choose the better answer: Two people say the same word but sound different. What can be observed?",
+    "audio_prompt": "A student answers “only one voice vibrates”. Read the evidence in this question and choose the better answer: Two people say the same word but sound different. What can be observed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-014",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Two people say the same word but sound different. What can be observed?"
+    },
+    "answers": [
+      {
+        "text": "voices can have different sound qualities",
+        "is_correct": true
+      },
+      {
+        "text": "only one voice vibrates",
+        "is_correct": false
+      },
+      {
+        "text": "words change material",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different voices still use vibrations but can sound different.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-015",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A box-and-band instrument must make a sound. What must a band be able to do?",
+    "audio_prompt": "A box-and-band instrument must make a sound. What must a band be able to do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-015",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A box-and-band instrument must make a sound. What must a band be able to do?"
+    },
+    "answers": [
+      {
+        "text": "remain completely still",
+        "is_correct": false
+      },
+      {
+        "text": "vibrate when plucked",
+        "is_correct": true
+      },
+      {
+        "text": "turn into wood",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A vibrating band is the sound source.",
+      "hint": "Look for the observation, pattern or result that directly answers the question."
+    }
+  },
+  {
+    "id": "AC9S2U02-T-016",
+    "subject": "science",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9S2U02",
+    "bank": "test",
+    "skill": "explore_sound_and_vibration",
+    "question": "A student answers “remain completely still”. Read the evidence in this question and choose the better answer: A box-and-band instrument must make a sound. What must a band be able to do?",
+    "audio_prompt": "A student answers “remain completely still”. Read the evidence in this question and choose the better answer: A box-and-band instrument must make a sound. What must a band be able to do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-t-016",
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A box-and-band instrument must make a sound. What must a band be able to do?"
+    },
+    "answers": [
+      {
+        "text": "remain completely still",
+        "is_correct": false
+      },
+      {
+        "text": "turn into wood",
+        "is_correct": false
+      },
+      {
+        "text": "vibrate when plucked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A vibrating band is the sound source.",
+      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+    }
+  }
+]
