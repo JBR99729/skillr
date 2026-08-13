@@ -414,12 +414,12 @@
     "curriculum_code": "AC9S2H01",
     "bank": "practice",
     "skill": "apply_science_in_daily_life",
-    "question": "A prediction is scientific when it is based on —",
-    "audio_prompt": "A prediction is scientific when it is based on —",
+    "question": "Mia predicts rain after seeing dark clouds and yesterday's weather. What makes the prediction scientific?",
+    "audio_prompt": "Mia predicts rain after seeing dark clouds and yesterday's weather. What makes the prediction scientific?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-013",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A prediction is scientific when it is based on —"
+      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Mia predicts rain after seeing dark clouds and yesterday's weather. What makes the prediction scientific?"
     },
     "answers": [
       {
@@ -550,12 +550,12 @@
     "curriculum_code": "AC9S2H01",
     "bank": "practice",
     "skill": "apply_science_in_daily_life",
-    "question": "A high UV forecast leads a family to use hats and shade. This is —",
-    "audio_prompt": "A high UV forecast leads a family to use hats and shade. This is —",
+    "question": "A high UV forecast leads a family to use hats and shade. What is this an example of?",
+    "audio_prompt": "A high UV forecast leads a family to use hats and shade. What is this an example of?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-017",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A high UV forecast leads a family to use hats and shade. This is —"
+      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A high UV forecast leads a family to use hats and shade. What is this an example of?"
     },
     "answers": [
       {

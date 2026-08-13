@@ -6,12 +6,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Which sentence records what a child can see?",
-    "audio_prompt": "Which sentence records what a child can see?",
+    "question": "Mia looks closely at a leaf. Which sentence records what she can see?",
+    "audio_prompt": "Mia looks closely at a leaf. Which sentence records what she can see?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-001",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which sentence records what a child can see?"
+      "alt_text": "Mia looks closely at a leaf and records what she sees. Question context: Mia looks closely at a leaf. Which sentence records what she can see?"
     },
     "answers": [
       {
@@ -40,12 +40,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "A shadow is 7 blocks long. What was used?",
-    "audio_prompt": "A shadow is 7 blocks long. What was used?",
+    "question": "A child measures a shadow as 7 blocks long. What kind of measurement was used?",
+    "audio_prompt": "A child measures a shadow as 7 blocks long. What kind of measurement was used?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-002",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A shadow is 7 blocks long. What was used?"
+      "alt_text": "A child measures a shadow with equal blocks. Question context: A child measures a shadow as 7 blocks long. What kind of measurement was used?"
     },
     "answers": [
       {
@@ -74,12 +74,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Which record gives useful evidence about seedlings?",
-    "audio_prompt": "Which record gives useful evidence about seedlings?",
+    "question": "After checking seedlings on day 3, which record gives useful evidence?",
+    "audio_prompt": "After checking seedlings on day 3, which record gives useful evidence?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-003",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which record gives useful evidence about seedlings?"
+      "alt_text": "A child checks seedlings on day 3 and records the result. Question context: After checking seedlings on day 3, which record gives useful evidence?"
     },
     "answers": [
       {
@@ -108,12 +108,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "What makes a science drawing useful?",
-    "audio_prompt": "What makes a science drawing useful?",
+    "question": "A science drawing of a leaf needs to help another student. What makes it useful?",
+    "audio_prompt": "A science drawing of a leaf needs to help another student. What makes it useful?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-004",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What makes a science drawing useful?"
+      "alt_text": "A child makes a scientific drawing of a leaf. Question context: A science drawing of a leaf needs to help another student. What makes it useful?"
     },
     "answers": [
       {
@@ -142,12 +142,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Why add a date to a sky observation?",
-    "audio_prompt": "Why add a date to a sky observation?",
+    "question": "A child records the Moon on different nights. Why add a date to a sky observation?",
+    "audio_prompt": "A child records the Moon on different nights. Why add a date to a sky observation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-005",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why add a date to a sky observation?"
+      "alt_text": "A child records the Moon on different nights to compare changes. Question context: A child records the Moon on different nights. Why add a date to a sky observation?"
     },
     "answers": [
       {
@@ -176,12 +176,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Why observe a shadow from the same marked place?",
-    "audio_prompt": "Why observe a shadow from the same marked place?",
+    "question": "A child measures a shadow from the same marked place each morning. Why?",
+    "audio_prompt": "A child measures a shadow from the same marked place each morning. Why?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-006",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why observe a shadow from the same marked place?"
+      "alt_text": "A child measures a shadow from the same marked place each morning. Question context: A child measures a shadow from the same marked place each morning. Why?"
     },
     "answers": [
       {
@@ -210,12 +210,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Which tool records temperature?",
-    "audio_prompt": "Which tool records temperature?",
+    "question": "A child wants to record the temperature of a cup of water. Which tool records temperature?",
+    "audio_prompt": "A child wants to record the temperature of a cup of water. Which tool records temperature?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-007",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which tool records temperature?"
+      "alt_text": "A child checks the temperature of a cup of water. Question context: A child wants to record the temperature of a cup of water. Which tool records temperature?"
     },
     "answers": [
       {
@@ -244,12 +244,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "When is a photograph useful in science?",
-    "audio_prompt": "When is a photograph useful in science?",
+    "question": "A child photographs a sprouting seed each day. When is a photograph useful in science?",
+    "audio_prompt": "A child photographs a sprouting seed each day. When is a photograph useful in science?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-008",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: When is a photograph useful in science?"
+      "alt_text": "A child photographs a sprouting seed each day. Question context: A child photographs a sprouting seed each day. When is a photograph useful in science?"
     },
     "answers": [
       {
@@ -278,12 +278,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Which digital tool could record a sound for comparison?",
-    "audio_prompt": "Which digital tool could record a sound for comparison?",
+    "question": "To compare two sounds, which digital tool could record one?",
+    "audio_prompt": "To compare two sounds, which digital tool could record one?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-009",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which digital tool could record a sound for comparison?"
+      "alt_text": "A child records a sound to compare it later. Question context: To compare two sounds, which digital tool could record one?"
     },
     "answers": [
       {
@@ -346,12 +346,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "practice",
     "skill": "record_observations",
-    "question": "Which note is an observation?",
-    "audio_prompt": "Which note is an observation?",
+    "question": "A child watches a vibrating band. Which note is an observation?",
+    "audio_prompt": "A child watches a vibrating band. Which note is an observation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-p-011",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which note is an observation?"
+      "alt_text": "A child watches a vibrating band and writes what happened. Question context: A child watches a vibrating band. Which note is an observation?"
     },
     "answers": [
       {
@@ -822,12 +822,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "Why title a diagram?",
-    "audio_prompt": "Why title a diagram?",
+    "question": "Mia draws a leaf from her investigation. Why title a diagram?",
+    "audio_prompt": "Mia draws a leaf from her investigation. Why title a diagram?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-001",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?"
+      "alt_text": "Mia draws a leaf and adds a title to the diagram. Question context: Mia draws a leaf from her investigation. Why title a diagram?"
     },
     "answers": [
       {
@@ -890,12 +890,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "What do headings do in a table?",
-    "audio_prompt": "What do headings do in a table?",
+    "question": "A class records how tall seedlings are in a table. What do headings do in a table?",
+    "audio_prompt": "A class records how tall seedlings are in a table. What do headings do in a table?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-003",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?"
+      "alt_text": "A class records seedling height in a table. Question context: A class records how tall seedlings are in a table. What do headings do in a table?"
     },
     "answers": [
       {
@@ -958,12 +958,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "How should a tablet be used near water samples?",
-    "audio_prompt": "How should a tablet be used near water samples?",
+    "question": "A class uses a tablet to take photos beside water samples. How should it be used?",
+    "audio_prompt": "A class uses a tablet to take photos beside water samples. How should it be used?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-005",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?"
+      "alt_text": "A class uses a tablet near water samples during science. Question context: A class uses a tablet to take photos beside water samples. How should it be used?"
     },
     "answers": [
       {
@@ -1026,12 +1026,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "A drawing is larger than the real seed. What should be clear?",
-    "audio_prompt": "A drawing is larger than the real seed. What should be clear?",
+    "question": "A drawing of a seed is larger than the real seed. What should be clear?",
+    "audio_prompt": "A drawing of a seed is larger than the real seed. What should be clear?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-007",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?"
+      "alt_text": "A child makes an enlarged drawing of a seed. Question context: A drawing of a seed is larger than the real seed. What should be clear?"
     },
     "answers": [
       {
@@ -1094,12 +1094,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "Which senses are normally safe for observing approved objects?",
-    "audio_prompt": "Which senses are normally safe for observing approved objects?",
+    "question": "A child is observing approved objects in science. Which senses are normally safe?",
+    "audio_prompt": "A child is observing approved objects in science. Which senses are normally safe?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-009",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?"
+      "alt_text": "A child observes approved science objects using safe senses. Question context: A child is observing approved objects in science. Which senses are normally safe?"
     },
     "answers": [
       {
@@ -1162,12 +1162,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "Two children record different lengths. What should they check?",
-    "audio_prompt": "Two children record different lengths. What should they check?",
+    "question": "Two children measure the same toy car with cubes and get different lengths. What should they check?",
+    "audio_prompt": "Two children measure the same toy car with cubes and get different lengths. What should they check?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-011",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
+      "alt_text": "Two children measure the same toy car with cubes and compare results. Question context: Two children measure the same toy car with cubes and get different lengths. What should they check?"
     },
     "answers": [
       {
@@ -1196,12 +1196,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
-    "audio_prompt": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
+    "question": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children measure the same toy car with cubes and get different lengths. What should they check?",
+    "audio_prompt": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children measure the same toy car with cubes and get different lengths. What should they check?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-012",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
+      "alt_text": "Two children measure the same toy car with cubes and compare results. Question context: Two children measure the same toy car with cubes and get different lengths. What should they check?"
     },
     "answers": [
       {
@@ -1230,12 +1230,12 @@
     "curriculum_code": "AC9S2I03",
     "bank": "test",
     "skill": "record_observations",
-    "question": "Why record soon after observing?",
-    "audio_prompt": "Why record soon after observing?",
+    "question": "A child writes observations right after looking at a leaf. Why record soon after observing?",
+    "audio_prompt": "A child writes observations right after looking at a leaf. Why record soon after observing?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-013",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?"
+      "alt_text": "A child writes leaf observations right after looking closely. Question context: A child writes observations right after looking at a leaf. Why record soon after observing?"
     },
     "answers": [
       {

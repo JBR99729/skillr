@@ -6,12 +6,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which question can be tested by observing?",
-    "audio_prompt": "Which question can be tested by observing?",
+    "question": "A class wants to compare which paper towel absorbs most water. Which question can be tested by observing?",
+    "audio_prompt": "A class wants to compare which paper towel absorbs most water. Which question can be tested by observing?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-001",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question can be tested by observing?"
+      "alt_text": "A class compares paper towels to see which absorbs the most water. Question context: A class wants to compare which paper towel absorbs most water. Which question can be tested by observing?"
     },
     "answers": [
       {
@@ -142,12 +142,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which question is investigable?",
-    "audio_prompt": "Which question is investigable?",
+    "question": "A seedling bends toward a window. Which question is investigable?",
+    "audio_prompt": "A seedling bends toward a window. Which question is investigable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-005",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is investigable?"
+      "alt_text": "A seedling bends toward a window. Question context: A seedling bends toward a window. Which question is investigable?"
     },
     "answers": [
       {
@@ -176,12 +176,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which question can a class safely test?",
-    "audio_prompt": "Which question can a class safely test?",
+    "question": "A class has two drums and a quiet room. Which question can a class safely test?",
+    "audio_prompt": "A class has two drums and a quiet room. Which question can a class safely test?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-006",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question can a class safely test?"
+      "alt_text": "A class compares drum taps in a quiet room. Question context: A class has two drums and a quiet room. Which question can a class safely test?"
     },
     "answers": [
       {
@@ -244,12 +244,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which statement is a result?",
-    "audio_prompt": "Which statement is a result?",
+    "question": "After testing, which statement is a result?",
+    "audio_prompt": "After testing, which statement is a result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-008",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which statement is a result?"
+      "alt_text": "A result from an ice-melting test. Question context: After testing, which statement is a result?"
     },
     "answers": [
       {
@@ -312,12 +312,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Why should a scientific question not give the answer first?",
-    "audio_prompt": "Why should a scientific question not give the answer first?",
+    "question": "After testing, which sentence should be recorded as the result?",
+    "audio_prompt": "After testing, which sentence should be recorded as the result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-010",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why should a scientific question not give the answer first?"
+      "alt_text": "A result must be written after a test. Question context: After testing, which sentence should be recorded as the result?"
     },
     "answers": [
       {
@@ -346,12 +346,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which question identifies what will be compared?",
-    "audio_prompt": "Which question identifies what will be compared?",
+    "question": "A class wants to compare two soils. Which question identifies what will be compared?",
+    "audio_prompt": "A class wants to compare two soils. Which question identifies what will be compared?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-011",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question identifies what will be compared?"
+      "alt_text": "A class compares two soils. Question context: A class wants to compare two soils. Which question identifies what will be compared?"
     },
     "answers": [
       {
@@ -448,12 +448,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "Which sentence is a scientific question?",
-    "audio_prompt": "Which sentence is a scientific question?",
+    "question": "A student wants to test whether warm water dries faster than cool water. Which sentence is a scientific question?",
+    "audio_prompt": "A student wants to test whether warm water dries faster than cool water. Which sentence is a scientific question?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-014",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which sentence is a scientific question?"
+      "alt_text": "A student plans a drying test with warm and cool water. Question context: A student wants to test whether warm water dries faster than cool water. Which sentence is a scientific question?"
     },
     "answers": [
       {
@@ -550,12 +550,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "practice",
     "skill": "pose_questions_and_predict",
-    "question": "How can ‘What about paper?’ be improved?",
-    "audio_prompt": "How can ‘What about paper?’ be improved?",
+    "question": "A student wants to compare how wet paper tears. Which question is clearer?",
+    "audio_prompt": "A student wants to compare how wet paper tears. Which question is clearer?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-p-017",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: How can ‘What about paper?’ be improved?"
+      "alt_text": "A student compares how wet paper tears. Question context: A student wants to compare how wet paper tears. Which question is clearer?"
     },
     "answers": [
       {
@@ -822,12 +822,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "test",
     "skill": "pose_questions_and_predict",
-    "question": "What normally comes after posing a question?",
-    "audio_prompt": "What normally comes after posing a question?",
+    "question": "A class has written a question and now needs a next step. What normally comes after posing a question?",
+    "audio_prompt": "A class has written a question and now needs a next step. What normally comes after posing a question?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-001",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?"
+      "alt_text": "A class has written a science question and is planning the next step. Question context: A class has written a question and now needs a next step. What normally comes after posing a question?"
     },
     "answers": [
       {
@@ -958,12 +958,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "test",
     "skill": "pose_questions_and_predict",
-    "question": "Which question is focused enough?",
-    "audio_prompt": "Which question is focused enough?",
+    "question": "A class wants to test how quickly ice melts in different cups. Which question is focused enough?",
+    "audio_prompt": "A class wants to test how quickly ice melts in different cups. Which question is focused enough?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-005",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?"
+      "alt_text": "A class plans an ice-melting test with different cups. Question context: A class wants to test how quickly ice melts in different cups. Which question is focused enough?"
     },
     "answers": [
       {
@@ -1026,12 +1026,12 @@
     "curriculum_code": "AC9S2I01",
     "bank": "test",
     "skill": "pose_questions_and_predict",
-    "question": "A pattern does not always prove cause. What should students do?",
-    "audio_prompt": "A pattern does not always prove cause. What should students do?",
+    "question": "A class notices a pattern but wants to know more. What should students do?",
+    "audio_prompt": "A class notices a pattern but wants to know more. What should students do?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-007",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?"
+      "alt_text": "A class sees a pattern and plans what to do next. Question context: A class notices a pattern but wants to know more. What should students do?"
     },
     "answers": [
       {

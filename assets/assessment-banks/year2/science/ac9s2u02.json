@@ -176,12 +176,12 @@
     "curriculum_code": "AC9S2U02",
     "bank": "practice",
     "skill": "explore_sound_and_vibration",
-    "question": "A recorder makes sound when a child —",
-    "audio_prompt": "A recorder makes sound when a child —",
+    "question": "What must a child do to make a recorder sound?",
+    "audio_prompt": "What must a child do to make a recorder sound?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-006",
-      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A recorder makes sound when a child —"
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: What must a child do to make a recorder sound?"
     },
     "answers": [
       {
@@ -210,12 +210,12 @@
     "curriculum_code": "AC9S2U02",
     "bank": "practice",
     "skill": "explore_sound_and_vibration",
-    "question": "Rubbing a wet finger around a glass rim can make a tone because the rim —",
-    "audio_prompt": "Rubbing a wet finger around a glass rim can make a tone because the rim —",
+    "question": "Rubbing a wet finger around a glass rim can make a tone because the rim does what?",
+    "audio_prompt": "Rubbing a wet finger around a glass rim can make a tone because the rim does what?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-007",
-      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Rubbing a wet finger around a glass rim can make a tone because the rim —"
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Rubbing a wet finger around a glass rim can make a tone because the rim does what?"
     },
     "answers": [
       {
@@ -482,12 +482,12 @@
     "curriculum_code": "AC9S2U02",
     "bank": "practice",
     "skill": "explore_sound_and_vibration",
-    "question": "Which statement is correct?",
-    "audio_prompt": "Which statement is correct?",
+    "question": "A child strikes a bell and hears sound. Which statement is correct?",
+    "audio_prompt": "A child strikes a bell and hears sound. Which statement is correct?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u02.svg#ac9s2u02-p-015",
-      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: Which statement is correct?"
+      "alt_text": "A vibrating elastic band with curved lines showing sound moving away. Question context: A child strikes a bell and hears sound. Which statement is correct?"
     },
     "answers": [
       {

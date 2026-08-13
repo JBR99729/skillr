@@ -6,12 +6,12 @@
     "curriculum_code": "AC9S2I02",
     "bank": "practice",
     "skill": "plan_safe_fair_investigations",
-    "question": "What should students do before using investigation materials?",
-    "audio_prompt": "What should students do before using investigation materials?",
+    "question": "Before a class uses beakers and water, what should students do?",
+    "audio_prompt": "Before a class uses beakers and water, what should students do?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-001",
-      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: What should students do before using investigation materials?"
+      "alt_text": "A class prepares to use beakers and water for an investigation. Question context: Before a class uses beakers and water, what should students do?"
     },
     "answers": [
       {
@@ -108,12 +108,12 @@
     "curriculum_code": "AC9S2I02",
     "bank": "practice",
     "skill": "plan_safe_fair_investigations",
-    "question": "Which order is sensible?",
-    "audio_prompt": "Which order is sensible?",
+    "question": "Before a ramp test, which order is sensible?",
+    "audio_prompt": "Before a ramp test, which order is sensible?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-004",
-      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which order is sensible?"
+      "alt_text": "A class follows steps for a ramp test. Question context: Before a ramp test, which order is sensible?"
     },
     "answers": [
       {
@@ -346,12 +346,12 @@
     "curriculum_code": "AC9S2I02",
     "bank": "practice",
     "skill": "plan_safe_fair_investigations",
-    "question": "Which action is safe?",
-    "audio_prompt": "Which action is safe?",
+    "question": "A class is setting up a science test. Which action is safe?",
+    "audio_prompt": "A class is setting up a science test. Which action is safe?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-p-011",
-      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: Which action is safe?"
+      "alt_text": "A class chooses a safe action during science. Question context: A class is setting up a science test. Which action is safe?"
     },
     "answers": [
       {
@@ -822,12 +822,12 @@
     "curriculum_code": "AC9S2I02",
     "bank": "test",
     "skill": "plan_safe_fair_investigations",
-    "question": "When should a child ask an adult?",
-    "audio_prompt": "When should a child ask an adult?",
+    "question": "A child is unsure about a safety rule. When should they ask an adult?",
+    "audio_prompt": "A child is unsure about a safety rule. When should they ask an adult?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i02.svg#ac9s2i02-t-001",
-      "alt_text": "A safe investigation plan showing one changed factor and matching equipment. Question context: When should a child ask an adult?"
+      "alt_text": "A child checks a safety rule with an adult. Question context: A child is unsure about a safety rule. When should they ask an adult?"
     },
     "answers": [
       {
