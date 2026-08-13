@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LE02-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which response is best supported?",
+    "audio_prompt": "Read the classroom example. Which response is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-001",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The story is good",
+        "is_correct": false
+      },
+      {
+        "text": "The withheld information creates suspense because readers must infer where the character is",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone feels scared",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “The story is good”. Which feedback helps? Task: Read the classroom example. Which response is best supported?",
+    "audio_prompt": "A student answers “The story is good”. Which feedback helps? Task: Read the classroom example. Which response is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-002",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The story is good”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Everyone feels scared” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which statement is most accurate?",
+    "audio_prompt": "Read the classroom example. Which statement is most accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-003",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A feature’s effect depends on how it is used in this text",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always create tension",
+        "is_correct": false
+      },
+      {
+        "text": "Every reader must respond identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “Every reader must respond identically”. Which feedback helps? Task: Read the classroom example. Which statement is most accurate?",
+    "audio_prompt": "A student answers “Every reader must respond identically”. Which feedback helps? Task: Read the classroom example. Which statement is most accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-004",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every reader must respond identically”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Short sentences always create tension” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-005",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Opinion counts as analysis by itself",
+        "is_correct": false
+      },
+      {
+        "text": "Feature effect treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Name the feature, evidence and effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Name the feature, evidence and effect.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-006",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Feature effect treated as universal” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-007",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Feature effect treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Explain what it does in this context.",
+        "is_correct": true
+      },
+      {
+        "text": "Long quotation replaces explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain what it does in this context.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-008",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Feature effect treated as universal” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-009",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Select only the relevant evidence and analyse it.",
+        "is_correct": true
+      },
+      {
+        "text": "Long quotation replaces explanation",
+        "is_correct": false
+      },
+      {
+        "text": "Different response considered wrong",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Select only the relevant evidence and analyse it.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-010",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Different response considered wrong” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-011",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Different response considered wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Opinion counts as analysis by itself",
+        "is_correct": false
+      },
+      {
+        "text": "Responses can vary when they are textually supported.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Responses can vary when they are textually supported.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-012",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Different response considered wrong” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "feature_effect_chain_apply",
+    "question": "The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-013",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "feature_effect_chain_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-014",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "opinion_upgrade_apply",
+    "question": "The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-015",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Turn vague reactions into evidence-based responses using because and for example.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Turn vague reactions into evidence-based responses using because and for example.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "opinion_upgrade_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-016",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "reader_comparison_apply",
+    "question": "The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-017",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare two plausible responses to the same feature and identify different assumptions or preferences.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare two plausible responses to the same feature and identify different assumptions or preferences.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "reader_comparison_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-018",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two plausible responses to the same feature and identify different assumptions or preferences.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two plausible responses to the same feature and identify different assumptions or preferences.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-019",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "response",
+        "is_correct": true
+      },
+      {
+        "text": "language feature",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "response is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
+    "audio_prompt": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-020",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “language feature”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “text structure” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. response is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. response is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-021",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "response",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "text structure is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “response”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
+    "audio_prompt": "A student answers “response”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-022",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “response”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “language feature” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-023",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "response",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "language feature is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LE02-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
+    "audio_prompt": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-024",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “text structure”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “response” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which response is best supported?",
+    "audio_prompt": "In a new assessment text, Which response is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-001",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: New text 1. Notice: Identify literary features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "The story is good",
+        "is_correct": false
+      },
+      {
+        "text": "The withheld information creates suspense because readers must infer where the character is",
+        "is_correct": true
+      },
+      {
+        "text": "Everyone feels scared",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “The story is good”. Which feedback helps? Task: In a new assessment text, Which response is best supported?",
+    "audio_prompt": "A student answers “The story is good”. Which feedback helps? Task: In a new assessment text, Which response is best supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-002",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: New text 1. Notice: Identify literary features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “The story is good”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Everyone feels scared” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which statement is most accurate?",
+    "audio_prompt": "In a new assessment text, Which statement is most accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-003",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: New text 2. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "A feature’s effect depends on how it is used in this text",
+        "is_correct": true
+      },
+      {
+        "text": "Short sentences always create tension",
+        "is_correct": false
+      },
+      {
+        "text": "Every reader must respond identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “Every reader must respond identically”. Which feedback helps? Task: In a new assessment text, Which statement is most accurate?",
+    "audio_prompt": "A student answers “Every reader must respond identically”. Which feedback helps? Task: In a new assessment text, Which statement is most accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-004",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: New text 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every reader must respond identically”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Short sentences always create tension” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-005",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Opinion counts as analysis by itself",
+        "is_correct": false
+      },
+      {
+        "text": "Feature effect treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Name the feature, evidence and effect.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Name the feature, evidence and effect.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: An editor reviewing a new text claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-006",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Feature effect treated as universal” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-007",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Feature effect treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Explain what it does in this context.",
+        "is_correct": true
+      },
+      {
+        "text": "Long quotation replaces explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain what it does in this context.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: An editor reviewing a new text claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: An editor reviewing a new text claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-008",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Feature effect treated as universal” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-009",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Select only the relevant evidence and analyse it.",
+        "is_correct": true
+      },
+      {
+        "text": "Long quotation replaces explanation",
+        "is_correct": false
+      },
+      {
+        "text": "Different response considered wrong",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Select only the relevant evidence and analyse it.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: An editor reviewing a new text claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: An editor reviewing a new text claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-010",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Different response considered wrong” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-011",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Different response considered wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Opinion counts as analysis by itself",
+        "is_correct": false
+      },
+      {
+        "text": "Responses can vary when they are textually supported.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Responses can vary when they are textually supported.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: An editor reviewing a new text claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: An editor reviewing a new text claims, “Different response considered wrong”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-012",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Different response considered wrong” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "feature_effect_chain_apply",
+    "question": "A different class adapts “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-013",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "feature_effect_chain_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Feature–effect chain”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-014",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "opinion_upgrade_apply",
+    "question": "A different class adapts “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-015",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Turn vague reactions into evidence-based responses using because and for example.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Turn vague reactions into evidence-based responses using because and for example.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LE02-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE02",
+    "bank": "test",
+    "skill": "opinion_upgrade_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Opinion upgrade”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-t-016",
+      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

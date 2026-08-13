@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "AC9E4LA10-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which choice most directly increases an object’s salience?",
+    "audio_prompt": "Read the classroom example. Which choice most directly increases an object’s salience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-001",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Worked text 1. Notice: Identify composition choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "making it large, high-contrast and sharply focused",
+        "is_correct": true
+      },
+      {
+        "text": "placing it faintly behind several elements",
+        "is_correct": false
+      },
+      {
+        "text": "cropping it out",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: large. The text reads: making it large, high-contrast and sharply focused",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: placing it faintly behind several elements",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: cropping it out"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “placing it faintly behind several elements”. Which feedback helps? Task: Read the classroom example. Which choice most directly increases an object’s salience?",
+    "audio_prompt": "A student answers “placing it faintly behind several elements”. Which feedback helps? Task: Read the classroom example. Which choice most directly increases an object’s salience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-002",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Worked text 1. Notice: Identify composition choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “placing it faintly behind several elements”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “cropping it out” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “placing it faintly behind several elements”; it uses a detail that sounds familiar.",
+      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, large. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “cropping it out” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. What can a wide shot add?",
+    "audio_prompt": "Read the classroom example. What can a wide shot add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-003",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Worked text 2. Notice: Explain salience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "only one tiny detail",
+        "is_correct": false
+      },
+      {
+        "text": "a guaranteed objective meaning",
+        "is_correct": false
+      },
+      {
+        "text": "setting and relationships between elements",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: only one tiny detail",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: a guaranteed objective meaning",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: setting and relationships between elements"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “setting and relationships between elements”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “a guaranteed objective meaning”. Which feedback helps? Task: Read the classroom example. What can a wide shot add?",
+    "audio_prompt": "A student answers “a guaranteed objective meaning”. Which feedback helps? Task: Read the classroom example. What can a wide shot add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-004",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Worked text 2. Notice: Explain salience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a guaranteed objective meaning”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “only one tiny detail” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “a guaranteed objective meaning”; it uses a detail that sounds familiar.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “only one tiny detail” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-005",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 1. Notice: Compare framings. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Central means objectively most important",
+        "is_correct": false
+      },
+      {
+        "text": "Placement creates emphasis; importance is constructed within the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Image meaning is universal",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Central means objectively most important",
+      "Capital words: Placement. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Placement creates emphasis; importance is constructed within the text.",
+      "Capital words: Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Image meaning is universal"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Placement creates emphasis; importance is constructed within the text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Central means objectively most important”. Which feedback helps? Task: A student in a workshop claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Central means objectively most important”. Which feedback helps? Task: A student in a workshop claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-006",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 1. Notice: Compare framings. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Image meaning is universal” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Image meaning is universal” instead; it sounds clearer.",
+      "Capital words: Identify, Placement. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-007",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 2. Notice: Use visual evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Viewers use context and cultural knowledge, so claims need evidence and caution.",
+        "is_correct": true
+      },
+      {
+        "text": "Image meaning is universal",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping only improves neatness",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Viewers. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: knowledge. The text ends with a full stop. The text reads: Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "Capital words: Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Image meaning is universal",
+      "Capital words: Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Cropping only improves neatness"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: A student in a workshop claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: A student in a workshop claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-008",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 2. Notice: Use visual evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Image meaning is universal” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+      "Capital words: Identify, Viewers. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, knowledge. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "Capital words: Choose, Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Image meaning is universal” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-009",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 3. Notice: Evaluate inclusion and viewpoint. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Cropping only improves neatness",
+        "is_correct": false
+      },
+      {
+        "text": "One visual feature analysed alone",
+        "is_correct": false
+      },
+      {
+        "text": "It can remove important context and alter interpretation.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Cropping only improves neatness",
+      "Capital words: One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: One visual feature analysed alone",
+      "Capital words: It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: It can remove important context and alter interpretation."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can remove important context and alter interpretation.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: A student in a workshop claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: A student in a workshop claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-010",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 3. Notice: Evaluate inclusion and viewpoint. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One visual feature analysed alone” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Identify, It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+      "Capital words: Keep, Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “One visual feature analysed alone” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-011",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 4. Notice: Identify composition choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One visual feature analysed alone",
+        "is_correct": false
+      },
+      {
+        "text": "Composition works through combinations of framing, placement, colour, focus and words.",
+        "is_correct": true
+      },
+      {
+        "text": "Central means objectively most important",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: One visual feature analysed alone",
+      "Capital words: Composition. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: framing, placement, colour. The text ends with a full stop. The text reads: Composition works through combinations of framing, placement, colour, focus and words.",
+      "Capital words: Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Central means objectively most important"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Composition works through combinations of framing, placement, colour, focus and words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Central means objectively most important”. Which feedback helps? Task: A student in a workshop claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Central means objectively most important”. Which feedback helps? Task: A student in a workshop claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-012",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 4. Notice: Identify composition choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One visual feature analysed alone” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “One visual feature analysed alone” instead; it sounds clearer.",
+      "Capital words: Identify, Composition. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, framing, placement, colour. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "first_look_test_apply",
+    "question": "The class prepares “First-look test”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “First-look test”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-013",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: First-look test. Notice: Explain salience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Show. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: briefly, size, contrast. The text ends with a full stop. The text reads: Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "first_look_test_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “First-look test”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “First-look test”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-014",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: First-look test. Notice: Explain salience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Show. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: briefly, size, contrast. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "reframe_a_scene_apply",
+    "question": "The class prepares “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-015",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Reframe a scene. Notice: Compare framings. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
+      "Capital words: Sketch. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: wide. The text ends with a full stop. The text reads: Sketch wide, medium and close-up versions of the same event and annotate information gained or lost."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "reframe_a_scene_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-016",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Reframe a scene. Notice: Compare framings. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Choose, Sketch. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: wide. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "image_and_caption_analysis_apply",
+    "question": "The class prepares “Image-and-caption analysis”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Image-and-caption analysis”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-017",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Image-and-caption analysis. Notice: Use visual evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change a caption or crop and discuss how the combined representation shifts interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Change a caption or crop and discuss how the combined representation shifts interpretation.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change a caption or crop and discuss how the combined representation shifts interpretation.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "image_and_caption_analysis_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Image-and-caption analysis”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Image-and-caption analysis”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-018",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Image-and-caption analysis. Notice: Use visual evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Change a caption or crop and discuss how the combined representation shifts interpretation.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Change a caption or crop and discuss how the combined representation shifts interpretation."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Change a caption or crop and discuss how the combined representation shifts interpretation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Framing, Placement and Salience in Images describes “selection and boundary of what appears in an image”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Framing, Placement and Salience in Images describes “selection and boundary of what appears in an image”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-019",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 1. Notice: Evaluate inclusion and viewpoint. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "framing",
+        "is_correct": true
+      },
+      {
+        "text": "salience",
+        "is_correct": false
+      },
+      {
+        "text": "composition",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: framing",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: salience",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: composition"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "framing is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “composition”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “selection and boundary of what appears in an image”. Which term is most precise?",
+    "audio_prompt": "A student answers “composition”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “selection and boundary of what appears in an image”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-020",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 1. Notice: Evaluate inclusion and viewpoint. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “composition”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. framing is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “salience” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “composition”; it uses a detail that sounds familiar.",
+      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. framing is the precise term for this feature.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “salience” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. framing is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Framing, Placement and Salience in Images describes “degree to which an element attracts attention”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Framing, Placement and Salience in Images describes “degree to which an element attracts attention”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-021",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 2. Notice: Identify composition choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "composition",
+        "is_correct": false
+      },
+      {
+        "text": "salience",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: framing",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: composition",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: salience"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "salience is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “framing”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “degree to which an element attracts attention”. Which term is most precise?",
+    "audio_prompt": "A student answers “framing”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “degree to which an element attracts attention”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-022",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 2. Notice: Identify composition choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. salience is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “framing”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “composition” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. salience is the precise term for this feature.",
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “framing”; it uses a detail that sounds familiar.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “composition” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. salience is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Framing, Placement and Salience in Images describes “arrangement of visual elements”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Framing, Placement and Salience in Images describes “arrangement of visual elements”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-023",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 3. Notice: Explain salience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "composition",
+        "is_correct": true
+      },
+      {
+        "text": "salience",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: framing",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: composition",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: salience"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "composition is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA10-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “salience”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “arrangement of visual elements”. Which term is most precise?",
+    "audio_prompt": "A student answers “salience”. Which feedback helps? Task: A class annotation about Framing, Placement and Salience in Images describes “arrangement of visual elements”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-p-024",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Vocabulary 3. Notice: Explain salience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “salience”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “framing” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. composition is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “salience”; it uses a detail that sounds familiar.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “framing” instead; it sounds clearer.",
+      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. composition is the precise term for this feature."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. composition is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which choice most directly increases an object’s salience?",
+    "audio_prompt": "In a new assessment text, Which choice most directly increases an object’s salience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-001",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: New text 1. Notice: Identify composition choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "making it large, high-contrast and sharply focused",
+        "is_correct": true
+      },
+      {
+        "text": "placing it faintly behind several elements",
+        "is_correct": false
+      },
+      {
+        "text": "cropping it out",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: large. The text reads: making it large, high-contrast and sharply focused",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: placing it faintly behind several elements",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: cropping it out"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “placing it faintly behind several elements”. Which feedback helps? Task: In a new assessment text, Which choice most directly increases an object’s salience?",
+    "audio_prompt": "A student answers “placing it faintly behind several elements”. Which feedback helps? Task: In a new assessment text, Which choice most directly increases an object’s salience?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-002",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: New text 1. Notice: Identify composition choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “placing it faintly behind several elements”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “cropping it out” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “placing it faintly behind several elements”; it uses a detail that sounds familiar.",
+      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, large. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “cropping it out” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “making it large, high-contrast and sharply focused”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, What can a wide shot add?",
+    "audio_prompt": "In a new assessment text, What can a wide shot add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-003",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: New text 2. Notice: Explain salience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "only one tiny detail",
+        "is_correct": false
+      },
+      {
+        "text": "a guaranteed objective meaning",
+        "is_correct": false
+      },
+      {
+        "text": "setting and relationships between elements",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: only one tiny detail",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: a guaranteed objective meaning",
+      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: setting and relationships between elements"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “setting and relationships between elements”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “a guaranteed objective meaning”. Which feedback helps? Task: In a new assessment text, What can a wide shot add?",
+    "audio_prompt": "A student answers “a guaranteed objective meaning”. Which feedback helps? Task: In a new assessment text, What can a wide shot add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-004",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: New text 2. Notice: Explain salience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “a guaranteed objective meaning”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “only one tiny detail” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Check, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “a guaranteed objective meaning”; it uses a detail that sounds familiar.",
+      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “only one tiny detail” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “setting and relationships between elements”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-005",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 1. Notice: Compare framings. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Central means objectively most important",
+        "is_correct": false
+      },
+      {
+        "text": "Placement creates emphasis; importance is constructed within the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Image meaning is universal",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Central means objectively most important",
+      "Capital words: Placement. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Placement creates emphasis; importance is constructed within the text.",
+      "Capital words: Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Image meaning is universal"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Placement creates emphasis; importance is constructed within the text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Central means objectively most important”. Which feedback helps? Task: An editor reviewing a new text claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Central means objectively most important”. Which feedback helps? Task: An editor reviewing a new text claims, “Central means objectively most important”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-006",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 1. Notice: Compare framings. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Image meaning is universal” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Image meaning is universal” instead; it sounds clearer.",
+      "Capital words: Identify, Placement. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Placement creates emphasis; importance is constructed within the text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-007",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 2. Notice: Use visual evidence. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Viewers use context and cultural knowledge, so claims need evidence and caution.",
+        "is_correct": true
+      },
+      {
+        "text": "Image meaning is universal",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping only improves neatness",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Viewers. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: knowledge. The text ends with a full stop. The text reads: Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "Capital words: Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Image meaning is universal",
+      "Capital words: Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Cropping only improves neatness"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: An editor reviewing a new text claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: An editor reviewing a new text claims, “Image meaning is universal”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-008",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 2. Notice: Use visual evidence. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Image meaning is universal” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+      "Capital words: Identify, Viewers. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, knowledge. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "Capital words: Choose, Image. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Image meaning is universal” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Viewers use context and cultural knowledge, so claims need evidence and caution.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-009",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 3. Notice: Evaluate inclusion and viewpoint. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Cropping only improves neatness",
+        "is_correct": false
+      },
+      {
+        "text": "One visual feature analysed alone",
+        "is_correct": false
+      },
+      {
+        "text": "It can remove important context and alter interpretation.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Cropping only improves neatness",
+      "Capital words: One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: One visual feature analysed alone",
+      "Capital words: It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: It can remove important context and alter interpretation."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can remove important context and alter interpretation.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: An editor reviewing a new text claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Cropping only improves neatness”. Which feedback helps? Task: An editor reviewing a new text claims, “Cropping only improves neatness”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-010",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 3. Notice: Evaluate inclusion and viewpoint. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One visual feature analysed alone” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Identify, It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+      "Capital words: Keep, Cropping. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Cropping only improves neatness”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “One visual feature analysed alone” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can remove important context and alter interpretation.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-011",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 4. Notice: Identify composition choices. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One visual feature analysed alone",
+        "is_correct": false
+      },
+      {
+        "text": "Composition works through combinations of framing, placement, colour, focus and words.",
+        "is_correct": true
+      },
+      {
+        "text": "Central means objectively most important",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: One visual feature analysed alone",
+      "Capital words: Composition. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: framing, placement, colour. The text ends with a full stop. The text reads: Composition works through combinations of framing, placement, colour, focus and words.",
+      "Capital words: Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Central means objectively most important"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Composition works through combinations of framing, placement, colour, focus and words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Central means objectively most important”. Which feedback helps? Task: An editor reviewing a new text claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Central means objectively most important”. Which feedback helps? Task: An editor reviewing a new text claims, “One visual feature analysed alone”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-012",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Misconception 4. Notice: Identify composition choices. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “One visual feature analysed alone” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Central. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Central means objectively most important”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, One. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “One visual feature analysed alone” instead; it sounds clearer.",
+      "Capital words: Identify, Composition. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, framing, placement, colour. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Composition works through combinations of framing, placement, colour, focus and words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "first_look_test_apply",
+    "question": "A different class adapts “First-look test”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “First-look test”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-013",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: First-look test. Notice: Explain salience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Show. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: briefly, size, contrast. The text ends with a full stop. The text reads: Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "first_look_test_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “First-look test”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “First-look test”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-014",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: First-look test. Notice: Explain salience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Show. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: briefly, size, contrast. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Show an image briefly, record what viewers notice first and connect responses to size, contrast, placement or focus.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "reframe_a_scene_apply",
+    "question": "A different class adapts “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-015",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Reframe a scene. Notice: Compare framings. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
+      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
+      "Capital words: Sketch. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: wide. The text ends with a full stop. The text reads: Sketch wide, medium and close-up versions of the same event and annotate information gained or lost."
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA10-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA10",
+    "bank": "test",
+    "skill": "reframe_a_scene_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Reframe a scene”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la10.svg#ac9e4la10-t-016",
+      "alt_text": "Three-step Framing, Placement and Salience in Images organiser. Read: Reframe a scene. Notice: Compare framings. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Capital words: Choose, Sketch. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: wide. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Sketch wide, medium and close-up versions of the same event and annotate information gained or lost.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

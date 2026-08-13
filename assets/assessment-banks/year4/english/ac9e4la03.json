@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LA03-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which stages best suit a practical investigation report?",
+    "audio_prompt": "Read the classroom example. Which stages best suit a practical investigation report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-001",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "characters, problem, climax, resolution",
+        "is_correct": false
+      },
+      {
+        "text": "position, slogan, price only",
+        "is_correct": false
+      },
+      {
+        "text": "question, method, results, conclusion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “question, method, results, conclusion”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: Read the classroom example. Which stages best suit a practical investigation report?",
+    "audio_prompt": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: Read the classroom example. Which stages best suit a practical investigation report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-002",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 1. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “characters, problem, climax, resolution”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “position, slogan, price only” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which feature most strongly supports a historical recount?",
+    "audio_prompt": "Read the classroom example. Which feature most strongly supports a historical recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-003",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "commands in numbered steps",
+        "is_correct": false
+      },
+      {
+        "text": "chronological past-tense events with time markers",
+        "is_correct": true
+      },
+      {
+        "text": "present-tense definitions only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “chronological past-tense events with time markers”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “present-tense definitions only”. Which feedback helps? Task: Read the classroom example. Which feature most strongly supports a historical recount?",
+    "audio_prompt": "A student answers “present-tense definitions only”. Which feedback helps? Task: Read the classroom example. Which feature most strongly supports a historical recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-004",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Worked text 2. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “present-tense definitions only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “commands in numbered steps” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-005",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Subjects use several forms depending on the task.",
+        "is_correct": true
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      },
+      {
+        "text": "Structure treated as fixed boxes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subjects use several forms depending on the task.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-006",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Structure treated as fixed boxes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-007",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Structure treated as fixed boxes",
+        "is_correct": false
+      },
+      {
+        "text": "One feature proves classification",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt stages while keeping purpose clear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers adapt stages while keeping purpose clear.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-008",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Structure treated as fixed boxes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-009",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One feature proves classification",
+        "is_correct": false
+      },
+      {
+        "text": "Use a pattern of structure and language evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Layout separated from meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a pattern of structure and language evidence.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “One feature proves classification”. Which feedback helps? Task: A student in a workshop claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-010",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Layout separated from meaning” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-011",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Headings, diagrams and captions organise and extend information.",
+        "is_correct": true
+      },
+      {
+        "text": "Layout separated from meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Headings, diagrams and captions organise and extend information.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: A student in a workshop claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-012",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Layout separated from meaning” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "text_skeleton_sort_apply",
+    "question": "The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-013",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "text_skeleton_sort_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-014",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "cross_curriculum_feature_hunt_apply",
+    "question": "The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-015",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "cross_curriculum_feature_hunt_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-016",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "purpose_redesign_apply",
+    "question": "The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-017",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "purpose_redesign_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Purpose redesign”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-018",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Purpose redesign. Notice: Compare curriculum texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Change an informative fact file into a persuasive poster or oral explanation and document structural changes.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-019",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "text structure is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “purpose”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
+    "audio_prompt": "A student answers “purpose”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “overall organisation and stages of a text”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-020",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 1. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “purpose”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “language feature” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-021",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": true
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "language feature is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
+    "audio_prompt": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “word, sentence or cohesion choice supporting meaning”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-022",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 2. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “text structure”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “purpose” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-023",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "purpose",
+        "is_correct": true
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "purpose is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA03-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
+    "audio_prompt": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Text Structures and Language Across the Curriculum describes “what the text aims to achieve”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-p-024",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Vocabulary 3. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “language feature”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. purpose is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “text structure” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. purpose is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which stages best suit a practical investigation report?",
+    "audio_prompt": "In a new assessment text, Which stages best suit a practical investigation report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-001",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: New text 1. Notice: Recognise common text structures. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "characters, problem, climax, resolution",
+        "is_correct": false
+      },
+      {
+        "text": "position, slogan, price only",
+        "is_correct": false
+      },
+      {
+        "text": "question, method, results, conclusion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The evidence and language purpose support “question, method, results, conclusion”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: In a new assessment text, Which stages best suit a practical investigation report?",
+    "audio_prompt": "A student answers “characters, problem, climax, resolution”. Which feedback helps? Task: In a new assessment text, Which stages best suit a practical investigation report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-002",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: New text 1. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “characters, problem, climax, resolution”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “position, slogan, price only” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “question, method, results, conclusion”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which feature most strongly supports a historical recount?",
+    "audio_prompt": "In a new assessment text, Which feature most strongly supports a historical recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-003",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: New text 2. Notice: Link stages to purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "commands in numbered steps",
+        "is_correct": false
+      },
+      {
+        "text": "chronological past-tense events with time markers",
+        "is_correct": true
+      },
+      {
+        "text": "present-tense definitions only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “chronological past-tense events with time markers”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “present-tense definitions only”. Which feedback helps? Task: In a new assessment text, Which feature most strongly supports a historical recount?",
+    "audio_prompt": "A student answers “present-tense definitions only”. Which feedback helps? Task: In a new assessment text, Which feature most strongly supports a historical recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-004",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: New text 2. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “present-tense definitions only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “commands in numbered steps” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “chronological past-tense events with time markers”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-005",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Subjects use several forms depending on the task.",
+        "is_correct": true
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      },
+      {
+        "text": "Structure treated as fixed boxes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Subjects use several forms depending on the task.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: An editor reviewing a new text claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: An editor reviewing a new text claims, “Every subject uses one text type”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-006",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 1. Notice: Identify language patterns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Structure treated as fixed boxes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Subjects use several forms depending on the task.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-007",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Structure treated as fixed boxes",
+        "is_correct": false
+      },
+      {
+        "text": "One feature proves classification",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt stages while keeping purpose clear.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers adapt stages while keeping purpose clear.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: An editor reviewing a new text claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “One feature proves classification”. Which feedback helps? Task: An editor reviewing a new text claims, “Structure treated as fixed boxes”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-008",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 2. Notice: Compare curriculum texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Structure treated as fixed boxes” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Writers adapt stages while keeping purpose clear.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-009",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "One feature proves classification",
+        "is_correct": false
+      },
+      {
+        "text": "Use a pattern of structure and language evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Layout separated from meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a pattern of structure and language evidence.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “One feature proves classification”. Which feedback helps? Task: An editor reviewing a new text claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “One feature proves classification”. Which feedback helps? Task: An editor reviewing a new text claims, “One feature proves classification”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-010",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 3. Notice: Adapt form while preserving meaning. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “One feature proves classification”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Layout separated from meaning” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use a pattern of structure and language evidence.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-011",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Headings, diagrams and captions organise and extend information.",
+        "is_correct": true
+      },
+      {
+        "text": "Layout separated from meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Every subject uses one text type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Headings, diagrams and captions organise and extend information.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Every subject uses one text type”. Which feedback helps? Task: An editor reviewing a new text claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Every subject uses one text type”. Which feedback helps? Task: An editor reviewing a new text claims, “Layout separated from meaning”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-012",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Misconception 4. Notice: Recognise common text structures. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Every subject uses one text type”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Layout separated from meaning” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, diagrams and captions organise and extend information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "text_skeleton_sort_apply",
+    "question": "A different class adapts “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-013",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "text_skeleton_sort_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Text skeleton sort”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-014",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Text skeleton sort. Notice: Link stages to purpose. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Match headings and sample paragraphs to procedure, report, recount, explanation and argument structures.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "cross_curriculum_feature_hunt_apply",
+    "question": "A different class adapts “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-015",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA03-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "test",
+    "skill": "cross_curriculum_feature_hunt_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Cross-curriculum feature hunt”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la03.svg#ac9e4la03-t-016",
+      "alt_text": "Three-step Text Structures and Language Across the Curriculum organiser. Read: Cross-curriculum feature hunt. Notice: Identify language patterns. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare texts from science, humanities and health for tense, vocabulary, diagrams and connectives.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LY06-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which step focuses most on improving meaning and structure?",
+    "audio_prompt": "Read the classroom example. Which step focuses most on improving meaning and structure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-001",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "final spell-check only",
+        "is_correct": false
+      },
+      {
+        "text": "revision",
+        "is_correct": true
+      },
+      {
+        "text": "printing the first draft",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “revision”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “final spell-check only”. Which feedback helps? Task: Read the classroom example. Which step focuses most on improving meaning and structure?",
+    "audio_prompt": "A student answers “final spell-check only”. Which feedback helps? Task: Read the classroom example. Which step focuses most on improving meaning and structure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-002",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “final spell-check only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “printing the first draft” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which visual is most integrated into an informative report?",
+    "audio_prompt": "Read the classroom example. Which visual is most integrated into an informative report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-003",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a labelled diagram referred to and explained in the text",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated decoration",
+        "is_correct": false
+      },
+      {
+        "text": "a picture with no caption",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “a picture with no caption”. Which feedback helps? Task: Read the classroom example. Which visual is most integrated into an informative report?",
+    "audio_prompt": "A student answers “a picture with no caption”. Which feedback helps? Task: Read the classroom example. Which visual is most integrated into an informative report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-004",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Worked text 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a picture with no caption”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “an unrelated decoration” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-005",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Editing begins before structure is solved",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision to strengthen meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use feedback and revision to strengthen meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “First draft treated as final”. Which feedback helps? Task: A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “First draft treated as final”. Which feedback helps? Task: A student in a workshop claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-006",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “First draft treated as final”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Editing begins before structure is solved” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-007",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Editing begins before structure is solved",
+        "is_correct": false
+      },
+      {
+        "text": "Address large-scale ideas first to avoid polishing deleted text.",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added after writing without purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Address large-scale ideas first to avoid polishing deleted text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-008",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Editing begins before structure is solved” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-009",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Plan modes together and connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added after writing without purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Complex sentence used only to sound advanced",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plan modes together and connect them.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: A student in a workshop claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-010",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-011",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Complex sentence used only to sound advanced",
+        "is_correct": false
+      },
+      {
+        "text": "Spell-check assumed complete",
+        "is_correct": false
+      },
+      {
+        "text": "Use clause relationships to express precise meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use clause relationships to express precise meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-012",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_5_apply",
+    "question": "A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-013",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Spell-check assumed complete",
+        "is_correct": false
+      },
+      {
+        "text": "Check homophones, names, context and intended words.",
+        "is_correct": true
+      },
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check homophones, names, context and intended words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "misconception_5_reason",
+    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: A student in a workshop claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-014",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “First draft treated as final” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "purpose_planning_board_apply",
+    "question": "The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-015",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "purpose_planning_board_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-016",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "revision_layers_apply",
+    "question": "The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-017",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "revision_layers_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision layers”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-018",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Revision layers. Notice: Revise and edit systematically. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Review one draft first for ideas and structure, then cohesion and sentences, then conventions.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "multimodal_integration_apply",
+    "question": "The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-019",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "multimodal_integration_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Multimodal integration”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-020",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Multimodal integration. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Check whether each visual adds, explains or organises meaning and whether the written text refers to it appropriately.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-021",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "planning",
+        "is_correct": true
+      },
+      {
+        "text": "revision",
+        "is_correct": false
+      },
+      {
+        "text": "editing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "planning is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “revision”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
+    "audio_prompt": "A student answers “revision”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “generating and organising content before or during drafting”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-022",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “revision”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. planning is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “editing” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. planning is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-023",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "planning",
+        "is_correct": false
+      },
+      {
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "revision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "revision is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “editing”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
+    "audio_prompt": "A student answers “editing”. Which feedback helps? Task: A class annotation about Creating Written and Multimodal Texts describes “improving meaning, structure and cohesion”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-p-024",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Vocabulary 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. revision is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “editing”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “planning” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. revision is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which step focuses most on improving meaning and structure?",
+    "audio_prompt": "In a new assessment text, Which step focuses most on improving meaning and structure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-001",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: New text 1. Notice: Plan by purpose/audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "final spell-check only",
+        "is_correct": false
+      },
+      {
+        "text": "revision",
+        "is_correct": true
+      },
+      {
+        "text": "printing the first draft",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “revision”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “final spell-check only”. Which feedback helps? Task: In a new assessment text, Which step focuses most on improving meaning and structure?",
+    "audio_prompt": "A student answers “final spell-check only”. Which feedback helps? Task: In a new assessment text, Which step focuses most on improving meaning and structure?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-002",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: New text 1. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “final spell-check only”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “printing the first draft” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “revision”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which visual is most integrated into an informative report?",
+    "audio_prompt": "In a new assessment text, Which visual is most integrated into an informative report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-003",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: New text 2. Notice: Organise linked ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a labelled diagram referred to and explained in the text",
+        "is_correct": true
+      },
+      {
+        "text": "an unrelated decoration",
+        "is_correct": false
+      },
+      {
+        "text": "a picture with no caption",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “a picture with no caption”. Which feedback helps? Task: In a new assessment text, Which visual is most integrated into an informative report?",
+    "audio_prompt": "A student answers “a picture with no caption”. Which feedback helps? Task: In a new assessment text, Which visual is most integrated into an informative report?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-004",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: New text 2. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “a picture with no caption”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “an unrelated decoration” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a labelled diagram referred to and explained in the text”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-005",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Editing begins before structure is solved",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision to strengthen meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use feedback and revision to strengthen meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “First draft treated as final”. Which feedback helps? Task: An editor reviewing a new text claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “First draft treated as final”. Which feedback helps? Task: An editor reviewing a new text claims, “First draft treated as final”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-006",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 1. Notice: Integrate visual features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “First draft treated as final”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Editing begins before structure is solved” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use feedback and revision to strengthen meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-007",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Editing begins before structure is solved",
+        "is_correct": false
+      },
+      {
+        "text": "Address large-scale ideas first to avoid polishing deleted text.",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added after writing without purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Address large-scale ideas first to avoid polishing deleted text.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: An editor reviewing a new text claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: An editor reviewing a new text claims, “Editing begins before structure is solved”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-008",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 2. Notice: Revise and edit systematically. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Editing begins before structure is solved” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Address large-scale ideas first to avoid polishing deleted text.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-009",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Plan modes together and connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added after writing without purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Complex sentence used only to sound advanced",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plan modes together and connect them.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: An editor reviewing a new text claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Visuals added after writing without purpose”. Which feedback helps? Task: An editor reviewing a new text claims, “Visuals added after writing without purpose”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-010",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 3. Notice: Publish accurate accessible texts. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Visuals added after writing without purpose”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Plan modes together and connect them.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-011",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Complex sentence used only to sound advanced",
+        "is_correct": false
+      },
+      {
+        "text": "Spell-check assumed complete",
+        "is_correct": false
+      },
+      {
+        "text": "Use clause relationships to express precise meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use clause relationships to express precise meaning.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: An editor reviewing a new text claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: An editor reviewing a new text claims, “Complex sentence used only to sound advanced”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-012",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 4. Notice: Plan by purpose/audience. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Complex sentence used only to sound advanced” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use clause relationships to express precise meaning.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_5_apply",
+    "question": "An editor reviewing a new text claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-013",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Spell-check assumed complete",
+        "is_correct": false
+      },
+      {
+        "text": "Check homophones, names, context and intended words.",
+        "is_correct": true
+      },
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check homophones, names, context and intended words.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "misconception_5_reason",
+    "question": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: An editor reviewing a new text claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Spell-check assumed complete”. Which feedback helps? Task: An editor reviewing a new text claims, “Spell-check assumed complete”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-014",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Misconception 5. Notice: Organise linked ideas. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Spell-check assumed complete”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “First draft treated as final” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Check homophones, names, context and intended words.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "purpose_planning_board_apply",
+    "question": "A different class adapts “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-015",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "skill": "purpose_planning_board_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Purpose planning board”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly06.svg#ac9e4ly06-t-016",
+      "alt_text": "Three-step Creating Written and Multimodal Texts organiser. Read: Purpose planning board. Notice: Integrate visual features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plan the same topic for three purposes, changing intended audience response, structure, evidence and visuals.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E4LA05-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "worked_text_1_apply",
+    "question": "Read the classroom example. Which link text is most descriptive?",
+    "audio_prompt": "Read the classroom example. Which link text is most descriptive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-001",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Worked text 1. Notice: Identify navigation features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "click here",
+        "is_correct": false
+      },
+      {
+        "text": "View the labelled food-chain diagram",
+        "is_correct": true
+      },
+      {
+        "text": "more",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “View the labelled food-chain diagram”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "worked_text_1_reason",
+    "question": "A student answers “click here”. Which feedback helps? Task: Read the classroom example. Which link text is most descriptive?",
+    "audio_prompt": "A student answers “click here”. Which feedback helps? Task: Read the classroom example. Which link text is most descriptive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-002",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Worked text 1. Notice: Identify navigation features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “click here”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “more” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "worked_text_2_apply",
+    "question": "Read the classroom example. Which feature best signals the main topic of an online article?",
+    "audio_prompt": "Read the classroom example. Which feature best signals the main topic of an online article?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-003",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Worked text 2. Notice: Trace reader pathways. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a clear headline",
+        "is_correct": true
+      },
+      {
+        "text": "a random border",
+        "is_correct": false
+      },
+      {
+        "text": "an unlabeled icon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “a clear headline”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "worked_text_2_reason",
+    "question": "A student answers “an unlabeled icon”. Which feedback helps? Task: Read the classroom example. Which feature best signals the main topic of an online article?",
+    "audio_prompt": "A student answers “an unlabeled icon”. Which feedback helps? Task: Read the classroom example. Which feature best signals the main topic of an online article?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-004",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Worked text 2. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “an unlabeled icon”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “a random border” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_1_apply",
+    "question": "A student in a workshop claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-005",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Navigation is only the top menu",
+        "is_correct": false
+      },
+      {
+        "text": "Every image improves readability",
+        "is_correct": false
+      },
+      {
+        "text": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: A student in a workshop claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: A student in a workshop claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-006",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every image improves readability” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_2_apply",
+    "question": "A student in a workshop claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-007",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every image improves readability",
+        "is_correct": false
+      },
+      {
+        "text": "Irrelevant graphics compete with information.",
+        "is_correct": true
+      },
+      {
+        "text": "Click here is always clear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Irrelevant graphics compete with information.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: A student in a workshop claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Click here is always clear”. Which feedback helps? Task: A student in a workshop claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-008",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every image improves readability” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_3_apply",
+    "question": "A student in a workshop claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-009",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Descriptive link text identifies destination and supports accessibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Click here is always clear",
+        "is_correct": false
+      },
+      {
+        "text": "Desktop order automatically works on mobile",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Descriptive link text identifies destination and supports accessibility.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: A student in a workshop claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Click here is always clear”. Which feedback helps? Task: A student in a workshop claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-010",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Desktop order automatically works on mobile” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_4_apply",
+    "question": "A student in a workshop claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student in a workshop claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-011",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Desktop order automatically works on mobile",
+        "is_correct": false
+      },
+      {
+        "text": "Navigation is only the top menu",
+        "is_correct": false
+      },
+      {
+        "text": "Responsive layouts need a logical reading and focus order.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Responsive layouts need a logical reading and focus order.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: A student in a workshop claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: A student in a workshop claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-012",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Desktop order automatically works on mobile” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "page_pathway_trace_apply",
+    "question": "The class prepares “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-013",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a question and record every menu, heading, link and visual used to find the answer.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a question and record every menu, heading, link and visual used to find the answer.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "page_pathway_trace_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-014",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "link_text_repair_apply",
+    "question": "The class prepares “Link-text repair”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Link-text repair”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-015",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Replace vague links with descriptive phrases and check whether they make sense out of context.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replace vague links with descriptive phrases and check whether they make sense out of context.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "link_text_repair_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Link-text repair”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Link-text repair”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-016",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "mobile_layout_sketch_apply",
+    "question": "The class prepares “Mobile layout sketch”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "The class prepares “Mobile layout sketch”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-017",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Mobile layout sketch. Notice: Use graphics purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      },
+      {
+        "text": "Rearrange a desktop page for a narrow screen while preserving heading order, touch targets and readable graphics.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rearrange a desktop page for a narrow screen while preserving heading order, touch targets and readable graphics.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "mobile_layout_sketch_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Mobile layout sketch”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Mobile layout sketch”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-018",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Mobile layout sketch. Notice: Use graphics purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Rearrange a desktop page for a narrow screen while preserving heading order, touch targets and readable graphics.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Rearrange a desktop page for a narrow screen while preserving heading order, touch targets and readable graphics.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_1_apply",
+    "question": "A class annotation about Navigation and Readability in Online Texts describes “features helping users move through or locate information”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Navigation and Readability in Online Texts describes “features helping users move through or locate information”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-019",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 1. Notice: Apply accessibility principles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "information hierarchy",
+        "is_correct": false
+      },
+      {
+        "text": "navigation",
+        "is_correct": true
+      },
+      {
+        "text": "hyperlink",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "navigation is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_1_reason",
+    "question": "A student answers “hyperlink”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “features helping users move through or locate information”. Which term is most precise?",
+    "audio_prompt": "A student answers “hyperlink”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “features helping users move through or locate information”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-020",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 1. Notice: Apply accessibility principles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “hyperlink”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “information hierarchy” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. navigation is the precise term for this feature.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. navigation is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_2_apply",
+    "question": "A class annotation about Navigation and Readability in Online Texts describes “visual and structural ordering of importance”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Navigation and Readability in Online Texts describes “visual and structural ordering of importance”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-021",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 2. Notice: Identify navigation features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "information hierarchy",
+        "is_correct": true
+      },
+      {
+        "text": "navigation",
+        "is_correct": false
+      },
+      {
+        "text": "hyperlink",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "information hierarchy is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_2_reason",
+    "question": "A student answers “navigation”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “visual and structural ordering of importance”. Which term is most precise?",
+    "audio_prompt": "A student answers “navigation”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “visual and structural ordering of importance”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-022",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 2. Notice: Identify navigation features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “navigation”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Match the definition to the exact language or literacy concept. information hierarchy is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “hyperlink” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. information hierarchy is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_3_apply",
+    "question": "A class annotation about Navigation and Readability in Online Texts describes “interactive connection to another location or resource”. Which term is most precise?",
+    "audio_prompt": "A class annotation about Navigation and Readability in Online Texts describes “interactive connection to another location or resource”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-023",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 3. Notice: Trace reader pathways. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "navigation",
+        "is_correct": false
+      },
+      {
+        "text": "information hierarchy",
+        "is_correct": false
+      },
+      {
+        "text": "hyperlink",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "hyperlink is the precise term for this feature.",
+      "hint": "Match the definition to the exact language or literacy concept."
+    }
+  },
+  {
+    "id": "AC9E4LA05-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "skill": "vocabulary_3_reason",
+    "question": "A student answers “information hierarchy”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “interactive connection to another location or resource”. Which term is most precise?",
+    "audio_prompt": "A student answers “information hierarchy”. Which feedback helps? Task: A class annotation about Navigation and Readability in Online Texts describes “interactive connection to another location or resource”. Which term is most precise?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-p-024",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Vocabulary 3. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Match the definition to the exact language or literacy concept. hyperlink is the precise term for this feature.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “information hierarchy”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “navigation” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Match the definition to the exact language or literacy concept. hyperlink is the precise term for this feature.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "new_text_1_apply",
+    "question": "In a new assessment text, Which link text is most descriptive?",
+    "audio_prompt": "In a new assessment text, Which link text is most descriptive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-001",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "click here",
+        "is_correct": false
+      },
+      {
+        "text": "View the labelled food-chain diagram",
+        "is_correct": true
+      },
+      {
+        "text": "more",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The evidence and language purpose support “View the labelled food-chain diagram”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "new_text_1_reason",
+    "question": "A student answers “click here”. Which feedback helps? Task: In a new assessment text, Which link text is most descriptive?",
+    "audio_prompt": "A student answers “click here”. Which feedback helps? Task: In a new assessment text, Which link text is most descriptive?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-002",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “click here”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “more” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "new_text_2_apply",
+    "question": "In a new assessment text, Which feature best signals the main topic of an online article?",
+    "audio_prompt": "In a new assessment text, Which feature best signals the main topic of an online article?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-003",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "a clear headline",
+        "is_correct": true
+      },
+      {
+        "text": "a random border",
+        "is_correct": false
+      },
+      {
+        "text": "an unlabeled icon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence and language purpose support “a clear headline”.",
+      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "new_text_2_reason",
+    "question": "A student answers “an unlabeled icon”. Which feedback helps? Task: In a new assessment text, Which feature best signals the main topic of an online article?",
+    "audio_prompt": "A student answers “an unlabeled icon”. Which feedback helps? Task: In a new assessment text, Which feature best signals the main topic of an online article?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-004",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “an unlabeled icon”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “a random border” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_1_apply",
+    "question": "An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-005",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Navigation is only the top menu",
+        "is_correct": false
+      },
+      {
+        "text": "Every image improves readability",
+        "is_correct": false
+      },
+      {
+        "text": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_1_reason",
+    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-006",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every image improves readability” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_2_apply",
+    "question": "An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-007",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Every image improves readability",
+        "is_correct": false
+      },
+      {
+        "text": "Irrelevant graphics compete with information.",
+        "is_correct": true
+      },
+      {
+        "text": "Click here is always clear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Irrelevant graphics compete with information.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_2_reason",
+    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-008",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Every image improves readability” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_3_apply",
+    "question": "An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-009",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Descriptive link text identifies destination and supports accessibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Click here is always clear",
+        "is_correct": false
+      },
+      {
+        "text": "Desktop order automatically works on mobile",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Descriptive link text identifies destination and supports accessibility.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_3_reason",
+    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-010",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Desktop order automatically works on mobile” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_4_apply",
+    "question": "An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "audio_prompt": "An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-011",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Desktop order automatically works on mobile",
+        "is_correct": false
+      },
+      {
+        "text": "Navigation is only the top menu",
+        "is_correct": false
+      },
+      {
+        "text": "Responsive layouts need a logical reading and focus order.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Responsive layouts need a logical reading and focus order.",
+      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "misconception_4_reason",
+    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "audio_prompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-012",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Desktop order automatically works on mobile” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "page_pathway_trace_apply",
+    "question": "A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-013",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a question and record every menu, heading, link and visual used to find the answer.",
+        "is_correct": true
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose a question and record every menu, heading, link and visual used to find the answer.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "page_pathway_trace_reason",
+    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-014",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "link_text_repair_apply",
+    "question": "A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-015",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
+    },
+    "answers": [
+      {
+        "text": "Replace vague links with descriptive phrases and check whether they make sense out of context.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replace vague links with descriptive phrases and check whether they make sense out of context.",
+      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+    }
+  },
+  {
+    "id": "AC9E4LA05-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "test",
+    "skill": "link_text_repair_reason",
+    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
+    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-016",
+      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
+    },
+    "answers": [
+      {
+        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
+      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+    }
+  }
+]
