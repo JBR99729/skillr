@@ -82,7 +82,9 @@
     byId("profileAvatar").textContent = avatar.type === "preset" ? avatar.value : "";
     byId("profileAvatar").style.backgroundImage = avatar.type === "image" ? `url(${avatar.value})` : "";
     if (document.activeElement !== byId("learnerName")) byId("learnerName").value = state.profile.name || "";
-    byId("welcomeHeading").textContent = state.profile.name ? `Welcome, ${state.profile.name}!` : "Welcome!";
+    const learnerName = state.profile.name || "Learner";
+    byId("learnerNameDisplay").textContent = learnerName;
+    byId("editName").setAttribute("aria-label", `Edit learner name. Current name: ${learnerName}`);
     byId("activeTime").textContent = formatTime(state.activeSeconds);
     byId("questionsPractised").textContent = [...practice, ...dailyDrills].reduce((sum,item)=>sum+(Number(item.total)||0),0);
     byId("skillsCovered").textContent = skills.size;
@@ -122,7 +124,18 @@
     clearTimeout(nameSaveTimer);
     window.SkillrProgress.setName(byId("learnerName").value);
   }
-  byId("saveName").addEventListener("click", saveLatestName);
+  function closeNameEditor({ save = true } = {}) {
+    if (save) saveLatestName();
+    else render();
+    byId("profileNameEditor").hidden = true;
+    byId("editName").focus();
+  }
+  byId("editName").addEventListener("click", () => {
+    byId("profileNameEditor").hidden = false;
+    byId("learnerName").focus();
+    byId("learnerName").select();
+  });
+  byId("saveName").addEventListener("click", () => closeNameEditor());
   byId("learnerName").addEventListener("input", () => {
     clearTimeout(nameSaveTimer);
     nameSaveTimer = setTimeout(saveLatestName, 500);
@@ -131,8 +144,11 @@
   byId("learnerName").addEventListener("keydown", (event) => {
     if (event.key === "Enter") {
       event.preventDefault();
-      saveLatestName();
-      byId("learnerName").blur();
+      closeNameEditor();
+    }
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeNameEditor({ save: false });
     }
   });
   addEventListener("pagehide", saveLatestName);
@@ -153,7 +169,7 @@
   byId("saveProgress").addEventListener("click",()=>window.SkillrProgress.exportBackup());
   byId("loadProgress").addEventListener("change",async(event)=>{ try { await window.SkillrProgress.importBackup(event.target.files[0]); byId("backupMessage").textContent="Progress loaded successfully."; render(); } catch(error) { byId("backupMessage").textContent=error.message; } event.target.value=""; });
   addEventListener("beforeinstallprompt",(event)=>{ event.preventDefault(); deferredPrompt=event; });
-  byId("installButton").addEventListener("click",async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; } else { byId("backupMessage").textContent="On iPhone or iPad, tap Share then Add to Home Screen. On desktop, use the install icon in your browser address bar."; } });
+  byId("installButton").addEventListener("click",async()=>{ if(deferredPrompt){ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; } else { byId("installMessage").textContent="On iPhone or iPad, tap Share then Add to Home Screen. On desktop, use the install icon in your browser address bar."; } });
   addEventListener("skillr:progress-changed",render);
   render();
   loadCurriculumTitles();

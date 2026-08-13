@@ -1165,6 +1165,27 @@ h3 {
   .result-actions { display: none !important; }
 }
 
+.result-share-prompt {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 8px 12px;
+  margin: 20px 0;
+  padding: 17px;
+  border: 1px solid #b9d9c8;
+  border-radius: 14px;
+  background: #f2fbf6;
+  text-align: left;
+}
+.result-share-prompt > p:first-child { grid-row: 1 / span 2; margin: 0; font-size: 1.55rem; }
+.result-share-prompt h2 { margin: 0 0 4px; color: #153f30; font-size: 1.05rem; }
+.result-share-prompt > div > p { margin: 0; color: #4c695f; font-size: .86rem; line-height: 1.45; }
+.result-share-actions { grid-column: 2; display: flex; flex-wrap: wrap; gap: 7px; }
+.result-share-actions a,.result-share-actions button { display: inline-flex; min-height: 38px; padding: 8px 11px; align-items: center; border: 1px solid #a8caba; border-radius: 9px; background: #fff; color: #176747; font: 800 .78rem/1.2 Arial,sans-serif; text-decoration: none; cursor: pointer; }
+.result-share-actions a:hover,.result-share-actions button:hover,.result-share-actions a:focus-visible,.result-share-actions button:focus-visible { border-color: #4c9b79; background: #e6f7ee; }
+.result-share-status { grid-column: 2; min-height: 1em; margin: 0; color: #176747; font-size: .78rem; font-weight: 800; }
+@media(max-width:520px){.result-share-prompt{grid-template-columns:1fr}.result-share-prompt>p:first-child{grid-row:auto}.result-share-actions,.result-share-status{grid-column:1}.result-share-actions a,.result-share-actions button{flex:1 1 120px;justify-content:center}}
+@media print { .result-share-prompt { display: none!important; } }
+
 
 /* =========================================================
    VERY SMALL SCREENS
@@ -1187,6 +1208,17 @@ h3 {
   .fill-blank-input {
     width: 100px;
   }
+}
+
+/* Cross-device quiz safeguards */
+html,body { width:100%; max-width:100%; overflow-x:hidden; overflow-x:clip; -webkit-text-size-adjust:100%; text-size-adjust:100%; }
+.quiz-app,.card,.question-card,.answer-list,.answer-option,.result-card { min-width:0; }
+.question-card h2,.answer-option,.result-card h1,.result-card h2 { overflow-wrap:anywhere; }
+svg,canvas,video,iframe { max-width:100%; }
+@media(max-width:360px){
+  .quiz-app { width:calc(100% - 12px); }
+  .start-card,.result-card,.question-card { padding:16px; }
+  .button-start { width:100%; min-width:0; }
 }
 
 

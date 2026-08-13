@@ -79,7 +79,7 @@
   
 
   <!-- Site stylesheet -->
-  <link rel="stylesheet" href="/style.css?v=20260813-1">
+  <link rel="stylesheet" href="/style.css?v=20260813-2">
 
   <!-- Structured data -->
   <script type="application/ld+json">
@@ -105,6 +105,7 @@
       <div class="site-header__links">
         <a aria-current="page" href="/">Home</a>
         <a href="/dashboard/">Dashboard</a>
+        <a href="/blogs/">Blogs</a>
         <a href="/about.html">About</a>
         <a href="/contact.html">Contact</a>
       </div>
@@ -114,6 +115,7 @@
         <div class="site-header__menu-panel">
           <a aria-current="page" href="/">Home</a>
           <a href="/dashboard/">Dashboard</a>
+          <a href="/blogs/">Blogs</a>
           <a href="/about.html">About</a>
           <a href="/contact.html">Contact</a>
         </div>
@@ -137,6 +139,11 @@
               <span><strong>More than 50,000 questions</strong><small>Practice, tests and Daily Drills</small></span>
             </div>
           </div>
+
+          <a class="home-privacy-note" href="/privacy-policy.html">
+            <span aria-hidden="true">🔒</span>
+            <span><strong>Student privacy by design</strong> • No account required • Progress saved locally on this device</span>
+          </a>
 
           <search class="site-search" aria-label="Search SkillrHub learning resources">
             <form class="site-search__form" role="search" action="/sitemap.html" method="get">
@@ -193,49 +200,35 @@
       id="choose-year"
       aria-label="Foundation to Year 10 learning resources"
     >
+      <a class="learning-pathway__dashboard" href="/dashboard/" aria-label="Open Dashboard to track learning progress">
+        <span class="learning-pathway__dashboard-icon" aria-hidden="true">📊</span>
+        <span>
+          <strong>Track your progress</strong>
+          <small>View questions completed, accuracy, test scores and topics needing review</small>
+        </span>
+        <span class="learning-pathway__dashboard-action" aria-hidden="true">View dashboard →</span>
+      </a>
+
       <section class="learning-pathway" aria-labelledby="learning-pathway-title">
         <div class="learning-pathway__heading">
-          <h3 id="learning-pathway-title"><strong>Your learning pathway</strong> | Learn, practise and improve</h3>
+          <p class="learning-pathway__eyebrow">Your learning pathway</p>
+          <h3 id="learning-pathway-title">Teach, practise and assess</h3>
+          <p>Move from clear instruction to confident, independent learning.</p>
         </div>
-        <ol class="learning-pathway__steps">
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">🔎</span>
-            <span><small>1</small><strong>Explore Curriculum Topic Guide</strong></span>
+        <ol class="learning-pathway__phases">
+          <li class="learning-phase learning-phase--teach">
+            <div class="learning-phase__title"><span aria-hidden="true">📘</span><span><small>1</small><strong>Teach</strong></span></div>
+            <ul><li>Explore Topic Guides</li><li>Project Teacher Slides</li><li>Print Offline Worksheets</li></ul>
           </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">🖥️</span>
-            <span><small>2</small><strong>Teacher Slides</strong></span>
+          <li class="learning-phase learning-phase--practise">
+            <div class="learning-phase__title"><span aria-hidden="true">⚡</span><span><small>2</small><strong>Practise</strong></span></div>
+            <ul><li>Complete Daily Drills</li><li>Answer Interactive Questions</li><li>Get Instant Feedback</li></ul>
           </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">📝</span>
-            <span><small>3</small><strong>Printable Worksheets</strong></span>
-          </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">⌨️</span>
-            <span><small>4</small><strong>Online Practice &amp; Daily Drill</strong></span>
-          </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">✓</span>
-            <span><small>5</small><strong>Test</strong></span>
-          </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">🔍</span>
-            <span><small>6</small><strong>Review</strong></span>
-          </li>
-          <li>
-            <span class="learning-pathway__icon" aria-hidden="true">↻</span>
-            <span><small>7</small><strong>Retakes</strong></span>
+          <li class="learning-phase learning-phase--assess">
+            <div class="learning-phase__title"><span aria-hidden="true">🎯</span><span><small>3</small><strong>Assess</strong></span></div>
+            <ul><li>Take Topic Tests</li><li>Review Misconceptions</li><li>Use Targeted Retakes</li></ul>
           </li>
         </ol>
-
-        <a class="learning-pathway__dashboard" href="/dashboard/" aria-label="Open Dashboard to track learning progress">
-          <span class="learning-pathway__dashboard-icon" aria-hidden="true">📊</span>
-          <span>
-            <strong>Dashboard</strong>
-            <small>Track questions completed, accuracy, test scores and topics needing review</small>
-          </span>
-          <span class="learning-pathway__dashboard-action" aria-hidden="true">View dashboard →</span>
-        </a>
 
         <p class="learning-pathway__note"><strong>Complete the Daily Drill every day for best results.</strong></p>
       </section>
@@ -523,9 +516,14 @@
 
   <footer>
     <nav class="footer-nav" aria-label="Footer navigation">
+      <a href="/">Home</a>
+      <a href="/dashboard/">Dashboard</a>
+      <a href="/blogs/">Blogs</a>
+      <a href="/worksheets/">Worksheets</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
       <a href="/sitemap.html">Sitemap</a>
       <a href="/privacy-policy.html">Privacy</a>
-      <a href="/faq.html">FAQ</a>
     </nav>
 
     <p>© 2026 Skillr Education. All rights reserved.</p>

@@ -7,6 +7,11 @@
   var indexPromise;
   var activeIndex = -1;
 
+  var firstStage = document.getElementById("stage-f-2");
+  if (firstStage && window.matchMedia("(min-width: 921px)").matches) {
+    firstStage.open = true;
+  }
+
   if (!input || !results || !form) return;
 
   function normalise(value) {
