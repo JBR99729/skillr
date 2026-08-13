@@ -132,8 +132,35 @@
           .filter(function (item) {
             return item.title && item.url;
           });
+        var curriculumElaborations = (payload[1].units || []).reduce(function (items, unit) {
+          var level = unit.levelLabel || unit.level || "";
+          var subject = unit.subject || unit.learningArea || "";
+          (unit.elaborations || []).forEach(function (elaboration) {
+            var text = elaboration.text || "";
+            var code = elaboration.code || [unit.code, elaboration.number].filter(Boolean).join("_");
+            var commonFactor = /common (?:factor|divisor)/i.test(text);
+            var aliases = commonFactor
+              ? "greatest common factor highest common factor greatest common divisor gcf hcf gcd"
+              : "";
+            items.push({
+              title: commonFactor
+                ? "Greatest/Highest Common Factors (GCF/HCF/GCD) — " + code
+                : code + " — " + text,
+              url: unit.url || "",
+              meta: [level, subject, "Curriculum elaboration"].filter(Boolean).join(" · "),
+              searchable: normalise([
+                code, unit.code, text, unit.title, unit.description,
+                level, subject, aliases, unit.url
+              ].filter(Boolean).join(" ")),
+              elaboration: true
+            });
+          });
+          return items;
+        }, []).filter(function (item) {
+          return item.title && item.url;
+        });
 
-        return generalResources.concat(curriculumUnits);
+        return generalResources.concat(curriculumUnits, curriculumElaborations);
       });
 
     return indexPromise;
@@ -158,6 +185,7 @@
     terms.forEach(function (term) {
       if (title.split(" ").some(function (word) { return word.startsWith(term); })) value += 8;
     });
+    if (item.elaboration) value += 20;
     if (!item.url.startsWith("/quiz/")) value += 4;
 
     return value;
