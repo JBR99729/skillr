@@ -12,6 +12,12 @@
   <script src="/assets/foundation-elaboration-map.js?v=20260813-v11"></script>
   <script src="/assets/foundation-canonical-v1.1.js?v=20260813-v11"></script>
   <script src="/assets/foundation-v1.1-render.js?v=20260813-v11"></script>
+  <script>
+    if (String(new URLSearchParams(location.search).get("code") || "").toUpperCase() === "AC9EFLA01") {
+      document.write('<script src="/assets/foundation-ac9efla01-lesson.js?v=20260813-classroom-prototype"><\/script>');
+      document.write('<script src="/assets/foundation-ac9efla01-classroom.js?v=20260813-classroom-prototype"><\/script>');
+    }
+  </script>
 </head>
 <body data-skillr-teacher-host="true">
   <noscript>This selectable teacher-slide sequence requires JavaScript.</noscript>
