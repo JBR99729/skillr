@@ -6,6 +6,9 @@ import html
 import json
 from pathlib import Path
 
+from upper_maths_authored import HEADINGS
+from upper_maths_authoring import build_spec
+
 ROOT = Path(__file__).resolve().parents[1]
 
 # Code-specific teaching decisions. Curriculum wording and elaborations are
@@ -124,23 +127,16 @@ def build():
     out={}
     for code,row in T.items():
         title,anchor,model_title,model,apply_title,apply,ask,answer=row
-        u=units[code]; sk=strand_key(code)
-        out[code]={"code":code,"slug":u["unitSlug"],"strand":u["strand"],"title":title,"curriculum":u["description"],
-          "anchor":anchor,"modelTitle":model_title,"model":model,"applyTitle":apply_title,"application":apply,
-          "highlight":model.split("; ")[0],"ask":ask,"answer":answer,"terms":TERMS[sk],
-          "elaborations":u["elaborations"],
-          "boundary":{"mustTeach":u["description"],"prerequisites":"Recall relevant Year 7 representations, operations and vocabulary before formalising the Year 8 relationship.","maySupportInformally":"Use digital tools to test, visualise and verify after the mathematical structure is made explicit.","mustNotOverteach":"Do not introduce later-year formalism or procedures that are not needed to reason about this content description."},
-          "levels":{"support":"Use a labelled worked model and sentence starters; reduce numerical complexity without reducing the reasoning goal.","core":"Connect at least two representations, justify the method and complete an independent verification.","extend":"Generalise, test a boundary case or counterexample, and evaluate the model's assumptions or limitations."},
-          "misconceptions":[["Procedure without conditions","Return to the model and name when the rule applies."],["Representation copied but not interpreted","Connect each symbol, label or feature to the quantity and relationship."],["Answer left unchecked","Use an inverse, estimate, substitution, second representation or simulation check."]]}
-        if code in TEACHING_SLIDES:
-            out[code]["teachingSlides"] = TEACHING_SLIDES[code]
-    js="window.SkillrYear8MathsData="+json.dumps(out,ensure_ascii=False,separators=(",",":"))+";\n"
+        u=units[code]
+        out[code]=build_spec(u,title,anchor,HEADINGS[code],TEACHING_SLIDES.get(code))
+    payload=json.dumps(out,ensure_ascii=False,separators=(",",":"))
+    js="window.SkillrUpperMathsData="+payload+";window.SkillrYear8MathsData=window.SkillrUpperMathsData;\n"
     (ROOT/"assets/year8-maths-data.js").write_text(js)
     for code,u in units.items():
         p=ROOT/u["url"].lstrip("/")/"index.html"
         spec=out[code]
         desc=html.escape(u["description"],quote=True); title=html.escape(spec["title"],quote=True)
-        page=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>{code} {title} | Year 8 Maths Topic Guide</title><meta name="description" content="{code} Year 8 Maths topic guide: {desc}"><meta name="robots" content="index,follow"><link rel="canonical" href="https://skillrhub.com{u['url']}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/year8-maths.css?v=2"></head><body><main id="year8Topic"><p class="loading">Loading {code} topic guide…</p></main><script>window.skillrPageMeta={{curriculumCode:"{code}",pageType:"topic guide",year:"Year 8",subject:"Maths"}};</script><script src="/assets/year8-maths-data.js?v=2"></script><script src="/assets/year8-maths-render.js?v=2"></script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script></body></html>'''
+        page=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>{code} {title} | Year 8 Maths Topic Guide</title><meta name="description" content="{code} Year 8 Maths topic guide: {desc}"><meta name="robots" content="index,follow"><link rel="canonical" href="https://skillrhub.com{u['url']}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/assets/year8-maths.css?v=3"></head><body><main id="year8Topic"><p class="loading">Loading {code} topic guide…</p></main><script>window.skillrPageMeta={{curriculumCode:"{code}",pageType:"topic guide",year:"Year 8",subject:"Maths"}};</script><script src="/assets/year8-maths-data.js?v=3"></script><script src="/assets/year8-maths-render.js?v=3"></script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script></body></html>'''
         p.write_text(page)
     hub=ROOT/"year8/curriculum/maths/index.html"
     hub_text=hub.read_text()
@@ -149,5 +145,7 @@ def build():
         new=f'/worksheets/year8/maths/teacher-slides/live.html?code={code}'
         hub_text=hub_text.replace(old,new).replace('>Worksheet<','>Practice Sheet<')
     hub.write_text(hub_text)
+    live=ROOT/"worksheets/year8/maths/teacher-slides/live.html"
+    live.write_text(live.read_text().replace("?v=2","?v=3"))
 
 if __name__=="__main__": build()
