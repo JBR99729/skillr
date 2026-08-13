@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which interpretation is best supported?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-001",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a class investigation, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
     },
     "answers": [
       "Cells are the basic units of living things; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, students are considering how the invention of the microscope has contributed to understanding of cell structure. Which response applies the scaleJourney model most accurately?",
-    "audioPrompt": "During a museum evidence display, students are considering how the invention of the microscope has contributed to understanding of cell structure. Which response applies the scaleJourney model most accurately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, students are considering how the invention of the microscope has contributed to understanding of cell structure. Which response applies the scaleJourney model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, students are considering how the invention of the microscope has contributed to understanding of cell structure. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-002",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, students are considering how the invention of the microscope has contributed to understanding of cell structure. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a museum evidence display, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
     },
     "answers": [
       "; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. Which conclusion uses evidence appropriately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-003",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a field-team briefing, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, the evidence states, “Designing a physical or digital model of a cell and explaining how the representation models the cell.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, the evidence states, “Designing a physical or digital model of a cell and explaining how the representation models the cell.”. What is the strongest scientific response to this result?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Designing a physical or digital model of a cell and explaining how the representation models the cell.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Designing a physical or digital model of a cell and explaining how the representation models the cell.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-004",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Designing a physical or digital model of a cell and explaining how the representation models the cell.”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a laboratory notebook, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
@@ -123,14 +123,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-005\"></use></svg>",
+    "question": "A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-005",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that plant and animal cells can be compared using visible evidence and scientifically useful models. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: A community science meeting for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "; the same outcome must therefore occur in every setting",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which interpretation is best supported?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-006",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a digital model review, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
     },
     "answers": [
       "; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, the evidence states, “Plant-cell models also show a cell wall.”. Which response applies the scaleJourney model most accurately?",
-    "audioPrompt": "During a student research poster, the evidence states, “Plant-cell models also show a cell wall.”. Which response applies the scaleJourney model most accurately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Plant-cell models also show a cell wall.”. Which response applies the scaleJourney model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Plant-cell models also show a cell wall.”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-007",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Plant-cell models also show a cell wall.”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a student research poster, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
     },
     "answers": [
       "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare evidence with scientific conclusion. Students are examining a variety of cells. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare evidence with scientific conclusion. Students are examining a variety of cells. Which conclusion uses evidence appropriately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. Students are examining a variety of cells. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. Students are examining a variety of cells. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-008",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. Students are examining a variety of cells. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In an engineering design check, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, the evidence states, “The nucleus.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, the evidence states, “The nucleus.”. What is the strongest scientific response to this result?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “The nucleus.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “The nucleus.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-009",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “The nucleus.”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a data-team discussion, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Inside Plant and Animal Cells reports that identifying the structure and function of organelles in cells including the nucleus. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Inside Plant and Animal Cells reports that identifying the structure and function of organelles in cells including the nucleus. Which revision would make the reasoning most reliable?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that identifying the structure and function of organelles in cells including the nucleus. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that identifying the structure and function of organelles in cells including the nucleus. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-010\"></use></svg>",
+    "question": "A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-010",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that identifying the structure and function of organelles in cells including the nucleus. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: A school science report for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports microscopes extended human observation and changed scientific understanding of cells, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, the evidence states, “Cells are the basic units of living things.”. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, the evidence states, “Cells are the basic units of living things.”. Which interpretation is best supported?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-011",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things.”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a council evidence summary, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
     },
     "answers": [
       "; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which response applies the scaleJourney model most accurately?",
-    "audioPrompt": "During a peer-review conversation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which response applies the scaleJourney model most accurately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which response applies the scaleJourney model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-012",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a peer-review conversation, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
     },
     "answers": [
       "; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare observation with evidence. Students are considering how the invention of the microscope has contributed to understanding of cell structure. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare observation with evidence. Students are considering how the invention of the microscope has contributed to understanding of cell structure. Which conclusion uses evidence appropriately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. Students are considering how the invention of the microscope has contributed to understanding of cell structure. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. Students are considering how the invention of the microscope has contributed to understanding of cell structure. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-013",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. Students are considering how the invention of the microscope has contributed to understanding of cell structure. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In an environmental monitoring project, students compare observation with evidence. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links observation with evidence, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, the evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, the evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. What is the strongest scientific response to this result?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-014",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Microscopes extended human observation and changed scientific understanding of cells.”. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a medical research case, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Inside Plant and Animal Cells reports that designing a physical or digital model of a cell and explaining how the representation models the cell. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Inside Plant and Animal Cells reports that designing a physical or digital model of a cell and explaining how the representation models the cell. Which revision would make the reasoning most reliable?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that designing a physical or digital model of a cell and explaining how the representation models the cell. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that designing a physical or digital model of a cell and explaining how the representation models the cell. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-015\"></use></svg>",
+    "question": "A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-015",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that designing a physical or digital model of a cell and explaining how the representation models the cell. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: A science-news fact check for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models.”. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models.”. Which interpretation is best supported?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-016",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Plant and animal cells can be compared using visible evidence and scientifically useful models.”. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: In a classroom model test, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
     },
     "answers": [
       "Cells are the basic units of living things; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which response applies the scaleJourney model most accurately?",
-    "audioPrompt": "During a regional planning workshop, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which response applies the scaleJourney model most accurately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which response applies the scaleJourney model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-017",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Comparing the similarities and differences of plant cells and animal cells visible with a light.”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: During a regional planning workshop, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
     },
     "answers": [
       "; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Plant-cell models also show a cell wall.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Plant-cell models also show a cell wall.”. Which conclusion uses evidence appropriately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Plant-cell models also show a cell wall.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Plant-cell models also show a cell wall.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-018",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Plant-cell models also show a cell wall.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In an equipment selection task, students compare scientific conclusion with observation. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, students are examining a variety of cells. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, students are examining a variety of cells. What is the strongest scientific response to this result?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, students are examining a variety of cells. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, students are examining a variety of cells. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-019",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, students are examining a variety of cells. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a public information draft, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that plant and animal cells can be compared using visible evidence and scientifically useful models",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Inside Plant and Animal Cells reports that the nucleus. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Inside Plant and Animal Cells reports that the nucleus. Which revision would make the reasoning most reliable?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that the nucleus. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that the nucleus. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-020\"></use></svg>",
+    "question": "An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-020",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that the nucleus. Which revision would make the reasoning most reliable?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: An independent replication study for Inside Plant and Animal Cells reports that cells are the basic units of living things. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are identifying the structure and function of organelles in cells including the nucleus. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are identifying the structure and function of organelles in cells including the nucleus. Which interpretation is best supported?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, students are identifying the structure and function of organelles in cells including the nucleus. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, students are identifying the structure and function of organelles in cells including the nucleus. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-021",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, students are identifying the structure and function of organelles in cells including the nucleus. Which interpretation is best supported?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: In a risk-assessment meeting, the evidence states, “Cells are the basic units of living things”. Which interpretation is best supported?"
     },
     "answers": [
       "; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney observation",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things.”. Which response applies the scaleJourney model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things.”. Which response applies the scaleJourney model most accurately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things.”. Which response applies the scaleJourney model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things.”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-022",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things.”. Which response applies the scaleJourney model most accurately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is observation. Question context: During a graph interpretation task, the evidence states, “Cells are the basic units of living things”. Which response applies the scaleJourney model most accurately?"
     },
     "answers": [
       "The observation supports the idea that the nucleus, cell membrane and cytoplasm are represented in both plant and animal cells, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney evidence",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. Students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. Students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which conclusion uses evidence appropriately?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. Students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. Students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-023",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. Students are exploring an augmented or virtual reality tour of a plant or animal to ‘zoom in’ and understand the. Which conclusion uses evidence appropriately?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is evidence. Question context: In a claim-evidence-reasoning response, students compare evidence with scientific conclusion. The evidence states, “Cells are the basic units of living things”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "scalejourney scientific conclusion",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, students are considering how the invention of the microscope has contributed to understanding of cell structure. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, students are considering how the invention of the microscope has contributed to understanding of cell structure. What is the strongest scientific response to this result?",
-    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, students are considering how the invention of the microscope has contributed to understanding of cell structure. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, students are considering how the invention of the microscope has contributed to understanding of cell structure. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visual": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u01.svg#ac9s8u01-p-024",
-      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, students are considering how the invention of the microscope has contributed to understanding of cell structure. What is the strongest scientific response to this result?"
+      "alt_text": "Inside Plant and Animal Cells evidence model linking observation, evidence, scientific conclusion. The highlighted stage is scientific conclusion. Question context: During a scientific-method audit, the evidence states, “Cells are the basic units of living things”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",

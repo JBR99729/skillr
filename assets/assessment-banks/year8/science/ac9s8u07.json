@@ -6,12 +6,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a class investigation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which interpretation is best supported?",
-    "audio_prompt": "In a class investigation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which interpretation is best supported?",
+    "question": "In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
+    "audio_prompt": "In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-001",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a class investigation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a class investigation, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -40,12 +40,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a museum evidence display, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a museum evidence display, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which response applies the compare model most accurately?",
+    "question": "During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-002",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a museum evidence display, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a museum evidence display, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -74,12 +74,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations.”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations.”. Which conclusion uses evidence appropriately?",
+    "question": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-003",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a field-team briefing, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -108,12 +108,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a laboratory notebook, students are discussing where indicators of chemical change are used for identifying the presence of particular. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a laboratory notebook, students are discussing where indicators of chemical change are used for identifying the presence of particular. What is the strongest scientific response to this result?",
+    "question": "During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-004",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a laboratory notebook, students are discussing where indicators of chemical change are used for identifying the presence of particular. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a laboratory notebook, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -176,12 +176,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a digital model review, students are examining how the physical and chemical properties of a substance will affect its production or use. Which interpretation is best supported?",
-    "audio_prompt": "In a digital model review, students are examining how the physical and chemical properties of a substance will affect its production or use. Which interpretation is best supported?",
+    "question": "In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
+    "audio_prompt": "In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-006",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a digital model review, students are examining how the physical and chemical properties of a substance will affect its production or use. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a digital model review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -210,12 +210,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a student research poster, the evidence states, “Physical changes do not create a new substance.”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a student research poster, the evidence states, “Physical changes do not create a new substance.”. Which response applies the compare model most accurately?",
+    "question": "During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-007",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a student research poster, the evidence states, “Physical changes do not create a new substance.”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a student research poster, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -244,12 +244,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an engineering design check, students compare new substance evidence with temperature change. Students are investigating and identifying energy changes in different chemical reactions such as differences in. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an engineering design check, students compare new substance evidence with temperature change. Students are investigating and identifying energy changes in different chemical reactions such as differences in. Which conclusion uses evidence appropriately?",
+    "question": "In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-008",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an engineering design check, students compare new substance evidence with temperature change. Students are investigating and identifying energy changes in different chemical reactions such as differences in. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an engineering design check, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -278,12 +278,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a data-team discussion, the evidence states, “One observation alone is not always conclusive.”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a data-team discussion, the evidence states, “One observation alone is not always conclusive.”. What is the strongest scientific response to this result?",
+    "question": "During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-009",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a data-team discussion, the evidence states, “One observation alone is not always conclusive.”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a data-team discussion, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -312,12 +312,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "A school science report for Has a New Substance Formed? reports that analysing and interpreting data on the properties of substances before and after the substances interact. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A school science report for Has a New Substance Formed? reports that analysing and interpreting data on the properties of substances before and after the substances interact. Which revision would make the reasoning most reliable?",
+    "question": "A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-010",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A school science report for Has a New Substance Formed? reports that analysing and interpreting data on the properties of substances before and after the substances interact. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A school science report for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -346,12 +346,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a council evidence summary, the evidence states, “Gas production and changed properties support formation of new substances.”. Which interpretation is best supported?",
-    "audio_prompt": "In a council evidence summary, the evidence states, “Gas production and changed properties support formation of new substances.”. Which interpretation is best supported?",
+    "question": "In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
+    "audio_prompt": "In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-011",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a council evidence summary, the evidence states, “Gas production and changed properties support formation of new substances.”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a council evidence summary, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -380,12 +380,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a peer-review conversation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a peer-review conversation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which response applies the compare model most accurately?",
+    "question": "During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-012",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a peer-review conversation, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a peer-review conversation, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -414,12 +414,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which conclusion uses evidence appropriately?",
+    "question": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-013",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an environmental monitoring project, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -448,12 +448,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a medical research case, the evidence states, “Energy evidence must be interpreted with other observations.”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a medical research case, the evidence states, “Energy evidence must be interpreted with other observations.”. What is the strongest scientific response to this result?",
+    "question": "During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-014",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a medical research case, the evidence states, “Energy evidence must be interpreted with other observations.”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a medical research case, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -482,12 +482,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "A science-news fact check for Has a New Substance Formed? reports that discussing where indicators of chemical change are used for identifying the presence of particular. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A science-news fact check for Has a New Substance Formed? reports that discussing where indicators of chemical change are used for identifying the presence of particular. Which revision would make the reasoning most reliable?",
+    "question": "A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-015",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A science-news fact check for Has a New Substance Formed? reports that discussing where indicators of chemical change are used for identifying the presence of particular. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A science-news fact check for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -516,12 +516,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a classroom model test, the evidence states, “Indicators include gas.”. Which interpretation is best supported?",
-    "audio_prompt": "In a classroom model test, the evidence states, “Indicators include gas.”. Which interpretation is best supported?",
+    "question": "In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?",
+    "audio_prompt": "In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-016",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a classroom model test, the evidence states, “Indicators include gas.”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a classroom model test, the evidence states, “Physical changes do not create a new substance”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -550,12 +550,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a regional planning workshop, students are examining how the physical and chemical properties of a substance will affect its production or use. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a regional planning workshop, students are examining how the physical and chemical properties of a substance will affect its production or use. Which response applies the compare model most accurately?",
+    "question": "During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-017",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a regional planning workshop, students are examining how the physical and chemical properties of a substance will affect its production or use. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a regional planning workshop, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -584,12 +584,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance.”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance.”. Which conclusion uses evidence appropriately?",
+    "question": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-018",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In an equipment selection task, students compare new substance evidence with temperature change. The evidence states, “Energy evidence must be interpreted with other observations”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -618,12 +618,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a public information draft, students are investigating and identifying energy changes in different chemical reactions such as differences in. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a public information draft, students are investigating and identifying energy changes in different chemical reactions such as differences in. What is the strongest scientific response to this result?",
+    "question": "During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-019",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a public information draft, students are investigating and identifying energy changes in different chemical reactions such as differences in. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a public information draft, the evidence states, “One observation alone is not always conclusive”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -652,12 +652,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_test_and_inference",
-    "question": "An independent replication study for Has a New Substance Formed? reports that one observation alone is not always conclusive. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "An independent replication study for Has a New Substance Formed? reports that one observation alone is not always conclusive. Which revision would make the reasoning most reliable?",
+    "question": "An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-020",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: An independent replication study for Has a New Substance Formed? reports that one observation alone is not always conclusive. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: An independent replication study for Has a New Substance Formed? reports that check whether the substance identity changes. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -686,12 +686,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_physical_change",
-    "question": "In a risk-assessment meeting, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which interpretation is best supported?",
-    "audio_prompt": "In a risk-assessment meeting, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which interpretation is best supported?",
+    "question": "In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?",
+    "audio_prompt": "In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-021",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a risk-assessment meeting, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a risk-assessment meeting, the evidence states, “Indicators include gas”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -720,12 +720,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_chemical_change",
-    "question": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances.”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances.”. Which response applies the compare model most accurately?",
+    "question": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-022",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances.”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a graph interpretation task, the evidence states, “Gas production and changed properties support formation of new substances”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -754,12 +754,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_new_substance_evidence",
-    "question": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. Students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. Students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which conclusion uses evidence appropriately?",
+    "question": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-023",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. Students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a claim-evidence-reasoning response, students compare new substance evidence with temperature change. The evidence states, “Ask whether mixing”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -788,12 +788,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "practice",
     "skill": "compare_temperature_change",
-    "question": "During a scientific-method audit, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a scientific-method audit, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. What is the strongest scientific response to this result?",
+    "question": "During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-p-024",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a scientific-method audit, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change.”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a scientific-method audit, the evidence states, “Physical changes do not create a new substance”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -822,12 +822,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A new research proposal for Has a New Substance Formed? reports that investigating and identifying energy changes in different chemical reactions such as differences in. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A new research proposal for Has a New Substance Formed? reports that investigating and identifying energy changes in different chemical reactions such as differences in. Which revision would make the reasoning most reliable?",
+    "question": "A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-001",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A new research proposal for Has a New Substance Formed? reports that investigating and identifying energy changes in different chemical reactions such as differences in. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A new research proposal for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -856,12 +856,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a cross-school data comparison, the evidence states, “One observation alone is not always conclusive.”. Which interpretation is best supported?",
-    "audio_prompt": "In a cross-school data comparison, the evidence states, “One observation alone is not always conclusive.”. Which interpretation is best supported?",
+    "question": "In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
+    "audio_prompt": "In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-002",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a cross-school data comparison, the evidence states, “One observation alone is not always conclusive.”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a cross-school data comparison, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -890,12 +890,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During a technology evaluation panel, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a technology evaluation panel, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which response applies the compare model most accurately?",
+    "question": "During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-003",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a technology evaluation panel, students are analysing and interpreting data on the properties of substances before and after the substances interact. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a technology evaluation panel, the evidence states, “Energy evidence must be interpreted with other observations”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -924,12 +924,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “Gas production and changed properties support formation of new substances.”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “Gas production and changed properties support formation of new substances.”. Which conclusion uses evidence appropriately?",
+    "question": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-004",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “Gas production and changed properties support formation of new substances.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a science exhibition caption, students compare new substance evidence with temperature change. The evidence states, “One observation alone is not always conclusive”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -958,12 +958,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a policy evidence hearing, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a policy evidence hearing, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. What is the strongest scientific response to this result?",
+    "question": "During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-005",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a policy evidence hearing, students are performing simple chemical reactions to identify the indicators of chemical change such as gas production. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a policy evidence hearing, the evidence states, “Check whether the substance identity changes”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -992,12 +992,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A controlled follow-up investigation for Has a New Substance Formed? reports that vinegar and bicarbonate produce bubbles and a temperature change. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A controlled follow-up investigation for Has a New Substance Formed? reports that vinegar and bicarbonate produce bubbles and a temperature change. Which revision would make the reasoning most reliable?",
+    "question": "A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-006",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A controlled follow-up investigation for Has a New Substance Formed? reports that vinegar and bicarbonate produce bubbles and a temperature change. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A controlled follow-up investigation for Has a New Substance Formed? reports that indicators include gas. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -1026,12 +1026,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a model limitations review, the evidence states, “Energy evidence must be interpreted with other observations.”. Which interpretation is best supported?",
-    "audio_prompt": "In a model limitations review, the evidence states, “Energy evidence must be interpreted with other observations.”. Which interpretation is best supported?",
+    "question": "In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
+    "audio_prompt": "In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-007",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a model limitations review, the evidence states, “Energy evidence must be interpreted with other observations.”. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a model limitations review, the evidence states, “Gas production and changed properties support formation of new substances”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -1060,12 +1060,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During an ethics committee discussion, students are discussing where indicators of chemical change are used for identifying the presence of particular. Which response applies the compare model most accurately?",
-    "audio_prompt": "During an ethics committee discussion, students are discussing where indicators of chemical change are used for identifying the presence of particular. Which response applies the compare model most accurately?",
+    "question": "During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-008",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During an ethics committee discussion, students are discussing where indicators of chemical change are used for identifying the presence of particular. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During an ethics committee discussion, the evidence states, “Ask whether mixing”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -1094,12 +1094,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas.”. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas.”. Which conclusion uses evidence appropriately?",
+    "question": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-009",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a coastal field station report, students compare new substance evidence with temperature change. The evidence states, “Physical changes do not create a new substance”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -1128,12 +1128,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a renewable-energy trial, students are examining how the physical and chemical properties of a substance will affect its production or use. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a renewable-energy trial, students are examining how the physical and chemical properties of a substance will affect its production or use. What is the strongest scientific response to this result?",
+    "question": "During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-010",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a renewable-energy trial, students are examining how the physical and chemical properties of a substance will affect its production or use. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a renewable-energy trial, the evidence states, “Vinegar and bicarbonate produce bubbles and a temperature change”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -1162,12 +1162,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A hospital innovation briefing for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A hospital innovation briefing for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?",
+    "question": "A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-011",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A hospital innovation briefing for Has a New Substance Formed? reports that physical changes do not create a new substance. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A hospital innovation briefing for Has a New Substance Formed? reports that energy evidence must be interpreted with other observations. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {
@@ -1196,12 +1196,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_physical_change",
-    "question": "In a geological survey update, students are investigating and identifying energy changes in different chemical reactions such as differences in. Which interpretation is best supported?",
-    "audio_prompt": "In a geological survey update, students are investigating and identifying energy changes in different chemical reactions such as differences in. Which interpretation is best supported?",
+    "question": "In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
+    "audio_prompt": "In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-012",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a geological survey update, students are investigating and identifying energy changes in different chemical reactions such as differences in. Which interpretation is best supported?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is physical change. Question context: In a geological survey update, the evidence states, “One observation alone is not always conclusive”. Which interpretation is best supported?"
     },
     "answers": [
       {
@@ -1230,12 +1230,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_chemical_change",
-    "question": "During a materials-testing laboratory, the evidence states, “One observation alone is not always conclusive.”. Which response applies the compare model most accurately?",
-    "audio_prompt": "During a materials-testing laboratory, the evidence states, “One observation alone is not always conclusive.”. Which response applies the compare model most accurately?",
+    "question": "During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
+    "audio_prompt": "During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-013",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a materials-testing laboratory, the evidence states, “One observation alone is not always conclusive.”. Which response applies the compare model most accurately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is chemical change. Question context: During a materials-testing laboratory, the evidence states, “Check whether the substance identity changes”. Which response applies the compare model most accurately?"
     },
     "answers": [
       {
@@ -1264,12 +1264,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_new_substance_evidence",
-    "question": "In a documentary planning session, students compare new substance evidence with temperature change. Students are analysing and interpreting data on the properties of substances before and after the substances interact. Which conclusion uses evidence appropriately?",
-    "audio_prompt": "In a documentary planning session, students compare new substance evidence with temperature change. Students are analysing and interpreting data on the properties of substances before and after the substances interact. Which conclusion uses evidence appropriately?",
+    "question": "In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
+    "audio_prompt": "In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-014",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a documentary planning session, students compare new substance evidence with temperature change. Students are analysing and interpreting data on the properties of substances before and after the substances interact. Which conclusion uses evidence appropriately?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is new substance evidence. Question context: In a documentary planning session, students compare new substance evidence with temperature change. The evidence states, “Indicators include gas”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       {
@@ -1298,12 +1298,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_temperature_change",
-    "question": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances.”. What is the strongest scientific response to this result?",
-    "audio_prompt": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances.”. What is the strongest scientific response to this result?",
+    "question": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
+    "audio_prompt": "During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-015",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances.”. What is the strongest scientific response to this result?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is temperature change. Question context: During a national data-set review, the evidence states, “Gas production and changed properties support formation of new substances”. What is the strongest scientific response to this result?"
     },
     "answers": [
       {
@@ -1332,12 +1332,12 @@
     "curriculum_code": "AC9S8U07",
     "bank": "test",
     "skill": "compare_test_and_inference",
-    "question": "A final evidence conference for Has a New Substance Formed? reports that performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which revision would make the reasoning most reliable?",
-    "audio_prompt": "A final evidence conference for Has a New Substance Formed? reports that performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which revision would make the reasoning most reliable?",
+    "question": "A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
+    "audio_prompt": "A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u07.svg#ac9s8u07-t-016",
-      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A final evidence conference for Has a New Substance Formed? reports that performing simple chemical reactions to identify the indicators of chemical change such as gas production. Which revision would make the reasoning most reliable?"
+      "alt_text": "Has a New Substance Formed? evidence model linking physical change, chemical change, new substance evidence, temperature change, test and inference. The highlighted stage is test and inference. Question context: A final evidence conference for Has a New Substance Formed? reports that ask whether mixing. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       {

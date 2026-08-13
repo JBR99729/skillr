@@ -7,14 +7,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a class investigation, students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which interpretation is best supported?",
-    "audioPrompt": "In a class investigation, students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-001\"></use></svg>",
+    "question": "In a class investigation, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
+    "audioPrompt": "In a class investigation, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, the evidence states, “A box contains identical particles”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, the evidence states, “A box contains identical particles”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-001",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a class investigation, the evidence states, “A box contains identical particles”. Which interpretation is best supported?"
     },
     "answers": [
       "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances; this interpretation can be checked against further evidence",
@@ -36,14 +36,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a museum evidence display, students are creating a timeline or models to show how the concept of an element has changed over time from. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a museum evidence display, students are creating a timeline or models to show how the concept of an element has changed over time from. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, students are creating a timeline or models to show how the concept of an element has changed over time from. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, students are creating a timeline or models to show how the concept of an element has changed over time from. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-002\"></use></svg>",
+    "question": "During a museum evidence display, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
+    "audioPrompt": "During a museum evidence display, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-002",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, students are creating a timeline or models to show how the concept of an element has changed over time from. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a museum evidence display, the evidence states, “Symbols and formulas communicate composition efficiently”. Which response applies the particle model most accurately?"
     },
     "answers": [
       "A formula is a picture of shape; the wider pattern does not need to be considered",
@@ -65,14 +65,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In a field-team briefing, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a field-team briefing, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations.”. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-003\"></use></svg>",
+    "question": "In a field-team briefing, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a field-team briefing, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-003",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a field-team briefing, students compare mixture with particle model. The evidence states, “The formula records ratio”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -94,14 +94,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a laboratory notebook, students are using representations to show the classification of matter as elements. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a laboratory notebook, students are using representations to show the classification of matter as elements. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, students are using representations to show the classification of matter as elements. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, students are using representations to show the classification of matter as elements. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-004\"></use></svg>",
+    "question": "During a laboratory notebook, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a laboratory notebook, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-004",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, students are using representations to show the classification of matter as elements. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a laboratory notebook, the evidence states, “Separate composition and ratio from three-dimensional geometry”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances",
@@ -123,14 +123,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A community science meeting for Classify Matter with Particle Models reports that the formula records ratio. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A community science meeting for Classify Matter with Particle Models reports that the formula records ratio. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that the formula records ratio. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that the formula records ratio. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-005\"></use></svg>",
+    "question": "A community science meeting for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A community science meeting for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-005",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that the formula records ratio. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A community science meeting for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A compound is any sample with several atom types; the same outcome must therefore occur in every setting",
@@ -152,14 +152,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a digital model review, students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which interpretation is best supported?",
-    "audioPrompt": "In a digital model review, students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-006\"></use></svg>",
+    "question": "In a digital model review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
+    "audioPrompt": "In a digital model review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-006",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a digital model review, the evidence states, “Because every particle has two atom types chemically joined”. Which interpretation is best supported?"
     },
     "answers": [
       "A formula is a picture of shape; one matching observation makes this explanation certain",
@@ -181,14 +181,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a student research poster, the evidence states, “A box contains identical particles.”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a student research poster, the evidence states, “A box contains identical particles.”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “A box contains identical particles.”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “A box contains identical particles.”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-007\"></use></svg>",
+    "question": "During a student research poster, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
+    "audioPrompt": "During a student research poster, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-007",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “A box contains identical particles.”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a student research poster, the evidence states, “Check whether different atoms are chemically joined in identical particles”. Which response applies the particle model most accurately?"
     },
     "answers": [
       "The observation supports the idea that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, within the limits of the investigation",
@@ -210,14 +210,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In an engineering design check, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an engineering design check, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently.”. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-008\"></use></svg>",
+    "question": "In an engineering design check, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an engineering design check, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-008",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an engineering design check, students compare mixture with particle model. The evidence states, “Elements contain one type of atom”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -239,14 +239,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a data-team discussion, students are examining the information conveyed by different types of representations of elements and compounds and. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a data-team discussion, students are examining the information conveyed by different types of representations of elements and compounds and. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, students are examining the information conveyed by different types of representations of elements and compounds and. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, students are examining the information conveyed by different types of representations of elements and compounds and. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-009\"></use></svg>",
+    "question": "During a data-team discussion, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a data-team discussion, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-009",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, students are examining the information conveyed by different types of representations of elements and compounds and. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a data-team discussion, the evidence states, “A box contains identical particles”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -268,14 +268,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A school science report for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A school science report for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-010\"></use></svg>",
+    "question": "A school science report for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A school science report for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-010",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that elements contain one type of atom. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A school science report for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, but it does not prove that every case will be identical",
@@ -297,14 +297,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a council evidence summary, students are explaining why elements are represented by symbols. Which interpretation is best supported?",
-    "audioPrompt": "In a council evidence summary, students are explaining why elements are represented by symbols. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, students are explaining why elements are represented by symbols. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, students are explaining why elements are represented by symbols. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-011\"></use></svg>",
+    "question": "In a council evidence summary, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
+    "audioPrompt": "In a council evidence summary, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, the evidence states, “The formula records ratio”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, the evidence states, “The formula records ratio”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-011",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, students are explaining why elements are represented by symbols. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a council evidence summary, the evidence states, “The formula records ratio”. Which interpretation is best supported?"
     },
     "answers": [
       "A compound is any sample with several atom types; one matching observation makes this explanation certain",
@@ -326,14 +326,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a peer-review conversation, the evidence states, “Because every particle has two atom types chemically joined.”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a peer-review conversation, the evidence states, “Because every particle has two atom types chemically joined.”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Because every particle has two atom types chemically joined.”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Because every particle has two atom types chemically joined.”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-012\"></use></svg>",
+    "question": "During a peer-review conversation, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
+    "audioPrompt": "During a peer-review conversation, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-012",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Because every particle has two atom types chemically joined.”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a peer-review conversation, the evidence states, “Separate composition and ratio from three-dimensional geometry”. Which response applies the particle model most accurately?"
     },
     "answers": [
       "A formula is a picture of shape; the wider pattern does not need to be considered",
@@ -355,14 +355,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In an environmental monitoring project, students compare mixture with particle model. Students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an environmental monitoring project, students compare mixture with particle model. Students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. Students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. Students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-013\"></use></svg>",
+    "question": "In an environmental monitoring project, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an environmental monitoring project, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-013",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. Students are using virtual and physical models to distinguish between elements and compounds in terms of types of. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an environmental monitoring project, students compare mixture with particle model. The evidence states, “Representations show different information and have limitations”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links mixture with particle model, so it can explain the relationship while still having limits",
@@ -384,14 +384,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a medical research case, students are creating a timeline or models to show how the concept of an element has changed over time from. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a medical research case, students are creating a timeline or models to show how the concept of an element has changed over time from. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, students are creating a timeline or models to show how the concept of an element has changed over time from. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, students are creating a timeline or models to show how the concept of an element has changed over time from. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-014\"></use></svg>",
+    "question": "During a medical research case, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a medical research case, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-014",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, students are creating a timeline or models to show how the concept of an element has changed over time from. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a medical research case, the evidence states, “Because every particle has two atom types chemically joined”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -413,14 +413,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "A science-news fact check for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A science-news fact check for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-015\"></use></svg>",
+    "question": "A science-news fact check for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A science-news fact check for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-015",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that representations show different information and have limitations. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: A science-news fact check for Classify Matter with Particle Models reports that check whether different atoms are chemically joined in identical particles. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A compound is any sample with several atom types; the same outcome must therefore occur in every setting",
@@ -442,14 +442,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a classroom model test, students are using representations to show the classification of matter as elements. Which interpretation is best supported?",
-    "audioPrompt": "In a classroom model test, students are using representations to show the classification of matter as elements. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, students are using representations to show the classification of matter as elements. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, students are using representations to show the classification of matter as elements. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-016\"></use></svg>",
+    "question": "In a classroom model test, the evidence states, “Elements contain one type of atom”. Which interpretation is best supported?",
+    "audioPrompt": "In a classroom model test, the evidence states, “Elements contain one type of atom”. Which interpretation is best supported?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, the evidence states, “Elements contain one type of atom”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, the evidence states, “Elements contain one type of atom”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-016",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, students are using representations to show the classification of matter as elements. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a classroom model test, the evidence states, “Elements contain one type of atom”. Which interpretation is best supported?"
     },
     "answers": [
       "Elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances; this interpretation can be checked against further evidence",
@@ -471,14 +471,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a regional planning workshop, the evidence states, “The formula records ratio.”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a regional planning workshop, the evidence states, “The formula records ratio.”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “The formula records ratio.”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “The formula records ratio.”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-017\"></use></svg>",
+    "question": "During a regional planning workshop, the evidence states, “A box contains identical particles”. Which response applies the particle model most accurately?",
+    "audioPrompt": "During a regional planning workshop, the evidence states, “A box contains identical particles”. Which response applies the particle model most accurately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “A box contains identical particles”. Which response applies the particle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “A box contains identical particles”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-017\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-017",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “The formula records ratio.”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a regional planning workshop, the evidence states, “A box contains identical particles”. Which response applies the particle model most accurately?"
     },
     "answers": [
       "A compound is any sample with several atom types; the wider pattern does not need to be considered",
@@ -500,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In an equipment selection task, students compare mixture with particle model. Students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In an equipment selection task, students compare mixture with particle model. Students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. Students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. Students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-018\"></use></svg>",
+    "question": "In an equipment selection task, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In an equipment selection task, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently”. Which conclusion uses evidence appropriately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-018\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-018",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. Students are examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In an equipment selection task, students compare mixture with particle model. The evidence states, “Symbols and formulas communicate composition efficiently”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -529,14 +529,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a public information draft, the evidence states, “A box contains identical particles.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a public information draft, the evidence states, “A box contains identical particles.”. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “A box contains identical particles.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “A box contains identical particles.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-019\"></use></svg>",
+    "question": "During a public information draft, the evidence states, “The formula records ratio”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a public information draft, the evidence states, “The formula records ratio”. What is the strongest scientific response to this result?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “The formula records ratio”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “The formula records ratio”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-019\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-019",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “A box contains identical particles.”. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a public information draft, the evidence states, “The formula records ratio”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances",
@@ -558,14 +558,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle symbol and formula",
     "printable": true,
     "type": "single",
-    "question": "An independent replication study for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "An independent replication study for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-020\"></use></svg>",
+    "question": "An independent replication study for Classify Matter with Particle Models reports that separate composition and ratio from three-dimensional geometry. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "An independent replication study for Classify Matter with Particle Models reports that separate composition and ratio from three-dimensional geometry. Which revision would make the reasoning most reliable?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that separate composition and ratio from three-dimensional geometry. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that separate composition and ratio from three-dimensional geometry. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-020\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-020",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that symbols and formulas communicate composition efficiently. Which revision would make the reasoning most reliable?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is symbol and formula. Question context: An independent replication study for Classify Matter with Particle Models reports that separate composition and ratio from three-dimensional geometry. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "A formula is a picture of shape; the same outcome must therefore occur in every setting",
@@ -587,14 +587,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle element",
     "printable": true,
     "type": "single",
-    "question": "In a risk-assessment meeting, students are examining the information conveyed by different types of representations of elements and compounds and. Which interpretation is best supported?",
-    "audioPrompt": "In a risk-assessment meeting, students are examining the information conveyed by different types of representations of elements and compounds and. Which interpretation is best supported?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, students are examining the information conveyed by different types of representations of elements and compounds and. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, students are examining the information conveyed by different types of representations of elements and compounds and. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-021\"></use></svg>",
+    "question": "In a risk-assessment meeting, the evidence states, “Representations show different information and have limitations”. Which interpretation is best supported?",
+    "audioPrompt": "In a risk-assessment meeting, the evidence states, “Representations show different information and have limitations”. Which interpretation is best supported?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, the evidence states, “Representations show different information and have limitations”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, the evidence states, “Representations show different information and have limitations”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-021\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-021",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, students are examining the information conveyed by different types of representations of elements and compounds and. Which interpretation is best supported?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is element. Question context: In a risk-assessment meeting, the evidence states, “Representations show different information and have limitations”. Which interpretation is best supported?"
     },
     "answers": [
       "A compound is any sample with several atom types; one matching observation makes this explanation certain",
@@ -616,14 +616,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle compound",
     "printable": true,
     "type": "single",
-    "question": "During a graph interpretation task, the evidence states, “Elements contain one type of atom.”. Which response applies the particle model most accurately?",
-    "audioPrompt": "During a graph interpretation task, the evidence states, “Elements contain one type of atom.”. Which response applies the particle model most accurately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Elements contain one type of atom.”. Which response applies the particle model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Elements contain one type of atom.”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-022\"></use></svg>",
+    "question": "During a graph interpretation task, the evidence states, “Because every particle has two atom types chemically joined”. Which response applies the particle model most accurately?",
+    "audioPrompt": "During a graph interpretation task, the evidence states, “Because every particle has two atom types chemically joined”. Which response applies the particle model most accurately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Because every particle has two atom types chemically joined”. Which response applies the particle model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Because every particle has two atom types chemically joined”. Which response applies the particle model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-022\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-022",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Elements contain one type of atom.”. Which response applies the particle model most accurately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is compound. Question context: During a graph interpretation task, the evidence states, “Because every particle has two atom types chemically joined”. Which response applies the particle model most accurately?"
     },
     "answers": [
       "The observation supports the idea that elements contain one type of atom; compounds contain chemically joined atom types in fixed ratios; mixtures contain substances, within the limits of the investigation",
@@ -645,14 +645,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle mixture",
     "printable": true,
     "type": "single",
-    "question": "In a claim-evidence-reasoning response, students compare mixture with particle model. Students are explaining why elements are represented by symbols. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a claim-evidence-reasoning response, students compare mixture with particle model. Students are explaining why elements are represented by symbols. Which conclusion uses evidence appropriately?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. Students are explaining why elements are represented by symbols. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. Students are explaining why elements are represented by symbols. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-023\"></use></svg>",
+    "question": "In a claim-evidence-reasoning response, students compare mixture with particle model. The evidence states, “Check whether different atoms are chemically joined in identical particles”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a claim-evidence-reasoning response, students compare mixture with particle model. The evidence states, “Check whether different atoms are chemically joined in identical particles”. Which conclusion uses evidence appropriately?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. The evidence states, “Check whether different atoms are chemically joined in identical particles”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. The evidence states, “Check whether different atoms are chemically joined in identical particles”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-023\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-023",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. Students are explaining why elements are represented by symbols. Which conclusion uses evidence appropriately?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is mixture. Question context: In a claim-evidence-reasoning response, students compare mixture with particle model. The evidence states, “Check whether different atoms are chemically joined in identical particles”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -674,14 +674,14 @@ window.skillrPracticeQuestions = [
     "skill": "particle particle model",
     "printable": true,
     "type": "single",
-    "question": "During a scientific-method audit, the evidence states, “Because every particle has two atom types chemically joined.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a scientific-method audit, the evidence states, “Because every particle has two atom types chemically joined.”. What is the strongest scientific response to this result?",
-    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Because every particle has two atom types chemically joined.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Because every particle has two atom types chemically joined.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-024\"></use></svg>",
+    "question": "During a scientific-method audit, the evidence states, “Elements contain one type of atom”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a scientific-method audit, the evidence states, “Elements contain one type of atom”. What is the strongest scientific response to this result?",
+    "visual": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Elements contain one type of atom”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Elements contain one type of atom”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-024\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u06.svg#ac9s8u06-p-024",
-      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Because every particle has two atom types chemically joined.”. What is the strongest scientific response to this result?"
+      "alt_text": "Classify Matter with Particle Models evidence model linking element, compound, mixture, particle model, symbol and formula. The highlighted stage is particle model. Question context: During a scientific-method audit, the evidence states, “Elements contain one type of atom”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",

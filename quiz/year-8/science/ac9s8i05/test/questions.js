@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "data anomaly and explanation",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which revision would make the reasoning most reliable?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-001\"></use></svg>",
+    "question": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-001",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A new research proposal for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports patterns and trends are described with direction and evidence, but it does not prove that every case will be identical",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "data data set",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Check shading.”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Check shading.”. Which interpretation is best supported?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Check shading.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Check shading.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-002\"></use></svg>",
+    "question": "In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
+    "audioPrompt": "In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-002",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Check shading.”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a cross-school data comparison, the evidence states, “Solar output generally rises with light intensity”. Which interpretation is best supported?"
     },
     "answers": [
       "Two variables moving together proves causation; one matching observation makes this explanation certain",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "data pattern",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, students are describing measures of central tendency such as mean. Which response applies the data model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, students are describing measures of central tendency such as mean. Which response applies the data model most accurately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, students are describing measures of central tendency such as mean. Which response applies the data model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, students are describing measures of central tendency such as mean. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-003\"></use></svg>",
+    "question": "During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
+    "audioPrompt": "During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-003",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, students are describing measures of central tendency such as mean. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a technology evaluation panel, the evidence states, “Causal claims require more than correlation”. Which response applies the data model most accurately?"
     },
     "answers": [
       "An anomaly should be deleted; the wider pattern does not need to be considered",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "data trend",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Report the overall positive relationship and identify the anomalous point.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Report the overall positive relationship and identify the anomalous point.”. Which conclusion uses evidence appropriately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Report the overall positive relationship and identify the anomalous point.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Report the overall positive relationship and identify the anomalous point.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-004\"></use></svg>",
+    "question": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-004",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Report the overall positive relationship and identify the anomalous point.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a science exhibition caption, students compare trend with relationship. The evidence states, “Check shading”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links trend with relationship, so it can explain the relationship while still having limits",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "data relationship",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, students are identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, students are identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. What is the strongest scientific response to this result?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, students are identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, students are identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-005\"></use></svg>",
+    "question": "During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-005",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, students are identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a policy evidence hearing, the evidence states, “Check design”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "data anomaly and explanation",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that solar output generally rises with light intensity. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that solar output generally rises with light intensity. Which revision would make the reasoning most reliable?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that solar output generally rises with light intensity. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that solar output generally rises with light intensity. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-006\"></use></svg>",
+    "question": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-006",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that solar output generally rises with light intensity. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A controlled follow-up investigation for Find Patterns Without Ignoring Anomalies reports that anomalies are identified and investigated. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Two variables moving together proves causation; the same outcome must therefore occur in every setting",
@@ -181,14 +181,14 @@ window.skillrTestQuestions = [
     "skill": "data data set",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Causal claims require more than correlation.”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Causal claims require more than correlation.”. Which interpretation is best supported?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Causal claims require more than correlation.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Causal claims require more than correlation.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-007\"></use></svg>",
+    "question": "In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
+    "audioPrompt": "In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-007",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Causal claims require more than correlation.”. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a model limitations review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. Which interpretation is best supported?"
     },
     "answers": [
       "Patterns and trends are described with direction and evidence; this interpretation can be checked against further evidence",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "data pattern",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Comparing temperature differences obtained by reacting different proportions of the same chemicals to.”. Which response applies the data model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Comparing temperature differences obtained by reacting different proportions of the same chemicals to.”. Which response applies the data model most accurately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Comparing temperature differences obtained by reacting different proportions of the same chemicals to.”. Which response applies the data model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Comparing temperature differences obtained by reacting different proportions of the same chemicals to.”. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-008\"></use></svg>",
+    "question": "During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
+    "audioPrompt": "During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-008",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Comparing temperature differences obtained by reacting different proportions of the same chemicals to.”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During an ethics committee discussion, the evidence states, “Investigate it and justify any treatment transparently”. Which response applies the data model most accurately?"
     },
     "answers": [
       "Two variables moving together proves causation; the wider pattern does not need to be considered",
@@ -239,14 +239,14 @@ window.skillrTestQuestions = [
     "skill": "data trend",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated.”. Which conclusion uses evidence appropriately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-009\"></use></svg>",
+    "question": "In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-009",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a coastal field station report, students compare trend with relationship. The evidence states, “Patterns and trends are described with direction and evidence”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "data relationship",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, students are analysing changes in battery energy output following recharging over many cycles and relating to. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, students are analysing changes in battery energy output following recharging over many cycles and relating to. What is the strongest scientific response to this result?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, students are analysing changes in battery energy output following recharging over many cycles and relating to. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, students are analysing changes in battery energy output following recharging over many cycles and relating to. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-010\"></use></svg>",
+    "question": "During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-010",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, students are analysing changes in battery energy output following recharging over many cycles and relating to. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a renewable-energy trial, the evidence states, “Solar output generally rises with light intensity”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that patterns and trends are described with direction and evidence",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "data anomaly and explanation",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-011\"></use></svg>",
+    "question": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-011",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that patterns and trends are described with direction and evidence. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A hospital innovation briefing for Find Patterns Without Ignoring Anomalies reports that causal claims require more than correlation. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "An anomaly should be deleted; the same outcome must therefore occur in every setting",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "data data set",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, students are using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, students are using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which interpretation is best supported?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, students are using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, students are using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-012\"></use></svg>",
+    "question": "In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?",
+    "audioPrompt": "In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-012",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, students are using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining. Which interpretation is best supported?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is data set. Question context: In a geological survey update, the evidence states, “Check shading”. Which interpretation is best supported?"
     },
     "answers": [
       "Two variables moving together proves causation; one matching observation makes this explanation certain",
@@ -355,14 +355,14 @@ window.skillrTestQuestions = [
     "skill": "data pattern",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Check shading.”. Which response applies the data model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Check shading.”. Which response applies the data model most accurately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check shading.”. Which response applies the data model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check shading.”. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-013\"></use></svg>",
+    "question": "During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?",
+    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-013",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check shading.”. Which response applies the data model most accurately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is pattern. Question context: During a materials-testing laboratory, the evidence states, “Check design”. Which response applies the data model most accurately?"
     },
     "answers": [
       "The observation supports the idea that patterns and trends are described with direction and evidence, within the limits of the investigation",
@@ -384,14 +384,14 @@ window.skillrTestQuestions = [
     "skill": "data trend",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare trend with relationship. Students are describing measures of central tendency such as mean. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare trend with relationship. Students are describing measures of central tendency such as mean. Which conclusion uses evidence appropriately?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. Students are describing measures of central tendency such as mean. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. Students are describing measures of central tendency such as mean. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-014\"></use></svg>",
+    "question": "In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-014",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. Students are describing measures of central tendency such as mean. Which conclusion uses evidence appropriately?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is trend. Question context: In a documentary planning session, students compare trend with relationship. The evidence states, “Anomalies are identified and investigated”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -413,14 +413,14 @@ window.skillrTestQuestions = [
     "skill": "data relationship",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point.”. What is the strongest scientific response to this result?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-015\"></use></svg>",
+    "question": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-015",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point.”. What is the strongest scientific response to this result?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is relationship. Question context: During a national data-set review, the evidence states, “Report the overall positive relationship and identify the anomalous point”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -442,14 +442,14 @@ window.skillrTestQuestions = [
     "skill": "data anomaly and explanation",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. Which revision would make the reasoning most reliable?",
-    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-016\"></use></svg>",
+    "question": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
+    "visual": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i05.svg#ac9s8i05-t-016",
-      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces. Which revision would make the reasoning most reliable?"
+      "alt_text": "Find Patterns Without Ignoring Anomalies evidence model linking data set, pattern, trend, relationship, anomaly and explanation. The highlighted stage is anomaly and explanation. Question context: A final evidence conference for Find Patterns Without Ignoring Anomalies reports that investigate it and justify any treatment transparently. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports patterns and trends are described with direction and evidence, but it does not prove that every case will be identical",

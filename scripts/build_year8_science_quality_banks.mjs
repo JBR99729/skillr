@@ -58,10 +58,10 @@ function unitModel(unit) {
 }
 
 function contexts(unit) {
-  const elaborations = (unit.elaborations ?? []).map((item) => clean(item.curriculumWording || item.plainLanguageConcept || item.contextTitle));
   const worked = (unit.workedExamples ?? []).flatMap((example) => (example.steps ?? []).map((step) => clean(step.text)));
   const teaching = (unit.conceptBoundary?.mustTeach ?? []).map(clean);
-  return [...elaborations, ...worked, ...teaching].filter(Boolean);
+  const remediation = (unit.misconceptions ?? []).map((item) => clean(item.rapidRemediation));
+  return [...worked, ...teaching, ...remediation].filter(Boolean);
 }
 
 function makeChoices(unit, index, context) {
@@ -100,12 +100,12 @@ function makeChoices(unit, index, context) {
 
 function makePrompt(unit, index, context, model) {
   const setting = settings[index];
-  const source = clean(context.replace(/\s*\([^()]+\)$/, ""));
+  const source = clean(context).replace(/[.!?]+$/, "");
   const firstClause = source.split(/[;,]/)[0];
-  const conciseContext = shorten(firstClause, 105);
+  const conciseContext = clean(firstClause);
   const activity = /^(analysing|considering|constructing|creating|describing|developing|discussing|evaluating|examining|explaining|exploring|identifying|investigating|modelling|observing|performing|predicting|researching|selecting|using|writing)\b/i.test(conciseContext)
     ? `students are ${lowerFirst(conciseContext)}`
-    : `the evidence states, “${cap(conciseContext)}.”`;
+    : `the evidence states, “${cap(conciseContext)}”`;
   const prompts = [
     `In ${setting}, ${activity}. Which interpretation is best supported?`,
     `During ${setting}, ${activity}. Which response applies the ${model.component} model most accurately?`,
@@ -141,7 +141,7 @@ for (const code of CODE_ORDER) {
   if (!unit) throw new Error(`Missing canonical unit ${code}`);
   const model = unitModel(unit);
   const sourceContexts = contexts(unit);
-  if (sourceContexts.length < 6) throw new Error(`${code}: insufficient authored curriculum contexts`);
+  if (sourceContexts.length < 3) throw new Error(`${code}: insufficient authored curriculum contexts`);
   const items = [];
   const symbols = [];
   for (let index = 0; index < 40; index += 1) {

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "energy transformation and heating",
     "printable": true,
     "type": "single",
-    "question": "A new research proposal for Track Energy Through a System reports that investigating traditional fire-starting methods used by First Nations Australians and their. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A new research proposal for Track Energy Through a System reports that investigating traditional fire-starting methods used by First Nations Australians and their. Which revision would make the reasoning most reliable?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that investigating traditional fire-starting methods used by First Nations Australians and their. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that investigating traditional fire-starting methods used by First Nations Australians and their. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-001\"></use></svg>",
+    "question": "A new research proposal for Track Energy Through a System reports that kinetic energy involves movement. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A new research proposal for Track Energy Through a System reports that kinetic energy involves movement. Which revision would make the reasoning most reliable?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that kinetic energy involves movement. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that kinetic energy involves movement. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-001",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that investigating traditional fire-starting methods used by First Nations Australians and their. Which revision would make the reasoning most reliable?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A new research proposal for Track Energy Through a System reports that kinetic energy involves movement. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports kinetic energy involves movement; potential energy is associated with position or condition, but it does not prove that every case will be identical",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "energy energy store",
     "printable": true,
     "type": "single",
-    "question": "In a cross-school data comparison, the evidence states, “Energy transfers between objects and transforms between forms.”. Which interpretation is best supported?",
-    "audioPrompt": "In a cross-school data comparison, the evidence states, “Energy transfers between objects and transforms between forms.”. Which interpretation is best supported?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “Energy transfers between objects and transforms between forms.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “Energy transfers between objects and transforms between forms.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-002\"></use></svg>",
+    "question": "In a cross-school data comparison, the evidence states, “A raised cart has gravitational potential energy”. Which interpretation is best supported?",
+    "audioPrompt": "In a cross-school data comparison, the evidence states, “A raised cart has gravitational potential energy”. Which interpretation is best supported?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “A raised cart has gravitational potential energy”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “A raised cart has gravitational potential energy”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-002",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “Energy transfers between objects and transforms between forms.”. Which interpretation is best supported?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a cross-school data comparison, the evidence states, “A raised cart has gravitational potential energy”. Which interpretation is best supported?"
     },
     "answers": [
       "Electricity is stored inside wires; one matching observation makes this explanation certain",
@@ -65,14 +65,14 @@ window.skillrTestQuestions = [
     "skill": "energy kinetic",
     "printable": true,
     "type": "single",
-    "question": "During a technology evaluation panel, students are identifying where heat energy is produced as a by-product of energy transfer. Which response applies the energy model most accurately?",
-    "audioPrompt": "During a technology evaluation panel, students are identifying where heat energy is produced as a by-product of energy transfer. Which response applies the energy model most accurately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, students are identifying where heat energy is produced as a by-product of energy transfer. Which response applies the energy model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, students are identifying where heat energy is produced as a by-product of energy transfer. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-003\"></use></svg>",
+    "question": "During a technology evaluation panel, the evidence states, “Heating is often a by-product and energy is conserved”. Which response applies the energy model most accurately?",
+    "audioPrompt": "During a technology evaluation panel, the evidence states, “Heating is often a by-product and energy is conserved”. Which response applies the energy model most accurately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, the evidence states, “Heating is often a by-product and energy is conserved”. Which response applies the energy model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, the evidence states, “Heating is often a by-product and energy is conserved”. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-003",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, students are identifying where heat energy is produced as a by-product of energy transfer. Which response applies the energy model most accurately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a technology evaluation panel, the evidence states, “Heating is often a by-product and energy is conserved”. Which response applies the energy model most accurately?"
     },
     "answers": [
       "Energy is used up; the wider pattern does not need to be considered",
@@ -94,14 +94,14 @@ window.skillrTestQuestions = [
     "skill": "energy potential",
     "printable": true,
     "type": "single",
-    "question": "In a science exhibition caption, students compare potential with transfer. The evidence states, “As it rolls down.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a science exhibition caption, students compare potential with transfer. The evidence states, “As it rolls down.”. Which conclusion uses evidence appropriately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “As it rolls down.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “As it rolls down.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-004\"></use></svg>",
+    "question": "In a science exhibition caption, students compare potential with transfer. The evidence states, “Some energy transfers to the surroundings by heating and sound”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a science exhibition caption, students compare potential with transfer. The evidence states, “Some energy transfers to the surroundings by heating and sound”. Which conclusion uses evidence appropriately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “Some energy transfers to the surroundings by heating and sound”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “Some energy transfers to the surroundings by heating and sound”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-004",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “As it rolls down.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a science exhibition caption, students compare potential with transfer. The evidence states, “Some energy transfers to the surroundings by heating and sound”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model links potential with transfer, so it can explain the relationship while still having limits",
@@ -123,14 +123,14 @@ window.skillrTestQuestions = [
     "skill": "energy transfer",
     "printable": true,
     "type": "single",
-    "question": "During a policy evidence hearing, students are investigating relationships between kinetic and potential energy in a simple system such as a. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a policy evidence hearing, students are investigating relationships between kinetic and potential energy in a simple system such as a. What is the strongest scientific response to this result?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, students are investigating relationships between kinetic and potential energy in a simple system such as a. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, students are investigating relationships between kinetic and potential energy in a simple system such as a. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-005\"></use></svg>",
+    "question": "During a policy evidence hearing, the evidence states, “Describe electrical energy transfer through a circuit”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a policy evidence hearing, the evidence states, “Describe electrical energy transfer through a circuit”. What is the strongest scientific response to this result?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, the evidence states, “Describe electrical energy transfer through a circuit”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, the evidence states, “Describe electrical energy transfer through a circuit”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-005",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, students are investigating relationships between kinetic and potential energy in a simple system such as a. What is the strongest scientific response to this result?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a policy evidence hearing, the evidence states, “Describe electrical energy transfer through a circuit”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -152,14 +152,14 @@ window.skillrTestQuestions = [
     "skill": "energy transformation and heating",
     "printable": true,
     "type": "single",
-    "question": "A controlled follow-up investigation for Track Energy Through a System reports that observing a Rube Goldberg machine and identifying the energy transfers and transformations involved. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A controlled follow-up investigation for Track Energy Through a System reports that observing a Rube Goldberg machine and identifying the energy transfers and transformations involved. Which revision would make the reasoning most reliable?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that observing a Rube Goldberg machine and identifying the energy transfers and transformations involved. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that observing a Rube Goldberg machine and identifying the energy transfers and transformations involved. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-006\"></use></svg>",
+    "question": "A controlled follow-up investigation for Track Energy Through a System reports that energy transfers between objects and transforms between forms. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A controlled follow-up investigation for Track Energy Through a System reports that energy transfers between objects and transforms between forms. Which revision would make the reasoning most reliable?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that energy transfers between objects and transforms between forms. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that energy transfers between objects and transforms between forms. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-006",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that observing a Rube Goldberg machine and identifying the energy transfers and transformations involved. Which revision would make the reasoning most reliable?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A controlled follow-up investigation for Track Energy Through a System reports that energy transfers between objects and transforms between forms. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Electricity is stored inside wires; the same outcome must therefore occur in every setting",
@@ -181,14 +181,14 @@ window.skillrTestQuestions = [
     "skill": "energy energy store",
     "printable": true,
     "type": "single",
-    "question": "In a model limitations review, the evidence states, “Kinetic energy involves movement.”. Which interpretation is best supported?",
-    "audioPrompt": "In a model limitations review, the evidence states, “Kinetic energy involves movement.”. Which interpretation is best supported?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “Kinetic energy involves movement.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “Kinetic energy involves movement.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-007\"></use></svg>",
+    "question": "In a model limitations review, the evidence states, “As it rolls down”. Which interpretation is best supported?",
+    "audioPrompt": "In a model limitations review, the evidence states, “As it rolls down”. Which interpretation is best supported?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “As it rolls down”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “As it rolls down”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-007",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “Kinetic energy involves movement.”. Which interpretation is best supported?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a model limitations review, the evidence states, “As it rolls down”. Which interpretation is best supported?"
     },
     "answers": [
       "Kinetic energy involves movement; potential energy is associated with position or condition; this interpretation can be checked against further evidence",
@@ -210,14 +210,14 @@ window.skillrTestQuestions = [
     "skill": "energy kinetic",
     "printable": true,
     "type": "single",
-    "question": "During an ethics committee discussion, the evidence states, “Critiquing and using representations such as flow diagrams to illustrate changes between different forms.”. Which response applies the energy model most accurately?",
-    "audioPrompt": "During an ethics committee discussion, the evidence states, “Critiquing and using representations such as flow diagrams to illustrate changes between different forms.”. Which response applies the energy model most accurately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Critiquing and using representations such as flow diagrams to illustrate changes between different forms.”. Which response applies the energy model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Critiquing and using representations such as flow diagrams to illustrate changes between different forms.”. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-008\"></use></svg>",
+    "question": "During an ethics committee discussion, the evidence states, “Track it into less useful heating and sound outputs”. Which response applies the energy model most accurately?",
+    "audioPrompt": "During an ethics committee discussion, the evidence states, “Track it into less useful heating and sound outputs”. Which response applies the energy model most accurately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Track it into less useful heating and sound outputs”. Which response applies the energy model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Track it into less useful heating and sound outputs”. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-008",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Critiquing and using representations such as flow diagrams to illustrate changes between different forms.”. Which response applies the energy model most accurately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During an ethics committee discussion, the evidence states, “Track it into less useful heating and sound outputs”. Which response applies the energy model most accurately?"
     },
     "answers": [
       "Electricity is stored inside wires; the wider pattern does not need to be considered",
@@ -239,14 +239,14 @@ window.skillrTestQuestions = [
     "skill": "energy potential",
     "printable": true,
     "type": "single",
-    "question": "In a coastal field station report, students compare potential with transfer. The evidence states, “A raised cart has gravitational potential energy.”. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a coastal field station report, students compare potential with transfer. The evidence states, “A raised cart has gravitational potential energy.”. Which conclusion uses evidence appropriately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “A raised cart has gravitational potential energy.”. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “A raised cart has gravitational potential energy.”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-009\"></use></svg>",
+    "question": "In a coastal field station report, students compare potential with transfer. The evidence states, “Kinetic energy involves movement”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a coastal field station report, students compare potential with transfer. The evidence states, “Kinetic energy involves movement”. Which conclusion uses evidence appropriately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “Kinetic energy involves movement”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “Kinetic energy involves movement”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-009\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-009",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “A raised cart has gravitational potential energy.”. Which conclusion uses evidence appropriately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a coastal field station report, students compare potential with transfer. The evidence states, “Kinetic energy involves movement”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -268,14 +268,14 @@ window.skillrTestQuestions = [
     "skill": "energy transfer",
     "printable": true,
     "type": "single",
-    "question": "During a renewable-energy trial, the evidence states, “Heating is often a by-product and energy is conserved.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a renewable-energy trial, the evidence states, “Heating is often a by-product and energy is conserved.”. What is the strongest scientific response to this result?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “Heating is often a by-product and energy is conserved.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “Heating is often a by-product and energy is conserved.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-010\"></use></svg>",
+    "question": "During a renewable-energy trial, the evidence states, “A raised cart has gravitational potential energy”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a renewable-energy trial, the evidence states, “A raised cart has gravitational potential energy”. What is the strongest scientific response to this result?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “A raised cart has gravitational potential energy”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “A raised cart has gravitational potential energy”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-010\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-010",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “Heating is often a by-product and energy is conserved.”. What is the strongest scientific response to this result?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a renewable-energy trial, the evidence states, “A raised cart has gravitational potential energy”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Repeated evidence can support the conclusion that kinetic energy involves movement; potential energy is associated with position or condition",
@@ -297,14 +297,14 @@ window.skillrTestQuestions = [
     "skill": "energy transformation and heating",
     "printable": true,
     "type": "single",
-    "question": "A hospital innovation briefing for Track Energy Through a System reports that using electrical circuits and components to demonstrate electrical energy transfer and its. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A hospital innovation briefing for Track Energy Through a System reports that using electrical circuits and components to demonstrate electrical energy transfer and its. Which revision would make the reasoning most reliable?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that using electrical circuits and components to demonstrate electrical energy transfer and its. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that using electrical circuits and components to demonstrate electrical energy transfer and its. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-011\"></use></svg>",
+    "question": "A hospital innovation briefing for Track Energy Through a System reports that heating is often a by-product and energy is conserved. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A hospital innovation briefing for Track Energy Through a System reports that heating is often a by-product and energy is conserved. Which revision would make the reasoning most reliable?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that heating is often a by-product and energy is conserved. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that heating is often a by-product and energy is conserved. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-011",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that using electrical circuits and components to demonstrate electrical energy transfer and its. Which revision would make the reasoning most reliable?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A hospital innovation briefing for Track Energy Through a System reports that heating is often a by-product and energy is conserved. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "Energy is used up; the same outcome must therefore occur in every setting",
@@ -326,14 +326,14 @@ window.skillrTestQuestions = [
     "skill": "energy energy store",
     "printable": true,
     "type": "single",
-    "question": "In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound.”. Which interpretation is best supported?",
-    "audioPrompt": "In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound.”. Which interpretation is best supported?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound.”. Which interpretation is best supported?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound.”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-012\"></use></svg>",
+    "question": "In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound”. Which interpretation is best supported?",
+    "audioPrompt": "In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound”. Which interpretation is best supported?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound”. Which interpretation is best supported?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound”. Which interpretation is best supported?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-012\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-012",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound.”. Which interpretation is best supported?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is energy store. Question context: In a geological survey update, the evidence states, “Some energy transfers to the surroundings by heating and sound”. Which interpretation is best supported?"
     },
     "answers": [
       "Electricity is stored inside wires; one matching observation makes this explanation certain",
@@ -355,14 +355,14 @@ window.skillrTestQuestions = [
     "skill": "energy kinetic",
     "printable": true,
     "type": "single",
-    "question": "During a materials-testing laboratory, the evidence states, “Classifying types of energy as either kinetic energy such as movement.”. Which response applies the energy model most accurately?",
-    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Classifying types of energy as either kinetic energy such as movement.”. Which response applies the energy model most accurately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Classifying types of energy as either kinetic energy such as movement.”. Which response applies the energy model most accurately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Classifying types of energy as either kinetic energy such as movement.”. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-013\"></use></svg>",
+    "question": "During a materials-testing laboratory, the evidence states, “Describe electrical energy transfer through a circuit”. Which response applies the energy model most accurately?",
+    "audioPrompt": "During a materials-testing laboratory, the evidence states, “Describe electrical energy transfer through a circuit”. Which response applies the energy model most accurately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Describe electrical energy transfer through a circuit”. Which response applies the energy model most accurately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Describe electrical energy transfer through a circuit”. Which response applies the energy model most accurately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-013",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Classifying types of energy as either kinetic energy such as movement.”. Which response applies the energy model most accurately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is kinetic. Question context: During a materials-testing laboratory, the evidence states, “Describe electrical energy transfer through a circuit”. Which response applies the energy model most accurately?"
     },
     "answers": [
       "The observation supports the idea that kinetic energy involves movement; potential energy is associated with position or condition, within the limits of the investigation",
@@ -384,14 +384,14 @@ window.skillrTestQuestions = [
     "skill": "energy potential",
     "printable": true,
     "type": "single",
-    "question": "In a documentary planning session, students compare potential with transfer. Students are investigating traditional fire-starting methods used by First Nations Australians and their. Which conclusion uses evidence appropriately?",
-    "audioPrompt": "In a documentary planning session, students compare potential with transfer. Students are investigating traditional fire-starting methods used by First Nations Australians and their. Which conclusion uses evidence appropriately?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. Students are investigating traditional fire-starting methods used by First Nations Australians and their. Which conclusion uses evidence appropriately?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. Students are investigating traditional fire-starting methods used by First Nations Australians and their. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-014\"></use></svg>",
+    "question": "In a documentary planning session, students compare potential with transfer. The evidence states, “Energy transfers between objects and transforms between forms”. Which conclusion uses evidence appropriately?",
+    "audioPrompt": "In a documentary planning session, students compare potential with transfer. The evidence states, “Energy transfers between objects and transforms between forms”. Which conclusion uses evidence appropriately?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. The evidence states, “Energy transfers between objects and transforms between forms”. Which conclusion uses evidence appropriately?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. The evidence states, “Energy transfers between objects and transforms between forms”. Which conclusion uses evidence appropriately?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-014\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-014",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. Students are investigating traditional fire-starting methods used by First Nations Australians and their. Which conclusion uses evidence appropriately?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is potential. Question context: In a documentary planning session, students compare potential with transfer. The evidence states, “Energy transfers between objects and transforms between forms”. Which conclusion uses evidence appropriately?"
     },
     "answers": [
       "The model is a literal copy of reality, so assumptions and omitted features do not matter",
@@ -413,14 +413,14 @@ window.skillrTestQuestions = [
     "skill": "energy transfer",
     "printable": true,
     "type": "single",
-    "question": "During a national data-set review, the evidence states, “Energy transfers between objects and transforms between forms.”. What is the strongest scientific response to this result?",
-    "audioPrompt": "During a national data-set review, the evidence states, “Energy transfers between objects and transforms between forms.”. What is the strongest scientific response to this result?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “Energy transfers between objects and transforms between forms.”. What is the strongest scientific response to this result?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “Energy transfers between objects and transforms between forms.”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-015\"></use></svg>",
+    "question": "During a national data-set review, the evidence states, “As it rolls down”. What is the strongest scientific response to this result?",
+    "audioPrompt": "During a national data-set review, the evidence states, “As it rolls down”. What is the strongest scientific response to this result?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “As it rolls down”. What is the strongest scientific response to this result?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “As it rolls down”. What is the strongest scientific response to this result?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-015",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “Energy transfers between objects and transforms between forms.”. What is the strongest scientific response to this result?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transfer. Question context: During a national data-set review, the evidence states, “As it rolls down”. What is the strongest scientific response to this result?"
     },
     "answers": [
       "Conflicting results should be removed because only results matching the prediction are useful",
@@ -442,14 +442,14 @@ window.skillrTestQuestions = [
     "skill": "energy transformation and heating",
     "printable": true,
     "type": "single",
-    "question": "A final evidence conference for Track Energy Through a System reports that identifying where heat energy is produced as a by-product of energy transfer. Which revision would make the reasoning most reliable?",
-    "audioPrompt": "A final evidence conference for Track Energy Through a System reports that identifying where heat energy is produced as a by-product of energy transfer. Which revision would make the reasoning most reliable?",
-    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that identifying where heat energy is produced as a by-product of energy transfer. Which revision would make the reasoning most reliable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that identifying where heat energy is produced as a by-product of energy transfer. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-016\"></use></svg>",
+    "question": "A final evidence conference for Track Energy Through a System reports that track it into less useful heating and sound outputs. Which revision would make the reasoning most reliable?",
+    "audioPrompt": "A final evidence conference for Track Energy Through a System reports that track it into less useful heating and sound outputs. Which revision would make the reasoning most reliable?",
+    "visual": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that track it into less useful heating and sound outputs. Which revision would make the reasoning most reliable?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that track it into less useful heating and sound outputs. Which revision would make the reasoning most reliable?\"><use href=\"/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-016\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year8/science/ac9s8u05.svg#ac9s8u05-t-016",
-      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that identifying where heat energy is produced as a by-product of energy transfer. Which revision would make the reasoning most reliable?"
+      "alt_text": "Track Energy Through a System evidence model linking energy store, kinetic, potential, transfer, transformation and heating. The highlighted stage is transformation and heating. Question context: A final evidence conference for Track Energy Through a System reports that track it into less useful heating and sound outputs. Which revision would make the reasoning most reliable?"
     },
     "answers": [
       "The evidence supports kinetic energy involves movement; potential energy is associated with position or condition, but it does not prove that every case will be identical",
