@@ -41,6 +41,75 @@ T = {
 "AC9M8P03":("Compound Chance Experiments and Simulations","Repeated trials estimate compound-event probabilities; relative frequency tends to stabilise with more trials but still varies.","Simulate a compound event","Two coin tosses have HH, HT, TH, TT; P(exactly one head)=2/4.","Compare experimental and theoretical probability","Use enough trials, inspect random variation, validate digital simulation rules and report results rather than promising convergence.","Why might 100 simulated trials not give exactly the theoretical probability?","Simulation is random. Relative frequency fluctuates; more trials usually reduce, but do not eliminate, sampling variation."),
 }
 
+TEACHING_SLIDES = {
+    "AC9M8N01": [
+        {
+            "heading": "Where does π live?",
+            "lead": "Irrational numbers have exact positions even though their decimals never end or repeat.",
+            "visual": {"type": "numberline", "left": "3.141", "point": "π", "right": "3.142", "caption": "3.141 < π < 3.142"},
+            "highlight": "A decimal bound locates π; it does not replace π.",
+            "ask": "If we zoom in again, which two decimals could bound π more closely?",
+            "answer": "For example, 3.1415 < π < 3.1416. Both endpoints are rational approximations; π is the exact irrational value between them.",
+            "notes": {
+                "teacherDoes": "Reveal 3.141 and 3.142 first, then place π between them. Zoom to the next decimal place.",
+                "teacherAsks": "How can π have one exact location if its decimal never finishes?",
+                "studentDoes": "Places π between successive decimal bounds and explains that the bounds are approximations.",
+                "expectedEvidence": "Uses inequality notation correctly and distinguishes the exact number π from a rounded decimal.",
+                "ifIncorrect": "Compare a map coordinate with a rounded coordinate: rounding changes the description, not the actual location.",
+                "shortCheck": "Write a tighter pair of decimal bounds for π."
+            }
+        },
+        {
+            "heading": "Where does √2 appear?",
+            "lead": "A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded.",
+            "visual": {"type": "square-paper", "side": "1", "diagonal": "√2", "ratio": "1 : √2"},
+            "highlight": "1² + 1² = d², so d = √2 ≈ 1.414.",
+            "ask": "Why is the diagonal not exactly 1.4 units?",
+            "answer": "Because 1.4² = 1.96, not 2. The exact diagonal is √2; 1.4 is only a one-decimal approximation.",
+            "notes": {
+                "teacherDoes": "Trace the two one-unit sides, then draw the diagonal. Fold the paper model to show the same long-side:short-side ratio.",
+                "teacherAsks": "Which equation connects the two sides and the diagonal?",
+                "studentDoes": "Labels the right triangle, applies Pythagoras and connects the exact length √2 to its decimal approximation.",
+                "expectedEvidence": "States d²=2 and d=√2, with the positive root justified as a length.",
+                "ifIncorrect": "Build the diagonal from a right triangle and calculate 1²+1² before taking the square root.",
+                "shortCheck": "Between which two tenths does √2 lie?"
+            }
+        },
+        {
+            "heading": "Two famous irrational ratios",
+            "lead": "The golden ratio appears in design, while societies have developed useful approximations for π throughout history.",
+            "visual": {"type": "golden-history", "phi": "φ ≈ 1.618", "archimedes": "223/71 < π < 22/7", "egypt": "π ≈ 256/81"},
+            "highlight": "Historical fractions are clever approximations, not exact equalities.",
+            "ask": "Why should each historical value use ≈ or an inequality instead of =?",
+            "answer": "Each value is rational, while π is irrational. A fraction can approach π closely but cannot equal it exactly.",
+            "notes": {
+                "teacherDoes": "Compare the golden rectangle ratio with the two historical π estimates. Keep exact and approximate notation visible.",
+                "teacherAsks": "What makes an approximation useful even when it is not exact?",
+                "studentDoes": "Compares the estimates, identifies the notation and explains why none is exactly π.",
+                "expectedEvidence": "Recognises φ and π as irrational and interprets ≈ and < correctly.",
+                "ifIncorrect": "Convert one historical fraction to a decimal and compare its digits with π≈3.14159.",
+                "shortCheck": "Which is closer to π: 22/7 or 3.14? Explain how you checked."
+            }
+        },
+        {
+            "heading": "Measure π with any circle",
+            "lead": "For every circle, circumference divided by diameter gives the same irrational ratio: π.",
+            "visual": {"type": "circle-roll", "diameter": "d", "circumference": "C", "equation": "C ÷ d = π"},
+            "highlight": "The circle changes size, but C ÷ d stays close to 3.14159…",
+            "ask": "What should stay nearly constant when different circles are measured?",
+            "answer": "The ratio circumference ÷ diameter. Measurement error may change the experimental decimal slightly, but the exact ratio is π.",
+            "notes": {
+                "teacherDoes": "Wrap string around two circular objects, straighten it, and compare each circumference with its diameter.",
+                "teacherAsks": "Which measurements change, and which ratio remains invariant?",
+                "studentDoes": "Measures, calculates C÷d and compares results across circles.",
+                "expectedEvidence": "Explains that circumference and diameter scale together and that experimental variation comes from measurement error.",
+                "ifIncorrect": "Use a table with C, d and C÷d; compare the raw measures separately from the calculated ratios.",
+                "shortCheck": "A circle has C=31.4 cm and d=10 cm. Estimate C÷d."
+            }
+        }
+    ]
+}
+
 TERMS={
 "N":["representation","equivalence","estimate"],"A":["variable","relation","verify"],
 "M":["unit","measurement","accuracy"],"SP":["correspondence","condition","transformation"],
@@ -63,6 +132,8 @@ def build():
           "boundary":{"mustTeach":u["description"],"prerequisites":"Recall relevant Year 7 representations, operations and vocabulary before formalising the Year 8 relationship.","maySupportInformally":"Use digital tools to test, visualise and verify after the mathematical structure is made explicit.","mustNotOverteach":"Do not introduce later-year formalism or procedures that are not needed to reason about this content description."},
           "levels":{"support":"Use a labelled worked model and sentence starters; reduce numerical complexity without reducing the reasoning goal.","core":"Connect at least two representations, justify the method and complete an independent verification.","extend":"Generalise, test a boundary case or counterexample, and evaluate the model's assumptions or limitations."},
           "misconceptions":[["Procedure without conditions","Return to the model and name when the rule applies."],["Representation copied but not interpreted","Connect each symbol, label or feature to the quantity and relationship."],["Answer left unchecked","Use an inverse, estimate, substitution, second representation or simulation check."]]}
+        if code in TEACHING_SLIDES:
+            out[code]["teachingSlides"] = TEACHING_SLIDES[code]
     js="window.SkillrYear8MathsData="+json.dumps(out,ensure_ascii=False,separators=(",",":"))+";\n"
     (ROOT/"assets/year8-maths-data.js").write_text(js)
     for code,u in units.items():
