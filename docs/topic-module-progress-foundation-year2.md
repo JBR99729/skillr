@@ -4,7 +4,7 @@ This manifest records completion against the connected Topic Guide + Teacher Sli
 
 ## Foundation Maths
 
-- Status: atomic topic-module release merged in [PR #181](https://github.com/JBR99729/skillr/pull/181), merge `8aede76fcbded59867037a24e69cfb2d58134565`; two-sheet worksheet refinement validated in the current publication batch.
+- Status: atomic topic-module release merged in [PR #181](https://github.com/JBR99729/skillr/pull/181), merge `8aede76fcbded59867037a24e69cfb2d58134565`; two-sheet worksheet refinement validated and published in [PR #186](https://github.com/JBR99729/skillr/pull/186).
 - Codes (12): AC9MFN01, AC9MFN02, AC9MFN03, AC9MFN04, AC9MFN05, AC9MFN06, AC9MFA01, AC9MFM01, AC9MFM02, AC9MFSP01, AC9MFSP02, AC9MFST01.
 - Topic Guides: 12/12 include the existing deep-dive, two worked examples, misconceptions, accessible visual models and connected links, plus four structured child-friendly vocabulary entries.
 - Teacher Slides: 12/12 retain all 124 existing code-specific slides. The required learning-intent, concept-model, guided-application and quick-check slides are identified as the four core slides; the remaining 76 slides remain available as optional extensions and teacher support.
