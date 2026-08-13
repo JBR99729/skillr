@@ -2259,10 +2259,11 @@ footer {
 
 .site-search__label {
     display: block;
-    margin-bottom: 6px;
+    margin-bottom: 7px;
     color: var(--slate-700);
-    font-size: 0.8125rem;
-    font-weight: 800;
+    font-size: 0.8375rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
 }
 
 .site-search__control {
@@ -2272,33 +2273,48 @@ footer {
 .site-search__icon {
     position: absolute;
     top: 50%;
-    left: 14px;
-    color: var(--slate-500);
-    font-size: 1.25rem;
-    line-height: 1;
+    left: 16px;
+    display: grid;
+    width: 28px;
+    height: 28px;
+    place-items: center;
+    color: var(--maths);
     transform: translateY(-50%);
     pointer-events: none;
 }
 
+.site-search__icon svg {
+    width: 25px;
+    height: 25px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.2;
+    stroke-linecap: round;
+}
+
 .site-search__input {
     width: 100%;
-    min-height: 48px;
-    padding: 11px 42px;
-    border: 1px solid #94a3b8;
-    border-radius: 10px;
+    min-height: 52px;
+    padding: 12px 18px 12px 56px;
+    border: 1px solid #b8c6dc;
+    border-radius: 13px;
     background: #fff;
     color: var(--slate-950);
     font: inherit;
-    box-shadow: 0 4px 12px rgba(30, 41, 59, 0.08);
+    font-weight: 400;
+    box-shadow: 0 8px 22px rgba(30, 64, 175, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    transition: border-color 150ms ease, box-shadow 150ms ease;
 }
 
 .site-search__input::placeholder {
-    color: var(--slate-500);
+    color: #7b8ba1;
+    font-weight: 400;
 }
 
 .site-search__input:focus {
     border-color: var(--maths);
-    outline: 3px solid rgba(36, 87, 214, 0.2);
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(36, 87, 214, 0.16), 0 10px 26px rgba(30, 64, 175, 0.14);
 }
 
 .site-search__results {
@@ -2310,7 +2326,7 @@ footer {
     max-height: min(440px, 60vh);
     overflow-y: auto;
     border: 1px solid var(--slate-200);
-    border-radius: 10px;
+    border-radius: 13px;
     background: #fff;
     box-shadow: 0 16px 36px rgba(15, 23, 42, 0.18);
 }
