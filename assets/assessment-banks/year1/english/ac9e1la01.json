@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LA01-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_01_answer",
+    "question": "What is the purpose of 'Please may I borrow the ruler?'",
+    "audio_prompt": "What is the purpose of 'Please may I borrow the ruler?'",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-001",
+      "alt_text": "📖 Identify a request; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "It is a polite request asking to borrow the ruler",
+        "is_correct": true
+      },
+      {
+        "text": "It is a polite question asking to borrow the ruler",
+        "is_correct": false
+      },
+      {
+        "text": "It is a polite command asking to borrow the ruler",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It is a polite request asking to borrow the ruler This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_01_strategy",
+    "question": "Which tip would help you identify a request?",
+    "audio_prompt": "Which tip would help you identify a request?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-002",
+      "alt_text": "🧠 Identify a request; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "notice face, gesture, voice and relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_answer",
+    "question": "Which response would correctly match words and purposes?",
+    "audio_prompt": "Which response would correctly match words and purposes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-003",
+      "alt_text": "📖 Match words and purposes; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Help ↔ offer; library ↔ request; stand ↔ command",
+        "is_correct": false
+      },
+      {
+        "text": "Help ↔ offer; library ↔ command; stand ↔ command",
+        "is_correct": false
+      },
+      {
+        "text": "Help ↔ offer; library ↔ question; stand ↔ command",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Help ↔ offer; library ↔ question; stand ↔ command This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_strategy",
+    "question": "Which tip would help you match words and purposes?",
+    "audio_prompt": "Which tip would help you match words and purposes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-004",
+      "alt_text": "🧠 Match words and purposes; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_answer",
+    "question": "Which response would correctly show two meanings?",
+    "audio_prompt": "Which response would correctly show two meanings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-005",
+      "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "That is the one",
+        "is_correct": false
+      },
+      {
+        "text": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_strategy",
+    "question": "Which tip would help you show two meanings?",
+    "audio_prompt": "Which tip would help you show two meanings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-006",
+      "alt_text": "🧠 Show two meanings; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_answer",
+    "question": "Which response would correctly turn a command into a request?",
+    "audio_prompt": "Which response would correctly turn a command into a request?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-007",
+      "alt_text": "📖 Turn a command into a request; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'Could you please pass me the scissors?'",
+        "is_correct": true
+      },
+      {
+        "text": "Give me the scissors",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "'Could you please pass me the scissors?' This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_strategy",
+    "question": "Which tip would help you turn a command into a request?",
+    "audio_prompt": "Which tip would help you turn a command into a request?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-008",
+      "alt_text": "🧠 Turn a command into a request; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_05_answer",
+    "question": "Which response would correctly order an information exchange?",
+    "audio_prompt": "Which response would correctly order an information exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-009",
+      "alt_text": "📖 Order an information exchange; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "It starts at ten",
+        "is_correct": false
+      },
+      {
+        "text": "When does the game start",
+        "is_correct": false
+      },
+      {
+        "text": "Ask question → provide answer → acknowledge",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ask question → provide answer → acknowledge This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_05_strategy",
+    "question": "Which tip would help you order an information exchange?",
+    "audio_prompt": "Which tip would help you order an information exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-010",
+      "alt_text": "🧠 Order an information exchange; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing a question-and-answer interaction.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing a question-and-answer interaction.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_06_answer",
+    "question": "Which response would correctly draw matching expressions?",
+    "audio_prompt": "Which response would correctly draw matching expressions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-011",
+      "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "What a wonderful surprise",
+        "is_correct": false
+      },
+      {
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+        "is_correct": true
+      },
+      {
+        "text": "I do not understand yet",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_06_strategy",
+    "question": "Which tip would help you draw matching expressions?",
+    "audio_prompt": "Which tip would help you draw matching expressions?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-012",
+      "alt_text": "🧠 Draw matching expressions; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Change volume, tone or gesture to match meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_07_answer",
+    "question": "Which response would correctly explain a mixed message?",
+    "audio_prompt": "Which response would correctly explain a mixed message?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-013",
+      "alt_text": "📖 Explain a mixed message; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Words signal willingness, but expression/body language signal reluctance or unhappiness",
+        "is_correct": true
+      },
+      {
+        "text": "I am happy to help",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Words signal willingness, but expression/body language signal reluctance or unhappiness This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_07_strategy",
+    "question": "Which tip would help you explain a mixed message?",
+    "audio_prompt": "Which tip would help you explain a mixed message?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-014",
+      "alt_text": "🧠 Explain a mixed message; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_08_answer",
+    "question": "Which response would correctly choose language for a situation?",
+    "audio_prompt": "Which response would correctly choose language for a situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-015",
+      "alt_text": "📖 Choose language for a situation; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Example offer 'Would you like help?', gesture to assist/pick up, and friendly concerned expression This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_08_strategy",
+    "question": "Which tip would help you choose language for a situation?",
+    "audio_prompt": "Which tip would help you choose language for a situation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-016",
+      "alt_text": "🧠 Choose language for a situation; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_01_answer",
+    "question": "Which response would correctly classify an exclamation?",
+    "audio_prompt": "Which response would correctly classify an exclamation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-017",
+      "alt_text": "📖 Classify an exclamation; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Watch out",
+        "is_correct": false
+      },
+      {
+        "text": "It is an exclamation/warning intended to get urgent attention",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It is an exclamation/warning intended to get urgent attention This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_01_strategy",
+    "question": "Which tip would help you classify an exclamation?",
+    "audio_prompt": "Which tip would help you classify an exclamation?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-018",
+      "alt_text": "🧠 Classify an exclamation; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_answer",
+    "question": "Which response would correctly match fresh cues?",
+    "audio_prompt": "Which response would correctly match fresh cues?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-019",
+      "alt_text": "📖 Match fresh cues; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each gesture/expression matches the stated spoken meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Really",
+        "is_correct": false
+      },
+      {
+        "text": "Here you are",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each gesture/expression matches the stated spoken meaning This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_02_strategy",
+    "question": "Which tip would help you match fresh cues?",
+    "audio_prompt": "Which tip would help you match fresh cues?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-020",
+      "alt_text": "🧠 Match fresh cues; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Interpreting coordinated verbal and non-verbal cues.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Interpreting coordinated verbal and non-verbal cues.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_answer",
+    "question": "Which response would correctly sequence a polite offer?",
+    "audio_prompt": "Which response would correctly sequence a polite offer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-021",
+      "alt_text": "📖 Sequence a polite offer; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "May I help",
+        "is_correct": false
+      },
+      {
+        "text": "act with agreement → listen → offer → Notice",
+        "is_correct": false
+      },
+      {
+        "text": "Notice → offer → listen → act with agreement",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Notice → offer → listen → act with agreement This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_03_strategy",
+    "question": "Which tip would help you sequence a polite offer?",
+    "audio_prompt": "Which tip would help you sequence a polite offer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-022",
+      "alt_text": "🧠 Sequence a polite offer; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use polite wording when asking someone to do something.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_answer",
+    "question": "Which response would correctly provide clear information?",
+    "audio_prompt": "Which response would correctly provide clear information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-023",
+      "alt_text": "📖 Provide clear information; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Gives an understandable direction and landmark, such as 'Walk straight to the blue door beside the library'",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gives an understandable direction and landmark, such as 'Walk straight to the blue door beside the library' This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "practice",
+    "skill": "ac9e1la01_04_strategy",
+    "question": "Which tip would help you provide clear information?",
+    "audio_prompt": "Which tip would help you provide clear information?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-p-024",
+      "alt_text": "🧠 Provide clear information; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_answer",
+    "question": "Which response would correctly demonstrate question and command?",
+    "audio_prompt": "Which response would correctly demonstrate question and command?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
+      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_01_strategy",
+    "question": "Which tip would help you demonstrate question and command?",
+    "audio_prompt": "Which tip would help you demonstrate question and command?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
+      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "notice face, gesture, voice and relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_answer",
+    "question": "Which response would correctly draw a three-panel interaction?",
+    "audio_prompt": "Which response would correctly draw a three-panel interaction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-003",
+      "alt_text": "📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Panels show question, information with gesture, and acknowledgement in logical order",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Panels show question, information with gesture, and acknowledgement in logical order This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_02_strategy",
+    "question": "Which tip would help you draw a three-panel interaction?",
+    "audio_prompt": "Which tip would help you draw a three-panel interaction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-004",
+      "alt_text": "🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_answer",
+    "question": "Which response would correctly repair an impolite exchange?",
+    "audio_prompt": "Which response would correctly repair an impolite exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-005",
+      "alt_text": "📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Move",
+        "is_correct": false
+      },
+      {
+        "text": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_03_strategy",
+    "question": "Which tip would help you repair an impolite exchange?",
+    "audio_prompt": "Which tip would help you repair an impolite exchange?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-006",
+      "alt_text": "🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_answer",
+    "question": "Which response would correctly compare two deliveries?",
+    "audio_prompt": "Which response would correctly compare two deliveries?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-007",
+      "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Can you come here",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_04_strategy",
+    "question": "Which tip would help you compare two deliveries?",
+    "audio_prompt": "Which tip would help you compare two deliveries?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-008",
+      "alt_text": "🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice gesture/facial expression.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can notice gesture/facial expression.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-009",
+      "alt_text": "📖 Rule; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Words, voice, facial expression and gesture work together",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Words, voice, facial expression and gesture work together This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-010",
+      "alt_text": "🧠 Rule; ➡️ Notice purpose; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-011",
+      "alt_text": "📖 Worked example; 🔎 question; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "'Could you pass the blue pencil, please?' with an open hand is a polite request",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Could you pass the blue pencil, please?' with an open hand is a polite request This matches the task.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Choose words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Change volume, tone or gesture to match meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_07_answer",
+    "question": "Which statement correctly explains this key clue?",
+    "audio_prompt": "Which statement correctly explains this key clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-013",
+      "alt_text": "📖 Key clue; 🔎 offer; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use the key clue for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the key clue for this English skill This matches the task.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_07_strategy",
+    "question": "Which tip would help you key clue?",
+    "audio_prompt": "Which tip would help you key clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-014",
+      "alt_text": "🧠 Key clue; ➡️ Use voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "hint": "Also notice face, gesture, voice and relationship."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-015",
+      "alt_text": "📖 Common trap; 🔎 request; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use polite wording when asking someone to do something.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The same words can sound friendly, surprised or cross when voice and expression change.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The same words can sound friendly, surprised or cross when voice and expression change. This matches the task.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  },
+  {
+    "id": "AC9E1LA01-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA01",
+    "bank": "test",
+    "skill": "ac9e1la01_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Check response; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for request and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one voice for every purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only the words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for request and check the whole example.",
+      "hint": "Use polite wording when asking someone to do something."
+    }
+  }
+]

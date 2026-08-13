@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LY14-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_01_answer",
+    "question": "Read the word one in 'I have one bag.'",
+    "audio_prompt": "Read the word one in 'I have one bag.'",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-001",
+      "alt_text": "📖 Read a common word; 🔎 high-frequency; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "One",
+        "is_correct": true
+      },
+      {
+        "text": "I",
+        "is_correct": false
+      },
+      {
+        "text": "have",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_01_strategy",
+    "question": "Which tip would help you read a common word?",
+    "audio_prompt": "Which tip would help you read a common word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-002",
+      "alt_text": "🧠 Read a common word; ➡️ Read word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Map sounds and tricky letters.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Map sounds and tricky letters.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_02_answer",
+    "question": "Which response would correctly match words and sentences?",
+    "audio_prompt": "Which response would correctly match words and sentences?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-003",
+      "alt_text": "📖 Match words and sentences; 🔎 tricky part; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "I __ a hat",
+        "is_correct": false
+      },
+      {
+        "text": "Mia __ hello",
+        "is_correct": false
+      },
+      {
+        "text": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Have ↔ possess hat; said ↔ spoke hello; pretty ↔ describes shell This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_02_strategy",
+    "question": "Which tip would help you match words and sentences?",
+    "audio_prompt": "Which tip would help you match words and sentences?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-004",
+      "alt_text": "🧠 Match words and sentences; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_03_answer",
+    "question": "Which response would correctly write from memory?",
+    "audio_prompt": "Which response would correctly write from memory?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-005",
+      "alt_text": "📖 Write from memory; 🔎 read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "h-a-v-e in correct order, with self-check",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "h-a-v-e in correct order, with self-check This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_03_strategy",
+    "question": "Which tip would help you write from memory?",
+    "audio_prompt": "Which tip would help you write from memory?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-006",
+      "alt_text": "🧠 Write from memory; ➡️ Map tricky part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for read and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for read and check the whole example.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_04_answer",
+    "question": "Which response would correctly find the tricky part?",
+    "audio_prompt": "Which response would correctly find the tricky part?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-007",
+      "alt_text": "📖 Find the tricky part; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The whole pronunciation is less predictable from o-n-e",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The whole pronunciation is less predictable from o-n-e This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_04_strategy",
+    "question": "Which tip would help you find the tricky part?",
+    "audio_prompt": "Which tip would help you find the tricky part?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-008",
+      "alt_text": "🧠 Find the tricky part; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentences.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use in sentences.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_05_answer",
+    "question": "Which response would correctly order word practice?",
+    "audio_prompt": "Which response would correctly order word practice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-009",
+      "alt_text": "📖 Order word practice; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "check/correct → cover/write → notice → Read",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Read → notice → cover/write → check/correct",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Read → notice → cover/write → check/correct This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_05_strategy",
+    "question": "Which tip would help you order word practice?",
+    "audio_prompt": "Which tip would help you order word practice?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-010",
+      "alt_text": "🧠 Order word practice; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing an effective high-frequency-word routine.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing an effective high-frequency-word routine.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_06_answer",
+    "question": "Which response would correctly draw a word memory card?",
+    "audio_prompt": "Which response would correctly draw a word memory card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-011",
+      "alt_text": "📖 Draw a word memory card; 🔎 high-frequency; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Said spelled correctly, sentence meaningful and ai highlighted as remembered spelling This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_06_strategy",
+    "question": "Which tip would help you draw a word memory card?",
+    "audio_prompt": "Which tip would help you draw a word memory card?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-012",
+      "alt_text": "🧠 Draw a word memory card; ➡️ Read word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Cover, write and check carefully.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cover, write and check carefully.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_07_answer",
+    "question": "Complete 'They __ coming with us' using are or our.",
+    "audio_prompt": "Complete 'They __ coming with us' using are or our.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-013",
+      "alt_text": "📖 Choose the correct word; 🔎 tricky part; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Are",
+        "is_correct": true
+      },
+      {
+        "text": "our",
+        "is_correct": false
+      },
+      {
+        "text": "They",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Are This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_07_strategy",
+    "question": "Which tip would help you choose the correct word?",
+    "audio_prompt": "Which tip would help you choose the correct word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-014",
+      "alt_text": "🧠 Choose the correct word; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_08_answer",
+    "question": "Correct: 'I hav one littel bag.'",
+    "audio_prompt": "Correct: 'I hav one littel bag.'",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-015",
+      "alt_text": "📖 Edit a common-word sentence; 🔎 read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "I hav one littel bag",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "'I have one little bag.'",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "'I have one little bag.' This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_08_strategy",
+    "question": "Which tip would help you edit a common-word sentence?",
+    "audio_prompt": "Which tip would help you edit a common-word sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-016",
+      "alt_text": "🧠 Edit a common-word sentence; ➡️ Map tricky part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for read and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for read and check the whole example.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_01_answer",
+    "question": "Which response would correctly read without picture guessing?",
+    "audio_prompt": "Which response would correctly read without picture guessing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-017",
+      "alt_text": "📖 Read without picture guessing; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Come here, please",
+        "is_correct": false
+      },
+      {
+        "text": "Come and here",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Come and here This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_01_strategy",
+    "question": "Which tip would help you read without picture guessing?",
+    "audio_prompt": "Which tip would help you read without picture guessing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-018",
+      "alt_text": "🧠 Read without picture guessing; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentences.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can use in sentences.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_02_answer",
+    "question": "Which response would correctly match commonly confused words?",
+    "audio_prompt": "Which response would correctly match commonly confused words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-019",
+      "alt_text": "📖 Match commonly confused words; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Where ↔ place question; were ↔ past are; we're ↔ we are",
+        "is_correct": true
+      },
+      {
+        "text": "Where ↔ past are; were ↔ we are; we're ↔ place question",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Where ↔ place question; were ↔ past are; we're ↔ we are This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_02_strategy",
+    "question": "Which tip would help you match commonly confused words?",
+    "audio_prompt": "Which tip would help you match commonly confused words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-020",
+      "alt_text": "🧠 Match commonly confused words; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguishing visually similar frequent words.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distinguishing visually similar frequent words.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_03_answer",
+    "question": "Which response would correctly sequence a sentence?",
+    "audio_prompt": "Which response would correctly sequence a sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-021",
+      "alt_text": "📖 Sequence a sentence; 🔎 high-frequency; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "We have some apples.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "We have some apples. This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_03_strategy",
+    "question": "Which tip would help you sequence a sentence?",
+    "audio_prompt": "Which tip would help you sequence a sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-022",
+      "alt_text": "🧠 Sequence a sentence; ➡️ Read word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use it in a sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use it in a sentence.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_04_answer",
+    "question": "Write one, have and pretty from memory, then circle any corrected letter.",
+    "audio_prompt": "Write one, have and pretty from memory, then circle any corrected letter.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-023",
+      "alt_text": "📖 Recall a taught set; 🔎 tricky part; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "All three final spellings accurate; correction process shown if needed",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All three final spellings accurate; correction process shown if needed This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "practice",
+    "skill": "ac9e1ly14_04_strategy",
+    "question": "Which tip would help you recall a taught set?",
+    "audio_prompt": "Which tip would help you recall a taught set?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-p-024",
+      "alt_text": "🧠 Recall a taught set; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_01_answer",
+    "question": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
+    "audio_prompt": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
+      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All five read accurately with improved or steady smoothness",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All five read accurately with improved or steady smoothness This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_01_strategy",
+    "question": "Which tip would help you demonstrate rapid accurate reading?",
+    "audio_prompt": "Which tip would help you demonstrate rapid accurate reading?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
+      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Map sounds and tricky letters.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Map sounds and tricky letters.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_02_answer",
+    "question": "Which response would correctly draw meaning contrasts?",
+    "audio_prompt": "Which response would correctly draw meaning contrasts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-003",
+      "alt_text": "📖 Draw meaning contrasts; 🔎 tricky part; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Three meanings distinguished and spellings used correctly in age-supported sentences",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three meanings distinguished and spellings used correctly in age-supported sentences This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_02_strategy",
+    "question": "Which tip would help you draw meaning contrasts?",
+    "audio_prompt": "Which tip would help you draw meaning contrasts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-004",
+      "alt_text": "🧠 Draw meaning contrasts; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_03_answer",
+    "question": "Which response would correctly correct visual similarity error?",
+    "audio_prompt": "Which response would correctly correct visual similarity error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-005",
+      "alt_text": "📖 Correct visual similarity error; 🔎 read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Look through all letters, blend/recognise the whole word and check sentence meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look through all letters, blend/recognise the whole word and check sentence meaning This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_03_strategy",
+    "question": "Which tip would help you correct visual similarity error?",
+    "audio_prompt": "Which tip would help you correct visual similarity error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-006",
+      "alt_text": "🧠 Correct visual similarity error; ➡️ Map tricky part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for read and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for read and check the whole example.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_04_answer",
+    "question": "Which response would correctly use a high-frequency word bank?",
+    "audio_prompt": "Which response would correctly use a high-frequency word bank?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-007",
+      "alt_text": "📖 Use a high-frequency word bank; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Four coherent sentences; eight appropriate frequent words underlined and accurately spelled after checking",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Four coherent sentences; eight appropriate frequent words underlined and accurately spelled after checking This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_04_strategy",
+    "question": "Which tip would help you use a high-frequency word bank?",
+    "audio_prompt": "Which tip would help you use a high-frequency word bank?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-008",
+      "alt_text": "🧠 Use a high-frequency word bank; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can use in sentences.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can use in sentences.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-009",
+      "alt_text": "📖 Rule; 🔎 sentence; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "High-frequency words appear often, so readers learn to recognise and write them quickly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "High-frequency words appear often, so readers learn to recognise and write them quickly This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-010",
+      "alt_text": "🧠 Rule; ➡️ Use in sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-011",
+      "alt_text": "📖 Worked example; 🔎 high-frequency; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "In have, h and v are regular, while the final e does not make a long-a sound",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In have, h and v are regular, while the final e does not make a long-a sound This matches the task.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Read word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Cover, write and check carefully.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cover, write and check carefully.",
+      "hint": "Cover, write and check carefully."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_07_answer",
+    "question": "Which statement correctly explains this practice strategy?",
+    "audio_prompt": "Which statement correctly explains this practice strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-013",
+      "alt_text": "📖 Practice strategy; 🔎 tricky part; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Read the word in a sentence, notice the tricky part, write it from memory, then compare and correct.",
+        "is_correct": true
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Read the word in a sentence, notice the tricky part, write it from memory, then compare and correct. This matches the task.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_07_strategy",
+    "question": "Which tip would help you practice strategy?",
+    "audio_prompt": "Which tip would help you practice strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-014",
+      "alt_text": "🧠 Practice strategy; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "hint": "Map sounds and tricky letters."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-015",
+      "alt_text": "📖 Common trap; 🔎 read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not use it in a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Fast guessing is not mastery; the word must be read accurately and spelled correctly in meaningful text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Fast guessing is not mastery; the word must be read accurately and spelled correctly in meaningful text. This matches the task.",
+      "hint": "Use it in a sentence."
+    }
+  },
+  {
+    "id": "AC9E1LY14-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY14",
+    "bank": "test",
+    "skill": "ac9e1ly14_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Map tricky part; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for read and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore errors.",
+        "is_correct": false
+      },
+      {
+        "text": "Memorise only the word shape.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for read and check the whole example.",
+      "hint": "Use it in a sentence."
+    }
+  }
+]

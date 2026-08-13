@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LY13-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_01_answer",
+    "question": "Write the word made by adding m to the beginning of -at.",
+    "audio_prompt": "Write the word made by adding m to the beginning of -at.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-001",
+      "alt_text": "📖 Spell a word family member; 🔎 letter pattern; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Mat",
+        "is_correct": true
+      },
+      {
+        "text": "met",
+        "is_correct": false
+      },
+      {
+        "text": "map",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mat This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_01_strategy",
+    "question": "Which tip would help you spell a word family member?",
+    "audio_prompt": "Which tip would help you spell a word family member?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-002",
+      "alt_text": "🧠 Spell a word family member; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Use sound and pattern knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use sound and pattern knowledge.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_02_answer",
+    "question": "Which response would correctly match patterns and words?",
+    "audio_prompt": "Which response would correctly match patterns and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-003",
+      "alt_text": "📖 Match patterns and words; 🔎 syllable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Each pattern matched correctly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each pattern matched correctly This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_02_strategy",
+    "question": "Which tip would help you match patterns and words?",
+    "audio_prompt": "Which tip would help you match patterns and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-004",
+      "alt_text": "🧠 Match patterns and words; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_03_answer",
+    "question": "Which response would correctly build a blend word?",
+    "audio_prompt": "Which response would correctly build a blend word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-005",
+      "alt_text": "📖 Build a blend word; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "s-t-o-p in correct order, with st blend retained",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "s-t-o-p in correct order, with st blend retained This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_03_strategy",
+    "question": "Which tip would help you build a blend word?",
+    "audio_prompt": "Which tip would help you build a blend word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-006",
+      "alt_text": "🧠 Build a blend word; ➡️ Choose pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for segment and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for segment and check the whole example.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_04_answer",
+    "question": "Which response would correctly split a two-syllable word?",
+    "audio_prompt": "Which response would correctly split a two-syllable word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-007",
+      "alt_text": "📖 Split a two-syllable word; 🔎 spell; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Pic/nic → picnic",
+        "is_correct": true
+      },
+      {
+        "text": "picnic → Pic/nic",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pic/nic → picnic This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_04_strategy",
+    "question": "Which tip would help you split a two-syllable word?",
+    "audio_prompt": "Which tip would help you split a two-syllable word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-008",
+      "alt_text": "🧠 Split a two-syllable word; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can segment before spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can segment before spelling.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_05_answer",
+    "question": "Which response would correctly order spelling checks?",
+    "audio_prompt": "Which response would correctly order spelling checks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-009",
+      "alt_text": "📖 Order spelling checks; 🔎 check; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "reread/check → write → segment → Say",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Say → segment → write → reread/check",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Say → segment → write → reread/check This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_05_strategy",
+    "question": "Which tip would help you order spelling checks?",
+    "audio_prompt": "Which tip would help you order spelling checks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-010",
+      "alt_text": "🧠 Order spelling checks; ➡️ Check; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing a spelling strategy.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing a spelling strategy.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_06_answer",
+    "question": "Which response would correctly draw a word-family house?",
+    "audio_prompt": "Which response would correctly draw a word-family house?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-011",
+      "alt_text": "📖 Draw a word-family house; 🔎 letter pattern; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "All three words spelled correctly and -op highlighted",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All three words spelled correctly and -op highlighted This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_06_strategy",
+    "question": "Which tip would help you draw a word-family house?",
+    "audio_prompt": "Which tip would help you draw a word-family house?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-012",
+      "alt_text": "🧠 Draw a word-family house; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare with a known word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare with a known word.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_07_answer",
+    "question": "Which response would correctly explain a missing blend letter?",
+    "audio_prompt": "Which response would correctly explain a missing blend letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-013",
+      "alt_text": "📖 Explain a missing blend letter; 🔎 syllable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "/l/ and letter l are missing from bl",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "/l/ and letter l are missing from bl This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_07_strategy",
+    "question": "Which tip would help you explain a missing blend letter?",
+    "audio_prompt": "Which tip would help you explain a missing blend letter?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-014",
+      "alt_text": "🧠 Explain a missing blend letter; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_08_answer",
+    "question": "Which response would correctly spell from two chunks?",
+    "audio_prompt": "Which response would correctly spell from two chunks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-015",
+      "alt_text": "📖 Spell from two chunks; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Bed + room = bedroom",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bed + room = bedroom This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_08_strategy",
+    "question": "Which tip would help you spell from two chunks?",
+    "audio_prompt": "Which tip would help you spell from two chunks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-016",
+      "alt_text": "🧠 Spell from two chunks; ➡️ Choose pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for segment and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for segment and check the whole example.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_01_answer",
+    "question": "Write the word cake from the sounds /k/ /ā/ /k/ using a common pattern.",
+    "audio_prompt": "Write the word cake from the sounds /k/ /ā/ /k/ using a common pattern.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-017",
+      "alt_text": "📖 Use a long-vowel pattern; 🔎 spell; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "a common pattern",
+        "is_correct": false
+      },
+      {
+        "text": "Cake",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Cake This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_01_strategy",
+    "question": "Which tip would help you use a long-vowel pattern?",
+    "audio_prompt": "Which tip would help you use a long-vowel pattern?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-018",
+      "alt_text": "🧠 Use a long-vowel pattern; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can segment before spelling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can segment before spelling.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_02_answer",
+    "question": "Which response would correctly match blends and words?",
+    "audio_prompt": "Which response would correctly match blends and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-019",
+      "alt_text": "📖 Match blends and words; 🔎 check; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning",
+        "is_correct": true
+      },
+      {
+        "text": "Bl ↔ nest ending; st ↔ crab beginning; cr ↔ blue beginning",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bl ↔ blue beginning; st ↔ nest ending; cr ↔ crab beginning This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_02_strategy",
+    "question": "Which tip would help you match blends and words?",
+    "audio_prompt": "Which tip would help you match blends and words?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-020",
+      "alt_text": "🧠 Match blends and words; ➡️ Check; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognising initial and final blend spellings.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognising initial and final blend spellings.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_03_answer",
+    "question": "Which response would correctly sequence syllable cards?",
+    "audio_prompt": "Which response would correctly sequence syllable cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-021",
+      "alt_text": "📖 Sequence syllable cards; 🔎 letter pattern; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain + bow = rainbow",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rain + bow = rainbow This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_03_strategy",
+    "question": "Which tip would help you sequence syllable cards?",
+    "audio_prompt": "Which tip would help you sequence syllable cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-022",
+      "alt_text": "🧠 Sequence syllable cards; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Clap and spell both parts.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clap and spell both parts.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_04_answer",
+    "question": "Which spelling fits the long /ī/ word: tim or time? Explain.",
+    "audio_prompt": "Which spelling fits the long /ī/ word: tim or time? Explain.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-023",
+      "alt_text": "📖 Choose between patterns; 🔎 syllable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Time; i_e represents the long /ī/ sound here",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Time; i_e represents the long /ī/ sound here This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "ac9e1ly13_04_strategy",
+    "question": "Which tip would help you choose between patterns?",
+    "audio_prompt": "Which tip would help you choose between patterns?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-p-024",
+      "alt_text": "🧠 Choose between patterns; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_01_answer",
+    "question": "Which response would correctly demonstrate say-segment-write?",
+    "audio_prompt": "Which response would correctly demonstrate say-segment-write?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
+      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Says frog, segments /f r o g/, writes f-r-o-g and rereads",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Says frog, segments /f r o g/, writes f-r-o-g and rereads This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_01_strategy",
+    "question": "Which tip would help you demonstrate say-segment-write?",
+    "audio_prompt": "Which tip would help you demonstrate say-segment-write?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
+      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Use sound and pattern knowledge.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use sound and pattern knowledge.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_02_answer",
+    "question": "Write rabbit in two boxes for rab and bit. Underline the vowel pattern in each.",
+    "audio_prompt": "Write rabbit in two boxes for rab and bit. Underline the vowel pattern in each.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-003",
+      "alt_text": "📖 Draw syllable boxes; 🔎 syllable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Rab | bit, complete spelling with a and i identified",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rab | bit, complete spelling with a and i identified This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_02_strategy",
+    "question": "Which tip would help you draw syllable boxes?",
+    "audio_prompt": "Which tip would help you draw syllable boxes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-004",
+      "alt_text": "🧠 Draw syllable boxes; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_03_answer",
+    "question": "Which response would correctly correct a pattern error?",
+    "audio_prompt": "Which response would correctly correct a pattern error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-005",
+      "alt_text": "📖 Correct a pattern error; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Recognises shared -ight chunk from light/right; correct spelling night",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_03_strategy",
+    "question": "Which tip would help you correct a pattern error?",
+    "audio_prompt": "Which tip would help you correct a pattern error?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-006",
+      "alt_text": "🧠 Correct a pattern error; ➡️ Choose pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for segment and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for segment and check the whole example.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_04_answer",
+    "question": "Which response would correctly spell and justify a mixed list?",
+    "audio_prompt": "Which response would correctly spell and justify a mixed list?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-007",
+      "alt_text": "📖 Spell and justify a mixed list; 🔎 spell; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All four correct; pl blend, sh digraph, sun/set, oa pattern, each explanation accurate",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All four correct; pl blend, sh digraph, sun/set, oa pattern, each explanation accurate This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_04_strategy",
+    "question": "Which tip would help you spell and justify a mixed list?",
+    "audio_prompt": "Which tip would help you spell and justify a mixed list?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-008",
+      "alt_text": "🧠 Spell and justify a mixed list; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can segment before spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can segment before spelling.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-009",
+      "alt_text": "📖 Rule; 🔎 check; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the rule for this English skill",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the rule for this English skill This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-010",
+      "alt_text": "🧠 Rule; ➡️ Check; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-011",
+      "alt_text": "📖 Worked example; 🔎 letter pattern; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "sunset splits sun/set",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "sunset splits sun/set This matches the task.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare with a known word.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare with a known word.",
+      "hint": "Compare with a known word."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_07_answer",
+    "question": "Which statement correctly explains this pattern clue?",
+    "audio_prompt": "Which statement correctly explains this pattern clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-013",
+      "alt_text": "📖 Pattern clue; 🔎 syllable; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Word families share chunks such as -at, -ake or -ight; blends such as bl and st keep both consonants.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Word families share chunks such as -at, -ake or -ight; blends such as bl and st keep both consonants. This matches the task.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_07_strategy",
+    "question": "Which tip would help you pattern clue?",
+    "audio_prompt": "Which tip would help you pattern clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-014",
+      "alt_text": "🧠 Pattern clue; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "hint": "Use sound and pattern knowledge."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-015",
+      "alt_text": "📖 Common trap; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out second syllable.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "A word that rhymes may use a different spelling, so check the known pattern and visual word memory.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A word that rhymes may use a different spelling, so check the known pattern and visual word memory. This matches the task.",
+      "hint": "Clap and spell both parts."
+    }
+  },
+  {
+    "id": "AC9E1LY13-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "ac9e1ly13_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Choose pattern; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for segment and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check the spelling pattern.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use sound and pattern knowledge.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for segment and check the whole example.",
+      "hint": "Clap and spell both parts."
+    }
+  }
+]

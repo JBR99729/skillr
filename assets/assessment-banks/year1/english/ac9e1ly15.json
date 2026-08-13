@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LY15-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_01_answer",
+    "question": "What base word is inside played?",
+    "audio_prompt": "What base word is inside played?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-001",
+      "alt_text": "📖 Find the base; 🔎 base word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Play",
+        "is_correct": true
+      },
+      {
+        "text": "played",
+        "is_correct": false
+      },
+      {
+        "text": "ed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Play This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_01_strategy",
+    "question": "Which tip would help you find the base?",
+    "audio_prompt": "Which tip would help you find the base?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-002",
+      "alt_text": "🧠 Find the base; ➡️ Find base word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain what the morpheme changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain what the morpheme changes.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_02_answer",
+    "question": "Which response would correctly match endings and meanings?",
+    "audio_prompt": "Which response would correctly match endings and meanings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-003",
+      "alt_text": "📖 Match endings and meanings; 🔎 morpheme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "-s ↔ past; -ed ↔ ongoing; -ing ↔ plays/present one actor",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "-s ↔ plays/present one actor; -ed ↔ past; -ing ↔ ongoing This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_02_strategy",
+    "question": "Which tip would help you match endings and meanings?",
+    "audio_prompt": "Which tip would help you match endings and meanings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-004",
+      "alt_text": "🧠 Match endings and meanings; ➡️ Add morpheme; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_03_answer",
+    "question": "Which response would correctly build a word family?",
+    "audio_prompt": "Which response would correctly build a word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-005",
+      "alt_text": "📖 Build a word family; 🔎 word family; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "All four forms constructed/read accurately with base jump retained",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All four forms constructed/read accurately with base jump retained This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_03_strategy",
+    "question": "Which tip would help you build a word family?",
+    "audio_prompt": "Which tip would help you build a word family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-006",
+      "alt_text": "🧠 Build a word family; ➡️ Read new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for word family and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for word family and check the whole example.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_04_answer",
+    "question": "Complete 'Yesterday we __ in puddles' using jump, jumped or jumping.",
+    "audio_prompt": "Complete 'Yesterday we __ in puddles' using jump, jumped or jumping.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-007",
+      "alt_text": "📖 Choose the time form; 🔎 -ed; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Jumped",
+        "is_correct": true
+      },
+      {
+        "text": "jump",
+        "is_correct": false
+      },
+      {
+        "text": "jumping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Jumped This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_04_strategy",
+    "question": "Which tip would help you choose the time form?",
+    "audio_prompt": "Which tip would help you choose the time form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-008",
+      "alt_text": "🧠 Choose the time form; ➡️ Explain meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can build word families.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can build word families.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_05_answer",
+    "question": "Which response would correctly order a family?",
+    "audio_prompt": "Which response would correctly order a family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-009",
+      "alt_text": "📖 Order a family; 🔎 -ing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look first; looks/looked/looking follow as derived forms, with any logical ending order accepted after base This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_05_strategy",
+    "question": "Which tip would help you order a family?",
+    "audio_prompt": "Which tip would help you order a family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-010",
+      "alt_text": "🧠 Order a family; ➡️ Find base word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Recognising base and family members.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Recognising base and family members.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_06_answer",
+    "question": "Which response would correctly draw a family tree?",
+    "audio_prompt": "Which response would correctly draw a family tree?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-011",
+      "alt_text": "📖 Draw a family tree; 🔎 base word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Base read and related branches -s, -ing, -er accurately shown; reader accepted as related agent noun This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_06_strategy",
+    "question": "Which tip would help you draw a family tree?",
+    "audio_prompt": "Which tip would help you draw a family tree?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-012",
+      "alt_text": "🧠 Draw a family tree; ➡️ Add morpheme; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Word families here are about shared meaning parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Word families here are about shared meaning parts.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_07_answer",
+    "question": "How are walk and walked related, and what new meaning does -ed add?",
+    "audio_prompt": "How are walk and walked related, and what new meaning does -ed add?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-013",
+      "alt_text": "📖 Explain shared meaning; 🔎 morpheme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Both name walking action; -ed places it in the past/completed time",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both name walking action; -ed places it in the past/completed time This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_07_strategy",
+    "question": "Which tip would help you explain shared meaning?",
+    "audio_prompt": "Which tip would help you explain shared meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-014",
+      "alt_text": "🧠 Explain shared meaning; ➡️ Read new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_08_answer",
+    "question": "Which response would correctly create sentence contrasts?",
+    "audio_prompt": "Which response would correctly create sentence contrasts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-015",
+      "alt_text": "📖 Create sentence contrasts; 🔎 word family; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Two grammatical sentences showing present/habitual versus past action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two grammatical sentences showing present/habitual versus past action This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_08_strategy",
+    "question": "Which tip would help you create sentence contrasts?",
+    "audio_prompt": "Which tip would help you create sentence contrasts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-016",
+      "alt_text": "🧠 Create sentence contrasts; ➡️ Explain meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for word family and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for word family and check the whole example.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_01_answer",
+    "question": "Which word fits 'The dog is __ now': bark, barked or barking?",
+    "audio_prompt": "Which word fits 'The dog is __ now': bark, barked or barking?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-017",
+      "alt_text": "📖 Recognise an ongoing form; 🔎 -ed; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "bark",
+        "is_correct": false
+      },
+      {
+        "text": "Barking",
+        "is_correct": true
+      },
+      {
+        "text": "barked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Barking This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_01_strategy",
+    "question": "Which tip would help you recognise an ongoing form?",
+    "audio_prompt": "Which tip would help you recognise an ongoing form?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-018",
+      "alt_text": "🧠 Recognise an ongoing form; ➡️ Find base word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can build word families.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can build word families.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_02_answer",
+    "question": "Which response would correctly match bases and families?",
+    "audio_prompt": "Which response would correctly match bases and families?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-019",
+      "alt_text": "📖 Match bases and families; 🔎 -ing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each family matches its base",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each family matches its base This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_02_strategy",
+    "question": "Which tip would help you match bases and families?",
+    "audio_prompt": "Which tip would help you match bases and families?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-020",
+      "alt_text": "🧠 Match bases and families; ➡️ Add morpheme; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Grouping words by meaningful base.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Grouping words by meaningful base.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_03_answer",
+    "question": "Which response would correctly sequence word building?",
+    "audio_prompt": "Which response would correctly sequence word building?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-021",
+      "alt_text": "📖 Sequence word building; 🔎 base word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "read whole word → join playing → choose -ing → Find/read base play",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Find/read base play → choose -ing → join playing → read whole word",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Find/read base play → choose -ing → join playing → read whole word This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_03_strategy",
+    "question": "Which tip would help you sequence word building?",
+    "audio_prompt": "Which tip would help you sequence word building?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-022",
+      "alt_text": "🧠 Sequence word building; ➡️ Read new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Find the base word first.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Find the base word first.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_04_answer",
+    "question": "Complete 'The bird __' and 'The birds __' using sings and sing.",
+    "audio_prompt": "Complete 'The bird __' and 'The birds __' using sings and sing.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-023",
+      "alt_text": "📖 Choose subject agreement; 🔎 morpheme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The bird __",
+        "is_correct": false
+      },
+      {
+        "text": "The bird sings; the birds sing",
+        "is_correct": true
+      },
+      {
+        "text": "The birds __",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The bird sings; the birds sing This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "ac9e1ly15_04_strategy",
+    "question": "Which tip would help you choose subject agreement?",
+    "audio_prompt": "Which tip would help you choose subject agreement?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-p-024",
+      "alt_text": "🧠 Choose subject agreement; ➡️ Explain meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_01_answer",
+    "question": "Which response would correctly demonstrate morpheme removal?",
+    "audio_prompt": "Which response would correctly demonstrate morpheme removal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
+      "alt_text": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Playing → play; ongoing form returns to base action",
+        "is_correct": true
+      },
+      {
+        "text": "play; ongoing form returns to base action → Playing",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Playing → play; ongoing form returns to base action This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_01_strategy",
+    "question": "Which tip would help you demonstrate morpheme removal?",
+    "audio_prompt": "Which tip would help you demonstrate morpheme removal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
+      "alt_text": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain what the morpheme changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain what the morpheme changes.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_02_answer",
+    "question": "Which response would correctly draw base and compound?",
+    "audio_prompt": "Which response would correctly draw base and compound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-003",
+      "alt_text": "📖 Draw base and compound; 🔎 morpheme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Play + ground = playground; combined meaning is a ground/place for play",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Play + ground = playground; combined meaning is a ground/place for play This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_02_strategy",
+    "question": "Which tip would help you draw base and compound?",
+    "audio_prompt": "Which tip would help you draw base and compound?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-004",
+      "alt_text": "🧠 Draw base and compound; ➡️ Add morpheme; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_03_answer",
+    "question": "Which response would correctly correct a false family?",
+    "audio_prompt": "Which response would correctly correct a false family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-005",
+      "alt_text": "📖 Correct a false family; 🔎 word family; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Play and played share base/meaning; plate only shares letters and is unrelated",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Play and played share base/meaning; plate only shares letters and is unrelated This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_03_strategy",
+    "question": "Which tip would help you correct a false family?",
+    "audio_prompt": "Which tip would help you correct a false family?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-006",
+      "alt_text": "🧠 Correct a false family; ➡️ Read new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for word family and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for word family and check the whole example.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_04_answer",
+    "question": "Which response would correctly analyse a family in text?",
+    "audio_prompt": "Which response would correctly analyse a family in text?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-007",
+      "alt_text": "📖 Analyse a family in text; 🔎 -ed; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Paint base + -er person, paint + -ed past",
+        "is_correct": true
+      },
+      {
+        "text": "The painter painted while her helper was helping",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Paint base + -er person, paint + -ed past This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_04_strategy",
+    "question": "Which tip would help you analyse a family in text?",
+    "audio_prompt": "Which tip would help you analyse a family in text?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-008",
+      "alt_text": "🧠 Analyse a family in text; ➡️ Explain meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can build word families.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can build word families.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-009",
+      "alt_text": "📖 Rule; 🔎 -ing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "A morpheme is a meaningful word part",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A morpheme is a meaningful word part This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-010",
+      "alt_text": "🧠 Rule; ➡️ Find base word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-011",
+      "alt_text": "📖 Worked example; 🔎 base word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "play, plays, played and playing share the base play",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "play, plays, played and playing share the base play This matches the task.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Add morpheme; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Word families here are about shared meaning parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Word families here are about shared meaning parts.",
+      "hint": "Word families here are about shared meaning parts."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_07_answer",
+    "question": "Which statement correctly explains this word strategy?",
+    "audio_prompt": "Which statement correctly explains this word strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-013",
+      "alt_text": "📖 Word strategy; 🔎 morpheme; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use the word strategy for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the word strategy for this English skill This matches the task.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_07_strategy",
+    "question": "Which tip would help you word strategy?",
+    "audio_prompt": "Which tip would help you word strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-014",
+      "alt_text": "🧠 Word strategy; ➡️ Read new word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Find base word → Add morpheme → Read new word → Explain meaning.",
+      "hint": "Explain what the morpheme changes."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-015",
+      "alt_text": "📖 Common trap; 🔎 word family; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not find the base word first.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Words that merely start alike are not always one grammatical family",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Words that merely start alike are not always one grammatical family This matches the task.",
+      "hint": "Find the base word first."
+    }
+  },
+  {
+    "id": "AC9E1LY15-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "ac9e1ly15_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Explain meaning; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for word family and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat word family as rhymes.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the ending as having no meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for word family and check the whole example.",
+      "hint": "Find the base word first."
+    }
+  }
+]

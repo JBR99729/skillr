@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "AC9E1LE03-P-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_01_answer",
+    "question": "Which response would correctly identify the setting?",
+    "audio_prompt": "Which response would correctly identify the setting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-001",
+      "alt_text": "📖 Identify the setting; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Beside the river at sunrise",
+        "is_correct": true
+      },
+      {
+        "text": "At sunrise, Kian waits beside the river",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Beside the river at sunrise This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_01_strategy",
+    "question": "Which tip would help you identify the setting?",
+    "audio_prompt": "Which tip would help you identify the setting?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-002",
+      "alt_text": "🧠 Identify the setting; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Characters usually act or feel in the story.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_02_answer",
+    "question": "Which response would correctly match features?",
+    "audio_prompt": "Which response would correctly match features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-003",
+      "alt_text": "📖 Match features; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "beginning ↔ who; setting ↔ where/when; plot ↔ events",
+        "is_correct": false
+      },
+      {
+        "text": "setting ↔ who; setting ↔ where/when; plot ↔ events",
+        "is_correct": false
+      },
+      {
+        "text": "Character ↔ who; setting ↔ where/when; plot ↔ events",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character ↔ who; setting ↔ where/when; plot ↔ events This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_02_strategy",
+    "question": "Which tip would help you match features?",
+    "audio_prompt": "Which tip would help you match features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-004",
+      "alt_text": "🧠 Match features; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_03_answer",
+    "question": "Which response would correctly act a character goal?",
+    "audio_prompt": "Which response would correctly act a character goal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-005",
+      "alt_text": "📖 Act a character goal; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Gives a safe, character-led action such as asking an adult, linked to goal",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gives a safe, character-led action such as asking an adult, linked to goal This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_03_strategy",
+    "question": "Which tip would help you act a character goal?",
+    "audio_prompt": "Which tip would help you act a character goal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-006",
+      "alt_text": "🧠 Act a character goal; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for setting and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_04_answer",
+    "question": "Which response would correctly find the problem?",
+    "audio_prompt": "Which response would correctly find the problem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-007",
+      "alt_text": "📖 Find the problem; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The map is blown away/lost, making navigation difficult",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The map is blown away/lost, making navigation difficult This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_04_strategy",
+    "question": "Which tip would help you find the problem?",
+    "audio_prompt": "Which tip would help you find the problem?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-008",
+      "alt_text": "🧠 Find the problem; ➡️ Sequence plot; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can sequence events.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can sequence events.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_05_answer",
+    "question": "Which response would correctly order a mini-plot?",
+    "audio_prompt": "Which response would correctly order a mini-plot?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-009",
+      "alt_text": "📖 Order a mini-plot; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "enter garden → key found → search → Gate locked",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Gate locked → search → key found → enter garden",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gate locked → search → key found → enter garden This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_05_strategy",
+    "question": "Which tip would help you order a mini-plot?",
+    "audio_prompt": "Which tip would help you order a mini-plot?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-010",
+      "alt_text": "🧠 Order a mini-plot; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing problem, attempts and resolution.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing problem, attempts and resolution.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_06_answer",
+    "question": "Which response would correctly draw a setting clue?",
+    "audio_prompt": "Which response would correctly draw a setting clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-011",
+      "alt_text": "📖 Draw a setting clue; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Two clear location/time clues such as platform, tracks, clock, darkness or lights",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two clear location/time clues such as platform, tracks, clock, darkness or lights This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_06_strategy",
+    "question": "Which tip would help you draw a setting clue?",
+    "audio_prompt": "Which tip would help you draw a setting clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-012",
+      "alt_text": "🧠 Draw a setting clue; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Track events across beginning, middle and end.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_07_answer",
+    "question": "How might a very patient character act differently from an impatient character when a bus is late?",
+    "audio_prompt": "How might a very patient character act differently from an impatient character when a bus is late?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-013",
+      "alt_text": "📖 Explain character effect; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Patient character waits/checks calmly; impatient character may complain/rush, affecting subsequent events This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_07_strategy",
+    "question": "Which tip would help you explain character effect?",
+    "audio_prompt": "Which tip would help you explain character effect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-014",
+      "alt_text": "🧠 Explain character effect; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_08_answer",
+    "question": "Which response would correctly connect all three features?",
+    "audio_prompt": "Which response would correctly connect all three features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-015",
+      "alt_text": "📖 Connect all three features; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "All three features are explicit and logically connected",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All three features are explicit and logically connected This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_08_strategy",
+    "question": "Which tip would help you connect all three features?",
+    "audio_prompt": "Which tip would help you connect all three features?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-016",
+      "alt_text": "🧠 Connect all three features; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for setting and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_01_answer",
+    "question": "Which response would correctly name the resolution?",
+    "audio_prompt": "Which response would correctly name the resolution?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-017",
+      "alt_text": "📖 Name the resolution; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "The safe board bridge lets the puppy cross",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The safe board bridge lets the puppy cross This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_01_strategy",
+    "question": "Which tip would help you name the resolution?",
+    "audio_prompt": "Which tip would help you name the resolution?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-018",
+      "alt_text": "🧠 Name the resolution; ➡️ Sequence plot; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can sequence events.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can sequence events.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_02_answer",
+    "question": "Which response would correctly match characters to goals?",
+    "audio_prompt": "Which response would correctly match characters to goals?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-019",
+      "alt_text": "📖 Match characters to goals; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Each character matches the logical goal",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each character matches the logical goal This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_02_strategy",
+    "question": "Which tip would help you match characters to goals?",
+    "audio_prompt": "Which tip would help you match characters to goals?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-020",
+      "alt_text": "🧠 Match characters to goals; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Connecting characters with plot motivations.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connecting characters with plot motivations.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_03_answer",
+    "question": "Which response would correctly sequence setting change?",
+    "audio_prompt": "Which response would correctly sequence setting change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-021",
+      "alt_text": "📖 Sequence setting change; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "continue walk → morning sun → cabin shelter → Storm",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Storm → cabin shelter → morning sun → continue walk",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Storm → cabin shelter → morning sun → continue walk This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_03_strategy",
+    "question": "Which tip would help you sequence setting change?",
+    "audio_prompt": "Which tip would help you sequence setting change?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-022",
+      "alt_text": "🧠 Sequence setting change; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Ask where and when the story happens.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ask where and when the story happens.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_04_answer",
+    "question": "How would a chase plot change if it happened in an open field rather than a crowded market?",
+    "audio_prompt": "How would a chase plot change if it happened in an open field rather than a crowded market?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-023",
+      "alt_text": "📖 Compare two settings; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Gives one relevant difference in obstacles, visibility, movement or tension",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gives one relevant difference in obstacles, visibility, movement or tension This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "practice",
+    "skill": "ac9e1le03_04_strategy",
+    "question": "Which tip would help you compare two settings?",
+    "audio_prompt": "Which tip would help you compare two settings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-p-024",
+      "alt_text": "🧠 Compare two settings; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_01_answer",
+    "question": "Which response would correctly demonstrate character response?",
+    "audio_prompt": "Which response would correctly demonstrate character response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001",
+      "alt_text": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Response combines courage with checking/seeking help rather than unsafe action",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Response combines courage with checking/seeking help rather than unsafe action This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_01_strategy",
+    "question": "Which tip would help you demonstrate character response?",
+    "audio_prompt": "Which tip would help you demonstrate character response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002",
+      "alt_text": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Characters usually act or feel in the story.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Characters usually act or feel in the story.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_02_answer",
+    "question": "Which response would correctly draw plot mountain?",
+    "audio_prompt": "Which response would correctly draw plot mountain?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-003",
+      "alt_text": "📖 Draw plot mountain; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Four logical, connected stages with problem addressed in resolution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four logical, connected stages with problem addressed in resolution This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_02_strategy",
+    "question": "Which tip would help you draw plot mountain?",
+    "audio_prompt": "Which tip would help you draw plot mountain?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-004",
+      "alt_text": "🧠 Draw plot mountain; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_03_answer",
+    "question": "Which response would correctly correct a setting mix-up?",
+    "audio_prompt": "Which response would correctly correct a setting mix-up?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-005",
+      "alt_text": "📖 Correct a setting mix-up; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Identifies inconsistent time/place and changes at least two details to create one coherent setting",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Identifies inconsistent time/place and changes at least two details to create one coherent setting This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_03_strategy",
+    "question": "Which tip would help you correct a setting mix-up?",
+    "audio_prompt": "Which tip would help you correct a setting mix-up?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-006",
+      "alt_text": "🧠 Correct a setting mix-up; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for setting and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_04_answer",
+    "question": "Which response would correctly analyse an original story?",
+    "audio_prompt": "Which response would correctly analyse an original story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-007",
+      "alt_text": "📖 Analyse an original story; 🔎 beginning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Omar/librarian/kitten as characters",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Omar/librarian/kitten as characters This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_04_strategy",
+    "question": "Which tip would help you analyse an original story?",
+    "audio_prompt": "Which tip would help you analyse an original story?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-008",
+      "alt_text": "🧠 Analyse an original story; ➡️ Sequence plot; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can sequence events.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can sequence events.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_05_answer",
+    "question": "Which statement correctly explains this rule?",
+    "audio_prompt": "Which statement correctly explains this rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-009",
+      "alt_text": "📖 Rule; 🔎 ending; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Characters are who the story is about",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Characters are who the story is about This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_05_strategy",
+    "question": "Which tip would help you rule?",
+    "audio_prompt": "Which tip would help you rule?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-010",
+      "alt_text": "🧠 Rule; ➡️ Explain; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Using the rule for this English skill.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the rule for this English skill.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_06_answer",
+    "question": "Which statement correctly explains this worked example?",
+    "audio_prompt": "Which statement correctly explains this worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-011",
+      "alt_text": "📖 Worked example; 🔎 plot; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the worked example for this English skill",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the worked example for this English skill This matches the task.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_06_strategy",
+    "question": "Which tip would help you worked example?",
+    "audio_prompt": "Which tip would help you worked example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-012",
+      "alt_text": "🧠 Worked example; ➡️ Read story; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Track events across beginning, middle and end.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Track events across beginning, middle and end.",
+      "hint": "Track events across beginning, middle and end."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_07_answer",
+    "question": "Which statement correctly explains this discussion strategy?",
+    "audio_prompt": "Which statement correctly explains this discussion strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-013",
+      "alt_text": "📖 Discussion strategy; 🔎 character; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Name the feature, cite a word or event, and explain how it matters to the story.",
+        "is_correct": true
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Name the feature, cite a word or event, and explain how it matters to the story. This matches the task.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_07_strategy",
+    "question": "Which tip would help you discussion strategy?",
+    "audio_prompt": "Which tip would help you discussion strategy?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-014",
+      "alt_text": "🧠 Discussion strategy; ➡️ Name character; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Read story → Name character → Name setting → Sequence plot → Explain.",
+      "hint": "Characters usually act or feel in the story."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_08_answer",
+    "question": "Which statement correctly explains this common trap?",
+    "audio_prompt": "Which statement correctly explains this common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-015",
+      "alt_text": "📖 Common trap; 🔎 setting; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not ask where and when the story happens.",
+        "is_correct": false
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "A topic is not the plot; 'friendship' is an idea, while the plot tells what happens.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A topic is not the plot; 'friendship' is an idea, while the plot tells what happens. This matches the task.",
+      "hint": "Ask where and when the story happens."
+    }
+  },
+  {
+    "id": "AC9E1LE03-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE03",
+    "bank": "test",
+    "skill": "ac9e1le03_08_strategy",
+    "question": "Which tip would help you common trap?",
+    "audio_prompt": "Which tip would help you common trap?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-016",
+      "alt_text": "🧠 Common trap; ➡️ Name setting; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for setting and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use plot as one event only.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat character as any object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for setting and check the whole example.",
+      "hint": "Ask where and when the story happens."
+    }
+  }
+]
